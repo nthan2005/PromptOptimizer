@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill-B5Qt9EMX.js";console.log("[Popup] Loaded");chrome.runtime.sendMessage({type:"PING",id:`ping-${Date.now()}`,timestamp:Date.now()},e=>{chrome.runtime.lastError?console.error("[Popup] Error:",chrome.runtime.lastError):console.log("[Popup] Pong received:",e)});

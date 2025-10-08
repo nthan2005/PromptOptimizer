@@ -1,0 +1,51 @@
+{
+  "../../../../@crx/manifest": {
+    "file": "assets/crx-manifest.js-Cxj9Xcbk.js",
+    "name": "crx-manifest.js",
+    "src": "../../../../@crx/manifest",
+    "isEntry": true
+  },
+  "_modulepreload-polyfill-B5Qt9EMX.js": {
+    "file": "assets/modulepreload-polyfill-B5Qt9EMX.js",
+    "name": "modulepreload-polyfill"
+  },
+  "src/background/service-worker.ts": {
+    "file": "assets/service-worker.ts-ChFv56sv.js",
+    "name": "service-worker.ts",
+    "src": "src/background/service-worker.ts",
+    "isEntry": true
+  },
+  "src/content/content-script.ts": {
+    "file": "assets/content-script.ts-B8vrS4Iq.js",
+    "name": "content-script.ts",
+    "src": "src/content/content-script.ts",
+    "isEntry": true
+  },
+  "src/offscreen/offscreen.html": {
+    "file": "assets/offscreen-BISUn0Wq.js",
+    "name": "offscreen",
+    "src": "src/offscreen/offscreen.html",
+    "isEntry": true,
+    "imports": [
+      "_modulepreload-polyfill-B5Qt9EMX.js"
+    ]
+  },
+  "src/options/options.html": {
+    "file": "assets/options-B1Mc7QTl.js",
+    "name": "options",
+    "src": "src/options/options.html",
+    "isEntry": true,
+    "imports": [
+      "_modulepreload-polyfill-B5Qt9EMX.js"
+    ]
+  },
+  "src/popup/popup.html": {
+    "file": "assets/popup-DHbZHNI-.js",
+    "name": "popup",
+    "src": "src/popup/popup.html",
+    "isEntry": true,
+    "imports": [
+      "_modulepreload-polyfill-B5Qt9EMX.js"
+    ]
+  }
+}
