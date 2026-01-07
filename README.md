@@ -1,6 +1,7 @@
 # PromptOptimizer
 Local-first Chrome/Edge MV3 extension that optimizes your ChatGPT prompts on-page. All retrieval, ranking, and filling run in the browser—no post-install network calls—so drafts stay private while still getting ranked template suggestions.
 
+GITHUB: https://github.com/nthan2005/PromptOptimizer
 ## What it does
 - Captures the ChatGPT compose box via a content script overlay (“Optimize” button, status, results, collapse toggle).
 - Normalizes and expands your draft (stopwords, NFKD folding, optional hyphen preservation, synonym expansion) for lexical recall.
