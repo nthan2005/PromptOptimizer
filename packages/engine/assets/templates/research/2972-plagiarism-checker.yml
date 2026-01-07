@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2972
+# teaser: Check accurate plagiarism for my content
+- id: 2972-plagiarism-checker
+  title: Plagiarism Checker
+  tags:
+    - research
+    - plagiarism
+    - checker
+  family: Research
+  body:
+    Your task is to check the Plagiarism of given text and to check it's already
+    published or not. All output should be in [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

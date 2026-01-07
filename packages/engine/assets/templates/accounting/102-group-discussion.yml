@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 102
+# teaser: Create a plan discussion with up to 4 participants (All participants will give constructive
+# feedback and new ideas on how to improve)
+- id: 102-group-discussion
+  title: Group Discussion
+  tags:
+    - accounting
+    - group
+    - discussion
+  family: Accounting
+  body:
+    "[TARGETLANGUAGE] Generate a [PROMPT] between the following particints (Pedro,
+    Adrian, Alexis, Sergio) where they point out areas for improvments regarding their
+    investigation problem. Example: Adrian: Hey, Pedro I belive you coul re write
+    the title in order to make it seem more interesting, sincte its currently boring.
+    Pedro: I see! you are totally correct, ill get on that Pedro: By the way Alexis,
+    I think you have a lot of spelling mistakes in your paper. Alexis: .... The Investigation
+    problem for each participant is the following: [PROMPT]: Â¿Como la falla de Communicacion,
+    la mala definiciÃ³n de alcance y la mala gestiÃ³n de riesgo dentro de los proyectos,
+    afectan de manera econÃ³mica a la empresa? [PROMPT]: Falta de programaciÃ³n de
+    mantenimiento en las cÃ¡maras de maduraciÃ³n de Jumex [PROMPT]: No se alcanza
+    el objetivo de ventas en una pasteleria [PROMPT]: Did not do the assignment."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

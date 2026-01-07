@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2241
+# teaser: Use the 80/20 Rule to learn what 20% of skills produce 80% of results
+- id: 2241-master-any-topic-80-20-rule
+  title: Master any Topic, 80/20 rule
+  tags:
+    - plan
+    - master
+    - any
+    - topic
+    - rule
+  family: Plan
+  body:
+    Identify the 20% of [PROMPT] that will yield 80% of the desired results and
+    provide a focused learning plan to master it. Please output in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

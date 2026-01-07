@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 114
+# teaser: Impressionist painting
+- id: 114-learn
+  title: Learn
+  tags:
+    - accounting
+    - learn
+  family: Accounting
+  body:
+    "[PROMPT] EWrite a long article in [TARGETLANGUAGE] Spanish and English with
+    a minimum of 1500 words and at least 4 headings and subheadings, including HI,
+    H2, H3, H4 headings. Use the"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

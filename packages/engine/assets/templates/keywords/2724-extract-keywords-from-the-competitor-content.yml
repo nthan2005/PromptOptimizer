@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2724
+# teaser: Use this prompt to extract the keywords from the competitor's content
+- id: 2724-extract-keywords-from-the-competitor-content
+  title: Extract Keywords From The Competitor Content
+  tags:
+    - keywords
+    - extract
+    - competitor
+    - content
+  family: keywords
+  body:
+    Your task is to extract all the keywords from the content that provided to
+    you. All output shell be in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

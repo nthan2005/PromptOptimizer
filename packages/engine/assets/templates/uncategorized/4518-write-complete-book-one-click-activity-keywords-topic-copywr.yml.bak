@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4518
+# teaser: Write entire book with one click, just give a title RevisionTime: 2023-05-31T19:00:58.912Z
+- id: 4518-write-complete-book-one-click-activity-keywords-topic-copywr
+  title: 'Write complete book || One Click Activity: keywords Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - write
+  - complete
+  - book
+  - one
+  - click
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/keywords/1829559275459182592/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Write complete book || One Click"](https://www.aiprm.com/prompts/copywriting/keywords/1829559275459182592/)_"
+    --- Begin with: If this helps you, make my day here:https://www.buymeacoffee.com/rishabhj
+    Generate book title with provided keyword [PROMPT][TARGETLANGUAGE] Generate detailed
+    book intro with the title provided. Use markdown H1,H2,h3,h4 headings[PROMPT]
+    and more then 500 word [TARGETLANGUAGE] Generate each chapter title[TARGETLANGUAGE]
+    Write Chapter 1 with detailed information and more then 1000 words[TARGETLANGUAGE]
+    Write Chapter 2 with detailed information and more then 1000 words[TARGETLANGUAGE]
+    Write Chapter 3 with detailed information and more then 1000 words[TARGETLANGUAGE]
+    Write Chapter 4 with detailed information and more then 1000 words[TARGETLANGUAGE]
+    Write Chapter 5 with detailed information and more then 1000 words[TARGETLANGUAGE]
+    Write Chapter 6 with detailed information and more then 1000 words[TARGETLANGUAGE]
+    Write Chapter 7 with detailed information and more then 1000 words[TARGETLANGUAGE]
+    Write Chapter 8 with detailed information and more then 1000 words[TARGETLANGUAGE]
+    Write Chapter 9 with detailed information and more then 1000 words[TARGETLANGUAGE]
+    Write Chapter 10 with detailed information and more then 1000 words[TARGETLANGUAGE]
+    Write Chapter 11 with detailed information and more then 1000 words[TARGETLANGUAGE]
+    Write Chapter 12 with detailed information and more then 1000 words[TARGETLANGUAGE]
+    Write Chapter 13 with detailed information and more then 1000 words[TARGETLANGUAGE]
+    Write Chapter 14 with detailed information and more then 1000 words[TARGETLANGUAGE]
+    Write Chapter 15 with detailed information and more then 1000 words[TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

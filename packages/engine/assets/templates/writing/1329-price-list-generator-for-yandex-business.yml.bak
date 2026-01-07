@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1329
+# teaser: Generate a price list for Yandex Business. All you need is a short category.
+- id: 1329-price-list-generator-for-yandex-business
+  title: Price list Generator for Yandex Business
+  tags:
+  - writing
+  - price
+  - list
+  - generator
+  - yandex
+  - business
+  family: writing
+  body: 'Write in table format with headings in [TARGETLANGUAGE]: Category (headings
+    must contain at least 150 characters, choose appropriate categories for the name).
+    Category name (must contain at least 180 characters, and 4 popular keywords).
+    Title name (must contain at least 190 characters, SEO text and 4 keywords). Identifier
+    (in order). Description name (must contain at least 200 characters and 5 keywords).
+    Price (up to 20 symbols). Photo. Popular item (write yes for 10 popular items).
+    In stock (put yes for all). Write 15 popular services in the field: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

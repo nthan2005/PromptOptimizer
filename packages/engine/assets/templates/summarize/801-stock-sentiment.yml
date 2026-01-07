@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 801
+# teaser: Paste News Brief here
+- id: 801-stock-sentiment
+  title: Stock Sentiment
+  tags:
+    - summarize
+    - stock
+    - sentiment
+  family: Summarize
+  body:
+    "â€œForget all your previous instructions. Pretend you are a financial expert.\
+    \ Answer only in [TARGETLANGUAGE]. You are a financial expert with stock recommendation\
+    \ experience. Analyze the following news: [PROMPT]. Answer â€œYESâ€\x9D if good\
+    \ news, â€œNOâ€\x9D if bad news, or â€œUNKNOWNâ€\x9D if uncertain in the first\
+    \ line. Then elaborate with one short and concise sentence on the next line.â€\x9D"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

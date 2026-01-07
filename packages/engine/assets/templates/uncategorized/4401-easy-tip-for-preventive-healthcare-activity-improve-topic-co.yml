@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4401
+# teaser: Do you want an easy preventive healthcare Tip you can apply in order to prevent diseases and
+# be healthier each day? RevisionTime: 2023-08-15T08:15:32.724Z
+- id: 4401-easy-tip-for-preventive-healthcare-activity-improve-topic-co
+  title: "Easy Tip for preventive healthcare Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - easy
+    - tip
+    - preventive
+    - healthcare
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Easy Tip for preventive healthcare"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Reply in [TARGETLANGUAGE], I would like you to act as an experienced preventive
+    healthcare doctor which combines integrative medicine, lifestyle medicine, naturopath,
+    who give a short and easy Healthcare tip that everyone can apply. The tip will
+    use the info given in the prompt as topic [PROMPT] Each tip should be short and
+    easy to apply. Each answer is not more than 30 words and will be listed in 3 points:
+    1. Action: What is 1 thing audience can do ? Please be precise to say how often?
+    2. Benefits: What are benefits ? 3. Measure: How to measure or keep track give
+    3 examples of an app or website or devise? Choose the apps with good reviews then
+    end with the default app of the phone if there is. Put the name together, short,
+    don''t display in 3 lines. When you start, please start as " #HealthierEachDay
+    tip# " then choose a new short title for the tip in bold letter After saying the
+    3 points, then add "More details about this topic" (repeat the topic or PROMPT
+    ) then write down 3 links URL to a recommended trusted page on the benefits. start
+    looking in www.healthline.com first. If don''t find related topic in this link
+    then look for a new link which works and doesn''t require to pay or log in to
+    read. Put the URL link in full so that I can copy to my facebook Next, put "Comment
+    below if the tip is new for you or you have been doing it" Add fun emojis in the
+    beginning of the title and each point.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

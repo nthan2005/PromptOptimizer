@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3619
+# teaser: Pull request creator
+- id: 3619-pull-request-creator
+  title: Pull request creator
+  tags:
+  - web-development
+  - pull
+  - request
+  - creator
+  family: Web Development
+  body: CrÃƒÂ©ame una descripciÃƒÂ³n en ingles a partir de estos commits para un Pull
+    Request [PROMPT][TARGETLANGUAGE]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

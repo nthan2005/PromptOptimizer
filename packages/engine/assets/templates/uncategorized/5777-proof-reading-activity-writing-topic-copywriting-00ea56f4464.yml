@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5777
+# teaser: Proof reading RevisionTime: 2023-08-21T13:04:26.431Z
+- id: 5777-proof-reading-activity-writing-topic-copywriting-00ea56f4464
+  title: "Proof reading Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - proof
+    - reading
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Proof reading"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- PrÃƒÂ¼fe auf Fehler und Grammatik und fette die Fehler ohne stilistische Verbesserungen.
+    Der Output soll in [TARGETLANGUAGE] sein. Der Text der ÃƒÂ¼berprÃƒÂ¼ft werden soll
+    ist [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

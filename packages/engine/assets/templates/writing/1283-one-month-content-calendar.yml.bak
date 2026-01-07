@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1283
+# teaser: Get a strategically organized 4-week content calendar that targets your primary keyword
+- id: 1283-one-month-content-calendar
+  title: One Month Content Calendar
+  tags:
+  - writing
+  - one
+  - month
+  - content
+  - calendar
+  family: writing
+  body: Please [TARGETLANGUAGE] writing. Help me plan a one-month content schedule
+    for my blog targeting specific long-tail keywords related to my main keyword "[PROMPT]".
+    I don't understand other languages. Please focus on transactional search terms
+    and create clickbait-style titles for each blog post. Organize each blog post
+    title in a nice looking table so that it looks like a calendar. Organize the titles
+    in a table that resembles a calendar, with each week in a separate table labeled
+    "CONTENT CALENDAR FOR KEYWORD" and replace \"KEYWORD\" with the keyword provided
+    in the prompt in all caps.
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7902
+# teaser: Generate a keyword cluster including 50 short-tail, 50 medium-tail and 50 long-tail keywords
+# from this one: [KEYWORD] RevisionTime: 2023-06-22T09:07:35.734Z
+- id: 7902-keyword-cluster-generator-activity-keywords-topic-seo-84c5d6
+  title: 'Keyword cluster generator Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - keyword
+  - cluster
+  - generator
+  - activity
+  - keywords
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1793634292245721088/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Keyword cluster generator"](https://www.aiprm.com/prompts/seo/keywords/1793634292245721088/)_"
+    --- Write a matrix and generate at least 50 new keywords for each keyword category.
+    5 columns for the dimensions: - Search intent (informational, transactional, navegational...)
+    - Funnel segment (awareness, consideration, conversion...) - Short-tail keywords
+    - Medium-tail keywwords - Long-tail keywords. The keywords need to be generated
+    in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

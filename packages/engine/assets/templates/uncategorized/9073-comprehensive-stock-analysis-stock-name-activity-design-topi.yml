@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9073
+# teaser: Create a detailed stock analysis report including financial data, technical indicators, and
+# SWOT analysis for [STOCK_NAME]. RevisionTime: 2024-10-15T09:21:24.356Z
+- id: 9073-comprehensive-stock-analysis-stock-name-activity-design-topi
+  title: "Comprehensive stock analysis: [STOCK_NAME] Activity: Design Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - comprehensive
+    - stock
+    - analysis
+    - name
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Comprehensive stock analysis: [STOCK_NAME]"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE] a detailed stock analysis report for [PROMPT].
+    The report should include financial, technical, and SWOT analysis of the stock,
+    along with a conclusion on whether it''s a good long-term investment.'
+  enabled: true
+  required:
+    - prompt
+    - stock_name
+    - targetlanguage

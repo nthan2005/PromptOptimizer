@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2828
+# teaser: Create tags for the article under given URL.
+- id: 2828-url-based-tag-maker-for-articles-with-seo-parameters
+  title: URL based TAG maker for articles with SEO parameters
+  tags:
+    - keywords
+    - url
+    - based
+    - tag
+    - maker
+    - articles
+  family: keywords
+  body:
+    "Your task is to create and organise in table format TAGS for an article under
+    [PROMPT]. TAGS shouldn't be longer than 20 letters. The amount of TAGS should
+    be 20 or more. All output shall be in [TARGETLANGUAGE]. Organise TAGS into 3 columns.
+    Names of the columns shall be respectively: 1. Name 2. SEO value 3. Article Relevance
+    In first column show the actual tag. In the second column, assign a value in the
+    range 1-100 to the tag. This value shall be based on the strength of the keyword
+    that the tag represents. In the third column show a counter of how many times
+    in the content under the [PROMPT] the TAG is used or how many times the content
+    the TAG describes is present. At the end of the text, add a note explaining what
+    every column represents. Make sure that everything is in [TARGETLANGUAGE]."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

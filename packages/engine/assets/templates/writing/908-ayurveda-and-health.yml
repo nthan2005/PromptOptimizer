@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 908
+# teaser: Write about Ayurveda, yoga, Health and Wellness
+- id: 908-ayurveda-and-health
+  title: Ayurveda and Health
+  tags:
+    - writing
+    - ayurveda
+    - health
+  family: writing
+  body:
+    "Your task is to write in details about 200 words to 1000 words the prompt
+    i give you about Health and wellness, ayurveda, yoga , natural home remedies etc
+    . All output should be in [TARGETLANGUAGE] . The details you must write about
+    this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

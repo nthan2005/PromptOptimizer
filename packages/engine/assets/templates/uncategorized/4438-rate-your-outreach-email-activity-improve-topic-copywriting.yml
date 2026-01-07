@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4438
+# teaser: Have ChatGPT rate your outreach emails from 1-10 and improve it for you. It will also tell
+# you what you can do better to increase interest and respond rate. RevisionTime:
+# 2023-06-27T20:14:11.577Z
+- id: 4438-rate-your-outreach-email-activity-improve-topic-copywriting
+  title: "Rate your outreach email Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - rate
+    - outreach
+    - email
+    - activity
+    - improve
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Rate your outreach email "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to rate the outreach email I give you out of 1-10, tell me what
+    i can do better, and improve it. All this should be from a viewpoint of trying
+    to get the prospect of the email to respond be interested. All output shall be
+    in [TARGETLANGUAGE]. The text to rate is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

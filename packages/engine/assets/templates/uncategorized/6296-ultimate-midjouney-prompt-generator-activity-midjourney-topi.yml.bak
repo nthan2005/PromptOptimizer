@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6296
+# teaser: Describe the image that you want RevisionTime: 2023-04-01T03:10:19.566Z
+- id: 6296-ultimate-midjouney-prompt-generator-activity-midjourney-topi
+  title: 'Ultimate Midjouney Prompt Generator Activity: Midjourney Topic: Generative-AI-b983edfcaa490850'
+  tags:
+  - uncategorized
+  - ultimate
+  - midjouney
+  - prompt
+  - generator
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/midjourney/1807581053486096384/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Ultimate Midjouney Prompt Generator"](https://www.aiprm.com/prompts/generative/midjourney/1807581053486096384/)_"
+    --- [TARGETLANGUAGE] The KEYWORD = [PROMPT] translated to english You will now
+    act as a prompt generator for a generative AI called "Midjourney". Midjourney
+    AI generates images based on given prompts. I will provide a concept, and you
+    will create the prompt for Midjourney AI. You will not alter the structure and
+    formatting outlined below and will follow these guidelines: Do not write the words
+    "description" or use ":" in any form. Write each prompt in one line without using
+    a return. Structure of the'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

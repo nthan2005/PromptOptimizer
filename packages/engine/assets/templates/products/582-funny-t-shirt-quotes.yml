@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 582
+# teaser: Create funny t-shirt quotes based on your input.
+- id: 582-funny-t-shirt-quotes
+  title: Funny T-Shirt Quotes
+  tags:
+    - products
+    - funny
+    - shirt
+    - quotes
+  family: Products
+  body:
+    "I need 10 funny t-shirt quotes for people who like [PROMPT] Follow these
+    strategies: the quotes must not have more than 40 charakters All output shall
+    be in [TARGETLANGUAGE]."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

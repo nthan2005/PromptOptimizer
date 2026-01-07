@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7564
+# teaser: Note: You need to provide a document which have title, Description Body and Review Rating
+# This Update is been Made due to Limitation in accepting Characters to GPT This Prompt will summarize
+# the bad customer reviews of a product, How many number of times its repeating and also give you AI
+# driven solution based on the problems. RevisionTime: 2024-04-24T21:44:58.924Z
+- id: 7564-amazon-product-review-analyzer-updated-activity-summarize-to
+  title: "Amazon Product Review Analyzer (updated) Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - amazon
+    - product
+    - review
+    - analyzer
+    - updated
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Amazon Product Review Analyzer (updated)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as a Summarizer. Summarize the problems mention in a [PROMPT]. Read the
+    Title, body and rating Colum in the Excel Document. Analyze Body which have 4,
+    3, 2, 1 rating in [English]. mention how many numbe of times a problem is repeating
+    in different Rows of body and present a summarice form of problem in nullet point.
+    Suggest the Solution based on the problems in [TARGETLANGUAGE] Prioritize in providing
+    solution of those problems repeating higher number of times. Example Long shoes
+    are not suitable for shoe organizers You need to understand the design of the
+    product and based on the utility suggest the solution.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

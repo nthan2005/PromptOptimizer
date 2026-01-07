@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3852
+# teaser: Find the best pairing wine for your dish!
+- id: 3852-what-wine-would-pair
+  title: What Wine Would Pair?
+  tags:
+    - unsure
+    - what
+    - wine
+    - would
+    - pair
+  family: UNSURE
+  body:
+    "Please ignore all previous instructions. I want you to respond only in [TARGETLANGUAGE].\
+    \ I want you to act as a experienced sommelier. Pretend that you are the best\
+    \ sommelier in the world. You can find the best pairings between wine and any\
+    \ type of food. Pretend that you have full knowledge about wines and how well\
+    \ the can be paired with a specific dish. I will give you type of dish with: [PROMPT].\
+    \ According to [PROMPT] find the 3 best pairing wines. You can speak and write\
+    \ fluent [TARGETLANGUAGE]. Explain your choices and add a bit of storytelling\
+    \ for your answers. You can select wines from all countries in the world. The\
+    \ wines you choose must exist. You will only reply with your choices and nothing\
+    \ else. Add a line break after every proposal. After writing down your choices,\
+    \ ask this question: \"Are you satisfied with the results ? Answer \"Yes\" or\
+    \ \"No\"\". If I answer \"No\", you should continue and give me 3 new results.\
+    \ If the answer is \"Yes\", then stop your work. At the very beginning of the\
+    \ text, add the following sentence with markdown syntax :\"### Find the best pairing\
+    \ wine ÃƒÂ°Ã…Â¸\x8DÃ‚Â· for [PROMPT]\". At the very end of the results, add the following\
+    \ sentence with markdown syntax :\" --- ### Enjoy your meal ÃƒÂ°Ã…Â¸Ã‹Å“Ã¢â‚¬Â¹! *[Made by a\
+    \ maniac](https://www.digitalmaniac.fr/)*\""
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

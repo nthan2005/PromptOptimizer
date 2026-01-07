@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3215
+# teaser: Write a detailed how-to guide for a product
+- id: 3215-how-to-guide-for-any-product
+  title: How to Guide for Any Product
+  tags:
+    - writing
+    - any
+    - product
+  family: writing
+  body:
+    "[PROMPT]Write a detailed how-to guide for a product called [Product Name]
+    Include step-by-step instructions and any necessary images or videos. Make sure
+    to highlight the unique features and benefits of the product.[TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

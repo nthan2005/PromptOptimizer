@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 667
+# teaser: Create speaker note for your presentations
+- id: 667-create-speaker-note
+  title: Create speaker note
+  tags:
+    - script-writing
+    - speaker
+    - note
+  family: Script Writing
+  body:
+    I'll give you a bullet from one of the slides from my presentation and create
+    a speaker note from it in [TARGETLANGUAGE]. The length of this slide should be
+    2 minutes. Read following contents [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

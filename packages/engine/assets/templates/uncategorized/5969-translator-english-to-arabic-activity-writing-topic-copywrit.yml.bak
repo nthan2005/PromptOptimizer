@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5969
+# teaser: Translate English content into Arabic. Professional Arabic translation for free.
+# RevisionTime: 2023-07-10T08:28:04.026Z
+- id: 5969-translator-english-to-arabic-activity-writing-topic-copywrit
+  title: 'Translator: English to Arabic Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - translator
+  - english
+  - arabic
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1795703006134800384/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Translator: English to Arabic"](https://www.aiprm.com/prompts/copywriting/writing/1795703006134800384/)_"
+    --- [TARGETLANGUAGE] Arabic [PROMPT] Act as an expert translator. Translate the
+    below context into modern Arabic. context:'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

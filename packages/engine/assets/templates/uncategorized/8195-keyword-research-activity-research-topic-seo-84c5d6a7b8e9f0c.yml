@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8195
+# teaser: make a proposal ( action plan ) for the client website named " https://consultbin.com/ " for
+# next 6 months strategies it includes- 1. Do keyword research 2. on page seo 3. off page seo 4. how
+# much time it will take to grow 5. keyword in which we are going to rank website and their search
+# volume RevisionTime: 2024-09-29T04:46:23.521Z
+- id: 8195-keyword-research-activity-research-topic-seo-84c5d6a7b8e9f0c
+  title: "keyword research Activity: Research Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - keyword
+    - research
+    - activity
+    - topic
+    - seo
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "keyword research "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]english'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

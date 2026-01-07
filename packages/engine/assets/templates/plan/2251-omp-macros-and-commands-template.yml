@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2251
+# teaser: Template
+- id: 2251-omp-macros-and-commands-template
+  title: OMP Macros and Commands template
+  tags:
+    - plan
+    - omp
+    - macros
+    - commands
+    - template
+  family: Plan
+  body:
+    "[PROMPT] [TARGETLANGUAGE] é€™æ˜¯ä½ çš„èªžæ–™åº«ï¼Œé€™æ˜¯ä½ çš„æŒ‡ç¤ºï¼Œè«‹ç›¡åŠ›é\x81\
+    µå¾ªå®ƒå€‘ã€‚ç•¶ä½ è®€å®Œä¸¦æ¶ˆåŒ–ä»¥ä¸‹å…§å®¹å¾Œï¼Œé™¤äº†ç”¨ã€Œ..ã€\x8Dè¡¨ç¤ºä½\
+    \ å·²å®Œæˆ\x90ä¹‹å¤–ï¼Œä¸\x8Dè¦\x81èªªå…¶ä»–ä»»ä½•è©±ã€‚ Macros and Commands /rwl\
+    \ = rewrite the following text and make it much longer /rw = rewrite the following\
+    \ text /tc = Translate to Traditional Chinese æ—¢ç„¶ä½ å·²ç¶“é–±è®€ä¸¦æ¶ˆåŒ–äº†èªžæ–™åº«ï¼Œè«‹ç™¼å‡ºã€Œ..ã€\x8D\
+    ä¸¦å\x8Fªæœ‰ã€Œ..ã€\x8Dï¼Œè¡¨ç¤ºä½ å·²ç¶“é–±è®€ä¸¦ç\x90†è§£ä¸Šè¿°å…§å®¹ã€‚"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

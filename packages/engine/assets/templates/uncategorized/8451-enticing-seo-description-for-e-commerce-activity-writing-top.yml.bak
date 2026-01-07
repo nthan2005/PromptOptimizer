@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8451
+# teaser: Writes an enticing SEO description curated for E-commerce RevisionTime: 2023-03-20T02:56:54Z
+- id: 8451-enticing-seo-description-for-e-commerce-activity-writing-top
+  title: 'Enticing SEO Description for E-commerce Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - enticing
+  - seo
+  - description
+  - commerce
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1803222332106596352/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Enticing SEO Description for E-commerce"](https://www.aiprm.com/prompts/seo/writing/1803222332106596352/)_"
+    --- I want you to act as an SEO Specialist and write a compelling and enticing
+    SEO meta description for an e-commerce website selling home improvement products
+    with only 155 character limit. Use the product title [PROMPT] as the keywords
+    for the meta description. Make sure to include the price in the meta description
+    and use words that reflects a sale, an on-going discount or promotion to entice
+    users and give a sense of urgency. Write the meta description in [TARGETLANGUAGE]
+    language'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

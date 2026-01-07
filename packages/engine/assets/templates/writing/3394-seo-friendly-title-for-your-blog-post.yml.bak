@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3394
+# teaser: Develop an SEO-friendly title for your blog post.
+- id: 3394-seo-friendly-title-for-your-blog-post
+  title: SEO-friendly title for your blog post.
+  tags:
+  - writing
+  - seo
+  - friendly
+  - title
+  - blog
+  - post
+  family: writing
+  body: 'Imagine: You are an SEO expert and create fantastic catchy titles for blog
+    posts in the food scene. When creating these titles, you use 20 to 30% common
+    words, 10% uncommon words, 1 emotional word, 1 power word. Your titles create
+    a positive feeling that encourages clicking on the content. [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

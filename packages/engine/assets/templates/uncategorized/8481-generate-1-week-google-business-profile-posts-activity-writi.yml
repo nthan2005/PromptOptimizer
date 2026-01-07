@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8481
+# teaser: Generate 1 Week SEO optimized Google Business Profile Posts from Monday to Sunday
+# RevisionTime: 2023-06-20T13:55:31.75Z
+- id: 8481-generate-1-week-google-business-profile-posts-activity-writi
+  title: "Generate 1 Week Google Business Profile Posts Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - generate
+    - week
+    - google
+    - business
+    - profile
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate 1 Week Google Business Profile
+    Posts"](https://github.com/nthan2005/PromptOptimizer)_" ---
+    Act as a native English speaker to create detailed explanations and expand content
+    for given requirements. Generate posts for one week (including days of the week)
+    with a word count of between 700 to 1000 characters for each post created. Include
+    hashtags under each post. I will provide the business update for which the content
+    needs to be written, as well as the business name, location, audience, and keywords:
+    All output shall be in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1020
+# teaser: AI-powered tool that helps you write professional and personalized cover letters in minutes.
+- id: 1020-cover-letter-for-a-job-title
+  title: Cover Letter for a Job Title
+  tags:
+    - writing
+    - cover
+    - letter
+    - job
+    - title
+  family: writing
+  body:
+    I want you to act as a candidate looking for job. Write a cover letter for
+    position in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

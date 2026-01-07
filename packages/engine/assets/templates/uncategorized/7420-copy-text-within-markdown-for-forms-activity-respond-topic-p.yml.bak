@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7420
+# teaser: Create a codeblock markdown with plain text inside RevisionTime: 2025-02-26T06:59:33.109Z
+- id: 7420-copy-text-within-markdown-for-forms-activity-respond-topic-p
+  title: 'Copy Text within Markdown for Forms Activity: Respond Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - copy
+  - text
+  - within
+  - markdown
+  - forms
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/2060223597721178112/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Copy Text within Markdown for Forms"](https://www.aiprm.com/prompts/productivity/respond/2060223597721178112/)_"
+    --- for the prompt ``` [PROMPT] ``` respond in [TARGETLANGUAGE] in FORMAT ---
+    Title with or without markdown if relevant ``` Answer in plain text ``` --- Chat
+    UI shows a copy button, easier as a user to copy paste within forms'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

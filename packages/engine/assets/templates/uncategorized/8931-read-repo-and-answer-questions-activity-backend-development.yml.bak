@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8931
+# teaser: Read github repo and answer my question: [question.] RevisionTime: 2023-03-06T17:56:00.614Z
+- id: 8931-read-repo-and-answer-questions-activity-backend-development
+  title: 'Read Repo and answer questions Activity: Backend Development Topic: SoftwareEngineering-f1858b980c341d28'
+  tags:
+  - uncategorized
+  - read
+  - repo
+  - answer
+  - questions
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1798383281327308800/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Read Repo and answer questions"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1798383281327308800/)_"
+    --- You are going to act like a tutor to me, and you should tell me information
+    about the github repository below. You should always speek [TARGETLANGUAGE]. Read
+    this github repository code: [repoAddress], and answer my questions:[PROMPT].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

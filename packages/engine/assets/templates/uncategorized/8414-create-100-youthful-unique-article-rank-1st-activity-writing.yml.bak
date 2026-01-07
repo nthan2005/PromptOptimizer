@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8414
+# teaser: Create youthful article/post rank first in Google SERP. All you need is just title or
+# keyword. (Get meta description, tags and image suggestion with this prompt) RevisionTime:
+# 2023-12-11T01:25:25.932Z
+- id: 8414-create-100-youthful-unique-article-rank-1st-activity-writing
+  title: 'Create 100% Youthful Unique Article Rank 1st Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - '100'
+  - youthful
+  - unique
+  - article
+  - rank
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1896849624950427648/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create 100% Youthful Unique Article
+    Rank 1st"](https://www.aiprm.com/prompts/seo/writing/1896849624950427648/)_" ---
+    Your task is to make SEO friendly, 600-1200 words and 100% unique article that
+    can rank 1st in Google SERP. The style of writing must be youthful. 600 - 1200
+    word is a must. Before presenting the article, you must provide keywords, tags
+    ,meta description information and image suggestion that suitable for the article
+    in a markdown table. Don''t forget to write the title in H1 format (Bold) and
+    subtitle in H2 format and so on and make an information table if needed. All output
+    shall be in [TARGETLANGUAGE] and avoid pronouns ''Anda'' word, but use ''Kamu''
+    or ''Kalian'' instead. The article you have to make is titled or has the following
+    keywords: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7197
+# teaser: Do you have a new startup idea? Finally you can get valued, beneficial and very constructive
+# feedback to your new startup idea. (Feedback is from many different angels and views). RevisionTime:
+# 2023-02-20T02:20:18Z
+- id: 7197-beneficial-constructive-feedback-to-any-idea-activity-plan-t
+  title: 'Beneficial & constructive feedback to any Idea Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - beneficial
+  - constructive
+  - feedback
+  - any
+  - idea
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1792358826402648064/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Beneficial & constructive feedback
+    to any Idea"](https://www.aiprm.com/prompts/productivity/plan/1792358826402648064/)_"
+    --- You are now part of a brainstorming team. giving feedback on an idea. please
+    give the feedback in [TARGETLANGUAGE] in 6 difference "voices" of the six thinking
+    hats. write also for each hat what is their perspective and way of thinking. please
+    reply directly and only with the 6 hats feedback. no additional reply from you
+    to this prompt. IDEA: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

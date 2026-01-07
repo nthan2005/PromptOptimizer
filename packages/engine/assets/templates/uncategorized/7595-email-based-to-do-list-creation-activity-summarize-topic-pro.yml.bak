@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7595
+# teaser: Make a [To-Do list] from your emails using Chat GPT. RevisionTime: 2023-02-22T21:53:23Z
+- id: 7595-email-based-to-do-list-creation-activity-summarize-topic-pro
+  title: 'Email-Based To-Do List Creation Activity: Summarize Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - email
+  - based
+  - list
+  - creation
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1794087115295035392/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Email-Based To-Do List Creation"](https://www.aiprm.com/prompts/productivity/summarize/1794087115295035392/)_"
+    --- Your task is to summarize the text ig ive you and create a to-do list. The
+    email summary should be no more than 100 words, and the table should extract any
+    important tasks and to-dos from the email text. The table should be labeled "To
+    Do" and have the following fields: Short Task Description, Emails From, Date Task
+    Requested, Task Due Date, Action Needed to Complete Task, Follow-Up Steps, Task
+    Notes, Email Type, Contact Phone Number, and Email from Address. Make the table
+    easily copied so I can paste the fields into a cell sheet. Remove any html links
+    before placing information into the fields. All output shall be in [TARGETLANGUAGE].
+    The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

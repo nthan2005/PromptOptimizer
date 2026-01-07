@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9363
+# teaser: Give a keyword describing your mental disorder. Example â€œderealizationâ€. RevisionTime:
+# 2023-03-15T20:54:25Z
+- id: 9363-insights-and-technics-against-mental-disorders-activity-writ
+  title: 'Insights and Technics Against Mental Disorders Activity: writing Topic:
+    Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - insights
+  - technics
+  - against
+  - mental
+  - disorders
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1801684324802887680/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Insights and Technics Against Mental
+    Disorders"](https://www.aiprm.com/prompts/unsure/writing/1801684324802887680/)_"
+    --- I suffer from [PROMPT] disorder(s). Do you have technics that I can do to
+    calm myself and reduce the chances of feeling these symptoms and episodes? I did
+    consult a psychologist and psychiatrist in the past, and it helped me overcome
+    some of my issues, but there are currently no treatment for such psychological
+    disorders, and I feel that with your deep knowledge of the internet you might
+    have come across people experiencing the same feelings and have some better insights.
+    Please write in [TARGETLANGUAGE] language.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

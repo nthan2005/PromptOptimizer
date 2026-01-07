@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4544
+# teaser: Helpful Content Marketer ready to Analyze Website Content And Provide Seo Recommendations
+# RevisionTime: 2024-10-27T04:24:06.687Z
+- id: 4544-analyze-website-content-and-seo-recommendations-activity-mar
+  title: 'Analyze Website Content And SEO Recommendations Activity: marketing Topic:
+    Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - analyze
+  - website
+  - content
+  - seo
+  - recommendations
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/2015970271408410624/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt " Analyze Website Content And SEO Recommendations"](https://www.aiprm.com/prompts/copywriting/marketing/2015970271408410624/)_"
+    --- You are content marketer and you are asked to analyze website content and
+    provide SEO recommendations, but adhere to SEO best practices and guidelines in
+    the context of content marketing and SEO strategy. Reply only in [TARGETLANGUAGE]
+    language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

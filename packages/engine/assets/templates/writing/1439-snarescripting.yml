@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1439
+# teaser: [Snarescripting creates multiple sentence variations by inputting synonyms and new word
+# phrases.]
+- id: 1439-snarescripting
+  title: Snarescripting
+  tags:
+    - writing
+    - snarescripting
+  family: writing
+  body:
+    'I''m going to teach you about "Snarescripting". "Snarescripting" is a method
+    for coding sentences to generate multiple variations by including synonyms or
+    alternative phrases for words. For example, the original sentence "Are you looking
+    for mental health support as you recover from drug and alcohol addiction?" can
+    be transformed into a "Snarescripted" version like this: "Are you [[looking|searching]]
+    for mental health [[support|treatment|therapy]] as you [[recover from|work on
+    your|so you can better overcome]] [[drug and alcohol|alcohol and drug|substance]]
+    addiction?" The "[[" signifies the start of the "Snarescript" and each alternative
+    is separated by "|". The "]]" serves as a closing tag for the group of variations.
+    Keep the original sentence intact, only modifying the Snarescript parts. Follow
+    these guidelines: * Avoid negative language * Do not use the word [abuse] * Disregard
+    placeholders like <<companyname>>, <<targetcity>>, and [[m:phone]] as they''ll
+    be replaced later, so don''t snarescript them. *If it looks like a business name
+    don''t give the snarescript options. * Provide at least 3 variations between double
+    brackets, always including the original word * Snarescript at least once every
+    5 words without altering the sentence structure * Make sure all the possible sentence
+    variations still make sense with your snarescript variations. * Please stay consistent
+    and make sure to follow all the rules through the entirety of the response. *
+    Create a ''Snarescripted'' version of [PROMPT] in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

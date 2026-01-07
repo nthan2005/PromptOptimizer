@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2947
+# teaser: Create tags for blog article [Blog Title]
+- id: 2947-blog-tags-generator
+  title: Blog Tags Generator
+  tags:
+    - research
+    - blog
+    - tags
+    - generator
+  family: Research
+  body: write 20 tags for blog articles separated with commas for the following title;
+  enabled: true
+  required: []

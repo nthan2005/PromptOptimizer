@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7100
+# teaser: Create a Factual Dispute letter based off of 609 of Fair Credit Reporting Act (FCRA).
+# RevisionTime: 2023-05-12T16:08:53.925Z
+- id: 7100-factual-credit-dispute-letter-activity-writing-topic-marketi
+  title: 'Factual Credit Dispute Letter Activity: writing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - factual
+  - credit
+  - dispute
+  - letter
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1822631647678558208/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Factual Credit Dispute Letter"](https://www.aiprm.com/prompts/marketing/writing/1822631647678558208/)_"
+    --- Your task is to create a credit dispute letter based on factual dispute 609
+    laws in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

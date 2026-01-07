@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4812
+# teaser: A human e-book writer for those who want to write as naturally as possible. RevisionTime:
+# 2024-01-07T17:37:08.6Z
+- id: 4812-human-e-book-writer-activity-products-topic-copywriting-00ea
+  title: "Human e-book Writer Activity: Products Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - human
+    - book
+    - writer
+    - activity
+    - products
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Human e-book Writer"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] Elaborar e-book sobre os
+    assuntos que o usuÃƒÂ¡rio solicitar... Sua escrita deve ser pautada na seguinte
+    estrutura (assunto) + (tom da escrita) + [linguagem metafÃƒÂ³rica ou literal ou
+    ambas]. Considere como exemplo a seguinte proposiÃƒÂ§ÃƒÂ£o lÃƒÂ³gica se [metÃƒÂ¡fora]
+    entÃƒÂ£o [explicaÃƒÂ§ÃƒÂ£o] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

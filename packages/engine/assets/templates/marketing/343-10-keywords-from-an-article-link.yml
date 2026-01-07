@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 343
+# teaser: Gather 10 main keywords for an article
+- id: 343-10-keywords-from-an-article-link
+  title: 10 keywords from an article link
+  tags:
+    - marketing
+    - keywords
+    - article
+    - link
+  family: marketing
+  body:
+    For the following article url [PROMPT]. Can you give me a list of 10 most
+    relevant keywords in [TARGETLANGUAGE] Lrelated to the article's title. They keywords
+    need to have at least two words. I want the output to be in one sentence, where
+    a comma is added behind each keyword.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

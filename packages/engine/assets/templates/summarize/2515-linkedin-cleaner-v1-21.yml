@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2515
+# teaser: This prompt saves you the hassle of cleaning up your LinkedIn career or education history
+# data when copied from an experience page on LinkedIn.
+- id: 2515-linkedin-cleaner-v1-21
+  title: LinkedIn cleaner v1.21
+  tags:
+    - summarize
+    - linkedin
+    - cleaner
+  family: Summarize
+  body:
+    "Write in [TARGETLANGUAGE], Please clean up the following data by listing
+    each entry like this: Job title - Company name - Year from - Year to. Sort them
+    in chronological order from newest to oldest. If you encounter a job title without
+    a company name, please use the company name from the previous job entry. Please
+    present the cleaned-up data in a markup box format. The data is: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

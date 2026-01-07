@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3597
+# teaser: Create code to register a Custom Post Type in WordPress called [CPTNAME]
+- id: 3597-custom-post-type-cpt-generator-for-wordpress
+  title: Custom Post Type (CPT) Generator for WordPress
+  tags:
+  - web-development
+  - custom
+  - post
+  - type
+  - cpt
+  - generator
+  family: Web Development
+  body: Generate code to create a Custom Post Type. The name of the CPT is [PROMPT].
+    The slug will be in singular. No explanations, only the code. The language is
+    [TARGETLANGUAGE].
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

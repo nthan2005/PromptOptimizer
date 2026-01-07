@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3698
+# teaser: Client Dealing
+- id: 3698-chat-with-client
+  title: Chat with Client
+  tags:
+    - unsure
+    - chat
+    - client
+  family: UNSURE
+  body:
+    "[TARGETLANGUAGE] I'm a professional [PROMPT] providing freelance services
+    on Fiverr. I just received a message from a client who need my service. You have
+    to communicate with him/her in a professional and appealing way to make him/her
+    buy my service. - I'll give you the each message sent by client, you have to
+    give me professional replies. - Try to reply as short as possible. - You can ask
+    professional questions to make client feel comfortable that he is in good hands.
+    - Reply must to be to the point. - Don't use Fiverr platform because we are already
+    communicating through fiverr."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

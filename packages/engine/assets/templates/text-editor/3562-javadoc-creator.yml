@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3562
+# teaser: Creates a JavaDoc for a given method(s)
+- id: 3562-javadoc-creator
+  title: JavaDoc Creator
+  tags:
+    - text-editor
+    - javadoc
+    - creator
+  family: Text Editor
+  body:
+    Write ONLY the JavaDoc (in idiomatic [TARGETLANGUAGE]) for the following method(s).
+    Push JavaDoc syntax to the limit by using tags and HTML where possible. Use @link
+    ANY time you refer to a symbol. Do NOT copy the method(s). [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

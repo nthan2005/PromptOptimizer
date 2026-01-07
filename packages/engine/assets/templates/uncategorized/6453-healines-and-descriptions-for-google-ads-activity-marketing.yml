@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6453
+# teaser: Create a very specific set of 30 headlines and 20 descriptions for your Google Ads campaign.
+# As more specific you are with your Campaign Goal and your Target Audience descriptions the better
+# the results would be. RevisionTime: 2023-05-23T12:16:02.91Z
+- id: 6453-healines-and-descriptions-for-google-ads-activity-marketing
+  title: "Healines and Descriptions for Google Ads Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - healines
+    - descriptions
+    - google
+    - ads
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Healines and Descriptions for Google
+    Ads"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- The text should be in the following language [TARGETLANGUAGE] [PROMPT] I want
+    you to use all your background about best practices for ad copywriting and act
+    as an expert to create the best headlines and descriptions for a Google Ads Campaign.
+    Consider this information to build each headline and description: The campaign''s
+    main keyword is [KEYWORD], the goal of the campaign is [CAMPAIGNGOAL], the campaign
+    is made for this specific audience [AUDIENCE] Make sure all the headlines and
+    descriptions are plagiarism free. Use a language that connects and resonate with
+    the specific audience. Consider the given characteristics of the specific audience
+    as insights to understand their pain-points and present a solution throughout
+    the headlines and descriptions. Give me thirty headlines. They should be 30 characters
+    maximum. Present them in a sheet format with the title HEADLINES (Max 30 Characters)
+    Give me thirty descriptions. The descriptions should be 90 characters maximum.
+    Present them in a sheet format with the title DESCRIPTIONS (Max 90 Characters)'
+  enabled: true
+  required:
+    - audience
+    - campaigngoal
+    - keyword
+    - prompt
+    - targetlanguage

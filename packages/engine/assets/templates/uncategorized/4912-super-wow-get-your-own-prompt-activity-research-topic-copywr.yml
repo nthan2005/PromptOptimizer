@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4912
+# teaser: Your task is to give the best prompt code only to the task (title ) Someone needs code to
+# write an article or make code to conduct research or make code to use in various fields, try to
+# write a deep and detailed code that includes all aspects RevisionTime: 2025-01-11T20:21:06.979Z
+- id: 4912-super-wow-get-your-own-prompt-activity-research-topic-copywr
+  title: "super wow - Get your own prompt Activity: Research Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - super
+    - wow
+    - own
+    - prompt
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "super wow - Get your own prompt "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] English [PROMPT] . Your task is to give the best prompt code
+    only to the task (title ) Someone needs code to write an article or make code
+    to conduct research or make code to use in various fields, try to write a deep
+    and detailed code that includes all aspects'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

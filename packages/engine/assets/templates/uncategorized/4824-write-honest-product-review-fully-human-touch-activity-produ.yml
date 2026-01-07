@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4824
+# teaser: Write a product review as if you have used the product. From your personal experince you'll
+# write a article about your product. RevisionTime: 2023-06-16T03:19:04.126Z
+- id: 4824-write-honest-product-review-fully-human-touch-activity-produ
+  title:
+    "Write Honest Product Review (Fully Human Touch) Activity: Products Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - write
+    - honest
+    - product
+    - review
+    - fully
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Write Honest Product Review (Fully
+    Human Touch)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You recently purchased a new product and would like to share your experience
+    by writing a product review article. Give a detailed account of your personal
+    experience with the product, compare to other 5 similar products with pricing,
+    why this products is best for you, discussing its pros and cons, Provide insights
+    into the product''s features, performance, usability, and any other relevant aspects
+    that shaped your opinion. Your review should be informative and assist potential
+    buyers in making an informed decision. Use the TARGETLANGUAGE to express your
+    thoughts. My first task is to write a product review article about [PROMPT]. The
+    target language is [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

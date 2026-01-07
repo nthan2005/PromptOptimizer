@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7725
+# teaser: Get an DETAILED topics list of a main topic RevisionTime: 2023-09-08T01:30:53.296Z
+- id: 7725-get-an-topics-list-activity-ideation-topic-seo-84c5d6a7b8e9f
+  title: "Get an topics list Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - topics
+    - list
+    - activity
+    - ideation
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Get an topics list"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Give me 100 semantically relevant, strictly as most related as and unique
+    topics under the main category of [PROMPT]. You consider all topics'' SEO potential
+    and prioritize them according to holistic SEO approach. [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

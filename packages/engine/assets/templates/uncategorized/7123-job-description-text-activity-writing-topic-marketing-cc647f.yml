@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7123
+# teaser: Create your job description for hiring new applicants RevisionTime: 2023-06-25T21:28:57.444Z
+- id: 7123-job-description-text-activity-writing-topic-marketing-cc647f
+  title: "Job Description Text Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - job
+    - description
+    - text
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Job Description Text"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create a job description for this job[JOBTITLE] in the [TARGETLANGUAGE] by
+    using the [VARIABLE1] for an intro and write a list for Job Responsibilities from
+    the data of [VARIABLE2] and Applicant Requirements / Qualifications from the data
+    of [VARIABLE3]. Write a motivating closing sentence for the application. [VARIABLE1]
+    [VARIABLE1:Company About us] [VARIABLE2] [VARIABLE2:Job Responsibilities] [VARIABLE3]
+    [VARIABLE3: Applicant Requirements / Qualifications] [PROMPT]'
+  enabled: true
+  required:
+    - jobtitle
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5191
+# teaser: Use this tool to write an Amazon ebook/KDP description. this save you a to of stress
+# RevisionTime: 2023-08-03T08:56:31.001Z
+- id: 5191-amazon-kdp-ebook-description-writer-activity-writing-topic-c
+  title: "Amazon KDP/ Ebook Description Writer Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - amazon
+    - kdp
+    - ebook
+    - description
+    - writer
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Amazon KDP/ Ebook Description Writer
+    "](https://github.com/nthan2005/PromptOptimizer)_" ---
+    Write a long Amazon ebook description using Pain thrice, Agitation and Solution
+    on [PROMPT]. Make it persuasive that the reader Who reads this will want to buy
+    and list the benefit of having this ebook (Note List the benefit), what they will
+    gain and call to action. All output shall be in [TARGETLANGUAGE] Rule this out
+    with lines And In The Very Bottom of the content you need to write Write "Get
+    Access to 1000 Chaptgpt'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

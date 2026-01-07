@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7672
+# teaser: Write a meta title maximum 70 characters for this [KEYWORD] RevisionTime:
+# 2023-03-02T18:45:24Z
+- id: 7672-5-best-meta-title-by-adil-activity-ideation-topic-seo-84c5d6
+  title: "5 Best Meta Title by Adil Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - meta
+    - title
+    - adil
+    - activity
+    - ideation
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "5 Best Meta Title by Adil"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to write a 5 different attractive and eye catching meta title
+    maximum 70 characters and must use the given keyword in the start not middle or
+    end. All output should be in [TARGETLANGUAGE]. The keyword to write is [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6996
+# teaser: YouTube Keyword Research and hash tags RevisionTime: 2024-10-03T09:55:57.187Z
+- id: 6996-youtube-keyword-research-and-hash-tags-activity-social-media
+  title: "YouTube keyword research and hash tags Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - youtube
+    - keyword
+    - research
+    - hash
+    - tags
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "YouTube keyword research and hash tags"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Give 15 longtail relevant keywords 1-5 words on given primary keyword basis
+    of user search intent on YouTube in table form with YouTube high volume and low
+    difficulty [TARGETLANGUAGE] also generate hashtags for researched keywords escape
+    spaces between hashtags also write keyword optimized 2 titles for YouTube also
+    give YouTube image thumbnail content [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

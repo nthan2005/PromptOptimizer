@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7486
+# teaser: Sentence mining quickly and simply RevisionTime: 2024-04-06T11:26:53.575Z
+- id: 7486-mining-activity-respond-topic-productivity-b5a49cdd0796137a
+  title: "Mining Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - mining
+    - activity
+    - respond
+    - topic
+    - productivity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Mining"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] Eu quero que voce traduza
+    a palavra .... Depois apresente ao menos 5 exemplos em frases curtas e simples
+    em inglÃƒÂªs e portuguÃƒÂªs em uma tabela [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

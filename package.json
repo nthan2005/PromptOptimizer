@@ -3,8 +3,8 @@
   "name": "prompt-optimizer",
   "version": "0.0.0",
   "workspaces": [
-    "packages/*",
-    "apps/*"
+    "apps/*",
+    "packages/*"
   ],
   "scripts": {
     "build": "pnpm -r build",

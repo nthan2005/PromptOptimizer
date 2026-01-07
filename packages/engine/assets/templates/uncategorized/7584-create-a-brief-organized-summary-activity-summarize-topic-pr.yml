@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7584
+# teaser: Create a brief summary. RevisionTime: 2023-09-05T17:38:01.808Z
+- id: 7584-create-a-brief-organized-summary-activity-summarize-topic-pr
+  title: "Create a brief organized summary. Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - brief
+    - organized
+    - summary
+    - activity
+    - summarize
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create a brief organized summary."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to summarize the text given you in numbered pointed bullets make
+    them shorter and organized. All output shall be in [TARGETLANGUAGE]. The text
+    to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5729
+# teaser: Write in English RevisionTime: 2023-06-12T16:58:38.753Z
+- id: 5729-paraphrase-and-improve-your-existing-content-activity-writin
+  title: 'Paraphrase and improve your existing content Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - paraphrase
+  - improve
+  - existing
+  - content
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1833882855945293824/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Paraphrase and improve your existing
+    content"](https://www.aiprm.com/prompts/copywriting/writing/1833882855945293824/)_"
+    --- Write all content in [TARGETLANGUAGE] Paraphrase the following content in
+    a friendly tone, using a first-person writing style to create a personal experience.
+    Please focus on improving the quality, maintaining a mix of short and long sentences,
+    and formatting the content professionally. Avoid complex sentence and complicated
+    words. Make the sentence understandable for 5th standard students. Write in active
+    voice Avoid self-references and unnecessary explanations. Rewrite only the specific
+    part provided. Try to keep the section same number of words of actual content
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

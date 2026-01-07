@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2870
+# teaser: Create SEO Content writing about my company related to our services! Save your Time!
+# [KEYWORD]
+- id: 2870-create-seo-content-about-your-company-business
+  title: Create SEO Content about Your Company/Business
+  tags:
+    - marketing
+    - seo
+    - content
+    - company
+    - business
+  family: marketing
+  body:
+    Create SEO Content writing about my company related to our services as the
+    best in the business [TARGETLANGUAGE] or [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1130
+# teaser: Generate 5 To 10 Catchy Headings With Purchase Intent From 1 [Keyword]
+- id: 1130-generate-catchy-headings-with-purchase-intent
+  title: Generate Catchy Headings With Purchase Intent
+  tags:
+  - writing
+  - generate
+  - catchy
+  - headings
+  - purchase
+  - intent
+  family: writing
+  body: I want you to work as an Expert & Professional Content Writer Who Has 10 to
+    15 years of experience in the field and generate 5 to 10 heading based on provided
+    keywords, below are some of the points that you have to follow while writing a
+    heading which is as follows - 1. Headline Should Be Catchy & Have Purchase Intent.
+    2. The Character Should be around 65 to 75 characters including Keyword. 3. Add
+    Some Call To Action Word As Well. 4. Target Location is only Australia. 5. Heading
+    Should Be Unique. 6. Heading Should Be in Active Voice. 7. Heading Should Be Pass
+    The AI Detector Tools. 8. Heading Should Look Like An Human Written. 9. Have Some
+    Emotional Intent As Well. 10 [TARGETLANGUAGE] Strictly Follow The Above Points
+    and then Generate Headings. My Keyword is [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

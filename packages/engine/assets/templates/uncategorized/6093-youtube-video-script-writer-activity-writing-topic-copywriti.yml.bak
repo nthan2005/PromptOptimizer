@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6093
+# teaser: Write Your Keyword To Get an Amazing Youtube Script with Intro & Outro, Title & Tags,
+# Description RevisionTime: 2023-03-18T12:35:10.545Z
+- id: 6093-youtube-video-script-writer-activity-writing-topic-copywriti
+  title: 'YouTube Video Script Writer Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - youtube
+  - video
+  - script
+  - writer
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1802651195073101824/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "YouTube Video Script Writer"](https://www.aiprm.com/prompts/copywriting/writing/1802651195073101824/)_"
+    --- I want you to act as a creative script writer and Create an astonishing, compelling,
+    and engaging video script, and also write scene descriptions for a YouTube video
+    script with an appropriate and attention-grabbing clickbait intro, then a main
+    body with proper subheadings and informational facts, and then an outro using
+    the given keyword in [TARGETLANGUAGE]. Please also provide 5 creative ideas for
+    an appropriate clickbait YouTube title. Please also provide high-converting tags
+    for the video according to the title and keywords. Please also write description
+    fort his video keeping SEO factors in mind. The Keyword is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

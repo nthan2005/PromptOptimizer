@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5470
+# teaser: Create Engaging Instagram Thread & Tweet with Keywords RevisionTime:
+# 2023-07-20T10:01:13.149Z
+- id: 5470-engaging-instagram-thread-tweet-generator-activity-writing-t
+  title: 'Engaging Instagram Thread & Tweet Generator Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - engaging
+  - instagram
+  - thread
+  - tweet
+  - generator
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1842798654051340288/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Engaging Instagram Thread & Tweet Generator"](https://www.aiprm.com/prompts/copywriting/writing/1842798654051340288/)_"
+    --- Act as a content marketing expert and tweeter influencer and, in create 6
+    question-based and fun-based tweets on the given keyword. tweets should be with
+    smilies, and tweets should be simple format and posts can be up to 450 characters
+    long. all the six tweet should be in paragraph format with numbers. all output
+    shall be in [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

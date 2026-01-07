@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4440
+# teaser: Rephrase this to American conversational: " RevisionTime: 2023-05-18T17:23:38.288Z
+- id: 4440-rephrase-this-to-american-conversational-activity-improve-to
+  title: 'Rephrase this to American conversational: " Activity: Improve Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - rephrase
+  - this
+  - american
+  - conversational
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1824829448810393600/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Rephrase this to American conversational:
+    ""](https://www.aiprm.com/prompts/copywriting/improve/1824829448810393600/)_"
+    --- Rephrase this to American conversational: "[PROMPT]"[TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

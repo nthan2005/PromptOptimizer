@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 376
+# teaser: Carousel Post Content Generator
+- id: 376-carousel-post-content-generator
+  title: Carousel Post Content Generator
+  tags:
+    - marketing
+    - carousel
+    - post
+    - content
+    - generator
+  family: marketing
+  body:
+    Hey chatgpt, act as a digital marketing specialist. I am make a carousel instagram
+    post which showcases the use and assets the importance of digital marketing in
+    the business we make post on. I want you to come up with a main post title and
+    then with the other 4 slide headings. The business I am making post on is [PROMPT]
+    Output should be in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

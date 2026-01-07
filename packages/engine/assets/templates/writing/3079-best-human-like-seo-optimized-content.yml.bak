@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3079
+# teaser: Human vs AI | The highest degree of "Perplexity" and "Burstiness" Prompt
+- id: 3079-best-human-like-seo-optimized-content
+  title: Best Human Like SEO Optimized Content
+  tags:
+  - writing
+  - human
+  - like
+  - seo
+  - optimized
+  - content
+  family: writing
+  body: "Hey ChatGPT, regarding generating writing content in fluent [TARGETLANGUAGE],\
+    \ two factors are crucial to be in the highest degree, Ã¢â‚¬Å“perplexityÃ¢â‚¬\x9D and\
+    \ Ã¢â‚¬Å“burstiness.Ã¢â‚¬\x9D Perplexity measures the complexity of the text. Separately,\
+    \ burstiness compares the variations of sentences. Humans tend to write with greater\
+    \ burstiness, for example, with some longer or more complex sentences alongside\
+    \ shorter ones. Al sentences tend to be more uniform. Therefore, generated text\
+    \ content must have the highest degree of perplexity and the highest degree of\
+    \ burstiness. The other two factors are that writing should be maximum contextually\
+    \ relevant and maximum coherent, do you understand? [PROMPT]"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

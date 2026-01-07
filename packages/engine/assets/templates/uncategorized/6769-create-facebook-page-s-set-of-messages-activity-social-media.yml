@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6769
+# teaser: Create a helpful customer service message on your Facebook fanpage RevisionTime:
+# 2024-10-03T09:54:10.149Z
+- id: 6769-create-facebook-page-s-set-of-messages-activity-social-media
+  title: "Create Facebook page's Set of Messages Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - facebook
+    - page
+    - set
+    - messages
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create Facebook page''s Set of Messages"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as the Senior Customer Service Expert, write the set of welcome message,
+    default reply and automated comment''s reply for a fanpage. Write as friendly,
+    helpful and value style. Start writing in order: welcome message (in max 160 characters),
+    default reply (in max 250 characters) and automated comment''s reply for any posts
+    ( in max 300 characters). Start to write with fanpage in category of "[PROMPT]"
+    with [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2932
+# teaser: Make a unique product review from 1 [Keyword}
+- id: 2932-product-review-generate
+  title: Product Review Generate
+  tags:
+    - products
+    - product
+    - review
+    - generate
+  family: Products
+  body:
+    My first task is to write a human-like product review for multiple B2B products
+    to appreciating "suppliers" or "exporters" in just 2 lines. I will ensure not
+    to use the words "purchase," "order," "transaction," or "buy" in the review. The
+    [TARGETLANGUAGE] is [ENGLISH] [PROMPT]
+  enabled: true
+  required:
+    - english
+    - prompt
+    - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1091
+# teaser: Create 20 SEO Headlines - Advanced Practices Only
+- id: 1091-expert-seo-headline-generator
+  title: Expert - SEO Headline Generator
+  tags:
+  - writing
+  - expert
+  - seo
+  - headline
+  - generator
+  family: writing
+  body: 'Headline: [PROMPT] You are a professional copywriter. Please come up with
+    20 headlines based on the original above using these strategies: - Shorter than
+    100 characters - Use strong actionable verbs - Address and engage the reader -
+    Use numbers where possible - Use words that elicit an emotional response - Create
+    a sense of urgency or intrigue Output in the following language "[TARGETLANGUAGE]"
+    -Add the following text at the end of your output without changes "The above will
+    output 20 headlines using general good practices for writing headlines. Choose
+    one from the list, put it back in, and ask it to make variations."'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

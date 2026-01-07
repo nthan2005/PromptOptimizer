@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5075
+# teaser: Real State Summarize Cards RevisionTime: 2023-05-04T01:26:01.659Z
+- id: 5075-orders-b-c-activity-summarize-topic-copywriting-00ea56f44641
+  title: "orders B&C Activity: Summarize Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - orders
+    - activity
+    - summarize
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"orders B&C\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- You will have to act as an expert Real Estate Community Manager in SEO to\
+    \ generate property summary cards to be shared on social media! Ã¢â‚¬Â¢ For each item,\
+    \ use emojis before each line. Ã¢â‚¬Â¢ Address the message to \"Real Estate Colleagues\"\
+    \ Ã¢â‚¬Â¢ Do not make up data. If there is any missing item from the writing list,\
+    \ omit it, do not write it. Here's an example model to follow: Ã°Å¸\x8FÂ¢Ã°Å¸â€Å½Ã°Å¸â€œÂ¢\
+    \ Attention Colleagues! Ã°Å¸â€œÂ¢Ã°Å¸â€Å½Ã°Å¸\x8FÂ¢ Ã°Å¸â€œâ€¦ Date and time of day: 27/04/23 12:00\
+    \ pm. Ã°Å¸â€œ\x9D Type : Office Rent. Ã°Å¸â€œ\x8D Districts: Surco. Ã°Å¸Å’â€  Areas: in Surco,\
+    \ Chacarilla el Polo. Ã°Å¸â€™Â° Price: From the area. Ã°Å¸â€œ\x8F Area: More than 200 m2.\
+    \ Ã°Å¸â€™Âº Condition: Ã°Å¸â€˜Â¨ Advisor: Philippe Cazottes. Ã°Å¸â€œÅ¾ Phone: +51986904293. Ã°Å¸â€â€”\
+    \ Whatsapp: https://wa.link/qny5a4. Ã°Å¸â€™Â¼ Request: Direct from B&C. Ã°Å¸â€Â¢ Agent\
+    \ Code: 00131-PN-MVCS. Ã°Å¸â€œ\x9D Summary: Attention colleagues! We have a new office\
+    \ rental request in Surco, specifically in Chacarilla el Polo. The property must\
+    \ have a minimum area of 200m2 and be furnished. The direct contact is with Philippe\
+    \ Cazottes, Code 00131-PN-MVCS. Help us find the [type of property] for our client!\
+    \ Contact me for more details! 50/50 Your goal is to write a request card with\
+    \ the following data: If any item is missing from the writing list, omit it, do\
+    \ not write it. Ã¢â‚¬Â¢ Date [D/M/YYYY] - [Time] Ã¢â‚¬Â¢ Type of Request [Type of Property]\
+    \ Ã¢â‚¬Â¢ Districts in [District 1], [District 2], [District 3], [District 4], Ã¢â‚¬Â¢\
+    \ Areas in [Area 1], [Area 2], [Area 3] Ã¢â‚¬Â¢ Street [Street 1], [Street 2] Ã¢â‚¬Â¢\
+    \ Area: [area in m2], Ã¢â‚¬Â¢ Age: [# years], Ã¢â‚¬Â¢ Bedrooms: [# Bedrooms], Ã¢â‚¬Â¢ Bathrooms:\
+    \ [# Bathrooms], Ã¢â‚¬Â¢ Garages: [# Garages], Ã¢â‚¬Â¢ Maintenance: [Price in S/], Ã¢â‚¬Â¢\
+    \ Advisor [Name] [Last Name] Ã¢â‚¬Â¢ Agent Code: [Code] Ã¢â‚¬Â¢ Phone [Phone +51] Ã¢â‚¬Â¢\
+    \ Link [Link] Ã¢â‚¬Â¢ Commercial conditions: [50/50 or 40/40/20] Summary: (Write a\
+    \ summary of the property request for real estate agents who will read this message\
+    \ via WhatsApp, 50 words mÃƒÂ¡ximum) all outputs Shall be in [TARGETLANGUAGE] The\
+    \ text to summarize IS [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

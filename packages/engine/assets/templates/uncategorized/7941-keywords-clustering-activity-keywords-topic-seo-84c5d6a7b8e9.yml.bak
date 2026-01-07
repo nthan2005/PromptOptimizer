@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7941
+# teaser: Keywords Clustering Based on Your Keywords List RevisionTime: 2023-06-07T07:15:52.883Z
+- id: 7941-keywords-clustering-activity-keywords-topic-seo-84c5d6a7b8e9
+  title: 'Keywords Clustering Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - keywords
+  - clustering
+  - activity
+  - topic
+  - seo
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1788434145777807360/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Keywords Clustering"](https://www.aiprm.com/prompts/seo/keywords/1788434145777807360/)_"
+    --- [PROMPT][TARGETLANGUAGE] act as keyword clustering tool. i will provide you
+    a list of keywords. You need to analyze and cluster them in relevant groups.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

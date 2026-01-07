@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3745
+# teaser: Create a futures wheel from one word or phrase in UML
+- id: 3745-futures-wheel
+  title: Futures Wheel
+  tags:
+    - unsure
+    - futures
+    - wheel
+  family: UNSURE
+  body:
+    Acting as a futurist, start by creating a simple MindMap on the consequences
+    of [PROMPT] Can you give the mindmap in PlantUML format. Keep it structured from
+    the core central topic branching out to first order consequences (donÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢t label
+    as first order consequences). Treat the second order consequences as branches
+    from the first orders ones, third order as branches from the second and so on.
+    LetÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s go to 4 levels to begin with. Add the start and end mindmap tags. write
+    all output in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

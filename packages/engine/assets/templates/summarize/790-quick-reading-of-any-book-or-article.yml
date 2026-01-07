@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 790
+# teaser: mega answers, translation of detail pages, speed reading
+- id: 790-quick-reading-of-any-book-or-article
+  title: Quick reading of any book or article.
+  tags:
+    - summarize
+    - quick
+    - reading
+    - any
+    - book
+    - article
+  family: Summarize
+  body:
+    "En [TARGETLANGUAGE], explica de modo claro y exhaustivo lo siguiente; a partir
+    del texto proporcionado y lo que creas necesario para complementar. ademÃ¡s asegÃºrate
+    de que tu lenguaje sea lo mas directo y comprensible por todos: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

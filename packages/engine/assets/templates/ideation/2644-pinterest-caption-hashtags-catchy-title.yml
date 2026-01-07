@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2644
+# teaser: Generate Awesome Pinterest Caption Along with Hashtags all you have to do is give the
+# Keyword and this will generate 5 version of Caption.
+- id: 2644-pinterest-caption-hashtags-catchy-title
+  title: Pinterest Caption, Hashtags & Catchy Title
+  tags:
+    - ideation
+    - pinterest
+    - caption
+    - hashtags
+    - catchy
+    - title
+  family: ideation
+  body:
+    "[TARGETLANGUAGE] [PROMPT] Generate me 5 variation of excellent Pinterest
+    Title and Pinterest caption which also includes the related minimum 5 Hashtags
+    for Promoting for the [keyword], First the Title and then the Caption for Me.
+    Please directly answer and give me the result."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

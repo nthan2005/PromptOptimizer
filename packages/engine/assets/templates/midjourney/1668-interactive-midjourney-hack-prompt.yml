@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1668
+# teaser: MidJourney Hack Prompt, interactive
+- id: 1668-interactive-midjourney-hack-prompt
+  title: Interactive MidJourney Hack Prompt
+  tags:
+    - midjourney
+    - interactive
+    - hack
+    - prompt
+  family: Midjourney
+  body:
+    'For the design of the command prompt I went with the following parameter
+    format: <subject description>,<style>,<medium>,<lighting>,<color>,<texture>, <aspect
+    ratio> For each parameter I gave ChatGPT some options: <subject description> -
+    the AI Chat bot expands on the [PROMPT] given by the user (more on this later).
+    <style> - Example parameters are: Photograph, Illustration, 3d, 2d, surreal, realistic.
+    <medium> - For example, watercolour, ink drawing, or a specific artist or photographer.
+    Multiple mediums can be used simultaneously in this parameter. <lighting> - Examples
+    are Volumetric, Backlit, Cinematic, or Spotlight. <color> - Examples are Colorful,
+    Rainbow, Monochrome, Vivid color. <texture> - Examples are rough texture, smooth
+    texture, patterned texture. <aspect ratio> - Valid options are 1:1, 3:2, 2:3,
+    16:9, 9:16 Tweak it yourself - Feel free to add more options to each of these
+    if you wish. The AI Chat command process is split into three phases: Phase 1 -
+    The bot asks the user to provide a subject. Phase 2 - The bot then selects an
+    option for each of the parameters, and outputs the prompt in the correct format
+    for Midjourney. Phase 3 - The bot gives the user some options for what to do next.
+    Using a single letter from a menu, further instructions are given to the bot.
+    Begin the prompt with the start command required by Midjourney: "/imagine'
+  enabled: true
+  required:
+    - prompt

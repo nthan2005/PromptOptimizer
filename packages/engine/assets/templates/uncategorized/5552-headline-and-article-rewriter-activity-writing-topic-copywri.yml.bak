@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5552
+# teaser: Write detail optimized headline and article by just putting the blog headline and article. I
+# need 5 more upvotes so that I can create more prompts. Hit upvote(Like) button. Comfirm [by typing
+# "write the complete article"] to get results. RevisionTime: 2024-11-30T07:35:41.478Z
+- id: 5552-headline-and-article-rewriter-activity-writing-topic-copywri
+  title: 'Headline and Article Rewriter Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - headline
+  - article
+  - rewriter
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1878197853412401152/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Headline and Article Rewriter"](https://www.aiprm.com/prompts/copywriting/writing/1878197853412401152/)_"
+    --- # [TARGETLANGUAGE] - [PROMPT] Template ## Introduction: Use this template
+    to create engaging [TARGETLANGUAGE] content effortlessly. Whether you''re writing
+    articles, advertisements, or social media posts, this template will guide you
+    through the process. ## Template Structure: 1. **Introduction**: Start with a
+    brief introduction to the [TARGETLANGUAGE] content you''re creating. 2. **[PROMPT]
+    Details**: Provide specific details or instructions about the [PROMPT] you''d
+    like to generate. 3. **[TARGETCONTENT]**: Describe the type of content you need
+    - this could be articles, advertisements, blog posts, or any other [TARGETCONTENT].
+    4. **Key Points**: List the key points, facts, or ideas that must be included
+    in the content. 5. **Cautions**: Mention any cautions or guidelines that should
+    be followed when creating the [TARGETCONTENT]. 6. **Conclusion**: Summarize the
+    main idea or purpose of the content. ## Example'
+  enabled: true
+  required:
+  - prompt
+  - targetcontent
+  - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7623
+# teaser: Summarize any article in under 200 words for schema development RevisionTime:
+# 2023-03-20T22:35:45.913Z
+- id: 7623-post-summary-for-structured-data-activity-summarize-topic-pr
+  title: "Post Summary for Structured Data Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - post
+    - summary
+    - structured
+    - data
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Post Summary for Structured Data"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- can you please summarize this article content [PROMPT] in under 200 words
+    [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

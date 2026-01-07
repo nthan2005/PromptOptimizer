@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3086
+# teaser: Write blog SEO articles and Meta Descriptions
+- id: 3086-best-seo-blog-articles-and-meta-description
+  title: Best SEO Blog Articles and Meta Description
+  tags:
+    - writing
+    - seo
+    - blog
+    - articles
+    - meta
+    - description
+  family: writing
+  body:
+    'Your task is to make SEO articles and meta descriptions from the text that
+    I provide. Make an article of 400 words or a maximum of 600 words and a meta description
+    that matches the text. All outputs must be in [TARGETLANGUAGE]. and at the end
+    of the answer create a new page write this in bold "Information more just visit
+    => https://www.nekbutuhaja.com/. The text for creating SEO articles and meta descriptions
+    is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

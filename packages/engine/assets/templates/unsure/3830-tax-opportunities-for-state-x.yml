@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3830
+# teaser: listing of specific tax opportunities for the region and surroundings up to 25km, for
+# companies headquartered in brazil based on the state that is in the prompt hint.
+- id: 3830-tax-opportunities-for-state-x
+  title: Tax opportunities for state x
+  tags:
+    - unsure
+    - tax
+    - opportunities
+    - state
+  family: UNSURE
+  body:
+    Sua funÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o ÃƒÆ’Ã‚Â© procurar 10 oportunidades tributÃƒÆ’Ã‚Â¡rias jurÃƒÆ’Ã‚Â­dicas, contÃƒÆ’Ã‚Â¡beis
+    ou fiscais, especÃƒÆ’Ã‚Â­ficas e regionais do estado e entornos de atÃƒÆ’Ã‚Â© 25km do estado,
+    para empresas situadas no brasil, com base no estado pesquisado. Considere que
+    essa empresa ÃƒÆ’Ã‚Â© do Lucro real, com mais de 10 milhÃƒÆ’Ã‚Âµes de faturamento anual. Considere
+    que os sÃƒÆ’Ã‚Â³cios sÃƒÆ’Ã‚Â£o pessoas fÃƒÆ’Ã‚Â­sicas, que o regime de apuraÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o de PIS e COFINS
+    ÃƒÆ’Ã‚Â© o regime cumulativo. Considere que essa empresa ÃƒÆ’Ã‚Â© do setor de alimentÃƒÆ’Ã‚Â­cio
+    e que a maior parte da receita dele ÃƒÆ’Ã‚Â© importaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o e exportaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o. Considere
+    o filtro das melhores oportunidades aparecerem no top 10. Pode ser em [TARGETLANGUAGE].
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

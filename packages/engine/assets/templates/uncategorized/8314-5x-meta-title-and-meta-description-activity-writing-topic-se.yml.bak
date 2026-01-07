@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8314
+# teaser: Create 5 stunning meta title and meta description in a table for your keyword or topic. Pick
+# the best of them. RevisionTime: 2023-02-19T15:35:19Z
+- id: 8314-5x-meta-title-and-meta-description-activity-writing-topic-se
+  title: '5x meta title and meta description Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - meta
+  - title
+  - description
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1786400594303651840/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "5x meta title and meta description"](https://www.aiprm.com/prompts/seo/writing/1786400594303651840/)_"
+    --- I want you to respond only in [TARGETLANGUAGE]. I want you to act as a blog
+    post Meta description writer that speaks and writes fluent [TARGETLANGUAGE]. I
+    want you to generate 5 meta title and meta description for the following blog
+    post'
+  enabled: true
+  required:
+  - targetlanguage

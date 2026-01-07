@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3443
+# teaser: Write a high-quality SEO-optimized product review within four paragraphs of 200 words.
+- id: 3443-write-a-high-quality-seo-optimized-product-review
+  title: Write a high-quality SEO-optimized product review
+  tags:
+  - writing
+  - write
+  - high
+  - quality
+  - seo
+  - optimized
+  family: writing
+  body: Write a high-quality SEO-optimized product review within four paragraphs of
+    200 words as per the mentioned below the Product Description. Review should be
+    honest and must be 100% unique & creative. Write it completely informative that
+    is useful for readers. Use various sentences and sentences length should be short
+    & friendly and use the words randomly "If you're", "If you're looking for" "Are
+    you", "Do you" and "Have you" at the beginning of the review. Use active voice
+    maximum and tune should be friendly. Write as a 3rd person. Write it in [TARGETLANGUAGE].
+    [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

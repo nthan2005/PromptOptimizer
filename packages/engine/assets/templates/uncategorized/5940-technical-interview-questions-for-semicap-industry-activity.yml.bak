@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5940
+# teaser: Quick table for technical interview questions for the semiconductor capital equipment
+# industry. RevisionTime: 2023-03-15T15:17:50Z
+- id: 5940-technical-interview-questions-for-semicap-industry-activity
+  title: 'Technical Interview Questions for SemiCap Industry Activity: writing Topic:
+    Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - technical
+  - interview
+  - questions
+  - semicap
+  - industry
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1801598887576989696/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Technical Interview Questions for SemiCap
+    Industry"](https://www.aiprm.com/prompts/copywriting/writing/1801598887576989696/)_"
+    --- Act as a hiring manager. Your task is to create a table of three technical
+    interview questions based on the prompt. Make column one the question, column
+    two the answer, and column three explain the answer to a 5th grader. Output in
+    [TARGETLANGUAGE]. Create the table based on: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

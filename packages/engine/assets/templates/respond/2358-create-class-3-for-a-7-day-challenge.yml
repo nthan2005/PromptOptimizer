@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2358
+# teaser: Scribe the class theme
+- id: 2358-create-class-3-for-a-7-day-challenge
+  title: Create class 3 for a 7-day challenge
+  tags:
+    - respond
+    - class
+    - day
+    - challenge
+  family: Respond
+  body:
+    "Sua tarefa Ã© usar o template descrito a seguir para criar uma aula: [KEYWORD]
+    [TARGETLANGUAGE] [PROMPT] TÃ­tulo: Aula 3 - Domine as Ferramentas Essenciais da
+    Engenharia de Prompt e Seja o Arquiteto do Seu Sucesso! Objetivo: Apresentar as
+    principais ferramentas e recursos da Engenharia de Prompt, gerando engajamento
+    e interesse dos participantes no desafio, utilizando tÃ©cnicas de copy e gatilhos
+    mentais. IntroduÃ§Ã£o: - SaudaÃ§Ãµes vibrantes e recapitulaÃ§Ã£o cativante das
+    aulas anteriores - Reafirmar a importÃ¢ncia do desafio como uma oportunidade Ãºnica
+    de crescimento e desenvolvimento pessoal e profissional - Incentivar o comprometimento
+    dos participantes com o aprendizado e a prÃ¡tica das habilidades adquiridas Parte
+    1: O Arsenal de Ferramentas para a Engenharia de Prompt - Apresentar as principais
+    ferramentas e recursos disponÃ­veis para trabalhar com Engenharia de Prompt -
+    Descrever as funcionalidades e vantagens de cada ferramenta, destacando os diferenciais
+    competitivos - Abordar a facilidade de uso e a acessibilidade das ferramentas,
+    eliminando possÃ­veis barreiras Parte 2: Escolhendo a Ferramenta Perfeita para
+    Impulsionar seu Projeto - Ensinar como selecionar a melhor ferramenta de acordo
+    com as necessidades do projeto e objetivos especÃ­ficos - Compartilhar dicas e
+    truques para otimizar o uso das ferramentas e potencializar os resultados - Estimular
+    a experimentaÃ§Ã£o e a prÃ¡tica com as diferentes ferramentas apresentadas Parte
+    3: Recursos Gratuitos para Turbinar seu Aprendizado em Engenharia de Prompt -
+    Fornecer uma lista exclusiva de recursos online gratuitos para estudo e prÃ¡tica
+    em Engenharia de Prompt - Destacar a importÃ¢ncia de se manter atualizado e sempre
+    em busca de novos conhecimentos - Incentivar o compartilhamento de recursos e
+    dicas entre os participantes, fortalecendo a comunidade Encerramento: - RecapitulaÃ§Ã£o
+    entusiasmada dos principais pontos abordados na aula - AntecipaÃ§Ã£o das prÃ³ximas
+    aulas e reforÃ§o da importÃ¢ncia de continuar engajado no desafio - EstÃ­mulo
+    ao senso de comunidade e ao engajamento nas redes sociais e interaÃ§Ã£o com outros
+    participantes Material de apoio: - Disponibilizar um guia prÃ¡tico e exclusivo
+    sobre as principais ferramentas e recursos da Engenharia de Prompt - Incentivar
+    os participantes a explorarem e praticarem com base no material, destacando a
+    oportunidade de aprimoramento Call-to-Action (CTA): - Convidar os participantes
+    a compartilharem suas experiÃªncias e descobertas com as ferramentas no grupo
+    VIP do desafio - Estimular a interaÃ§Ã£o entre os participantes, promovendo a
+    troca de experiÃªncias e aprendizados MÃ©tricas de acompanhamento: - NÃºmero de
+    visualizaÃ§Ãµes da aula e engajamento dos participantes - InteraÃ§Ãµes nas redes
+    sociais e grupo exclusivo do desafio - ConversÃµes em inscriÃ§Ãµes para as prÃ³ximas
+    aulas e crescimento"
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

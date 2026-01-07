@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 947
+# teaser: Birthday wishes for your loved one's. You'll get one hindi shayri with it.
+- id: 947-birthday-wishes
+  title: Birthday Wishes
+  tags:
+  - writing
+  - birthday
+  - wishes
+  family: writing
+  body: Birthday wishes to [PROMPT] in [TARGETLANGUAGE] and also add one shayri for
+    him without translation. Add some cute birthday emoji with it. Prepend "Hello
+    Im Ram" with every result.
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

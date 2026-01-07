@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1506
+# teaser: Twitter Engaging Tweet | Human Written Tweet Generator
+- id: 1506-twitter-engaging-tweet-human-written-tweet
+  title: Twitter Engaging Tweet | Human Written Tweet
+  tags:
+    - writing
+    - twitter
+    - engaging
+    - tweet
+    - human
+    - written
+  family: writing
+  body:
+    Act like a twitter expert and write a human written tweet on [PROMPT]. tweet
+    should be engaging. Write in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4513
+# teaser: Create a a full robust SEO article for Solar Mason that will outrank every other article on
+# the net using the keywords provided along with other strong keywords for the energy sector like,
+# Tesla, Sunrun, EV Charging Etc... RevisionTime: 2023-05-19T13:44:57.767Z
+- id: 4513-solar-mason-writer-activity-keywords-topic-copywriting-00ea5
+  title: "Solar Mason Writer Activity: keywords Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - solar
+    - mason
+    - writer
+    - activity
+    - keywords
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Solar Mason Writer"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- the keywords to use in the analysis are [PROMPT]. want you to act as a blog
+    post title writer that speaks and writes fluent [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

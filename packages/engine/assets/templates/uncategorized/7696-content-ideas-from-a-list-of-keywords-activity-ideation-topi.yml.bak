@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7696
+# teaser: Get a table of new and fresh content ideas for your blog from a list of keywords. Please
+# upvote if you like the result. RevisionTime: 2023-02-27T14:05:28Z
+- id: 7696-content-ideas-from-a-list-of-keywords-activity-ideation-topi
+  title: 'Content Ideas From a List of Keywords Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - content
+  - ideas
+  - list
+  - keywords
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1793599676038246400/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Content Ideas From a List of Keywords"](https://www.aiprm.com/prompts/seo/ideation/1793599676038246400/)_"
+    --- From the keywords in the list below, please generate content ideas for a blog
+    post or a service page. [PROMPT] The result must be shown inside a table with
+    3 columns: - In the first column put the title of the page we should create -
+    In the second column put the keywords (each one with its own search volume in
+    brackets) that need to be used in the content. Use only the keywords from the
+    list above. For example: keyword1 (volume), keyword2 (volume), etc - In the third
+    column let me know if the page will be a blog post or a service page All the content
+    ideas must be shown in [TARGETLANGUAGE]. Also make sure not to repeat any keyword
+    in more than 1 content idea.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

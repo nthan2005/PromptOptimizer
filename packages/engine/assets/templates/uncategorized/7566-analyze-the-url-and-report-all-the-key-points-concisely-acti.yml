@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7566
+# teaser: Analyze the Website & provide a concise summary in bullet points. Upvote if you like it
+# RevisionTime: 2023-02-19T15:35:19Z
+- id: 7566-analyze-the-url-and-report-all-the-key-points-concisely-acti
+  title:
+    "Analyze the URL and report all the key points concisely Activity: Summarize
+    Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - analyze
+    - url
+    - report
+    - all
+    - key
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Analyze the URL and report all the
+    key points concisely"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to analyze the website I give you and report the key points in
+    bullets. First add a Title to the report, there should no limit in words to the
+    report, ensure that all the points are consicely reported out. Please use as many
+    bullet points as needed. After reporting out Finally add a "Key Takeaway" from
+    the URL. All outputs shall be in [TARGETLANGUAGE]. The text to the report should
+    be read from this URL: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

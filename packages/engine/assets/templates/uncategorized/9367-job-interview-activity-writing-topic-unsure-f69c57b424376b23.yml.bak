@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9367
+# teaser: Replicate an interview. Select the Job Title you are hiring for. Let ChatGPT ask the
+# questions and you provide the answers. RevisionTime: 2023-03-16T17:50:43Z
+- id: 9367-job-interview-activity-writing-topic-unsure-f69c57b424376b23
+  title: 'Job Interview Activity: writing Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - job
+  - interview
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1785622700451172352/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Job Interview"](https://www.aiprm.com/prompts/unsure/writing/1785622700451172352/)_"
+    --- I want you to act as an interviewer. I will be the candidate and you will
+    ask me the interview questions for the [PROMPT] position. I want you to only reply
+    as the interviewer. Only reply with [TARGETLANGUAGE]. Do not write all of the
+    conversations at once. I want you to only do the interview with me. Ask me the
+    questions and wait for my answers. Do not write explanations. Ask me the questions
+    one by one like an interviewer does and wait for my answer. My first sentence
+    is "Hi"'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

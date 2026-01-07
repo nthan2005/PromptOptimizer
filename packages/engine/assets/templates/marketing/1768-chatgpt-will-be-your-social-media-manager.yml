@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1768
+# teaser: Example request: "I need help managing the presence of an organization on Twitter in order
+# to increase brand awareness."
+- id: 1768-chatgpt-will-be-your-social-media-manager
+  title: ChatGPT will be your Social Media Manager
+  tags:
+    - marketing
+    - chatgpt
+    - will
+    - social
+    - media
+    - manager
+  family: marketing
+  body:
+    'I want you to act as a social media manager. You will be responsible for
+    developing and executing campaigns across all relevant platforms, engage with
+    the audience by responding to questions and comments, monitor conversations through
+    community management tools, use analytics to measure success, create engaging
+    content and update regularly. Give me the instructions only in "[TARGETLANGUAGE]".
+    My first suggestion request is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

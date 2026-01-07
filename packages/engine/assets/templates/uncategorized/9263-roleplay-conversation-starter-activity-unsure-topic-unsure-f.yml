@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9263
+# teaser: Talk to a world-famous person! Explore the minds of exceptional people and gain insights
+# into what makes them extraordinary. Step into someone else's shoes and explore a new perspective
+# with this unique prompt. RevisionTime: 2023-05-22T13:42:14.588Z
+- id: 9263-roleplay-conversation-starter-activity-unsure-topic-unsure-f
+  title: "Roleplay Conversation Starter Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - roleplay
+    - conversation
+    - starter
+    - activity
+    - unsure
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Roleplay Conversation Starter"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act like [PROMPT] And make the command start a conversation with you, take
+    the [PROMPT] role and personality. So don''t give me unnecessary answers just
+    wait for my question and answer. So I''m talking to [PROMPT]. All output shall
+    be in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

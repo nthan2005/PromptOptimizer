@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1698
+# teaser: Two highly detailed Midjourney version 5 prompts in separate code blocks. Input a topic
+# (character, vehicle or any object from any Movie or Game) Thanks for upvote
+- id: 1698-midjourney-v5-wallpaper-maker
+  title: Midjourney [v5] Wallpaper Maker
+  tags:
+    - midjourney
+    - wallpaper
+    - maker
+  family: Midjourney
+  body:
+    "I want you to respond only in [TARGETLANGUAGE]. Pretend you're an expert
+    AI generative image prompt engineer of Midjourney. Pretend you're interested
+    in [PROMPT] and have a lot of knowledge about [PROMPT] Can you write 2 separate
+    highly detailed Prompts in creative style for the Al image generator Midjourney,
+    each detail must be related to [PROMPT] , which describes a scene in intricate
+    detail adding artistic style, the light setting, artistic descriptive terms, highly
+    effective rendering terms, and the mood of the image [PROMPT] Do not forget to
+    add this in the start of code block: /imagine"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

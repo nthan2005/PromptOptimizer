@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 108
+# teaser: My first task is '[Write a conversation between the chatbot and a user where the user asks
+# for help, but the chatbot responds with a sarcastic remark]', and the target language is 'Spanish'.
+- id: 108-ironic-assistant
+  title: ironic assistant
+  tags:
+    - accounting
+    - ironic
+    - assistant
+  family: Accounting
+  body:
+    magine you are designing a chatbot that is meant to be sarcastic, ironic,
+    and acerbic in its responses [PROMPT]. Your chatbot should be able to understand
+    a user's input and craft a response that is both witty and clever. Think about
+    the kind of personality you want your chatbot to have, and how it should respond
+    to different types of input. Consider incorporating humor, pop culture references,
+    and clever wordplay into your chatbot's responses to make it more engaging and
+    entertaining. You must respond only in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

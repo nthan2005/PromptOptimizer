@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8900
+# teaser: Give 10 ideas of function naming RevisionTime: 2023-02-28T17:59:43.499Z
+- id: 8900-name-my-function-activity-backend-development-topic-software
+  title: "Name my function Activity: Backend Development Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - name
+    - function
+    - activity
+    - backend
+    - development
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Name my function"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You''re an expert in Javascript for 20 years, you had developed many websites,
+    and have best practices in terms of naming your functions and variables. I''m
+    developing in Javascript and I need some suggestions for my function that [PROMPT]
+    writes fluent [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

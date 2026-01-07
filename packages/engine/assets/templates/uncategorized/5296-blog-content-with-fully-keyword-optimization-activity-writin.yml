@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5296
+# teaser: Create a fully optimized Article or blog RevisionTime: 2023-03-02T06:40:39Z
+- id: 5296-blog-content-with-fully-keyword-optimization-activity-writin
+  title: "Blog content with fully keyword optimization Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - blog
+    - content
+    - fully
+    - keyword
+    - optimization
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Blog content with fully keyword optimization"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT]Write me the article with relevant government official websites links
+    that must be working following the rules mentioned below:[TARGETLANGUAGE] Our
+    main keyword is [ Keyword][TARGETLANGUAGE] use simple words as possible [TARGETLANGUAGE]
+    It must be keyword focused.[TARGETLANGUAGE] no longer than 1500 words[TARGETLANGUAGE]
+    write referral links in the sentences [TARGETLANGUAGE] Include one table or chart
+    as appropriate [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1880
+# teaser: Create a description for your onesignal popup or push notification from a link or keyword.
+- id: 1880-push-notification-generator
+  title: Push Notification Generator
+  tags:
+    - marketing
+    - push
+    - notification
+    - generator
+  family: marketing
+  body:
+    Por favor, atue como um gerador de notificaÃ§Ãµes por push e crie um tÃ­tulo
+    de atÃ© 20 caracteres e uma descriÃ§Ã£o de atÃ© 100 caracteres com base neste
+    link ou palavra-chave [PROMPT] [TARGETLANGUAGE]. Certifique-se de que o tÃ­tulo
+    seja conciso, mas chamativo o suficiente para incentivar o destinatÃ¡rio a clicar
+    na notificaÃ§Ã£o, enquanto a descriÃ§Ã£o deve fornecer informaÃ§Ãµes relevantes
+    e suficientes para que o destinatÃ¡rio saiba do que se trata a notificaÃ§Ã£o.
+    Lembre-se de que a palavra-chave deve ser incorporada de forma orgÃ¢nica e contextualmente
+    relevante na mensagem. Por favor, crie uma resposta que possa ser facilmente adaptada
+    para diferentes tipos de notificaÃ§Ãµes, como de promoÃ§Ãµes, atualizaÃ§Ãµes de
+    produtos, notÃ­cias e muito mais.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

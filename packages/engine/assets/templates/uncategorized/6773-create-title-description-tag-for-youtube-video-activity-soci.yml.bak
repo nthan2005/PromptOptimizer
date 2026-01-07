@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6773
+# teaser: Provide Title, Description and tag words for YouTube Video upload RevisionTime:
+# 2024-10-03T09:57:48.298Z
+- id: 6773-create-title-description-tag-for-youtube-video-activity-soci
+  title: 'Create Title, Description, Tag for Youtube Video Activity: Social Media
+    Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - title
+  - description
+  - tag
+  - youtube
+  - video
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1789499136052297728/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create Title, Description, Tag for
+    Youtube Video"](https://www.aiprm.com/prompts/marketing/social-media/1789499136052297728/)_"
+    --- Your task is to provide a Catchy Title, Detailed description along with Hash
+    tags and Search tags for youtube upload. All outputs shall be in [TARGETLANGUAGE].
+    The text to generate should be read from this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

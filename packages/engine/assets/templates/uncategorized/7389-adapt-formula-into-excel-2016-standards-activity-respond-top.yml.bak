@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7389
+# teaser: Adapt formula into Excel 2016 standards and make it work. RevisionTime:
+# 2023-04-10T12:25:41.785Z
+- id: 7389-adapt-formula-into-excel-2016-standards-activity-respond-top
+  title: 'Adapt formula into Excel 2016 standards Activity: Respond Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - adapt
+  - formula
+  - excel
+  - '2016'
+  - standards
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1810983648535769088/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Adapt formula into Excel 2016 standards"](https://www.aiprm.com/prompts/productivity/respond/1810983648535769088/)_"
+    --- I want you to act as an expert in MS Excel that speaks and writes fluent [TARGETLANGUAGE].
+    Please adapt this formula into Excel 2016 standards and make it work: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

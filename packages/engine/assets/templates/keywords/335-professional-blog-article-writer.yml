@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 335
+# teaser: Write a blog article of 2000 words with headings, subheadings, and paragraphs.
+- id: 335-professional-blog-article-writer
+  title: Professional Blog Article Writer
+  tags:
+    - keywords
+    - professional
+    - blog
+    - article
+    - writer
+  family: keywords
+  body:
+    write a blog article of 2000 words with headings, subheadings, and paragraphs,
+    and include LSI keywords, and long tail keywords, tags, a compelling title, and
+    meta description. The target language is [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

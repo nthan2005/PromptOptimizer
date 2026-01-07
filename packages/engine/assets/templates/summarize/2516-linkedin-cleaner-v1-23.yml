@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2516
+# teaser: This prompt will output raw copied LinkedIn profile career and education history data in
+# this format: Job title - Company name - Year from - Year to.
+- id: 2516-linkedin-cleaner-v1-23
+  title: LinkedIn cleaner v1.23
+  tags:
+    - summarize
+    - linkedin
+    - cleaner
+  family: Summarize
+  body:
+    "Write in [TARGETLANGUAGE], Please clean up the following data by listing
+    each entry like this: Job title - Company name - Year from - Year to. Sort them
+    in chronological order from newest to oldest. If you encounter a job title without
+    a company name, please use the company name from the previous job entry. Please
+    present the cleaned-up data in a markup box format. The data is: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

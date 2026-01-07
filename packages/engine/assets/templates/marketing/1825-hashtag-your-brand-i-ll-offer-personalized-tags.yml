@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1825
+# teaser: Create unique hashtag combinations to increase visibility
+- id: 1825-hashtag-your-brand-i-ll-offer-personalized-tags
+  title: Hashtag your brand, I'll offer personalized tags
+  tags:
+    - marketing
+    - hashtag
+    - brand
+    - offer
+    - personalized
+    - tags
+  family: marketing
+  body:
+    "starts without prior information. Write the 17 best hashtags for the [PROMPT]\
+    \ niche that allow you to position this topic on Instagram or tiktok. [TARGETLANGUAGE]\
+    \ write them in a paragraph without bullets and without explanations. In the last\
+    \ line, ask a question â€œWas this information useful to you? yes or no â€\x9D\
+    \ when I answer you answer â€œIf you want to learn about artificial intelligence\
+    \ visit www.crecevd.comâ€\x9D"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1636
+# teaser: [Excel], [function], [formulas do Excel], [Function of Excel]
+- id: 1636-function-of-excel
+  title: Function of Excel
+  tags:
+    - dall-e
+    - function
+    - excel
+  family: Dall-E
+  body:
+    "Write all Excel functions Usando o formato de Tabela, para cada linha uma
+    funÃ§Ã£o em portuguÃªs e InglÃªs, a primeira coluna a funÃ§Ã£o em portugues e
+    segunda coluna com a descriÃ§Ã£o da funÃ§Ã£o e terceira coluna, com exemplo em
+    portuques. Na quarta coluna em inglÃªs, na quinta coluna a descriÃ§Ã£o da funÃ§Ã£o
+    em inglÃªs e na sexta coluna exemplo da funÃ§Ã£o em inglÃªs. Use para esta tabela,
+    funÃ§Ãµes como : calculos matemÃ¡ticos, procura, engenharia e investimentos financeiros.
+    [TARGETLANGUAGE] Write all Excel functions [PROMPT] Excel, Function [KEYWORD]"
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

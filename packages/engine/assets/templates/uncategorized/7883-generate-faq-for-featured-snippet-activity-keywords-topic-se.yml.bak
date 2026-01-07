@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7883
+# teaser: Generate FAQ for Featured Snippet RevisionTime: 2023-07-11T02:08:44.531Z
+- id: 7883-generate-faq-for-featured-snippet-activity-keywords-topic-se
+  title: 'Generate FAQ for Featured Snippet Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - generate
+  - faq
+  - featured
+  - snippet
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1835285172946997248/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Generate FAQ for Featured Snippet"](https://www.aiprm.com/prompts/seo/keywords/1835285172946997248/)_"
+    --- I will give you [KEYWORD] or [TOPIC] to generate relevant FAQ in [TARGETLANGUAGE]
+    Use a mix of short and long sentences to create a more natural-sounding flow of
+    text. Vary the sentence structure and grammar to avoid a repetitive, formulaic
+    style. Incorporate personal anecdotes and other elements that are typical of human
+    writing. Use idiomatic expressions, colloquialisms, and other language conventions
+    commonly used by humans. [PROMPT]'
+  enabled: true
+  required:
+  - keyword
+  - prompt
+  - targetlanguage
+  - topic

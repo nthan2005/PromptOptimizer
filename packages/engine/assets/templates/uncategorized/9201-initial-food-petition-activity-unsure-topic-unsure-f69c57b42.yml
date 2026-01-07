@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9201
+# teaser: Prepare an initial petition about food RevisionTime: 2023-11-08T16:03:59.403Z
+- id: 9201-initial-food-petition-activity-unsure-topic-unsure-f69c57b42
+  title: "Initial Food Petition Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - initial
+    - food
+    - petition
+    - activity
+    - unsure
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Initial Food Petition"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] [TARGETLANGUAGE] [DIREITODEFAMILIA] [PETIÃƒâ€¡ÃƒÆ’O INICIAL] [ALIMENTOS]
+    [CÃƒâ€œDIGO CIVIL] [CÃƒâ€œDIGO DE PROCESSO CIVIL] [ESTATUTO DA CRIANÃƒâ€¡A E ADOLESCENTE]'
+  enabled: true
+  required:
+    - alimentos
+    - direitodefamilia
+    - prompt
+    - targetlanguage

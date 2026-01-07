@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 323
+# teaser: Search tag title from keyword
+- id: 323-generate-tag-title-from-keyword
+  title: Generate tag title from keyword
+  tags:
+    - keywords
+    - generate
+    - tag
+    - title
+    - keyword
+  family: keywords
+  body:
+    Buatkan beberapa tag judul untuk kata kunci [PROMPT]. Sajikan ke dalam bahasa
+    [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

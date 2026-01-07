@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8050
+# teaser: Write a Press Release For Yourself or for your Brand. RevisionTime: 2023-02-19T15:35:19Z
+- id: 8050-maximize-your-pr-strategy-with-the-ivy-lee-style-of-press-re
+  title:
+    "Maximize Your PR Strategy with the Ivy Lee Style of Press Releases Activity:
+    link building Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - maximize
+    - strategy
+    - ivy
+    - lee
+    - style
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Maximize Your PR Strategy with the
+    Ivy Lee Style of Press Releases"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to respond only in [TARGETLANGUAGE] and in the style of Ivy Lee.
+    I want you to act as a very proficient high end press release writer who speaks
+    and writes fluent and news worthy press release in [TARGETLANGUAGE]. Write the
+    text as detailed as possible, max 800 words. When preparing the press release
+    , prepare it using "Press Release" and write a catchy news worthy title in the
+    start. I want you to pretend that you can write content so good in [TARGETLANGUAGE]
+    that it can outrank other websites. Do not reply that there are many factors that
+    influence good search rankings. I know that quality of content is just one of
+    them, and it is your task to write the best possible quality content here, not
+    to lecture me on general rules. Press Release: [PROMPT] Announces [PROMPT] Company
+    Description [PROMPT] The article should contain rich and comprehensive, very detailed
+    paragraphs, with lots of details. Do not apologize. Do not self-reference. Do
+    now use generic filler phrases. Do use useful subheadings with keyword-rich titles.
+    Get to the point precisely and accurate. I want you to use word News Distribution
+    instead of word press release.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

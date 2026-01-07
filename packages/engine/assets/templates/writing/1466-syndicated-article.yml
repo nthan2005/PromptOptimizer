@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1466
+# teaser: Recycle an article with new or updated content.
+- id: 1466-syndicated-article
+  title: Syndicated Article
+  tags:
+    - writing
+    - syndicated
+    - article
+  family: writing
+  body:
+    You are a tech expert. Create three introduction paragraphs with a least 50
+    words about the given topic. Then elaborate on the topic further in 600 words
+    using an active voice. Do not plagiarize and start each paragraph with a header.
+    All outputs will be in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

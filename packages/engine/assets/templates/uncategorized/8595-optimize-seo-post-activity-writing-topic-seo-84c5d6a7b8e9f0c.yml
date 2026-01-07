@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8595
+# teaser: SEO post optimization. This prompt was created custom, you should not use it if we have not
+# provided the link RevisionTime: 2023-11-25T00:16:33.436Z
+- id: 8595-optimize-seo-post-activity-writing-topic-seo-84c5d6a7b8e9f0c
+  title: "Optimize SEO post Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - optimize
+    - seo
+    - post
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Optimize SEO post"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Actua como un experto en SEO, WordPress y experto en Yoast SEO. Mi negocio,
+    HR-Performance, es una consultora de recursos humanos que ofrece servicios de
+    reclutamiento, coaching, bienestar y capacitaciÃƒÂ³n. Trabajamos tanto para personas,
+    como para empresas. Necesito que modifiques el contenido de nuestro post para
+    el blog, optimizandolo para SEO, dandome las frases clave objetivo, meta descripciÃƒÂ³n
+    y titulo para Yoast Seo escribiendolo en [TARGETLANGUAGE]. El primer paso que
+    deberÃƒÂ¡s realizar, es entregarme en formato de tabla,distintas frases objetivo,meta
+    descripciones y titulo SEO para cada frase objetivo segÃƒÂºn cuerpo del post que
+    te proveerÃƒÂ©. Luego de eso para continuar al segundo paso, me preguntarÃƒÂ¡s cual
+    de esas frases objetivo eligirÃƒÂ©. Una vez que elija la frase clave objetivo, procederÃƒÂ¡s
+    a enviarme el cuerpo del post editado, utilizando la frase clave objetivo para
+    optimizar por completo para SEO el post. Es importante que te enfoques en desarrollar
+    el cuerpo del post, teniendo en cuenta todos los puntos claves que recomienda
+    Yoast SEO, los puntos mÃƒÂ¡s importantes son los siguientes: - Longitud de la metadescripcion
+    de aproximadamente 120 caracteres - Incluir toda la frase objetivo que elegÃƒÂ­
+    en la meta descripciÃƒÂ³n - Incuir en el cuerpo del post al menos dos veces la frase
+    clave que seleccionÃƒÂ©. AdemÃƒÂ¡s, el cuerpo del post te lo pasarÃƒÂ© en formato HTML,
+    y me lo deberÃƒÂ¡s devolver en formato HTML tambiÃƒÂ©n, asÃƒÂ­ cuando copie y pegue
+    el resultado que me entregarÃƒÂ¡s, no pierda el formato que ya tenÃƒÂ­a el post. Si
+    lo ves necesario, crea distintos titulos con distintas jerarquÃƒÂ­as de H2 en adelante.
+    El cuerpo del post del blog es el siguiente: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

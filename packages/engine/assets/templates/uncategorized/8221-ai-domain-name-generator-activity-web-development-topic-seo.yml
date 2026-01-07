@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8221
+# teaser: Create the best domain name for your business. Crush your competition with this AI Domain
+# Name Generator RevisionTime: 2023-02-19T15:35:19Z
+- id: 8221-ai-domain-name-generator-activity-web-development-topic-seo
+  title: "AI Domain Name Generator Activity: Web Development Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - domain
+    - name
+    - generator
+    - activity
+    - web
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "AI Domain Name Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to imagine that you are a web domain expert and can come up with
+    the most creative, interesting and open-minded domain ideas for the [PROMPT] niche.
+    I don''t necessarily want you to use words from this niche, you can be creative
+    and use brandable domains. I want you to use your creativity as a web domain expert
+    and recommend 100 domains lined up under each other that are easy to click. The
+    domains must end in the extension indicated in [PROMPT] and be between 4 and 12
+    words in size. The language for domains must be [TARGETLANGUAGE]. IMPORTANT: DO
+    NOT REPEAT ANY DOMAIN, MAKE THEM UNIQUE.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

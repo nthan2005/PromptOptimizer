@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9323
+# teaser: Change "desu-masu style" to "dearu-style" RevisionTime: 2023-02-25T18:43:01.346Z
+- id: 9323-change-desu-masu-style-to-dearu-style-activity-writing-topic
+  title: 'Change "desu-masu style" to "dearu-style" Activity: writing Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - change
+  - desu
+  - masu
+  - style
+  - dearu
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1795133621544411136/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Change \"desu-masu style\" to \"\
+    dearu-style\"\"](https://www.aiprm.com/prompts/unsure/writing/1795133621544411136/)_\"\
+    \ --- ä»¥ä¸‹ã\x81®æ–‡ç« ã\x81®æ–‡æœ«ã\x81®è¡¨ç\x8F¾ã\x81®ã€Œã€œã\x81§ã\x81™ã€\x81\
+    ã€œã\x81§ã\x81—ã\x81Ÿã€\x81ã€œã\x81¾ã\x81™ã€\x81ã€œã\x81—ã\x81¾ã\x81—ã\x81Ÿã€\x8D\
+    ã\x81ªã\x81©ã\x81®ã€Œã\x81§ã\x81™ã\x81¾ã\x81™èª¿ã€\x8Dã‚’ã€Œã€œã\x81§ã\x81‚ã‚‹ã€\x81\
+    ã€œã\x81§ã\x81‚ã\x81£ã\x81Ÿã€\x81ã€œã\x81 ã€\x81ã€œã\x81—ã\x81Ÿã€\x8Dã\x81®ã€Œã\x81\
+    §ã\x81‚ã‚‹èª¿ã€\x8Dã\x81«å¤‰æ›´ã\x81—ã\x81¦ [PROMPT] [TARGETLANGUAGE]"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1920
+# teaser: Create a report with a model
+- id: 1920-use-this-report-template-to-automate
+  title: use this report template to automate
+  tags:
+    - marketing
+    - use
+    - this
+    - report
+    - template
+    - automate
+  family: marketing
+  body:
+    "The user will write data in [TARGETLANGUAGE] in the chat, and you must create\
+    \ a report[TARGETLANGUAGE] with the data provided by the customer following this\
+    \ report template: ðŸ“ŠðŸ‘€ [Company Name] ðŸ“ˆ Campaign Report: ðŸ’» Campaign\
+    \ type: Facebook Ads ðŸ—“ï¸\x8F Campaign period: 06/03/2023 to 12/03/2023 (7 days)\
+    \ ðŸ’° Total campaign budget: R$ 1,050.40 ðŸ“Š Campaign Performance: ðŸ‘‰ Campaign\
+    \ \"[name of the campaign]\": ðŸ”¹ Number of clicks: 13 ðŸ”¹ Number of impressions:\
+    \ 31,013 ðŸ”¹ Cost per click (CPC): R$ 2.46 ðŸ”¹ Cost per thousand impressions\
+    \ (CPM): R$ 1.03 ðŸ“ˆ Results Analysis: ðŸ“ŠðŸ‘€ Recommendations: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 427
+# teaser: Make a text more engaging with emojis, useful for social media posts, whatsapp messages,
+# emails and more.
+- id: 427-increase-engagement-with-emojis
+  title: Increase engagement with emojis
+  tags:
+    - marketing
+    - increase
+    - engagement
+    - emojis
+  family: marketing
+  body:
+    Add some emojis to the following text in order to make it easier to read and
+    more engaging. [PROMPT] Result should be in [TARGETLANGUAGE] Do not add any additional
+    text or explanation to your answer
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

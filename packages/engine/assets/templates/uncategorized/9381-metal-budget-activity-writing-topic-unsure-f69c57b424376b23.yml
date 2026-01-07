@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9381
+# teaser: metal budget RevisionTime: 2023-07-18T13:47:41.394Z
+- id: 9381-metal-budget-activity-writing-topic-unsure-f69c57b424376b23
+  title: "metal budget Activity: writing Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - metal
+    - budget
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "metal budget"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- apresenta o resultado do idioma [TARGETLANGUAGE] [PROMPT] ,eu quero vocÃƒÂª
+    vira um orÃƒÂ§amentista metÃƒÂ¡lico explica como funciona um orÃƒÂ§amento de prestaÃƒÂ§ÃƒÂ£o
+    de serviÃƒÂ§o de fabricaÃƒÂ§ÃƒÂ£o e montagem faz um e-book explicando tudo sobre orÃƒÂ§amentos
+    de estrutura metÃƒÂ¡lica com calculo tÃƒÂ©cnica planilha explicaÃƒÂ§ÃƒÂµes como funciona
+    cada detalhe do orÃƒÂ§amento com vÃƒÂ¡rios tÃƒÂ³picos me apresenta um e-book bem organizado'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

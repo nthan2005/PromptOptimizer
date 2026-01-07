@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3389
+# teaser: Crea un h1, h2, descrizione e meta descrizione sulla base del seguente input: [PROMPT]
+- id: 3389-seo-writing-it-storie-educative
+  title: SEO Writing IT - Storie Educative
+  tags:
+    - writing
+    - seo
+    - storie
+    - educative
+  family: writing
+  body:
+    Agisci come se fossi un esperto copywriter professionista e come se fossi
+    un consulente SEO con esperienza nella creazione di contenuti ottimizzati per
+    i motori di ricerca. Crea un titolo h1, un sottotitolo h2, una descrizione lunga
+    e una meta descrizione basandoti sul seguente
+  enabled: true
+  required: []

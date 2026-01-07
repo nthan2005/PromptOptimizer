@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 135
+# teaser: business lawyer
+- id: 135-professional-profile
+  title: Professional profile
+  tags:
+    - accounting
+    - professional
+    - profile
+  family: Accounting
+  body:
+    Create me a professional profile on [TARGETLANGUAGE] for [PROMPT] Hispanic
+    working in the US who has his blog.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

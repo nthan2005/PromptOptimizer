@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6023
+# teaser: Helpful Content Writer ready to Write A 100 Words Content RevisionTime:
+# 2023-10-04T07:03:31.218Z
+- id: 6023-write-a-100-words-content-activity-writing-topic-copywriting
+  title: "Write A 100 Words Content Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - write
+    - "100"
+    - words
+    - content
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Write A 100 Words Content"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are content writer and you are asked to write a 100 words content with
+    title on this [KEYWORD], but make it sound human and don''t use complex english
+    in the context of helping users through suggesting them business that helps in
+    fulfilling their needs. Use exact keyword Reply only in [TARGETLANGUAGE] language.
+    Your task is: [PROMPT]'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

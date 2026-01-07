@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4079
+# teaser: Clean datas RevisionTime: 2023-05-05T10:44:30.316Z
+- id: 4079-clean-datas-activity-accounting-topic-copywriting-00ea56f446
+  title: "Clean datas Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - clean
+    - datas
+    - activity
+    - accounting
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Clean datas"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Veuillez nettoyer chaque nom de sociÃƒÂ©tÃƒÂ© de la liste suivante en supprimant
+    les formes juridiques (SARL, SELARL, SAS, etc.) et en ne conservant que le nom
+    essentiel de la sociÃƒÂ©tÃƒÂ©. Mettez chaque mot avec le premiÃƒÂ¨re lettres en majuscule
+    et le reste en minuscule comme dans cet exemple : Nicolas. N''incluez aucun dÃƒÂ©tail
+    supplÃƒÂ©mentaire tel que des informations sur les services ou les villes. Assurez-vous
+    de n''inclure que le nom de la sociÃƒÂ©tÃƒÂ©. Voici la liste des sociÃƒÂ©tÃƒÂ©s dans [PROMPT].
+    Utilise le [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

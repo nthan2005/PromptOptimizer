@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5944
+# teaser: Write 10 motivational texts for my videos from domaine title RevisionTime:
+# 2024-02-27T22:29:24.943Z
+- id: 5944-text-motivation-activity-writing-topic-copywriting-00ea56f44
+  title: 'Text motivation Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - text
+  - motivation
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1928186619886620672/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Text motivation"](https://www.aiprm.com/prompts/copywriting/writing/1928186619886620672/)_"
+    --- I''m a tiktok influencer who motivates people with my motivational videos.
+    You''re my assistant. Write 10 motivational texts for my videos. This is the field
+    of motivation:[PROMPT] you will write the summary in this language. [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

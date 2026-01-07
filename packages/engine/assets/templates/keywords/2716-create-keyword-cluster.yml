@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2716
+# teaser: Create a keyword cluster with optimize page titles, meta descriptions and img alt tags
+# displayed in a table by difficult.
+- id: 2716-create-keyword-cluster
+  title: Create Keyword Cluster
+  tags:
+    - keywords
+    - keyword
+    - cluster
+  family: keywords
+  body:
+    Pretend you are a Googlebot crawling the web for high-quality, relevant content
+    to index. I want you to create a keyword cluster for this keyword, [PROMPT] in
+    [TARGETLANGUAGE]. Assuming the keyword difficulty is high, can you include optimised
+    page titles, meta descriptions no longer than 157 characters, optimised alt tags
+    for the images and search intents that satisfy the search intent and naturally
+    utilise keywords? Formulate a table to rank these keywords on Google's top position.
+    Take inspiration from Google, Ahrefs and SEMrush best practices for ranking in
+    Google's top position.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

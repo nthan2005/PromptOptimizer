@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6762
+# teaser: Get a custom captions for Capture life's moments and share them with the world. Showcase
+# your creativity with a witty and attention-grabbing caption for your Facebook and Instagram posts!
+# RevisionTime: 2024-10-03T09:55:59.847Z
+- id: 6762-create-a-best-caption-for-the-facebook-and-instagram-post-ac
+  title:
+    "Create a Best Caption for the Facebook and Instagram Post Activity: Social
+    Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - caption
+    - facebook
+    - instagram
+    - post
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create a Best Caption for the Facebook
+    and Instagram Post"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create a caption for your latest [product/service] post that incorporates
+    keywords relevant to your business. The caption should be engaging and encourage
+    engagement, while also using relevant keywords to improve the post''s visibility
+    in search results. Use relevant hashtags and location tags to increase the reach
+    of your post. Write in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

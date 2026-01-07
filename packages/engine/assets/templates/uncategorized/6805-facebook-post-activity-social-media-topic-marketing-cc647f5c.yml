@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6805
+# teaser: Media prompt for Facebook post. Works best for Article Shareing RevisionTime:
+# 2024-10-03T09:54:06.08Z
+- id: 6805-facebook-post-activity-social-media-topic-marketing-cc647f5c
+  title: "Facebook Post Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - facebook
+    - post
+    - activity
+    - social
+    - media
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Facebook Post"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a really short facebook post about the following article, use CTAÃ‚Â´s
+    and emojis. Write in [TARGETLANGUAGE]. Create 3 versions No need to include the
+    Publisher name in the Facebook post [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

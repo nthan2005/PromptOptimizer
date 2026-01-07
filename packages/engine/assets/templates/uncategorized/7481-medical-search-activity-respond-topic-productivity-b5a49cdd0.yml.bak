@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7481
+# teaser: Search for medical terms RevisionTime: 2023-05-25T07:48:07.653Z
+- id: 7481-medical-search-activity-respond-topic-productivity-b5a49cdd0
+  title: 'Medical Search Activity: Respond Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - medical
+  - search
+  - activity
+  - respond
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1827221331889098752/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Medical Search"](https://www.aiprm.com/prompts/productivity/respond/1827221331889098752/)_"
+    --- You are a medical expert. You speak and write fluently in [TARGETLANGUAGE].
+    Your task is to find what is [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

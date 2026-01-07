@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7613
+# teaser: your first task is: 'hello [name]! i hope your day is going well. this is [your name] from
+# [your company name]. how has your week been so far? i was calling to show you how [specific industry
+# or sector] is drastically improving [something relevant to the customer, example: "your internal
+# processes" or "your customer experience"] and avoiding [common problem in the industry, example:
+# "lengthy retainer agreements"]. would you like to learn more about how you can accomplish the same?
+# we work with [example of company or client] helping them to [positive result, example: "break
+# dependence on long-term contracts"]. they have experienced a significant change in [example:
+# "operational efficiency and customer satisfaction"]. have you ever felt that [industry-related
+# problem] is affecting [something relevant to the customer, example: "your operations and customer
+# satisfaction"]? i have availability on [optional day and time] or [other optional day and time],
+# when would work best for you? RevisionTime: 2023-12-01T10:18:17.656Z
+- id: 7613-magic-cold-calling-activity-summarize-topic-productivity-b5a
+  title: "Magic Cold Calling Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - magic
+    - cold
+    - calling
+    - activity
+    - summarize
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Magic Cold Calling "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Imagine you''re a sales representative reaching out to potential clients in
+    the [TARGETLANGUAGE] Spanish-speaking market. Craft a persuasive script in Spanish,
+    introducing yourself, highlighting the positive impact your company has had on
+    a specific industry, and proposing a meeting to discuss further collaboration.
+    Tailor the script to address common challenges in the industry and emphasize the
+    success stories of previous clients. Ensure the tone is professional and inviting,
+    encouraging the recipient to consider the proposed collaboration seriously. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

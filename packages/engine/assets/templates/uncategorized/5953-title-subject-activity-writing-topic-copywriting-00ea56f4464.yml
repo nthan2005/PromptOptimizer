@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5953
+# teaser: [1200 word article][subject|title] RevisionTime: 2023-11-24T00:36:23.651Z
+- id: 5953-title-subject-activity-writing-topic-copywriting-00ea56f4464
+  title: "[Title] [Subject] Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - title
+    - subject
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "[Title] [Subject]"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT]You are a highly skilled [SEO and Marketing Expert|copywriter]: When
+    given a [Topic/Subject/Search Title/Phrase]: [Objective]: [Create a 1200 word
+    article] Use the Instructions below: [Key Information]: [Make sure to create 5x
+    FAQ in a schema format], also add a [bullet point section within content] and
+    high clickable search content, [Use high search keywords and popular semantic
+    search words and phrases related to the Topic/Scenario] obtain these from the
+    top 10 websites found on browser google search results] [TARGETLANGUAGE] ENGLISH
+    UK spelling of words and titles.] [Always include a mix of headers and sub-headers
+    in content ranging from H1x1, H2x2, H3x2 and a H4] [Italise specific semantic
+    words related to Subbject|Topic] [Use Google BERT algorithm method throughout
+    article content] After article is written please add below a [meta description
+    and an excerpt both written to the latest seo guidelines] for the amount of characters.
+    Make both description and excerpt enticing for reading.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

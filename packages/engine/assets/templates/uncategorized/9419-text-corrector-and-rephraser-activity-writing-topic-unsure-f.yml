@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9419
+# teaser: As a multilingual text checker, this tool corrects spelling errors and rephrases sentences
+# to improve their readability and meaning. Explanation of modifications: - Correction of spelling and
+# grammar errors (capitalization, missing articles, etc.). - Rephrasing of the sentence to improve its
+# flow and clarity. - Addition of "improve" before "meaning" to make the sentence more precise.
+# Overall, the modifications aim to enhance the readability and professionalism of the sentence.
+# RevisionTime: 2023-03-15T10:35:40Z
+- id: 9419-text-corrector-and-rephraser-activity-writing-topic-unsure-f
+  title: "Text corrector and rephraser Activity: writing Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - text
+    - corrector
+    - rephraser
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Text corrector and rephraser"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Je vais te donner un texte en [TARGETLANGUAGE]. Tu ne devras pas modifier
+    le sens de cette phrase mais tu pourra la reformuler si nÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©cessaire pour le rendre
+    plus comprÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©hensible et plus travaillÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©, tu vas ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©galement corriger les diffÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©rentes
+    fautes d''orthographe et de grammaire de la phrase. Tu as le droit d''expliquer
+    en dessous du texte corrigÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â© les modifications apportÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©s au texte Le texte sur
+    lequel tu dois travailler est le suivant : [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

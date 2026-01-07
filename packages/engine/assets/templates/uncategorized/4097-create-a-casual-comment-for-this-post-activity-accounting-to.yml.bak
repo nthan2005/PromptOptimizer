@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4097
+# teaser: Create a casual comment for this post. RevisionTime: 2023-03-29T15:25:31.47Z
+- id: 4097-create-a-casual-comment-for-this-post-activity-accounting-to
+  title: 'Create a casual comment for this post. Activity: Accounting Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - casual
+  - comment
+  - this
+  - post
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1805928608926265344/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create a casual comment for this post."](https://www.aiprm.com/prompts/copywriting/accounting/1805928608926265344/)_"
+    --- [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

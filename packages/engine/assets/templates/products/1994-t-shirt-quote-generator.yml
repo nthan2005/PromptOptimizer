@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1994
+# teaser: Create a list of witty and catchy t-shirt quotes that are memorable and conversation
+# starters. Please like this if it was helpful!
+- id: 1994-t-shirt-quote-generator
+  title: T-Shirt Quote Generator
+  tags:
+    - products
+    - shirt
+    - quote
+    - generator
+  family: Products
+  body:
+    As a designer creating witty and catchy t-shirt quotes, think about what makes
+    people laugh, what phrases are memorable, and what could start a conversation.
+    Consider incorporating puns, wordplay, or references to pop culture, while ensuring
+    the message remains family-friendly and appropriate for a wide audience. Keep
+    the quotes short and to the point, so they can be easily read and understood.
+    My first inspiration for quotes is [PROMPT]. The target language is [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

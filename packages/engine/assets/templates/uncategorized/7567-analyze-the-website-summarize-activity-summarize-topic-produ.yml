@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7567
+# teaser: Analyze the Website Article & Summarize. Upvote if you like it RevisionTime:
+# 2023-02-19T15:35:19Z
+- id: 7567-analyze-the-website-summarize-activity-summarize-topic-produ
+  title: "Analyze the Website Summarize Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - analyze
+    - website
+    - summarize
+    - activity
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Analyze the Website Summarize"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to analyze the website I give you and report in 200 words. All
+    outputs shall be in [TARGETLANGUAGE]. The text to summarize should be read from
+    this URL: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

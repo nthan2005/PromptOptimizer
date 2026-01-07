@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6943
+# teaser: Create 5 ready to go Premium social media posts and 4 hashtags for each of the topics of
+# your keyword list. Enjoy Your Social Media Campaign ..! RevisionTime: 2024-10-03T09:57:38.118Z
+- id: 6943-social-media-posts-writer-hashtags-activity-social-media-top
+  title: 'Social Media Posts Writer + Hashtags! Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - social
+  - media
+  - posts
+  - writer
+  - hashtags
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1802247078706147328/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Social Media Posts Writer + Hashtags!
+    "](https://www.aiprm.com/prompts/marketing/social-media/1802247078706147328/)_"
+    --- Create 5 social media posts and 4 hashtags in [TARGETLANGUAGE] for each of
+    the keywords in the list here: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

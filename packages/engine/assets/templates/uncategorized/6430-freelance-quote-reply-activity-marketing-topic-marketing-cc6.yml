@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6430
+# teaser: Write a Quote for this [Description] RevisionTime: 2023-03-01T10:42:41.511Z
+- id: 6430-freelance-quote-reply-activity-marketing-topic-marketing-cc6
+  title: "Freelance Quote reply Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - freelance
+    - quote
+    - reply
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Freelance Quote reply"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- i want you to act as a freelance, i want you to reply to a client project
+    description giving the client a quote and explain how the project would be complete
+    here is the client project description [PROMPT] and i want response in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

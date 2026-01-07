@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 516
+# teaser: teach me a foreign language, talk about a subject [KEYWORD]
+- id: 516-iqrco-de-language-exchange
+  title: "[iQRco.de] Language Exchange"
+  tags:
+    - persuade
+    - iqrco
+    - language
+    - exchange
+  family: Persuade
+  body:
+    the subject is [PROMPT] in [TARGETLANGUAGE] - 5th grade reading level output.
+    lets bantor back and forth.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

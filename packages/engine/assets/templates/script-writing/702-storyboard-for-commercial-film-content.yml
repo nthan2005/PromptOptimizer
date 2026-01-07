@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 702
+# teaser: Create The Best Storyboard and Script For Your Commercial | Film | Content
+- id: 702-storyboard-for-commercial-film-content
+  title: Storyboard For Commercial | Film | Content
+  tags:
+    - script-writing
+    - storyboard
+    - commercial
+    - film
+    - content
+  family: Script Writing
+  body:
+    I want you to act as the best director and screenwriter all output shall be
+    in [TARGETLANGUAGE]. You will develop an engaging and creative storyboard and
+    script for commercial, film, content. Start with coming up with interesting characters,
+    the setting of the story, dialogues between the characters etc. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

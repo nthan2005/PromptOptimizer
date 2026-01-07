@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5609
+# teaser: Vacancy text inclusive RevisionTime: 2024-10-27T13:58:28.955Z
+- id: 5609-inclusive-job-vacancy-text-activity-writing-topic-copywritin
+  title: "Inclusive job vacancy text Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - inclusive
+    - job
+    - vacancy
+    - text
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Inclusive job vacancy text"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create a job vacancy text for the [PROMPT] of a maximum of 300 words. Use
+    a professional and enthusiastic writing style with an inclusive tone, following
+    this structure: Introduction about [company] Introduction of the department What
+    will you do? in bullet points What do we offer you? in bullet points Who are you?
+    in bullet points If you have any questions, please contact [recruiter] at [e-mail]
+    or [phone number]. We look forward to receiving your application and hope to welcome
+    you soon as our new [vacancy] at [company], [slogan]! [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

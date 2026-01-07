@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2098
+# teaser: Writes a compelling call-to-action intro and button text
+- id: 2098-call-to-action
+  title: Call-To-Action
+  tags:
+    - writing
+    - call
+    - action
+  family: writing
+  body:
+    "Write a short improved call-to-action in Language: [TARGETLANGUAGE], containing
+    a headline and a button text for this action: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

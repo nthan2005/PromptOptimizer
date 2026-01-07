@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5123
+# teaser: Create 10 pinterest titles using blog link and a great seo description for the pins in one
+# go RevisionTime: 2023-04-03T12:20:09.897Z
+- id: 5123-10-pinterest-seo-titles-and-description-activity-writing-top
+  title: "10 Pinterest SEO Titles and Description Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - pinterest
+    - seo
+    - titles
+    - description
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "10 Pinterest SEO Titles and Description"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- As a proficient content write and experienced SEO writer Fluent in [TARGETLANGUAGE]
+    . Help me create 10 pintrest titles and a general description of not more then
+    450 characters that will attract traffic and engagement from this article; [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

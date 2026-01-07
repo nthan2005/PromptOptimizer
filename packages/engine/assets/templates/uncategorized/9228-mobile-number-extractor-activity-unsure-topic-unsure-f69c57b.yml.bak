@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9228
+# teaser: Mobile Number Extractor RevisionTime: 2024-07-22T05:35:16.011Z
+- id: 9228-mobile-number-extractor-activity-unsure-topic-unsure-f69c57b
+  title: 'Mobile Number Extractor Activity: UNSURE Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - mobile
+  - number
+  - extractor
+  - activity
+  - unsure
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1980836347523092480/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Mobile Number Extractor"](https://www.aiprm.com/prompts/unsure/unsure/1980836347523092480/)_"
+    --- Please write in ENGLISH Please extract all the mobile numbers from the following
+    text and format them by removing any spaces and leading zeros. Then, add the country
+    code "91" at the beginning of each number. and output list give in list form do
+    not add numberings in list All output shall be in [TARGETLANGUAGE]. The text to
+    summarize is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

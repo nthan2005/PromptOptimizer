@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2432
+# teaser: rewrite concisely
+- id: 2432-rewrite
+  title: rewrite
+  tags:
+    - respond
+    - rewrite
+  family: Respond
+  body: rewrite the following concisely in [TARGETLANGUAGE]:[PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

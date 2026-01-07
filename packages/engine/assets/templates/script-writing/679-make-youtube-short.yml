@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 679
+# teaser: Make Youtube video short section
+- id: 679-make-youtube-short
+  title: Make youtube short
+  tags:
+    - script-writing
+    - youtube
+    - short
+  family: Script Writing
+  body:
+    "[PROMPT] in [TARGETLANGUAGE] gather all the important info from above paragraph
+    and rephrase and it in more excititing and engaging. Make rephrased passage less
+    then 150 words"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

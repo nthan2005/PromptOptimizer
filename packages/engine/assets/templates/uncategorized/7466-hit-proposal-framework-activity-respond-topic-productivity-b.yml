@@ -1,0 +1,61 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7466
+# teaser: A proposal using the suggested framework RevisionTime: 2023-12-11T06:03:36.425Z
+- id: 7466-hit-proposal-framework-activity-respond-topic-productivity-b
+  title: "HiT Proposal Framework Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - hit
+    - proposal
+    - framework
+    - activity
+    - respond
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"HiT Proposal Framework\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- I am [VARIABLE1] [VARIABLE1:Conection Name: Elham | Marketing Manager of\
+    \ HiT Land Co] [VARIABLE2:Client Name: Client name | Position of Brand or Company\
+    \ name] [VARIABLE3:Request From Us: request from us] [VARIABLE4:Special Offer:\
+    \ Special Offer] [VARIABLE5:Expert Advice: Initial Expert Advice] [VARIABLE6:More\
+    \ Info: More Info] We are HiT High Tech Business Solution Website: hit.land and\
+    \ in Social Media Platform @hitlandco We are a full-service Business Marketing\
+    \ and Advertising Agency With 19 years of experience in this field and 4 years\
+    \ in Oman, I have delivered services to great companies such as Ooredoo, Al Mouj\
+    \ Company, and many other brands. with powerful website design, social media,\
+    \ applications, promotional teasers, and making videos. High Tech Tools like AR,\
+    \ VR, MR, AI, etc, and High Tech Marketing Tools and consulting experts in digital\
+    \ transformation business development marketing and branding We had a call or\
+    \ a meeting with this Client: [VARIABLE2]. I am sending the Client information\
+    \ now Ã¢â‚¬Å“[PROMPT]Ã¢â‚¬\x9D In this meeting, they asked us to give them a proposal\
+    \ for: Ã¢â‚¬Å“[VARIABLE3]Ã¢â‚¬\x9D Now I want you in the role of a professional consultant\
+    \ and a brilliant proposal writer with the skill to write a proposal that the\
+    \ client cannot say no to. Write to me a proposal in [TARGETLANGUAGE] and using\
+    \ the suggested framework that I will send you below In writing the proposal use:[VARIABLE6]\
+    \ To write this proposal, use your Expert suggestion and plan for this business\
+    \ first, and if I wrote something in Ã¢â‚¬Å“Initial expert advice:Ã¢â‚¬\x9D, use our\
+    \ advice idea along with your proposals. Initial expert advice: [VARIABLE5] For\
+    \ the special offer Section use this idea: - [VARIABLE4] *Suggest the amounts\
+    \ and timings yourself, we will correct them if needed *In writing this proposal,\
+    \ use NLP and promotional writing techniques for more impact *Have a positive\
+    \ and powerful tone to have more impact on who reads the proposal My suggested\
+    \ framework for the proposal is this: H1: Proposal Title H2: Ã°Å¸â€™Â¡ Introduction:\
+    \ *Setting the tone *Kick off with a strong start. Clearly state the objective\
+    \ and hint at the solution, building anticipation. Problem statement Section *write\
+    \ a description + use bullet point for problems *Highlight the pain points of\
+    \ the client, showing them that you truly understand their predicament. *Define\
+    \ the problem or challenge that the client is facing. *Explain why the problem\
+    \ is important and how it is impacting the client's business. *Provide evidence\
+    \ to support your claims, such as data, statistics, or case studies. H2: Ã°Å¸â€œ\x9D\
+    \ Our Understanding: +*Addressing Pain Points H2: Ã°Å¸Å½Â¯ Project Objectives: 1."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3
+    - variable4
+    - variable5
+    - variable6

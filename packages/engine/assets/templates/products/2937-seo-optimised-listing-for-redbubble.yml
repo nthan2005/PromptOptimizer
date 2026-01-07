@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2937
+# teaser: Create SEO optimised Redbubble listing for your design. Thanks for upvote
+- id: 2937-seo-optimised-listing-for-redbubble
+  title: SEO optimised listing for Redbubble
+  tags:
+    - products
+    - seo
+    - optimised
+    - listing
+    - redbubble
+  family: Products
+  body:
+    "Task: Optimise my Redbubble listing for search engine visibility by following
+    these steps: Target language:[TARGETLANGUAGE] [PROMPT] Create a Traffic Grabbing
+    Title that adheres to the Redbubble algorithm's relevancy, competition, and traffic
+    guidelines. Generate, based on BubbleSpider, 25 high-volume, relevant SEO tags
+    to increase visibility and improve listing statistics seperate them with a comma.
+    Craft a keyword-rich description with max. length 200 characters."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

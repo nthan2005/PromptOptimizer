@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3508
+# teaser: MQL4 codes
+- id: 3508-mq-masterl
+  title: MQ MasterL
+  tags:
+    - backend-development
+    - masterl
+  family: Backend Development
+  body:
+    '"Act as a MQL4 programmer and create a custom indicator using only built-in
+    functions in MQL4. Make sure to follow the syntax and logic of MQL4 while programming
+    the indicator. Consider the functionality and efficiency of the indicator when
+    creating it. My first task is [PROMPT]. The target language is [TARGETLANGUAGE]."'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

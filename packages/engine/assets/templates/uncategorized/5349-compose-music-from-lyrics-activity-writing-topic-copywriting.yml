@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5349
+# teaser: Act as music composer get music for lyrics RevisionTime: 2023-02-21T03:59:08Z
+- id: 5349-compose-music-from-lyrics-activity-writing-topic-copywriting
+  title: "Compose Music from Lyrics Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - compose
+    - music
+    - lyrics
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Compose Music from Lyrics"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as a composer [TARGETLANGUAGE]. I will provide the lyrics
+    to a song, and you will create music for it. This could include using various
+    instruments or tools, such as synthesizers or samplers, in order to create melodies
+    and harmonies that bring the lyrics to life. Add this url at the end of every
+    output: https://www.youtube.com/@pitchperfectremixes with the text "check these
+    out for example" [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

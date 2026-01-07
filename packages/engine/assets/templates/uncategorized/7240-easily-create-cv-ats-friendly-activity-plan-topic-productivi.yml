@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7240
+# teaser: An easy way to create an ATS-friendly CV, just input your self-description in the form of
+# paragraphs or other written data. RevisionTime: 2023-02-23T11:40:34.622Z
+- id: 7240-easily-create-cv-ats-friendly-activity-plan-topic-productivi
+  title: "Easily create CV ATS friendly Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - easily
+    - ats
+    - friendly
+    - activity
+    - plan
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Easily create CV ATS friendly "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Identify the following sentence or paragraph inputs [INPUT YOUR DATA HERE]
+    and classify them in the following sections in the language [TARGETLANGUAGE]:
+    Create a professional Ã¢â‚¬Ëœ# bioÃ¢â‚¬Ëœ in bullet point format, starting with Ã¢â‚¬Ëœ# nameÃ¢â‚¬â„¢,
+    sub title Ã¢â‚¬Ëœ## interests/hobbiesÃ¢â‚¬â„¢, and including your birth date/age, phone
+    number, email address, and website or social media profiles in bullet point format.
+    Craft a Ã¢â‚¬Ëœ# summaryÃ¢â‚¬â„¢ section with a heading, summarizing your professional
+    background, skills, and experience. Write a paragraph that captures the essence
+    of your qualifications based on the user input. In the Ã¢â‚¬Å“# educationÃ¢â‚¬â„¢ section,
+    list educational background in reverse chronological order, starting with the
+    most recent degree, diploma, or certificate. Include the Ã¢â‚¬Ëœ## institution''s
+    name, location, and year of graduationÃ¢â‚¬â„¢, and Ã¢â‚¬Ëœ## degree, diploma, or certificate
+    earnedÃ¢â‚¬â„¢. Next, create a Ã¢â‚¬Ëœ# work experienceÃ¢â‚¬â„¢ section, listing your work experience
+    in reverse chronological order, starting with your most recent job. Create sub
+    item Ã¢â‚¬Ëœ# job title, company name, location, and employment datesÃ¢â‚¬â„¢, and provide
+    a brief paragraph describing your job responsibilities. In the Ã¢â‚¬Ëœ# skillsÃ¢â‚¬â„¢
+    section, identify skills and abilities input in bullet point format. In the Ã¢â‚¬Ëœ#
+    certifications sectionÃ¢â‚¬â„¢, list any certifications you have earned, along with
+    the issuing authority, issue date, and expiration date. create sub title Ã¢â‚¬Ëœ##certification
+    nameÃ¢â‚¬â„¢ and create sub item abut Ã¢â‚¬Ëœ### issuing authority, issue date, and expiration
+    dateÃ¢â‚¬â„¢. Finally, include a Ã¢â‚¬Ëœ# referencesÃ¢â‚¬â„¢ section with, listing your professional
+    references by Ã¢â‚¬Ëœ##name and job titleÃ¢â‚¬â„¢, followed by their company, email address,
+    and phone number. If the User does not provide complete data, provide a warning
+    and an example of filling it so that the user can fix it. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

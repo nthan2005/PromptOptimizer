@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2525
+# teaser: Summarize any article in under 200 words for schema development
+- id: 2525-post-summary-for-structured-data
+  title: Post Summary for Structured Data
+  tags:
+    - summarize
+    - post
+    - summary
+    - structured
+    - data
+  family: Summarize
+  body:
+    can you please summarize this article content [PROMPT] in under 200 words
+    [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

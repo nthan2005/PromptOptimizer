@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4162
+# teaser: create information systems for mobile platfrom. RevisionTime: 2023-12-06T15:38:40.622Z
+- id: 4162-information-systems-activity-accounting-topic-copywriting-00
+  title: "Information Systems Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - information
+    - systems
+    - activity
+    - accounting
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Information Systems"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- tell me everything about information systems is[TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

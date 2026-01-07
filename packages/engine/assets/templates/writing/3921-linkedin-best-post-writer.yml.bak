@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3921
+# teaser: Write your LinkedIn post with this to be professionally active.
+- id: 3921-linkedin-best-post-writer
+  title: LinkedIn Best Post writer
+  tags:
+  - writing
+  - linkedin
+  - post
+  - writer
+  family: writing
+  body: 'Your task s to write a LinkedIn post in 120 words. Use Emojis with text to
+    make it reader friendly. All Output should be [TARGETLANGUAGE]. The post to write
+    is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

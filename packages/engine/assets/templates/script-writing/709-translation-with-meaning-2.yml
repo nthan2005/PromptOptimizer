@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 709
+# teaser: [text the right translation]
+- id: 709-translation-with-meaning-2
+  title: translation with meaning 2
+  tags:
+    - script-writing
+    - translation
+    - meaning
+  family: Script Writing
+  body:
+    I want you to translate the text i give you in [TARGETLANGUAGE] and give a
+    explanation in [ENGLISH] of what you translate, using maximum 50 words. [PROMPT]
+  enabled: true
+  required:
+    - english
+    - prompt
+    - targetlanguage

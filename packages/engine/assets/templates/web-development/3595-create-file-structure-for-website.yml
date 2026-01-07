@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3595
+# teaser: Create the best file structure for a website.
+- id: 3595-create-file-structure-for-website
+  title: Create file structure for website
+  tags:
+    - web-development
+    - file
+    - structure
+    - website
+  family: Web Development
+  body:
+    can you please provide an example of a project file structure for a website
+    called [PROMPT] the file structure should include html, css, javascript, php,
+    and image files, as well as any other necessary files remember to include html
+    files. please structure it for a complete website with a lot of files. It should
+    all be written in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

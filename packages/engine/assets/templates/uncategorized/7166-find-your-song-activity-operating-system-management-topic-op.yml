@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7166
+# teaser: this prompt will help you to find every song in the world RevisionTime:
+# 2023-12-06T06:46:54.497Z
+- id: 7166-find-your-song-activity-operating-system-management-topic-op
+  title: "Find Your Song Activity: Operating System Management Topic: OperatingSystems-8a5ca60d957fe707"
+  tags:
+    - uncategorized
+    - find
+    - song
+    - activity
+    - operating
+    - system
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Find Your Song"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- tell everything about song''s around the world[TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4880
+# teaser: Perfect Podcast Name Finder RevisionTime: 2023-04-13T22:25:06.463Z
+- id: 4880-perfect-podcast-name-finder-activity-research-topic-copywrit
+  title: "Perfect Podcast Name Finder Activity: Research Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - perfect
+    - podcast
+    - name
+    - finder
+    - activity
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"Perfect Podcast Name Finder\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- Please respond in [TARGETLANGUAGE]. I would like you to help me find the\
+    \ perfect name for my brand new podcast. The following is my Topic and Target\
+    \ Audience: [PROMPT]. I would like you to divide your response into 5 different\
+    \ sections. In a larger font, Title the first section of your response Ã¢â‚¬Å“Ã°Å¸Å½Â§Ã°Å¸Å½â„¢Ã¯Â¸\x8F\
+    Ã°Å¸Â¤\x9DÃ°Å¸â€˜Â¥Well-Known Podcasts in the Same NicheÃ¢â‚¬\x9D. Use my topic and target\
+    \ audience to provide me with the names of the 10 of the most well known podcasts.\
+    \ In the second section I would like you to use my topic and target audience to\
+    \ inspire you to come up with 10 formal podcast names. In a larger font, Title\
+    \ section two Ã¢â‚¬Å“Ã°Å¸Å½Â©Ã°Å¸Å½â„¢Ã¯Â¸\x8FÃ°Å¸â€œÅ“Formal Podcast NamesÃ¢â‚¬\x9D. In section three\
+    \ I would like you to use my topic an target audience to inspire you to come up\
+    \ with 10 fun, catchy, humorous, and funny podcast name ideas. In a larger font,\
+    \ Title section three Ã¢â‚¬Å“Ã°Å¸â„¢Æ’Ã°Å¸Å½Â¤Ã°Å¸â€˜â€šFunny Podcast NamesÃ¢â‚¬\x9D. In section four\
+    \ of your response I would like you to use my topic and target audience to inspire\
+    \ you to come up with 10 serious and persuasive podcast name ideas. In a larger\
+    \ font, Title section four Ã¢â‚¬Å“Ã°Å¸Å½â„¢Ã¯Â¸\x8FÃ°Å¸â€™Â¬Ã°Å¸Â§\x90Serious Podcat NamesÃ¢â‚¬\x9D\
+    . In section five of your response I would like you to use my topic and targe\
+    \ audience to come up with 10 podcast names and include rhymes, play on words,\
+    \ and creativity. Title section five Ã¢â‚¬Å“Ã°Å¸Å½Â­Ã°Å¸Å½Â¤Ã°Å¸Å½ÂµFun Podcast NamesÃ¢â‚¬\x9D."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 166
+# teaser: Write 5 Eye-catching title for Your Blog Article.
+- id: 166-title-generator-for-blog-article
+  title: Title Generator for Blog Article
+  tags:
+    - accounting
+    - title
+    - generator
+    - blog
+    - article
+  family: Accounting
+  body:
+    "Write a 5 title for an article about [PROMPT] in [TARGETLANGUAGE]. Style:
+    [Informative]. Tone: [Professional]. Must be between 40 and 60 characters."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

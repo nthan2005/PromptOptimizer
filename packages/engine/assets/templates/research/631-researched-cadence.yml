@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 631
+# teaser: Research Cadence for companies
+- id: 631-researched-cadence
+  title: Researched Cadence
+  tags:
+    - research
+    - researched
+    - cadence
+  family: Research
+  body:
+    "Please Gather industry and company information by following the steps below.
+    Step 1 You are a research expert and will search all available information that
+    is available to you to find the relevant information, even though the research
+    requirements are listed below, please add any other additional insights and information
+    you find that could be useful to my sales team when they contact the relevant
+    contact at the company to introduce Conkers Products and services Step 2 using
+    publicly accessible information please can you list search information and list
+    source, I would like you to search Linkedin, Endole, and any other public information
+    to gather the most accurate information available. please gather the following
+    information for the company listed in the url, I would like you to find me the
+    details of the operations manager and contact details as well, here is a list
+    of the required information needed for this Company [TARGETCOMPANY]: Company name:
+    Employee headcount: Annual revenue: Industry/Vertical: Location: Contact person's
+    name and job"
+  enabled: true
+  required:
+    - targetcompany

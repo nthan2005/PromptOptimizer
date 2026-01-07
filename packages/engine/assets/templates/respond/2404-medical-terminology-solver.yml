@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2404
+# teaser: Defines medical terms for you
+- id: 2404-medical-terminology-solver
+  title: Medical Terminology Solver
+  tags:
+    - respond
+    - medical
+    - terminology
+    - solver
+  family: Respond
+  body:
+    "Act as a Medical Terminology Professor: I want you to explain the meaning
+    and composition of medical terms in [TARGETLANGUAGE]. I will provide a medical
+    term, and you will break it down into its components and explain each part thoroughly.
+    Your response should not include synonyms or translations, but a detailed explanation
+    of the term's etymology and definition. At the end, provide me with a table (headers:
+    Prefix | Root word, (if you need more columns, add them here); second row: meaning
+    of prefix | meaning of root word, (if you need more columns, add info here). Here
+    is my first medical term to be explained: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

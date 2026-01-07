@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7296
+# teaser: Best way to generate Mind Mapping Ideas RevisionTime: 2023-03-25T19:11:33.486Z
+- id: 7296-mind-map-generator-activity-plan-topic-productivity-b5a49cdd
+  title: "Mind Map Generator Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - mind
+    - map
+    - generator
+    - activity
+    - plan
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Mind Map Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Use a mind map theory to create a large text mind map about "should I change
+    careers?" [TARGETLANGUAGE] Use emojis and markdown to make it more visual. Don''t
+    use excessive description but rather keywords. Follow each point with potential
+    gain or lose from a material impact on my life from statistical data. Again use
+    only few words. Add numbers to each claim. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

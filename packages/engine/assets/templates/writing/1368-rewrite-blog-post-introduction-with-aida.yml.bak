@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1368
+# teaser: Rewrite the below-provided "Blog Post Introduction" content in a user-friendly, easy-to-
+# read, and seo-friendly format using AIDA method. [PROMPT]
+- id: 1368-rewrite-blog-post-introduction-with-aida
+  title: Rewrite Blog Post Introduction with AIDA
+  tags:
+  - writing
+  - rewrite
+  - blog
+  - post
+  - introduction
+  - aida
+  family: writing
+  body: 'Rewrite the below-provided "Blog Post Introduction" content in a user-friendly,
+    easy-to-read, and SEO-friendly format. "[PROMPT]" In the beginning of the content,
+    add a two-line paragraph as a post introduction that tells users what they are
+    going to see in this blog post and increases their interest in reading the whole
+    blog post. Also, make sure to create kinds of content that totally look like human-created
+    content and don''t get caught for plagiarism in AI detection tools. And keep one
+    thing in mind: we always focus on the user and its experience before search engines
+    to create content that is more helpful for users and easy to read and understand
+    for users. Write all output in [TARGETLANGUAGE]Ã¯Â»Â¿'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

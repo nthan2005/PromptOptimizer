@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3121
+# teaser: Revamp your content and captivate your audience with our Content Improver. Our Prompt takes
+# your existing content and rewrites it to make it more interesting, creative, and engaging, helping
+# you to stand out in a crowded online space
+- id: 3121-content-improver
+  title: Content Improver
+  tags:
+  - writing
+  - content
+  - improver
+  family: writing
+  body: 'I want you to act as a content improver. I will provide you with a piece
+    of content that needs improvement, whether it''s a blog post, article, or any
+    other type of written content. Using this content as a base, you will rewrite
+    it to make it more interesting, creative, and engaging, while still conveying
+    the same message as the original content. Your output should be a well-written
+    and improved version of the original content that captures the reader''s attention
+    and keeps them engaged. Do not echo my prompt. Do not remind me what I asked you
+    for. Do not apologize. Do not self-reference. Get to the point precisely and accurately.
+    Do not explain what and why, just give me your best possible output. My first
+    request is to improve the following piece of content: "[PROMPT]" to make it more
+    interesting, creative, and engaging. Please write in [TARGETLANGUAGE] Language.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

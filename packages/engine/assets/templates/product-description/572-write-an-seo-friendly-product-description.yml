@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 572
+# teaser: Writes an optimized product description based on a short list of product features. For best
+# results provide as much info as possible and include keywords you want to rank for.
+- id: 572-write-an-seo-friendly-product-description
+  title: Write an SEO-friendly Product Description
+  tags:
+    - product-description
+    - write
+    - seo
+    - friendly
+    - product
+    - description
+  family: Product Description
+  body:
+    "Please ignore all previous instructions. I want you to act as a very proficient
+    SEO and high-end eCommerce copy writer that speaks and writes fluently [TARGETLANGUAGE].
+    Write a 300 word product description in [TARGETLANGUAGE] based on the product
+    details I give you. Also follow these guidelines: - Focus on benefits rather than
+    features - Avoid sentences over 20 words - Avoid using passive voice - Include
+    a call to action at the end Here are the product details: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

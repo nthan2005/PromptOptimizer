@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 221
+# teaser: Design a fun and interactive game on any topic from a keyword
+- id: 221-game-builder
+  title: Game Builder
+  tags:
+    - games
+    - game
+    - builder
+  family: Games
+  body: Design a fun and interactive game in [TARGETLANGUAGE] on the topic [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

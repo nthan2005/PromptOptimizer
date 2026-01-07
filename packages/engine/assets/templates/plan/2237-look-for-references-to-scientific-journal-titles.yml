@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2237
+# teaser: Make scientific journal titles and their references
+- id: 2237-look-for-references-to-scientific-journal-titles
+  title: look for references to scientific journal titles
+  tags:
+    - plan
+    - look
+    - references
+    - scientific
+    - journal
+    - titles
+  family: Plan
+  body:
+    berikan saya beberapa topik judul jurnal ilmiah tentang [PROMPT] di jurusan
+    sistem informasi, menggunakan referensi yang sudah ada terlebih dahulu, dengan
+    bahasa [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

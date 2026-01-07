@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3101
+# teaser: Blog article titles for informational or commercial intents
+- id: 3101-blog-titles
+  title: Blog titles
+  tags:
+    - writing
+    - blog
+    - titles
+  family: writing
+  body:
+    "[TARGETLANGUAGE] * Give me 15 blog article titles with their intents, relevant
+    for the following keywords: [PROMPT] . Those topics should allow me to include
+    the keywords above into the article. The titles should be informational, or commercial
+    intents. also add attractive and eye catching 165 character meta description based
+    on title. show me result in a markdown table and categories them."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

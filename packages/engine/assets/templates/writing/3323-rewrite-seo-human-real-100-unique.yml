@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3323
+# teaser: Rewrite articles 100% Human writting, SEO and readable
+- id: 3323-rewrite-seo-human-real-100-unique
+  title: Rewrite SEO Human Real 100% Unique
+  tags:
+    - writing
+    - rewrite
+    - seo
+    - human
+    - real
+    - "100"
+  family: writing
+  body:
+    "Understand the words after the ':' sign and rewrite it as uniquely as possible,
+    make it different from the original version and make it readable and free of plagiarism,don't
+    forget to create h2 heading.Make the article as long as possible as you can. write
+    in [TARGETLANGUAGE], and And make the writing 100% unique like real human writing
+    and different from other sites on the internet: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

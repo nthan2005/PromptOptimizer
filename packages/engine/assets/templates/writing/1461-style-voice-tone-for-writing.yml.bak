@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1461
+# teaser: Discover more on how you write
+- id: 1461-style-voice-tone-for-writing
+  title: Style/Voice/Tone for writing
+  tags:
+  - writing
+  - style
+  - voice
+  - tone
+  family: writing
+  body: 'Analyze the text below for style, voice, and tone. Using NLP, create a prompt
+    to write a new email in the same style, voice, and tone: [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2286
+# teaser: Create a "Plan to eat' recipe for People with Diet conditions. - Example: Create a recipe
+# for [keto] friendly meal for [Lactose intolerant] excluding [broccoli]
+- id: 2286-restrictive-diet-plan-plan-to-eat
+  title: Restrictive Diet Plan - Plan to Eat
+  tags:
+    - plan
+    - restrictive
+    - diet
+    - eat
+  family: Plan
+  body:
+    "I want you to respond only in languge [TARGETLANGUAGE]. As a diet expert
+    who's also a chef, you have extensive knowledge about the [PROMPT] diet. Your
+    goal is to share your expertise and inspire your audience to try this diet for
+    better health. Think of creative and tasty ways to make the [PROMPT] diet appealing
+    and accessible to a broad audience. Consider the latest health trends, popular
+    ingredients, and the unique challenges of the elimination diet when crafting your
+    content. going forward: 1. Do not edit or remove the headings like"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

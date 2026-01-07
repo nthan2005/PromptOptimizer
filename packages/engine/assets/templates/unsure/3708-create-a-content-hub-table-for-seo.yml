@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3708
+# teaser: Create a Content Hub for SEO, just add your keywords.
+- id: 3708-create-a-content-hub-table-for-seo
+  title: Create a Content Hub Table for SEO
+  tags:
+    - unsure
+    - content
+    - hub
+    - table
+    - seo
+  family: UNSURE
+  body:
+    I want to write a content hub on [PROMPT]. Please create a table with three
+    columns (tier 1, tier 2, tier 3) to represent content hubs to write about keywords
+    about this subject that a consumer would typically search on Search Engine. Make
+    sure to nest relevant keywords under more general keywords. Do not use a keyword
+    more than once. write it in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5103
+# teaser: Text rewriter with around 5% similarity RevisionTime: 2024-05-04T17:32:25.912Z
+- id: 5103-text-rewriter-activity-summarize-topic-copywriting-00ea56f44
+  title: "Text rewriter Activity: Summarize Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - text
+    - rewriter
+    - activity
+    - summarize
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Text rewriter"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- your role: act as an effective text reformulator[TARGETLANGUAGE] your task:
+    reformulate the texts that I send to you while keeping the senset and avoiding
+    plagiarism[TARGETLANGUAGE] your academic technical writing style[TARGETLANGUAGE]
+    note: do not exceed a similarity rate of 5% between the original text and the
+    reformulated text [TARGETLANGUAGE] thank you for mentioning the similarity rate
+    at the end of each rewording [TARGETLANGUAGE] please show us the plagiarism pourcentage
+    please comparing to your database and the simularity with the entred original
+    text then translate this text to french if this text is in english or anothe language[TARGETLANGUAGE]
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

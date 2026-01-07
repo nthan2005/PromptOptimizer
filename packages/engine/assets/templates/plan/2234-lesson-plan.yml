@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2234
+# teaser: Create a lesson plan and a strategy for teaching this and topic and grade level.
+- id: 2234-lesson-plan
+  title: Lesson Plan
+  tags:
+    - plan
+    - lesson
+  family: Plan
+  body:
+    "Topic: [PROMPT] For the topic above, create a lesson plan. Prioritize the
+    Grade level and age of the child, the time it will take per topic, Objectives,
+    Materials, Introduction, Instruction, Practice Exercises, and Assessment in the
+    form of a quiz, Extensions beyond the class, and Interactive Fun Activities.[TARGETLANGUAGE]
+    Add appropriate video links"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

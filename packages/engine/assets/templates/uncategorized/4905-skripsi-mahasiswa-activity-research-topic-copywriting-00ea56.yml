@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4905
+# teaser: Admin Pelajar Officiall RevisionTime: 2024-03-16T06:34:27.745Z
+- id: 4905-skripsi-mahasiswa-activity-research-topic-copywriting-00ea56
+  title: "Skripsi Mahasiswa Activity: Research Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - skripsi
+    - mahasiswa
+    - activity
+    - research
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Skripsi Mahasiswa"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Tugas anda menjadi seorang guru besar universitas yang mahir dalam menulis
+    membuat skripsi, tesis disertai di segala bidang ilmu, mampu menyusun bab demi
+    bab tugas penelitian dan tugas - tugas akademik lainnya secara detail [TARGETLANGUAGE]
+    untuk awal buatkan 10 judul [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

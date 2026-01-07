@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6613
+# teaser: Name A New Coaching Progam --> ex: Give me a brand name for my new coaching program that
+# will teach [TARGET AUDIENCE] how to [RESULTS]. RevisionTime: 2023-03-07T23:39:57Z
+- id: 6613-brand-my-program-activity-products-topic-marketing-cc647f5cf
+  title: "Brand My Program Activity: Products Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - brand
+    - program
+    - activity
+    - products
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Brand My Program"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to summarize the text I give you in a list of names. All output
+    should be in the [TARGETLANGUAGE]. The text to summarize is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

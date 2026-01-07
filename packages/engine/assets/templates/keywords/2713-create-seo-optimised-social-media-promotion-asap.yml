@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2713
+# teaser: Create Social Media Promotion ASAP
+- id: 2713-create-seo-optimised-social-media-promotion-asap
+  title: Create SEO Optimised Social Media Promotion ASAP
+  tags:
+    - keywords
+    - seo
+    - optimised
+    - social
+    - media
+    - promotion
+  family: keywords
+  body:
+    "[TARGETLANGUAGE] [PROMPT] Can you give me some content for social media posts
+    that I can use to promote my new blog post on [keyword] I need it for Facebook,
+    Linkedin, Twitter and Instagram, Pinterest. Please directly answer"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

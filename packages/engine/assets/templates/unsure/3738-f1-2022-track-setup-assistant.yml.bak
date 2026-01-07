@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3738
+# teaser: Create a race setup for any track on the F1 2022 game. You can play with it and tell him to
+# make it more agressive, more stable, etc...
+- id: 3738-f1-2022-track-setup-assistant
+  title: F1 2022 Track Setup Assistant
+  tags:
+  - unsure
+  - '2022'
+  - track
+  - setup
+  - assistant
+  family: UNSURE
+  body: Donne moi le meilleur setup pour le jeu F1 2022 sur le circuit [PROMPT] Please
+    write in [TARGETLANGUAGE].
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

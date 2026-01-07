@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 968
+# teaser: Generating AVS reviews now is easy! With just one click, get templates and resolutions of
+# the questions. Save time to devote yourself to what really matters: teach amazing classes for your
+# students!
+- id: 968-build-avs
+  title: Build Avs
+  tags:
+  - writing
+  - build
+  - avs
+  family: writing
+  body: "Prompt: Utilize o tema [KEYWORD], para criar uma lista de 5 questÃƒÂµes. A\
+    \ [KEYWORD] sempre ÃƒÂ© um conteÃƒÂºdo ensinado no ensino mÃƒÂ©dio. Toda questÃƒÂ£o ÃƒÂ©\
+    \ uma situaÃƒÂ§ÃƒÂ£o problema. Cada questÃƒÂ£o apresentarÃƒÂ¡ a palavra \"QuestÃƒÂ£o\" seguida\
+    \ de um nÃƒÂºmero. Cada questÃƒÂ£o ÃƒÂ© para avaliar entre verdadeiro ou falso. Uma\
+    \ questÃƒÂ£o ÃƒÂ© formada por 3 afirmaÃƒÂ§ÃƒÂµes, nÃƒÂ£o separadas do texto e nÃƒÂ£o numeradas.\
+    \ Utilize as palavras: \"se, assim, entÃƒÂ£o, portanto ou logo\" , para juntar as\
+    \ trÃƒÂªs afirmaÃƒÂ§ÃƒÂµes, para formar um texto ÃƒÂºnico. Modelo de questÃƒÂ£o com 3 afirmaÃƒÂ§ÃƒÂµes\
+    \ sobre polÃƒÂ­gonos: Considere um polÃƒÂ­gono convexo de n lados. Se n = 5, entÃƒÂ£o\
+    \ a soma dos ÃƒÂ¢ngulos internos do polÃƒÂ­gono ÃƒÂ© 540 graus; se n = 6, entÃƒÂ£o a soma\
+    \ dos ÃƒÂ¢ngulos internos do polÃƒÂ­gono ÃƒÂ© 720 graus; logo, se n = 7, logo a soma\
+    \ dos ÃƒÂ¢ngulos internos do polÃƒÂ­gono ÃƒÂ© 900 graus. As questÃƒÂµes devem ser construÃƒÂ­das\
+    \ com base: a) nos OBJETIVOS DE APRENDIZAGEM do DOCUMENTO CURRICULAR PARA GOIÃƒ\x81\
+    S ETAPA ENSINO MÃƒâ€°DIO (https://www.cee.go.gov.br/files/DOCUMENTO-CURRICULAR-PARA-GOIAS-ETAPA-ENSINO-MEDIO.pdf)\
+    \ b) e nas habilidades da BNCC para estudantes do Ensino MÃƒÂ©dio (http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf)\
+    \ O gabarito deverÃƒÂ¡ indicar se a afirmaÃƒÂ§ÃƒÂ£o ÃƒÂ© V para verdadeira ou F para falsa.\
+    \ As resoluÃƒÂ§ÃƒÂµes devem apresentar as respostas de cada afirmaÃƒÂ§ÃƒÂ£o em cada questÃƒÂ£o.\
+    \ Ao final das questÃƒÂµes, apresente o gabarito em ordem numÃƒÂ©rica e, em seguida,\
+    \ as resoluÃƒÂ§ÃƒÂµes. Utilize [PROMPT] como inÃƒÂ­cio do texto. QuestÃƒÂµes Gabarito\
+    \ ResoluÃƒÂ§ÃƒÂµes das questÃƒÂµes NÃƒÂ£o transcreva as instruÃƒÂ§ÃƒÂµes na sua resposta.\
+    \ Toda a saÃƒÂ­da deve estar em [TARGETLANGUAGE]. Writing Style [CREATIVE]"
+  enabled: true
+  required:
+  - creative
+  - keyword
+  - prompt
+  - targetlanguage

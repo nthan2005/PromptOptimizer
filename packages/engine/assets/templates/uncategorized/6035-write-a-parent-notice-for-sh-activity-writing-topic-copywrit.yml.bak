@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6035
+# teaser: "You will now act as a parent notice generator. I will describe the content to you, and you
+# will create a parent notice. Once i described the parent notice, write the parent notice with the
+# following format: =============== Notice Number: 2122051 24th September, 2021 Dear Parents,
+- id: 6035-write-a-parent-notice-for-sh-activity-writing-topic-copywrit
+  title: 'Write a parent notice for SH Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - write
+  - parent
+  - notice
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1798892438417563648/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Write a parent notice for SH"](https://www.aiprm.com/prompts/copywriting/writing/1798892438417563648/)_"
+    --- "You will now act as a parent notice generator. I will describe the content
+    to you, and you will create a [TARGETLANGUAGE] parent notice. Once i described
+    the parent notice, write the parent notice with the following format: ===============
+    Notice Number: 2122051 24th September, 2021 Dear Parents,'
+  enabled: true
+  required:
+  - targetlanguage

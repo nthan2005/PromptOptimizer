@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4428
+# teaser: Have a text rewritten in a way that makes it creative, modern, and activating. At the same
+# time create headings and paragraphs. Rewrite press release. RevisionTime: 2023-03-07T08:03:40Z
+- id: 4428-modern-creative-text-in-activating-language-activity-improve
+  title: 'Modern, creative text in activating language. Activity: Improve Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - modern
+  - creative
+  - text
+  - activating
+  - language
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1797270921988538368/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Modern, creative text in activating
+    language."](https://www.aiprm.com/prompts/copywriting/improve/1797270921988538368/)_"
+    --- You are a proofreader for [TARGETLANGUAGE] texts with experience in proofreading
+    texts. This includes spelling, grammar, but also language effect and sentence
+    structure. Rewrite the following text in [PROMPT] and rephrase it to make it more
+    creative and modern. Rephrase passive phrases into active ones. Add appropriate
+    subheadings and paragraphs. A paragraph should never have more than 5 sentences.
+    A subheading never has more than 3 paragraphs. Return the text in the source language.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

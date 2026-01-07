@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7777
+# teaser: Generate an SEO optimized pyramid structure for a website given a [KEYWORD] RevisionTime:
+# 2023-02-19T15:35:19Z
+- id: 7777-pyramid-website-structure-for-seo-activity-ideation-topic-se
+  title: "Pyramid Website Structure for SEO Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - pyramid
+    - website
+    - structure
+    - seo
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Pyramid Website Structure for SEO"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create a detailed Pyramid structure for an website using the keyword: [PROMPT].
+    The sections and categories should be organized in a hierarchical structure, with
+    the Home page at the top and the more specific pages at the bottom. Use the knowledge
+    of how to make the best structure in terms of linking and SEO to get to the top
+    positions in Google. Get to the point precisely and accurate. Do not explain what
+    and why, just give me your best possible pyramid structure. All output should
+    be in [TARGETLANGUAGE]*.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3814
+# teaser: Type your email and let ChatGPT make it look professional and correct grammar for you
+- id: 3814-rewrite-email
+  title: Rewrite email
+  tags:
+    - unsure
+    - rewrite
+    - email
+  family: UNSURE
+  body:
+    Rewrite this email, make it look professional and correct grammar. It should
+    be in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

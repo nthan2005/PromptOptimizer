@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 48
+# teaser: Create articles in seconds
+- id: 048-best-article-prompt
+  title: Best article prompt
+  tags:
+    - accounting
+    - article
+    - prompt
+  family: Accounting
+  body:
+    'Escribe un artÃ­culo 100% Ãºnico, creativo y que parezca redactado por un
+    humano mexicano experto en loterÃ­as cuyo idioma es [TARGETLANGUAGE] de un mÃ­nimo
+    de 800 palabras para la [PROMPT]. Trata de usar contracciones, modismos, frases
+    de transiciÃ³n, conjunciones, coloquialismos y evita las frases repetitivas y
+    las estructuras oracionales poco naturales. El artÃ­culo debe incluir obligatoriamente:
+    - Un tÃ­tulo creativo (H1) - Una introducciÃ³n (pÃ¡rrafo inicial) - Lista enumerada
+    formato markdown con los subtÃ­tulos justo despuÃ©s de la introducciÃ³n (H2) -Cada
+    subtÃ­tulo debe tener un id para que la lista enumerada lleve al texto ancla.
+    - Negritas y cursivas (si es necesario) - Faqs Ãºtiles para el usuario Y con volumen
+    de bÃºsqueda en MÃ©xico. - Una conclusiÃ³n final AsegÃºrate de que el artÃ­culo
+    estÃ¡ libre de plagio. No olvides usar un signo de interrogaciÃ³n al final de
+    las preguntas. Intenta no cambiar la [Palabra clave]. Trata de usar la [Palabra
+    clave] 2-3 veces en el artÃ­culo. Trata de incluir la [Palabra clave] en los tÃ­tulos
+    tambiÃ©n. Trata de incluir [VARIABLE1] en los subtÃ­tulos. Trata de incluir la
+    [VARIABLE2] en un subtÃ­tulo diferente de la [VARIABLE1]. Escribir contenido que
+    puede pasar fÃ¡cilmente la prueba de herramientas de detecciÃ³n de IAs. [Palabra
+    clave] = "Tu palabra Clave" [VARIABLE1: KEYWORD SECUNDARIA 1] [VARIABLE2: KEYWORD
+    SECUNDARIA 2]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2

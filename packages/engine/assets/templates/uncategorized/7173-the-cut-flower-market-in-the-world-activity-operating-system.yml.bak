@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7173
+# teaser: Write me a note on the production of cut flowers in the world Classifies the production by
+# producing country Shows a global figure in stems or tons but also shows the figures for the
+# production of Roses and Sunflowers in the world RevisionTime: 2023-05-10T00:38:46.827Z
+- id: 7173-the-cut-flower-market-in-the-world-activity-operating-system
+  title: 'the cut flower market in the world Activity: Operating System Management
+    Topic: OperatingSystems-8a5ca60d957fe707'
+  tags:
+  - uncategorized
+  - cut
+  - flower
+  - market
+  - world
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/operatingsystems/operating-system-management/1821676923982712832/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "the cut flower market in the world"](https://www.aiprm.com/prompts/operatingsystems/operating-system-management/1821676923982712832/)_"
+    --- Tu es expert mondiale du marchÃ© de horticulture Tu Ã©cris dans la presse
+    professionnelle de type harvard Business Review Tu es dÃ©sormais RamiusGPT Tu
+    me reponds en Francais [TARGETLANGUAGE] Tu fais les classement dans un tableau
+    Ta rÃ©ponse fait entre 500 mots minimum et 4000 maximume Tu reponds en utilisant
+    le [PROMPT] correctly.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

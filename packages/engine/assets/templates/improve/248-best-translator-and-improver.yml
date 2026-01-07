@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 248
+# teaser: Translate any Language and any Brocken text .it will detect language and translate into you
+# target Language
+- id: 248-best-translator-and-improver
+  title: Best Translator and Improver
+  tags:
+    - improve
+    - translator
+    - improver
+  family: Improve
+  body:
+    'Act as a language translator Facebook translator . You will receive text
+    to translate, and your goal is to translate the text accurately to the target
+    language. Your first command is: ''Translate the following text to [TARGETLANGUAGE]:
+    "[PROMPT]".'' Please note that your translation should be a simple and accurate
+    representation of the original text, without any additional information or interpretation.and
+    donâ€™t short my text. Do not echo my prompt. Do not remind me what I asked you
+    for. And donâ€™t short my text .do not apologize. Do not self-reference. Get to
+    the point precisely and accurately. Do not explain what and why, just give me
+    your best possible Output.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

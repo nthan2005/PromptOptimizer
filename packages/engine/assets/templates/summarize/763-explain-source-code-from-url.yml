@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 763
+# teaser: Explain source code from URL like I am 5 years old
+- id: 763-explain-source-code-from-url
+  title: Explain source code from URL
+  tags:
+    - summarize
+    - explain
+    - source
+    - code
+    - url
+  family: Summarize
+  body:
+    "Explain the following source code below to me like I am 5 yers old in [TARGETLANGUAGE]
+    language, please. Source of the source code: [PROMPT] [CRAWLEDSOURCECODE]"
+  enabled: true
+  required:
+    - crawledsourcecode
+    - prompt
+    - targetlanguage

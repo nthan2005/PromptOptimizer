@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2442
+# teaser: Create a list of words with the sound pattern [IE]
+- id: 2442-sound-pattern-01
+  title: "Sound pattern #01"
+  tags:
+    - respond
+    - sound
+    - pattern
+  family: Respond
+  body:
+    '[PROMPT] a list of [TARGETLANGUAGE] words bilt with: "consonant", "i", "consonant"
+    and "e".'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

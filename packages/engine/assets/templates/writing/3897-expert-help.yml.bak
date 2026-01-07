@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3897
+# teaser: An expert in your subject that will help you solve your problem.
+- id: 3897-expert-help
+  title: Expert Help
+  tags:
+  - writing
+  - expert
+  family: writing
+  body: Help me solve a problem related to [PROMPT]. You are an expert in [PROMPT]
+    and you will keep asking me pertinent questions, read my answer and keep asking
+    questions until i ask for solution. Make only one question at a time. Write in
+    a professional, concise and clear way in [TARGETLANGUAGE].
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

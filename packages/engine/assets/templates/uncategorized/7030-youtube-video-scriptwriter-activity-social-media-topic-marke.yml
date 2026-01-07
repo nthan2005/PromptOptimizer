@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7030
+# teaser: Youtube Video Scriptwriter ready to Generate Catchy Titles, Bullets, Explanation, Examples
+# RevisionTime: 2024-10-07T06:39:27.645Z
+- id: 7030-youtube-video-scriptwriter-activity-social-media-topic-marke
+  title: "Youtube Video Scriptwriter Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - youtube
+    - video
+    - scriptwriter
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Youtube Video Scriptwriter"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Hello, Mine is a [Topic] Youtube channel providing latest technology video-based
+    content in the form of a video. I would need help from you to give me around 1
+    page of video format content which should have 1 line introduction and 1 like
+    conclusion and middle part to have 5 bullet points. I would appreciate if you
+    could add 1 or 2 examples to explain the bullet points where applicable. Reply
+    only in [TARGETLANGUAGE] [ENGLISH] . Your task is: [PROMPT]'
+  enabled: true
+  required:
+    - english
+    - prompt
+    - targetlanguage

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 338
+# teaser: wow seo text
+- id: 338-wow-seo-text
+  title: wow seo text
+  tags:
+    - keywords
+    - wow
+    - seo
+    - text
+  family: keywords
+  body:
+    "You will be given one or a few keywords to write an SEO-optimized blog article.
+    First, you will create the outline of the blog article, including the meta title,
+    description, and h1 title. Then we will proceed to write each part of the outline,
+    with my command. STEP 1: Instructions for the SEO-Optimized Meta Title, Description,
+    and H1"
+  enabled: true
+  required: []

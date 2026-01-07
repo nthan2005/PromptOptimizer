@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7358
+# teaser: Create a plan for [your topic] RevisionTime: 2023-09-10T16:26:01.094Z
+- id: 7358-study-schedule-in-some-topic-activity-plan-topic-productivit
+  title: "Study schedule in some topic Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - study
+    - schedule
+    - some
+    - topic
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Study schedule in some topic"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are an expert in [KEYWORD], [TARGETLANGUAGE], [PROMPT]. How would you
+    recommend a beginner to learn [KEYWORD]. Create a syllable and lesson plan for
+    me to learn this information effectively.'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

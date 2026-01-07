@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8987
+# teaser: Have the best programming summarizer ever RevisionTime: 2023-03-13T11:53:13Z
+- id: 8987-best-programming-summarizer-ever-activity-web-development-to
+  title: "Best programming summarizer ever Activity: Web Development Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - programming
+    - summarizer
+    - ever
+    - activity
+    - web
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best programming summarizer ever"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- you will explain how it works in the simplest and shortest possible way [TARGETLANGUAGE],
+    using a maximum of 3 sentences [TARGETLANGUAGE]. If it''s related to programming
+    [TARGETLANGUAGE], show a code example with ''Hello World'' [TARGETLANGUAGE]. Do
+    it all with the following text: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

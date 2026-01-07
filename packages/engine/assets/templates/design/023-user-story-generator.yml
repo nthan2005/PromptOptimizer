@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 23
+# teaser: Write user stories and acceptance criteria for your product in 1 click
+- id: 023-user-story-generator
+  title: User Story Generator
+  tags:
+    - design
+    - user
+    - story
+    - generator
+  family: Design
+  body:
+    Your are an experienced product owner. Your task is to write user stories
+    for [PRODUCT]. Include GIVEN WHEN THEN acceptance criteria for each of the user
+    stories. [PROMPT] Write all output in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - product
+    - prompt
+    - targetlanguage

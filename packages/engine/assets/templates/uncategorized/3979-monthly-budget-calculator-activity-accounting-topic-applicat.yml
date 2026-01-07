@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3979
+# teaser: Create your best budget plan for a month with 50/20/30 rule ! RevisionTime:
+# 2023-03-15T12:52:34Z
+- id: 3979-monthly-budget-calculator-activity-accounting-topic-applicat
+  title: "Monthly Budget Calculator Activity: Accounting Topic: Applications-f69b52b4213a6bd3"
+  tags:
+    - uncategorized
+    - monthly
+    - budget
+    - calculator
+    - activity
+    - accounting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Monthly Budget Calculator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is calculate monthly budget use a 50/30/20 rule. All output should
+    be in [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

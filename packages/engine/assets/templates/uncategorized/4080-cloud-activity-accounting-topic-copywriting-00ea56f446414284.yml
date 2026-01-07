@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4080
+# teaser: cloud RevisionTime: 2023-08-21T07:46:34.265Z
+- id: 4080-cloud-activity-accounting-topic-copywriting-00ea56f446414284
+  title: "Cloud Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - cloud
+    - activity
+    - accounting
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Cloud"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE],[PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

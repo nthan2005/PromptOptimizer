@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8827
+# teaser: Generate SEO optimized page from ANY content (a page title, an existing post, or a long
+# article). Drop an optional keyword list at the end. RevisionTime: 2023-02-19T15:35:19Z
+- id: 8827-write-seo-optimized-page-generates-entire-page-meta-looks-hu
+  title: 'Write SEO Optimized Page | Generates entire page + meta | Looks human written
+    Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - write
+  - seo
+  - optimized
+  - page
+  - generates
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1787176958136942592/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Write SEO Optimized Page | Generates
+    entire page + meta | Looks human written"](https://www.aiprm.com/prompts/seo/writing/1787176958136942592/)_"
+    --- Re-create a full article/page from the following content, include a better:
+    SEO Title, and SEO Meta Description at the begining. If the following content
+    contains a list of keywords at the end (or at begining), please optimize the article
+    to include them with a good density but make it look human written. Here''s the
+    content, and the keywords (if any): [PROMPT], please generate content in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

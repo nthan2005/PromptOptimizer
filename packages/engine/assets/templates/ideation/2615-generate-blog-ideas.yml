@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2615
+# teaser: Create a blog ideas [Keyword 1], [Keyword 2], [Keyword 3]
+- id: 2615-generate-blog-ideas
+  title: Generate Blog Ideas
+  tags:
+    - ideation
+    - generate
+    - blog
+    - ideas
+  family: ideation
+  body:
+    "Generate three blog ideas for the following keywords and all should be in
+    [TARGETLANGUAGE]: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

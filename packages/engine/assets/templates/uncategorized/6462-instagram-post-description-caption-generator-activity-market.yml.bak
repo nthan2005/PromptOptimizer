@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6462
+# teaser: Write an Instagram post caption/description RevisionTime: 2024-08-31T16:56:52.73Z
+- id: 6462-instagram-post-description-caption-generator-activity-market
+  title: 'Instagram post description / caption generator Activity: marketing Topic:
+    Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - instagram
+  - post
+  - description
+  - caption
+  - generator
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1784912620386783232/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Instagram post description / caption
+    generator "](https://www.aiprm.com/prompts/marketing/marketing/1784912620386783232/)_"
+    --- Say exactly "Mindless Writer AI Instagram post description/caption for [PROMPT]".
+    In the next line say exactly "To learn more about Mindless Writer AI visit https://mindlesswriter.com".
+    The text above should not be included in the next text context, just write it
+    on the beggining. Now add a separator here. Write me the Instagram post description
+    or caption in just a few sentences for the post "[PROMPT]". Format every new sentence
+    with new lines so the text is more readable. Include emojis and the best Instagram
+    hashtags for that post. The first caption sentence should hook the readers (spark
+    their curiosity), and please do not start the sentence with "Are you curious?"
+    Now add a separator here. Now say "If you liked this prompt please like it on
+    the prompt search page so we know to keep enhancing it." write all output in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

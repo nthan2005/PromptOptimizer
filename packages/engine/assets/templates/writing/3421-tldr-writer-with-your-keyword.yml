@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3421
+# teaser: Create an SEO Optimised TLDR passage from your content to Win Featured Snippets
+- id: 3421-tldr-writer-with-your-keyword
+  title: TLDR Writer With Your Keyword
+  tags:
+    - writing
+    - tldr
+    - writer
+    - keyword
+  family: writing
+  body:
+    "Create a TLDR in 2 to 3 sentences including the keyword [PROMPT] from the
+    content pasted below, writing the output in [TARGETLANGUAGE]: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 844
+# teaser: 5 Blog Article Titles for Any Given Niche.
+- id: 844-5-blog-article-titles-ideas
+  title: 5 Blog Article Titles Ideas
+  tags:
+    - writing
+    - blog
+    - article
+    - titles
+    - ideas
+  family: writing
+  body:
+    "IN [TARGETLANGUAGE]. Give me 5 titles ideas for blog article in this niche:
+    [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

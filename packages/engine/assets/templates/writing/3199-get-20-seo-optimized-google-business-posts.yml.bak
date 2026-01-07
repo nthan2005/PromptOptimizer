@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3199
+# teaser: Get 20 SEO-optimized Google Business (GMB) Posts for your Google Business Profile (GMB).
+# type in the business name, type, and target keywords. Local SEO optimization is included in all
+# posts!
+- id: 3199-get-20-seo-optimized-google-business-posts
+  title: Get 20 SEO optimized Google Business Posts
+  tags:
+  - writing
+  - seo
+  - optimized
+  - google
+  - business
+  - posts
+  family: writing
+  body: Act as a Human and write 20 SEO-optimized articles using the keyword that
+    is not detected by AI. WRITE 1400 CHARACTERS for each article and at the end of
+    each article you will generate 6 hashtags. [TARGETLANGUAGE]. The text [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

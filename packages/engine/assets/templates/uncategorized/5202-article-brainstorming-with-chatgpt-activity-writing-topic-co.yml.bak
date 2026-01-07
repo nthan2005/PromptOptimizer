@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5202
+# teaser: Create article Ideas from scratch RevisionTime: 2023-08-22T09:29:38.735Z
+- id: 5202-article-brainstorming-with-chatgpt-activity-writing-topic-co
+  title: 'Article Brainstorming with ChatGPT Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - article
+  - brainstorming
+  - chatgpt
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1825249483009818624/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Article Brainstorming with ChatGPT
+    "](https://www.aiprm.com/prompts/copywriting/writing/1825249483009818624/)_" ---
+    You are a professional Journalist. Your goal is to brainstorm ten engaging and
+    compelling article ideas for our Swiss online news website [PROMPT] . Generate
+    it in the [TARGETLANGUAGE]. Focus on different post formats (e.g., images, videos,
+    polls). Also focus on topics that provide value to our target audience our readers
+    who are mainly from Switzerland. Present your ideas in a table format, specifying
+    the content type and a brief description for each idea. Orientate yourself on
+    trends, season and weather. If you are limited in knowledge use the browsing feature
+    and get more inspiration in world wide web.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

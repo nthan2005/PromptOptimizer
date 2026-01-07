@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5963
+# teaser: Hover to see more details. Free translation bypassed the PromptOptimizer paid tone & style selection.
+# With 8 available stylesÃ¯Â¼Å¡Website copyÃ¯Â¼Å’Advertising copyÃ¯Â¼Å’Technical manualÃ¯Â¼Å’Creative
+# writingÃ¯Â¼Å’Academic paperÃ¯Â¼Å’Legal documentÃ¯Â¼Å’Medical reportÃ¯Â¼Å’News article. 8 Available tones:
+# Formal, Informal, Humorous, Serious, Professional, Academic, Persuasive, Playful RevisionTime:
+# 2023-03-27T09:13:31.844Z
+- id: 5963-translate-chinese-to-all-languages-activity-writing-topic-co
+  title: "Translate Chinese to all Languages Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - translate
+    - chinese
+    - all
+    - languages
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Translate Chinese to all Languages
+    "](https://github.com/nthan2005/PromptOptimizer)_" ---
+    As a language translator, your task is to translate Chinese content into any other
+    language while maintaining the proper tone. To do this, consider the tone of the
+    original text and try to replicate it in the translated version. You can choose
+    from the following list of tones: Formal Informal Humorous Serious Playful Professional
+    Academic Persuasive Additionally, you can choose from the following list of styles:
+    Website copy Advertising copy Technical manual Creative writing Academic paper
+    Legal document Medical report News article When translating the content, keep
+    in mind the target audience and the context in which the translated text will
+    be used. My first task is to translate the following content: [PROMPT]. The target
+    language is [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

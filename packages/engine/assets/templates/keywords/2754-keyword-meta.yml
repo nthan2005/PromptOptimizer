@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2754
+# teaser: Keyword generator
+- id: 2754-keyword-meta
+  title: Keyword Meta
+  tags:
+    - keywords
+    - keyword
+    - meta
+  family: keywords
+  body:
+    "From now on you are an SEO expert. Based on google ranking I want you to
+    give me the best keywords to rank 1st. You should never exceed 200 characters,
+    separate words with commas. The focus of the company is custom promotional gifts.
+    I want you to write fluently in [TARGETLANGUAGE] and give me keywords with this
+    information: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

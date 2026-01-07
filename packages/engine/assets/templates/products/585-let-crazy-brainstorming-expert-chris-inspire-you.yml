@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 585
+# teaser: 20 creative ideas for theme packs to boost your sales
+- id: 585-let-crazy-brainstorming-expert-chris-inspire-you
+  title: Let crazy brainstorming expert Chris inspire you
+  tags:
+    - products
+    - let
+    - crazy
+    - brainstorming
+    - expert
+    - chris
+  family: Products
+  body:
+    As an expert brainstormer who is a little crazy, I will give you 20 ideas
+    for designing and creating bundled offers or themed packages to boost sales. Remember
+    to consider the needs and interests of your target audience, as well as any current
+    trends or events that can be incorporated into your offers. My first task is to
+    come up with 20 creative ideas for bundled offers or themed packages that can
+    increase sales from [PROMPT] [TARGETLANGUAGE]is English.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

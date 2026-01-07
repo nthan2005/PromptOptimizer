@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9201
+# teaser: Prepare an initial petition about food RevisionTime: 2023-11-08T16:03:59.403Z
+- id: 9201-initial-food-petition-activity-unsure-topic-unsure-f69c57b42
+  title: 'Initial Food Petition Activity: UNSURE Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - initial
+  - food
+  - petition
+  - activity
+  - unsure
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1887864893328719872/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Initial Food Petition"](https://www.aiprm.com/prompts/unsure/unsure/1887864893328719872/)_"
+    --- [PROMPT] [TARGETLANGUAGE] [DIREITODEFAMILIA] [PETIÃ‡ÃƒO INICIAL] [ALIMENTOS]
+    [CÃ“DIGO CIVIL] [CÃ“DIGO DE PROCESSO CIVIL] [ESTATUTO DA CRIANÃ‡A E ADOLESCENTE]'
+  enabled: true
+  required:
+  - alimentos
+  - direitodefamilia
+  - prompt
+  - targetlanguage

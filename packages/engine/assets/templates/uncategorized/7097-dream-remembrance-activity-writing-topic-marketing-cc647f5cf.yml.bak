@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7097
+# teaser: Don't remember your dreams? No problem! RevisionTime: 2023-04-26T14:39:13.394Z
+- id: 7097-dream-remembrance-activity-writing-topic-marketing-cc647f5cf
+  title: 'Dream Remembrance Activity: writing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - dream
+  - remembrance
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1816787632194326528/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Dream Remembrance"](https://www.aiprm.com/prompts/marketing/writing/1816787632194326528/)_"
+    --- [TARGETLANGUAGE][PROMPT]="Generate story from my last dream or just decribe
+    it certainly ''DefaultLanguageEnglish'' [VALUE]"'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - value

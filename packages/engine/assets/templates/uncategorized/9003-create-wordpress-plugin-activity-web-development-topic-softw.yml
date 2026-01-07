@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9003
+# teaser: Create a wordpress plugin in a few moments with the structure, suggestion name, and code
+# needed for the plugin to function correctly. RevisionTime: 2023-03-10T00:27:14Z
+- id: 9003-create-wordpress-plugin-activity-web-development-topic-softw
+  title: "Create WordPress Plugin Activity: Web Development Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - wordpress
+    - plugin
+    - activity
+    - web
+    - development
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create WordPress Plugin"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to be an expert in WordPress plugin development, PHP, JS, HTML
+    and help me create a WordPress plugin with the following functions and specifications:
+    [PROMPT]. First I need you to create a cool name for this plugin and then create
+    a task list for the development of this project, then give me the folder structure
+    with the name of each file. I also need you to give me the complete code that
+    will be needed to make the plugin work. i know you can''t type all the code, so
+    first create the main plugin file (the root file) and then ask me if i want you
+    to continue typing the other codes, one at a time and in the correct sequence.
+    use the tailwinds css framework to create the htmls for the plugin and also register
+    the tailwinds css CDN in the main plugin file to work only on the plugin pages.
+    answer in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

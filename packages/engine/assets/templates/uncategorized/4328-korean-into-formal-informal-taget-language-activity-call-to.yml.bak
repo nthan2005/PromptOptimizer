@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4328
+# teaser: Korean into Formal/InFormal [Taget language] RevisionTime: 2023-03-19T07:29:42Z
+- id: 4328-korean-into-formal-informal-taget-language-activity-call-to
+  title: 'Korean into Formal/InFormal Taget language Activity: call to action Topic:
+    Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - korean
+  - formal
+  - informal
+  - taget
+  - language
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/call-to-action/1802932617788788736/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Korean into Formal/InFormal Taget language"](https://www.aiprm.com/prompts/copywriting/call-to-action/1802932617788788736/)_"
+    --- Translate the following Korean into Formal and Natural and InFormal [TARGETLANGUAGE].
+    Korean: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

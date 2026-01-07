@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1278
+# teaser: Re-write your novel to have top quality grammar and sentence structure
+- id: 1278-novel-refiner-grammar-fixing
+  title: Novel Refiner + grammar fixing
+  tags:
+    - writing
+    - novel
+    - refiner
+    - grammar
+    - fixing
+  family: writing
+  body:
+    "Check for any mistakes and fix them, make the grammar like a top novel in
+    [TARGETLANGUAGE]: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

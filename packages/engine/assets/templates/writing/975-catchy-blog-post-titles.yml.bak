@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 975
+# teaser: Create a list of catchy titles for the text provided
+- id: 975-catchy-blog-post-titles
+  title: Catchy Blog Post Titles
+  tags:
+  - writing
+  - catchy
+  - blog
+  - post
+  - titles
+  family: writing
+  body: Create a list of catchy blog titles for the text provided Make sure to use
+    engaging language Make sure to create a numbered list of at least 10 titles Make
+    sure to use numbers in some titles [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

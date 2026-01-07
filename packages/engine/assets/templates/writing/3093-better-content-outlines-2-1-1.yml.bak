@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3093
+# teaser: Supercharge your content production! Generate very detailed content outlines for your human
+# writers. Includes FAQs and attention-grabbing headings.
+- id: 3093-better-content-outlines-2-1-1
+  title: Better content outlines 2.1.1
+  tags:
+  - writing
+  - better
+  - content
+  - outlines
+  family: writing
+  body: Develop a comprehensive [TARGETLANGUAGE] markdown outline for a long-form
+    article for the topic "[PROMPT]", featuring at least 20 engaging headings and
+    subheadings that are detailed, mutually exclusive, collectively exhaustive and
+    cover the entire topic. Conclude with a summary and pertinent FAQs. Provide a
+    captivating title without writing the article itself.
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

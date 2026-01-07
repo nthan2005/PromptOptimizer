@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3350
+# teaser: write text description for "[KEYWORD]" include download button and related text to it. add
+# the keyword filmdownloder in it and also include "you may also like" link. Content length should be
+# more than 600 words and it should be SEO friendly.
+- id: 3350-seo-friendly-movie-content
+  title: SEO Friendly Movie Content
+  tags:
+    - writing
+    - seo
+    - friendly
+    - movie
+    - content
+  family: writing
+  body:
+    write a text description for the movie [PROMPT] also include some download
+    button in it and related text add my keyword Film Downloader in it and also include
+    'you may also like' link, the content length should be not less than 600 words.
+    Also, the content should be SEO friendly and keyword density should be around
+    1%-2%. Also use the main keyword in a heading H2 or H3 and it should be near at
+    the beginning of the content. The paragraphs should be short and precise for better
+    human readability and UX. The content should be in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

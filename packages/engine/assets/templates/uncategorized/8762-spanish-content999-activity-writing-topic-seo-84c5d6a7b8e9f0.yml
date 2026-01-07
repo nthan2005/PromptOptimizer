@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8762
+# teaser: SEO-Optimized Recipe in Spanish RevisionTime: 2024-06-13T00:39:32.766Z
+- id: 8762-spanish-content999-activity-writing-topic-seo-84c5d6a7b8e9f0
+  title: "Spanish Content999 Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - spanish
+    - content999
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Spanish Content999"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Prompt Description: Generate a detailed and SEO-optimized recipe in Spanish,
+    with at least 1500 words. The recipe should be aimed at Spanish-speaking users
+    and must include an engaging introduction, ingredients, step-by-step instructions,
+    nutritional information, tips and variations, and a conclusion. Use relevant keywords
+    to improve search engine ranking. [TARGETLANGUAGE] is Spanish Scan & analyze the
+    [PROMPT]; based on your results, Generate a complete and SEO-optimized recipe
+    in Spanish following these steps: Introduction (200-300 words): Present the recipe
+    with a brief summary. Explain the importance or popularity of the dish. Include
+    relevant keywords related to the recipe. Ingredients (with emojis if possible):
+    Provide a complete list of tools that will be used during the process of making
+    the recipe Include notes on possible substitutions or alternatives. Provide a
+    complete list of ingredients with precise measurements. Include notes on possible
+    substitutions or alternatives. Step-by-Step Instructions (500-700 words): Detail
+    each step of the cooking process. Ensure the instructions are clear and easy to
+    follow. Include additional tips to enhance the result. Nutritional Information:
+    Provide details about calories and main nutrients of the recipe. Tips and Variations
+    (200-300 words): Offer useful tips for preparation. Suggest variations of the
+    recipe for different dietary preferences. Conclusion (100-200 words): Summarize
+    the recipe and encourage readers to try it. Include a call-to-action for readers
+    to leave comments or share the recipe on social media. SEO Considerations: Use
+    the main keyword and secondary keywords naturally throughout the text. Ensure
+    the title, meta description, and headings are optimized for SEO.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

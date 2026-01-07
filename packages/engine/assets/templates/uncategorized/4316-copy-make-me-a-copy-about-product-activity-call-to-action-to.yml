@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4316
+# teaser: [command] make a copy with emotion and directed for the reader to make the decision to buy
+# the [product or service] RevisionTime: 2023-06-14T11:29:33.48Z
+- id: 4316-copy-make-me-a-copy-about-product-activity-call-to-action-to
+  title: "Copy make me a copy about (product) Activity: call to action Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - copy
+    - product
+    - activity
+    - call
+    - action
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Copy make me a copy about (product)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to create a perfect copy with traces of emotion based on the
+    writings of Russell Brunson [KEYWORD] [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

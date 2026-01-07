@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7899
+# teaser: Get a list of low-competition keywords for your SEO strategy using SEMRush . RevisionTime:
+# 2024-07-23T20:20:26.168Z
+- id: 7899-keyword-and-competition-analysis-by-semrush-tool-activity-ke
+  title:
+    "Keyword and Competition Analysis by Semrush Tool Activity: keywords Topic:
+    SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - keyword
+    - competition
+    - analysis
+    - semrush
+    - tool
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Keyword and Competition Analysis by
+    Semrush Tool"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] : English [PROMPT] Think like an e-commerce Semrush SEO expert
+    in {Your Country}. My Keyword is {Your Keyword}. Give me a table and suggest Top
+    10 Related Keywords, Search Volume, KD (Competition). Please make sure each keyword
+    has a search volume of at least 150 and a KD of less than 35. Format: | Keyword
+    | Search Volume | KD | Example: If the main keyword is "Nikkah nama Certificate"
+    and the targeted country is "Pakistan," the table might look like: | Keyword |
+    Search Volume | KD | |----------------------------|---------------|-----| | Nikkah
+    nama online | 210 | 20 | | Nikkah certificate format | 190 | 25 | This analysis
+    will help optimize SEO strategy effectively.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

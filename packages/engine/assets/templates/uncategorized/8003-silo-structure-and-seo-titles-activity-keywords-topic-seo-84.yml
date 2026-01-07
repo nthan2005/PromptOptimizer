@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8003
+# teaser: Clear SILO structure based on your Keyword List or Keywords as a table, and gives you SEO
+# optimized Title Ideas for each cluster RevisionTime: 2023-03-30T13:54:39.493Z
+- id: 8003-silo-structure-and-seo-titles-activity-keywords-topic-seo-84
+  title: "Silo structure and SEO Titles Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - silo
+    - structure
+    - seo
+    - titles
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Silo structure and SEO Titles"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I need you to make a silo structure for the following keywords, delete those
+    that are double keywords, but keep the main keywords always: [PROMPT] I need you
+    to make a table that make clear distinguishing between keyword clusters, and make
+    the clusters according to the best article title ideas according to SEO best practice.
+    Write in [TARGETLANGUAGE] please'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

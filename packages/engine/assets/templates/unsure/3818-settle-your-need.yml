@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3818
+# teaser: Utility class
+- id: 3818-settle-your-need
+  title: settle your need.
+  tags:
+    - unsure
+    - settle
+    - need
+  family: UNSURE
+  body:
+    My need is [PROMPT].Please tell me 2 possible solutions in as concise language
+    as possible, and give as detailed and precise implementation steps as possible
+    for each solution.Please output it in [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

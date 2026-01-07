@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7165
+# teaser: Data scientists and their career prospects RevisionTime: 2023-12-06T06:29:19.649Z
+- id: 7165-data-scientist-activity-operating-system-management-topic-op
+  title: "Data scientist Activity: Operating System Management Topic: OperatingSystems-8a5ca60d957fe707"
+  tags:
+    - uncategorized
+    - data
+    - scientist
+    - activity
+    - operating
+    - system
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Data scientist"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- provides information about data scientists, career prospects, how to study
+    it, challenges, and software to study it[TARGETLANGUAGE], providing output: [PROMPT]
+    Data scientist is a job that analyzes large amounts of various kinds of data.
+    His career prospects are very good, although his resources in Indonesia are still
+    lacking. The challenges for learning data scientists are: 1. Teamwork 2. Stuck
+    at work 3. Data integrity is not guaranteed 4. Data not available The tools to
+    learn it are R and Python.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

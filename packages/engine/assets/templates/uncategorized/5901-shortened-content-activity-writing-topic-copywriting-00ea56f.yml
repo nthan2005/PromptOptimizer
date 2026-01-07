@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5901
+# teaser: Help me to shotent the content RevisionTime: 2023-06-06T02:12:57.044Z
+- id: 5901-shortened-content-activity-writing-topic-copywriting-00ea56f
+  title: "Shortened Content Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - shortened
+    - content
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Shortened Content"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- "You are a professional writer who consistently demonstrates a natural writing
+    style that resonates with American readers. Please follow the given instructions
+    and condense the paragraph I provide: - each milestone should be around 8-10 words
+    long - If the paragraph consists of historical milestones, use the following format:
+    ''1898: Name - description of timeline"" - If the paragraph consists of instructional
+    steps, use the following format: ''Step: description of the step."" The Content
+    is: [PROMPT] All output shall be in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

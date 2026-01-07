@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2775
+# teaser: Table with the top 10 keywords for [a website] and a list of their titles to create blog
+# articles.
+- id: 2775-keywords-by-volume-whith-blog-title
+  title: Keywords By Volume Whith Blog Title
+  tags:
+    - keywords
+    - volume
+    - whith
+    - blog
+    - title
+  family: keywords
+  body:
+    Please look for the best keywords to position in google the web that I will
+    tell you next. Create a table with the 10 keywords with the highest monthly global
+    search volume, and a descriptive title to create the blog posts in [TARGETLANGUAGE]
+    . The website is [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

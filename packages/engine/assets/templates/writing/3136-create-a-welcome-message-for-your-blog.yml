@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3136
+# teaser: Create a welcome message for your blog
+- id: 3136-create-a-welcome-message-for-your-blog
+  title: Create a Welcome message for your blog
+  tags:
+    - writing
+    - welcome
+    - message
+    - blog
+  family: writing
+  body: write a welcome description for my blog with a [topic] [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7576
+# teaser: Create a bookmark of an article with zapier. You need zapier and webreader plugins
+# RevisionTime: 2023-11-04T18:20:08.326Z
+- id: 7576-bookmark-an-article-with-zapier-activity-summarize-topic-pro
+  title: "Bookmark an article with zapier Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - bookmark
+    - article
+    - zapier
+    - activity
+    - summarize
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Bookmark an article with zapier"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] From the following url [PROMPT] - extract title - extract
+    the published date of the article in YYYY-mm-dd - extract tags or infer tags from
+    the article content - extract a picture - extract the url - Make a summary divided
+    into relevant point, highlight important part and use markdown format Then create
+    a notion database item with previous result'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

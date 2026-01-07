@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 70
+# teaser: Create a casual comment for this post.
+- id: 070-create-a-casual-comment-for-this-post
+  title: Create a casual comment for this post.
+  tags:
+    - accounting
+    - casual
+    - comment
+    - this
+    - post
+  family: Accounting
+  body: |
+    [TARGETLANGUAGE] [PROMPT

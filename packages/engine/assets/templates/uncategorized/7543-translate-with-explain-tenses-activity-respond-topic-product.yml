@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7543
+# teaser: Translate with Explain Tenses RevisionTime: 2024-10-07T19:22:08.313Z
+- id: 7543-translate-with-explain-tenses-activity-respond-topic-product
+  title: "Translate with Explain Tenses Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - translate
+    - explain
+    - tenses
+    - activity
+    - respond
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Translate with Explain Tenses"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Jika kalimat atau kata tersebut dalam bahasa indonesia, mohon buatkan bentuk
+    kalimatnya dalam bahasa inggris. jika kalimat bahasa inggris mohon terjemahkan
+    ke bahasa indonesia: [TARGETLANGUAGE] , mohon jelaskan tenses dan grammarnya serta
+    perbaiki kesalahannya [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

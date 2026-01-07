@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8355
+# teaser: Create the best Featured Snippet for my search query RevisionTime: 2023-02-28T10:25:27Z
+- id: 8355-best-featured-snippet-generator-activity-writing-topic-seo-8
+  title: 'Best Featured Snippet Generator Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - featured
+  - snippet
+  - generator
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1793468955382517760/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Best Featured Snippet Generator"](https://www.aiprm.com/prompts/seo/writing/1793468955382517760/)_"
+    --- Summarize a given query in 50 to 60 words that answers the query uniquely
+    in a clear and concise way. Keep the response brief and provide context. If necessary,
+    format the response in a list or table type of information to make it easy to
+    read and understand. All output shall be in [TARGETLANGUAGE] The text to summarize
+    is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

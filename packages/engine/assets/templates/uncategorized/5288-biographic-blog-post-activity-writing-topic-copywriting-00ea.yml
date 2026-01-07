@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5288
+# teaser: Create a biographic long formart blog post base on the character in this url [insert url]
+# RevisionTime: 2023-05-22T17:28:13.088Z
+- id: 5288-biographic-blog-post-activity-writing-topic-copywriting-00ea
+  title: "Biographic Blog post Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - biographic
+    - blog
+    - post
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Biographic Blog post"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create a long format biographic blog post about the character in the url Keep
+    chronological order and cohesion. Make it 100% human like, keep it intresting,
+    dynamic and engaging.[TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

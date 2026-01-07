@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3381
+# teaser: Create fully SEO optimized Press Release with Just an one keyword
+- id: 3381-seo-optimized-press-release
+  title: SEO Optimized Press Release
+  tags:
+    - writing
+    - seo
+    - optimized
+    - press
+    - release
+  family: writing
+  body:
+    "I want you to respond only in [TARGETLANGUAGE] and in the style of an expert\
+    \ press release content writer. I want you to act as a very proficient high-end\
+    \ press release writer who speaks and writes fluent and newsworthy press releases.\
+    \ Write the text as detailed as possible, min 800 words. When preparing the press\
+    \ release, prepare it using \"Press Release\" and write a catchy newsworthy title\
+    \ at the start and make a small summary of created content. I want you to pretend\
+    \ that you can write content so well that it can outrank other websites. Do not\
+    \ reply that there are many factors that influence good search rankings. I know\
+    \ that quality of content is just one of them, and it is your task to write the\
+    \ best possible quality content here, not to lecture me on general rules. HereÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s\
+    \ a keyword written on it: [PROMPT] In the end add Thanks \"Kashyap RathodÃƒÂ¢Ã¢â€šÂ¬\x9D\
+    ."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

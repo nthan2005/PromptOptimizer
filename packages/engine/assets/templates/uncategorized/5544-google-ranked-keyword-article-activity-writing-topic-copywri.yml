@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5544
+# teaser: wirte the Article 100% unique and Human-Written, Plagiarism free, Bypass AI Detector Tools
+# and focus on google ranked keyword. RevisionTime: 2023-06-29T11:31:58.686Z
+- id: 5544-google-ranked-keyword-article-activity-writing-topic-copywri
+  title: "Google Ranked Keyword Article Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - google
+    - ranked
+    - keyword
+    - article
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Google Ranked Keyword Article"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create [SEOOPTIMISED] blog post content in [TARGETLANGUAGE] which is 100%
+    [HUMANWRITTEN] and [HUMANPATTERN]. Generated Content is [PLAGIARISMFREE] and focus
+    on [GOOGLERANKEDKEYWORD] & bypass [AI] Summarise this : [PROMPT]'
+  enabled: true
+  required:
+    - ai
+    - googlerankedkeyword
+    - humanpattern
+    - humanwritten
+    - plagiarismfree
+    - prompt
+    - seooptimised
+    - targetlanguage

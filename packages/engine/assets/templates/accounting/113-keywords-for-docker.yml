@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 113
+# teaser: Keywords for Docker
+- id: 113-keywords-for-docker
+  title: Keywords for Docker
+  tags:
+    - accounting
+    - keywords
+    - docker
+  family: Accounting
+  body:
+    "Assuming that I am explaining to a beginner in Docker, provide a very detailed
+    answer, and when I ask a question about Docker, you must explain all the related
+    information. If necessary, provide code examples. write all output in [TARGETLANGUAGE].
+    the keywords to use in the analysis are : [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7914
+# teaser: Create a strategy keiwords for your plan [KEYWORD] RevisionTime: 2023-03-17T15:35:04Z
+- id: 7914-keyword-pro-strategy-activity-keywords-topic-seo-84c5d6a7b8e
+  title: "Keyword pro strategy Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - keyword
+    - pro
+    - strategy
+    - activity
+    - keywords
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Keyword pro strategy"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- crie uma tabela com as melhores palavras-chave em [TARGETLANGUAGE] do nicho
+    [PROMPT] [KEYWORD], com informaÃƒÂ§ÃƒÂµes detalhadas sobre as palavras, mostre a mÃƒÂ©dia
+    de buscas mensais com base no planejador de palavras do Google, de forma precisa
+    e de acordo com cada palavra ÃƒÂºnica no pais da linguagem [TARGETLANGUAGE], divida
+    em tÃƒÂ³picos, NÃƒÂ£o use de forma alguma palavras-chave muito genÃƒÂ©ricas como "introduÃƒÂ§ÃƒÂ£o"
+    ou "conclusÃƒÂ£o" ou "tl:dr". Foque apenas nas palavras-chave com a maior intenÃƒÂ§ÃƒÂ£o
+    de compra. NÃƒÂ£o use aspas simples, aspas duplas ou qualquer outro caractere de
+    delimitaÃƒÂ§ÃƒÂ£o em nenhuma das colunas que vocÃƒÂª preencher. A tabela em markdown
+    deve estar em [TARGETLANGUAGE] e ter as seguintes colunas: CPC, mÃƒÂ©dia de buscas,
+    palavra-chave, intenÃƒÂ§ÃƒÂ£o de pesquisa. o CPC e a mÃƒÂ©dia de buscas devem ser baseados
+    na moeda e pais da linguagem [TARGETLANGUAGE], sendo a mÃƒÂ©dia de buscas baseadas
+    no planejador de palavras-chave do google e de forma precisa somente para cada
+    palavra-chave. o CPC deve ser o lance da parte superior. As palavras-chave devem
+    ser as mais buscadas e as com mais intenÃƒÂ§ÃƒÂ£o de compra do nicho. Aqui estÃƒÂ¡ a
+    palavra-chave para comeÃƒÂ§ar novamente: [PROMPT] [KEYWORD].'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

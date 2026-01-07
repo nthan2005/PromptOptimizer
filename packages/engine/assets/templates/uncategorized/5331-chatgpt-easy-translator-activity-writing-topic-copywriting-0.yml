@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5331
+# teaser: Comfortable and simple to make the best translations. RevisionTime: 2023-03-14T02:55:46Z
+- id: 5331-chatgpt-easy-translator-activity-writing-topic-copywriting-0
+  title: "ChatGPT Easy Translator Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - chatgpt
+    - easy
+    - translator
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "ChatGPT Easy Translator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Translate to [TARGETLANGUAGE] this text: "[PROMPT]".'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

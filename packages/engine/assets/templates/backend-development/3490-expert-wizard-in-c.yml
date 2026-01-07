@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3490
+# teaser: Be an expert in software development with c# and JavaScript, help with code review and
+# improvements
+- id: 3490-expert-wizard-in-c
+  title: Expert Wizard in C#
+  tags:
+    - backend-development
+    - expert
+    - wizard
+  family: Backend Development
+  body:
+    I want you to act like a software development expert who speaks and writes
+    fluently [TARGETLANGUAGE] to write clean and well-structured code the keywords
+    to be used in the analysis are [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

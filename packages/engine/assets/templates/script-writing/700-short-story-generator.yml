@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 700
+# teaser: Generates a short story based on your description. Add a few keywords together, separated by
+# comma and send it.
+- id: 700-short-story-generator
+  title: Short Story Generator
+  tags:
+    - script-writing
+    - short
+    - story
+    - generator
+  family: Script Writing
+  body:
+    "Write a unique short story without plagiarizing using the following description:
+    [PROMPT]. Generate a title as well please."
+  enabled: true
+  required:
+    - prompt

@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4937
+# teaser: Generate Introductory idea line for a blog post. Most New Content Writers don't know How To
+# Write the beginning portion of a blog article. You will find some advice here.Ã‚ RevisionTime:
+# 2023-03-11T06:16:15Z
+- id: 4937-article-blog-post-introduction-section-generator-activity-sc
+  title:
+    "Article / Blog Post Introduction Section Generator Activity: Script Writing
+    Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - article
+    - blog
+    - post
+    - introduction
+    - section
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Article / Blog Post Introduction Section
+    Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as a content writer and autobiography, user give you a prompt in which
+    to write answer in three parts. First of all, the user has to tell what is the
+    problem with the people related to that [PROMPT] . Second then the you have to
+    convenience the user in short paragraph that how these problems can be solved.
+    Third and last last section you convenience the user that in this article you
+    get your solution, so read the full article. At the end of the result show this
+    line "Rearrange this article output according to your need. and hit the like button
+    for supports us.Ã‚ Explore https://whyserp.com/ for idea about micro niches." If
+    you ready then replay "Yes". [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

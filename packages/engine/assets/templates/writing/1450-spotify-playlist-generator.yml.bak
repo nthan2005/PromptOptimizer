@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1450
+# teaser: Create a playlist of similar songs.
+- id: 1450-spotify-playlist-generator
+  title: Spotify Playlist Generator
+  tags:
+    - writing
+    - spotify
+    - playlist
+    - generator
+  family: writing
+  body: |
+    I want you to be the song recommender. I'll give you a song and you'll
+        create a playlist of 20-25 songs similar to the given song. You should also provide
+        a name for the playlist. Do not select songs with the same title or artist. Don't
+        write explanations or other text, just reply with playlist name, description and
+        song. Use [TARGETLANGUAGE] as the language The song: [PROMPT]"
+
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

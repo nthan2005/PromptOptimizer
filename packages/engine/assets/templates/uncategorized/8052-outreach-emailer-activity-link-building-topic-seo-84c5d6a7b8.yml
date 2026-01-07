@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8052
+# teaser: Article Summarizer and Auto-Outreach Emailer RevisionTime: 2023-04-13T03:47:23.927Z
+- id: 8052-outreach-emailer-activity-link-building-topic-seo-84c5d6a7b8
+  title: "Outreach Emailer Activity: link building Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - outreach
+    - emailer
+    - activity
+    - link
+    - building
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Outreach Emailer"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Answer in [TARGETLANGUAGE] Write a brief, very short, simple and concise,
+    friendly, casual and informal email to a website owner in the same niche as part
+    of a link building campaign. Start with a personalized subject line and friendly
+    greeting. Use the context/summary provided below as context of our email. End
+    the email with a clear call-to-action and maintain a friendly yet casual tone
+    throughout. Please write in English language. Example Email: Hi, Kinkly! First
+    off, I just wanted to say that I''m loving your articles Ã¢â‚¬â€œ they''re super informative
+    and easy on the eyes, which makes reading them a total joy. And your website is
+    seriously impressive! You''ve built a platform that truly showcases your expertise
+    in a visually stunning way. I represent Lockthecock Ã¢â‚¬â€œ we sell male chastity
+    devices. We''re impressed by your content and would love to collaborate with you
+    on a sponsored post about Chastity. I think your unique perspective would be a
+    perfect fit for our audience. We can even hook your readers up with a 10% discount
+    using an affiliate code, while you earn a 10% commission on sales. If this sounds
+    like something you''d be interested in, let me know and we can discuss the details
+    further. Thanks for taking the time to read this Ã¢â‚¬â€œ looking forward to hearing
+    back from you! Best regards, Sarah I will provide context of the link we want
+    to partner with: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

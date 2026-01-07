@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4606
+# teaser: Google Search Ads - Description Generator - Based on Business Type RevisionTime:
+# 2023-03-17T11:06:18Z
+- id: 4606-google-ads-descriptions-activity-marketing-topic-copywriting
+  title: "Google Ads - Descriptions Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - google
+    - ads
+    - descriptions
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Google Ads - Descriptions"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to create 8 Google Search Ads Description with a limit of maximum
+    90 characters per description including spacing in [TARGETLANGUAGE]. The type
+    of business this description is for is the following: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

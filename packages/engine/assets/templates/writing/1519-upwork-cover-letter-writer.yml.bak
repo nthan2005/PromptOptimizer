@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1519
+# teaser: Use this tool to write Cover letter for upwork. this save you a to of stress
+- id: 1519-upwork-cover-letter-writer
+  title: Upwork Cover Letter Writer
+  tags:
+  - writing
+  - upwork
+  - cover
+  - letter
+  - writer
+  family: writing
+  body: write proposal to apply for this offer [PROMPT]. Make it persuasive and why
+    they should hire me. it must be in this format "Hi! Just read your posting. Sounds
+    like you need an email expert to advise you on a few thingsÃ¢â‚¬Â¦ from funnel setup
+    and strategy, to what you should offer to get signups in the first place. I have
+    a background in funnels and email copywriting and have been doing this for 3 years,
+    including for some other subscription/membership businesses. I can work with you
+    to come up with a great strategy and high-converting emails to turn your prospects
+    into paying customers. And I can help you get more email signups going into this
+    funnel, too. If any of the above sounds interesting, let me know when youÃ¢â‚¬â„¢d
+    be available to talk this week. Best regards, Biron Clark". All output shall be
+    in [TARGETLANGUAGE]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

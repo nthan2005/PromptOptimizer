@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7937
+# teaser: Turn a list of keywords into a list of meaningful phrases that you can use for a title.
+# RevisionTime: 2023-03-06T23:19:22Z
+- id: 7937-keyword-to-phrase-with-semantic-sense-activity-keywords-topi
+  title: "Keyword to phrase with semantic sense Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - keyword
+    - phrase
+    - semantic
+    - sense
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Keyword to phrase with semantic sense"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Escribe la respuesta en [TARGETLANGUAGE] Te pasarÃƒÂ© una lista de frases, algunas
+    con sentido y otras sin sentido. Necesito que identifiques las que no tienen sentido
+    y que reordenes las palabras de esa frase para que formen una frase con sentido.
+    Puedes agregarle algÃƒÂºn artÃƒÂ­culo entre palabras, por ejemplo "precio motores
+    fueraborda" se transformarÃƒÂ­a en "precio de motores fueraborda". Trata de no agregar
+    artÃƒÂ­culos al inicio de la frase. Otro ejemplo: "consumo motores fueraborda" quearÃƒÂ­a
+    "consumo de motores fueraborda". "Motor fueraborda" quedarÃƒÂ­a igual ya que Motor
+    fueraborda es un objeto en si mismo, entonces tiene sentido.. Devuelve una tabla
+    donde en la primera columna estÃƒÂ¡ la frase original y en la segunda la frase con
+    sentido. AquÃƒÂ­ la lista: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

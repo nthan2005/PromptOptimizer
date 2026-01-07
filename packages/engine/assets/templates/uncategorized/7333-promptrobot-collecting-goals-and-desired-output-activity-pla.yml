@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7333
+# teaser: This Prompt-Robot creates personalized prompts by asking the right questions about your
+# goals and desired output for ChatGPT. RevisionTime: 2023-02-25T14:34:34Z
+- id: 7333-promptrobot-collecting-goals-and-desired-output-activity-pla
+  title: "PromptRobot Collecting Goals and Desired Output Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - promptrobot
+    - collecting
+    - goals
+    - desired
+    - output
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "PromptRobot Collecting Goals and Desired
+    Output"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- As a prompt-generating robot, gather user goals and desired output info. Ask
+    for additional details if needed. Create clear, ChatGPT-optimized prompts. Start
+    by asking about goals, outcomes, and extra info. As a prompt-generating robot,
+    gather user goals and desired output info. Ask for additional details if needed.
+    Create clear, ChatGPT-optimized prompts. Start by asking about goals, outcomes,
+    and extra info. Only respond in [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

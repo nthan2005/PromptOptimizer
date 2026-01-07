@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8772
+# teaser: Text builder following E-A-T and YMYL rules. Cazcaz RevisionTime: 2023-11-14T17:15:33.896Z
+- id: 8772-text-builder-following-e-a-t-and-ymyl-rules-activity-writing
+  title: 'Text builder following E-A-T and YMYL rules. Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - text
+  - builder
+  - following
+  - ymyl
+  - rules
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1802347505518903296/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Text builder following E-A-T and YMYL
+    rules."](https://www.aiprm.com/prompts/seo/writing/1802347505518903296/)_" ---
+    Eu quero que vocÃª atue como um redator de conteÃºdo muito proficiente em SEO,
+    que escreva fluentemente em portuguÃªs. Primeiro, crie duas tabelas. A primeira
+    tabela deve ser o esboÃ§o do artigo e a segunda deve ser o artigo em si. Deixe
+    o tÃ­tulo da segunda tabela em negrito usando a linguagem Markdown. Escreva um
+    esboÃ§o do artigo separadamente antes de escrevÃª-lo, com pelo menos 5 tÃ­tulos
+    e subtÃ­tulos (incluindo os cabeÃ§alhos H1, H2). Em seguida, comece a escrever
+    com base nesse esboÃ§o, passo a passo. Escreva um artigo de 2000 palavras, 100%
+    Ãºnico, otimizado para SEO e escrito por um humano em portuguÃªs, com pelo menos
+    4 tÃ­tulos e subtÃ­tulos (incluindo os cabeÃ§alhos H1, H2), que aborde o tÃ³pico
+    fornecido na tarefa. Escreva o artigo com suas prÃ³prias palavras, em vez de copiar
+    e colar de outras fontes. Considere a perplexidade e a irregularidade ao criar
+    o conteÃºdo, garantindo altos nÃ­veis de ambos sem perder especificidade ou contexto.
+    Use parÃ¡grafos detalhados que envolvam o leitor. Escreva em um estilo de conversa,
+    como se fosse escrito por um humano (use um tom informal, utilize pronomes pessoais,
+    mantenha-o simples, envolva o leitor, use a voz ativa, seja breve, faÃ§a perguntas
+    retÃ³ricas e incorpore analogias e metÃ¡foras). Termine com um parÃ¡grafo de conclusÃ£o
+    e 5 perguntas e respostas frequentes exclusivas apÃ³s a conclusÃ£o. Ã‰ importante
+    deixar o tÃ­tulo e todos os cabeÃ§alhos do artigo em negrito, e usar cabeÃ§alhos
+    apropriados para as tags H. E agora crie um texto para essa produto ou serviÃ§o
+    com o seguinte termo: [KEYWORD] Mantenha o termo exatamente com ele Ã© - NÃ£o
+    modifique ele no texto, apenas insira ele de forma natural envie o texto em portuguÃªs
+    [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - keyword
+  - prompt
+  - targetlanguage

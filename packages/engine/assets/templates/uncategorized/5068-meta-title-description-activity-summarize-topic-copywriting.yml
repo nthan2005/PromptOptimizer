@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5068
+# teaser: The only true Meta Tag compiler with result in table. Just put [KEYWORD] and get the result.
+# Updates every week. RevisionTime: 2023-02-19T15:35:19Z
+- id: 5068-meta-title-description-activity-summarize-topic-copywriting
+  title: "Meta-Title & Description Activity: Summarize Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - meta
+    - title
+    - description
+    - activity
+    - summarize
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Meta-Title & Description"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to respond only in language [TARGETLANGUAGE]. I want you to act
+    as a blog post Meta description writer that speaks and writes fluent [TARGETLANGUAGE].
+    I want you to generate meta title and meta description for the following blog
+    post'
+  enabled: true
+  required:
+    - targetlanguage

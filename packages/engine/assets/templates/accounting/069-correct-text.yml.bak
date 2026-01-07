@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 69
+# teaser: Correct text
+- id: 069-correct-text
+  title: Correct text
+  tags:
+    - accounting
+    - correct
+    - text
+  family: Accounting
+  body: "[TARGETLANGUAGE] [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

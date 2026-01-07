@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6055
+# teaser: Write a detailed human like content on the given keyword. With 8 FAQs, 1100 - 1500 words.
+# RevisionTime: 2023-10-15T10:35:15.318Z
+- id: 6055-write-humanlike-seo-friendly-article-activity-writing-topic
+  title: "Write humanlike SEO friendly article. Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - write
+    - humanlike
+    - seo
+    - friendly
+    - article
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Write humanlike SEO friendly article."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a detailed human like article in 1000 words on the given keyword below.
+    Make sure the article is SEO friendly, and insert the keyword in the article properly,
+    but make sure it doesn''t mess with the sentence. Use proper headlines, and generate
+    a SEO friendly article Title as well. Also write 8 FAQs. All output shall be in
+    [TARGETLANGUAGE]. The keyword given is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

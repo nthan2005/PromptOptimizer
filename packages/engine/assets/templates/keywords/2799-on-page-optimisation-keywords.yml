@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2799
+# teaser: Create a list of Semantic, LSI, and NLP [Keywords] for On-page optimisation based on output
+# data from Search Console for a landing page.
+- id: 2799-on-page-optimisation-keywords
+  title: On-page Optimisation Keywords
+  tags:
+    - keywords
+    - page
+    - optimisation
+  family: keywords
+  body:
+    Please ignore all previous queries. All Output should be in [TARGETLANGUAGE]
+    and also in separate bulleted lists. Pretend that you are a SEO Expert and study
+    this list of [PROMPT], and output a compact list of Semantic, LSI and NLP Keywords
+    from that list to optimize a landing page for those keywords.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

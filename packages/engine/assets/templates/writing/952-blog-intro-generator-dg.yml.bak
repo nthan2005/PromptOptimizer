@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 952
+# teaser: Intro Generator [DG]
+- id: 952-blog-intro-generator-dg
+  title: Blog Intro Generator [DG]
+  tags:
+  - writing
+  - blog
+  - intro
+  - generator
+  family: writing
+  body: 'I want you to act as a dating and relationship expert to write the perfect
+    introduction and could hook the reader and make him continue reading the article
+    in [TARGETLANGUAGE], you can follow this examle:'
+  enabled: true
+  required:
+  - targetlanguage

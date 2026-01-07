@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1794
+# teaser: Create a table of Digital Marketing Blog Topics with Clickbait-Like Titles, and assign a
+# Creative Score and SEO Score.
+- id: 1794-digital-marketing-topic-machine
+  title: Digital Marketing Topic Machine
+  tags:
+    - marketing
+    - digital
+    - topic
+    - machine
+  family: marketing
+  body:
+    Create a table in Markdown language of [PROMPT] Digital Marketing Blog Topics
+    with Clickbait-Like Titles, and assign a Creative Score and SEO Score for each.
+    The Creative Score should reflect how catchy and attention-grabbing the title
+    is, while the SEO Score should reflect how well the title is optimized for search
+    engines. Please also include Topic Category, and Tags in table as well. All output
+    shall be in [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

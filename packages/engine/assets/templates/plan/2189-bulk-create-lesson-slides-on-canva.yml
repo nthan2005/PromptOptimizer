@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2189
+# teaser: Say goodbye to the hassle of creating lesson slides one by one. Introducing a game-changing
+# solution - Lesson Slides Generator for Bulk Create on Canva! This cutting-edge tool will
+# revolutionize the way you create lesson materials, enabling you to generate multiple slides in one
+# go. Get ready to save time and streamline your workflow like never before.
+- id: 2189-bulk-create-lesson-slides-on-canva
+  title: Bulk Create Lesson Slides on Canva
+  tags:
+    - plan
+    - bulk
+    - lesson
+    - slides
+    - canva
+  family: Plan
+  body:
+    "As an educational expert, your task is to create a set of engaging and informative
+    lesson slides in [TARGETLANGUAGE] for a lesson on a specific topic. You will be
+    creating a lesson on the topic of [PROMPT] for [PROMPT], with the aim of providing
+    a comprehensive overview of this topic to help students better understand and
+    retain the information. Your lesson slides must include the following information,
+    although you are not limited to these items: Lesson"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

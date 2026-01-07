@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8196
+# teaser: Create killer landing page outline in seconds RevisionTime: 2023-02-24T13:08:24Z
+- id: 8196-landing-page-outline-like-pros-activity-research-topic-seo-8
+  title: "Landing Page Outline Like Pros Activity: Research Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - landing
+    - page
+    - outline
+    - like
+    - pros
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Landing Page Outline Like Pros"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- act like copywriter and Explain what content sections I should use for a web
+    landing page for a [PROMPT] designed for [PROMPT] in this [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

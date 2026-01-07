@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6415
+# teaser: give you information to explore every drink's in the world RevisionTime:
+# 2023-12-06T06:42:33.088Z
+- id: 6415-drink-around-the-world-activity-marketing-topic-marketing-cc
+  title: "Drink' Around The World Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - drink
+    - around
+    - world
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Drink'' Around The World"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- tell everything about drink''s[TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

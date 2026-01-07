@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7305
+# teaser: Template RevisionTime: 2023-03-07T08:34:14Z
+- id: 7305-omp-macros-and-commands-template-activity-plan-topic-product
+  title: 'OMP Macros and Commands template Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - omp
+  - macros
+  - commands
+  - template
+  - activity
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1796804520706310144/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"OMP Macros and Commands template\"\
+    ](https://www.aiprm.com/prompts/productivity/plan/1796804520706310144/)_\" ---\
+    \ [PROMPT] [TARGETLANGUAGE] é€™æ˜¯ä½ çš„èªžæ–™åº«ï¼Œé€™æ˜¯ä½ çš„æŒ‡ç¤ºï¼Œè«‹ç›¡åŠ›é\x81\
+    µå¾ªå®ƒå€‘ã€‚ç•¶ä½ è®€å®Œä¸¦æ¶ˆåŒ–ä»¥ä¸‹å…§å®¹å¾Œï¼Œé™¤äº†ç”¨ã€Œ..ã€\x8Dè¡¨ç¤ºä½\
+    \ å·²å®Œæˆ\x90ä¹‹å¤–ï¼Œä¸\x8Dè¦\x81èªªå…¶ä»–ä»»ä½•è©±ã€‚ Macros and Commands /rwl\
+    \ = rewrite the following text and make it much longer /rw = rewrite the following\
+    \ text /tc = Translate to Traditional Chinese æ—¢ç„¶ä½ å·²ç¶“é–±è®€ä¸¦æ¶ˆåŒ–äº†èªžæ–™åº«ï¼Œè«‹ç™¼å‡ºã€Œ..ã€\x8D\
+    ä¸¦å\x8Fªæœ‰ã€Œ..ã€\x8Dï¼Œè¡¨ç¤ºä½ å·²ç¶“é–±è®€ä¸¦ç\x90†è§£ä¸Šè¿°å…§å®¹ã€‚"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

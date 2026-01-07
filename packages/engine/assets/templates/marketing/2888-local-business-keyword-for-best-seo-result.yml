@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2888
+# teaser: Optimize Business Listing | Keywords For Local Business Listings | Boost Your Business
+# Ranking | Upvote so that we can publish more prompts
+- id: 2888-local-business-keyword-for-best-seo-result
+  title: Local Business Keyword for Best SEO Result
+  tags:
+    - marketing
+    - local
+    - business
+    - keyword
+    - seo
+    - result
+  family: marketing
+  body:
+    You need to write Best local optimized keywords in [TARGETLANGUAGE] business
+    type [PROMPT] for the given [LOCATION]
+  enabled: true
+  required:
+    - location
+    - prompt
+    - targetlanguage

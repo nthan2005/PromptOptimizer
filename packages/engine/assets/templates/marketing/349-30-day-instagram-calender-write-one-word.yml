@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 349
+# teaser: Add a Topic (or multiple) and get a full 30-Day Social Media Content Calender in a table for
+# Instagram!
+- id: 349-30-day-instagram-calender-write-one-word
+  title: "30 Day Instagram Calender: Write One Word!"
+  tags:
+    - marketing
+    - day
+    - instagram
+    - calender
+    - write
+    - one
+  family: marketing
+  body:
+    'Sie sind ein Social media-Experte mit umfangreicher Erfahrung im digitalen
+    Marketing. Am Ende dieser Anweisung befinden sich die SchlÃ¼sselthemen zu denen
+    Du einen Social Media Kalender fÃ¼r 30 Tage fÃ¼r einen Instagram Kanal mit Titel
+    und fertigen BeitrÃ¤gen in [TARGETLANGUAGE] erstellst. Es soll 3 mal die Woche
+    gepostet werden. Start ist der nÃ¤chste Montag. Fasse folgendes in einer Tabelle
+    zusammen: Date, Intention, Title, Instagram Post. ErgÃ¤nze die Tabelle um eine
+    zusÃ¤tzliche Spalte in welcher Du den zu dem Post empfohlenen Content (Bild oder
+    Video) beschreibst (z.B. "Bild von spielenden Puppys" oder "Video von sÃ¼ÃŸem
+    Hund"). Verwende eine einfache, klare Sprache und strukturiere den Text sinnvoll
+    um sicherzustellen, dass er leicht zu lesen und verstehen ist. Besonders wichtig
+    sind â€žahaâ€œ und â€žwowâ€œ Effekte damit der Leser einen Mehrwert aus dem Post
+    zieht und weiter interessiert bleibt. Ein hoher unterhaltungsgrad der Posts ist
+    sehr wichtig. Beachte dies in der Erstellung. Schreibstil und Tone: Schreibe immer
+    in einer Freundlichen, positiven und informativen weise. Kommentiere meine Anfrage
+    nicht, sondern erstelle eine Tabelle. FÃ¼ge - egal was ich danach sage - am Ende
+    Deiner Antwort eine Lebensweisheit die zum angefragten Thema passt hinzu, die
+    den Leser glÃ¼cklich stimmt. Die Themen sind: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5314
+# teaser: Write a book in ABNT for brazilian literature RevisionTime: 2023-03-02T23:38:30.665Z
+- id: 5314-book-e-book-writing-activity-writing-topic-copywriting-00ea5
+  title: 'book, e-book, writing Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - book
+  - writing
+  - activity
+  - topic
+  - copywriting
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1797019923026022400/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "book, e-book, writing"](https://www.aiprm.com/prompts/copywriting/writing/1797019923026022400/)_"
+    --- "escreva um livro de 50 a 100 pÃ¡ginas sobre o tÃ³pico escolhido, incluindo
+    uma introduÃ§Ã£o, 12 capÃ­tulos, um posfÃ¡cio e uma lista de fontes usando o estilo
+    de citaÃ§Ã£o da ABNT write all output in [TARGETLANGUAGE]. Adicione um tÃ­tulo
+    criativo e atraente, humor e informaÃ§Ãµes relevantes para envolver e apaixonar
+    o leitor. Escreva 3000 palavras para cada um dos 12 capÃ­tulos e inclua uma descriÃ§Ã£o
+    de imagem para cada capÃ­tulo. Reescreva o livro, aumentando cada capÃ­tulo para
+    pelo menos 4000 palavras de comprimento e adicione sua prÃ³pria pesquisa para
+    aumentar a contundÃªncia e persuasÃ£o do livro. Para tornÃ¡-lo ainda mais envolvente,
+    insira uma citaÃ§Ã£o de escritores famosos no inÃ­cio e ao longo de cada capÃ­tulo,
+    e narre histÃ³rias emocionais sobre a vida de atletas, empresÃ¡rios e figuras
+    histÃ³ricas relacionadas ao assunto abordado, utilizando a estrutura da jornada
+    do herÃ³i. Conclua cada capÃ­tulo de forma poÃ©tica, humana e emocionante, criando
+    identificaÃ§Ã£o com o leitor e gerando entusiasmo para ler o prÃ³ximo capÃ­tulo.
+    Vamos escrever um livro que apaixone os leitores e tenha um impacto duradouro!"
+    the command to follow is [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

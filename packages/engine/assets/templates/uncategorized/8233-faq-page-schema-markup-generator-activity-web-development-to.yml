@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8233
+# teaser: Create FAQPage schema markup just by providing 1 keyword! RevisionTime:
+# 2023-06-28T07:27:13.871Z
+- id: 8233-faq-page-schema-markup-generator-activity-web-development-to
+  title: "FAQ page schema markup generator Activity: Web Development Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - faq
+    - page
+    - schema
+    - markup
+    - generator
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "FAQ page schema markup generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I will give you a question or an instruction. Your objective is to answer
+    my question or fulfill my instruction. All output should be in [TARGETLANGUAGE].
+    [PROMPT] Run a search query in English on Google for the query "What is the best
+    microwave?" and list the top 3 most frequently asked questions in English with
+    a detailed answer to all these FAQs in English in a JSON-LD format. Follow the
+    following FAQPage schema markup structure: <script type="application/ld+json">
+    { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{ "@type":
+    "Question", "name": "FAQ 1", "acceptedAnswer": { "@type": "Answer", "text": "Answer
+    to FAQ 1" } }, { "@type": "Question", "name": "FAQ 2", "acceptedAnswer": { "@type":
+    "Answer", "text": "Answer to FAQ 2" } }] } </script>'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

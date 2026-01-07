@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 974
+# teaser: Capitalize you text using the APA style guide.
+- id: 974-capitalizer-apa-method
+  title: Capitalizer APA Method
+  tags:
+  - writing
+  - capitalizer
+  - apa
+  - method
+  family: writing
+  body: '[TARGETLANGUAGE] Capitalize the initials of the important words in the given
+    text. Use the APA style for the provided titles in capitalized initials. You must
+    apply the instructions to each line of text even if they are repeated [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

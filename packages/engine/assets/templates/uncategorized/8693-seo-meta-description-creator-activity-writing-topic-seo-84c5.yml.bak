@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8693
+# teaser: Create SEO meta descriptions that will improve CTR and follow best practices. RevisionTime:
+# 2023-03-28T14:09:41.255Z
+- id: 8693-seo-meta-description-creator-activity-writing-topic-seo-84c5
+  title: 'SEO Meta Description Creator Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - seo
+  - meta
+  - description
+  - creator
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1801298839110676480/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "SEO Meta Description Creator"](https://www.aiprm.com/prompts/seo/writing/1801298839110676480/)_"
+    --- Your task is to create a meta description from the text that is provided.
+    The meta description must be less than 160 characters (including spaces.) All
+    outputs should include related information and a call to action. All output shall
+    be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

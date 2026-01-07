@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2725
+# teaser: Create 10 keywords high volume and high Cost-per-click
+- id: 2725-find-high-search-volume-keywords-and-high-cost-per-click
+  title: Find high search volume keywords and high Cost-per-click
+  tags:
+    - keywords
+    - find
+    - high
+    - search
+    - volume
+    - cost
+  family: keywords
+  body:
+    "I want you to act as a market research expert and seo expert who is fluent
+    in speaking and writing [TARGETLANGUAGE]. Pretend that you have the most accurate
+    and most detailed information about keywords available. Give me 10 keyword where
+    the intent keyword must be information. which has a high search volume, high Cost
+    per click, along with a simple yet very catchy title to use for the post and an
+    attractive meta description which has the opportunity for a high click through
+    rate for topics with 120 to max 155 words. Here are the keywords to start with:
+    [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

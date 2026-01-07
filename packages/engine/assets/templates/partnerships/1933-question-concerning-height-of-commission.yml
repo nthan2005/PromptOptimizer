@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1933
+# teaser: Please write an email asking for a commission.
+- id: 1933-question-concerning-height-of-commission
+  title: Question concerning height of Commission
+  tags:
+    - partnerships
+    - question
+    - concerning
+    - height
+    - commission
+  family: Partnerships
+  body:
+    Please write an e-mail with the inquiry whether an order has resulted for
+    me from a joint live workshop in the context of a cooperation. Please write in
+    [TARGETLANGUAGE] and in the [PROMPT].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

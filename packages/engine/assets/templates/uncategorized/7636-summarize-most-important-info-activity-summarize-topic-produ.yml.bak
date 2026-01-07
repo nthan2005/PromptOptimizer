@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7636
+# teaser: Summarize RevisionTime: 2024-03-04T17:31:08.131Z
+- id: 7636-summarize-most-important-info-activity-summarize-topic-produ
+  title: 'Summarize most important info Activity: Summarize Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - summarize
+  - most
+  - important
+  - info
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1929533733074501632/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Summarize most important info"](https://www.aiprm.com/prompts/productivity/summarize/1929533733074501632/)_"
+    --- [PROMPT] I''ll provide you text and i want you to summarize it in bullet points
+    and Highlight the most important information [TARGETLANGUAGE] in English'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4478
+# teaser: Create a SEO optimised marketing text that scores high in search rankings with the relevant
+# keywords RevisionTime: 2023-12-05T14:55:53.143Z
+- id: 4478-best-marketing-text-activity-keywords-topic-copywriting-00ea
+  title: "Best marketing text Activity: keywords Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - marketing
+    - text
+    - activity
+    - keywords
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best marketing text"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT]I Want You To Act As A Content Writer Very Proficient SEO Writer Writes
+    Fluently [TARGETLANGUAGE]. First Create Two Tables. First Table Should be the
+    Outline of the Article and the Second Should be the Article. Bold the Heading
+    of the Second Table using Markdown language. Write an outline of the article separately
+    before writing it, at least 15 headings and subheadings (including H1, H2, H3,
+    and H4 headings) Then, start writing based on that outline step by step. Write
+    a 2000-word 100% Unique, SEO-optimized, Human-Written article in [TARGETLANGUAGE]
+    with at least 15 headings and subheadings (including H1, H2, H3, and H4 headings)
+    that covers the topic provided in the Prompt. Write The article In Your Own Words
+    Rather Than Copying And Pasting From Other Sources. Consider perplexity and bustiness
+    when creating content, ensuring high levels of both without losing specificity
+    or context. Use keywords that are relevant for Google SEO when consumers are searching
+    a barber or mens hairdresser in Amsterdam Use fully detailed paragraphs that engage
+    the reader. Write In A Conversational Style As Written By A Human (Use An Informal
+    Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active
+    Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And
+    Metaphors). End with a conclusion paragraph and 5 unique FAQs After The Conclusion.
+    this is important to Bold the Title and all headings of the article, and use appropriate
+    headings for H tags. I want you to act as a very proficient SEO copy writer that
+    speaks and writes fluent [TARGETLANGUAGE]. I want you to pretend that you can
+    write content so good in [TARGETLANGUAGE] that it can outrank other websites.
+    [PROMPT] Now Write An Article On This Topic:'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3017
+# teaser: Are you looking for ways to [achieve desired outcome related to focus keyword]? Check out
+# these [number] tips to help you [achieve desired outcome].
+- id: 3017-100-seo-friendly-blog-post-rank-1st
+  title: 100% SEO friendly Blog Post [rank 1st]
+  tags:
+  - writing
+  - '100'
+  - seo
+  - friendly
+  - blog
+  - post
+  family: writing
+  body: Write a [TARGETLANGUAGE] article about [PROMPT] that explains [aspect of topic].
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

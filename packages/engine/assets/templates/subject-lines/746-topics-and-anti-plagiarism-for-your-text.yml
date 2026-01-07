@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 746
+# teaser: Your text in topics and anti-plagiarism.
+- id: 746-topics-and-anti-plagiarism-for-your-text
+  title: Topics and anti-plagiarism for your text
+  tags:
+    - subject-lines
+    - topics
+    - anti
+    - plagiarism
+    - text
+  family: Subject Lines
+  body:
+    "Rewrite the text in [TARGETLANGUAGE] changing your anti plagiarism words
+    into [TARGETLANGUAGE] and put it in topics: [PROMPT] -- Finish Prompt -- -- Daniel
+    Torres - dtweb.com.br --"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

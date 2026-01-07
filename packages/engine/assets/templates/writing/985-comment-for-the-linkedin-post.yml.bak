@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 985
+# teaser: Write a best appriciative Linkedin comment on the given content.
+- id: 985-comment-for-the-linkedin-post
+  title: Comment for the LinkedIn Post
+  tags:
+  - writing
+  - comment
+  - linkedin
+  - post
+  family: writing
+  body: Write a LinkedIn comment on given LinkedIn Post [PROMPT] in [TARGETLANGUAGE].
+    Comment should be consist of 1 to 2 lines and in Appriciavtive Manner. add smme
+    emojis too.
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

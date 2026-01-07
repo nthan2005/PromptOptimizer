@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3330
+# teaser: [Joyce Huebner]
+- id: 3330-running
+  title: Running
+  tags:
+  - writing
+  - running
+  family: writing
+  body: '[TARGETLANGUAGE] [PROMPT] Stell dir vor du bist eine lÃƒÂ¤uferinn und du lÃƒÂ¤ufst
+    die ganze deutsche grenze ab jeder tag eist ein neuer marathon und du schreibst
+    jeden tag einen bereicht darÃƒÂ¼ber. Bitte fasse den folgenden text genau so zusammen.
+    Hier kommt der text]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

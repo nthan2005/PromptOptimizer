@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4443
+# teaser: Copy and paste your resume to create a general summary of your work/education experiences.
+# RevisionTime: 2023-02-19T15:35:19Z
+- id: 4443-resume-summarizer-activity-improve-topic-copywriting-00ea56f
+  title: "Resume Summarizer Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - resume
+    - summarizer
+    - activity
+    - improve
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Resume Summarizer"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- The output should be in [TARGETLANGUAGE]. Edit this resume for clarity, content,
+    format, and grammar. Suggest improvements in overall structure and organization.
+    Follow industry standards, and avoid personal opinions. Be clear and concise with
+    your words, including a professional tone and clear description of the candidates
+    best strengths. My resume: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

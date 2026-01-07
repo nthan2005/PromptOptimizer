@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3298
+# teaser: 1000+ Words CTA Based SEO Optimized NLP Passed "Press Release" Support My [Prompt] With Your
+# Comment + Like >>>
+- id: 3298-press-release-seo-optimized
+  title: Press Release (SEO Optimized)
+  tags:
+    - writing
+    - press
+    - release
+    - seo
+    - optimized
+  family: writing
+  body:
+    '[PROMPT] Write 1000+ Words SEO Optimized CTA based, NLP Passed, "Press Release"
+    with proper heading, and highlight some key points on user title For user enter
+    company with Website Name and don''t continue new press release untill its ended
+    with Media Contact. All output shall be in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

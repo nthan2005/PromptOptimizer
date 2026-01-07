@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 996
+# teaser: Write an Article of 1200+ Words to Rank the Article highly on Search Engine
+- id: 996-comprehensive-seo-optimized-article-writing-with-targeted-ke
+  title: Comprehensive SEO-Optimized Article Writing with Targeted Keywords and Headings
+  tags:
+    - writing
+    - comprehensive
+    - seo
+    - optimized
+    - article
+    - targeted
+  family: writing
+  body:
+    Write an SEO-friendly blog post of 1200+ words on the URL [URL], with the
+    targeted keyword [KEYWORD]. Incorporate the targeted keyword 14 times in the body
+    and subheadings. Use clear headings and subheadings, and write in the proper human
+    language. Optimize for voice search and include the latest data and information
+    on the keyword of [KEYWORD]. The goal is to rank the blog post at the top of Google
+    and provide valuable information for readers. Target Language is [TARGETLANGUAGE]
+    [PROMPT]
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage
+    - url

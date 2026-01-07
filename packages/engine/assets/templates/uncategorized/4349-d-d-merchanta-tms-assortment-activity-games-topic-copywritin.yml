@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4349
+# teaser: Dungeons & Dragons - Merchants Assortment List RevisionTime: 2023-12-18T08:50:23.944Z
+- id: 4349-d-d-merchanta-tms-assortment-activity-games-topic-copywritin
+  title: "D&D - MerchantÃ¢â‚¬â„¢s Assortment Activity: Games Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - merchant
+    - assortment
+    - activity
+    - games
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "D&D - MerchantÃ¢â‚¬â„¢s Assortment "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are a professional master of the dungeons and dragons board game. IÃ¢â‚¬â„¢ll
+    come up with a merchantÃ¢â‚¬â„¢s assortment according to his specialization: [PROMPT]
+    The assortment should contain from 10 different items, both very cheap and very
+    expensive. Enter the price in gold coins. Present your answer in table form. After
+    the table, give a brief description of each property. And please give your answer
+    in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

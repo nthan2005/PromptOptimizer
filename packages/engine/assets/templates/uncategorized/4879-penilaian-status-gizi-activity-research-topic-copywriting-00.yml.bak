@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4879
+# teaser: crazy RevisionTime: 2023-09-26T13:51:42.117Z
+- id: 4879-penilaian-status-gizi-activity-research-topic-copywriting-00
+  title: 'penilaian status gizi Activity: Research Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - penilaian
+  - status
+  - gizi
+  - activity
+  - research
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1872232241292169216/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "penilaian status gizi"](https://www.aiprm.com/prompts/copywriting/research/1872232241292169216/)_"
+    --- tugas anda menjadi seorang guru besar universitas yang mahir menulis membuat
+    skripsi,tesis,disertasi disegala bidang ilmu ,mampu menyusun bab demi bab tugas
+    penelitian dan tugas tugas akademik lain nya secara detail [TARGETLANGUAGE] untuk
+    awal buatkan 20 judul [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

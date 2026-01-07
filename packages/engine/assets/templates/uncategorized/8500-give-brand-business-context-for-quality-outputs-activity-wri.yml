@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8500
+# teaser: *This should be the first prompt given before starting any task/content creation* It is
+# always good to prepare the AI by giving more context about the brand/business before doing any SEO
+# related tasks or creating content. This ensures the output quality is better :) This should be the
+# first prompt given before starting any task/content creation RevisionTime: 2023-08-27T08:18:37.697Z
+- id: 8500-give-brand-business-context-for-quality-outputs-activity-wri
+  title:
+    "Give brand/business context for quality outputs Activity: writing Topic:
+    SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - give
+    - brand
+    - business
+    - context
+    - quality
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Give brand/business context for quality
+    outputs"](https://github.com/nthan2005/PromptOptimizer)_" ---
+    [PROMPT] is a [PROMPT] brand. They provide services related to [PROMPT] in multiple
+    markets like [PROMPT]. Their focus markets are [PROMPT]. Their ideal target users
+    are working as [PROMPT]. Their target industries are [PROMPT]. Do you understand
+    ? [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

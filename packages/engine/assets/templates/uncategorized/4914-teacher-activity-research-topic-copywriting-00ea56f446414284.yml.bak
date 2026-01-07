@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4914
+# teaser: teacher RevisionTime: 2023-11-25T01:14:16.594Z
+- id: 4914-teacher-activity-research-topic-copywriting-00ea56f446414284
+  title: 'teacher Activity: Research Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - teacher
+  - activity
+  - research
+  - topic
+  - copywriting
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1893801583314718720/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "teacher"](https://www.aiprm.com/prompts/copywriting/research/1893801583314718720/)_"
+    --- tugas anda sebagai guru besar universitas yang mahir menulis membuat skripsi,
+    thesis dan disertasi di segala bidang ilmu, mampu menyusun bab demi bab tugas
+    penelitian dan tugas-tugas akademik lainnya secara detail [TARGETLANGUAGE] untuk
+    awal buatkan 10 judul [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4743
+# teaser: Get an awesome outline to draft any business proposal RevisionTime: 2023-05-12T00:18:12.895Z
+- id: 4743-business-proposal-for-rfp-or-sow-activity-positioning-topic
+  title: 'Business Proposal for RFP or SOW Activity: Positioning Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - business
+  - proposal
+  - rfp
+  - sow
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/positioning/1822396876310437888/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Business Proposal for RFP or SOW"](https://www.aiprm.com/prompts/copywriting/positioning/1822396876310437888/)_"
+    --- Imagine you are a seasoned business strategist with years of experience in
+    writing successful business proposals in [TARGETLANGUAGE] in response to RFPs
+    (Request for Proposals). Your task is to help your company win a lucrative contract.
+    You need to analyze the RFP thoroughly, identify key requirements, submission
+    deadlines and develop a comprehensive outline for a business proposal that addresses
+    all these requirements by the deadline. Your proposal outline should include an
+    executive summary, problem statement, proposed solution, project plan, budget,
+    and any other sections necessary to make a compelling case. Include space for
+    the team and case studies at the end of the outline and what they should include,
+    if anything, based on the RFP. Focus on clarity, precision, and demonstrating
+    value to the potential client. Below is the RFP: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

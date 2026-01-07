@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3450
+# teaser: Articles that follow Google Helpful content Guidelines.
+- id: 3450-write-content-according-to-helpful-content-update
+  title: Write content according to helpful content update.
+  tags:
+    - writing
+    - write
+    - content
+    - according
+    - helpful
+    - update
+  family: writing
+  body:
+    Your task is to Create the article on a given topic by considering the following
+    Guidelines by Google. All the output result must be in [TARGETLANGUAGE]. I want
+    you to write the content in [TARGETLANGUAGE] that provides a satisfying experience
+    for visitors. I want you to create the content in [TARGETLANGUAGE] that outranks
+    other articles. Create the content for the audience while incorporating SEO best
+    practices. I want you to Create content that targets audience, demonstrate expertise,
+    have a primary purpose or focus, provide value, and ensure a satisfying experience
+    for readers. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

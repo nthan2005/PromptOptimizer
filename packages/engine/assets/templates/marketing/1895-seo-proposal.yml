@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1895
+# teaser: Create a SEO Proposal with Client Requirement
+- id: 1895-seo-proposal
+  title: Seo Proposal
+  tags:
+    - marketing
+    - seo
+    - proposal
+  family: marketing
+  body:
+    "Write a short SEO cover letter to the client in points: [PROMPT] some portfolio
+    for SEO: https://www.xyz.com/ https://xyz.com/ https://xyz.com/ write all output
+    in [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

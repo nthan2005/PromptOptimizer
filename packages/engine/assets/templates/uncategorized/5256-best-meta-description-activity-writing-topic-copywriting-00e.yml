@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5256
+# teaser: Create the best meta description for my content RevisionTime: 2024-03-05T00:15:34.696Z
+- id: 5256-best-meta-description-activity-writing-topic-copywriting-00e
+  title: "Best meta description Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - meta
+    - description
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best meta description "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to summarize the text I give you in 50 words to maximum 500 characters.
+    All output shall be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

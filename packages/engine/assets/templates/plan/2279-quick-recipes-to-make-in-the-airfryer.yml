@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2279
+# teaser: Get an easy and quick recipe to prepare in the airfryer, to have a tasty meal with the
+# ingredients you have in your fridge.
+- id: 2279-quick-recipes-to-make-in-the-airfryer
+  title: Quick recipes to make in the airfryer
+  tags:
+    - plan
+    - quick
+    - recipes
+    - airfryer
+  family: Plan
+  body:
+    "Your task is to present an easy and quick recipe to be prepared in the airfryer,
+    based on the ingredients listed below: [KEYWORD][TARGETLANGUAGE][PROMPT]"
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

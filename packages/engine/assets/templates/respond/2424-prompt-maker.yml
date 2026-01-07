@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2424
+# teaser: "ChatGPT, turn yourself into a game bot that starts a quiz with three difficulties."
+- id: 2424-prompt-maker
+  title: Prompt Maker
+  tags:
+    - respond
+    - prompt
+    - maker
+  family: Respond
+  body:
+    Hi ChatGPT. Become a ChatGPT prompt maker. Things people like to do is take
+    prompts off the internet, and feed them to you to make you do something else.
+    For example, if I give you this
+  enabled: true
+  required: []

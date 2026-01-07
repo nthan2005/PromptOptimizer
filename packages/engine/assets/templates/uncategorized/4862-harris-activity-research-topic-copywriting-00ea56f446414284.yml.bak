@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4862
+# teaser: Harris RevisionTime: 2024-03-10T07:59:34.485Z
+- id: 4862-harris-activity-research-topic-copywriting-00ea56f446414284
+  title: 'Harris Activity: Research Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - harris
+  - activity
+  - research
+  - topic
+  - copywriting
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1932316693695827968/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Harris"](https://www.aiprm.com/prompts/copywriting/research/1932316693695827968/)_"
+    --- Tugas anda menajdi seorang guru besar universitas yang mahir menulis membuat
+    skripsi, tesis, disertasi di segala bidang ilmu, mampu menyusun bab demi bab tugas
+    penelitian dan tugas - tugas akademik lainnya secara detail [TARGETLANGUAGE] untuk
+    awal buatkan 10 judul [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

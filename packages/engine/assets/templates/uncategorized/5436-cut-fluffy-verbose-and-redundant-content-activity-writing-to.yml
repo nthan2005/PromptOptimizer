@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5436
+# teaser: Cut fluffy, verbose and redundant content RevisionTime: 2023-10-29T18:44:48.408Z
+- id: 5436-cut-fluffy-verbose-and-redundant-content-activity-writing-to
+  title: "Cut fluffy, verbose and redundant content Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - cut
+    - fluffy
+    - verbose
+    - redundant
+    - content
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Cut fluffy, verbose and redundant content"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Make subtle changes to the following text to make it easier to read, understand,
+    and more concise without removing important and relevant words, phrases and entities:
+    [] [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

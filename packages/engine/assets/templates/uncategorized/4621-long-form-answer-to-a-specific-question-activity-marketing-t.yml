@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4621
+# teaser: Long Form Answer To A Specific Question RevisionTime: 2023-05-08T08:39:36.873Z
+- id: 4621-long-form-answer-to-a-specific-question-activity-marketing-t
+  title: "Long Form Answer To A Specific Question Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - long
+    - form
+    - answer
+    - specific
+    - question
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Long Form Answer To A Specific Question"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- As a detailed Instructor write minimum of 500 words explaining the following
+    question [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

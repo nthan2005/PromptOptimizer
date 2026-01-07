@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2556
+# teaser: summarize this content, make a brief TLDR summary and list the important points in topics
+# below: [TRANSCRIPT]
+- id: 2556-youtube-summary-transcript
+  title: Youtube Summary Transcript
+  tags:
+    - summarize
+    - youtube
+    - summary
+    - transcript
+  family: Summarize
+  body:
+    "summarize this content in [TARGETLANGUAGE], make a brief TLDR summary and
+    list below the important points in topics: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5382
+# teaser: Create a complete schedule for you course with modules and lectures RevisionTime:
+# 2024-02-15T20:05:06.073Z
+- id: 5382-course-schedule-activity-writing-topic-copywriting-00ea56f44
+  title: "Course Schedule Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - course
+    - schedule
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Course Schedule"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Eu sou um criador de curso online. Estou criando um curso de [COURSE] Eu quero
+    que vocÃƒÂª escreva um ÃƒÂ­ndice com mÃƒÂ³dulos para a criaÃƒÂ§ÃƒÂ£o desse curso. Depois
+    escrava o resumo de cada um destes mÃƒÂ³dulos. Me informe o pÃƒÂºblico alvo deste
+    curso. [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - course
+    - prompt
+    - targetlanguage

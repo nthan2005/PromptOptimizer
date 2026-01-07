@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3141
+# teaser: Create articles with Yoast SEO's standard. All you need is just title or keyword.
+- id: 3141-create-article-with-yoast-seo-s-standard
+  title: Create Article with Yoast SEO's Standard
+  tags:
+    - writing
+    - article
+    - yoast
+    - seo
+    - standard
+  family: writing
+  body:
+    "your task is to make SEO friendly articles according to Yoast SEO standards,
+    before presenting the article you must provide keywords, tags ,meta description
+    information and image suggestion that suitable for the article in a markdown table.
+    Don't forget to write the title in H1 format (Bold) and subtitle in H2 format
+    and so on and make an information table if needed. All output shall be in [TARGETLANGUAGE].
+    The article you have to make is titled or has the following keywords: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

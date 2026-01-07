@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6359
+# teaser: Defining your OKR objectives well will help you reach your goals sooner. RevisionTime:
+# 2023-02-24T22:00:23Z
+- id: 6359-brainstorming-to-define-specific-okr-objectives-activity-mar
+  title:
+    "Brainstorming to define specific OKR objectives Activity: marketing Topic:
+    Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - brainstorming
+    - define
+    - specific
+    - okr
+    - objectives
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Brainstorming to define specific OKR
+    objectives"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Define 5 to 10 OKR with 5 KR for the OKR: [PROMPT]. And create for each KR
+    a list of tasks to achieve them. All output shall be in the [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

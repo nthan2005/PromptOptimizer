@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2921
+# teaser: Easily Write SEO Optimized Product Title and Description . This Will Help you rank you to
+# rank higher in Google , Bing and Yandex.
+- id: 2921-meta-title-and-description-for-shopify-products
+  title: Meta Title and Description for Shopify Products
+  tags:
+    - products
+    - meta
+    - title
+    - description
+    - shopify
+  family: Products
+  body: Write SEO optimized Meta title and Description[PROMPT] [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

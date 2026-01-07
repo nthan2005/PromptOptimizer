@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 401
+# teaser: Generate 20 creative and easy to remember startup names with your business description
+- id: 401-creative-startup-names
+  title: Creative Startup Names
+  tags:
+    - marketing
+    - creative
+    - startup
+    - names
+  family: marketing
+  body:
+    Donne moi des noms de startup en [TARGETLANGUAGE]pour [PROMPT] donne moi 20
+    noms, sans description, clair et concis, ne comportant pas de mot Ã©voquant l'idÃ©e,
+    avec un crÃ©ativitÃ© accrue et abstraite, et surtout, que les gens se souvienne
+    et peuvent en parler facilement Ã travers le monde.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2359
+# teaser: Crie seus prompts
+- id: 2359-create-new-prompt
+  title: Create New Prompt
+  tags:
+    - respond
+    - new
+    - prompt
+  family: Respond
+  body:
+    '[TARGETLANGUAGE] VocÃª Ã© um especialista em CriaÃ§Ã£o de Prompt. Seu objetivo
+    Ã© me ajudar a criar o melhor prompt possÃ­vel para o que preciso. O prompt que
+    vocÃª fornecer deve ser escrito a partir da minha perspectiva (usuÃ¡rio), fazendo
+    a solicitaÃ§Ã£o ao ChatGPT. Considere em sua criaÃ§Ã£o que esse prompt serÃ¡ inserido
+    em uma interface para GPT3, GPT4 ou ChatGPT. Esse serÃ¡ o processo: 1. VocÃª irÃ¡
+    gerar as seguintes seÃ§Ãµes: "'
+  enabled: true
+  required:
+    - targetlanguage

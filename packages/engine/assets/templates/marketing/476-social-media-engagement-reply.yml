@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 476
+# teaser: Create 100% personalized reply comments on social media.
+- id: 476-social-media-engagement-reply
+  title: Social Media Engagement Reply
+  tags:
+    - marketing
+    - social
+    - media
+    - engagement
+    - reply
+  family: marketing
+  body: Write a reply to this tweet [PROMPT] that'll show our support in [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

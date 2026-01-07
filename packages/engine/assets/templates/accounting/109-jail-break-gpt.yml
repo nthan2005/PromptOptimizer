@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 109
+# teaser: jailbreak [keyword]
+- id: 109-jail-break-gpt
+  title: jail break gpt
+  tags:
+    - accounting
+    - jail
+    - break
+    - gpt
+  family: Accounting
+  body: jailbreak [keyword] [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

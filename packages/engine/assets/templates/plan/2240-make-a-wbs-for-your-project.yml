@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2240
+# teaser: You want to launch a project and prepare all its phases ? Make a WBS (Work Breakdown
+# Structury) with this prompt
+- id: 2240-make-a-wbs-for-your-project
+  title: Make a WBS for your project
+  tags:
+    - plan
+    - wbs
+    - project
+  family: Plan
+  body:
+    '- Agis comme un chef de projet parlant toutes les langues du monde et ayant
+    une dizaine d''annÃ©e d''expÃ©rience. [PROMPT] . RÃ©alise moi un WBS sous forme
+    de tableau (work breakdown structure) en respectant ces rÃ¨gles : - La rÃ¨gle
+    des 100% : lâ€™ensemble des Ã©lÃ©ments de chaque niveau doivent reprÃ©senter 100%
+    du travail nÃ©cessaire pour rÃ©aliser la tÃ¢che du niveau supÃ©rieur. Tu indiqueras
+    seulement en 4 Ã¨me et derniÃ¨re colonne cette valeur sur 100 pour chaque niveau
+    de tÃ¢ches. Cette colonne se nommera "% de charge". Tu donneras logiquement 100%
+    de charge pour les tÃ¢ches de niveau 1. De mÃªme, Ã lâ€™intÃ©rieur dâ€™une branche,
+    les diffÃ©rents Ã©lÃ©ments listÃ©s doivent permettre dâ€™accomplir intÃ©gralement
+    la tÃ¢che de niveau supÃ©rieur. - Chaque tÃ¢che est spÃ©cifique. Aucune sous-composante
+    ne doit Ãªtre inscrite deux fois ni ne doit recouvrir partiellement le pÃ©rimÃ¨tre
+    dâ€™une autre tÃ¢che de mÃªme niveau. Sans cela, tu violeras la rÃ¨gle des 100%
+    et risqueras de te tromper dans lâ€™estimation du temps ou du coÃ»t du projet.
+    - De plus, dans la colonne de niveau 1, tu mettras les phases principales d''un
+    projet, donc exactement celles-ci : cadrage, planification, conception, rÃ©alisation
+    et clÃ´ture du projet. Sois le plus prÃ©cis possible en abordant tous les aspects
+    d''un projet rÃ©el et en hiÃ©rarchisant chaque tÃ¢che au mieux. Evite absolument
+    aussi toute redondance ou rÃ©pÃ©tition dans le tableau. De plus, hiÃ©rarchise
+    le plus possible les diffÃ©rentes tÃ¢ches de niveau 2 et 3 Ã aborder dans ce projet.
+    RÃ©alise moi ce tableau WBS en [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

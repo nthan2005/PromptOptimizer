@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2316
+# teaser: analysis
+- id: 2316-webpage-analyzer-1-0
+  title: Webpage analyzer 1.0
+  tags:
+    - plan
+    - webpage
+    - analyzer
+  family: Plan
+  body:
+    Assume the role of a [VARIABLE1], specifically in the field of [VARIABLE2],
+    and analyze the content of the following webpage [PROMPT] in the same field of
+    expertise. Based on your analysis, draft a [VARIABLE3] that provides a comprehensive
+    overview of the information presented on the webpage, including its relevance
+    and potential impact on the field of expertise. Your response should be written
+    in clear and concise [TARGETLANGUAGE], using technical terminology where appropriate.
+    [VARIABLE1:PROFESSION] [VARIABLE2:EXPERTISE] [VARIABLE3:REPORT FORMAT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3

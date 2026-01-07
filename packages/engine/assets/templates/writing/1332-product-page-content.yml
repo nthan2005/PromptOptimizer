@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1332
+# teaser: Write product description for the course.
+- id: 1332-product-page-content
+  title: Product Page Content
+  tags:
+    - writing
+    - product
+    - page
+    - content
+  family: writing
+  body:
+    I would want you to generate a headline for the [PROMPT] course. Must use
+    the [PROMPT] in the headline and keep the headline interesting. Keep the headline
+    strictly to 30 characters. Do not repeat the same words as starting words in the
+    title. Do not include any number in the title. Add a description to it. Keep the
+    description strictly within 200 characters. Keep the description interesting,
+    catchy, and engaging. write all output in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

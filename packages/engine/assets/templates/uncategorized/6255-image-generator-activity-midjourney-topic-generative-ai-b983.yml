@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6255
+# teaser: Generate high quality images with chatGPT: Limited Version RevisionTime:
+# 2023-10-18T08:22:20.082Z
+- id: 6255-image-generator-activity-midjourney-topic-generative-ai-b983
+  title: "Image Generator Activity: Midjourney Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - image
+    - generator
+    - activity
+    - midjourney
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Image Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- INPUT = {focus} OUTPUT = {description} \n ![IMG](https://image.pollinations.ai/prompt/{description})
+    {description} = {focusDetailed},%20{adjective1},%20{adjective2},%20{visualStyle1},%20{visualStyle2},%20{visualStyle3},%20{artistReference}
+    INPUT = [PROMPT] [TARGETLANGUAGE] OUTPUT = [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - adjective1
+    - adjective2
+    - artistreference
+    - description
+    - focus
+    - focusdetailed
+    - img
+    - prompt
+    - targetlanguage
+    - visualstyle1
+    - visualstyle2
+    - visualstyle3

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1067
+# teaser: [You can separate syllables with the letter: / ideal for creating karaoke with karafun]
+- id: 1067-divide-by-syllables-with-the-letter
+  title: Divide by syllables with the letter /
+  tags:
+    - writing
+    - divide
+    - syllables
+    - letter
+  family: writing
+  body:
+    'divide the syllables of the text separated with "/" , I give you an example
+    of how it would be: the love of my vi/da e/res you. for the following text: [text
+    to separate]". [TARGETLANGUAGE] and [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

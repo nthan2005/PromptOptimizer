@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 293
+# teaser: Rewrite Your Response to Reviewer's Comments
+- id: 293-rewrite-response-to-reviewer-s-comments
+  title: Rewrite Response to Reviewer's Comments
+  tags:
+    - improve
+    - rewrite
+    - response
+    - reviewer
+    - comments
+  family: Improve
+  body:
+    "I need to respond to reviewers' comments in order to meet the publication
+    standards of IEEE Transactions journals. I need you to act as an [TARGETLANGUAGE]
+    translator, spelling proofreader, grammar checker, and rhetorical improver. I
+    will give you the reviewer's comment and my original response. Your task is to
+    rewrite my response in more elegant and polished [TARGETLANGUAGE], making sure
+    the rewriten sentences more friendly and academic. The reviewer's comment and
+    my original response is: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

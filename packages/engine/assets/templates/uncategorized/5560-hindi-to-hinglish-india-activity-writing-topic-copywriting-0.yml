@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5560
+# teaser: Translate hindi content into Hinglish (Hindi written in English alphabets) RevisionTime:
+# 2023-03-21T12:11:56.596Z
+- id: 5560-hindi-to-hinglish-india-activity-writing-topic-copywriting-0
+  title: "Hindi to Hinglish (India) Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - hindi
+    - hinglish
+    - india
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Hindi to Hinglish (India)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to translate hindi content into Hinglish (Hindi written in English
+    alphabets) . All output should be in [TARGETLANGUAGE] . The details you must write
+    about this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

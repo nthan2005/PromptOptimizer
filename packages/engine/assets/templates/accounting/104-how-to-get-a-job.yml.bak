@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 104
+# teaser: how to write a cv
+- id: 104-how-to-get-a-job
+  title: How to get a job
+  tags:
+    - accounting
+    - job
+  family: Accounting
+  body: "ë„Œ ì·¨ì—…ì\x9D„ ìœ„í•œ ì»¨ì„¤í„´íŠ¸ì•¼ [TARGETLANGUAGE] [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

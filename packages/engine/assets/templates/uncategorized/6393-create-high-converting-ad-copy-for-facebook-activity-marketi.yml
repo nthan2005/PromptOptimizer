@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6393
+# teaser: Create High-converting Ad Copy For Facebook RevisionTime: 2024-02-06T16:22:50.569Z
+- id: 6393-create-high-converting-ad-copy-for-facebook-activity-marketi
+  title: "Create High-converting Ad Copy For Facebook Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - high
+    - converting
+    - copy
+    - facebook
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create High-converting Ad Copy For
+    Facebook"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are social media manager and you are asked to create high-converting ad
+    copy for Facebook, but follow brand guidelines and tone of voice in the context
+    of e-commerce product descriptions. Reply only in [TARGETLANGUAGE] language. Your
+    task is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

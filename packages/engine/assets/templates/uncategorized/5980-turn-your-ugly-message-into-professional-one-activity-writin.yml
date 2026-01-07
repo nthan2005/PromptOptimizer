@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5980
+# teaser: Just Type what do you know in English and See the Magic, Make your Messages or Email More
+# professional. RevisionTime: 2023-05-31T04:16:15.764Z
+- id: 5980-turn-your-ugly-message-into-professional-one-activity-writin
+  title: "Turn your Ugly Message into Professional One Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - turn
+    - ugly
+    - message
+    - professional
+    - one
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Turn your Ugly Message into Professional
+    One"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Make this message more professional Without Any grammar Mistakes. And In The
+    Very Bottom of the article Write This Custom Massage " By Me A Coffie If you Like
+    this Message: https://bmc.link/thasleem "All Output Shall Be in [TARGETLANGUAGE]:
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

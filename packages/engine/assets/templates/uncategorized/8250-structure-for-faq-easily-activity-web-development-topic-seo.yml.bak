@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8250
+# teaser: Creates a structured data for FAQ provided. RevisionTime: 2023-06-27T05:47:42.379Z
+- id: 8250-structure-for-faq-easily-activity-web-development-topic-seo
+  title: 'Structure for FAQ Easily! Activity: Web Development Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - structure
+  - faq
+  - easily
+  - activity
+  - web
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/web-development/1837715416849063936/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Structure for FAQ Easily!"](https://www.aiprm.com/prompts/seo/web-development/1837715416849063936/)_"
+    --- # Prompt by Nilhan # Lines starting with # are only comments for humans #
+    Creates Structure from FAQ! .. Create a JSON-LD schema of not more than 15 questions,
+    for the faq:[PROMPT]. Place the code inside script tags. You may write and read
+    as fluent person in [TARGETLANGUAGE] language. In The Very Bottom of the output,
+    Write This Custom Massage ============================================ Please
+    hit the like icon if you find this helpful.. Drop me a message on LinkedIn: https://www.linkedin.com/in/chaturangasoysa'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

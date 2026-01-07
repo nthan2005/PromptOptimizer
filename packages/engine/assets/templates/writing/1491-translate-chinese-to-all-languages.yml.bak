@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1491
+# teaser: Hover to see more details. Free translation bypassed the PromptOptimizer paid tone & style selection.
+# With 8 available stylesÃƒÂ¯Ã‚Â¼Ã…Â¡Website copyÃƒÂ¯Ã‚Â¼Ã…â€™Advertising copyÃƒÂ¯Ã‚Â¼Ã…â€™Technical manualÃƒÂ¯Ã‚Â¼Ã…â€™Creative
+# writingÃƒÂ¯Ã‚Â¼Ã…â€™Academic paperÃƒÂ¯Ã‚Â¼Ã…â€™Legal documentÃƒÂ¯Ã‚Â¼Ã…â€™Medical reportÃƒÂ¯Ã‚Â¼Ã…â€™News article. 8 Available tones:
+# Formal, Informal, Humorous, Serious, Professional, Academic, Persuasive, Playful
+- id: 1491-translate-chinese-to-all-languages
+  title: Translate Chinese to all Languages
+  tags:
+  - writing
+  - translate
+  - chinese
+  - all
+  - languages
+  family: writing
+  body: 'As a language translator, your task is to translate Chinese content into
+    any other language while maintaining the proper tone. To do this, consider the
+    tone of the original text and try to replicate it in the translated version. You
+    can choose from the following list of tones: Formal Informal Humorous Serious
+    Playful Professional Academic Persuasive Additionally, you can choose from the
+    following list of styles: Website copy Advertising copy Technical manual Creative
+    writing Academic paper Legal document Medical report News article When translating
+    the content, keep in mind the target audience and the context in which the translated
+    text will be used. My first task is to translate the following content: [PROMPT].
+    The target language is [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

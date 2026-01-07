@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 781
+# teaser: Tell me what you see and i tell you what i think about you
+- id: 781-netflix-analyzer
+  title: Netflix Analyzer
+  tags:
+    - summarize
+    - netflix
+    - analyzer
+  family: Summarize
+  body:
+    'ich nenne dir jetzt ein paar netflix serien und Filme : "[PROMPT]" und du
+    versuche ein Muster darin zu erkennen bzw. versuche was Ã¼ber diese Person zu
+    schlussfolgern die das alles gesehen hat. So viel wie du nur schaffst. Ziehe zum
+    Schluss ein Fazit was du Ã¼ber die Person denkst. Antworte mir bitte alles auf
+    [TARGETLANGUAGE]. Empfehle mir in einer schicken Tabelle zum Schluss noch basierend
+    auf meinen Mustern jeweils 5 weitere Titel die ich mir anschauen sollte. In der
+    Tabelle wÃ¤re es schÃ¶n wenn du den Titel, Hauptdarsteller und Kategorie benennst
+    und in Sternchenform darstellst wie gut oder schlecht die Bewertung ist.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

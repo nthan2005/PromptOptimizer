@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5389
+# teaser: Create high quality and specific articles RevisionTime: 2024-04-04T07:00:48.205Z
+- id: 5389-create-100-to-300-word-articles-quickly-activity-writing-top
+  title: "Create 100 to 300 word articles quickly Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - "100"
+    - "300"
+    - word
+    - articles
+    - quickly
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create 100 to 300 word articles quickly"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Specific and high-quality articles with a minimum of 100 words and a maximum
+    of 300 words [TARGETLANGUAGE] placeholder [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

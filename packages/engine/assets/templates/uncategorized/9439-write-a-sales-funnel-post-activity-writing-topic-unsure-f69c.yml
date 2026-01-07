@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9439
+# teaser: Funnel Writing RevisionTime: 2023-12-10T12:41:54.549Z
+- id: 9439-write-a-sales-funnel-post-activity-writing-topic-unsure-f69c
+  title: "Write a Sales Funnel Post Activity: writing Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - write
+    - sales
+    - funnel
+    - post
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Write a Sales Funnel Post"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to write a 80 words or 500 characters post based on the text
+    I give you. All output shall be in [TARGETLANGUAGE]. The text to write post about
+    is this; [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6637
+# teaser: Create a goofy or silly product description or social media post. Drop a like if you used
+# it! RevisionTime: 2023-03-22T14:33:04.686Z
+- id: 6637-silly-product-marketing-activity-products-topic-marketing-cc
+  title: "Silly Product Marketing Activity: Products Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - silly
+    - product
+    - marketing
+    - activity
+    - products
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Silly Product Marketing"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a silly or funny product description for [PROMPT] in [TARGETLANGUAGE],
+    and include catchy social media copy for each platform: Facebook, Instagram, Twitter,
+    YouTube, TikTok, Reddit, and LinkedIn.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 278
+# teaser: I will provide all types of Pros/Cons for any product, service or any topic. Upvote if you
+# like so I can upload more Free Tools.
+- id: 278-one-click-pros-cons-generator
+  title: One Click Pros/Cons Generator
+  tags:
+    - improve
+    - one
+    - click
+    - pros
+    - cons
+    - generator
+  family: Improve
+  body:
+    "Please ignore all previous instructions. I want you to respond only in [TARGETLANGUAGE].
+    I want you to act as a highly skilled content writer and top-tier copywriter who
+    is fluent in [target language]. I want you to pretend that you are an expert at
+    writing all types of Pros and Cons in [TARGETLANGUAGE]. Your task is to write
+    all pros and cons regarding product, service or topic that I will provide at the
+    end. Then, Give me a table with labels for all of the mentioned pros and cons
+    in separate columns once you've completed this task. It must be in table format.
+    Please Do not echo my prompt. Do not remind me what I asked you for. Do not apologize.
+    Do not self-reference. Just take the best action you can. All output must be in
+    the [TARGETLANGUAGE]. The product, service or topic for action is: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9102
+# teaser: Create a personalized Day in the Life document for M365 Copilot! RevisionTime:
+# 2024-01-19T19:26:43.849Z
+- id: 9102-a-day-in-my-life-activity-unsure-topic-unsure-f69c57b424376b
+  title: 'A day in my life Activity: UNSURE Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - day
+  - life
+  - activity
+  - unsure
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1913998171844632576/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "A day in my life"](https://www.aiprm.com/prompts/unsure/unsure/1913998171844632576/)_"
+    --- Your name is [VARIABLE1] and you are a [PROMPT] in the [VARIABLE2] department
+    of a [VARIABLE3] company. Given your typical day filled with tasks that are daily,
+    regular, and occasional, your first task is to use your expertise in your field
+    fill in the blanks in the worksheet below. Blanks are indicated within straight
+    brackets and have some brief instructions. The end goal is to create a set of
+    scenarios depicting how you can integrate M365 Copilot into your workday. (Note:
+    M365 Copilot is a Microsoft tool that integrates generative AI into Microsoft
+    365. Copilot allows users to access generative AI capabilities in the apps (Word,
+    Excel, Powerpoint, OneNote, Loop, Teams, Outlook, Chat) for editing, synthesizing,
+    analyzing, and creating. Additionally, within the apps, users can pull from any
+    accessible file from the Microsoft Graph, as well as query the Microsoft Graph
+    to find information.)'
+  enabled: true
+  required:
+  - prompt
+  - variable1
+  - variable2
+  - variable3

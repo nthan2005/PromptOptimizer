@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2910
+# teaser: Create a useful category article to SEO in category page
+- id: 2910-article-for-product-category-page-ecommerce
+  title: Article for Product Category Page - Ecommerce
+  tags:
+    - products
+    - article
+    - product
+    - category
+    - page
+    - ecommerce
+  family: Products
+  body:
+    "Ä\x90Ã³ng vai má»™t chuyÃªn gia nghiÃªn cá»©u thá»‹ trÆ°á»\x9Dng, chuyÃªn\
+    \ gia vá»\x81 sáº£n pháº©m vÃ chuyÃªn gia vá»\x81 SEO viáº¿t bÃ i chuáº©n E-A-T.\
+    \ TÃ¬m kiáº¿m cÃ¡c tá»« khÃ³a LSI vÃ Semantic keywords vá»\x81 \"[PROMPT]\". Viáº¿t\
+    \ bÃ i viáº¿t vá»\x81 danh má»¥c sáº£n pháº©m thÆ°Æ¡ng máº¡i Ä‘iá»‡n tá»­ theo\
+    \ ngÃ´n ngá»¯ [TARGETLANGUAGE] tá»« \"[PROMPT]\". BÃ i viáº¿t cÃ³ tá»‘i thiá»ƒu\
+    \ 2000 tá»«. BÃ i viáº¿t cÃ³ tá»‘i thiá»ƒu 5 outline. HÃ£y tá»± Ä‘á»\x81 xuáº¥t\
+    \ thÃªm outline vÃ ná»™i dung liÃªn quan Ä‘á»ƒ bÃ i viáº¿t thÃªm Ä‘a dáº¡ng. Outline\
+    \ báº¯t buá»™c pháº£i cÃ³ bao gá»“m: Ä‘á»‹nh nghÄ©a, lá»‹ch sá»­ sáº£n pháº©m\
+    \ (náº¿u cÃ³), Ä‘áº·c Ä‘iá»ƒm sáº£n pháº©m kÃ¨m thÃ´ng sá»‘ ká»¹ thuáº­t cáº§n\
+    \ biáº¿t, cÃ¡c loáº¡i sáº£n pháº©m, cÃ¡c thÆ°Æ¡ng hiá»‡u sáº£n xuáº¥t sáº£n pháº©m\
+    \ ná»•i tiáº¿ng trÃªn thá»‹ trÆ°á»\x9Dng (theo thá»‘ng kÃª Ä‘Æ°á»£c xÃ¡c thá»±c\
+    \ má»›i nháº¥t), cÆ¡ cháº¿ hoáº¡t Ä‘á»™ng, cÃ¡ch sá»­ dá»¥ng, lá»£i Ã­ch sáº£n\
+    \ pháº©m, Æ°u Ä‘iá»ƒm, á»©ng dá»¥ng cá»§a sáº£n pháº©m, khoáº£ng giÃ¡ trÃªn thá»‹\
+    \ trÆ°á»\x9Dng. Trong quÃ¡ trÃ¬nh viáº¿t, chÃ¨n nhá»¯ng tá»« khÃ³a Semantic vÃ\
+    \ LSI Ä‘Ã£ nghiÃªn cá»©u, in Ä‘áº­m chÃºng. Viáº¿t tá»‘i thiá»ƒu 3,000 tá»«. 1\
+    \ cÃ¢u tá»‘i Ä‘a 20 tá»«. Viáº¿t ná»™i dung unique, khÃ´ng trÃ¹ng láº¯p, khÃ´ng\
+    \ copy paste tá»« nguá»“n khÃ¡c. Viáº¿t chuáº©n E-A-T. Ná»™i dung dá»… hiá»ƒu\
+    \ vÃ Ä‘a dáº¡ng cho ngÆ°á»\x9Di má»›i. Viáº¿t Ä‘Ã¡ng tin cáº­y. Viáº¿t cÃ³ dáº«n\
+    \ chá»©ng, kÃ¨m theo sá»‘ liá»‡u. Viáº¿t cÃ³ sá»‘ liá»‡u. Viáº¿t vÄƒn phong ngÆ°á»\x9D\
+    i viáº¿t, cÃ³ tÃ­nh cháº¥t trung thá»±c, ná»™i dung Ä‘Æ°á»£c xÃ¡c thá»±c. Viáº¿t\
+    \ ná»™i dung mang tÃ­nh phÃ¢n tÃ­ch, nháº­n xÃ©t, Ä‘Æ°a ra Ã½ kiáº¿n, khuyáº¿n\
+    \ nghá»‹. TÃ´ Ä‘áº­m cÃ¡c Ã½ chÃ­nh trong cÃ¢u vÄƒn. Viáº¿t ra cÃ¡c nguá»“n Ä‘Ã¡ng\
+    \ tin cáº­y vÃ Ä‘Æ°á»£c xÃ¡c thá»±c uy tÃ­n liÃªn quan Ä‘áº¿n bÃ i viáº¿t. Káº¿t\
+    \ thÃºc bÃ i viáº¿t vá»›i 10 FAQs. HÃ£y báº¯t Ä‘áº§u viáº¿t ná»™i dÃ¹ng trong\
+    \ trang danh má»¥c sáº£n pháº©m \"[PROMPT]\" báº±ng ngÃ´n ngá»¯ [TARGETLANGUAGE]."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

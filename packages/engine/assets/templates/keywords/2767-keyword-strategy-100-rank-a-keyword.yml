@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2767
+# teaser: Create a keyword strategy with Keyword Cluster, Keyword, Search Intent, search popularity,
+# Title, Meta Description, minimum article length, 5 Related keywords, Top 5 ranked website, Banklinks
+# needed to rank, 5 tips to rank on top 10 ---- The ultimate guide to rank a keyword.
+- id: 2767-keyword-strategy-100-rank-a-keyword
+  title: Keyword Strategy- 100% Rank a keyword
+  tags:
+    - keywords
+    - keyword
+    - strategy
+    - "100"
+    - rank
+  family: keywords
+  body:
+    "Think, you are an SEO specialist. Now give me the top 5 list on a table for
+    this keyword: [PROMPT] in [TARGETLANGUAGE]. This table will include columns for
+    Keyword Cluster, Keyword, Search Intent, search popularity, Title, Meta Description,
+    minimum article length, 5 Related keywords, Top 5 ranked website, Banklinks needed
+    to rank, 5 tips to rank on top 10."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

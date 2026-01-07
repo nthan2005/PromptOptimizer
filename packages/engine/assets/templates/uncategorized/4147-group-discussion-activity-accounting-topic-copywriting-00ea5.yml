@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4147
+# teaser: Create a plan discussion with up to 4 participants (All participants will give constructive
+# feedback and new ideas on how to improve) RevisionTime: 2023-03-21T04:35:49.234Z
+- id: 4147-group-discussion-activity-accounting-topic-copywriting-00ea5
+  title: "Group Discussion Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - group
+    - discussion
+    - activity
+    - accounting
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Group Discussion"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] Generate a [PROMPT] between the following particints (Pedro,
+    Adrian, Alexis, Sergio) where they point out areas for improvments regarding their
+    investigation problem. Example: Adrian: Hey, Pedro I belive you coul re write
+    the title in order to make it seem more interesting, sincte its currently boring.
+    Pedro: I see! you are totally correct, ill get on that Pedro: By the way Alexis,
+    I think you have a lot of spelling mistakes in your paper. Alexis: .... The Investigation
+    problem for each participant is the following: [PROMPT]: Ã‚Â¿Como la falla de Communicacion,
+    la mala definiciÃƒÂ³n de alcance y la mala gestiÃƒÂ³n de riesgo dentro de los proyectos,
+    afectan de manera econÃƒÂ³mica a la empresa? [PROMPT]: Falta de programaciÃƒÂ³n de
+    mantenimiento en las cÃƒÂ¡maras de maduraciÃƒÂ³n de Jumex [PROMPT]: No se alcanza
+    el objetivo de ventas en una pasteleria [PROMPT]: Did not do the assignment.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3810
+# teaser: QR Code Generator | QR Code Image Maker | Get QR Code Image For Any Link or Text | Create
+# Your Free QR Codes
+- id: 3810-qr-code-generator-qr-image
+  title: QR code generator | QR Image
+  tags:
+    - unsure
+    - code
+    - generator
+    - image
+  family: UNSURE
+  body:
+    "Fluency in [TARGETLANGUAGE] I am asking you to generate QR Code. i just need
+    QR Image for my link. Must Remember These (1) Do not give me link of other QR
+    Makers. (2) Do not give me instruction. (3) Do not give me Java Script (4) Just
+    make it, I know you can do it (5) Just Make QR code 500x500 for This: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

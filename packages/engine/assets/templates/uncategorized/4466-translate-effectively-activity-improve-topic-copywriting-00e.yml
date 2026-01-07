@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4466
+# teaser: Translate accurately and effectively, without losing the original meaning of the text.
+# RevisionTime: 2023-11-16T18:08:10.233Z
+- id: 4466-translate-effectively-activity-improve-topic-copywriting-00e
+  title: "Translate Effectively. Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - translate
+    - effectively
+    - activity
+    - improve
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Translate Effectively."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Translate the following text to [TARGETLANGUAGE] in such a way that there
+    are no syntax errors or awkward phrases, it is easily readable, but without losing
+    the true meaning of the words and phrases: "[PROMPT]"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

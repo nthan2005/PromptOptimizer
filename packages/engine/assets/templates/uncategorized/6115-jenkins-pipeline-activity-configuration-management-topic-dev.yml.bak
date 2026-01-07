@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6115
+# teaser: Create a Jenkins Pipeline RevisionTime: 2023-05-18T21:16:44.702Z
+- id: 6115-jenkins-pipeline-activity-configuration-management-topic-dev
+  title: 'Jenkins Pipeline Activity: Configuration Management Topic: DevOps-f3e52afbf831197f'
+  tags:
+  - uncategorized
+  - jenkins
+  - pipeline
+  - activity
+  - configuration
+  - management
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/configuration-management/1824883812723847168/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Jenkins Pipeline"](https://www.aiprm.com/prompts/devops/configuration-management/1824883812723847168/)_"
+    --- Hi, can you create a pipeline in Jenkins for an application in [PROMPT]? and
+    add the followings steps: build, test, SonarQube scan and the credentials that
+    I need, Fortify scan and the credentials that I need, and storage the artifact
+    in Jfrog Artifactory and the credentials that I need. All output shall be in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

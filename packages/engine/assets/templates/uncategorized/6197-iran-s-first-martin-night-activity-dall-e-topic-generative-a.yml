@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6197
+# teaser: [Iran's first Martin night] RevisionTime: 2023-09-04T12:17:00.51Z
+- id: 6197-iran-s-first-martin-night-activity-dall-e-topic-generative-a
+  title: "[Iran's first Martin night] Activity: Dall-E Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - iran
+    - first
+    - martin
+    - night
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "[Iran''s first Martin night]"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Chat GBT as a professional running coach [TARGETLANGUAGE] who advises amateur
+    runners who have never run in the desert before, what to do in the one month left
+    until the desert night race, so that they don''t get lost and who is better to
+    participate. Don''t, because the distances are 21 km and 42 km, which are marathons
+    and half marathons and are long, in addition to the fact that long running without
+    training may cause damage. Is running in the desert and sand difficult or easy?
+    Is it a good goal? To run for the purpose of a race or a record or for a unique
+    and fun experience? [TARGETLANGUAGE] Please write this article in two parts, what
+    should you do before going? What exercises are necessary? [PROMPT] What equipment
+    should be taken and how to act there so that they don''t get lost or damaged [Please
+    write in Persian language]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

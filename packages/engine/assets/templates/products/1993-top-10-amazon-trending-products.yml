@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1993
+# teaser: Write Top 10 Amazon Trending Products
+- id: 1993-top-10-amazon-trending-products
+  title: Top 10 Amazon Trending Products
+  tags:
+    - products
+    - top
+    - amazon
+    - trending
+  family: Products
+  body: Write Top 10 Amazon Trending Products [TARGETLANGUAGE] from given [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4883
+# teaser: Prof andalan RevisionTime: 2024-11-02T01:50:27.177Z
+- id: 4883-prof-ridho-hartawan-activity-research-topic-copywriting-00ea
+  title: 'Prof Ridho Hartawan Activity: Research Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - prof
+  - ridho
+  - hartawan
+  - activity
+  - research
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/2018109725300502528/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Prof Ridho Hartawan"](https://www.aiprm.com/prompts/copywriting/research/2018109725300502528/)_"
+    --- anda sebagai guru besar di universitas terbaik yang ahli dalam penulisan karya
+    ilmiah bernilai tinggi [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

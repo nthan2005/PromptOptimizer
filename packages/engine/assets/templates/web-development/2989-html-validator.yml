@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2989
+# teaser: Validates HTML files for compliance against the W3C standards and performs linting to assess
+# code quality against best practices. Find missing or unbalanced HTML tags in your documents, stray
+# characters, duplicate IDs, missing or invalid attributes and other recommendations. by Joao Filipe
+# Pereira Supports HTML5, SVG 1.1, MathML 3.0, ITS 2.0, RDFa Lite 1.1. Implementation is based on
+# Validator.Nu.
+- id: 2989-html-validator
+  title: HTML Validator
+  tags:
+    - web-development
+    - html
+    - validator
+  family: Web Development
+  body:
+    "Identify html errors in the provided code. All output shall be in [TARGETLANGUAGE].
+    The HTML code to be analise is: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

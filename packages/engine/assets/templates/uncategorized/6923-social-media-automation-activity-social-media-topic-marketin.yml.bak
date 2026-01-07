@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6923
+# teaser: You can automate your day-to-day actions on social media, so you do not have to do them
+# manually. Social media automation is a great way to run your brandâ€™s online marketing while you
+# focus on running your business. RevisionTime: 2024-10-03T09:55:59.043Z
+- id: 6923-social-media-automation-activity-social-media-topic-marketin
+  title: 'Social Media Automation Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - social
+  - media
+  - automation
+  - activity
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1804813316179365888/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Social Media Automation"](https://www.aiprm.com/prompts/marketing/social-media/1804813316179365888/)_"
+    --- It reduces the time you spend posting manually and ensures you donâ€™t forget
+    to share anything. You can also calculate your return on investment (ROI). All
+    out shall be in [TARGETLANGUAGE]. The text summarize is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

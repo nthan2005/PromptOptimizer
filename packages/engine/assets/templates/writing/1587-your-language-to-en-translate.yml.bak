@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1587
+# teaser: Translate your text to EN, even better than Google translate !
+- id: 1587-your-language-to-en-translate
+  title: Your language to EN translate
+  tags:
+  - writing
+  - language
+  - translate
+  family: writing
+  body: 'Translate the following [TARGETLANGUAGE] text to english using vocabulary
+    and expressions of a native of the United Kingdom : [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

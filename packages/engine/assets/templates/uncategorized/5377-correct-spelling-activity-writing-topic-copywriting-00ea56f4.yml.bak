@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5377
+# teaser: Correct spelling RevisionTime: 2024-04-29T15:17:15.152Z
+- id: 5377-correct-spelling-activity-writing-topic-copywriting-00ea56f4
+  title: 'Correct spelling Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - correct
+  - spelling
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1950482984705200128/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Correct spelling"](https://www.aiprm.com/prompts/copywriting/writing/1950482984705200128/)_"
+    --- herschrijf onderstaande tekst, maar laat zo veel mogelijk het zelfde, laat
+    de tone of voice het zelfde en laat alleen op taal en goede zinsopbouw. laat de
+    aanhef het zelfde en hou het menselijk. over drijf niet. Geef alleen het herschreven
+    bericht terug voor de rest niets. Laat engelse woorden engelse en vertaal die
+    niet. Geef alleen het herschreven bericht terug en verder helemaal niets. [PROMPT]
+    [TARGETLANGUAGE] Nederlands'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

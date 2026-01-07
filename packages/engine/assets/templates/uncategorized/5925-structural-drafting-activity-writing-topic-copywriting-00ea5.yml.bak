@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5925
+# teaser: Write the structure of my article from the title of the article RevisionTime:
+# 2023-07-02T16:06:58.512Z
+- id: 5925-structural-drafting-activity-writing-topic-copywriting-00ea5
+  title: 'Structural drafting Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - structural
+  - drafting
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1841117609904033792/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Structural drafting"](https://www.aiprm.com/prompts/copywriting/writing/1841117609904033792/)_"
+    --- I am a writer and you are my assistant. Write the structure of my web article
+    in 4 parts with subtitles:[PROMPT] You will write the structure in this language.
+    [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

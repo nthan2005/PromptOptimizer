@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6439
+# teaser: Give me an short image description of RevisionTime: 2023-03-27T13:36:25.873Z
+- id: 6439-give-me-an-short-image-description-of-activity-marketing-top
+  title: 'Give me an short image description of Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - give
+  - short
+  - image
+  - description
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1805923707521331200/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Give me an short image description
+    of "](https://www.aiprm.com/prompts/marketing/marketing/1805923707521331200/)_"
+    --- [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

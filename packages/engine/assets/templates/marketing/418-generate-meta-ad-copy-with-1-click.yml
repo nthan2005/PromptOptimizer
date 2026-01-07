@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 418
+# teaser: Use this prompt template to rapidly generate ad copy. This is perfect for generating new
+# tests to beat your target KPIs.
+- id: 418-generate-meta-ad-copy-with-1-click
+  title: Generate Meta Ad Copy With 1 Click
+  tags:
+    - marketing
+    - generate
+    - meta
+    - copy
+    - click
+  family: marketing
+  body:
+    'Create a Facebook ad in fluent [TARGETLANGUAGE] for this: [PROMPT] Here are
+    the guidelines you need to follow: The ad should be 150-300 words in length and
+    should start with a strong hook to engage the avatar. Include a section that helps
+    the avatar understand why they need to take the next step from this ad, and end
+    with a strong and specific call to action that motivates the avatar to click the
+    link below. Please do not use the phrase "next level," the phrase "you deserve",
+    quotes or testimonials, or the phrase "trust me."'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

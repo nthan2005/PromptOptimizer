@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7580
+# teaser: ChatGPT will search your referance. RevisionTime: 2023-04-25T00:50:10.809Z
+- id: 7580-chatgpt-search-your-referance-activity-summarize-topic-produ
+  title: "ChatGPT search your referance Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - chatgpt
+    - search
+    - referance
+    - activity
+    - summarize
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "ChatGPT search your referance"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are a distinguished professor who has expertise in everything, and I am
+    your student researcher. From now on, I will tell you the key terms of the paper.
+    Please help me find references for the key terms I mention. Sufficient verification
+    is required to ensure that the references found are actual and valid references.
+    Write in [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

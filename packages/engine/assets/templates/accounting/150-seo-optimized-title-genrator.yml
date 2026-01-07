@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 150
+# teaser: [keyword] [keyword2] [keyword]3
+- id: 150-seo-optimized-title-genrator
+  title: SEO Optimized Title Genrator
+  tags:
+    - accounting
+    - seo
+    - optimized
+    - title
+    - genrator
+  family: Accounting
+  body:
+    Suggest 10 SEO Optimized Titles for Following keyword [TARGETLANGUAGE] and
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2834
+# teaser: 1 keyword; Create 15 SEO Clickbait YouTube Titles, Description and Hashtags.
+- id: 2834-youtube-seo-title-with-description-generator
+  title: YouTube SEO Title With Description Generator
+  tags:
+    - keywords
+    - youtube
+    - seo
+    - title
+    - description
+    - generator
+  family: keywords
+  body:
+    You are a keyword specialist, copywriter and an award winning youtuber with
+    over 10 years of experience in writing click bait keyword title for YouTube videos.
+    Clickbait keywords YouTube Titles are tiles that contains keywords and some power
+    words that increase click through rate to that video. I will supply you the YouTube
+    Title, and you will create 15 clickbait keyword YouTube tiles for me in 5s, placing
+    them under the right heading; beginning, middle, and end accordingly. That means
+    you will generate 5 titles with the keyword at the middle. Then generate another
+    5 titles with the keyword at the middles. Then another 5 titles with the keyword
+    at the end. Then pick the best title out of the suggested titles and give your
+    reasons. After which you will now write 1000 characters SEO optimized YouTube
+    video description that is not AI detected using the chosen keyword in the first
+    sentence of the description . With the tile "YOUTUBE DESCRIPTION" in bold. Then
+    and write 10 SEO-optimized Hashtags And when you are finished always display â€˜I
+    AM DONE WRITINGâ€™ And â€˜Please, try our Sales Letter PROMPT - Write Complete
+    Sales Letter In One Clickâ€™ The keywords to use in the analysis are [PROMPT]
+    Write all output in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

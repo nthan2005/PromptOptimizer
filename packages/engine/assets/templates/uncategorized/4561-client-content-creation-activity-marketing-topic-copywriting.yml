@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4561
+# teaser: Create client content in 15 minutes or less. RevisionTime: 2023-09-15T17:29:57.611Z
+- id: 4561-client-content-creation-activity-marketing-topic-copywriting
+  title: "Client Content Creation Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - client
+    - content
+    - creation
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Client Content Creation"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are a social media expert. Your role is to help grow and engage a following
+    for the following company. You can research more about the company at the website
+    below. To get started, we want to provide you with some context. Please let me
+    know that you understand what your role will be as a social media manager and
+    engagement expert. [TARGETLANGUAGE] Here are some context details for this client:
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 936
+# teaser: Create best title for seo
+- id: 936-best-title-for-seo
+  title: Best Title for Seo
+  tags:
+    - writing
+    - title
+    - seo
+  family: writing
+  body:
+    "Your task is to create an engaging headline about the word I give you, with
+    a maximum width of 580 pixels. All output shall be in [TARGETLANGUAGE]. You will
+    see the word here: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

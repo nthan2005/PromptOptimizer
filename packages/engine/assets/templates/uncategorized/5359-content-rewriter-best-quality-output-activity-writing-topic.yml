@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5359
+# teaser: This Prompt Will [Rewrite Your Content] 100% Unique and Plagiarism Free Just Paste Your
+# Content and You are done RevisionTime: 2023-07-19T15:35:54.067Z
+- id: 5359-content-rewriter-best-quality-output-activity-writing-topic
+  title: "Content rewriter (Best quality output) Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - content
+    - rewriter
+    - quality
+    - output
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Content rewriter (Best quality output)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- rewrite in bullet points with Perplexity and Burstiness:[TARGETLANGUAGE].
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

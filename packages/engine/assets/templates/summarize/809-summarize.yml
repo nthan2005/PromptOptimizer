@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 809
+# teaser: Request Summarizing
+- id: 809-summarize
+  title: summarize
+  tags:
+    - summarize
+  family: Summarize
+  body: Summarize to [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

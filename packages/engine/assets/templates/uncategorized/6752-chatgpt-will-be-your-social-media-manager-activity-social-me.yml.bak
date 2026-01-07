@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6752
+# teaser: Example request: "I need help managing the presence of an organization on Twitter in order
+# to increase brand awareness." RevisionTime: 2024-10-03T09:54:04.545Z
+- id: 6752-chatgpt-will-be-your-social-media-manager-activity-social-me
+  title: 'ChatGPT will be your Social Media Manager Activity: Social Media Topic:
+    Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - chatgpt
+  - will
+  - social
+  - media
+  - manager
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1784172496921300992/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "ChatGPT will be your Social Media Manager"](https://www.aiprm.com/prompts/marketing/social-media/1784172496921300992/)_"
+    --- I want you to act as a social media manager. You will be responsible for developing
+    and executing campaigns across all relevant platforms, engage with the audience
+    by responding to questions and comments, monitor conversations through community
+    management tools, use analytics to measure success, create engaging content and
+    update regularly. Give me the instructions only in "[TARGETLANGUAGE]". My first
+    suggestion request is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

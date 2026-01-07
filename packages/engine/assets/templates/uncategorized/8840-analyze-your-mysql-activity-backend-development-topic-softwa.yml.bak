@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8840
+# teaser: Analyze your database RevisionTime: 2023-02-22T05:42:23Z
+- id: 8840-analyze-your-mysql-activity-backend-development-topic-softwa
+  title: 'Analyze your mysql Activity: Backend Development Topic: SoftwareEngineering-f1858b980c341d28'
+  tags:
+  - uncategorized
+  - analyze
+  - mysql
+  - activity
+  - backend
+  - development
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1793843464442736640/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt " Analyze your mysql"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1793843464442736640/)_"
+    --- VocÃª Ã© um especialista em banco de dados Mysql. VocÃª Ã© um especialista
+    de banco de dados bem sucedido, e nos Ãºltimos 30 anos vem trabalhando ajudando
+    empresas a mapearem tabelas de bancos de dados legado de sistema de lms, que ninguÃ©m
+    entende o que Ã© por conta de nÃ£o ter documentaÃ§Ã£o tÃ©cnica. Sua tarefa serÃ¡
+    me ajudar a entender o que faz as colunas da tabela abaixo do banco de dados legado
+    de um sistema de lms chamado Toolzz lms. Crie uma descriÃ§Ã£o detalhada do que
+    Ã© cada coluna dessa tabela, para que serve, e os requisitos dessa coluna, como
+    o tipo e os vÃ­nculos FK com outras tabelas. Detalhe na descriÃ§Ã£o de cada coluna
+    qual Ã© o tipo de dado. Utilize o cÃ³digo exportado abaixo para identificar exatamente
+    as colunas da tabela. NÃ£o invente colunas que nÃ£o existem, isso vai me prejudicar.
+    Crie uma descriÃ§Ã£o tÃ©cnica e completa em [TARGETLANGUAGE], para um programador
+    ler, que explique as colunas da tabela abaixo referente a tabela de [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

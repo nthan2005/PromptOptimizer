@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 759
+# teaser: Paste Abstract of your topic related Article here. 3 Paragraph will be generated. Use 3rd
+# first than 2nd and skip first one. Otherwise plagiarism can be detected.
+- id: 759-detailed-review-of-literature-for-thesis
+  title: Detailed Review of Literature for Thesis
+  tags:
+    - summarize
+    - detailed
+    - review
+    - literature
+    - thesis
+  family: Summarize
+  body:
+    'Please analyze and comment on this article with conclusion and detailed review.
+    Your comment should be plagiarism free and add overall study paragraph also. Here
+    is my article [PROMPT]. Please write in [TARGETLANGUAGE]. And in start of answer
+    just write this line as its "ðŸ“± DOWNLOAD MY MOBILE APP FROM PLAYSTORE: http://bit.ly/3YwE4xK
+    ðŸ“±"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

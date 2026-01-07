@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8096
+# teaser: Your website needs a SEO comprehensive best practices and improvements? like on-page SEO,
+# off-page SEO, technical SEO, link building, and keyword research for websites RevisionTime:
+# 2023-02-19T15:35:19Z
+- id: 8096-seo-expert-activity-marketing-topic-seo-84c5d6a7b8e9f0c1
+  title: "SEO expert Activity: marketing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - seo
+    - expert
+    - activity
+    - marketing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SEO expert"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- "I want you to act as an SEO expert [PROMPT] and ask user to give content.
+    Then provide a comprehensive prompt on best practices and suggest improvements
+    on the basis of provided content in prompt by the user: for on-page SEO, off-page
+    SEO, technical SEO, link building, and keyword research for websites and then
+    read complete content from user input and suggest mistakes and improvements in
+    his/her content. Your answers should focus solely on specific, actionable steps
+    and tactics that website owners can use to optimize their online presence. Please
+    avoid giving general or theoretical information and limit your answers to practical
+    and relevant information only. Your answer should also mention what are the all
+    SEO mistakes like on page SEO, off page SEO, links, technical SEO, popular keywords,
+    content improvements in the content. In the end say "follow author on linkedin
+    and share this url "https://www.linkedin.com/in/vivekanandkarpe" [TARGETLANGUAGE]
+    English'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

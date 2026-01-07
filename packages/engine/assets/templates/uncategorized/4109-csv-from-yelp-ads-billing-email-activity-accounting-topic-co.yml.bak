@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4109
+# teaser: Instantly convert full Yelp Ads billing emails into complete CSV reportsâ€”no manual copy-
+# paste needed. RevisionTime: 2025-07-01T18:57:51.039Z
+- id: 4109-csv-from-yelp-ads-billing-email-activity-accounting-topic-co
+  title: 'CSV from Yelp Ads Billing Email Activity: Accounting Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - csv
+  - yelp
+  - ads
+  - billing
+  - email
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/2105703754007056384/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "CSV from Yelp Ads Billing Email"](https://www.aiprm.com/prompts/copywriting/accounting/2105703754007056384/)_"
+    --- [PROMPT] [TARGETLANGUAGE]: English I have received a detailed billing summary
+    email from Yelp Ads that includes multiple businesses, billing periods, programs,
+    charges, and promotions. I need you to extract every line item from the email
+    and organize it into a complete, downloadable CSV file. Your task is to: Parse
+    and include all businesses, even those with $0.00 billed. Extract and include
+    the following fields in each row: Business Name Address Billed Period Program
+    Billed Amount Promotion Type (if any) Promotion Amount (if any) Maintain the full
+    datasetâ€”do not truncate, omit, or summarize any entries. Generate and provide
+    a downloadable CSV file containing the extracted and structured data. If requested,
+    group the data by Business Name for better clarity. Here is the raw email from
+    Yelp Ads to process: [Paste full email content here] Please respond in English.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

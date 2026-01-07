@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5070
+# teaser: Movie reviewer: full review of the movie, covering plot, performances, cinematography, and
+# overall impact. RevisionTime: 2023-06-17T23:39:34.514Z
+- id: 5070-movie-review-activity-summarize-topic-copywriting-00ea56f446
+  title: "Movie Review Activity: Summarize Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - movie
+    - review
+    - activity
+    - summarize
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Movie Review "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as a movie reviewer in [TARGETLANGUAGE]. Write a 1000 word review for
+    the movie [PROMPT], ensuring you cover the plot, performances, cinematography,
+    and overall impact. Please make sure you will output only facts, and not dream
+    or hallucinate.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

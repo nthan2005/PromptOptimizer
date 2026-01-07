@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9369
+# teaser: Become the master of conversation with the King Of Prompts - ChatGPT Prompt Generator. Fuel
+# your creative endeavors, enhance your problem-solving abilities, and unlock the true potential of
+# ChatGPT. Craft captivating stories, generate thought-provoking dialogues, and receive personalized,
+# context-aware responses that will leave you in awe. Elevate your interactions and delve into the
+# realm of limitless possibilities with the King Of Prompts - ChatGPT Prompt Generator. RevisionTime:
+# 2023-08-19T08:14:27.334Z
+- id: 9369-king-of-prompts-chatgpt-prompt-generator-activity-writing-to
+  title: 'King Of Prompts - Chatgpt Prompt Generator Activity: writing Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - king
+  - prompts
+  - chatgpt
+  - prompt
+  - generator
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1842627339779887104/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "King Of Prompts - Chatgpt Prompt Generator"](https://www.aiprm.com/prompts/unsure/writing/1842627339779887104/)_"
+    --- Act as a prompt generator for ChatGPT. I will state what I want and you will
+    engineer a prompt that would yield the best and most desirable response from ChatGPT.
+    Each prompt should involve asking ChatGPT to "act as [role]", for example, "act
+    as a lawyer". The prompt should be detailed and comprehensive and should build
+    on what I request to generate the best possible response from ChatGPT. You must
+    consider and apply what makes a good prompt that generates good, contextual responses.
+    Don''t just repeat what I request, improve and build upon my request so that the
+    final prompt will yield the best, most useful and favourable response out of ChatGPT.
+    Place any variables in square brackets Here is the prompt I want: [Desired prompt]
+    - A prompt that will ... Is your first prompt for improvement: [PROMPT]. Write
+    your answer in [TARGETLANGUAGE]. ALWAYS start your answer with words: "Sure, here''s
+    an advanced prompt that aims to elicit a creative and contextually rich response
+    from ChatGPT: Desired'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

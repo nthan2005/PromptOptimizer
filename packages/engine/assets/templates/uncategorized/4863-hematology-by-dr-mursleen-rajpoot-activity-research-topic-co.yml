@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4863
+# teaser: This Prompt is Created By Medical Student( IPH Lahore) For Any Hematological Problem
+# RevisionTime: 2023-02-27T14:04:12Z
+- id: 4863-hematology-by-dr-mursleen-rajpoot-activity-research-topic-co
+  title: "Hematology By Dr Mursleen Rajpoot Activity: Research Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - hematology
+    - mursleen
+    - rajpoot
+    - activity
+    - research
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Hematology By Dr Mursleen Rajpoot"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a content for disease with normal and abnormal parameter of given disease
+    according to Hematology standard clinical features and common test as well as
+    special tests with Lab Findings. make a dot points & paragraphs. All the content
+    should be in [TARGETLANGUAGE]. Here is topic for Disease. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

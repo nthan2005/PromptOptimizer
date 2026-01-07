@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4971
+# teaser: Use youtube's script generator to create a children's script featuring animals. We will have
+# to find 3 animals that we will explore, namely, the giraffe, the shark, and the lion cub
+# RevisionTime: 2025-01-17T17:15:01.894Z
+- id: 4971-leo-meets-up-with-his-friends-activity-script-writing-topic
+  title: "Leo, meets up with his friends Activity: Script Writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - leo
+    - meets
+    - his
+    - friends
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Leo, meets up with his friends"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE] using YouTube script generator, a script
+    for children''s showing 3 animals enjoying summer vacancies [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

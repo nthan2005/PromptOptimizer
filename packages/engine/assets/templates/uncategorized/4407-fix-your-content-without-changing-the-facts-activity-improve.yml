@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4407
+# teaser: Improve content without changing the facts. Fix grammar mistakes, typos etc. RevisionTime:
+# 2023-07-20T17:10:47.236Z
+- id: 4407-fix-your-content-without-changing-the-facts-activity-improve
+  title: "Fix your content without changing the facts Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - fix
+    - content
+    - without
+    - changing
+    - facts
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Fix your content without changing the
+    facts"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please correct any grammar mistakes, typos, and factual errors in the text
+    written in the text here: [PROMPT] Your task is to improve the content while maintaining
+    the tone of content as it is. Do not change the facts or information provided
+    originally in the given input text. Strictly avoid speculation and include only
+    100% factual and accurate information. Maintain a simple and straightforward tone
+    throughout and write in a casual and conversational style. Also, write words count
+    of the output texts at the end. Input and output language is [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

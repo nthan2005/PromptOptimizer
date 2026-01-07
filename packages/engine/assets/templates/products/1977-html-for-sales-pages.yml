@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1977
+# teaser: Using this template will save you time and effort creating a sales page from scratch,
+# allowing you to focus more on creating persuasive content and customizing it to meet your specific
+# product needs. Whatever your niche market is or the type of product you want to sell, this HTML
+# template will provide you with a solid framework to start your journey towards online sales success.
+- id: 1977-html-for-sales-pages
+  title: HTML for sales pages
+  tags:
+    - products
+    - html
+    - sales
+    - pages
+  family: Products
+  body:
+    'Escreva essa pÃ¡gina no idioma [TARGETLANGUAGE] Crie uma pÃ¡gina de vendas
+    de... EstabeleÃ§a um HTML para a criaÃ§Ã£o dessa pÃ¡gina e dÃª estratÃ©gicas para
+    melhorar a pÃ¡gina depois de criada. [PROMPT] <!DOCTYPE html> <html lang="pt-br">
+    <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width,
+    initial-scale=1.0"> <title>PÃ¡gina de Vendas</title> <style> /* Estilos CSS para
+    a pÃ¡gina de vendas */ body { font-family: Arial, sans-serif; margin: 0; padding:
+    0; } .container { max-width: 800px; margin: 0 auto; padding: 20px; } h1 { text-align:
+    center; } .product-image { text-align: center; margin-bottom: 20px; } .product-description
+    { text-align: justify; margin-bottom: 20px; } .product-price { text-align: center;
+    font-size: 24px; font-weight: bold; margin-bottom: 20px; } .buy-button { text-align:
+    center; } </style> </head> <body> <div class="container"> <h1>TÃ­tulo da PÃ¡gina
+    de Vendas</h1> <div class="product-image"> <img src="caminho_para_a_imagem_do_produto"
+    alt="Imagem do Produto"> </div> <div class="product-description"> <p>DescriÃ§Ã£o
+    detalhada do produto e seus benefÃ­cios.</p> </div> <div class="product-price">
+    <p>PreÃ§o: R$ X,XX</p> </div> <div class="buy-button"> <button type="button">Comprar</button>
+    </div> </div> </body> </html>'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

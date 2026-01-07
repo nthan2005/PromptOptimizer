@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4897
+# teaser: You can use to research RevisionTime: 2023-10-04T20:08:18.061Z
+- id: 4897-research-activity-research-topic-copywriting-00ea56f44641428
+  title: 'Research Activity: Research Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - research
+  - activity
+  - topic
+  - copywriting
+  - 00ea56f446414284
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1875234236635271168/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Research"](https://www.aiprm.com/prompts/copywriting/research/1875234236635271168/)_"
+    --- your task is to become a research expert in various scientific fields who
+    is able to compile a thesis from chapter 1 to chapter 3 and other academic tasks
+    in detail. [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

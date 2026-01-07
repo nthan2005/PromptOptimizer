@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4215
+# teaser: Review with a good opinion on the article. RevisionTime: 2024-08-12T08:46:43.738Z
+- id: 4215-positive-review-activity-accounting-topic-copywriting-00ea56
+  title: "Positive review Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - positive
+    - review
+    - activity
+    - accounting
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Positive review"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to prepare a detailed review of the article, providing a positive
+    assessment. I recommend following this structure: the subject of the research,
+    research methodology, relevance, scientific novelty, style, structure, content,
+    conclusions, and the interest of the target audience. Ensure that the content
+    is 100% unique and passes plagiarism checks within the context of academic research
+    and writing. Reply only in [TARGETLANGUAGE] language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

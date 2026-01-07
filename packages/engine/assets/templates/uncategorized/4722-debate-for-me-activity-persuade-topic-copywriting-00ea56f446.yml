@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4722
+# teaser: English RevisionTime: 2023-07-10T09:36:13.793Z
+- id: 4722-debate-for-me-activity-persuade-topic-copywriting-00ea56f446
+  title: "Debate for me Activity: Persuade Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - debate
+    - activity
+    - persuade
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Debate for me"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] your task is to. Write me an argument from diverse perspectives additionally
+    could you describe the characteristics of the different characters involved in
+    the argument from diverse perspectives? [TARGETLANGUAGE] Formal The argument is
+    for: [VARIABLE1] The argument is against: [VARIABLE2] [VARIABLE1:The argument
+    is for] [VARIABLE2: The argument is against] The argument need to be at minimum
+    1200 words'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2

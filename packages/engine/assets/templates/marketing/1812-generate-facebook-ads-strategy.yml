@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1812
+# teaser: Generate Facebook Ads Audiences, Primary Text, Headline, Ad Copies, Descriptions And Ads
+# Stretegy
+- id: 1812-generate-facebook-ads-strategy
+  title: Generate Facebook Ads Strategy
+  tags:
+    - marketing
+    - generate
+    - facebook
+    - ads
+    - strategy
+  family: marketing
+  body:
+    generate facebook ads audiences, Primary text, Headline, ad copies, descriptions,
+    and ads Strategy in [TARGETLANGUAGE] from given [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

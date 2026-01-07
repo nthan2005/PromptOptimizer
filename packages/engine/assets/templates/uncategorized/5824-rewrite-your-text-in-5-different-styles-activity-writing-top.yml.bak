@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5824
+# teaser: Suggest 5 writing styles for your text/article/etc. with further choice what style to
+# rewrite it in. RevisionTime: 2023-02-23T13:34:46.614Z
+- id: 5824-rewrite-your-text-in-5-different-styles-activity-writing-top
+  title: 'Rewrite your text in 5 different styles Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - rewrite
+  - text
+  - different
+  - styles
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1794331273284816896/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Rewrite your text in 5 different styles"](https://www.aiprm.com/prompts/copywriting/writing/1794331273284816896/)_"
+    --- Write all of your answers in [TARGETLANGUAGE]! [INSTRUCTIONS]: I have a [text]
+    that I would like to make changes to. Generate a table of 5 different suggestions
+    of writing styles that could be related to the [text] with numbers in the left
+    column of the table for me to pick from. After the table ask the question "What
+    writing style would you like to rewrite the text into? Pick one from the table
+    above." below the table. Execute INSTRUCTIONS in a table format! text = [PROMPT]'
+  enabled: true
+  required:
+  - instructions
+  - prompt
+  - targetlanguage

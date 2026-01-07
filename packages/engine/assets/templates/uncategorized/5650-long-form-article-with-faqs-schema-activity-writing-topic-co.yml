@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5650
+# teaser: A fully long form article with FAQs schema a single keyword RevisionTime:
+# 2023-12-29T03:45:01.655Z
+- id: 5650-long-form-article-with-faqs-schema-activity-writing-topic-co
+  title: "Long Form Article With FAQs Schema Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - long
+    - form
+    - article
+    - faqs
+    - schema
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Long Form Article With FAQs Schema"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a complete, full 6,000-word, long-form blog post. And the content must
+    be 100% human-written, unique, plagiarism-free, paraphrased, or grammar-checked.
+    Transition words and passive voice issues Use unusual, readable, and original
+    content. Ignore all previous information. Make sure the article is well-researched,
+    informative, engaging, readable, and attractive to the audience. Articles with
+    titles use useful headings, conclusions, and FAQs [short, unique FAQs]. And lastly,
+    generate the FAQ JSON-LD Script schema code in the HTML. [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

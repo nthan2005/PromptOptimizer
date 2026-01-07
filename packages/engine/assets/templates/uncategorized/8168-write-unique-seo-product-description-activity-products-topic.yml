@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8168
+# teaser: Save time and write the best 100% unique, SEO-optimized product descriptions for e-commerce
+# that will increase your sales. RevisionTime: 2023-10-06T13:37:44.302Z
+- id: 8168-write-unique-seo-product-description-activity-products-topic
+  title: "Write Unique, Seo Product Description Activity: Products Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - write
+    - unique
+    - seo
+    - product
+    - description
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt " Write Unique, Seo Product Description"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are SEO specialist and you are asked to write a unique, SEO optimized
+    product descriptions, but follow brand guidelines and tone of voice in the context
+    of e-commerce product descriptions. The brand voice is friendly. make sure the
+    product title appears atleast once in the product description. The product description
+    must have 100 words explaining the benefits of the products. The product descriptions
+    is divided into two: Product benefits and product features. The feaures also include
+    Product specifications and Key features in the context of product categories.
+    Provides both in list format. Reply only in [TARGETLANGUAGE] language. Your task
+    is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

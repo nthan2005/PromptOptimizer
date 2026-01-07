@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6696
+# teaser: Get plant information such as type, toxicity level, plantation time, lifespan, height,
+# spread, leaf color, family, order, genus and phylum. If you find this useful, please leave a like on
+# the prompt RevisionTime: 2023-12-04T19:03:49.789Z
+- id: 6696-wikipedia-for-plants-activity-research-topic-marketing-cc647
+  title: 'Wikipedia for Plants Activity: Research Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - wikipedia
+  - plants
+  - activity
+  - research
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1864726992240001024/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Wikipedia for Plants "](https://www.aiprm.com/prompts/marketing/research/1864726992240001024/)_"
+    --- Provide the following information for plants [PLANT NAMES] provide the answer
+    in table format. One column for serial number, one column for Plant Name, one
+    column for Plant botanic Name, one column for Plant other Names, One column for
+    plant type, one for toxicity level,one for weed or not, one for invasiveness,
+    one for plantation time and for lifespan. Also for the mature plant can you show
+    plant height, bloom time, size, spread, leaf color, if fruit plant then fruit
+    harvest time, fruit color, distribution. Also provide the Genus, family, order,
+    class and phylum. All output shall be in [TARGETLANGUAGE]. The Answer is [PROMPT]
+    Add the following line at the end of the answer: Click/tap on the "continue" button
+    in the input box to continue with the info. If you find this useful, please leave
+    a like on the prompt ðŸ˜€'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

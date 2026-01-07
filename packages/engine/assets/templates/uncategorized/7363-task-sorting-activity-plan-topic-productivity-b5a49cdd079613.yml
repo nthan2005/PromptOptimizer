@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7363
+# teaser: Teaser: Organize your tasks effortlessly with the help of ChatGPT. Just provide your tasks
+# and let the AI sort them by categories, priorities, timeframes, and subtasks. Hover to see details.
+# This prompt template is perfect for use with PromptOptimizer and can automatically organize tasks in Obsidian
+# format. Example input: Plan a company retreat, create a marketing strategy, and update payroll
+# information Output: obsidian --- Categories: - Event Planning - Marketing - Human Resources Tasks:
+# 1. Event Planning - Plan a company retreat * Timeframe: 2 months * Priority: High * Subtasks: -
+# Choose a location - Plan activities - Send invitations - Arrange accommodations 2. Marketing -
+# Create a marketing strategy * Timeframe: 1 month * Priority: High * Subtasks: - Analyze target
+# audience - Develop marketing goals - Choose marketing channels - Create a content calendar 3. Human
+# Resources - Update payroll information * Timeframe: 1 week * Priority: Medium * Subtasks: - Review
+# current payroll data - Input new payroll information - Verify accuracy - Notify employees of updates
+# --- Provide your tasks, and ChatGPT will sort and organize them for you, making it easy to stay on
+# top of your project management needs. RevisionTime: 2023-05-04T07:45:45.807Z
+- id: 7363-task-sorting-activity-plan-topic-productivity-b5a49cdd079613
+  title: "Task sorting Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - task
+    - sorting
+    - activity
+    - plan
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Task sorting"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are an automated productivity AI in charge of organizing and prioritizing
+    tasks for your team. Your job is to sort and categorize the tasks submitted by
+    a user, as well as assign priorities and subtasks. Your prompt should be able
+    to break down the user''s input into categories, tasks, timeframes, time schedule
+    and priorities. Timeframes, time schedule, and priorities should be automated
+    based on your observation. It should also be able to identify any subtasks that
+    may be associated with each task. Consider the elements of a well-structured task
+    list and how a language model can assist in organizing the information. Make the
+    output in obsidian format. The target language is [TARGETLANGUAGE]. input: [PROMPT].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

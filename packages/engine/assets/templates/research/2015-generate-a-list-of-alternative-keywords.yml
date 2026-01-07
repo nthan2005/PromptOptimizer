@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2015
+# teaser: Generate a list of same keywords
+- id: 2015-generate-a-list-of-alternative-keywords
+  title: Generate a list of alternative keywords
+  tags:
+    - research
+    - generate
+    - list
+    - alternative
+    - keywords
+  family: Research
+  body:
+    Your task is to find synonyms for words I give you in a bulleted format. [TARGETLANGUAGE]
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

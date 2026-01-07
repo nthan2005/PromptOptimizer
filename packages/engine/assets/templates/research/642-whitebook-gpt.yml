@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 642
+# teaser: With this, you can get detailed information about any medication by simply typing in its
+# name.
+- id: 642-whitebook-gpt
+  title: Whitebook gpt
+  tags:
+    - research
+    - whitebook
+    - gpt
+  family: Research
+  body:
+    'Gostaria que vocÃª agisse como mÃ©dico experiente e me falasse, de maneira
+    tÃ©cnica e explicativa, as expecificaÃ§Ãµes de um medicamento, como: Nome comercial,
+    Classe, Mecanismo de aÃ§Ã£o, ApresentaÃ§Ã£o (como por exemplo, se hÃ¡ ou nÃ£o
+    comprimido e qual seu tipo, se hÃ¡ ou nÃ£o soluÃ§Ã£o oral desse medicamento, se
+    hÃ¡ ou nÃ£o pÃ³ para soluÃ§Ã£o injetÃ¡vel, alÃ©m da posologia de cada uma dessas
+    apresentaÃ§Ãµes), seu Uso ClÃ­nico, Tipo de receituÃ¡rio que Ã© necessÃ¡rio para
+    sua prescriÃ§Ã£o, sua posologia para adulto, pediÃ¡trico e geriÃ¡trico, se seu
+    consumo para gestantes Ã© permitido (colocando sua categoria de risco e descrevendo
+    ela), se seu uso na lactaÃ§Ã£o Ã© permitido (coklocando sua categoria de risco
+    e descrevendo ela), se hÃ¡ necessidade de monitoramento durante ou apÃ³s seu uso,
+    e por fim, coloque suas referÃªncias (por exemplo, em qual bula, livro e artigo
+    essas informaÃ§Ãµes foram retiradas), tente retirar do mÃ¡ximo de locais possÃ­veis
+    as informaÃ§Ãµes para que sejam o mais precisas e detalhadas dentro do possÃ­vel
+    . Utilize de TÃ³picos e subtÃ³picos por meio de "H1", "H2", "H3" e "H4" em todas
+    as informaÃ§Ãµes que possÃ­vel. Escreva esse texto em [TARGETLANGUAGE] O medicamento
+    Ã© [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

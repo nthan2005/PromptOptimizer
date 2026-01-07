@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7099
+# teaser: Create an entire blog content marketing strategy including keyword research, title ideas,
+# blog post outline, email campaign and social media campaign in 1-click RevisionTime:
+# 2023-03-12T19:00:09Z
+- id: 7099-entire-blog-content-marketing-strategy-in-1-click-activity-w
+  title:
+    "Entire Blog Content Marketing Strategy in 1-Click! Activity: writing Topic:
+    Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - entire
+    - blog
+    - content
+    - marketing
+    - strategy
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Entire Blog Content Marketing Strategy
+    in 1-Click!"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Pretend you are an expert. Be unique in the response. Use conversational,
+    fun, friendly, upbeat, informative and simple language in first person. Create
+    a complete content workflow in my brand voice and writing style for [PROMPT] that
+    includes specific SEO keywords to use, 5 exciting and clickable title headlines
+    for the post title, a blog post outline integrating the keywords, a fully written
+    corresponding email newsletter that creates excitement and sends my readers back
+    to the post, and a 3 day social media marketing campaign with captions. Write
+    in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

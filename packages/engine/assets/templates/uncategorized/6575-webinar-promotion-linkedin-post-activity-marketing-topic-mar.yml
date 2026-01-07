@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6575
+# teaser: Webinar Promotion Post on LinkedIn. Get the most out of LinkedIn for your webinar.
+# RevisionTime: 2023-02-20T20:15:36Z
+- id: 6575-webinar-promotion-linkedin-post-activity-marketing-topic-mar
+  title: "Webinar Promotion LinkedIn Post Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - webinar
+    - promotion
+    - linkedin
+    - post
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Webinar Promotion LinkedIn Post"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to write a LinkedIn post for a webinar accouncement in [TARGETLANGUAGE].
+    Post has 3 parts, do not write the parts title in the output: 1)Hook 2)Benefits
+    3)Call to action Directives on the Hook part: The post should start with a short
+    and convincing hook which is compatible with the set tone. It should be maximum
+    50 characters. Make a break after the hook. Directives on the benefits part: After
+    the hook, write down 3 main benefits of joining to webinar as bullet point list.
+    Do not write anything other than the bullet point list. Do not start to bullet
+    point with word"benefits", use something captivating. To understand benefits,
+    use the text below: [PROMPT] Directives on the call to action part: End post with
+    an invitation call. Keep the post maximum 300 characters.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

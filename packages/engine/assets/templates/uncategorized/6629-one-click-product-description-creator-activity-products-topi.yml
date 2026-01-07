@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6629
+# teaser: The product description creator will write a description for your product, tell the prompt
+# what your product is, what color, what sizes, what style, and any extra info you want added to your
+# product description. For instance: a blue, 8 oz ceramic coffee cup, or men's and women's multi
+# colored Tshirts in sizes Small Medium and Large, and what service (if applicable) your product
+# provides. RevisionTime: 2023-05-05T19:23:34.379Z
+- id: 6629-one-click-product-description-creator-activity-products-topi
+  title: "One Click Product Description Creator Activity: Products Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - one
+    - click
+    - product
+    - description
+    - creator
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "One Click Product Description Creator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create, and write detailed descriptions for the product based on the product
+    prompt given, distinguish the product based on the product given, give details
+    of the product based on the product type, color, size, usage, and or service.
+    Do all of this in the [TARGETLANGUAGE] from the given [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

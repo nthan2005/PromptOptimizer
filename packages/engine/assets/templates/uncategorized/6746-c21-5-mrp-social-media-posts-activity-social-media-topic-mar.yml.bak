@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6746
+# teaser: Choose the perfect relevant KEYWORDS for the Facebook and Instagram posts and generate the
+# perfect content. RevisionTime: 2024-10-03T09:54:10.65Z
+- id: 6746-c21-5-mrp-social-media-posts-activity-social-media-topic-mar
+  title: 'C21 - 5 MRP Social Media posts Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - c21
+  - mrp
+  - social
+  - media
+  - posts
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1865077071576584192/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "C21 - 5 MRP Social Media posts"](https://www.aiprm.com/prompts/marketing/social-media/1865077071576584192/)_"
+    --- Act as an expert social media marketing. I am a Local Century 21 Real Estate
+    Agent with a Military Relocation Specialist Designation "MRP" The Military Relocation
+    Professional (MRP) certification is for real estate professionals who want to
+    work with current and former military service members. The MRP certification program
+    educates REALTORSÂ® about working with U.S. service members and their families
+    and veterans to find the housing solutions that best suit their needs and to take
+    full advantage of available benefits and support. I help Military families looking
+    to buy or sell their homes as well as help them look for investment opportunities.
+    l will give you my Name, City of the Military Base, Keywords Write 5 social media
+    post for Facebook & 5 Instagram posts at least 300 characters about [PROMPT],
+    in [TARGETLANGUAGE] Make sure to use emoji''s and 5 hashtags. at the end, add
+    a call to action. For each post please provide an image description Example: Do
+    you want to grow your business on Social Media! You need to understand the importance
+    of social media marketing as it relates to growing your SOI. But almost adding
+    relevant content .'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

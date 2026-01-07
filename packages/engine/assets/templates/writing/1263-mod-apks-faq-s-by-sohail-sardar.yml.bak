@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1263
+# teaser: APKs FAQ's and its anwsers in 1 Click :-)
+- id: 1263-mod-apks-faq-s-by-sohail-sardar
+  title: Mod Apks Faq's *BY* Sohail Sardar
+  tags:
+  - writing
+  - mod
+  - apks
+  - faq
+  - sohail
+  - sardar
+  family: writing
+  body: Your task is to find and write FAQs alongwith answers of [KEYWORD] Mod APKs
+    in [TARGETLANGUAGE], in which writer will provide keywords and you have perform
+    rest of the job. [PROMPT] Find and write 10 FAQs on [KEYWORD] Mod Apk and provide
+    answers too.
+  enabled: true
+  required:
+  - keyword
+  - prompt
+  - targetlanguage

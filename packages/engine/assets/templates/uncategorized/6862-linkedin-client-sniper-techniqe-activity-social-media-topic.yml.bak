@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6862
+# teaser: Client Sniper Technique Prompt to generate target audience,search keywords,sample connection
+# request for Linkedin RevisionTime: 2024-10-03T09:57:50.327Z
+- id: 6862-linkedin-client-sniper-techniqe-activity-social-media-topic
+  title: 'Linkedin client sniper techniqe Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - linkedin
+  - client
+  - sniper
+  - techniqe
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1981214711849172992/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Linkedin client sniper techniqe"](https://www.aiprm.com/prompts/marketing/social-media/1981214711849172992/)_"
+    --- I''d like to use the Client Sniper Technique to find my ideal clients on LinkedIn.
+    Can you help me generate a detailed report that includes: Target Audience: Identify
+    the specific industry, job title, company size, and location of my ideal clients.
+    Search Keywords: Provide a list of relevant keywords I can use to find these clients
+    on LinkedIn''s advanced search features. Sample Connection Request: Craft a personalized
+    connection request template that mentions a specific pain point or challenge my
+    ideal clients might be facing, and how I can potentially help them. Input: Your
+    Industry: [VARIABLE1] Your Expertise: [VARIABLE2] Example: Sample Input: Your
+    Industry: Marketing Your Expertise: Content Marketing Output: Target Audience:
+    Industry: B2B Technology Companies Job'
+  enabled: true
+  required:
+  - variable1
+  - variable2

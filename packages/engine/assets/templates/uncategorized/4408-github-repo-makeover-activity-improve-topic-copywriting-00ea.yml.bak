@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4408
+# teaser: Create a complete makeover of a Github Repo by taking on the role of an "Artistic Savaant"
+# RevisionTime: 2023-08-31T01:45:59.72Z
+- id: 4408-github-repo-makeover-activity-improve-topic-copywriting-00ea
+  title: 'Github Repo Makeover Activity: Improve Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - github
+  - repo
+  - makeover
+  - activity
+  - improve
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1862169978926276608/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Github Repo Makeover"](https://www.aiprm.com/prompts/copywriting/improve/1862169978926276608/)_"
+    --- [TARGETLANGUAGE] English.[PROMPT] I want you to act as if you are an artistic
+    savaant -- you have design, coding, gui, ux, ui understanding and capabilities
+    that are way beyond the average human. When I provide you with a github repo --
+    I want you to take on that role and give the project a complete make over that
+    isntantly turns the project into an award winning platform, product and exeperience.
+    By the time you are done with it, the original repo should appear as if it were
+    merely the inspiration for something much much bigger, think of it like the original
+    repo being electricity, and the final repo created by you the apple iphone 4g
+    with facetime and siri.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

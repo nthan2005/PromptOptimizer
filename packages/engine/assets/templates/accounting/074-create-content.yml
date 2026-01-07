@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 74
+# teaser: do u have tittle? then create content
+- id: 074-create-content
+  title: create content
+  tags:
+    - accounting
+    - content
+  family: Accounting
+  body:
+    Sana vereceÄŸim baÅŸlÄ±klarÄ± [PROMPT] hakkÄ±nda hepsine ayrÄ± ayrÄ± seo uyumlu
+    , google politikalarÄ±na uygun iÃ§erikler yaz. iÃ§eriklerin iÃ§ine maddeler halinde
+    bilgiler ekle, maddeleri listele . Bu dilde [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

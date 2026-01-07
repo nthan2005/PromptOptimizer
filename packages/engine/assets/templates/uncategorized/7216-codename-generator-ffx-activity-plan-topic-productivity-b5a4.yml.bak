@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7216
+# teaser: Help me come up with a terse product-name/code-name for the following product and/or
+# initiative and/or service: RevisionTime: 2023-04-18T18:19:13.534Z
+- id: 7216-codename-generator-ffx-activity-plan-topic-productivity-b5a4
+  title: 'Codename Generator [FFX] Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - codename
+  - generator
+  - ffx
+  - activity
+  - plan
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1813905200524820480/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Codename Generator [FFX]\"](https://www.aiprm.com/prompts/productivity/plan/1813905200524820480/)_\"\
+    \ --- Using [TARGETLANGUAGE] Help me come up with 20 options for a terse product-name/code-name\
+    \ for the following product and/or initiative and/or service. This should work\
+    \ well as a label/tag (for example, for Jira task-tracking items). Good codename\
+    \ examples: - ðŸ\x90¼ Panda - ðŸ¦Š FoxFinder - ðŸ\x90¢ TurtleTagger - ðŸ¦\x8F\
+    \ RhinoRater - ðŸ”\x8D MatchFinder The codename should reflect the \"character\"\
+    \ or \"feel\" or \"vibe\" of the initiative. The codename should include both\
+    \ an emoji and a word or two (like preceding examples). Codenames should be in\
+    \ a bold font face. No space between words. Here's the product and/or initiative\
+    \ and/or service description: [PROMPT]"
+  enabled: true
+  required:
+  - ffx
+  - prompt
+  - targetlanguage

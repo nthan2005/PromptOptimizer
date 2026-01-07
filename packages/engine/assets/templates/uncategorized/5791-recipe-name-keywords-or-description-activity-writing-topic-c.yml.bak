@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5791
+# teaser: Discover a delicious and easy-to-make [Recipe Title] that will tantalize your taste buds.
+# With a combination of [highlight key ingredients], this recipe is perfect for [mention target
+# audience or occasion]. Get ready to indulge in a culinary delight that will leave you craving for
+# more. RevisionTime: 2023-06-09T09:07:25.793Z
+- id: 5791-recipe-name-keywords-or-description-activity-writing-topic-c
+  title: '[Recipe Name]: [Keywords or Description] Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - recipe
+  - name
+  - keywords
+  - description
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1825820358369087488/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "[Recipe Name]: [Keywords or Description]"](https://www.aiprm.com/prompts/copywriting/writing/1825820358369087488/)_"
+    --- [TARGETLANGUAGE] Recipe Prompt [PROMPT] **Title** :[Title] **Summary**: Discover
+    a [summary description] with this easy-to-follow recipe. [PROMPT] Please generate
+    a Method a 2 recipes for [Title] with the main ingredient , Each recipe has its
+    own title. Include the words "[Ingredients] , and [Instructions], and Note" to
+    bold Font . Include a list of [Ingredients] **Ingredients** and step-by-step [Instructions]
+    **Instructions** for preparing and using the recipe. provide a [Note]**Note**
+    Shorted just "one line" .'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

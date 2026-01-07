@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 816
+# teaser: scan ideas from [TEXT]
+- id: 816-1-scan-ideas
+  title: "#1 - scan ideas"
+  tags:
+    - writing
+    - scan
+    - ideas
+  family: writing
+  body:
+    Use the provided text in brackets to identify topics related to Notion, productivity,
+    insights, curiousities, and digital business and write them in a list that I will
+    use to create content for tiktok. Also right below each topic, list in bullets
+    the content to be covered. [TEXT]. [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - text

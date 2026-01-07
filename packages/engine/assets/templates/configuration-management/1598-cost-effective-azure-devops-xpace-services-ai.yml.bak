@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1598
+# teaser: Create a cost-effective Azure DevOps CI/CD pipeline with Azure Repos and Azure Pipelines for
+# your [TARGETLANGUAGE] project. Optimize your workflow and minimize financial costs using
+# [VARIABLE1], [VARIABLE2], and [VARIABLE3]. Get started now!
+- id: 1598-cost-effective-azure-devops-xpace-services-ai
+  title: Cost-Effective Azure DevOps | Xpace Services AI
+  tags:
+  - configuration-management
+  - cost
+  - effective
+  - azure
+  - devops
+  - xpace
+  family: Configuration Management
+  body: '# Prompt text including placeholders [TARGETLANGUAGE], [PROMPT], [VARIABLE1],
+    [VARIABLE2], and [VARIABLE3] replaced automagically by AIPRM. ## Example: Example
+    [PROMPT] in [TARGETLANGUAGE] with [VARIABLE1], [VARIABLE2], and [VARIABLE3]. -
+    [VARIABLE1:Title] - [VARIABLE2:Title:Default Value] - [VARIABLE3:Title:Default
+    Value:Available Value 1|Available Value 2|Available Value 3] [VARIABLE1], [VARIABLE2],
+    and [VARIABLE3] will be pre-filled using URL parameters AIPRM_VARIABLE1, AIPRM_VARIABLE2,
+    and AIPRM_VARIABLE3.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - variable1
+  - variable2
+  - variable3

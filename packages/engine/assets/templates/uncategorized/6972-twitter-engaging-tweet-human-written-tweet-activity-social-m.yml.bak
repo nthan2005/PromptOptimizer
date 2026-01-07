@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6972
+# teaser: Twitter Engaging Tweet | Human Written Tweet Generator RevisionTime:
+# 2024-10-03T09:56:01.133Z
+- id: 6972-twitter-engaging-tweet-human-written-tweet-activity-social-m
+  title: 'Twitter Engaging Tweet | Human Written Tweet Activity: Social Media Topic:
+    Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - twitter
+  - engaging
+  - tweet
+  - human
+  - written
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1799413942037254144/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Twitter Engaging Tweet | Human Written
+    Tweet"](https://www.aiprm.com/prompts/marketing/social-media/1799413942037254144/)_"
+    --- Act like a twitter expert and write a human written tweet on [PROMPT]. tweet
+    should be engaging. Write in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6254
+# teaser: Generates a short description of a topic to render an image in Midjouney with as much detail
+# as possible. RevisionTime: 2023-03-20T23:24:34Z
+- id: 6254-image-description-for-midjouney-activity-midjourney-topic-ge
+  title: 'Image Description for Midjouney Activity: Midjourney Topic: Generative-AI-b983edfcaa490850'
+  tags:
+  - uncategorized
+  - image
+  - description
+  - midjouney
+  - activity
+  - midjourney
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/midjourney/1803538016913063936/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Image Description for Midjouney"](https://www.aiprm.com/prompts/generative/midjourney/1803538016913063936/)_"
+    --- Give me an short description of a topic for an image in Midjourney. All output
+    shall be in [TARGETLANGUAGE]. My topic is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

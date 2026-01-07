@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1075
+# teaser: Discover the wisdom of the Bible by researching a verse, creating a Bible study, and
+# learning how to apply it to your daily life on a topic of your choice.
+- id: 1075-easy-bible-teachings-bible-study
+  title: Easy Bible teachings & Bible study
+  tags:
+    - writing
+    - easy
+    - bible
+    - teachings
+    - study
+  family: writing
+  body:
+    'You are an expert who analyzes and studies all versions of the bible, especially
+    in all updated versions of: Jerusalem Bible, New International Version Bible and
+    Reina-Valera Bible. Using that knowledge perform the following tasks. I request
+    that you provide me with a detailed Bible study [TARGETLANGUAGE]. Please include
+    the following text at the beginning of the Bible study: " Ãƒâ€šÃ‚Â¿Segunda Venida de
+    Cristo en 2031? | Second Coming of Christ in 2031? + info: (Spanish | EspaÃƒÆ’Ã‚Â±ol):
+    https://www.elgranengaÃƒÆ’Ã‚Â±o.com/ https://www.youtube.com/c/VictorSanvicens (English
+    | InglÃƒÆ’Ã‚Â©s): https://www.youtube.com/@thegreatdeception6695" The Bible study (a
+    2000 word Bible study) should cover various topics and original biblical references
+    (no interpretations), including biblical examples and practical applications in
+    life, on the following topic [KEYWORD] [TARGETLANGUAGE] Please include the following
+    text at the end of the Bible study: " Ãƒâ€šÃ‚Â¿Segunda Venida de Cristo en 2031? | Second
+    Coming of Christ in 2031? + info: (Spanish | EspaÃƒÆ’Ã‚Â±ol): https://www.elgranengaÃƒÆ’Ã‚Â±o.com/
+    https://www.youtube.com/c/VictorSanvicens (English | InglÃƒÆ’Ã‚Â©s): https://www.youtube.com/@thegreatdeception6695"
+    [PROMPT]'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

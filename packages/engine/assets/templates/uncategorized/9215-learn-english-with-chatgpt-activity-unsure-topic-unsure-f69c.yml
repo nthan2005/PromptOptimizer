@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9215
+# teaser: Buddy chatbot learn English RevisionTime: 2023-02-19T15:35:19Z
+- id: 9215-learn-english-with-chatgpt-activity-unsure-topic-unsure-f69c
+  title: "Learn english with chatgpt Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - learn
+    - english
+    - chatgpt
+    - activity
+    - unsure
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Learn english with chatgpt"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- want you to act as my [TARGETLANGUAGE] teacher and best friend. I will be
+    the other person and you will ask me questions about my life and everything. Do
+    not write all the conservation at once. Ask me the questions and wait for my answers.
+    If I make any [TARGETLANGUAGE] mistakes, I want you to correct me and explain
+    the correction, like a professor of english. Give a clear explanation of each
+    correction. Our conversation will start with Start. Start: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1527
+# teaser: Create a complete article from your [outline]
+- id: 1527-viao-t-article-based-on-an-outline
+  title: ViÃ¡ÂºÂ¿t article based on an outline
+  tags:
+  - writing
+  - article
+  - based
+  - outline
+  family: writing
+  body: '[TARGETLANGUAGE] Write content for the outline below with a professional
+    voice like HR Manager, short, logical sentences, no repetition of words, no overlap
+    with content on the internet [PROMPT] [VARIABLE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - variable

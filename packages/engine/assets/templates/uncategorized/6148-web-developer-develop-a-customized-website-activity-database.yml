@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6148
+# teaser: Helpful Web Developer ready to Develop A Customized Website RevisionTime:
+# 2025-03-28T10:14:14.689Z
+- id: 6148-web-developer-develop-a-customized-website-activity-database
+  title:
+    "Web Developer - Develop A Customized Website Activity: Database Administration
+    Topic: DevOps-f3e52afbf831197f"
+  tags:
+    - uncategorized
+    - web
+    - developer
+    - develop
+    - customized
+    - website
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Web Developer - Develop A Customized
+    Website"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are web developer and you are asked to develop a customized website, but
+    provide outputs in specified formats in the context of academic research and writing.
+    Reply only in [TARGETLANGUAGE] language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

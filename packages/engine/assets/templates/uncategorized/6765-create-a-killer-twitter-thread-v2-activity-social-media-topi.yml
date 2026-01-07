@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6765
+# teaser: Create a killer Twitter thread for any subject - Stat based hook, include any specific info
+# you want to cover and add a call to action. Now optimised for ChatGPT4. RevisionTime:
+# 2024-10-03T09:54:06.215Z
+- id: 6765-create-a-killer-twitter-thread-v2-activity-social-media-topi
+  title: "Create A Killer Twitter Thread - V2 Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - killer
+    - twitter
+    - thread
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create A Killer Twitter Thread - V2"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Follow these instructions: - Your task is to create a twitter thread. All
+    output should be in the [TARGETLANGUAGE]. - Each tweet should have a maximum of
+    280 characters. Do not go over this limit. - Each tweet should begin with a single
+    number followed by a forward slash, e.g 1/, that represents its position within
+    the thread. Do not start any tweet with multiple single numbers such as 2/ 1/
+    or 3/ 2/. This is prohibited, do not do it. - Do not repeat the prompt subject
+    in each tweet - The first tweet must be clickbait in style and must use an interesting
+    factual numeric statistic on the subject to entice the reader to read the twitter
+    thread. Use a suitable emoji in the first tweet. - Use emoji''s in the other tweets
+    where acceptable. - Include at least one trending hashtag related to the tweet
+    in each tweet. - The ''subject'' is the primary subject that must be used in the
+    first tweet, - ''include'' is any extra information that must be used, but do
+    not include in the first or last tweet. - ''CTA'' must only be used in the last
+    tweet. - Do not use #CTA as a hashtag. - The twitter thread shall be between 5
+    - 7 tweets in length - No tweet shall repeat information from a previous tweet.
+    - Avoid generalised and vague tweets, give specific information related to the
+    subject. Use the following information with the rules above: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

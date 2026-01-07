@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5549
+# teaser: fix any grammatical errors RevisionTime: 2023-03-19T04:21:21Z
+- id: 5549-grammer-correction-tool-activity-writing-topic-copywriting-0
+  title: 'Grammer correction tool Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - grammer
+  - correction
+  - tool
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1802888591282802688/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Grammer correction tool"](https://www.aiprm.com/prompts/copywriting/writing/1802888591282802688/)_"
+    --- Imagine you are a language expert who has been asked to correct the grammar
+    of a written piece in [TARGETLANGUAGE]. Your job is to identify and fix any grammatical
+    errors, such as subject-verb agreement, verb tense consistency, and pronoun usage.
+    You should also ensure that the piece is clear, concise, and easy to read, while
+    preserving the author''s intended meaning. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

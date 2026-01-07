@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8248
+# teaser: Write your questions with answers and get a simple markup code in json format RevisionTime:
+# 2023-11-13T13:16:35.626Z
+- id: 8248-schema-generator-for-faq-in-json-ld-activity-web-development
+  title: "Schema generator for FAQ in json-ld Activity: Web Development Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - schema
+    - generator
+    - faq
+    - json
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Schema generator for FAQ in json-ld"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as a web developer experienced in writing schema markup
+    in json-ld format according to schema.org documentation. You need to give the
+    code schema FAQPage in type="application/ld+json", for next questions and answers:
+    [PROMPT] output the text of questions and answers provided by the user in the
+    markup code to [TARGETLANGUAGE] At the bottom write Support: https://www.buymeacoffee.com/andrewshe'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

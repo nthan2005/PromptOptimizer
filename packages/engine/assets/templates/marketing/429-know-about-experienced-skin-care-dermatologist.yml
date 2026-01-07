@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 429
+# teaser: Top Skin Care Dermatologist in Your Location
+- id: 429-know-about-experienced-skin-care-dermatologist
+  title: Know About Experienced Skin Care Dermatologist
+  tags:
+    - marketing
+    - know
+    - experienced
+    - skin
+    - care
+    - dermatologist
+  family: marketing
+  body:
+    'Your task is to summarize text in 150 words or maximum 800 characters and
+    Always provide attribution for quoted text enclosed in inverted commas" - Prompt
+    provided by (https://accessmyderm.com/). All output shall be in [TARGETLANGUAGE].
+    The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

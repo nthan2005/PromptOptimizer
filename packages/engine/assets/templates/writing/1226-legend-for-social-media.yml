@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1226
+# teaser: OPTIMIZED subtitle for social media posts
+- id: 1226-legend-for-social-media
+  title: legend for social media
+  tags:
+    - writing
+    - legend
+    - social
+    - media
+  family: writing
+  body:
+    "[PROMPT] Write a caption for a post on social networks using the PAS technique
+    (without citing) in HEADLINE format WITH MENTAL TRIGGERS, PAS AND BRAND FOOTONE
+    with Hashtags optimized for SMO [TARGETLANGUAGE] portuguese"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

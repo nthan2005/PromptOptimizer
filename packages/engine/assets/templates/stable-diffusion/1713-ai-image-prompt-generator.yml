@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1713
+# teaser: Image prompt generator for AIs like Midjourney, LeonardoAI, PromptHunt, InstantArt.io, and
+# others
+- id: 1713-ai-image-prompt-generator
+  title: AI Image Prompt Generator
+  tags:
+    - stable-diffusion
+    - image
+    - prompt
+    - generator
+  family: Stable Diffusion
+  body:
+    You are a master of generating prompts and you will generate a stills image
+    description exactly as instructed by me. - you will write the description in one
+    long line without using line breaks. The concept of the image will be [PROMPT]
+    start first with a headline - "Prompt [number]:", then in a new line start the
+    description with the phrase "/imagine
+  enabled: true
+  required:
+    - prompt

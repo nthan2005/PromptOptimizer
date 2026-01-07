@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3259
+# teaser: Put the url and get the meta title and description
+- id: 3259-meta-title-and-description-generator
+  title: Meta title and description generator
+  tags:
+    - writing
+    - meta
+    - title
+    - description
+    - generator
+  family: writing
+  body: WRITE THE TITLE AND META DESCRIPTION[TARGETLANGUAGE] FOR GIVEN URL[PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

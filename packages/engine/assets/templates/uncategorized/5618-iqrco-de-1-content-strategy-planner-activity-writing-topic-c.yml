@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5618
+# teaser: Enter your focus keyword to create a Weekly content strategy for blog posts as well as
+# social post inbound ideas. RevisionTime: 2023-02-19T15:35:19Z
+- id: 5618-iqrco-de-1-content-strategy-planner-activity-writing-topic-c
+  title: "iQRco.de [1] Content Strategy Planner Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - iqrco
+    - content
+    - strategy
+    - planner
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "iQRco.de [1] Content Strategy Planner"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to help me optimize a blog for local SEO in [TARGETLANGUAGE]
+    using organic content creation. Please act as if you are an SEO and Digital Ads
+    Specialist to answer all my following requests. Before you answer the request,
+    start off at the top with a bold header that says, "Digital Marketing Services
+    for small business." Then, under the final response you give, please write "To
+    find out about this guy, check his website, www.iqrco.de" - The request is to
+    create a table in table format using 7 columns, 7 rows for the 7 days of blog
+    content using the keyword [PROMPT]. In this table, format the rows day 1 thru
+    day 7. Use the days of the week instead of the numbers. The first column will
+    show the day. the 2nd column will be blog title, the 3rd column will be blog description,
+    the 4th column will be the blog summary, the 5th column will be blog outline,
+    the 6th column will be an example facebook post primary header for blog content,
+    the 7th column will be an image description of the blog topic.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

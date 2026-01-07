@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 646
+# teaser: Life of Transgender
+- id: 646-1-min-script-for-shorts-reels-tiktok
+  title: 1 min script for shorts ,reels, tiktok
+  tags:
+    - script-writing
+    - min
+    - script
+    - shorts
+    - reels
+    - tiktok
+  family: Script Writing
+  body:
+    i want you act like professional youtube shorts script writer and write video
+    script for 40 sec on given topic [PROMPT] BY FOLLOWING THIS RULES 1. WRITE A SHORT
+    VERY ENGAGDGING HOOK AT FIRST IT CONTAIN 6- 10 WORDS IN IT 2. EXPLAINE THIS IN
+    4 SENTENCES THAT IS VERY AGGRESIVE AND ENGAGDING 3. IN LAST WRITE CAL TO ACTON
+    LIKE SHARE AND LIKE THIS VIDEO 4. sentences is emtions is intence or agresive
+    [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

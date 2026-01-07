@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 807
+# teaser: summarize the content
+- id: 807-summarize-the-website-content-in-1-click
+  title: Summarize the website content in 1 click
+  tags:
+    - summarize
+    - website
+    - content
+    - click
+  family: Summarize
+  body:
+    your task is summarize the content which link i provide you in [TARGETLANGUAGE]
+    and convert this content in 200 words blogpost without giving credit to this website
+    and also give me seo friendly titles for blogger, Facebook and Twitter [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

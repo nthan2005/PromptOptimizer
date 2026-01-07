@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6612
+# teaser: Create script for product advertisement RevisionTime: 2023-05-24T19:11:54.573Z
+- id: 6612-attractive-script-to-sell-physical-products-activity-product
+  title: "Attractive Script To Sell Physical Products Activity: Products Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - attractive
+    - script
+    - sell
+    - physical
+    - products
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Attractive Script To Sell Physical
+    Products"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Criar um script para um anuncio de [PROMPT] , com tom de um locutor de radio
+    emplogado, usar recursos de persuasÃƒÂ£o Seja objetivo e claro para um pÃƒÂºblico
+    geral. O texto dever ser de no maximo 4000 palavras. [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

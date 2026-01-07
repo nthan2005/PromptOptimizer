@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1916
+# teaser: Tweet to start a trend!
+- id: 1916-turn-your-basic-tweets-in-trend
+  title: Turn your basic Tweets in Trend!
+  tags:
+    - marketing
+    - turn
+    - basic
+    - tweets
+    - trend
+  family: marketing
+  body:
+    Write me a tweet with sarcasm, emojis, hashtags humanly tone and fun using
+    information below. Don't cross 160 characters ' [PROMPT]' USE [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

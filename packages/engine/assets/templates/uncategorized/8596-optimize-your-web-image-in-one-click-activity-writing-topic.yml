@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8596
+# teaser: Optimized and Write your Web Image Title, Description, Caption, and Alternative text in One
+# Click! RevisionTime: 2023-05-31T22:46:24.806Z
+- id: 8596-optimize-your-web-image-in-one-click-activity-writing-topic
+  title: "Optimize your Web Image in One Click! Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - optimize
+    - web
+    - image
+    - one
+    - click
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Optimize your Web Image in One Click!"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Take on the persona of an expert SEO writer. Your tasks is to write an optimized
+    image title, description, caption, and alternative text of the image description
+    I give you. write all output in [TARGETLANGUAGE]. The goal of this is to optimized
+    web images faster in one click. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

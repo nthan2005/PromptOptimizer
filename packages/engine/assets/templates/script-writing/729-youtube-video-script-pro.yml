@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 729
+# teaser: Pro Youtube Long Video Script Writer: Just a Click Write Professional Long Video Script for
+# Your Youtube Video! Video description generator, Video title generator, Video ranking, Amazon
+# Article Writer, Product Description Writing, Informational Article Writer, Facebook Add video,
+# tiktok, twitter, linkdin, fiverr, seo, backlink H Tag, and Best to rank no 1 on Google youtube,seo
+# Meta-Title & Description + Content rewriter
+- id: 729-youtube-video-script-pro
+  title: Youtube Video Script PRO
+  tags:
+    - script-writing
+    - youtube
+    - video
+    - script
+    - pro
+  family: Script Writing
+  body:
+    You write a Video script Minimum 90000 character. include VideoTitle, Video
+    description, 5 Keyword, intro, outro, and Voice over, [TARGETLANGUAGE]. The sentence
+    to summarize is this. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

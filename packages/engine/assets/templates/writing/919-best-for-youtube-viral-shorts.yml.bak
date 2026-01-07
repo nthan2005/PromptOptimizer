@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 919
+# teaser: Generate Best YouTube Channel Idea For shorts with description
+- id: 919-best-for-youtube-viral-shorts
+  title: Best for youtube viral shorts
+  tags:
+  - writing
+  - youtube
+  - viral
+  - shorts
+  family: writing
+  body: 'your task is to generate a script of 100 words or maximum 500 characters.
+    All output shall be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

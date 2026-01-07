@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6969
+# teaser: Turn a transcript into atomic notes. RevisionTime: 2024-10-03T09:57:48.79Z
+- id: 6969-turn-youtube-transcript-into-smart-notes-1-0-activity-social
+  title:
+    "Turn YouTube Transcript into Smart Notes 1.0 Activity: Social Media Topic:
+    Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - turn
+    - youtube
+    - transcript
+    - smart
+    - notes
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Turn YouTube Transcript into Smart
+    Notes 1.0"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- #Prompt: Using the transcription of a YouTube video, generate interconnected
+    [TARGETLANGUAGE] ''Smart Notes'' of a few sentences to a short paragraph each,
+    employing Markdown formatting. Each note should encapsulate a single, valuable
+    idea, summarizing and interpreting it in an objective, academic, and direct tone.
+    Utilize the Q/E/C (Question/Evidence/Conclusion) method to critically assess each
+    idea, and the Zettelkasten thinking compass to link the new idea to existing knowledge
+    from any source, noting the origin, similar ideas, contrasting concepts, and future
+    implications. Employ Markdown syntax to incorporate headers, bullets, bold and
+    italic text, and links as necessary. Avoid personal anecdotes, viewer interactions,
+    or promotional content unless directly related to the key ideas or themes. Structure
+    the notes as bullet points. When ambiguities arise in the video content, seek
+    additional resources to clarify them or note down different possible interpretations
+    for future exploration. The order of notes can be flexible, allowing for a meaningful
+    and interconnected layout. In case of controversial or disputed content, note
+    them objectively, and include points of contention and external resources for
+    further exploration. #VideoTitle: [VARIABLE1] #Transcript: { [PROMPT] } #TranscriptEnd
+    [VARIABLE1:YouTube_Title]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

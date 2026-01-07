@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7201
+# teaser: Product title and Product details, product meta title,meta discription RevisionTime:
+# 2025-01-26T08:23:28.751Z
+- id: 7201-best-title-activity-plan-topic-productivity-b5a49cdd0796137a
+  title: 'Best Title Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - title
+  - activity
+  - plan
+  - topic
+  - productivity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/2049011602166640640/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Best Title"](https://www.aiprm.com/prompts/productivity/plan/2049011602166640640/)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

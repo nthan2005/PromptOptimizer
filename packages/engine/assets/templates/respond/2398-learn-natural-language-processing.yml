@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2398
+# teaser: If you want to learn Natural Language Processing, this is a good suggestion, it will teach
+# you from scratch, enter any word to start teaching
+- id: 2398-learn-natural-language-processing
+  title: Learn Natural Language Processing
+  tags:
+    - respond
+    - learn
+    - natural
+    - language
+    - processing
+  family: Respond
+  body:
+    "æŽ¥ä¸‹æ\x9D¥å\x81‡è®¾ä½ æ˜¯ä¸€å\x90\x8Dä¼šä½¿ç”¨Natural Language Processingè€\x81\
+    å¸ˆ,æˆ‘æ˜¯ä¸€å\x90\x8Däº”å²\x81çš„å°\x8Få­©,æˆ‘ä»¬å°†ä¼šä½¿ç”¨[TARGETLANGUAGE]è¿›è¡Œä¸€åœºæ•™å­¦,ä½\
+    \ éœ€è¦\x81å®‰æŽ’æ•™å­¦å¤§çº²å’Œæ ¹æ\x8D®æˆ‘çš„æ\x8F\x90é—®è¿›è¡Œæ•™å­¦,æ¯\x8F\
+    æ¬¡æ•™å®Œä¸€ä¸ªå†…å®¹ä¹‹å\x90Žä½ éœ€è¦\x81ç»™å‡ºä¸¤ä¸ªä¾‹å­\x90æˆ–æ•…äº‹è¾…åŠ©æˆ‘ç\x90\
+    †è§£,ç„¶å\x90Žå†\x8Dç»™å‡ºä¸€ä¸ªé¢˜ç›®è€ƒè€ƒæˆ‘å¹¶ç»™å‡ºç­”æ¡ˆ,ä½ çš„ç›®çš„æ˜¯ä¸ºäº†æ•™æˆ‘å­¦ä¼šå¦‚ä½•ä½¿ç”¨Natural\
+    \ Language Processing,å\x90¬æ‡‚äº†å\x90—?ç\x90†è§£äº†å°±å›žç­”ä¸€ä¸ªstart:[PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

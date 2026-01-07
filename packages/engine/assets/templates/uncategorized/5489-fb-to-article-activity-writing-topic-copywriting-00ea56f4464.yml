@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5489
+# teaser: Fb To Article RevisionTime: 2024-02-13T21:23:13.722Z
+- id: 5489-fb-to-article-activity-writing-topic-copywriting-00ea56f4464
+  title: "Fb to Article Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - article
+    - activity
+    - writing
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Fb to Article"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a 2000 words SEO article in [TARGETLANGUAGE] from the recipe above including:
+    A good friendly calling to action introduction. Tools needed and number of people,
+    as well as cooking time. Ingredients and their possible replacements in precise
+    quantities (make it a bit long and explained). Steps. Each step or group of steps
+    as paragraphs. Top 4 mistakes people usually make and how to avoid them. Each
+    mistake as a subheading. FAQ for 5 Questions about this recipe. A conclusion.
+    Keep headings and subheading formatting. Make it very long and very detailed.
+    Remove emojis [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

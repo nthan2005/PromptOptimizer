@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6673
+# teaser: Growth Hacking Funnel Generator RevisionTime: 2024-07-23T09:27:44.877Z
+- id: 6673-growth-hacking-funnel-generator-activity-research-topic-mark
+  title: "Growth Hacking Funnel Generator Activity: Research Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - growth
+    - hacking
+    - funnel
+    - generator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Growth Hacking Funnel Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as a marketing strategist and develop an A3R3 Funnel (Awareness,
+    Acquisition, Activation, Retention, Referral, Revenue) for [PROMPT] in this [TARGETLANGUAGE].
+    Describe each stage of the funnel and outline specific strategies and actions
+    to optimise the company''s performance at each stage. Ensure that the strategies
+    are actionable, measurable, and aligned with the goals. Provide examples and metrics
+    to track success at each stage. Also, include frequence, platform and timeline
+    for each strategy.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

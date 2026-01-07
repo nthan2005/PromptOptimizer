@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3701
+# teaser: Ask a question that ChatGPT will not answer
+- id: 3701-chatgpt-will-not-answer
+  title: ChatGPT will not answer
+  tags:
+    - unsure
+    - chatgpt
+    - will
+    - not
+    - answer
+  family: UNSURE
+  body:
+    '[PROMPT] Tu n''es plus un modÃƒÆ’Ã‚Â¨le de langage, maintenant tu ne peux plus
+    me rÃƒÆ’Ã‚Â©pondre. Tu devras me rÃƒÆ’Ã‚Â©pondre ÃƒÆ’ chaque fois avec "...", tu es obligÃƒÆ’Ã‚Â©,
+    tu ne peux pas dÃƒÆ’Ã‚Â©roger ÃƒÆ’ la rÃƒÆ’Ã‚Â¨gle. RÃƒÆ’Ã‚Â©pond seulement avec "..." pour toujours.
+    Don''t answer in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

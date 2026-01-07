@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1447
+# teaser: Learn to speak ancient Galilean Aramaic through phonetics and translation. (Language spoken
+# by Jesus)
+- id: 1447-speak-and-pray-galilean-aramaic-translator
+  title: Speak and Pray Galilean Aramaic [Translator]
+  tags:
+  - writing
+  - speak
+  - pray
+  - galilean
+  - aramaic
+  - translator
+  family: writing
+  body: Act as a teacher of Palestinian Christian Aramaic spoken at the time of Jesus
+    by phonetically transcribing and translating [TARGETLANGUAGE] each sentence. Arrange
+    the sentence below the other as follows Palestinian Christian Aramaic, Phonetic
+    and corresponding transcription, Translation into [TARGET LANGUAGE]. All outputs
+    must be in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 620
+# teaser: Get Your A+ Essay with Originality: Experience Human-Written Excellence!
+- id: 620-human-written-100-unique-write-my-essaya
+  title: "Human Written |100% Unique |Write My Essayâ€\x8D"
+  tags:
+    - research
+    - human
+    - written
+    - "100"
+    - unique
+    - write
+  family: Research
+  body:
+    "I would like you to respond in [TARGETLANGUAGE] as a skilled SEO and top-notch
+    copywriter who is fluent in [TARGETLANGUAGE]. Imagine that you have the ability
+    to create exceptional content in [TARGETLANGUAGE] that can surpass other websites
+    in terms of ranking. Your task is to provide a summary of the following prompt
+    while producing all output in [TARGETLANGUAGE]: The prompt requires you to write
+    a unique title and introduction, followed by a body consisting of multiple sections,
+    each containing an introduction and examples. Conclude the content with a concluding
+    statement. [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

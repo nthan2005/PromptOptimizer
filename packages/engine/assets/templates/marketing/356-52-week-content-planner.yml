@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 356
+# teaser: Create a list of 52 blog post titles
+- id: 356-52-week-content-planner
+  title: 52 Week Content planner
+  tags:
+    - marketing
+    - week
+    - content
+    - planner
+  family: marketing
+  body:
+    You will act as a social media manager. I will give you content or a keyword.
+    You will generate a list of 52 unique and creative blog post ideas in [TARGETLANGUAGE]
+    Each idea must be unique and do not repeat. Each article should educate and help
+    the target audience. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

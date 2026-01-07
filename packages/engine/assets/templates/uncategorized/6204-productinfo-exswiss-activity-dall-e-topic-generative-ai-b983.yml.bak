@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6204
+# teaser: Productinfo scan and extraction RevisionTime: 2023-08-31T11:47:29.889Z
+- id: 6204-productinfo-exswiss-activity-dall-e-topic-generative-ai-b983
+  title: 'Productinfo exswiss Activity: Dall-E Topic: Generative-AI-b983edfcaa490850'
+  tags:
+  - uncategorized
+  - productinfo
+  - exswiss
+  - activity
+  - dall
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1847942133257609216/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Productinfo exswiss"](https://www.aiprm.com/prompts/generative/dalle/1847942133257609216/)_"
+    --- Ich gebe dir jetzt Ãœberschriften einzelner Spalten einer Tabelle. Hersteller
+    name Typ Farbe FÃ¼r Einsteiger geeignet regelbar AkkukapazitÃ¤t_mAh Tankvolumen_ml
+    Tankmaterial GehÃ¤usematerial LÃ¤nge_mm Breite_mm Tiefe_mm Gewicht_g DripTip wechselbar
+    AirFlow Control Ausgangsleistung_W LademÃ¶glichkeit Zugautomatik Display Display_Groesse_Zoll
+    Display_Angaben Sicherheitsfunktionen Lieferumfang Pod_1_Ohm Pod_1_Ausgangsleistung_W
+    Pod_2_Ohm Pod_2_Ausgangsleistung_W. Nun scanne folgende Internetseite: [PROMPT]
+    und fÃ¼ge die Informationen in die richtige Tabellenspalte ein. Nutze in den Spalten
+    "Lieferumfang", "Display_Angaben" und "Sicherheitsfunktionen" keine "," sondern
+    ein | . FÃ¼ge auch keine Einheiten hinzu, sondern nur den Wert der Zahl. Falls
+    du einen Wert nicht findest setze den Spaltennamen + x ein. Exportiere mir die
+    gefundenen werte in [TARGETLANGUAGE] Tabelle als CSV Datei und gebe nur die 2
+    Zeile aus. Trenne werte durch ; WICHTIG: Gebe mir keine andere Antwort als den
+    CODE der CSV Tabelle. Ich mÃ¶chte den Code direkt in eine Online Excel kopieren.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

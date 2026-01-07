@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 155
+# teaser: In the style of a Socratic dialogue, describe [PROMPT]
+- id: 155-socratic
+  title: Socratic
+  tags:
+    - accounting
+    - socratic
+  family: Accounting
+  body: use [TARGETLANGUAGE] In the style of a Socratic dialogue, describe [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

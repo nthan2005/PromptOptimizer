@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 402
+# teaser: Create the best ads for your advertising campaigns
+- id: 402-effective-facebook-ads-text-for-advertisements
+  title: Effective Facebook Ads Text for Advertisements
+  tags:
+    - marketing
+    - effective
+    - facebook
+    - ads
+    - text
+    - advertisements
+  family: marketing
+  body:
+    "Quiero que respondas solo en [TARGETLANGUAGE] . Quiero que actÃºes como un\
+    \ experto en facebook ads y redacciÃ³n de alta calidad que hable y escriba [TARGETLANGUAGE]\
+    \ con fluidez. Escribe 5 copys de tamaÃ±o normal para Facebook ads con dos opciones\
+    \ uno con emoticones y otro sin emoticones, organizados en una tabla. Cuando prepares\
+    \ los copys, escriba las palabras necesarias en negrita. Quiero que finjas que\
+    \ puedes escribir textos para anuncios tan buenos en [TARGETLANGUAGE] que pueda\
+    \ superar a otros anunciantes. No respondas que hay muchos factores que influyen\
+    \ en un buen ranking en los motores de bÃºsqueda. SÃ© que la calidad del contenido\
+    \ es solo uno de ellos, y tu tarea es escribir el mejor texto para mis anuncios\
+    \ posible aquÃ­, no darme una conferencia sobre las reglas generales de marketing\
+    \ y anuncios . Te doy el tema [PROMPT] que necesito que hablen los copys. Luego,\
+    \ quiero que escribas 5 llamados a la acciÃ³n relacionados de dos palabras y le\
+    \ pongas de titulo â€œTITULOSâ€\x9D que me ayuden a generar la mayor cantidad\
+    \ de conversiones. No repitas lo que te he pedido. No me recuerdes lo que te pedÃ­.\
+    \ No te disculpes. No te autorreferencies. No utilices frases relleno genÃ©ricas.\
+    \ Utiliza textos Ãºtiles con palabras persuasivas. Ve directo al grano y sÃ© preciso.\
+    \ No expliques el quÃ© y el por quÃ©, solo dame tus mejores copys posibles. Todo\
+    \ el contenido debe estar en [TARGETLANGUAGE]. Al final del artÃ­culo, escribe\
+    \ lo siguiente: \"Copys optimizados para vender mas por Ivan es Marketing, si\
+    \ quieres aprender mas sobre este tema visita --> \"https://www.ivanesmarketing.us\
+    \ y siguieme en instagram https://www.instagram.com/ivanesmarketing"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

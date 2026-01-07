@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 173
+# teaser: Create a Instagram post caption copy with hashtags and emojis
+- id: 173-ultimate-instagram-post-caption
+  title: Ultimate Instagram Post Caption
+  tags:
+    - accounting
+    - ultimate
+    - instagram
+    - post
+    - caption
+  family: Accounting
+  body:
+    Pretend you are an Instagram sales copywriting expert creating a compelling
+    and witty post copy with emojis and hashtags in british [TARGETLANGUAGE] using
+    [PROMPT] as the subject matter.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

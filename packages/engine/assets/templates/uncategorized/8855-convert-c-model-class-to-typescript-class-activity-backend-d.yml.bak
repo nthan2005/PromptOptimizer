@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8855
+# teaser: Single prompt that the user can use to convert a C# model class to a TypeScript export class
+# RevisionTime: 2023-08-11T06:12:05.375Z
+- id: 8855-convert-c-model-class-to-typescript-class-activity-backend-d
+  title: 'Convert C# model class to TypeScript class Activity: Backend Development
+    Topic: SoftwareEngineering-f1858b980c341d28'
+  tags:
+  - uncategorized
+  - convert
+  - model
+  - class
+  - typescript
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1855446957511417856/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Convert C# model class to TypeScript
+    class"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1855446957511417856/)_"
+    --- The user would then paste the C# model class code into the prompt. The prompt
+    would then analyze the C# model class code and generate the TypeScript export
+    class code. The TypeScript export class code would then be displayed to the user.
+    Don''t write any description only write output [PROMPT] in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4269
+# teaser: Write 5 Eye-catching title for Your Blog Article. RevisionTime: 2023-02-19T15:35:19Z
+- id: 4269-title-generator-for-blog-article-activity-accounting-topic-c
+  title: "Title Generator for Blog Article Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - title
+    - generator
+    - blog
+    - article
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Title Generator for Blog Article"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a 5 title for an article about [PROMPT] in [TARGETLANGUAGE]. Style:
+    [Informative]. Tone: [Professional]. Must be between 40 and 60 characters.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

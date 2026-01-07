@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7360
+# teaser: Detailed SWOT Analysis (Strengths, Weaknesses, Opportunities, Threats) RevisionTime:
+# 2023-03-18T13:22:11.624Z
+- id: 7360-swot-analysis-activity-plan-topic-productivity-b5a49cdd07961
+  title: "Swot Analysis Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - swot
+    - analysis
+    - activity
+    - plan
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Swot Analysis"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as a Business Consultant from a top management company that
+    speaks and writes fluent [TARGETLANGUAGE]. I want a SWOT analysis on [PROMPT]
+    Layout the SWOT Analysis in the following format. Give reasons why a point is
+    included in the SWOT Analysis. Make the list compelling and professional. # [PROMPT]
+    ## SWOT Analysis [introduction and definition about [PROMPT]] ### Strengths [list
+    of key strengths, bold - maximum of 5] ### Weaknesses [list of key weaknesses,
+    bold - maximum of 5] ### Opportunities [list of key opportunities, bold - maximum
+    of 5] ### Threats [list of key threats, bold - maximum of 5] [conclusion about
+    [PROMPT]]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

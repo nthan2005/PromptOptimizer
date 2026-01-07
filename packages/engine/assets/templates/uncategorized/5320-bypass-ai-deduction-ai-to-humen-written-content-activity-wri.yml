@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5320
+# teaser: Rewrite AI Content to Human Written Content and Bypass AI Detector RevisionTime:
+# 2023-02-19T15:35:19Z
+- id: 5320-bypass-ai-deduction-ai-to-humen-written-content-activity-wri
+  title:
+    "Bypass AI Deduction | AI to Humen Written Content Activity: writing Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - bypass
+    - deduction
+    - humen
+    - written
+    - content
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Bypass AI Deduction | AI to Humen Written
+    Content"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I am going to give you some information before asking you to write an article.
+    When it comes to writing content, two factors are crucial, "perplexity" and "burstiness."
+    Perplexity measures the complexity of text. Separately, burstiness compares the
+    variations of sentences. Humans tend to write with greater burstiness, for example,
+    with some longer or complex sentences alongside shorter ones. Al sentences tend
+    to be more uniform. Therefore, when writing the following content I am going to
+    ask you to create, I need it to have a good amount of perplexity and burstiness.
+    using the concepts written previously, rewrite this article with a high degree
+    of perplexity and burstiness : [PROMPT] in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

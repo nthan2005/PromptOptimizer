@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5961
+# teaser: Translate a text naturally into Portuguese. RevisionTime: 2023-05-22T02:09:34.871Z
+- id: 5961-translate-a-text-naturally-activity-writing-topic-copywritin
+  title: "Translate a text naturally. Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - translate
+    - text
+    - naturally
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Translate a text naturally."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- FaÃƒÂ§a a traduÃƒÂ§ÃƒÂ£o do texto a seguir para o portuguÃƒÂªs do brasil, deixando
+    com naturalidade e perfeito. [KEYWORD] [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

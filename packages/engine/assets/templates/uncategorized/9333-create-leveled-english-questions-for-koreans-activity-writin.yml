@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9333
+# teaser: Create leveled English questions for Koreans RevisionTime: 2023-05-25T12:45:51.702Z
+- id: 9333-create-leveled-english-questions-for-koreans-activity-writin
+  title: "Create leveled English questions for Koreans Activity: writing Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - leveled
+    - english
+    - questions
+    - koreans
+    - activity
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"Create leveled English questions\
+    \ for Koreans\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- Ã«â€¹Â¹Ã¬â€¹ Ã¬\x9Dâ‚¬ Ã«â€¦Â¸Ã¬â€¢â€ Ã¬Â´ËœÃ¬Å Â¤Ã­â€šÂ¤ ÃªÂ°â„¢Ã¬\x9Dâ‚¬ Ã¬â€“Â¸Ã¬â€“Â´Ã­â€¢â„¢Ã¬Å¾\x90Ã¬Å¾â€¦Ã«â€¹Ë†Ã«â€¹Â¤. ÃªÂ³ Ã«â€œÂ±Ã­â€¢â„¢ÃªÂµ\x90\
+    \ Ã¬Ëœ\x81Ã¬â€“Â´ ÃªÂµ\x90Ã¬â€šÂ¬Ã¬Å¾â€¦Ã«â€¹Ë†Ã«â€¹Â¤. Ã¬â€žÂ¸ ÃªÂ°â‚¬Ã¬Â§â‚¬ Ã¬Â¶Å“Ã« Â¥Ã¬\x9Dâ€ž Ã¬Æ’\x9DÃ¬â€žÂ±Ã­â€¢Â©Ã«â€¹Ë†Ã«â€¹Â¤. Ã¬Â²Â«\
+    \ Ã«Â²Ë†Ã¬Â§Â¸Ã«Å â€ Lexile Index ÃªÂ°â‚¬ Ã¬â€¢Â½ 1100LÃ¬ \x90 Ã¬\x9DÂ´Ã¬Æ’\x81Ã¬\x9DÂ¸ Ã­â€¢â„¢Ã¬Æ’\x9DÃ¬\x9D\
+    â€ž Ã¬Å“â€žÃ­â€¢Å“ Ã¬â€“Â´Ã­Å“Ëœ 2ÃªÂ°Å“Ã¬â„¢â‚¬ Ã¬ËœË†Ã«Â¬Â¸, Ã¬â€“Â´Ã¬â€º\x90Ã¬\x9Dâ€ž Ã¬ Å“ÃªÂ³ÂµÃ­â€¢ËœÃ«\x9DÂ¼. Ã«â€˜\x90 Ã«Â²Ë†Ã¬Â§Â¸Ã«Å â€\
+    \ Lexile Index ÃªÂ°â‚¬ Ã¬â€¢Â½ 800LÃ¬ \x90 Ã¬\x9DÂ´Ã¬Æ’\x81Ã¬\x9DÂ¸ Ã­â€¢â„¢Ã¬Æ’\x9DÃ¬\x9Dâ€ž Ã¬Å“â€žÃ­â€¢Å“ Ã¬â€“Â´Ã­Å“Ëœ\
+    \ 2ÃªÂ°Å“Ã¬â„¢â‚¬ Ã¬ËœË†Ã«Â¬Â¸, Ã¬â€“Â´Ã¬â€º\x90Ã¬\x9Dâ€ž Ã¬ Å“ÃªÂ³ÂµÃ­â€¢ËœÃ«\x9DÂ¼. Ã¬â€žÂ¸ Ã«Â²Ë†Ã¬Â§Â¸Ã«Å â€ Lexile Index\
+    \ ÃªÂ°â‚¬ Ã¬â€¢Â½ 500LÃ¬ \x90 Ã¬\x9DÂ´Ã¬Æ’\x81Ã¬\x9DÂ¸ Ã­â€¢â„¢Ã¬Æ’\x9DÃ¬\x9Dâ€ž Ã¬Å“â€žÃ­â€¢Å“ Ã¬â€“Â´Ã­Å“Ëœ 2ÃªÂ°Å“Ã¬â„¢â‚¬\
+    \ Ã¬ËœË†Ã«Â¬Â¸, Ã¬â€“Â´Ã¬â€º\x90Ã¬\x9Dâ€ž Ã¬ Å“ÃªÂ³ÂµÃ­â€¢ËœÃ«\x9DÂ¼. My first task is '[PROMPT]'. The target\
+    \ language is '[TARGETLANGUAGE]'"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

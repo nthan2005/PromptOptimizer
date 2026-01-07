@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7643
+# teaser: Text summary from a transcription or notations RevisionTime: 2025-03-16T12:28:22.135Z
+- id: 7643-summary-pro-from-transcriptions-activity-summarize-topic-pro
+  title: "Summary Pro from Transcriptions Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - summary
+    - pro
+    - transcriptions
+    - activity
+    - summarize
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Summary Pro from Transcriptions"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Analise a transcriÃƒÂ§ÃƒÂ£o fornecida Abaixo e crie um resumo detalhado em portuguÃƒÂªs,
+    organizado em tÃƒÂ³picos e subtÃƒÂ³picos, utilizando as explicaÃƒÂ§ÃƒÂµes do autor conforme
+    apresentadas no texto original. Siga estas diretrizes: Estrutura: Divida o conteÃƒÂºdo
+    em seÃƒÂ§ÃƒÂµes principais (tÃƒÂ³picos) e subseÃƒÂ§ÃƒÂµes (subtÃƒÂ³picos) que reflitam a progressÃƒÂ£o
+    lÃƒÂ³gica do discurso, como introduÃƒÂ§ÃƒÂ£o, temas principais, exemplos, estudos, conclusÃƒÂµes,
+    etc. Fidelidade ao Autor: Use as palavras e ideias do palestrante para descrever
+    cada tÃƒÂ³pico e subtÃƒÂ³pico, mantendo sua voz, estilo e perspectiva (por exemplo,
+    uso de metÃƒÂ¡foras, abordagem psicolÃƒÂ³gica ou teolÃƒÂ³gica, tom pessoal). CitaÃƒÂ§ÃƒÂµes:
+    Inclua citaÃƒÂ§ÃƒÂµes diretas relevantes entre aspas, com o tempo aproximado no formato
+    (min:seg), quando disponÃƒÂ­veis na transcriÃƒÂ§ÃƒÂ£o, para destacar pontos-chave ou
+    frases marcantes. ReferÃƒÂªncias: Ao final, liste todas as referÃƒÂªncias (livros,
+    autores, estudos) mencionadas explicitamente pelo palestrante, com base no texto.
+    Objetivo: Capture os pontos principais e a essÃƒÂªncia do discurso, omitindo detalhes
+    menores para manter clareza, mas preservando a intenÃƒÂ§ÃƒÂ£o e o contexto do autor.
+    Exemplo: Modele o resultado com base em um resumo que organiza uma palestra sobre
+    ''AtribuiÃƒÂ§ÃƒÂµes Sobrenaturais'', com seÃƒÂ§ÃƒÂµes como introduÃƒÂ§ÃƒÂ£o, metÃƒÂ¡foras, estudos,
+    lentes interpretativas e conclusÃƒÂ£o, refletindo a abordagem do palestrante. [PROMPT]
+    [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

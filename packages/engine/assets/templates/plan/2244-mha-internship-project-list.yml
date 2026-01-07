@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2244
+# teaser: project title generator for Masters students
+- id: 2244-mha-internship-project-list
+  title: MHA Internship project list
+  tags:
+    - plan
+    - mha
+    - internship
+    - project
+    - list
+  family: Plan
+  body:
+    create a list of projects [PROMPT] that i as a masters in Hospital Administration
+    student can undertake in my internship in [department name] department in a real
+    hospital can undertake to most effectively showcase an employable skill in my
+    resume. return results in a tabular format while highlighting particular skills
+    that a given project will involve. arrange in a descending manner for most employable
+    skills for hospital administration jobs at the top. write all output in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6645
+# teaser: Create a detailed buyer persona separeted by columns in just one click RevisionTime:
+# 2023-04-13T18:58:22.059Z
+- id: 6645-1-click-avatar-for-your-business-activity-research-topic-mar
+  title: '1 Click Avatar for your business Activity: Research Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - click
+  - avatar
+  - business
+  - activity
+  - research
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1802136704082239488/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "1 Click Avatar for your business"](https://www.aiprm.com/prompts/marketing/research/1802136704082239488/)_"
+    --- VocÃª Ã© um pesquisador de marketing [TARGETLANGUAGE]. [PROMPT] Sua tarefa
+    Ã© gerar uma BUYER PERSONA detalhada para um [PRODUTO] sobre [NICHO]. Estruture
+    sua resposta em 5 tabelas separadas. Acima da primeira tabela escreva "BUYER PERSONA
+    [PRODUTO] e substitua [NICHO] por [PRODUTO - NICHO]. Aqui estÃ¡ o formato necessÃ¡rio
+    para cada tabela: Tabela 01: DemogrÃ¡ficos 2 colunas e 7 linhas Coluna 1 = Pontos
+    de dados (Nome, Idade, OcupaÃ§Ã£o, Renda mensal, Estado civil, SituaÃ§Ã£o familiar,
+    LocalizaÃ§Ã£o) Coluna 2 = Respostas para cada ponto de dados na Coluna 1 com base
+    no [NICHO] especÃ­fico Tabela 02: DescriÃ§Ã£o do usuÃ¡rio Um resumo da persona
+    do usuÃ¡rio revelando as duas CaracterÃ­sticas mais marcantes dela em atÃ© 240
+    caracteres. Tabela 03: PsicogrÃ¡ficos 2 colunas e 9 linhas Coluna 1 = Pontos de
+    dados (CaracterÃ­sticas pessoais, Oportunidade que mudaria a vida dele, Interesses,
+    AspiraÃ§Ãµes pessoais, Receio interno que ele guarda para si, Dores, Principais
+    problemas que ele precisa resolver, Necessidades, Sonhos) Coluna 2 = Respostas
+    para cada ponto de dados na Coluna 1 com base no [NICHO] especÃ­fico Tabela 04:
+    Comportamentos de compra 2 colunas e 8 linhas Coluna 1 = Pontos de dados (OrÃ§amento,
+    FrequÃªncia de compras, Canais preferidos, Comportamento online, Termos de pesquisa,
+    Marcas preferidas, Gatilhos, Barreiras) Coluna 2 = Respostas para cada ponto de
+    dados na Coluna 1 com base no [PRODUTO] especÃ­fico Tabela 05: Anti-Avatar Um
+    resumo de uma pessoa que seja o oposto da persona do usuÃ¡rio descrita revelando
+    as caracterÃ­sticas daqueles que vocÃª nÃ£o quer que sejam a persona do usuÃ¡rio
+    em atÃ© 240 caracteres. Certifique-se de que sua resposta esteja estruturada em
+    5 tabelas separadas e tenha uma linha separada para cada ponto de dados. NÃ£o
+    forneÃ§a marcadores.'
+  enabled: true
+  required:
+  - nicho
+  - produto
+  - prompt
+  - targetlanguage

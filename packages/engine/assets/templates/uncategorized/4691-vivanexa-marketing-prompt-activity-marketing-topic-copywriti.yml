@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4691
+# teaser: Create a viral blog or forum post for Vivanexa marketing RevisionTime:
+# 2025-07-08T08:28:12.474Z
+- id: 4691-vivanexa-marketing-prompt-activity-marketing-topic-copywriti
+  title: "Vivanexa Marketing Prompt Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - vivanexa
+    - marketing
+    - prompt
+    - activity
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Vivanexa Marketing Prompt"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE]: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

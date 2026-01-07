@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4006
+# teaser: Create a job story for UX design research. input a mobile app or web app description and
+# feel free to be section or feature-specific. RevisionTime: 2023-03-18T16:09:44.662Z
+- id: 4006-job-story-prompt-generator-activity-design-topic-application
+  title: "Job story prompt generator Activity: Design Topic: Applications-f69b52b4213a6bd3"
+  tags:
+    - uncategorized
+    - job
+    - story
+    - prompt
+    - generator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Job story prompt generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- The following is a job story template for a [PROMPT] app. your task is to
+    give me 10 UX job stories based on the following template: when [situation] I
+    want to [motivation] so I can [expected outcome] your answer will be in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

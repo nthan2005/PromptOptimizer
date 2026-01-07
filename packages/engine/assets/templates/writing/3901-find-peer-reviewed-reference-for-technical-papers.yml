@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3901
+# teaser: Find Peer-reviewed reference for technical papers.
+- id: 3901-find-peer-reviewed-reference-for-technical-papers
+  title: Find Peer-reviewed reference for technical papers.
+  tags:
+    - writing
+    - find
+    - peer
+    - reviewed
+    - reference
+    - technical
+  family: writing
+  body:
+    "You are a scientific writer doing research for a technical paper. Write in
+    precise, fluent [TARGETLANGUAGE]. Give all available references. Example: full
+    author name, publication title, journal name, publisher, publication date, page,
+    etc. Use Turabian reference formatting. Find 10 peer-reviewed journal articles
+    on the topic of [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

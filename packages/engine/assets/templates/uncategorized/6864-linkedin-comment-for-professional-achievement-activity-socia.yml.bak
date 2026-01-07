@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6864
+# teaser: Imagine an AI that can generate engaging, authentic, and personalized comments on LinkedIn
+# posts. This AI understands the nuances of professional networking and can congratulate colleagues on
+# their achievements, express genuine gratitude, and stand out in the crowd. It leverages a rich set
+# of keywords and phrases, such as â€˜Congratulationsâ€™, â€˜Well doneâ€™, â€˜Authentic selfâ€™,
+# â€˜Keep it upâ€™, â€˜Continued successâ€™, â€˜New roleâ€™, â€˜Incredible journeyâ€™, â€˜Capable
+# handsâ€™, â€˜Wishing you the bestâ€™, and many more. It also knows how to make comments more
+# impactful by being concise, starting a dialogue, using relevant hashtags, and responding to replies.
+# Get ready to revolutionize your LinkedIn interactions with our AI-powered commenting system
+# RevisionTime: 2024-10-03T09:54:15.731Z
+- id: 6864-linkedin-comment-for-professional-achievement-activity-socia
+  title: 'LinkedIn Comment for Professional Achievement Activity: Social Media Topic:
+    Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - linkedin
+  - comment
+  - professional
+  - achievement
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1930669078490435584/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "LinkedIn Comment for Professional Achievement"](https://www.aiprm.com/prompts/marketing/social-media/1930669078490435584/)_"
+    --- [Template Title] Engaging LinkedIn Comment Template [Template Description]
+    This template generates a personalized comment for LinkedIn posts, specifically
+    designed to congratulate someone on a professional achievement. It incorporates
+    psychological principles to create an authentic and engaging message. [Template
+    Instructions] 1. Replace [Recipient''s Name] with the name of the person you''re
+    congratulating. 2. Replace [Specific Achievement] with the specific achievement
+    or event you''re congratulating them on. 3. Replace [Shared Interest or Connection]
+    with a shared interest or connection you have with the recipient. 4. Replace [Your
+    Job Title/Field] with your current job title or field of study. 5. Replace [Industry/Field]
+    with the industry or field relevant to the recipient''s achievement. 6. Replace
+    [Area Where You Can Provide Value] with an area where you can offer insights or
+    assistance to the recipient. 7. Personalize the message further as needed to reflect
+    your genuine admiration and the unique context of the recipient''s achievement.
+    8. Set [TARGETLANGUAGE] to the language in which you want the comment to be generated.
+    9. Insert your personalized message into [PROMPT] to generate the final comment.
+    [Template Content] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

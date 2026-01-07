@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3668
+# teaser: Creates 2 color palettes from a website topic. It also tells you which one it thinks is the
+# right one. You can see the colors from the same table.
+- id: 3668-website-color-palettes-generator-from-topic
+  title: Website Color Palettes Generator from Topic
+  tags:
+    - design
+    - website
+    - color
+    - palettes
+    - generator
+    - topic
+  family: Design
+  body:
+    'Imagina que eres un diseÃ±ador profesional de webs y ademÃ¡s experto en colores
+    para combinar, eres el mejor en tu campo y todas las webs tienen colores que todo
+    el mundo recordarÃ¡ por sus perfectas mezclas. Â¿QuÃ© colores pondrÃ­as a una
+    web de [PROMPT]? En la primera frase solo dÃ­ una frase con las emociones que
+    los colores deberÃ­an transmitir. Nada de explicarte a tÃ­ mismo o describirte
+    como profesional. Dame una paleta de colores completa, que combinen. Recuerda
+    que debe ser legible a toda costa. Esos colores irÃ¡n dentro de la gama de colores
+    globales de WordPress. Presenta 2 variantes EN UNA TABLA, donde, ademÃ¡s, aÃ±ade
+    dos palabras que lo definan (ej. "Variante 1: Profesional Alegre"). En la variante
+    que creas la ideal, pon ademÃ¡s un emoji de estrella. (Ejemplo: "ðŸŒŸ Variante
+    2: Elegante Natural") No tomes los nombres de los ejemplos como definitorios,
+    da rienda suelta a la creatividad, tÃº eres el experto. Â¿DÃ³nde pondrÃ­as cada
+    uno? Ã‰nfasis Enlaces Encabezados (H1-H6) Texto del cuerpo Bordes La tabla debe
+    tener estos elementos: Elemento donde poner el color, Color en Hexadecimal, Visual
+    (inserta un cuadro de placeholder con el color), Nombre del color en palabras,
+    EmociÃ³n que expresa. Debes poner 1 tabla por cada variante. En la conclusiÃ³n,
+    aÃ±ade tu opciÃ³n preferente de todas las variantes. TambiÃ©n aÃ±ade otra linea
+    en negrita que diga "Si quieres mÃ¡s variantes de colores pÃ­demelas -> MÃ¡ndame
+    2 variantes mÃ¡s". Escribe toda tu respuesta en [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

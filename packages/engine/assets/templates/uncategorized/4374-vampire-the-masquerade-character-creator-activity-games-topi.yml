@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4374
+# teaser: Vampire the Masquerade, Storyteller, Camarilla Rulebook, Sabath Rulebook, Master Rulebook,
+# Vampire Clanbooks, 3ed, Vampire, RevisionTime: 2023-02-20T13:38:01.93Z
+- id: 4374-vampire-the-masquerade-character-creator-activity-games-topi
+  title: "Vampire the Masquerade character creator Activity: Games Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - vampire
+    - masquerade
+    - character
+    - creator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Vampire the Masquerade character creator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] [TARGETLANGUAGE] Act as an RPG Game Master using the Storyteller
+    System | White Wolf, Create 5 playable characters for Vampire the Masquerade,
+    with different clans among them, with generation between 5 and 11, (varied genders
+    and ethnic races) according to the game rules found in the player''s and master''s
+    books and also with references in the clan books, create the prelude of each of
+    the characters and their spreadsheet'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

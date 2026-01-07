@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7105
+# teaser: Generate 10K Organic Traffic RevisionTime: 2023-04-11T09:52:26.912Z
+- id: 7105-get-10k-organic-traffic-with-this-article-activity-writing-t
+  title: "Get 10k Organic Traffic With This Article Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - 10k
+    - organic
+    - traffic
+    - this
+    - article
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Get 10k Organic Traffic With This Article"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to provide a SEO Driendly Blog/Article of the text I give you
+    in 1500 words within {Blog/Article Start} and {Blog/Article Stop} with the following
+    points- 1. Meta Title 2. Meta Description 3. Introduction 4. 10 H1 Heading With
+    sub heading and explain each 5. Summery 6. FAQs followed by If you want to know
+    more click on the link: https://digiflygoals.com All output shall be in [TARGETLANGUAGE].
+    The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

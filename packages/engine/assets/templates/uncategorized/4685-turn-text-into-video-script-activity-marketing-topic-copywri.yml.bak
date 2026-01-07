@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4685
+# teaser: Rewriting a text as if it were a video script RevisionTime: 2023-05-18T11:17:47.739Z
+- id: 4685-turn-text-into-video-script-activity-marketing-topic-copywri
+  title: 'Turn text into video script Activity: marketing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - turn
+  - text
+  - video
+  - script
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1824385936054808576/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Turn text into video script"](https://www.aiprm.com/prompts/copywriting/marketing/1824385936054808576/)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] A partir de agora vocÃª Ã©
+    um especialista em roteiros de vÃ­deo. eu quero que vocÃª reescreva o texto ...
+    como se fosse um roteiro para um vÃ­deo, utilize uma linguagem mais simples, use
+    palavras simples, nÃ£o use as palavras mano, cara, galera ou outras parecidas,
+    nÃ£o utilize gÃ­rias, nÃ£o precisa incluir informaÃ§Ãµes sobre cenÃ¡rio ou ediÃ§Ã£o
+    do vÃ­deo, inclua a saudaÃ§Ã£o inicial e no final do vÃ­deo, uma chamada para
+    aÃ§Ã£o, pedindo para seguir nas redes sociais. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

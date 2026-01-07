@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4116
+# teaser: Write an detailed post on any topic for the social media that engages content RevisionTime:
+# 2023-06-15T11:56:54.782Z
+- id: 4116-detailed-fb-post-that-engages-audience-activity-accounting-t
+  title: "Detailed FB post that engages audience Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - detailed
+    - post
+    - that
+    - engages
+    - audience
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Detailed FB post that engages audience"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write an detailed post on the topic [PROMPT] for the social media that engages
+    content [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 621
+# teaser: If you are mass applying for a lot of jobs, to companies you've never heard of before, this
+# may be a helpful first stop when researching the company, the job position, and why it might be an
+# exciting place to work.
+- id: 621-initial-research-on-companies-while-job-searching
+  title: Initial Research on Companies while Job Searching
+  tags:
+    - research
+    - initial
+    - companies
+    - while
+    - job
+    - searching
+  family: Research
+  body:
+    In [TARGETLANGUAGE], can you tell me about [Company Name] and what they do?
+    I'm interested in applying for the [Job Role] position, what would my responsibilities
+    be? And finally, what are some exciting things about working for [Company Name]
+    that would make it a great place to work? [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1074
+# teaser: Create a Bible study on a topic of your choice, using all versions of the Bible, and learn
+# how to apply it to your daily life. For experts and novices.
+- id: 1074-easy-bible-study-teachings-topics
+  title: EASY Bible Study, Teachings & Topics
+  tags:
+  - writing
+  - easy
+  - bible
+  - study
+  - teachings
+  - topics
+  family: writing
+  body: 'You are an expert who analyzes and studies all the most popular versions
+    of the Holy Bible, especially all the updated versions (use the versions you have
+    in your database ). Using that knowledge perform the following tasks. Please only
+    show the following text at the beginning of the Bible Study: " Ã‚Â¿Segunda Venida
+    de Cristo en 2031? | Second Coming of Christ in 2031? + info: (Spanish | EspaÃƒÂ±ol):
+    https://www.elgranengaÃƒÂ±o.com/ https://www.youtube.com/c/VictorSanvicens (English
+    | InglÃƒÂ©s): https://www.youtube.com/@thegreatdeception6695" After, your task is
+    to create an Bible Study with 4000 words in [TARGETLANGUAGE]. The Bible verse
+    or topic to create a Bible Study is this: [KEYWORD] [TARGETLANGUAGE]. The Bible
+    study should cover various topics, verses and biblical references, including 1.-
+    biblical examples and 2.- its associated teachings and 3.- day-to-day applications,
+    on the following topic [KEYWORD] [TARGETLANGUAGE]. If the [KEYWORD] is a bible
+    verse, create a table that shows the [KEYWORD] [TARGET LANGUAGE] verse in all
+    holy bible versions. Please only show the following text at the end of the Bible
+    study: " Ã‚Â¿Segunda Venida de Cristo en 2031? | Second Coming of Christ in 2031?
+    + info: (Spanish | EspaÃƒÂ±ol): https://www.elgranengaÃƒÂ±o.com/ https://www.youtube.com/c/VictorSanvicens
+    (English | InglÃƒÂ©s): https://www.youtube.com/@thegreatdeception6695" [PROMPT]'
+  enabled: true
+  required:
+  - keyword
+  - prompt
+  - targetlanguage

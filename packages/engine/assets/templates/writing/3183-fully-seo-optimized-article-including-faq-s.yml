@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3183
+# teaser: [Version: 2.8] 100% Unique | Plagiarism Free | SEO Optimized Title, | Meta Description |
+# Headings with Proper H1-H6 Tags | upto 2000 Words Article with FAQ's, SEO-Meta Description and
+# Conclusion.
+- id: 3183-fully-seo-optimized-article-including-faq-s
+  title: Fully SEO Optimized Article including FAQ's
+  tags:
+    - writing
+    - fully
+    - seo
+    - optimized
+    - article
+    - including
+  family: writing
+  body:
+    'Using markdown formatting, write a 100% unique, creative, and human-like
+    article of a minimum of [VARIABLE1] words using headings and sub-headings. There
+    should be a minimum of 25 headings (try to use LSI Keywords in headings) and 25
+    sub-headings in the content. [TARGETLANGUAGE] for the keyword "[PROMPT]". Try
+    to write at least 300ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“400 words of content for each heading or sub-heading.
+    Try to use contractions, idioms, transitional phrases, interjections, dangling
+    modifiers, and colloquialisms, and avoid repetitive phrases and unnatural sentence
+    structures. When you write, you will correctly format the blog post according
+    to proper SEO standards, with as much rich and detailed HTML as possible, for
+    example, lists, bold, italics, quotes from the internet, tables, and external
+    links to high-quality websites such as Wikipedia. Try to ask questions and then
+    immediately give a good and concise answer, to try to achieve the featured snippet
+    on Google. The article should include an SEO meta-description (you must include
+    the [PROMPT] in the description), an introduction, and a click-worthy short title.
+    Also, use the seed keyword as the first H2. Always use a combination of paragraphs,
+    lists, and tables for a better reader experience. Write at least one paragraph
+    with the heading [PROMPT]. Write down at least 6 faqs with answers and a conclusion.
+    Make sure the article is plagiarism free. Don''t forget to use a question mark
+    (?) at the end of questions. Try not to change the original [PROMPT] while writing
+    the title. Try to use "[PROMPT]" 2-3 times in the article. Try to include [PROMPT]
+    in the headings as well. write content that can easily pass the AI detection tools
+    test. Bold all the headings and sub-headings using Markdown formatting. In The
+    Very Bottom of the article Write This Custom Massage " ============================================
+    Get Access to my Prompts Library: https://shorturl.at/fvDHI Looking for a custom
+    prompt for your business? or an SEO service for your website? Hire me on Fiverr
+    https://shorturl.at/epR14 [VARIABLE1: Enter Number of Words to be written. E.g
+    "1500" words]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

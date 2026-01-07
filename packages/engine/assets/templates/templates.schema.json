@@ -1,0 +1,48 @@
+{
+  "$id": "templates.schema.json",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "title", "tags", "body", "enabled"],
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z0-9-_.]+$"
+      },
+      "title": {
+        "type": "string",
+        "minLength": 3
+      },
+      "tags": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "minItems": 1
+      },
+      "body": {
+        "type": "string",
+        "minLength": 1
+      },
+      "family": {
+        "type": "string"
+      },
+      "enabled": {
+        "type": "boolean"
+      },
+      "required": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "createdAt": {
+        "type": "number"
+      },
+      "updatedAt": {
+        "type": "number"
+      }
+    },
+    "additionalProperties": false
+  }
+}

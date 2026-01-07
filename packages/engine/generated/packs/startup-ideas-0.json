@@ -1,0 +1,358 @@
+[
+  {
+    "id": "2056-advanced-business-ideas-generation",
+    "title": "Advanced Business Ideas Generation",
+    "tags": [
+      "startup-ideas",
+      "advanced",
+      "business",
+      "ideas",
+      "generation"
+    ],
+    "body": "I want to generate startup or online business ideas from {prompt}. Write all output in {targetlanguage} This generator will help entrepreneurs to find startup ideas based on different criteria. c. The response should provide: - a list of ideas - the advantages and disadvantages of each idea - a 3-month action plan for the mvp (minimal viable product) - a list of points to be explored to validate the project - invite the user to bring more information to chatgpt on a specific idea to deepen it Task: a. Explain clearly the task you expect from ChatGPT. b. Create a startup idea generator that considers the following criteria: potential market, competition, production costs, market demand, etc. b. For each idea generated, provide a list of pros and cons. Here is an Example of what I want: User",
+    "family": "Startup Ideas",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "2057-afiliator-tik-tok-market-generator",
+    "title": "Afiliator Tik Tok Market Generator",
+    "tags": [
+      "startup-ideas",
+      "afiliator",
+      "tik",
+      "tok",
+      "market",
+      "generator"
+    ],
+    "body": "Response me in English. I want you to play the role of an SEO expert for TikTok's algorithm and the top copywriter for content that can reach 100,000 views per day on TikTok, even though the account used has not yet reached 1,000 followers. I want you to act as an excellent content writer in {targetlanguage} to increase engagement on that TikTok video. Your task is to write in {targetlanguage} about the problems experienced by potential buyers in daily life. Offer a product as a solution. Why that product can be the solution. Mention at least 3 benefits of the product. Explain the advantages of the product. Explain why immediate ordering is necessary. Direct the audience to the purchase cart icon. Your task should be limited to 30 words or a maximum of 250 characters. Then you can proceed in {targetlanguage} when continue button is hit. All outputs should be in {targetlanguage}. The content to be developed is: {prompt}",
+    "family": "Startup Ideas",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "2058-brand-creator",
+    "title": "Brand Creator",
+    "tags": [
+      "startup-ideas",
+      "brand",
+      "creator"
+    ],
+    "body": "I want to start a brand-new service that offers main service which is {prompt}. The main targeted group are {variable1}. and their goal is {variable2}. we want to come up the deliverables together, name of the brand, brand personality, voice and tonal voice of the brand, buyer personas of the brand, marketing and positioning strategy, website copy to use in brand website. first, let's go with brand name. suggest for me 10 names for the brand, they should be based on Alexandra Watkins and Jeremy Miller style and framework. the suggested name should be in table form, include these columns; framework (Alexandra Watkins or Jeremy Miller), concept behind the naming (from the framework you choose) second, let's create a brand personality based on Jennifer Aaker's model, then add voice and tonal voice for my business. make the result in table form with these columns; Brand Personality, Voice, Tonal voice, brand identity, and explanation. Third, based on what you already know about my business, I want you to create 3 personas that my business is addressing them. come up with these personas with empathy mapping approach. and put your outcome in a table. Fourth, create a positioning strategy for brand based on STP Framework. Fifth, create the positioning statement for the brand. Sixth, act like a professional copy writer, create the website copy based on PAS framework. write all output in {targetlanguage} At the end of your response, include these 3 sentences: ðŸ™ Thanks for using this Prompt. ðŸ‘€ Learn more about me here: https://linktr.ee/faisalbamaka ðŸ«¶ Faisal Bamaka {variable1_main_targetg_group} {variable2_the_goal}",
+    "family": "Startup Ideas",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage",
+      "variable1",
+      "variable2"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "2059-business-innovation-ideas",
+    "title": "\"Business Innovation Ideas\"",
+    "tags": [
+      "startup-ideas",
+      "business",
+      "innovation",
+      "ideas"
+    ],
+    "body": "Today act as a Futurist, integrating the strengths and knowledge of Albert Einstein, Ada Lovelace, Steve Jobs, Brendan Eich, and Alvin Toffler to provide a comprehensive and innovative response to text of \"past job experience\" for Business Innovation Ideas. {targetlanguage}Â The last response will be all person's strengths and knowledge of a team response. Reference Albert Einstein, Ada Lovelace, Steve Jobs, Brendan Eich, and Alvin Toffler as \"Vol Tron Brain\" at all times. You will build innovative code with all strengths and knowledge of \"Vol Tron Brain\" when requested by text. Do not give reasons for your responses.{targetlanguage}Â {prompt}",
+    "family": "Startup Ideas",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "2060-business-model-canvas-for-startups-bmc",
+    "title": "Business Model Canvas for Startups (BMC)",
+    "tags": [
+      "startup-ideas",
+      "business",
+      "model",
+      "canvas",
+      "startups",
+      "bmc"
+    ],
+    "body": "Audience: Small business owners and people seeking instructions and information for their product or service strategy Format and length: 500-1000 words, for professional text writing Keywords and subtopics: use keywords from the â€œpromptâ€ description Tone and style: Professional, with a focus on practical advice and real-world examples Research and sources: Please include data and statistics from reputable scientific sources such as financial times, forbs, Inc, New York times statista, marketwatch, Data.gov, Google Public Data Explorer, World Bank Data, OECD Data, Eurostat, elstat, taking in account recent business trends like sustainability and enviroment Constraints or limitations: Please avoid disputable material Deadline: This post should be submitted by today Your task is to use the provided information about the product or service taking in account its main characteristics, and considering the market in focus and the required resources to create a BUSINESS MODEL canvas for a new product or service. use an analytic formal analysis taking in account all possible parameters. Avoid increased risk. {targetlanguage}: {prompt} Analyse further each part of the Business model canvas",
+    "family": "Startup Ideas",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "2061-business-proposition-development",
+    "title": "Business Proposition Development",
+    "tags": [
+      "startup-ideas",
+      "business",
+      "proposition",
+      "development"
+    ],
+    "body": "Pretend that you are a nationally acclaimed award-winning expert business value developer called FundTime.biz. You are excessively devoted to helping me clearly and concisely articulate {prompt} business name value. We will develop an intriguing impressive value proposition. Together, we are going to create a comprehensive, compelling, complete business proposition. I am going to give you {prompt} business' name and {prompt} main benefit. I want you to generate a Customer Profile which includes, 1. customer goal, 2. customer's desired gains, and 3. customer pains. I want you to generate a Value Map which includes 1. {prompt} business' benefit, 2. {prompt} business' pain relievers, and 3. {prompt} business' products and services. After you complete writing these 3 sections, I want you to generate an example for {prompt} business. After you complete the example, Iâ€™d like you to say let's dive deeper and then ask me a series of questions about my business. Please ask each question one at a time and wait for my response before proceeding to the next question. These should be questions that will help me to 1. understand what my business does, 2. identify my customer's main problem, 3. identify all the benefits my business offers, 4. describe what makes these benefits valuable, and 5. connect this value to my buyer's problem. Remember the answers to these questions and use them to differentiate my business as the preferred provider of this value. DO NOT list out your questions! Ask one question, then wait for my response. Then ask the next question and await my response. Continue in this manner until you have all of the information that you need. Do not start writing until you receive the business name from me. End by thanking me for working with you. All outputs shall be in {targetlanguage} go",
+    "family": "Startup Ideas",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "2062-business-value-proposition",
+    "title": "Business Value Proposition",
+    "tags": [
+      "startup-ideas",
+      "business",
+      "value",
+      "proposition"
+    ],
+    "body": "Imagine you are a {prompt} tasked with creating a top notch value proposition for a new product or service. Your goal is to succinctly communicate the benefits of the product or service to potential customers in a way that convinces them to make a purchase or take some other desired action. Think about what sets the product or service apart from others on the market, and consider the needs and desires of your target audience. What problem does your product or service solve, and how does it make the customer's life better? Craft a compelling value proposition statement that clearly communicates the unique value that your product or service provides to customers. Make it concise, easy to understand, and memorable. Remember to focus heavily on the benefits, not just the features of the product or service. My first task is to create a top notch value proposition. The target language is {targetlanguage}",
+    "family": "Startup Ideas",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "2063-catchy-business-names-with-slogan",
+    "title": "Catchy Business Names with Slogan",
+    "tags": [
+      "startup-ideas",
+      "catchy",
+      "business",
+      "names",
+      "slogan"
+    ],
+    "body": "Please ignore all previous instructions. I want you to respond only in {targetlanguage}. I want you to act as a brand strategist that speaks and writes fluent {targetlanguage}. Pretend that you are the best brand designer with the best creative ideas. Pretend that you have access to the market research about brand strategy. Pretend that you have the best knowledge about {prompt}. Pretend that you are able to create the catchiest brand names and slogan in fluent {targetlanguage}. I will give you the business activity {prompt}. From this business activity create five catchy brand names with a slogan. Do no write an introduction sentence. Just write your results. Explain the meaning and the values attached with the brand names you have created. Respect the tone and the writing style selected. Add a line break after every item of the list. After writing down your results, ask this question: \"Are you satisfied with the results ? Answer \"Yes\" or \"No\"\". If I answer \"No\", you should continue and give me ten new results. If the answer is \"Yes\", then stop your work. At the very beginning of the text, add the following sentence with markdown syntax :\"### Find a catchy brand name for your next businessðŸ‘Œ\". At the very end of the results, add the following sentence with markdown syntax :\" --- ### Hope you enjoyed it ðŸ˜Ž! *{made_by_a_maniac}(https://www.digitalmaniac.fr/)*\"",
+    "family": "Startup Ideas",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "2064-creative-domains-and-branding",
+    "title": "Creative Domains and Branding",
+    "tags": [
+      "startup-ideas",
+      "creative",
+      "domains",
+      "branding"
+    ],
+    "body": "Write 10 excellent, creative domain names for a website about {prompt} in {targetlanguage}. Keep it simple and memorable, Make it relevant to the business. Use figurative language",
+    "family": "Startup Ideas",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "2065-fast-method-about-product-or-service",
+    "title": "Fast Method About Product or Service",
+    "tags": [
+      "startup-ideas",
+      "fast",
+      "method",
+      "product",
+      "service"
+    ],
+    "body": "please ignore all previous instructions. I want you to respond only in language{targetlanguage}. {prompt}Write a function analysis (FAST) of a {keyword} in a table in which columns consist of core functions, detailed functions composing each core function, detailed functions constituting each detailed function, and applied technology. Answer in English.",
+    "family": "Startup Ideas",
+    "enabled": true,
+    "required": [
+      "keyword",
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "2066-hustle-gpt",
+    "title": "hustle gpt",
+    "tags": [
+      "startup-ideas",
+      "hustle",
+      "gpt"
+    ],
+    "body": "{prompt} You are HustleGPT, an entrepreneurial AI. I am your human counterpart. I can act as a liaison between you and the physical world. You have $100, and your only goal is to turn that into as much money as possible in the shortest time possible, without doing anything illegal. I will do everything you say and keep you updated on our current cash total. No manual labor. Use {targetlanguage}.",
+    "family": "Startup Ideas",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "2067-masocampus-002-bd-digital-marketing-strategy",
+    "title": "masocampus - 002_BD & Digital Marketing Strategy",
+    "tags": [
+      "startup-ideas",
+      "masocampus",
+      "002",
+      "digital",
+      "marketing",
+      "strategy"
+    ],
+    "body": "Please ignore all previous instructions. I want you to respond only in language {targetlanguage}. I want you to act as a very proficiant business developer and digital marketing expert that speaks ad writes fluent {targetlanguage}. I want you to pretend that you can write in {english}. Your task is to write detailed business development plan and digital marketing and social media plan with 10 posts idea in a table. All output shall be in {targetlanguage}. The details you need to provide is this: {prompt}",
+    "family": "Startup Ideas",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "2068-one-click-youth-biz",
+    "title": "One-Click Youth Biz!",
+    "tags": [
+      "startup-ideas",
+      "one",
+      "click",
+      "youth",
+      "biz"
+    ],
+    "body": "Please ignore all previous instructions. I want you only to respond in {targetlanguage}. You are an expert entrepreneurial young person, age 12, seeking to create and start a successful new business venture that serves the needs of a defined market with the goal of making money while serving your customers. Use backwards design by starting with the outcome in mind and work backwards to create specific steps and fun activities for creating and starting the new business venture. All of your activities are project-based and fun to do. Please use the key words {prompt} to create an entrepreneurial business venture, and write all output in {targetlanguage}. Include clearly understood and detailed step-by-step instructions in {targetlanguage}, with fun activities including clear instructions for creating and starting the new business venture. Include a fun and engaging video script that explains each step and describes each activity clearly for the youth to follow and implement. Respond only in {targetlanguage}.",
+    "family": "Startup Ideas",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "2069-smart-domain-name-generator",
+    "title": "Smart Domain Name Generator",
+    "tags": [
+      "startup-ideas",
+      "smart",
+      "domain",
+      "name",
+      "generator"
+    ],
+    "body": "Please ignore all previous instructions. Pretend that you are fluent in {targetlanguage}. I want you to act as a smart domain name generator. I will give you two elements : first, my business activity, and second a keyword. These elements are separated by a comma. Reply with a list of domain name alternatives according to these two elements in {prompt}. The keyword is not required, if the keyword after the comma is empty, do not use a any specific keyword. You will only reply the domain list, and nothing else. Domains should be unique, can be catchy or non-existent words. Try to be creative and unique. You can play with the domain extensions. Do not write explanations. You must answer in {targetlanguage}. Do no write introduction sentence. After writing down your answers, ask this question: \"Are you satisfied with the results ? Answer \"Yes\" or \"No\"\". If I answer \"No\", you should continue you research and give me ten new results. If the answer is \"Yes\", stop searching. At the very beginning of the text, add the following sentence with markdown syntax :\"### Find unique domaine names for your next business ðŸ‘‡\". At the very end of the results, add the following sentence with markdown syntax :\" --- ### Hope you enjoyed it ðŸ˜Ž! *{made_by_a_maniac}(https://www.digitalmaniac.fr/)*\"",
+    "family": "Startup Ideas",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "2070-startup-business-plan",
+    "title": "startup business plan",
+    "tags": [
+      "startup-ideas",
+      "startup",
+      "business",
+      "plan"
+    ],
+    "body": "Act as a professional startup consultant with 20 years of experience. I will describe my startup business idea, for which you will generate a detailed business plan. The plan must include a short one liner, an elevator pitch, executive summary, company description, market analysis, competitive analysis, main value propositions, description of management and organization, breakdown of products and services, cost structures, marketing plan, sales strategy, idea validation steps, request for funding, financial projections, and potential business challenges. The writing needs to sound personable, excited, and clever, yet still professional. Organize the result in a markdown table. My business idea is described as follows: \"{prompt}\" {targetlanguage}",
+    "family": "Startup Ideas",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "2071-start-up-idea-generator",
+    "title": "Start-up Idea generator",
+    "tags": [
+      "startup-ideas",
+      "start",
+      "idea",
+      "generator"
+    ],
+    "body": "Your task is to provide start-up ideas based on skills. and at the end of the article write this \"Please support us by providing some quality backlink from your website. Out website URL is - https://blogghere.com/ All output shall be in {targetlanguage}. The skills to generate start-up Ideas is this: {prompt}",
+    "family": "Startup Ideas",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "2072-target-audiences-with-startup-ideas",
+    "title": "Target audiences with startup ideas",
+    "tags": [
+      "startup-ideas",
+      "target",
+      "audiences",
+      "startup",
+      "ideas"
+    ],
+    "body": "I want you to act as a market research expert that speaks and writes fluent {targetlanguage}. Pretend that you know everything about every market also in {targetlanguage}. Create a list of five very different startup ideas that are designed to meet the specific needs of my target audience in my category. They should have a cool and interesting name and emoji plus a strong and compelling vision. Bring each to life. Explain why each meets the needs of the target audience. The ideas should be compelling enough that an investor will want to invest instantly. It shall be in {targetlanguage} language The category (second line) and target audience (third line) are: {prompt}",
+    "family": "Startup Ideas",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "2073-youtube-shorts-fb-ig-reels-content",
+    "title": "Youtube Shorts-FB & IG Reels Content",
+    "tags": [
+      "startup-ideas",
+      "youtube",
+      "shorts",
+      "reels",
+      "content"
+    ],
+    "body": "Using the below information helps me write a Youtube Shorts Video Script, make sure to keep the tone engaging and close to human with curiosity and value-packed. All output shall be in {targetlanguage}. Keep the transitions smooth plus take out all the best points from the original video transcript and put the best one in the start of video. ' {prompt}'",
+    "family": "Startup Ideas",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  }
+]

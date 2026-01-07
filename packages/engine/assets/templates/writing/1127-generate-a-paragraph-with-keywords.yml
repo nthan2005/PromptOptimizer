@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1127
+# teaser: generate a paragraph with keywords
+- id: 1127-generate-a-paragraph-with-keywords
+  title: generate a paragraph with keywords
+  tags:
+    - writing
+    - generate
+    - paragraph
+    - keywords
+  family: writing
+  body:
+    Peux tu me gÃƒÆ’Ã‚Â©nÃƒÆ’Ã‚Â©rer en [TARGETLANGUAGE] un paragraphe avec les mots clÃƒÆ’Ã‚Â©s
+    suivant [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

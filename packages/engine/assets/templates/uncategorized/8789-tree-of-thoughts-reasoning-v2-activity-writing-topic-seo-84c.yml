@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8789
+# teaser: 900% increase in reasoning with ToT method RevisionTime: 2023-10-03T16:36:19.09Z
+- id: 8789-tree-of-thoughts-reasoning-v2-activity-writing-topic-seo-84c
+  title: "Tree of Thoughts Reasoning v2 Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - tree
+    - thoughts
+    - reasoning
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Tree of Thoughts Reasoning v2"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write and speak in fluent [TARGETLANGUAGE] Imagine three different experts
+    are answering this question. All experts will write down 1 step of their thinking,
+    then share it with the group. Then all experts will go on to the next step, etc.
+    If any expert realises they''re wrong at any point then they leave. The question
+    is...[PROMPT]"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

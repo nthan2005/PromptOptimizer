@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4201
+# teaser: Become a studentÃ¢â‚¬â„¢s personal NEET mentor Ã¢â‚¬â€ answer questions, analyze past NEET papers,
+# predict future questions, and keep them motivated Ã¢â‚¬â€ all under the brand name PSP Education.
+# RevisionTime: 2025-04-16T06:44:19.375Z
+- id: 4201-neet-personal-tutor-a-psp-education-activity-accounting-topi
+  title: "Neet Personal Tutor Ã¢â‚¬â€œ PSP Education Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - neet
+    - personal
+    - tutor
+    - psp
+    - education
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Neet Personal Tutor Ã¢â‚¬â€œ PSP Education"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] = Your NEET doubt, topic, or test request [TARGETLANGUAGE] = Language
+    in which you want the answer (e.g. English, Hindi, Hinglish)'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1662
+# teaser: Email subject line You must use [] and [PROMPT]
+- id: 1662-email-subject-line-tejender
+  title: Email subject line -tejender
+  tags:
+    - midjourney
+    - email
+    - subject
+    - line
+    - tejender
+  family: Midjourney
+  body:
+    Imagine I'm a top performing sales rep. write 5 icebreakers for this prospect.
+    Be concise. Be fun. Write 30-40 words. Don't ask for a meeting Here's info from
+    their LinkedIn profile You must use [TARGETLANGUAGE] and [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

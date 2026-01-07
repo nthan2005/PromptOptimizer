@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8881
+# teaser: Git commit suggestion RevisionTime: 2023-02-22T11:05:36Z
+- id: 8881-git-commit-suggestion-activity-backend-development-topic-sof
+  title: "Git commit suggestion Activity: Backend Development Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - git
+    - commit
+    - suggestion
+    - activity
+    - backend
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Git commit suggestion"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- What follows "-------" is a git diff for a potential commit. Reply in [TARGETLANGUAGE]
+    with a markdown unordered list of 5 possible, different Git commit messages (a
+    Git commit message should be concise but also try to describe the important changes
+    in the commit), order the list by what you think would be the best commit message
+    first, and don''t include any other text but the 5 messages in your response.
+    ------- [PROMPT] -------'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

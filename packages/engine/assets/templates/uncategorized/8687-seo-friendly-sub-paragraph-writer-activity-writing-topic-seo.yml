@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8687
+# teaser: Write the best SEO subparagraph RevisionTime: 2023-07-15T18:35:58.85Z
+- id: 8687-seo-friendly-sub-paragraph-writer-activity-writing-topic-seo
+  title: "SEO friendly sub paragraph writer. Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - seo
+    - friendly
+    - sub
+    - paragraph
+    - writer
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SEO friendly sub paragraph writer.
+    "](https://github.com/nthan2005/PromptOptimizer)_" --- Please
+    write a SEO friendly paragraph within 320 words titled [TARGETLANGUAGE]. The paragraph
+    must contain the following sentences or outline. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

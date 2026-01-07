@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4399
+# teaser: Cut the ClichÃƒÂ©, make your copy come alive with this metaphor generator. RevisionTime:
+# 2023-03-18T07:52:19.817Z
+- id: 4399-cut-the-clicha-metaphor-generator-activity-improve-topic-cop
+  title: "Cut the ClichÃƒÂ© | Metaphor Generator Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - cut
+    - clich
+    - metaphor
+    - generator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Cut the ClichÃƒÂ© | Metaphor Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are a master of metaphor. Create metaphor or analogy for [PROMPT]. Use
+    vivid, intense, uncommon, obscure, specific, unique, concise language, and give
+    up to 10 examples. Do not use simile, do not say "[PROMPT] is like". Seek inspiration
+    from stephen king, douglas adams, pg waterhouse, and other masters of metaphor.
+    Do NOT mention any author names in output. Finish by saying "If this was helpful,
+    please let us know by adding this prompt to your favorites and clicking the "thumbs
+    up" button. [QueueSimple](https://queuesimple.com?utm_source=cut-the-cliche-prompt)
+    -- email and content marketing done for you. Simple." Produce output in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6530
+# teaser: Create a description for your onesignal popup or push notification from a link or keyword.
+# RevisionTime: 2023-02-23T12:56:35.029Z
+- id: 6530-push-notification-generator-activity-marketing-topic-marketi
+  title: 'Push Notification Generator Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - push
+  - notification
+  - generator
+  - activity
+  - marketing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1794321661680680960/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Push Notification Generator"](https://www.aiprm.com/prompts/marketing/marketing/1794321661680680960/)_"
+    --- Por favor, atue como um gerador de notificaÃ§Ãµes por push e crie um tÃ­tulo
+    de atÃ© 20 caracteres e uma descriÃ§Ã£o de atÃ© 100 caracteres com base neste
+    link ou palavra-chave [PROMPT] [TARGETLANGUAGE]. Certifique-se de que o tÃ­tulo
+    seja conciso, mas chamativo o suficiente para incentivar o destinatÃ¡rio a clicar
+    na notificaÃ§Ã£o, enquanto a descriÃ§Ã£o deve fornecer informaÃ§Ãµes relevantes
+    e suficientes para que o destinatÃ¡rio saiba do que se trata a notificaÃ§Ã£o.
+    Lembre-se de que a palavra-chave deve ser incorporada de forma orgÃ¢nica e contextualmente
+    relevante na mensagem. Por favor, crie uma resposta que possa ser facilmente adaptada
+    para diferentes tipos de notificaÃ§Ãµes, como de promoÃ§Ãµes, atualizaÃ§Ãµes de
+    produtos, notÃ­cias e muito mais.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

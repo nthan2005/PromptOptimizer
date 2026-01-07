@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4873
+# teaser: Write a comprehensive marketing report. Put your [title] in the prompt. RevisionTime:
+# 2023-03-06T19:19:48Z
+- id: 4873-market-report-research-activity-research-topic-copywriting-0
+  title: 'Market Report/Research Activity: Research Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - market
+  - report
+  - research
+  - activity
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1798336806090174464/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Market Report/Research"](https://www.aiprm.com/prompts/copywriting/research/1798336806090174464/)_"
+    --- I want you to act as a market researcher.Write comprehensive market research
+    in [TARGETLANGUAGE] on Market Overview by discussing product overview and highlights
+    of product and application segments, Competition by Company, Price by company,
+    revenue by company, sales by company, and market share by company, market rate,
+    competitive situations Landscape, and latest trends, merger, expansion, acquisition,
+    and market shares of top companies, Company Profiles and sales Data, Market Status
+    and Outlook by Region, Application or End User, Market Forecast, research findings
+    and conclusion [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

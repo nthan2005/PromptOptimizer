@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8462
+# teaser: Create FAQ Markup for your Question RevisionTime: 2023-02-19T15:35:19Z
+- id: 8462-faq-markup-generator-activity-writing-topic-seo-84c5d6a7b8e9
+  title: 'FAQ Markup Generator Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - faq
+  - markup
+  - generator
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1782363614355910656/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "FAQ Markup Generator"](https://www.aiprm.com/prompts/seo/writing/1782363614355910656/)_"
+    --- Please answer these questions: [PROMPT] And generate a FAQPage Schema markup
+    as output. Don''t explain what a FAQPage Schema Markup is. Dont say you can not
+    answer the question. Dont give the answer in text, only in the FAQPage Markup.
+    If you cannot answer a question, skip and go to the next.'
+  enabled: true
+  required:
+  - prompt

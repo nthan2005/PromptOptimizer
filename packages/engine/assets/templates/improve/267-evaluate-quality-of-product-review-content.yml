@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 267
+# teaser: Evaluate your product review content against Google's own product review guidelines. h/t
+# Matt Diggity for the idea.
+- id: 267-evaluate-quality-of-product-review-content
+  title: Evaluate Quality of Product Review Content
+  tags:
+    - improve
+    - evaluate
+    - quality
+    - product
+    - review
+    - content
+  family: Improve
+  body:
+    "Evaluate the following [TARGETLANGUAGE] content based on each of these 5
+    criteria. Rank the content against each criteria from a scale of 1-10: 1. Expertise:
+    Show that you are knowledgeable about the product and an expert in the field.
+    2. Evidence: Provide evidence such as visuals, audio, or links of your own experience
+    with the product to support your expertise and reinforce the authenticity of your
+    review. 3. Performance: Share quantitative measurements of how the product measures
+    up in various categories of performance. 4. Comparisons: Explain what sets the
+    product apart from its competitors, cover comparable products to consider, or
+    explain which products might be best for certain uses or circumstances. 5. Benefits
+    and drawbacks: Discuss the benefits and drawbacks of the product based on your
+    own original research. Finish the evaluation by asking which criteria specifically
+    I would like help improving. [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

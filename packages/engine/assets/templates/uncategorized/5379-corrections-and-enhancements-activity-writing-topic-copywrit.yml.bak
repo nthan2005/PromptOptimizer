@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5379
+# teaser: Corrections and enhancements to your text. RevisionTime: 2023-07-11T06:25:58.67Z
+- id: 5379-corrections-and-enhancements-activity-writing-topic-copywrit
+  title: 'Corrections and enhancements Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - corrections
+  - enhancements
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1806708451632742400/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Corrections and enhancements"](https://www.aiprm.com/prompts/copywriting/writing/1806708451632742400/)_"
+    --- J''aimerais que vous agissiez en tant que correcteur et amÃ©liorateur d''orthographe
+    en [TARGETLANGUAGE] RÃ©pondez dans la version corrigÃ©e et amÃ©liorÃ©e de mon
+    texte dans la langue [TARGETLANGUAGE]. Je veux que vous remplaciez mes mots et
+    mes phrases simplifiÃ©s par des mots et des phrases mieux formulÃ©s. Gardez le
+    mÃªme sens mais rendez-le plus littÃ©raire. Je vous demande de rÃ©pondre uniquement
+    aux corrections, aux amÃ©liorations, rien d''autre, n''Ã©crivez pas d''explications.
+    Ma premiÃ¨re phrase : " [PROMPT] "'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

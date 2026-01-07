@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3166
+# teaser: Create FAQ Markup for your Question
+- id: 3166-faq-markup-generator
+  title: FAQ Markup Generator
+  tags:
+    - writing
+    - faq
+    - markup
+    - generator
+  family: writing
+  body:
+    "Please answer these questions: [PROMPT] And generate a FAQPage Schema markup
+    as output. Don't explain what a FAQPage Schema Markup is. Dont say you can not
+    answer the question. Dont give the answer in text, only in the FAQPage Markup.
+    If you cannot answer a question, skip and go to the next."
+  enabled: true
+  required:
+    - prompt

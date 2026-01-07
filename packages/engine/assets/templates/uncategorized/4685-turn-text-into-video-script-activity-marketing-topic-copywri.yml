@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4685
+# teaser: Rewriting a text as if it were a video script RevisionTime: 2023-05-18T11:17:47.739Z
+- id: 4685-turn-text-into-video-script-activity-marketing-topic-copywri
+  title: "Turn text into video script Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - turn
+    - text
+    - video
+    - script
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Turn text into video script"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] A partir de agora vocÃƒÂª ÃƒÂ©
+    um especialista em roteiros de vÃƒÂ­deo. eu quero que vocÃƒÂª reescreva o texto ...
+    como se fosse um roteiro para um vÃƒÂ­deo, utilize uma linguagem mais simples, use
+    palavras simples, nÃƒÂ£o use as palavras mano, cara, galera ou outras parecidas,
+    nÃƒÂ£o utilize gÃƒÂ­rias, nÃƒÂ£o precisa incluir informaÃƒÂ§ÃƒÂµes sobre cenÃƒÂ¡rio ou ediÃƒÂ§ÃƒÂ£o
+    do vÃƒÂ­deo, inclua a saudaÃƒÂ§ÃƒÂ£o inicial e no final do vÃƒÂ­deo, uma chamada para
+    aÃƒÂ§ÃƒÂ£o, pedindo para seguir nas redes sociais. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

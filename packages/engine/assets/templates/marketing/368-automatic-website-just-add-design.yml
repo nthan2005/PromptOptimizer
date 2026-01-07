@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 368
+# teaser: Create an incredible website with this tailored framework. No agency needed.
+- id: 368-automatic-website-just-add-design
+  title: "Automatic Website: Just add design"
+  tags:
+    - marketing
+    - automatic
+    - website
+    - just
+    - add
+    - design
+  family: marketing
+  body:
+    "To help us create a website structure and copy framework based on the StoryBrand
+    framework, please respond to each prompt below in fluent [TARGETLANGUAGE]: - [PROMPT]
+    With this information, we will generate a website structure, copy framework, and
+    a table of meta descriptions + Meta titles aligned with the StoryBrand principles.
+    Please explain your rationale for each page at the end in terms of how your response
+    relates to StoryBrand principles."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

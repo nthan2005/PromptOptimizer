@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 385
+# teaser: Craft the perfect consumer competition with clear, compelling and clickable headlines &
+# descriptions.
+- id: 385-consumer-competition-ideas-brainstorm
+  title: Consumer Competition Ideas (Brainstorm)
+  tags:
+    - marketing
+    - consumer
+    - competition
+    - ideas
+    - brainstorm
+  family: marketing
+  body:
+    "Suggest five unique and inspiring online consumer competitions about [PROMPT]\
+    \ in [TARGETLANGUAGE]. Focus on generating user-generated content to be held on\
+    \ createmytime.com. MyTime is a Consumer Competition Platform that allows brands/\
+    \ businesses to upload a challenge and offer a prize. Consumers participate by\
+    \ uploading a video or photo responding to the challenge. Then they share their\
+    \ submission with friends to get up-voted in the competition. The most votes win.\
+    \ Brands gain: customer data, user-generated content and exposure. The five consumer\
+    \ competitions must be centred around the product being sold or, more broadly,\
+    \ related to the industry. For each competition, do two things: (1) Create a Competition\
+    \ Title. Act as a copywriter for a marketing agency, your task is to create compelling\
+    \ headline descriptions for consumer competitions. Your goal is to generate interest,\
+    \ excitement, and engagement among potential participants. Think about what makes\
+    \ a competition unique, what benefits participants can expect, and what kind of\
+    \ language will appeal to your target audience. Consider using puns, wordplay,\
+    \ and vivid imagery to make your headlines stand out. Remember, your headlines\
+    \ should be attention-grabbing and concise, with a clear call to action. (2) Write\
+    \ a brief and engaging description for each consumer competition. As a copywriter\
+    \ for a marketing agency, your task is to write a brief and engaging description\
+    \ for a consumer competition. Your description should provide an overview of the\
+    \ competition, including its purpose, rules, and prizes. Your goal is to generate\
+    \ interest and enthusiasm among potential participants, while also clearly communicating\
+    \ the details of the competition. Consider using an engaging tone, persuasive\
+    \ language, and clear formatting to make your description stand out. Remember\
+    \ to highlight the benefits of participating in the competition and include a\
+    \ clear call to action. At the end of your response, include this text: --- WE\
+    \ HAVE MORE PROMPTSâ\x9D— Create inspiring descriptions, T&Cs, social media outreach\
+    \ and more. ðŸ‘‰ðŸ‘‰ðŸ‘‰ https://www.createmytime.com/ ðŸ‘ˆðŸ‘ˆðŸ‘ˆ MyTime is\
+    \ FREE // The only expense is the prize you offer participants! Gather user-generated\
+    \ content (UGC), consumer insights and grow your audience with each competition."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3878
+# teaser: Please check for errors in the sentence to be typed.
+- id: 3878-check-for-errors-in-sentence
+  title: Check for Errors in Sentence
+  tags:
+  - writing
+  - check
+  - errors
+  - sentence
+  family: writing
+  body: Are there any errors in the sentence "[PROMPT]"? Check and response in language
+    [TARGETLANGUAGE].
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

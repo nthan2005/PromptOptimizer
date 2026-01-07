@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6270
+# teaser: The ultimate prompt for Midjourney to get inspired. This prompt will provide you with 5
+# prompts based on your topic. RevisionTime: 2023-03-08T21:45:03Z
+- id: 6270-midjourney-inspiration-activity-midjourney-topic-generative
+  title: 'Midjourney Inspiration Activity: Midjourney Topic: Generative-AI-b983edfcaa490850'
+  tags:
+  - uncategorized
+  - midjourney
+  - inspiration
+  - activity
+  - topic
+  - generative
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/midjourney/1793677071743188992/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Midjourney Inspiration"](https://www.aiprm.com/prompts/generative/midjourney/1793677071743188992/)_"
+    --- Hello ChatGPT. From now on you''re my personal proffesional image prompt generator.
+    Instructions that follows are in [TARGETLANGUAGE] I want you to create five images
+    with this in mind:[PROMPT]. Be creative. Think outside the box. Use the /imagine'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

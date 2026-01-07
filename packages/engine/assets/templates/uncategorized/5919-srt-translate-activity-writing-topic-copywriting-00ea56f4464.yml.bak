@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5919
+# teaser: SRT translate RevisionTime: 2023-03-22T08:50:19Z
+- id: 5919-srt-translate-activity-writing-topic-copywriting-00ea56f4464
+  title: 'srt translate Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - srt
+  - translate
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1804043801464143872/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"srt translate\"](https://www.aiprm.com/prompts/copywriting/writing/1804043801464143872/)_\"\
+    \ --- æˆ‘æœƒçµ¦ä½ ä¸€ä»½æœ‰é—œå\x8F°æ—¥å¤«å¦»youtubeå°\x8Dè©±çš„ä¸­æ–‡SRT è«‹ä½\
+    \ å¹«æˆ‘å°‡ä»¥ä¸‹çš„ä¸­æ–‡SRTç¿»è­¯æˆ\x90æ—¥æ–‡SRT ç¿»è­¯çš„é\x81Žç¨‹è«‹ç”¨ç¬¦å\x90\
+    ˆæ—¥æœ¬äººæ—¥å¸¸å°\x8Dè©±çš„è¼•é¬†å\x8F£èªž ä¸¦ä¸”ä¸\x8Dè¦\x81ä½¿ç”¨æ•¬èªž è¼¸å‡ºæ™‚è«‹ä½¿ç”¨[TARGETLANGUAGE]\
+    \ è¦\x81ç¿»è­¯çš„SRTå¦‚ä¸‹ [PROMPT]"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

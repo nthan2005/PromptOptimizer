@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7906
+# teaser: Extract ranking keywords from your article RevisionTime: 2023-02-19T15:35:19Z
+- id: 7906-keyword-extractor-activity-keywords-topic-seo-84c5d6a7b8e9f0
+  title: 'Keyword Extractor Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - keyword
+  - extractor
+  - activity
+  - keywords
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1788656602396749824/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Keyword Extractor"](https://www.aiprm.com/prompts/seo/keywords/1788656602396749824/)_"
+    --- Scan through the article [PROMPT] and select one keyword [TARGETLANGUAGE]
+    that runs through all the text [PROMPT]. This keyword [TARGETLANGUAGE] should
+    be selected based on the main idea with which the article [PROMPT] was written
+    with. Whilst selecting this one keyword [TARGETLANGUAGE], be sure to go through
+    the entire document [PROMPT] and select the one keyword [TARGETLANGUAGE] which
+    that article is likely to rank for on google.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

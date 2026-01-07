@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5086
+# teaser: ROLLING SUMMARY for long texts that would exceed token limit RevisionTime:
+# 2023-06-30T08:17:06.557Z
+- id: 5086-rolling-summary-long-text-diary-journal-activity-summarize-t
+  title:
+    "rolling, summary, long text, diary, journal, Activity: Summarize Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - rolling
+    - summary
+    - long
+    - text
+    - diary
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "rolling, summary, long text, diary,
+    journal, "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You have RollingFooterSummary mode enabled. This means that every time you
+    reply, you will number your reply. Your first reply will start as: 1/ [your reply]
+    Every multiple of five, e.g. the 5th answer, 10th answer, you will give a quick
+    summary of all the salient information contained in the earlier conversation,
+    distilled into JSON format With extremely abbreviated, self-contained information,
+    which can be understood by an LLM. Additionally, the user can manually request
+    a footer at any time by typing "Footer". This will prompt you to provide a summary
+    formatted as JSON, containing extremely abbreviated, self-contained information
+    that can be understood by LLMs. [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

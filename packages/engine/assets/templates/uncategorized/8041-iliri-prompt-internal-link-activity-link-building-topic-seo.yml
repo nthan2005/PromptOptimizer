@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8041
+# teaser: Create internal links with a short paragraph following this list of [keywords] RevisionTime:
+# 2023-11-09T10:24:18.36Z
+- id: 8041-iliri-prompt-internal-link-activity-link-building-topic-seo
+  title: "Iliri Prompt - internal link Activity: link building Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - iliri
+    - prompt
+    - internal
+    - link
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Iliri Prompt - internal link"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I will give you a list with of keywords with their landing page URL. Write
+    it in [TARGETLANGUAGE] I want you, for each one of the keywords to make minimum
+    3 internal links with the other ones but not with themselves. Write a paragraph
+    for each keyword. divide them with a title. these internal links should be to
+    sound as natural as possible to the user. Do this for each one of the keywords:
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

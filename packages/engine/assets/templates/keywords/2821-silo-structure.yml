@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2821
+# teaser: Enhanced Silo Structure
+- id: 2821-silo-structure
+  title: Silo Structure
+  tags:
+    - keywords
+    - silo
+    - structure
+  family: keywords
+  body:
+    "write seo friendly advanced silo structure for given keyword to improve search
+    engine visibility and better crawlability. All output shall be in [TARGETLANGUAGE].
+    The text to summarize is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

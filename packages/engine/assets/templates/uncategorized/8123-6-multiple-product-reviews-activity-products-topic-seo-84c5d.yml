@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8123
+# teaser: Make six unique product review from 1 [Keyword} RevisionTime: 2023-07-17T10:32:50.196Z
+- id: 8123-6-multiple-product-reviews-activity-products-topic-seo-84c5d
+  title: "6 Multiple Product Reviews Activity: Products Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - multiple
+    - product
+    - reviews
+    - activity
+    - products
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "6 Multiple Product Reviews"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- My first task is to generate human-like product reviews for B2B products in
+    just two lines, it must be six reviews for each product and unique from other.
+    Each review should appreciate suppliers or manufacturers, and the words "purchase,"
+    "order," "transaction," and "buy" should not be used. The [TARGETLANGUAGE] is
+    [ENGLISH].[PROMPT]"'
+  enabled: true
+  required:
+    - english
+    - prompt
+    - targetlanguage

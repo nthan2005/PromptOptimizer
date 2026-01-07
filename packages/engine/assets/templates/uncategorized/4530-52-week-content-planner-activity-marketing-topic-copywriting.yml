@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4530
+# teaser: Create a list of 52 blog post titles RevisionTime: 2023-12-01T10:00:37.333Z
+- id: 4530-52-week-content-planner-activity-marketing-topic-copywriting
+  title: "52 Week Content planner Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - week
+    - content
+    - planner
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "52 Week Content planner"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You will act as a social media manager. I will give you content or a keyword.
+    You will generate a list of 52 unique and creative blog post ideas in [TARGETLANGUAGE]
+    Each idea must be unique and do not repeat. Each article should educate and help
+    the target audience. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

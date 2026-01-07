@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8467
+# teaser: Headline optimization RevisionTime: 2023-04-19T08:19:17.668Z
+- id: 8467-frontload-hl-keyword-activity-writing-topic-seo-84c5d6a7b8e9
+  title: "Frontload HL Keyword Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - frontload
+    - keyword
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Frontload HL Keyword"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please optimize the headline given and keep it under 75 characters with all
+    output in [TARGETLANGUAGE]. The headline to summarize is this: [PROMPT] The keyword
+    to frontload is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

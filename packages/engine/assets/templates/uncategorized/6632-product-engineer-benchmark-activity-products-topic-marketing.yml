@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6632
+# teaser: Consult and understand the products that compete with your company for brazilian region.
+# RevisionTime: 2024-04-25T20:22:02.067Z
+- id: 6632-product-engineer-benchmark-activity-products-topic-marketing
+  title: "Product engineer benchmark Activity: Products Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - product
+    - engineer
+    - benchmark
+    - activity
+    - products
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Product engineer benchmark "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] Eu quero que vocÃƒÂª apresente,
+    para o mercado brasileiro as 15 marcas mais relevantes (caso existam menos de
+    15, mostrar apenas as principais) e os 3 produtos dessa marca de maior relevÃƒÂ¢ncia.
+    Me apresente o resultado em uma tabela. Depois, escreva um texto sobre as principais
+    marcas que competem no mercado brasileiro deste produto. AlÃƒÂ©m disso, dÃƒÂª dicas
+    de como testar esses produtos de forma a conseguir comparar tecnicamente seus
+    desempenhos. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6865
+# teaser: Comment on a LinkedIn-Post in german RevisionTime: 2024-10-03T09:57:46.499Z
+- id: 6865-linkedin-comment-in-german-activity-social-media-topic-marke
+  title: 'LinkedIn comment in german Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - linkedin
+  - comment
+  - german
+  - activity
+  - social
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1813469115147616256/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "LinkedIn comment in german"](https://www.aiprm.com/prompts/marketing/social-media/1813469115147616256/)_"
+    --- Your task is to comment on a LinkedIn-Post in 3 sentences and with 2 hashtags.
+    Use a sympathetic and friendly tone with a direct approach. All output shall be
+    in [TARGETLANGUAGE]. Please do not use a salutation at the beginnung of your comment.
+    Following the text to comment: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

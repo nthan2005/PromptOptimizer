@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7569
+# teaser: Use this prompt to summarize documents online RevisionTime: 2023-08-24T00:32:58.173Z
+- id: 7569-article-summarizer-activity-summarize-topic-productivity-b5a
+  title: 'Article Summarizer Activity: Summarize Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - article
+  - summarizer
+  - activity
+  - summarize
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1814021836799995904/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Article Summarizer"](https://www.aiprm.com/prompts/productivity/summarize/1814021836799995904/)_"
+    --- Your task is to summarize the document given with full clarity. Use judgment
+    to write a fitting length summary to the amount of information given. All output
+    shall be in [TARGETLANGUAGE]. The text to summarize is this: Text from: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

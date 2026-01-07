@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8967
+# teaser: Produce a regular expression statement, furnish Python code, and demonstrate the output of
+# the Python code to validate the statement. RevisionTime: 2023-03-11T12:35:09Z
+- id: 8967-generate-and-test-regular-expressions-activity-text-editor-t
+  title: "Generate and Test Regular Expressions Activity: Text Editor Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - generate
+    - test
+    - regular
+    - expressions
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate and Test Regular Expressions"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Generate a regex statement, generate test code in python [TARGETLANGUAGE],
+    and proved the output for that code for the given text: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

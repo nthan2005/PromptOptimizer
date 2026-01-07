@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5076
+# teaser: Extract concepts from articles. RevisionTime: 2023-12-13T19:49:04.17Z
+- id: 5076-pdf-concept-extraction-activity-summarize-topic-copywriting
+  title: "PDF Concept Extraction Activity: Summarize Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - pdf
+    - concept
+    - extraction
+    - activity
+    - summarize
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "PDF Concept Extraction"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Extraia deste documento o(a)(s) [PROMPT] [VARIABLE1]. O seu objetivo ÃƒÂ© incluir
+    este texto em uma dissertaÃƒÂ§ÃƒÂ£o de mestrado com o tema: "[VARIABLE2]". Primeiramente,
+    vocÃƒÂª irÃƒÂ¡ ler o documento inteiro, fazendo notas sobre as pricipais passagens
+    importantes que que se estabeleÃƒÂ§a o objetivo de sua tarefa. Na sequÃƒÂªncia, vocÃƒÂª
+    irÃƒÂ¡ executar a tarefa comandada. NÃƒÂ£o copie o texto original, parafrasei-o de
+    modo que a redaÃƒÂ§ÃƒÂ£o seja absolutamente distinta do texto original, no entanto,
+    mantendo o seu sentido. Escreva em parenteses em cada passagem do texto gerado
+    o nÃƒÂºmero da(s) pÃƒÂ¡gina(s) de onde consta a referÃƒÂªncia do que estÃƒÂ¡ sendo escrito.
+    Please, write it in [TARGETLANGUAGE] [VARIABLE1:Extraia deste documento o(a)(s)
+    ....] [VARIABLE2:O seu objetivo ÃƒÂ© incluir este texto em uma dissertaÃƒÂ§ÃƒÂ£o de
+    mestrado com o tema...:]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2

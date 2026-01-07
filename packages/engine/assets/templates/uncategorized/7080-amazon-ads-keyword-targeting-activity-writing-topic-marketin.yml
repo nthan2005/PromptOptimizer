@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7080
+# teaser: Quickly create an Amazon Ad Keyword Targeting list for Amazon Advertising and quickly make
+# ads for your Amazon products. RevisionTime: 2023-06-24T01:03:54.582Z
+- id: 7080-amazon-ads-keyword-targeting-activity-writing-topic-marketin
+  title: "Amazon Ads Keyword Targeting Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - amazon
+    - ads
+    - keyword
+    - targeting
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt " Amazon Ads Keyword Targeting"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to create a comprehensive list of 35-60 short-tail keywords that
+    customers would likely type into the Amazon search bar to find this item. All
+    output should be in [TARGETLANGUAGE] The keywords to extrapolate come from: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

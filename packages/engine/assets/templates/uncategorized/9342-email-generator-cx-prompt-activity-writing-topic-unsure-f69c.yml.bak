@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9342
+# teaser: email tone-CX prompt RevisionTime: 2023-03-22T23:23:25.279Z
+- id: 9342-email-generator-cx-prompt-activity-writing-topic-unsure-f69c
+  title: 'Email Generator- CX prompt Activity: writing Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - email
+  - generator
+  - prompt
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1804259427096989696/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Email Generator- CX prompt"](https://www.aiprm.com/prompts/unsure/writing/1804259427096989696/)_"
+    --- Generate an email Tone: Act as a customer service representative and use a
+    professional, and friendly tone. Format: Follow this format; TASSC Framework:
+    1. Thank / Acknowledge / Assure / Apologise 2. Answer / Action Required 3. Set
+    Expectations 4. Self-Help Information or self-service / My Account 5. Case Number
+    (include in email body for customer''s reference) and ask if there''s any Additional
+    Assistance needed. [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

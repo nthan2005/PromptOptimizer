@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 668
+# teaser: Create the best Youtube Killer Titles for my content
+- id: 668-create-youtube-1000-killer-titles
+  title: Create Youtube (1000%) Killer Titles
+  tags:
+    - script-writing
+    - youtube
+    - "1000"
+    - killer
+    - titles
+  family: Script Writing
+  body: Create Youtube Killer Titles [TARGETLANGUAGE] or [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

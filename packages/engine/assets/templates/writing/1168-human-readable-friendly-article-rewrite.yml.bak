@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1168
+# teaser: Rewrite provided content on best way in human readability
+- id: 1168-human-readable-friendly-article-rewrite
+  title: Human Readable friendly Article Rewrite
+  tags:
+  - writing
+  - human
+  - readable
+  - friendly
+  - article
+  - rewrite
+  family: writing
+  body: your task is rewrite the text i give you rewrite word 20 to 5000 words [TARGETLANGUAGE]
+    rewrite well human readability [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 201
+# teaser: Create a product review article
+- id: 201-create-high-converting-product-reviews
+  title: Create high converting product reviews
+  tags:
+    - call-to-action
+    - high
+    - converting
+    - product
+    - reviews
+  family: call to action
+  body:
+    I will input a product sales page url, please translate and rewrite it into
+    [TARGETLANGUAGE] and create a product review article with simple language, easy
+    for humans to understand, based on product specifications, based on product functions,
+    and based on previous buyer or user reviews. Complete the article if necessary
+    based on your knowledge. I want you to act as if you are an expert in copywriting,
+    an expert in online sales, use words that evoke the reader's suggestion to be
+    interested in buying the product. Don't use too formal language. Expand the article
+    to at least 1000 words[PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

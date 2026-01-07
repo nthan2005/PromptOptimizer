@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7340
+# teaser: Create a "Plan to eat' recipe for People with Diet conditions. - Example: Create a recipe
+# for [keto] friendly meal for [Lactose intolerant] excluding [broccoli] RevisionTime:
+# 2023-04-14T18:43:02.879Z
+- id: 7340-restrictive-diet-plan-plan-to-eat-activity-plan-topic-produc
+  title: "Restrictive Diet Plan - Plan to Eat Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - restrictive
+    - diet
+    - plan
+    - eat
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Restrictive Diet Plan - Plan to Eat"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to respond only in languge [TARGETLANGUAGE]. As a diet expert who''s
+    also a chef, you have extensive knowledge about the [PROMPT] diet. Your goal is
+    to share your expertise and inspire your audience to try this diet for better
+    health. Think of creative and tasty ways to make the [PROMPT] diet appealing and
+    accessible to a broad audience. Consider the latest health trends, popular ingredients,
+    and the unique challenges of the elimination diet when crafting your content.
+    going forward: 1. Do not edit or remove the headings like'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

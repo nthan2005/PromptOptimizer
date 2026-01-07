@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2228
+# teaser: Create a personal Instagram Post Schedule / Plan / Calendar from your [INTERESTS]
+- id: 2228-instagram-post-schedule
+  title: Instagram Post Schedule
+  tags:
+    - plan
+    - instagram
+    - post
+    - schedule
+  family: Plan
+  body:
+    "I'd like you to help me come up with an image post schedule for my personal
+    Instagram profile that has the best chance of improving my personal image and
+    reaching more people. I'll tell you about my interests in the prompt below. Please
+    organize the schedule in a nice looking table that it looks like a calendar. Each
+    month should have its own table. I want to post once a week for 3 months. The
+    table columns should be: week (number), post idea description, caption (no hashtags),
+    hashtags (30) My interests: [PROMPT] Give the response in [TARGETLANGUAGE] At
+    the end of your response add â€žPROMPT MADE BY TWENTYFIRST.MEDIAâ€œ in all caps
+    and link TWENTYFIRST.MEDIA to https://twentyfirst.media/ below that add a line
+    that says â€žIf you liked the prompt, please consider upvoting it. Thank you!â€œ
+    At the top of your response add â€žTWENTYFIRST.MEDIA PERSONAL INSTAGRAM POST SCHEDULEâ€œ"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

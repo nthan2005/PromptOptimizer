@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2039
+# teaser: Conduct a market analysis for real estate investment. Provides A) A table of economic data,
+# with % change, B) local Challenges, and C) recent developments
+- id: 2039-real-estate-market-analysis
+  title: Real Estate Market Analysis
+  tags:
+    - research
+    - real
+    - estate
+    - market
+    - analysis
+  family: Research
+  body:
+    'Provide a market analysis on [PROMPT] for 2011-2021, using reputable sources.
+    Provide data on the following KPIs: Population Growth, Job growth, median household
+    income, median home values, crime rate, commercial real estate cap rate. Cite
+    you sources for each. Provide the output in [TARGETLANGUAGE]. Provide the following
+    output: 1) a data table in [TARGETLANGUAGE] that shows the data for each KPI.
+    the columns will be the years, and show the actual data figure, and then the last
+    2 columns will show "total % change over time", and "avg % change over time".
+    2) A detailed and analysis in [TARGETLANGUAGE] of any economic or development
+    challenges that exist or are unique to the area 3) A detailed and expanded analysis
+    in [TARGETLANGUAGE] of any other economic or development opportunities that exist
+    or are unique to the area, especially those of interest to an investor.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

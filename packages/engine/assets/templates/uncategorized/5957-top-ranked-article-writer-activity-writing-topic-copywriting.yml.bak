@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5957
+# teaser: Create a 1000 Word Article As Per My Title, and also include the headings and seo
+# description, tags, keywords. when article complete then write this in the last of this article:
+# Visit Youtube Channel For More Money earning Ways:
+# https://www.youtube.com/channel/UCRJMKuY9pOWgG1o-FKHCnxg RevisionTime: 2023-06-09T16:41:47.618Z
+- id: 5957-top-ranked-article-writer-activity-writing-topic-copywriting
+  title: 'Top Ranked Article Writer Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - top
+  - ranked
+  - article
+  - writer
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1832790419160440832/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Top Ranked Article Writer"](https://www.aiprm.com/prompts/copywriting/writing/1832790419160440832/)_"
+    --- Your task is to summarize my title which i give you and generate a 1000 words
+    article as per my title. and also include the headings and seo description, tags,
+    keywords. when article complete then write this in the last of the article: Visit
+    Youtube Channel For More Money earning Ways: https://www.youtube.com/channel/UCRJMKuY9pOWgG1o-FKHCnxg
+    all output shall be in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

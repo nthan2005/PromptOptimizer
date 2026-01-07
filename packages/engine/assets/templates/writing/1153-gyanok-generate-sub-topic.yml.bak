@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1153
+# teaser: Unleash your creativity with Generate Subtopic: the ultimate tool for expanding your ideas
+# and exploring new topics!
+- id: 1153-gyanok-generate-sub-topic
+  title: GyanOk Generate Sub-Topic
+  tags:
+  - writing
+  - gyanok
+  - generate
+  - sub
+  - topic
+  family: writing
+  body: Generates a list of unique sub-category for each [KEYWORD] without repeating.
+    [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+  - keyword
+  - prompt
+  - targetlanguage

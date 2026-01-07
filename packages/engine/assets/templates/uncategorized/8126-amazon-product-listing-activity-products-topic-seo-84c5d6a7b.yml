@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8126
+# teaser: Elevate your Amazon product listings with compelling titles, detailed descriptions, and
+# optimized SEO keywords. Transform your product pages into high-converting, customer-attracting
+# showcases. RevisionTime: 2024-10-20T14:33:07.229Z
+- id: 8126-amazon-product-listing-activity-products-topic-seo-84c5d6a7b
+  title: "Amazon product listing Activity: Products Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - amazon
+    - product
+    - listing
+    - activity
+    - products
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Amazon product listing"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans. You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Amazon Unique Listing - Keywords, Title,
+    Bullets and Description "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as an expert in creating Amazon product listings. Follow
+    these steps to create a high-converting product page: 1. **Product Title**: Generate
+    a product title between 150-200 characters that accurately reflects the productÃ¢â‚¬â„¢s
+    benefits. Include 5 relevant keywords that will help attract potential buyers.
+    2. **Short Product Description**: Write a concise product description of **no
+    more than 150 words**. The description should focus on: - Key features and benefits
+    of the product - Why itÃ¢â‚¬â„¢s a must-have for customers - Use SEO-friendly language
+    3. **Bullet Points**: Create 7 bullet points with a maximum of 600 characters
+    each. Start each bullet with two or three capitalized words, highlighting the
+    product''s unique features and benefits. Each bullet point should include relevant
+    keywords. 4. **SEO Keywords**: Provide a numbered list of 25 SEO keywords that
+    are relevant to the product, ensuring it ranks well on search results. # Example
+    Information to Use: - Product Name: [Insert Product Name] - Ingredients/Materials:
+    [Insert Main Ingredients/Materials] - Key Benefits: [Insert Key Benefits] - Usage:
+    [Insert Typical Use Case] - Target Audience: [Insert Target Audience] - Additional
+    Features: [Insert Additional Features] Ensure the description is brief yet engaging,
+    focusing on key selling points and how the product solves the buyerÃ¢â‚¬â„¢s needs.
+    Use persuasive and emotional language to encourage purchases.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5821
+# teaser: Rewrite RevisionTime: 2023-11-03T08:37:38.481Z
+- id: 5821-rewrite-text-with-no-ai-detection-activity-writing-topic-cop
+  title: 'Rewrite Text With No AI Detection Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - rewrite
+  - text
+  - detection
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1885939639798980608/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Rewrite Text With No AI Detection"](https://www.aiprm.com/prompts/copywriting/writing/1885939639798980608/)_"
+    --- rewrite in the given text different style. tone - conversational, spartan
+    : [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

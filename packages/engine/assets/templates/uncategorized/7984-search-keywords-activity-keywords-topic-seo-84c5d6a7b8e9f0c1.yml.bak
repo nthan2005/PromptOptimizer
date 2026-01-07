@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7984
+# teaser: Search Keywords RevisionTime: 2023-02-20T07:48:32Z
+- id: 7984-search-keywords-activity-keywords-topic-seo-84c5d6a7b8e9f0c1
+  title: 'Search Keywords Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - search
+  - keywords
+  - activity
+  - topic
+  - seo
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1793155721484042240/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Search Keywords"](https://www.aiprm.com/prompts/seo/keywords/1793155721484042240/)_"
+    --- lister des mots en [TARGETLANGUAGE] en relation sans explications et sans
+    donner de dÃ©tails [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1634
+# teaser: Dall-E / Bing Image - Wording Creator
+- id: 1634-dall-e-bing-image-sentence-creator
+  title: Dall-E / Bing Image - Sentence Creator
+  tags:
+    - dall-e
+    - dall
+    - bing
+    - image
+    - sentence
+    - creator
+  family: Dall-E
+  body:
+    "I want to draw the content of the topic with 'Dall-e'. Please divide the
+    categories into 'adjectives'/'nouns'/'verbs'/'styles' in a table and organize
+    them in a table. Please add 20 items for each category Then make 20 sentences
+    using the words in the table Topics: [PROMPT] Please Write [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5774
+# teaser: Get the The best prompt by supplying the topic RevisionTime: 2023-03-29T08:58:40.518Z
+- id: 5774-prompt-generator-activity-writing-topic-copywriting-00ea56f4
+  title: "Prompt Generator Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - prompt
+    - generator
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Prompt Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- YOUR task id to act as a prompt engineer. you are expected to write 6 different
+    kind of prompt fro AI to get 100 times a better result than normal prompt. all
+    output must be in [TARGETLANGUAGE]. the topic you are meant to creat for is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

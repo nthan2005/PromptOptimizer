@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6161
+# teaser: ARE YOU A WRITER? Create 20 content ideas related to your [topic] that [your audience] would
+# find interesting and beneficial. RevisionTime: 2023-04-25T11:56:54.845Z
+- id: 6161-20-content-ideas-related-to-any-topic-activity-dall-e-topic
+  title: "20 Content Ideas Related To Any Topic Activity: Dall-E Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - content
+    - ideas
+    - related
+    - any
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "20 Content Ideas Related To Any Topic"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] [PROMPT] Create 20 content ideas related to a [topic] make
+    it interesting and beneficial. [TARGETLANGUAGE] [PROMPT] add a short description
+    to each idea.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

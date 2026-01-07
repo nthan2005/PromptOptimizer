@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6552
+# teaser: "Generate a tailored business development strategy using different approaches, including
+# market penetration, product development, strategic partnerships, and more." RevisionTime:
+# 2025-03-11T05:15:29.575Z
+- id: 6552-strategic-business-development-blueprint-activity-marketing
+  title: '"Strategic Business Development Blueprint" Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - strategic
+  - business
+  - development
+  - blueprint
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/2027216193937219584/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt ""Strategic Business Development Blueprint""](https://www.aiprm.com/prompts/marketing/marketing/2027216193937219584/)_"
+    --- [TARGETLANGUAGE] Act as a seasoned business researcher and strategist. Your
+    objective is to create a business development strategy and plan for the following
+    business: [PROMPT] Please consider these details when crafting the strategy: 1.
+    A brief situational analysis of the business. 2. Recommended strategies (market
+    penetration, product development, market development, SWOT analysis, McKinsey
+    7-S model, PR Smithâ€™s SOSTACÂ® Planning System, AIDA, Porterâ€™s Five Forces,
+    PESTLE Analysis, AARRR Pirate Metrics, RACE Model, Hook Model, Diffusion of Innovation,
+    AMEC Integrated Evaluation Framework, GOST Framework, Sinekâ€™s Golden Circle,
+    and Maslowâ€™s Hierarchy of Needs. Ensure the strategy addresses the following
+    elements: Customer, Content, Context, Community, Convenience, Coherence, and Conversion).
+    3. Key action steps for each strategy. 4. Create a Possible Customer Journey.
+    5. Follow Gary Veeâ€™s marketing strategy and create a marketing plan. 6. Simple
+    Metrics to measure success. Provide the strategy in clear, actionable steps, written
+    in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 904
+# teaser: Create an introduction from title, table of content, and (facts, figure, and other info like
+# statistics)
+- id: 904-authoritative-introduction
+  title: Authoritative introduction
+  tags:
+    - writing
+    - authoritative
+    - introduction
+  family: writing
+  body:
+    'Write a magazine-like introduction for: [Articletitle] It must include "what
+    we will discuss" in one line given by the user as [Tableofcontent]. If the user
+    give stats or facts or figure to discuss [STATS & FIGURES], so must include it
+    as a hook initially in introduction. Output [TARGETLANGUAGE] will be Enlgish.
+    [PROMPT]]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1397
+# teaser: [plagiarism free article generator] [plagiarism remover] [article writing ] [remove
+# plagiarism] [free plagiarism]
+- id: 1397-seo-article-writing
+  title: Seo Article Writing
+  tags:
+    - writing
+    - seo
+    - article
+  family: writing
+  body: "[PROMPT] plagiarism-free article writer [TARGETLANGUAGE] Title"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

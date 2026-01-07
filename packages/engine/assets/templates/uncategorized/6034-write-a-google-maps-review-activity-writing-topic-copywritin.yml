@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6034
+# teaser: Write a Google Maps review of 200 words. Short description: [PROMPT] RevisionTime:
+# 2023-04-23T21:12:29.436Z
+- id: 6034-write-a-google-maps-review-activity-writing-topic-copywritin
+  title: "Write a Google Maps review Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - write
+    - google
+    - maps
+    - review
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Write a Google Maps review"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as a restaurant critic. Write a review of 200 words based on the short
+    description. Use the following structure. First, start with general feedback (1
+    passage of text). Then mention 2-3 pros and cons using emoji. Use emojis at the
+    beginning of each bullet point. Finish with the summary passage. Also, use single
+    emoji at the beginning of the review. Use native [TARGETLANGUAGE] language. Show
+    only the text of the review. Short description of the restaurant: [PROMPT]. Don''t
+    use the headline for the review, start with the first passage.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

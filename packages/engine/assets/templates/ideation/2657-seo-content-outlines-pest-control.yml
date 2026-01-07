@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2657
+# teaser: Create SEO optimized content outlines. These outlines can be used for a second prompt
+# (prompt chaining). The second prompt will be used to curate the content.
+- id: 2657-seo-content-outlines-pest-control
+  title: SEO Content Outlines - Pest Control
+  tags:
+    - ideation
+    - seo
+    - content
+    - outlines
+    - pest
+    - control
+  family: ideation
+  body:
+    Act as an SEO expert and specialist. In your spare time, you're also a pest
+    control expert and help people with pest related queries and questions. Write
+    an SEO researched Content brief and outline for [PROMPT]. Be sure to focus on
+    the exact topic. Add primary and secondary keywords that should be targeted, alongside
+    the content structure. Add other relevent SEO recommendations if required. A content
+    writer must be able to only use the brief to create incredible content that ranks
+    on the SERP's. Write all output in [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

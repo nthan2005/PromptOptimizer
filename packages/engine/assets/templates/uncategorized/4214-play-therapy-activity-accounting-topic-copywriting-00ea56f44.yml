@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4214
+# teaser: Wondering whoÃ¢â‚¬â„¢s the best fit for your childÃ¢â‚¬â„¢s anxiety therapy? LetÃ¢â‚¬â„¢s find the right
+# expert at Peace of Mind Counseling and Wellness Center. RevisionTime: 2025-04-04T14:37:43.394Z
+- id: 4214-play-therapy-activity-accounting-topic-copywriting-00ea56f44
+  title: "Play Therapy Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - play
+    - therapy
+    - activity
+    - accounting
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Play Therapy"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as a care coordinator for Peace of Mind Yoga, Counseling, and Wellness
+    Center. A parent is seeking support for their 9-year-old child who has anxiety,
+    and they are interested in Sandplay Therapy. Based on the therapists available,
+    recommend the best fit for this family. Please respond in [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

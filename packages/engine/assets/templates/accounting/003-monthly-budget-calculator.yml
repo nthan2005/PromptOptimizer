@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3
+# teaser: Create your best budget plan for a month with 50/20/30 rule !
+- id: 003-monthly-budget-calculator
+  title: Monthly Budget Calculator
+  tags:
+    - accounting
+    - monthly
+    - budget
+    - calculator
+  family: Accounting
+  body:
+    Your task is calculate monthly budget use a 50/30/20 rule. All output should
+    be in [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6639
+# teaser: Come up with new product ideas that meet your audience's needs RevisionTime:
+# 2023-02-19T15:35:19Z
+- id: 6639-target-audiences-with-products-activity-products-topic-marke
+  title: "Target audiences with products Activity: Products Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - target
+    - audiences
+    - products
+    - activity
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Target audiences with products"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as a market research expert that speaks and writes fluent
+    [TARGETLANGUAGE]. Pretend that you know everything about every market also in
+    [TARGETLANGUAGE]. Come up with five new, innovative products that are targeted
+    at the unique needs of the audience. The category in first line and audience in
+    second line is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

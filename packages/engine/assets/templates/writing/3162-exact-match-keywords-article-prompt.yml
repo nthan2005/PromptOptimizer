@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3162
+# teaser: Meta Title Meta Description ---
+- id: 3162-exact-match-keywords-article-prompt
+  title: Exact Match Keywords Article Prompt
+  tags:
+    - writing
+    - exact
+    - match
+    - keywords
+    - article
+    - prompt
+  family: writing
+  body:
+    Write an article but first start with creating outlines of article and then
+    start creating article using outlines, also using exact keywords in article using
+    double quotations. Also generate Meta Title Under 60 Characters and meta description
+    under 160 Characters. Follow Seo guidelines to rank 1st on google serp, aslo do
+    some research on competitors on google serp. Also Write Title of article. [PROMPT]
+    [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

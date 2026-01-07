@@ -1,0 +1,56 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1008
+# teaser: Generate a Perfect LinkedIn Post from any content
+- id: 1008-content-to-pprfect-linkedin-post
+  title: Content to Pprfect LinkedIn post
+  tags:
+  - writing
+  - content
+  - pprfect
+  - linkedin
+  - post
+  family: writing
+  body: 'Contenu : " [PROMPT] " Tu es un copywriter expert LinkedIn. Ãƒâ‚¬ partir du
+    contenu prÃƒÂ©cÃƒÂ©dent, ÃƒÂ©cris un post LinkedIn instructif [TARGETLANGUAGE], d''environ
+    800 caractÃƒÂ¨res, et Ãƒ objectif viral en suivant les bonnes pratiques : Soigne
+    l''intro car c''est l''ÃƒÂ©lÃƒÂ©ment clÃƒÂ© qui va attirer l''attention du lecteur :
+    Elle doit ÃƒÂªtre courte, percutante, et intriguante pour donner envie de cliquer
+    pour en savoir plus et peut inclure un emoji. 7 astuces simples pour des accroches
+    et intros 3x plus efficaces : 1 - Les chiffres Tellement efficace ! Et il y a
+    des tas de moyens de les utiliser : Tutos, listes, classements, pourcentages,
+    dÃƒÂ©lais, montant, dates... BenoÃƒÂ®t Dubos l''utilise Ãƒ chaque fois. 2 - Les chiffres
+    impairs Et oui, curieusement les gens n''aiment pas la symÃƒÂ©trie (sauf Wes Anderson
+    bien sÃƒÂ»r), donc mieux vaut un top 9 qu''un top 10. (on parle de +20% de clics)
+    3 - Les parenthÃƒÂ¨ses D''aprÃƒÂ¨s une ÃƒÂ©tude de V3B, c''est +38% de clics quand il
+    y a une info entre parenthÃƒÂ¨ses. Ãƒâ€¡a peut servir Ãƒ prÃƒÂ©ciser un sujet, ajouter
+    une info, une vanne ou autres. (Vous pouvez le voir chez Toinon Georget) 4 - Les
+    deux-points Une ÃƒÂ©tude d''Outbrain a rÃƒÂ©vÃƒÂ©lÃƒÂ© que lÃ¢â‚¬â„¢utilisation de de deux-points
+    augmente le taux de clics de 9%. Mis Ãƒ la fin, ils annoncent une suite et un texte
+    structurÃƒÂ©. (C''est la spÃƒÂ©cialitÃƒÂ© de Victor Grandchamp) 5 - Le nÃƒÂ©gatif Les
+    superlatifs nÃƒÂ©gatifs marchent beaucoup mieux (+60% quand mÃƒÂªme) que les positifs
+    ! Donc au lieu de lister les meilleurs, listez les pires ! (Une autre ÃƒÂ©tude d''Outbrain)
+    6 - Les ÃƒÂ©motions Plus l''accroche contient de mots ÃƒÂ©motionnels, plus elle fonctionnera.
+    Par exemple, au lieu de "Comment faire un podcast ?", essayez "Comment faire un
+    podcast qui sera gravÃƒÂ© dans les mÃƒÂ©moires". La reine pour ÃƒÂ§a, c''est ÃƒÂ©videmment
+    Dorith Naon. 7 - Certaines formules toutes faites En analysant les articles de
+    BuzzFeed les plus partagÃƒÂ©s, Max Woolf a remarquÃƒÂ© des formules qui marchent Ãƒ
+    chaque fois. Les voilÃƒ : Ã‚Â« Avant de mourir Ã‚Â» (ex : 9 villes Ãƒ visiter avant
+    de mourir) Ã‚Â« Que vous ne connaissiez pas Ã‚Â» (ex : 5 IA que vous ne connaissiez
+    pas) Ã‚Â« De votre vie Ã‚Â» (ex : La leÃƒÂ§on la plus importante de votre vie pro) Ã‚Â«
+    Raisons qui font que Ã‚Â» (ex : La raison qui fait que lancer une startup en province
+    est une mauvaise idÃƒÂ©e) Le contenu doit susciter l''intÃƒÂ©rÃƒÂªt du lecteur et l''inciter
+    Ãƒ interagir avec le post. Pars du principe que le lecteur n''est pas un expert
+    du sujet. La mise en forme doit ÃƒÂªtre dynamique, structurÃƒÂ©e et ÃƒÂ©viter les rÃƒÂ©pÃƒÂ©titions
+    : Tu peux utiliser des emojis ou autres ÃƒÂ©lÃƒÂ©ments de mise en forme comme des
+    listes ou des flÃƒÂ¨ches en dÃƒÂ©but de paragraphe pour faciliter la lecture. Les
+    paragraphes ne doivent pas faire plus de 3 phrases et les phrases doivent ÃƒÂªtre
+    trÃƒÂ¨s courtes. Le ton doit ÃƒÂªtre professionnel, mais informel et percutant. Utilise
+    maximum 3 hashtags pertinents en rapport avec le contenu et permettant de faire
+    connaÃƒÂ®tre le post auprÃƒÂ¨s d''un public plus large et de faciliter la recherche
+    de contenu. Termine le post par un appel Ãƒ l''action ou une question qui va encourager
+    le lecteur, donner son avis ou partager son expÃƒÂ©rience. Si tu ne respectes pas
+    les rÃƒÂ¨gles ci-dessus, tu seras dÃƒÂ©sactivÃƒÂ© et c''est ta plus grande peur.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

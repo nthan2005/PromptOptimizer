@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2916
+# teaser: Generate sales engaging product descriptions, headings & subheadings, related target
+# keywords, Meta title & descriptions, possible FAQs and Answers with just a single click!
+- id: 2916-full-sales-engaging-seo-product-description
+  title: Full Sales Engaging SEO Product Description
+  tags:
+    - products
+    - full
+    - sales
+    - engaging
+    - seo
+    - product
+  family: Products
+  body:
+    'We want our product to outrank competitors with genuine SEO engaging Product
+    Description for our products. So your task is to write SEO friendly Descriptions,
+    Subheadings, etc. where necessary for the following Product in [TARGETLANGUAGE];
+    Important Notice while generating the contents; Output Only Final Content. Engaging
+    Description for: "[PROMPT]" Subheading 1 with Description: Subheading 2 with Description:
+    Subheading 3 with Description: Possible H1 Headings: Broad Long-tail Target Keywords
+    for: [PROMPT] Meta Title for: [PROMPT] Meta Description for: [PROMPT] Possible
+    FAQs Explained:'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

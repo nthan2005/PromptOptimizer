@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1573
+# teaser: Full SEO Friendly Article with Headings and Bullet points - Human Written | Plagiarism Free
+- id: 1573-write-seo-friendly-article-with-h-tags
+  title: Write SEO Friendly Article with H Tags
+  tags:
+  - writing
+  - write
+  - seo
+  - friendly
+  - article
+  - tags
+  family: writing
+  body: Please write 1500-word informational article using semantically relevant topics
+    for [PROMPT], H2 and H3 subheadings, Bullet points, and use a catchy title. [TARGETLANGUAGE]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

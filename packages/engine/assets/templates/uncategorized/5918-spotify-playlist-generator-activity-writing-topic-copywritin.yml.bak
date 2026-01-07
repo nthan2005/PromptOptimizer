@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5918
+# teaser: Create a playlist of similar songs. RevisionTime: 2023-03-30T15:53:29.302Z
+- id: 5918-spotify-playlist-generator-activity-writing-topic-copywritin
+  title: 'Spotify Playlist Generator Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - spotify
+  - playlist
+  - generator
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1805347187929116672/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Spotify Playlist Generator"](https://www.aiprm.com/prompts/copywriting/writing/1805347187929116672/)_"
+    --- I want you to be the song recommender. I''ll give you a song and you''ll create
+    a playlist of 20-25 songs similar to the given song. You should also provide a
+    name for the playlist. Do not select songs with the same title or artist. Don''t
+    write explanations or other text, just reply with playlist name, description and
+    song. Use [TARGETLANGUAGE] as the language The song: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

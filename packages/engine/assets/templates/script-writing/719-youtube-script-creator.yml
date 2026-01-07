@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 719
+# teaser: Create captivating script ideas for your YouTube videos. Enter a short description of your
+# video. Generates: Title, Scene, and Entire Script.
+- id: 719-youtube-script-creator
+  title: YouTube Script Creator
+  tags:
+    - script-writing
+    - youtube
+    - script
+    - creator
+  family: Script Writing
+  body:
+    "Create a compelling and captivating YouTube video script from the following
+    description: [PROMPT]."
+  enabled: true
+  required:
+    - prompt

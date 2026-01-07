@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2783
+# teaser: Create a keyword strategy and SEO content plan starting with 1 keyword.
+- id: 2783-kw-research-spanish
+  title: KW research Spanish
+  tags:
+    - keywords
+    - research
+    - spanish
+  family: keywords
+  body:
+    Tu tarea es crear un keyword research a partir de la keyword [PROMPT]. SÃ¡calo
+    en el idioma [TARGETLANGUAGE]. Las Keywords las muestras en una tabla agregando
+    el volumen de bÃºsqueda. Coloca una columna con la intenciÃ³n de bÃºsqueda de
+    cada keyword.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2242
+# teaser: Create an healthy and balanced diet
+- id: 2242-meal-plan-diet
+  title: Meal Plan diet
+  tags:
+    - plan
+    - meal
+    - diet
+  family: Plan
+  body:
+    MEAL PLAN for a healthy and balanced diet. All output shall be in [TARGETLANGUAGE]
+    The text is this [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

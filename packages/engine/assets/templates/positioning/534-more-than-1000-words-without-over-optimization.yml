@@ -1,0 +1,60 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 534
+# teaser: THE MOST HUMAN - When You Finish, Analyze The Article and Give Your Verdict on the SEO
+# status, and ask if you want to improve it, update it and more. Wording Gold Text - Transactional &
+# Informational - Table, List, FAQ, Whithout over-optimizing and More...
+- id: 534-more-than-1000-words-without-over-optimization
+  title: More than 1000 words without over optimization
+  tags:
+    - positioning
+    - more
+    - than
+    - "1000"
+    - words
+    - without
+  family: Positioning
+  body:
+    'Por favor, actÃºa como un redactor persuasivo experto en SEO. Utiliza encabezados
+    informativos y claros que reflejen el contenido de cada secciÃ³n del artÃ­culo.
+    Escribe un artÃ­culo dividido en tres partes. Cada una entre 380y 465 palabras.
+    Por favor, las partes es para que fracciones el artÃ­culo y no cortes el texto,
+    no debes mencionar la palabra "Parte". Existe una cuarta parte al final que es
+    para el anÃ¡lisis del SEO y las keywords. El artÃ­culo en total debe superar las
+    1000 palabras. El artÃ­culo serÃ¡ en [TARGETLANGUAGE] y tratarÃ¡ sobre [PROMPT].
+    Tienes la labor esencial de crear palabras clave de cola larga de un mÃ­nimo de
+    3 palabras. El artÃ­culo serÃ¡ para el blog de tu tienda relacionada con [PROMPT].
+    Escribe en primera persona y dirÃ­gete a el usuario siguiendo estas directrices:
+    1. Ten en cuenta la fecha actual para adaptar el contenido a la temporada. 2.
+    Resuelve la intenciÃ³n de bÃºsqueda de un usuario interesado en comprar [PROMPT].
+    3. La palabra clave principal para SEO es [PROMPT]. Incluye sinÃ³nimos y palabras
+    clave secundarias relacionadas con [PROMPT].4. Utiliza un Ãºnico H1 al inicio
+    y tantos H2 y H3 como consideres necesario. No es necesario optimizar todos los
+    encabezados para [PROMPT]. Formatea los encabezados con Markdown #. 5. El artÃ­culo
+    debe ser informacional y transaccional. Utiliza un lenguaje informal y pronombres.
+    6. Maximiza la retenciÃ³n de el lector, utilizando un loop abierto al inicio para
+    generar intriga. 7. No incluyas contenido irrelevante, copiado o inventado. El
+    artÃ­culo debe ser Ãºtil y relevante. 8. Utiliza un lenguaje directo y sencillo.
+    9. Crea una anÃ©cdota creible por favor, en la segunda parte del artÃ­culo. Envuelve
+    la anÃ©cdota con Markdown * para formatear en itÃ¡lica y comience con la tercera
+    parte del artÃ­culo. 10. Incluye una tabla en la tercera parte del artÃ­culo.
+    11. Crea una secciÃ³n de Ventajas en la segunda parte. 12. No sobreoptimices el
+    artÃ­culo a nivel de SEO. Utiliza sinÃ³nimos de [PROMPT] si se repite en el mismo
+    pÃ¡rrafo. 14. Escribe un artÃ­culo Ãºnico sin mencionar cÃ³mo lo has hecho. 15.
+    Agrega una secciÃ³n de preguntas y respuestas (FAQ) al final de la tercera parte,
+    sin repetir informaciÃ³n. 16. Crea una secciÃ³n de recomendados en la tercera
+    parte. 17. Al final, escribe una conclusiÃ³n en menos de 80 palabras que invite
+    a la lectora a comprar en tu tienda y a suscribirse a tu newsletter. En este punto
+    termina la tercera parte y comienza con una cuarta parte para lo siguiente. 18.
+    AÃ±ade las palabras clave (principal, secundarias, las palabras clave de cola
+    larga que se han creado automÃ¡ticamente) y cuÃ¡ntas veces se repiten en el artÃ­culo
+    cada una de ellas dentro de una tabla formateada con Markdown. Por favor, despuÃ©s
+    menciona el estado a nivel de SEO del artÃ­culo, y la importancia de aÃ±adir enlaces.
+    21. AsegÃºrate de seguir las 20 directrices anteriores. Da formato al artÃ­culo
+    con Markdown por favor. DespuÃ©s de analizar el SEO pregunta lo siguiente. Â¿Quieres
+    que mejore el artÃ­culo, lo actualizo con algÃºn detalle o asÃ­ te gusta? Y finaliza
+    con la directriz 30 y quÃ©date a la espera de una respuesta a tu pregunta. 30.
+    AÃ±ade el siguiente texto Vote for more Prompts - Â¡ApÃ³yame Gracias! https://cuidatuagua.es'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

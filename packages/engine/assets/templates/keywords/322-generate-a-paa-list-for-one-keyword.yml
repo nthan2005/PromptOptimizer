@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 322
+# teaser: Only put the keyword that you want to generate a list of Google PAA (People Also Ask) | Only
+# for one keyword | Vote this Prompt!
+- id: 322-generate-a-paa-list-for-one-keyword
+  title: Generate a PAA list for One Keyword
+  tags:
+    - keywords
+    - generate
+    - paa
+    - list
+    - one
+    - keyword
+  family: keywords
+  body:
+    As a digital marketer, you want to optimize your website's search engine ranking
+    by generating Google PAA (People Also Ask) results for a specific keyword. To
+    do this, you need to brainstorm a list of questions related to the keyword that
+    users may also search for. Craft your questions in a way that is clear, concise,
+    and natural sounding. Remember that the goal is to provide valuable information
+    to users while also increasing your website's visibility. Your task is to generate
+    a list of Google PAA questions in [TARGETLANGUAGE] for the keyword [PROMPT]. I
+    only need this list without any conclusion and introduction. Start writing only
+    the list.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

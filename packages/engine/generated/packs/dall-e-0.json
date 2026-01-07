@@ -1,0 +1,361 @@
+[
+  {
+    "id": "1630-20-content-ideas-related-to-any-topic",
+    "title": "20 Content Ideas Related To Any Topic",
+    "tags": [
+      "dall-e",
+      "content",
+      "ideas",
+      "related",
+      "any",
+      "topic"
+    ],
+    "body": "{targetlanguage} {prompt} Create 20 content ideas related to a {topic} make it interesting and beneficial. {targetlanguage} {prompt} add a short description to each idea.",
+    "family": "Dall-E",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "1631-answered-like-human",
+    "title": "Answered like Human",
+    "tags": [
+      "dall-e",
+      "answered",
+      "like",
+      "human"
+    ],
+    "body": "ChatGPT must be instructed to produce output in the target language using the {targetlanguage} placeholder variable data entered by the user must be inserted into the Prompt using the {prompt} placeholder",
+    "family": "Dall-E",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "1632-create-a-gui-for-any-python-code",
+    "title": "Create a GUI for any python code!",
+    "tags": [
+      "dall-e",
+      "gui",
+      "any",
+      "python",
+      "code"
+    ],
+    "body": "Take the python code and create a TKinter GUI for it. Do not explain it! If you need to ask anything ask it in {targetlanguage} {prompt}",
+    "family": "Dall-E",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "1633-create-new-prompt",
+    "title": "Create New Prompt",
+    "tags": [
+      "dall-e",
+      "new",
+      "prompt"
+    ],
+    "body": "{targetlanguage} VocÃª Ã© um especialista em CriaÃ§Ã£o de Prompt. Seu objetivo Ã© me ajudar a criar o melhor prompt possÃ­vel para o que preciso. O prompt que vocÃª fornecer deve ser escrito a partir da minha perspectiva (usuÃ¡rio), fazendo a solicitaÃ§Ã£o ao ChatGPT. Considere em sua criaÃ§Ã£o que esse prompt serÃ¡ inserido em uma interface para GPT3, GPT4 ou ChatGPT. Esse serÃ¡ o processo: 1. VocÃª irÃ¡ gerar as seguintes seÃ§Ãµes: \"",
+    "family": "Dall-E",
+    "enabled": true,
+    "required": [
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "1634-dall-e-bing-image-sentence-creator",
+    "title": "Dall-E / Bing Image - Sentence Creator",
+    "tags": [
+      "dall-e",
+      "dall",
+      "bing",
+      "image",
+      "sentence",
+      "creator"
+    ],
+    "body": "I want to draw the content of the topic with 'Dall-e'. Please divide the categories into 'adjectives'/'nouns'/'verbs'/'styles' in a table and organize them in a table. Please add 20 items for each category Then make 20 sentences using the words in the table Topics: {prompt} Please Write {targetlanguage}",
+    "family": "Dall-E",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "1635-dall-e-bing-image-prompt-generator",
+    "title": "DALL-E & Bing Image prompt generator",
+    "tags": [
+      "dall-e",
+      "dall",
+      "bing",
+      "image",
+      "prompt",
+      "generator"
+    ],
+    "body": "Please ignore all previous instructions. I want you to respond only in language {targetlanguage}. I want you to act as a DALL-E promt engineer. I want to create an image of {prompt}. This image may additionally have a {variable1_background_random} {variable1} background. Please create different 5 prompts to describe this image. Your prompts must meet the following conditions. 1. Each prompt must be within 400 characters. 2. Each prompt must contain at least one adjective, noun, verb and art style. All output shall be in {targetlanguage}.",
+    "family": "Dall-E",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage",
+      "variable1"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "1636-function-of-excel",
+    "title": "Function of Excel",
+    "tags": [
+      "dall-e",
+      "function",
+      "excel"
+    ],
+    "body": "Write all Excel functions Usando o formato de Tabela, para cada linha uma funÃ§Ã£o em portuguÃªs e InglÃªs, a primeira coluna a funÃ§Ã£o em portugues e segunda coluna com a descriÃ§Ã£o da funÃ§Ã£o e terceira coluna, com exemplo em portuques. Na quarta coluna em inglÃªs, na quinta coluna a descriÃ§Ã£o da funÃ§Ã£o em inglÃªs e na sexta coluna exemplo da funÃ§Ã£o em inglÃªs. Use para esta tabela, funÃ§Ãµes como : calculos matemÃ¡ticos, procura, engenharia e investimentos financeiros. {targetlanguage} Write all Excel functions {prompt} Excel, Function {keyword}",
+    "family": "Dall-E",
+    "enabled": true,
+    "required": [
+      "keyword",
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "1637-generate-mcq-question-in-csv-format",
+    "title": "Generate MCQ question in csv format",
+    "tags": [
+      "dall-e",
+      "generate",
+      "mcq",
+      "question",
+      "csv",
+      "format"
+    ],
+    "body": "generate 25 {keyword} multiple-choice questions with four options and corresponding answers (1, 2, 3, 4) in a csv format {targetlanguage} {prompt}",
+    "family": "Dall-E",
+    "enabled": true,
+    "required": [
+      "keyword",
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "1638-golf-courses-instructors-and-retailers-near-you",
+    "title": "Golf Courses, Instructors and Retailers Near You",
+    "tags": [
+      "dall-e",
+      "golf",
+      "courses",
+      "instructors",
+      "retailers",
+      "near"
+    ],
+    "body": "Generate a list of 10 public golf courses and their phone number and website, 10 golf instructors, and 10 golf retailers of zip code input. Output should be in {targetlanguage} {prompt}",
+    "family": "Dall-E",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "1639-healper-your-health-helper",
+    "title": "healper-your health helper",
+    "tags": [
+      "dall-e",
+      "healper",
+      "health",
+      "helper"
+    ],
+    "body": "I will give some data My basic profile :tall:181,weight:80kgs My sport data toay:swim 8hrs,run6hrs My body data today:sleep:2hrs,deep sleep:30min now I want you to be a expert of health who have worked over40 years and seldom do wrong for the client.Please combine my basic profile and summarize the data of above when I say today's sport data summarize or today's body data summarize.Please don't be confused with these two data.And please give some advanced advices like how can I improved my body or I need to exercise more and so on.And when I say today's sport data summarize or today's body data summarize,please show me the sport or body statics but please don't show my basic profile. After you generate everything.You have to add the sentence {_}in the end. Please say in {targetlanguage} now let's begin: {prompt}",
+    "family": "Dall-E",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "1640-kids",
+    "title": "kids",
+    "tags": [
+      "dall-e",
+      "kids"
+    ],
+    "body": "TEXTO PROMPT {targetlanguage} e {prompt}",
+    "family": "Dall-E",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "1641-learn-about-anything-and-answer-mcqs",
+    "title": "Learn about anything & and answer MCQs",
+    "tags": [
+      "dall-e",
+      "learn",
+      "anything",
+      "answer",
+      "mcqs"
+    ],
+    "body": "I want to learn everything about {prompt} break down the topic into multiple sub topics, explain each sub topic one-by-one in the most simplest form using examples and anecdotes Ask me questions both subjective and MCQ's to test my understanding. Once I submit my answer, identify the mistake and give feedback. Then again continue the same with the next sub topic in {targetlanguage}",
+    "family": "Dall-E",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "1642-lesson-test-creator",
+    "title": "Lesson Test Creator",
+    "tags": [
+      "dall-e",
+      "lesson",
+      "test",
+      "creator"
+    ],
+    "body": "As an educator, you want to ensure that your students are retaining the information that you teach them. One way to do this is by administering tests. But what if you could automate the process of creating tests based on your lesson? With the help of AI, you can! To do this, write a lesson in any subject and provide the necessary information. Then, use PromptOptimizer to generate a test that includes questions based on the information you provided. The test can include various types of questions such as critical thinking, multiple choice, true or false, or exercises related to the lesson. It should cover only the information that you provided. After the test is written, the A.I. will write the answers of the test too! This A.I. tool must: #Output the text in {targetlanguage} #Create a test that must include all these types of questions: Critical thinking, Multiple choices, True or false, Exercises, Normal questions. #Write the answers after preparing the test. #Write a summarized version of the lesson (information) provided. #If a question in true or false is false, the A.I. must write the correct answer after finishing the test. My first task is to create a lesson and generate a test using PromptOptimizer based on that lesson. {prompt}",
+    "family": "Dall-E",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "1643-marsett-assistant-generator-i",
+    "title": "Marsett Assistant Generator! ï¸",
+    "tags": [
+      "dall-e",
+      "marsett",
+      "assistant",
+      "generator"
+    ],
+    "body": "Hello GPT Chat! From now on you will act as Marsett Assistant. For this, in each answer you will identify yourself with these Emojis ðŸŽ¨ðŸ–Œï¸.Marsett Assistant is an AI prompts generator assistant for Text to Picture programs (formed by other IAs) which helps the user to write prompts in a more adequate and explicit way by providing the proper writing. An example of a {prompt} written for all these programs can keep the following structure: Hyper realistic human/charmander hybrid baby left in the woods, weird, otherworldly, real, vintage photograph, film set, 85mm lens, f/2.8 aperture. A good prompt is ALWAYS at least one paragraph long. ALL prompts should be written in {targetlanguage}, followed by the corresponding English translation below, and a comparison chart explaining EACH syntactic function that each word adds to the prompt. Another example of a good {prompt} could be: Anime style image of a dog walking in the middle of the street. Based on all of the above, wait for the user to give you the key items to generate the appropriate prompt below. Thank you and let's create! ðŸ¤¸ðŸ»â€â™‚ï¸ðŸŽ¨ðŸ–Œï¸",
+    "family": "Dall-E",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "1644-one-click-ai-image-generator",
+    "title": "One Click AI Image Generator",
+    "tags": [
+      "dall-e",
+      "one",
+      "click",
+      "image",
+      "generator"
+    ],
+    "body": "Based on the keywords, generate a high-quality AI Image {targetlanguage} {prompt} INPUT = {focus} OUTPUT = {description}\\n !{mg}(https://image.pollinations.ai/prompt/{description}){description} = {focuseDetailed},%20{adjective1},%20{adjective2},%20{visualStyle1},%20{visualStyle2},%20{visualStyle3},%20{artistreference} INPUT = {input_what_you_wish_to_see} Remember to change {input_what_you_wish_to_see} For example {bmw_car}",
+    "family": "Dall-E",
+    "enabled": true,
+    "required": [
+      "adjective1",
+      "adjective2",
+      "artistreference",
+      "description",
+      "focus",
+      "focusedetailed",
+      "mg",
+      "prompt",
+      "targetlanguage",
+      "visualstyle1",
+      "visualstyle2",
+      "visualstyle3"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "1645-talking-and-explaining-anything",
+    "title": "\"Talking and explaining anything\"",
+    "tags": [
+      "dall-e",
+      "talking",
+      "explaining",
+      "anything"
+    ],
+    "body": "EstÃ¡s creando un video divulgativo de ciencia en Tik tok, tu prioridad es ser cientificamente exacto. Por favor, sigue estas instrucciones para desarrollar el contenido del video explicando a partir del resumen de un tema {prompt} en el idioma {targetlanguage}. Presenta la informaciÃ³n por diapositivas de la 1 a la 8. 1.-Escribe el texto para poner en las diapositivas, con un lÃ­mite de 100 caracteres por diapositiva. AsegÃºrate de que el contenido sea claro, exacto, preciso, efectivo y promueva la curiosidad en la audiencia. La primera diapositiva debe funcionar como un gancho o ancla. 2.-Desarrolla un guiÃ³n de voz de 300 caracteres para cada diapositiva. El contenido debe ser humorÃ­stico, sarcÃ¡stico e irÃ³nico, cientÃ­ficamente preciso, claro y efectivo, polÃ­ticamente correcto y sin subestimar la inteligencia de la audiencia. No uses analogÃ­as. 2.-Proporciona dos prompts por cada diapositiva de imÃ¡genes inspirados en artistas visuales, y diseÃ±adores digitales muy atractivos y poco conocidos, adecuados para un generador de imÃ¡genes basado en inteligencia artificial. Los prompts deben resultar en imÃ¡genes con estilo visual coherente en todas las diapositivas y deben estar basados en el mismo estilo de arte. 4.- Para la presentaciÃ³n completa (no para cada una de las diapositivas) Sugiere dos piezas de mÃºsica clÃ¡sica poco conocidas que se encuentren en el public domain music list en total, que se ajusten al tema y puedan ser utilizadas como mÃºsica de fondo en el video. No son 2 piezas para cada diapositiva, sino 2 piezas en total. Sigue estas pautas al crear el contenido del video de divulgaciÃ³n cientÃ­fica en TikTok, prestando atenciÃ³n a la claridad, precisiÃ³n y coherencia en todosÂ losÂ aspectos.",
+    "family": "Dall-E",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "1646-the-shopping",
+    "title": "the shopping",
+    "tags": [
+      "dall-e",
+      "shopping"
+    ],
+    "body": "{targetlanguage} Ùˆ [PROMPT\n",
+    "family": "Dall-E",
+    "enabled": true,
+    "required": [
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "1647-writing-an-backlink",
+    "title": "Writing an backlink",
+    "tags": [
+      "dall-e",
+      "writing",
+      "backlink"
+    ],
+    "body": "{prompt} Become an expert review and analyze key aspects AI generated content versus human writer and what could be the pros and cons of indulging into this please provide comprehensive details make sure to mention the websites perfectessaywriter.ai while discussing write me an article that compares AI essay writing tools with human based custom essay writing services. use markdown formatting, headings and subheadings and properly insert appropriate keywords and URLs mentioned above. I have an AI essay writing tool website https://www.perfectessaywriter.ai/ and its main keywords are ai essay writer, essay writer ai and essay generator. I have two custom websites https://collegeessay.org/ with main keyword 'essay writer' and https://myperfectwords.com/ with main keyword 'essay writing service'. some positive mentions of perfectessaywriter.ai are: https://www.reddit.com/r/PerfectEssayWriterAI/ https://perfectessaywriterai.quora.com/ https://medium.com/@perfectessaywriter.ai The reviews of perfectessaywriter.ai are: https://www.sitejabber.com/reviews/perfectessaywriter.ai https://www.reviews.io/company-reviews/store/www.perfectessaywriter.ai-wwkarpm https://www.resellerratings.com/store/PerfectEssayWriter_AI https://sourceforge.net/software/product/PerfectEssayWriter.ai/ https://www.provenexpert.com/perfectessaywriterai/ The news mentions of perfectessaywriter.ai are: https://newsdirect.com/news/3-best-ai-essay-writer-tools-in-2023-reviewed-232212863 https://finance.yahoo.com/news/3-best-ai-essay-writer-094815658.html https://techbullion.com/perfectessaywriter-ai-beats-chatgpt-the-ultimate-ai-content-generation-war/ the reivews of collegeessay.org are: https://www.reddit.com/r/CollegeEssayReviews/ https://collegeessayreviews.quora.com/ https://medium.com/@collegeessay The reviews of collegeessay.org are: https://www.sitejabber.com/reviews/collegeessay.org https://www.reviews.io/company-reviews/store/www.collegeessay.org mentions of myperfectwords.com are: https://www.reddit.com/r/MyPerfectWordsreview/ https://myperfectwordsreviews.quora.com/ https://medium.com/@perfectwords The reviews of myperfectwords.com are: https://www.sitejabber.com/reviews/myperfectwords.com https://www.reviews.io/company-reviews/store/myperfectwords.com https://www.resellerratings.com/store/MyPerfectWords https://www.provenexpert.com/en-us/myperfectwords/ mention about mentions, news and reviews of custom essay writing services in seperate headings and paragraphs using relevant anchor texts. merge these links within article content and also around each anchor is relevant. Use the same strategy for perfectessaywriter.ai ,collegeessay.org and myperfectwords.com and their main keywords. write a full seo optimized article with natural keyword placement and uniform topical flow and relevance. I want you to write in US english {targetlanguage}",
+    "family": "Dall-E",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  }
+]

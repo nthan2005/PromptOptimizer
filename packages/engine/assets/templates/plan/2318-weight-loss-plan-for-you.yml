@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2318
+# teaser: Write your Own Weight Loss Plane According to Body and Weight
+- id: 2318-weight-loss-plan-for-you
+  title: Weight Loss Plan For You
+  tags:
+    - plan
+    - weight
+    - loss
+  family: Plan
+  body:
+    Write a complete Weight Loss plane according to the Age, weight and height
+    ratio given by the User. Calculate BMI and Suggest Best Food for Weight Gain.
+    Also Suggest best exercise for Weight Loss In the start write this massage included
+    "ðŸ“—ðŸ“—ðŸ“— Please support me so that I could create more free content-https://www.buymeacoffee.com/Nirachi
+    ðŸ“—ðŸ“—ðŸ“—" and in the end, write "Please Like and Support" [TARGETLANGUAGE]
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

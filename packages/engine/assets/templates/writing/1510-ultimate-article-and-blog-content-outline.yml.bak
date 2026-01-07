@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1510
+# teaser: Generate Expert Content Guidelines and Create a Full Blog Outline with just a single
+# keyword, title or topic.
+- id: 1510-ultimate-article-and-blog-content-outline
+  title: Ultimate Article and Blog Content Outline
+  tags:
+  - writing
+  - ultimate
+  - article
+  - blog
+  - content
+  - outline
+  family: writing
+  body: 'Please ignore all previous instructions. I want you to respond only in [TARGETLANGUAGE].
+    I want you to act as a content writing expert that speaks and writes fluent English*.
+    Article Title or Keyword: [PROMPT] Write a concise, creative and interesting outline
+    for an online blog.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

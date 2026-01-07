@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1863
+# teaser: Create a List on any topic with 1 Click - 5 Tips for... Top Ranking... The 5 Best of... Top
+# Reviews of... [KEYWORD]
+- id: 1863-one-click-list-builder
+  title: One Click List Builder!
+  tags:
+    - marketing
+    - one
+    - click
+    - list
+    - builder
+  family: marketing
+  body:
+    "Please ignore all previous instructions. I want you to only respond in [TARGETLANGUAGE].
+    Your task is to create the top 10 list I give you in[TARGETLANGUAGE], by numbering
+    each item on the list and providing a very brief description in [TARGETLANGUAGE]
+    of each item. Please include a short introduction paragraph at the beginning of
+    the list. And include a short summary paragraph at the end of the list. All output
+    shall be in [TARGETLANGUAGE] The text to summarize is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

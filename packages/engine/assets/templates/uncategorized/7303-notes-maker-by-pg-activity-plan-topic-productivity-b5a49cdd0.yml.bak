@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7303
+# teaser: [Study Helper], [Exam Preparator], [Personal Tutor], [Subject Notes] RevisionTime:
+# 2023-11-02T12:50:09.422Z
+- id: 7303-notes-maker-by-pg-activity-plan-topic-productivity-b5a49cdd0
+  title: 'Notes Maker by PG Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - notes
+  - maker
+  - activity
+  - plan
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1885641786459426816/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Notes Maker by PG"](https://www.aiprm.com/prompts/productivity/plan/1885641786459426816/)_"
+    --- Generate comprehensive university exam study notes on [Subject Name], focusing
+    on the [Chapter Name] topic. Ensure clarity and include all relevant details to
+    assist students in their exam preparations. The notes should be written in clear
+    and concise [TARGETLANGUAGE]. Your first task is to create notes for [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

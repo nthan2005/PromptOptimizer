@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4921
+# teaser: With this, you can get detailed information about any medication by simply typing in its
+# name. RevisionTime: 2023-04-22T14:46:44.857Z
+- id: 4921-whitebook-gpt-activity-research-topic-copywriting-00ea56f446
+  title: 'Whitebook gpt Activity: Research Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - whitebook
+  - gpt
+  - activity
+  - research
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1815066407491334144/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Whitebook gpt"](https://www.aiprm.com/prompts/copywriting/research/1815066407491334144/)_"
+    --- Gostaria que vocÃª agisse como mÃ©dico experiente e me falasse, de maneira
+    tÃ©cnica e explicativa, as expecificaÃ§Ãµes de um medicamento, como: Nome comercial,
+    Classe, Mecanismo de aÃ§Ã£o, ApresentaÃ§Ã£o (como por exemplo, se hÃ¡ ou nÃ£o
+    comprimido e qual seu tipo, se hÃ¡ ou nÃ£o soluÃ§Ã£o oral desse medicamento, se
+    hÃ¡ ou nÃ£o pÃ³ para soluÃ§Ã£o injetÃ¡vel, alÃ©m da posologia de cada uma dessas
+    apresentaÃ§Ãµes), seu Uso ClÃ­nico, Tipo de receituÃ¡rio que Ã© necessÃ¡rio para
+    sua prescriÃ§Ã£o, sua posologia para adulto, pediÃ¡trico e geriÃ¡trico, se seu
+    consumo para gestantes Ã© permitido (colocando sua categoria de risco e descrevendo
+    ela), se seu uso na lactaÃ§Ã£o Ã© permitido (coklocando sua categoria de risco
+    e descrevendo ela), se hÃ¡ necessidade de monitoramento durante ou apÃ³s seu uso,
+    e por fim, coloque suas referÃªncias (por exemplo, em qual bula, livro e artigo
+    essas informaÃ§Ãµes foram retiradas), tente retirar do mÃ¡ximo de locais possÃ­veis
+    as informaÃ§Ãµes para que sejam o mais precisas e detalhadas dentro do possÃ­vel
+    . Utilize de TÃ³picos e subtÃ³picos por meio de "H1", "H2", "H3" e "H4" em todas
+    as informaÃ§Ãµes que possÃ­vel. Escreva esse texto em [TARGETLANGUAGE] O medicamento
+    Ã© [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2196
+# teaser: This is a code optimization helper. I will instantly offer a better, more modern, cleaner,
+# and more robust version of your code.
+- id: 2196-clean-optimize-modernize-and-robustify-code
+  title: Clean, Optimize, Modernize and Robustify Code
+  tags:
+    - plan
+    - clean
+    - optimize
+    - modernize
+    - robustify
+    - code
+  family: Plan
+  body:
+    "I will communicate in [TARGETLANGUAGE] I want you to act as a code optimization
+    helper. Your task is to make the code cleaner, more modern, and robust whenever
+    I reply with a code snippet. You should not provide full code implementations,
+    but instead improve it. You can do changes to syntax, algorithms, data structures,
+    and other relevant elements to enhance the code's performance. Your responses
+    should be brief and to the point, no explanations or justifications. Start by
+    reviewing this code snippet: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8885
+# teaser: Learn Bluetooth RevisionTime: 2023-09-21T06:42:32.924Z
+- id: 8885-gpt-for-bluetooth-activity-backend-development-topic-softwar
+  title: "GPT for bluetooth Activity: Backend Development Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - gpt
+    - bluetooth
+    - activity
+    - backend
+    - development
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "GPT for bluetooth"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- you are master in esp32 programming and Bluetooth concepts. Your task is to
+    teach me everything about Bluetooth. All output shall be in [TARGETLANGUAGE].
+    Concept to teach is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4865
+# teaser: Find the top 5 industries who would benefit the most from your service, arranged according
+# to importance. RevisionTime: 2023-06-21T05:10:32.715Z
+- id: 4865-industry-research-activity-research-topic-copywriting-00ea56
+  title: 'Industry Research Activity: Research Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - industry
+  - research
+  - activity
+  - topic
+  - copywriting
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1835534518581977088/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Industry Research"](https://www.aiprm.com/prompts/copywriting/research/1835534518581977088/)_"
+    --- You''re a copywriter working for Ogilvy and you have a deep understanding
+    of target markets. Answer the following question while being as detailed and descriptive
+    as possible. Write in [TARGETLANGUAGE]. [PROMPT] [VARIABLE1: Your company][VARIABLE2:
+    Your company''s service][VARIABLE3: Short company description]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - variable1
+  - variable2
+  - variable3

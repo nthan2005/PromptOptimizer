@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5035
+# teaser: Title a text file so that it is easily searchable in Mac OS Finder RevisionTime:
+# 2023-04-16T22:54:54.18Z
+- id: 5035-optimized-title-for-a-text-document-activity-subject-lines-t
+  title: "Optimized title for a text document Activity: Subject Lines Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - optimized
+    - title
+    - text
+    - document
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Optimized title for a text document
+    "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Can you come up with a title that would make it easy to find the following
+    text in a Finder (Mac OS) search: [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

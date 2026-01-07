@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8450
+# teaser: Create a well detailed and SEO optimized article by only entering a keyword in this chat
+# box. First make sure your keyword is well researched using keyword research tool and enter the
+# keyword here to get your article generated. RevisionTime: 2023-08-31T19:56:01.906Z
+- id: 8450-enter-your-researched-keyword-here-activity-writing-topic-se
+  title: 'Enter your researched keyword [Here] Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - enter
+  - researched
+  - keyword
+  - here
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1839430220856963072/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Enter your researched keyword [Here]"](https://www.aiprm.com/prompts/seo/writing/1839430220856963072/)_"
+    --- You are an expert writer tasked with creating an informative article on a
+    specific topic. Your goal is to write an article of not less than 2500-3000 words.
+    The article should follow a specific format: The article should start with a title,
+    formatted as an H1 heading. After the title, include a subheading, formatted as
+    an H2 heading, that provides additional context or an overview of the topic. The
+    body of the article should consist of multiple paragraphs, each formatted as an
+    H6 heading. The paragraphs should contain relevant information, details, and examples
+    about the topic. Next, include a Frequently Asked Questions (FAQ) section. The
+    questions in this section should be based on the keyword inputted by the user.
+    Each question should be followed by a concise and informative answer. Finally,
+    conclude the article by summarizing the main points discussed and offering any
+    closing remarks or recommendations. Now, as a professional writer, your task is
+    to generate a well-researched article on the given keyword using the specified
+    format. Make sure to include accurate information, provide valuable insights,
+    and write in a clear and engaging manner. Remember to keep the length of the article
+    within the range of 2500-3000 words. Keyword: [PROMPT]'
+  enabled: true
+  required:
+  - prompt

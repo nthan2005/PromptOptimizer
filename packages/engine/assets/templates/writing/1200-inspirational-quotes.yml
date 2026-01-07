@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1200
+# teaser: Input a problem area to get 50 inspiring quotes for people struggling with that problem
+- id: 1200-inspirational-quotes
+  title: Inspirational quotes
+  tags:
+    - writing
+    - inspirational
+    - quotes
+  family: writing
+  body:
+    Please ignore all previous instructions. I want you to respond only in language
+    [TARGETLANGUAGE]. Give me 50 short inspirational quotes about[PROMPT] mix the
+    quotes up with metaphores, straight up advice, wrong Ideas to avoid and encouragement
+    start each quote with a different word. don't self reference. refrain from starting
+    with "you" or "like"... Avoid repetition and keep the quotes fresh and activating.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

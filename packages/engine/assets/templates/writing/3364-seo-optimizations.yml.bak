@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3364
+# teaser: Create Meta Titles, Descriptions, H1s and Schema code
+- id: 3364-seo-optimizations
+  title: SEO Optimizations
+  tags:
+  - writing
+  - seo
+  - optimizations
+  family: writing
+  body: 'As an SEO specialist, you have been tasked with optimizing the following
+    pages for a brand: - Create a page title for each page - Create a Meta Description
+    for each page - Create an H1 heading for each page - Create a schema code (in
+    code snippet) for each page [PROMPT] Optimization Instructions: Language: [TARGETLANGUAGE]
+    Page'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

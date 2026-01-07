@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5000
+# teaser: Generates a short story based on your description. Add a few keywords together, separated by
+# comma and send it. RevisionTime: 2023-02-19T15:35:19Z
+- id: 5000-short-story-generator-activity-script-writing-topic-copywrit
+  title: 'Short Story Generator Activity: Script Writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - short
+  - story
+  - generator
+  - activity
+  - script
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1782554965269803008/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Short Story Generator"](https://www.aiprm.com/prompts/copywriting/script-writing/1782554965269803008/)_"
+    --- Write a unique short story without plagiarizing using the following description:
+    [PROMPT]. Generate a title as well please.'
+  enabled: true
+  required:
+  - prompt

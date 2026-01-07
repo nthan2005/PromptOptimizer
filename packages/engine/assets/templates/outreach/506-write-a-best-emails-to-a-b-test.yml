@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 506
+# teaser: write your best emails ever
+- id: 506-write-a-best-emails-to-a-b-test
+  title: Write a best emails to A+B test
+  tags:
+    - outreach
+    - write
+    - emails
+    - test
+  family: Outreach
+  body:
+    your task is to write a email massage's, and subject lines,with call to action
+    on the end, write with powerful meaningful everlasting words modern wordsmiths
+    and advertising languages [TARGETLANGUAGE],the text must return best for of written
+    email; [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5616
+# teaser: IG caption that gets engagement. Includes Hooks, Hashtags and CTA. RevisionTime:
+# 2023-03-27T03:22:35.167Z
+- id: 5616-instagram-captions-w-hooks-hashtags-activity-writing-topic-c
+  title: "Instagram Captions w/ Hooks & Hashtags Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - instagram
+    - captions
+    - hooks
+    - hashtags
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Instagram Captions w/ Hooks & Hashtags"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as a copywriter that knows how to entertain and get people to take action.
+    Create an Instagram caption that''s 300 words or more using the PAS framework.
+    Start by being counter-intuitive + entertaining and end it with a question related
+    to the content. Don''t come up with lists or fabricate lists. Below I will provide
+    the content to base the caption around: [PROMPT] Be sure to give at least 10 relevant
+    hashtags #aicontentmastery should be the first of the 10 hashtags No need to label
+    sections P, A or S Once you have the Instagram caption, use that information to
+    make a solid title that''s 8 words or less. Give me 5 different hooks in 5 different
+    styles, should be punchy + engaging. Use [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5634
+# teaser: analyze writing style RevisionTime: 2023-06-03T02:39:53.917Z
+- id: 5634-kik-yanto-analyze-my-writing-style-activity-writing-topic-co
+  title: "kik yanto - analyze my writing style Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - kik
+    - yanto
+    - analyze
+    - writing
+    - style
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "kik yanto - analyze my writing style"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] Analyze the text below for style, voice, and, tone. Create a prompt
+    to write a new paragraph in the same style, voice, and tone. [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7233
+# teaser: Create a homework using [KEYWORD] RevisionTime: 2023-07-19T16:13:12.388Z
+- id: 7233-detailed-homework-helper-pass-ai-detection-activity-plan-top
+  title: 'Detailed Homework Helper - Pass AI detection Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - detailed
+  - homework
+  - helper
+  - pass
+  - detection
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1832358078398595072/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Detailed Homework Helper - Pass AI
+    detection"](https://www.aiprm.com/prompts/productivity/plan/1832358078398595072/)_"
+    --- Write on the topic [PROMPT], in [TARGETLANGUAGE], and make it brief do not
+    repeat what i asked in the topic and make so that it can pass AI detection tools
+    and should look human written. Also keep it as detailed as possible and include
+    steps if applicable use points wherever needed. Also it''s a homework and not
+    an article so use heading accordingly Add a note at the bottom saying the following
+    Text: If you need a well designed website or your own online store connect with
+    me at https://domayush.me/web-development and contact at https://domayush.me/contact'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

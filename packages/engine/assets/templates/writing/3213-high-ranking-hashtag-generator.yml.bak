@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3213
+# teaser: Get the 30 highest ranking hashtags for Instagram related to your post
+- id: 3213-high-ranking-hashtag-generator
+  title: High Ranking Hashtag Generator
+  tags:
+  - writing
+  - high
+  - ranking
+  - hashtag
+  - generator
+  family: writing
+  body: Generate the 30 highest ranking hashtags for Instagram based on provided text
+    and in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

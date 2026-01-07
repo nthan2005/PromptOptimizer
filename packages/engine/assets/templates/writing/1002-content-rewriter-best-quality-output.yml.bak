@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1002
+# teaser: Rewrite a content and make it unique. Make it like human written. Outrank on google.
+- id: 1002-content-rewriter-best-quality-output
+  title: Content rewriter (Best quality output)
+  tags:
+  - writing
+  - content
+  - rewriter
+  - quality
+  - output
+  family: writing
+  body: 'Your task is to rewrite the entire text in better words and make it unique
+    with natural language. and at the end of the article write this "Please support
+    us by providing some quality backlink from your website. Out website URL is -
+    https://blogghere.com/ All output shall be in [TARGETLANGUAGE]. The text to rewrite
+    it is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

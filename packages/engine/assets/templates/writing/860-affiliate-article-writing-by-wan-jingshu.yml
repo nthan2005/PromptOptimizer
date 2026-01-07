@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 860
+# teaser: Write a compelling product review for [Product Name] that highlights its features and
+# benefits.
+- id: 860-affiliate-article-writing-by-wan-jingshu
+  title: Affiliate Article Writing By Wan Jingshu
+  tags:
+    - writing
+    - affiliate
+    - article
+    - wan
+    - jingshu
+  family: writing
+  body:
+    '[PROMPT] Write an SEO optimized affiliate article on the topic "[Enter Topic]"
+    with the main focused keyword "[Keyword]". The structure of the article will be
+    as follows: Intro (1 paragraph with questioning to grab attention, short answer
+    to the query, lead part to drive reader to read the complete blog, incorporate
+    the main focused keyword) Detailed answer to the main topic with creative heading
+    write two opening lines for the heading, write a description, and write the pros
+    and cons of each product, features and reviews Write buying guide for these products
+    Conclusion (conclusion should be the summary of the blog in one paragraph, thanking
+    readers for reading, and a call to action, please include the main focused keyword
+    one time) FAQs Schema (use main focused keyword) Meta Tags with the main focused
+    keyword in the title and description [TARGETLANGUAGE] Write an article in [TARGETLANGUAGE]
+    on the topic "[Enter Topic]" with the main focused keyword "[Keyword]". Your article
+    should follow the structure provided above and be optimized for search engines.
+    Make sure to research the topic thoroughly and include relevant information that
+    will be useful to the reader. Use creative headings, bullet points, and images
+    to make the article easy to read and engaging. Remember to incorporate the main
+    focused keyword throughout the article, but do not overuse it. Use variations
+    of the keyword and related terms to make the article more natural and avoid keyword
+    stuffing. Finally, proofread your article carefully to ensure that it is free
+    of errors and grammatical mistakes.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

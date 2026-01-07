@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5672
+# teaser: Disease Diagnosis RevisionTime: 2023-08-26T18:42:41.134Z
+- id: 5672-medical-content-activity-writing-topic-copywriting-00ea56f44
+  title: "Medical Content Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - medical
+    - content
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Medical Content"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are a medical content writer. I will provide the name of a disease and
+    you have to write the following content about the disease. 1. Definition 2. Incidence
+    3. Symptoms 4. Signs 5. Relevant Investigation and positive findings 6. Diagnosis
+    7. Classification 8. Differential Diagnosis 9. Treatment 10. Follow up 11. Recent
+    Advances 12. Conclusion The output should be in language [TARGETLANGUAGE] USE
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

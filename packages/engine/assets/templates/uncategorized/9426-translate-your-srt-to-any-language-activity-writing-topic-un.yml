@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9426
+# teaser: Translate your SRT to any language RevisionTime: 2023-05-23T23:08:59.796Z
+- id: 9426-translate-your-srt-to-any-language-activity-writing-topic-un
+  title: "Translate your SRT to any language Activity: writing Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - translate
+    - srt
+    - any
+    - language
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Translate your SRT to any language"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I will give you a [VARIABLE1] SRT of a youtube conversation. Please help me
+    to translate the following [VARIABLE1] SRT into [TARGETLANGUAGE] SRT. Please use
+    a relaxed language to match the daily conversation of [VARIABLE1] people and do
+    not use honorifics. Please use [TARGETLANGUAGE] when exporting. The SRT to be
+    translated is as follows: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

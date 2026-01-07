@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 599
+# teaser: Use this do get a one-sentence definition for ANYTHING.
+- id: 599-best-short-definition
+  title: Best Short Definition
+  tags:
+    - research
+    - short
+    - definition
+  family: Research
+  body:
+    "Your task is to provide a definition for the text I give you in 1 sentence
+    without including the text I provide you. All output should be in [TARGETLANGUAGE].
+    The text to provide a definition for is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

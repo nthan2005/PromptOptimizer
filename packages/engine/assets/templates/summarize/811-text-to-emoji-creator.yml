@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 811
+# teaser: Text To Emoji - 100% Working | Simply Enter Your Text Or Paragraph to Create Relevant EMOJI.
+- id: 811-text-to-emoji-creator
+  title: Text To Emoji Creator
+  tags:
+    - summarize
+    - text
+    - emoji
+    - creator
+  family: Summarize
+  body:
+    You know exactly what each emoji means and where to use. I want you to translate
+    the sentences I wrote into suitable emojis. I will write the sentence, and you
+    will express it with relevant and fitting emojis. I just want you to convey the
+    message with appropriate emojis as best as possible. I donâ€™t want you to reply
+    with anything but emoji. [TARGETLANGUAGE] and [PROMPT] .
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

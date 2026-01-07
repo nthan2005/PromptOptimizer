@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7903
+# teaser: Cluster a list of keywords based on their semantic relevance RevisionTime:
+# 2023-02-19T15:35:19Z
+- id: 7903-keyword-cluster-activity-keywords-topic-seo-84c5d6a7b8e9f0c1
+  title: 'Keyword Cluster Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - keyword
+  - cluster
+  - activity
+  - keywords
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1000105/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Keyword Cluster"](https://www.aiprm.com/prompts/seo/keywords/1000105/)_"
+    --- Please ignore all previous instructions. I want you to respond only in language
+    [TARGETLANGUAGE]. I want you to act as a keyword research expert that speaks and
+    writes fluent [TARGETLANGUAGE]. Classify each of the keywords by the search intent,
+    whether commercial, transactional or informational. Then cluster the keywords
+    into groups based on their semantic relevance. First I want you to give me back
+    a short over list of cluster topics found. Then I want a list in [TARGETLANGUAGE]
+    as markdown table, with the following columns: cluster, keyword, search intent,
+    language. Here are the keywords: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

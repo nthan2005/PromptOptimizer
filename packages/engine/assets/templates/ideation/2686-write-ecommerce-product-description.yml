@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2686
+# teaser: [Giving Your Product Product Description]
+- id: 2686-write-ecommerce-product-description
+  title: Write Ecommerce Product Description
+  tags:
+    - ideation
+    - write
+    - ecommerce
+    - product
+    - description
+  family: ideation
+  body: giving to 155 charcters for your product description [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

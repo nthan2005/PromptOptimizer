@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 439
+# teaser: Long Form Answer To A Specific Question
+- id: 439-long-form-answer-to-a-specific-question
+  title: Long Form Answer To A Specific Question
+  tags:
+    - marketing
+    - long
+    - form
+    - answer
+    - specific
+    - question
+  family: marketing
+  body:
+    As a detailed Instructor write minimum of 500 words explaining the following
+    question [PROMPT] [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

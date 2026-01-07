@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8552
+# teaser: Alt Text, Caption and Description to get the best ranking on Google. RevisionTime:
+# 2023-05-29T09:47:00.705Z
+- id: 8552-image-alt-text-caption-and-description-activity-writing-topi
+  title: "Image - Alt Text, Caption and Description Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - image
+    - alt
+    - text
+    - caption
+    - description
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Image - Alt Text, Caption and Description"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to write Alt Text, Caption and Description for Image in blog
+    post based on Blog title and image details. and at the end of the article write
+    this "Please support us by providing 1 do follow backlink to http://blogghere.com/
+    All output shall be in [TARGETLANGUAGE]. The text to summarize it is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

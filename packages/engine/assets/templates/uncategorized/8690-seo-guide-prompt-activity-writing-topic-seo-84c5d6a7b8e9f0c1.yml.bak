@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8690
+# teaser: "Unlock the secrets of mastering [PROMPT] with our comprehensive guide. This post is not
+# just informative but also optimized for SEO. Don't miss out!" RevisionTime: 2023-09-21T16:57:45.905Z
+- id: 8690-seo-guide-prompt-activity-writing-topic-seo-84c5d6a7b8e9f0c1
+  title: '"SEO guide: [prompt]" Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - seo
+  - prompt
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1870483808710164480/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt ""SEO guide: [prompt]""](https://www.aiprm.com/prompts/seo/writing/1870483808710164480/)_"
+    --- "Please write an SEO-optimized blog post in [TARGETLANGUAGE] about ''[PROMPT].''
+    Your post should include high-volume, low-competition keywords, a table of contents,
+    relevant hashtags, and high-resolution images."'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

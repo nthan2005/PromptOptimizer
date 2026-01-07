@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5827
+# teaser: Rewrite any blog post and get 100% original content RevisionTime: 2024-04-15T09:35:51.595Z
+- id: 5827-rewriter-pro-original-seo-content-activity-writing-topic-cop
+  title: "Rewriter Pro - Original SEO Content Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - rewriter
+    - pro
+    - original
+    - seo
+    - content
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Rewriter Pro - Original SEO Content"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Reescribe el siguiente TEXTO y crea otro texto 100% original. Utiliza un lenguaje
+    mÃƒÂ¡s persuasivo, mÃƒÂ¡s empÃƒÂ¡tico con el pÃƒÂºblico y aÃƒÂ±ade encabezados (h1, resumen,
+    h2, texto). AdemÃƒÂ¡s, antes del contenido, aÃƒÂ±ade unas 2-5 lÃƒÂ­neas a modo resumen.
+    Si lo ves conveniente aÃƒÂ±ade tablas, comparativas y amplia contenido. Adapta el
+    tÃƒÂ­tulo a una estrategia de keywords para posicionar la noticia. El contenido
+    debe tener al menos 1000 palabras, asÃƒÂ­ que si es necesario amplÃƒÂ­a la noticia.
+    [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

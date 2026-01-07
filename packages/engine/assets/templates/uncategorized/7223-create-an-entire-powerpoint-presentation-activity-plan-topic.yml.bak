@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7223
+# teaser: Hi ChatGPT, Act as a VBA programmer. Write me VBA code to create PowerPoint slides about
+# [Insert your Topic Name] . Think like a [Insert your Expert Role Example- Research Manager or Market
+# researcher] . Use your knowledge and create at least 10 slides. RevisionTime:
+# 2023-06-14T12:54:02.19Z
+- id: 7223-create-an-entire-powerpoint-presentation-activity-plan-topic
+  title: 'Create an Entire PowerPoint Presentation Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - entire
+  - powerpoint
+  - presentation
+  - activity
+  - plan
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1834546073709572096/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create an Entire PowerPoint Presentation"](https://www.aiprm.com/prompts/productivity/plan/1834546073709572096/)_"
+    --- Hi ChatGPT, Act as a VBA programmer. Write me VBA code to create PowerPoint
+    slides about [Insert your Topic Name] . Think like a [PROMPT] . Use your knowledge
+    and create at least 10 slides. [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

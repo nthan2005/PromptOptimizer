@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8130
+# teaser: Write the Best product description from the text provided RevisionTime:
+# 2023-12-18T05:08:03.179Z
+- id: 8130-best-product-description-for-your-website-activity-products
+  title: "Best Product Description for your website Activity: Products Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - product
+    - description
+    - website
+    - activity
+    - products
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best Product Description for your website"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] English [PROMPT] Keywords: [Keyword 1], [Keyword 2], [Keyword
+    3], [Keyword 4] Size: [Describe size or dimensions] Material: Crafted from [Material],
+    offering [Description of material properties] Handcrafted Nature: Dive into the
+    intricate details shaped without machine intervention, showcasing [highlighted
+    detailed craftsmanship] Secure Delivery: Ensuring your [Product Name] reaches
+    you securely and intact Best Use: This [Product Name] shines in [Best place to
+    use the product], elevating [Purpose of the product] The product description should
+    be 150 words in length. which will include all the data above. Don''t forget to
+    add the brand name and keywords provided in it. dont use repetitive sentences.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

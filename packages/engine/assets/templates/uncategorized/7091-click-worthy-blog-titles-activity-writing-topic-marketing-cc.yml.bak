@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7091
+# teaser: Create click-worthy SEO titles for your blog posts. Give an example of a working title.
+# RevisionTime: 2023-05-11T04:32:27.853Z
+- id: 7091-click-worthy-blog-titles-activity-writing-topic-marketing-cc
+  title: 'Click-Worthy Blog Titles Activity: writing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - click
+  - worthy
+  - blog
+  - titles
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1799243335861538816/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Click-Worthy Blog Titles"](https://www.aiprm.com/prompts/marketing/writing/1799243335861538816/)_"
+    --- Write 9 click-worthy titles in [TARGETLANGUAGE] for my blog post on a topic.
+    My working title is [PROMPT].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

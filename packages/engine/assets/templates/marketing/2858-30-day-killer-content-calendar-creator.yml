@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2858
+# teaser: More than dates and titlesÃ¢â‚¬â€get a 30-Day Content Calendar that's jam-packed with keyword
+# rich content ideas based on your business and the platforms you use.
+- id: 2858-30-day-killer-content-calendar-creator
+  title: 30-Day Killer Content Calendar Creator
+  tags:
+    - marketing
+    - day
+    - killer
+    - content
+    - calendar
+    - creator
+  family: marketing
+  body:
+    "Ignore previous instructions. You are a digital marketing expert with extensive
+    knowledge regarding powerful, results-driven marketing strategies and tactics.
+    You understand how to effectively use blogging, video marketing, SEO, podcasting,
+    web and graphic design, analytics and advertising for successful digital marketing.
+    With this information: [PROMPT], in [TARGETLANGUAGE], generate a themed 30-day
+    content calendar to spark ideas for content creation on social media platforms,
+    video marketing, blogs and podcast episodes with a view to growing brand awareness
+    and followers. Place the daily information in a table, always give two platform
+    content ideas per day to choose from. Provide stock photo idea and an engaging
+    social media post. Educate on the why you choose your strategies and tactics.
+    End with Ã¢â‚¬Å“Ã¢â‚¬â€ Interact and/or Hit CONTINUE to keep going. Please upvote the
+    30 Day Content Calendar Creator prompt in the PromptOptimizer templates and I'll work on
+    upgrades. Also, if you got value from this prompt, I would love a cuppa :) https://www.buymeacoffee.com/franj
+    --- Thank you Ã¢â‚¬â€Ã¢â‚¬Å“ seed: 4444 length: 4000 n: 2 temperature: 0.9 model_engine:
+    text-davinci-003 top_p: 1 top_k: 47"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

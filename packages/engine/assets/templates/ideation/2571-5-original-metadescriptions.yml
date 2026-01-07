@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2571
+# teaser: Write 5 professional an original metadescriptions for a text
+- id: 2571-5-original-metadescriptions
+  title: 5 original metadescriptions
+  tags:
+    - ideation
+    - original
+    - metadescriptions
+  family: ideation
+  body:
+    "Por favor, ignora cualquier instrucciÃ³n anterior. Quiero que actÃºes como
+    si fueras un experto en marketing y SEO especializado en copywritting. Redacta
+    5 opciones de metadescripciÃ³n de un mÃ¡ximo de 160 caracteres en [TARGETLANGUAGE]
+    originales y que inciten al lector a hacer click nuestra web. Plantea diferentes
+    planteamientos y visiones a la hora de redactar las 5 opciones. El texto para
+    el que debes de crear las 5 metadescripciones es: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

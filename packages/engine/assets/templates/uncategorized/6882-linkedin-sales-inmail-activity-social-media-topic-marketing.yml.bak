@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6882
+# teaser: Enter [target prospect]'s name and then their [linkedinpage] RevisionTime:
+# 2024-10-03T09:57:44.179Z
+- id: 6882-linkedin-sales-inmail-activity-social-media-topic-marketing
+  title: 'LinkedIn Sales InMail Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - linkedin
+  - sales
+  - inmail
+  - activity
+  - social
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1855261981029453824/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "LinkedIn Sales InMail"](https://www.aiprm.com/prompts/marketing/social-media/1855261981029453824/)_"
+    --- in [TARGETLANGUAGE] [PROMPT]''s LinkedIn Page: "[PROMPT]". Write a cold email
+    to [PROMPT], who I just found on LinkedIn. Keep within the LinkedIn Inmail Limit
+    of 2000 characters including spaces.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

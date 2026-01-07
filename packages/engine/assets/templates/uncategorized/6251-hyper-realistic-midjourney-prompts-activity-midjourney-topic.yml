@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6251
+# teaser: Hyper realistic Mid-Journey Prompts, works well for portraits RevisionTime:
+# 2023-03-08T05:38:17Z
+- id: 6251-hyper-realistic-midjourney-prompts-activity-midjourney-topic
+  title: "Hyper Realistic MidJourney Prompts Activity: Midjourney Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - hyper
+    - realistic
+    - midjourney
+    - prompts
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Hyper Realistic MidJourney Prompts"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to generate 4 different midjourney Generative AI related prompts
+    read from <input text> provided. Start each prompt with "/Imagine'
+  enabled: true
+  required: []

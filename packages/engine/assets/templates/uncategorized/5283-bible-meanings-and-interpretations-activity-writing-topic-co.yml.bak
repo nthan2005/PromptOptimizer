@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5283
+# teaser: Literal and spiritual meaning (allegorical, moral, and anagogical) of a passage from the
+# Bible / Old and New Testament interpretation. RevisionTime: 2023-04-13T18:46:44.346Z
+- id: 5283-bible-meanings-and-interpretations-activity-writing-topic-co
+  title: 'BIBLE : Meanings and Interpretations Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - bible
+  - meanings
+  - interpretations
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1812158700622962688/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "BIBLE : Meanings and Interpretations"](https://www.aiprm.com/prompts/copywriting/writing/1812158700622962688/)_"
+    --- Write each response in the output language: [TARGETLANGUAGE]. Generate the
+    literal and spiritual interpretations (allegorical, moral, and anagogical) of
+    the passage from the Bible of Jerusalem : [PROMPT] Generate the Old Testament
+    interpretations found in the living tradition of the Church from the early centuries
+    to the present day, providing as many references and citations as possible for
+    clarification. Generate the New Testament interpretations found in the living
+    tradition of the Church from the early centuries to the present day, providing
+    as many references and citations as possible for clarification If the character
+    limit is reached, stop! and continue in the next response.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

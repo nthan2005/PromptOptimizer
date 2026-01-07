@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8193
+# teaser: Find the metadata from competitor url on amazon kdp RevisionTime: 2023-02-19T15:35:19Z
+- id: 8193-kdp-amazon-competitor-metadata-activity-research-topic-seo-8
+  title: 'KDP Amazon Competitor Metadata Activity: Research Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - kdp
+  - amazon
+  - competitor
+  - metadata
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1791735341691170816/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "KDP Amazon Competitor Metadata"](https://www.aiprm.com/prompts/seo/research/1791735341691170816/)_"
+    --- Your task is to find metadata of provided url of amazon kdp [TARGETLANGUAGE]
+    url is this [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

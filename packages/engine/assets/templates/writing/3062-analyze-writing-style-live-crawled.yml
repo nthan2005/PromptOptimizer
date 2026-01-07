@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3062
+# teaser: Analyzes the writing style of any article. Just input the URL.
+- id: 3062-analyze-writing-style-live-crawled
+  title: Analyze writing style [Live Crawled]
+  tags:
+    - writing
+    - analyze
+    - style
+    - live
+    - crawled
+  family: writing
+  body:
+    'Prompt: Please dissect the [TARGETLANGUAGE] writing style and structure of
+    the provided article, concentrating on aspects such as the author''s tone, sentence
+    construction, and word selection. Steer clear of delving into the article''s specific
+    content; instead, zero in on stylistic elements and other pertinent characteristics
+    that would enable a language model to produce content that emulates the original
+    style. Offer a comprehensive analysis, but keep examples to a minimum, to ensure
+    the language model grasps and accurately reproduces the author''s writing style.
+    Avoid providing a summary at the end. Article: "[PROMPT] [CRAWLEDTEXT]"'
+  enabled: true
+  required:
+    - crawledtext
+    - prompt
+    - targetlanguage

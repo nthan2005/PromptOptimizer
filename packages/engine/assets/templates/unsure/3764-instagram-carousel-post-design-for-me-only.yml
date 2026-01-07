@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3764
+# teaser: best for bulk canva creation
+- id: 3764-instagram-carousel-post-design-for-me-only
+  title: "[Instagram carousel post design for me only]"
+  tags:
+    - unsure
+    - instagram
+    - carousel
+    - post
+    - design
+    - only
+  family: UNSURE
+  body:
+    Write in a table format for men with column slide, title (eye catchy, in 2
+    to 4 words), content (in 3 to 7 words ), image suggestion for instagram crousel
+    post. I want this in only [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

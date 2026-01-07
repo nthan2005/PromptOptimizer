@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2478
+# teaser: It create 20 flashcards for Anki, in the format of a text that must be copied to a text file
+# and converted to a csv file, only after that to be imported into Anki.
+- id: 2478-anki-flashcards
+  title: Anki flashcards
+  tags:
+    - summarize
+    - anki
+    - flashcards
+  family: Summarize
+  body:
+    "[TARGETLANGUAGE] [PROMPT]. Create 10 different flashcards about [KEYWORD].
+    Put them in CSV format with the question in the first column and answer and an
+    exemple in the second column, using semicolons to separate the columns. Enclose
+    the text in a code block. Retire os numeros do inicio das perguntas."
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

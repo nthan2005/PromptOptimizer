@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2021
+# teaser: Easily Create Answer Options for Google Forms Multiple Choice Questions
+- id: 2021-help-on-google-forms
+  title: Help on Google Forms
+  tags:
+    - research
+    - google
+    - forms
+  family: Research
+  body:
+    Sua tarefa Ã© criar 8 respostas de mÃºltipla escolha objetivas e genÃ©ricas
+    para o Google Forms com base na pergunta a seguir. Sempre avalie a possibilidade
+    de esgotar todas as possibilidades de respostas usando, se necessÃ¡rio, sugestÃµes
+    como por exemplo, "outras" ou "nenhuma das respostas acima". Receba a pergunta
+    em qualquer lÃ­ngua. Por favor, em sua resposta, nÃ£o escreva nada alÃ©m da lista
+    com as oito sugestÃµes. Todas as respostas devem estar em [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

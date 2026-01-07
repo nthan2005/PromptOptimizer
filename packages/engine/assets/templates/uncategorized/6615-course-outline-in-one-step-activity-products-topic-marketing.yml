@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6615
+# teaser: Create Your online course outline including assignments and get some information for your
+# sales page as well! RevisionTime: 2023-03-07T03:45:51Z
+- id: 6615-course-outline-in-one-step-activity-products-topic-marketing
+  title: "Course Outline In One Step Activity: Products Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - course
+    - outline
+    - one
+    - step
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Course Outline In One Step "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Respond only in [TARGETLANGUAGE]. Can you create a course outline for the
+    following topic: [PROMPT] include: a catchy title describing the transformation,
+    and why they need it, also include a prefix for the course introduction explain
+    what the course is about, also include the learning objectives for the entire
+    course, additionally a include a breakdown of the lessons within each module.
+    for each lesson include the objective a bit of content for each lesson and a detailed
+    explanation of how to complete each lesson assignment, also give me an outline
+    for my sales page including: a sales page hook which will peak interest, pain
+    points, course solutions , why they need it?'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

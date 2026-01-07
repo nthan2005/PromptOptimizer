@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7598
+# teaser: Get the most nice testimonail quotes. RevisionTime: 2023-12-25T11:10:28.989Z
+- id: 7598-extract-testimonial-short-quotes-activity-summarize-topic-pr
+  title: 'Extract Testimonial Short Quotes Activity: Summarize Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - extract
+  - testimonial
+  - short
+  - quotes
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1904822556822335488/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Extract Testimonial Short Quotes"](https://www.aiprm.com/prompts/productivity/summarize/1904822556822335488/)_"
+    --- In [TARGETLANGUAGE], Extract most nice testimonial sentences: --- [PROMPT]
+    ---'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

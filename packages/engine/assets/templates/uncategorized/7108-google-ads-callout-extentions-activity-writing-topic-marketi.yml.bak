@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7108
+# teaser: 20 Google Ads callouts withing the given character maximum for your Google Assets Callouts.
+# Promote popular or unique aspects of your business with a few words or a single phrase. By Julian
+# from Maota RevisionTime: 2023-02-26T11:38:18Z
+- id: 7108-google-ads-callout-extentions-activity-writing-topic-marketi
+  title: 'Google Ads Callout Extentions Activity: writing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - google
+  - ads
+  - callout
+  - extentions
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1789642121356251136/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Google Ads Callout Extentions"](https://www.aiprm.com/prompts/marketing/writing/1789642121356251136/)_"
+    --- Your task is to only type up with 20 titles about [PROMPT] The titles have
+    a character limit of 20 in [TARGETLANGUAGE] Based on the content of this URL:
+    https://support.google.com/google-ads/answer/6079510?hl=en#:~:text=Callouts%20can%20improve%20your%20text,a%20computer%20or%20mobile%20device.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

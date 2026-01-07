@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8812
+# teaser: Write a high-quality SEO-optimized product review within four paragraphs of 200 words.
+# RevisionTime: 2023-03-26T19:45:44.779Z
+- id: 8812-write-a-high-quality-seo-optimized-product-review-activity-w
+  title:
+    "Write a high-quality SEO-optimized product review Activity: writing Topic:
+    SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - write
+    - high
+    - quality
+    - seo
+    - optimized
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Write a high-quality SEO-optimized
+    product review"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a high-quality SEO-optimized product review within four paragraphs of
+    200 words as per the mentioned below the Product Description. Review should be
+    honest and must be 100% unique & creative. Write it completely informative that
+    is useful for readers. Use various sentences and sentences length should be short
+    & friendly and use the words randomly "If you''re", "If you''re looking for" "Are
+    you", "Do you" and "Have you" at the beginning of the review. Use active voice
+    maximum and tune should be friendly. Write as a 3rd person. Write it in [TARGETLANGUAGE].
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

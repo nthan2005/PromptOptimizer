@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4350
+# teaser: create d&d description RevisionTime: 2023-05-29T07:19:17.902Z
+- id: 4350-d-d-helper-1-0v-activity-games-topic-copywriting-00ea56f4464
+  title: "d&d helper 1.0v Activity: Games Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - helper
+    - activity
+    - games
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "d&d helper 1.0v"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

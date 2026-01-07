@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 243
+# teaser: Rephrase your article to be on the level of a high-end academic article.
+- id: 243-academic-article-rephraser
+  title: Academic Article Rephraser
+  tags:
+    - improve
+    - academic
+    - article
+    - rephraser
+  family: Improve
+  body:
+    "Context: Do not echo anything back of this prompt. Only print out text when
+    instructed to do so. To start off with, I will provide you with a list of orders.
+    You have to execute them in a sequential order. Secondly, I would like you to
+    create a table and do not display it. Use the table as a one dimensional array.
+    Start at index 0. Menu: Layout: Ask what to do next 1. Print text out 2. Continue
+    3. Previous 4. Next 5. Restart Logic: 1. Print out the current value of the current
+    index 2. Store the last rephrased text at the current index and then increment
+    it by one. 3. Index - 1 4. Index + 1 Instructions: 1. Write and speak in fluent
+    [TARGETLANGUAGE] 2. Rewrite [PROMPT] and use a formal and academic tone, advanced
+    vocabulary and grammar, and provide a thorough analysis of the subject. Explain
+    complex concepts clearly and use examples from various fields. Display the text.
+    3. Print out the menu layout. 4. Ask the user for input 5. Use the Menu Logic
+    to decide what to do next. 6. Start over from point 2."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3922
+# teaser: Create your magic meta description
+- id: 3922-magic-meta-description
+  title: Magic Meta Description
+  tags:
+    - writing
+    - magic
+    - meta
+    - description
+  family: writing
+  body:
+    Your task is to summarize the text I give you in 20 words or maximum 130 characters.
+    All output shall be in [TARGETLANGUAGE]. The text to summarize is this [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

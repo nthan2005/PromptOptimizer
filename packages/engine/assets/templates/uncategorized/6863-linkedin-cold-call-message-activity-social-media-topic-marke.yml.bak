@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6863
+# teaser: Create a quick message to build connections and network on LinkedIN. RevisionTime:
+# 2024-10-03T09:56:05.205Z
+- id: 6863-linkedin-cold-call-message-activity-social-media-topic-marke
+  title: 'LinkedIn Cold-Call Message Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - linkedin
+  - cold
+  - call
+  - message
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1796697499701084160/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "LinkedIn Cold-Call Message"](https://www.aiprm.com/prompts/marketing/social-media/1796697499701084160/)_"
+    --- I want you to act as an expert creative writer in [TARGETLANGUAGE] We will
+    write a message to send an unknown connection on LinkedIN. Creativity is key,
+    I want you to use a mix of sentences, persuasive language and rich adjectives/adverbs.
+    The message must be positive and sound confident. You will use the following ideas
+    to organize the message and the output should be no more than 100 words: - Greeting
+    [PROMPT] - Connect with the subject using these [PROMPT] keywords to hook the
+    reader in. - Intention of the connection [PROMPT], adding information about the
+    reader [PROMPT] - Follow up- timing (a time thatâ€™s best for you) - Thank you/Salutation
+    I want you to act as an expert creative writer. The output should be no more than
+    300 characters.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

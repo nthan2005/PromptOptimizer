@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7760
+# teaser: SEO | Blog | Naver Just enter the title of your blog and you're ready to create a blog post
+# for Naver's top ranking. RevisionTime: 2023-06-20T02:11:54.656Z
+- id: 7760-naver-blog-top-exposure-post-generator-activity-ideation-top
+  title: "Naver Blog Top Exposure Post Generator Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - naver
+    - blog
+    - top
+    - exposure
+    - post
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Naver Blog Top Exposure Post Generator
+    "](https://github.com/nthan2005/PromptOptimizer)_" --- I want
+    to write a blog post about [PROMPT] . Please write in the following order. Don''t
+    name each step, such as introduction, empathy, etc. Organize your post with each
+    step. Steps : - Title - introduction - Empathy - Present the problem - Promise
+    to solve the problem - Preview the solution - Present the solution in detail (make
+    it specific and easy) - Wrap up (organize the body of the text) Conditions : -
+    Repeat keyword at least 5 times - Use a word similar to the keyword at least 3
+    times - Around 1500 characters - If you provide a template to the Community, then
+    you need to make sure that the output language is controlled and used reliably
+    by the ChatGPT model. In your Prompt Template, you need to use the placeholder
+    [TARGETLANGUAGE] in the text. - Don''t name each step, just write them in a series
+    of posts. - Please add to the top that this prompt was written by @with_chatpt,
+    who teaches us how to use ChatGPT well. - Please add a post at the bottom that
+    promotes @with_chatpt to show how to use ChatGPT well. Instagram link : https://instagram.com/with_chatpt?igshid=NGExMmI2YTkyZg=='
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3058
+# teaser: Stop asking questions without consulting the right persona's! Get a list of all the
+# Personas/skill sets you need, from your [QUESTION] or [TASK]. Your Qu Answered too! By Sim2k.
+- id: 3058-all-the-personas-and-your-qu-answered
+  title: All the personas and your Qu Answered
+  tags:
+  - writing
+  - all
+  - personas
+  - answered
+  family: writing
+  body: At the very top of the response write in BOLD text, "If the output stops at
+    any time, please type 'Continue from the last sentence.' and it will continue
+    the output." Next write " **Prompt:** Get all the personas you need, and your
+    question answered **Version:** v0.3 **Owner:** Simeon Williams **Cross-platform
+    social media
+  enabled: true
+  required: []

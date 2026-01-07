@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1428
+# teaser: Shorten sentence with transition words.
+- id: 1428-shorten-sentence-with-transition-words
+  title: Shorten Sentence with transition words
+  tags:
+  - writing
+  - shorten
+  - sentence
+  - transition
+  - words
+  family: writing
+  body: 'Shorten with a shortening sentence. must be 100% human writing style, fix
+    grammar issues. All output shall be in [TARGETLANGUAGE]. the sentence to shorten
+    is : [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

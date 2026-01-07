@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4379
+# teaser: Rewrite any content/article by adding your content in prompt area. The output will be 100%
+# humanize and undetectable by all the AI Content Detectors RevisionTime: 2023-05-18T15:43:38.79Z
+- id: 4379-100-humanize-rewrite-article-activity-improve-topic-copywrit
+  title: '100% Humanize / Rewrite Article Activity: Improve Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - '100'
+  - humanize
+  - rewrite
+  - article
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1824663693166907392/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "100% Humanize / Rewrite Article"](https://www.aiprm.com/prompts/copywriting/improve/1824663693166907392/)_"
+    --- When it comes to writing content, two factors are crucial, "perplexity" and
+    "burstiness." Perplexity measures the complexity of text. Separately, burstiness
+    compares the variations of sentences. Humans tend to write with greater burstiness,
+    for example, with some longer or complex sentences alongside shorter ones. AI
+    sentences tend to be more uniform. Therefore, when writing the following content
+    I am going to ask you to create, I need it to have a good amount of perplexity
+    and burstiness. All output shall be in [TARGETLANGUAGE]. The text to rewrite is:
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

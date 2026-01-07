@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7697
+# teaser: Give me an outline and catchy subtitles to cover the following subject: RevisionTime:
+# 2023-04-12T13:24:01.979Z
+- id: 7697-content-plan-with-h2-subtitles-activity-ideation-topic-seo-8
+  title: "Content Plan with H2 subtitles Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - content
+    - plan
+    - subtitles
+    - activity
+    - ideation
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Content Plan with H2 subtitles"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Donne-moi un plan et des sous titres accrocheurs H2 permettant de traiter
+    le sujet suivant: [PROMPT] - rÃƒÂ©ponse en [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

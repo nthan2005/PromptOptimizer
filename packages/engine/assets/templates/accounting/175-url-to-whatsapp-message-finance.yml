@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 175
+# teaser: Create a Whatsapp message for link distribution on groups.
+- id: 175-url-to-whatsapp-message-finance
+  title: URL to WhatsApp message [finance]
+  tags:
+    - accounting
+    - url
+    - whatsapp
+    - message
+    - finance
+  family: Accounting
+  body:
+    "Create a WhatsApp message for financial market distribution groups from a
+    URL. The theme that should be promoted is in the URL slug. Create a short copy
+    from the AIDA framework. Use emojis and WhatsApp text formatting. Create five
+    options. Keep the url as it s, not linked inside text and in a new line. Important:
+    do not recommend any investiment. Don't make it look like a recommendation of
+    any kind. Don't make judgement s about the content. Just inform people about
+    the content. Don't be too appealing. Don't be sensationalist. This is the URL:
+    [PROMPT] The message should be in the following language: [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

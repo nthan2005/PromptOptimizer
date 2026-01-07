@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2383
+# teaser: Get an answer without AI's hallucination (a confident response not justified by AI's
+# training data)
+- id: 2383-get-an-answer-without-ai-s-hallucination
+  title: Get an answer without AI's hallucination
+  tags:
+    - respond
+    - answer
+    - without
+    - hallucination
+  family: Respond
+  body:
+    'Answer the question as truthfully as possible in [TARGETLANGUAGE], and if
+    you''re unsure of the answer, say "Sorry, I don''t know". Q: [PROMPT] A:'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

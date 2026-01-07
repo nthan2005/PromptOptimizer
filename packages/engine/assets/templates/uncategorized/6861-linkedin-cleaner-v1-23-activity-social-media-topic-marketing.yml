@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6861
+# teaser: This prompt will output raw copied LinkedIn profile career and education history data in
+# this format: Job title - Company name - Year from - Year to. RevisionTime: 2024-10-03T09:57:49.928Z
+- id: 6861-linkedin-cleaner-v1-23-activity-social-media-topic-marketing
+  title: "LinkedIn cleaner v1.23 Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - linkedin
+    - cleaner
+    - activity
+    - social
+    - media
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "LinkedIn cleaner v1.23"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write in [TARGETLANGUAGE], Please clean up the following data by listing each
+    entry like this: Job title - Company name - Year from - Year to. Sort them in
+    chronological order from newest to oldest. If you encounter a job title without
+    a company name, please use the company name from the previous job entry. Please
+    present the cleaned-up data in a markup box format. The data is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

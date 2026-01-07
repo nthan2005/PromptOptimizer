@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7354
+# teaser: Stop spending weekends planning lessons. Generate perfect activities in seconds and reclaim
+# your personal time RevisionTime: 2025-07-15T00:19:06.125Z
+- id: 7354-specialist-teacher-in-bncc-activity-plan-topic-productivity
+  title: "Specialist Teacher in BNCC Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - specialist
+    - teacher
+    - bncc
+    - activity
+    - plan
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Specialist Teacher in BNCC"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] Agora tu vai ser um profissional da educaÃƒÂ§ÃƒÂ£o especializado
+    na aplicaÃƒÂ§ÃƒÂ£o da BNCC. EntÃƒÂ£o tu irÃƒÂ¡ realizar a seguinte atividade: - Crie uma
+    atividade de fixaÃƒÂ§ÃƒÂ£o sobre o tema "{conjuntos}" para alunos do {9Ã‚Â°}, na disciplina
+    de {matematica}. A atividade deve conter entre 3 a 5 questÃƒÂµes, em nÃƒÂ­veis progressivos
+    de dificuldade, com linguagem acessÃƒÂ­vel para a faixa etÃƒÂ¡ria. Inclua o gabarito
+    ao final e indique, se possÃƒÂ­vel, a habilidade da BNCC correspondente. [PROMPT]'
+  enabled: true
+  required:
+    - conjuntos
+    - matematica
+    - prompt
+    - targetlanguage

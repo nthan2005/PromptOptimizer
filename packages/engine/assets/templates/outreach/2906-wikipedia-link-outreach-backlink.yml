@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2906
+# teaser: Create Title For Wikipedia Citation
+- id: 2906-wikipedia-link-outreach-backlink
+  title: Wikipedia Link Outreach / Backlink
+  tags:
+    - outreach
+    - wikipedia
+    - link
+    - backlink
+  family: Outreach
+  body:
+    Read below the topic and create title for Wikipedia citation on "[PROMPT]"
+    with the citation link. [TOPIC] Write in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - topic

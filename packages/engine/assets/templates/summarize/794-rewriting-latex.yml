@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 794
+# teaser: Correct my spelling and grammar.
+- id: 794-rewriting-latex
+  title: Rewriting latex
+  tags:
+    - summarize
+    - rewriting
+    - latex
+  family: Summarize
+  body:
+    'Apresente o resultado no idioma [TARGETLANGUAGE]. Corrigir minha ortografia
+    e gramatica [TARGETLANGUAGE]. Coloque o autor nas chaves de \citeonline{} [TARGETLANGUAGE].
+    Reescreva em linguagem tÃ©cnica e use a voz ativa [TARGETLANGUAGE]. Marque os
+    erros de concordÃ¢ncia, ortogrÃ¡fico e gramatical em negrito [TARGETLANGUAGE].
+    O texto para resumir Ã© este: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

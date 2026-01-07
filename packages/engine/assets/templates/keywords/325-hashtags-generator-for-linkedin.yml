@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 325
+# teaser: Generate Hashtags for your LinkedIn post
+- id: 325-hashtags-generator-for-linkedin
+  title: Hashtags Generator For LinkedIn
+  tags:
+    - keywords
+    - hashtags
+    - generator
+    - linkedin
+  family: keywords
+  body:
+    Recommend high performing Hashtags for the LinkedIn post [Write your text
+    here]. All output shall be in [TARGETLANGUAGE]. The text to recommend hashtags
+    for [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

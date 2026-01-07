@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2914
+# teaser: Create complete SEO optimised product content. Titles, Descriptions, CTA's all written for
+# you. Thanks for the likes :)
+- id: 2914-complete-seo-product-content
+  title: Complete SEO Product Content
+  tags:
+    - products
+    - complete
+    - seo
+    - product
+    - content
+  family: Products
+  body:
+    Write an SEO optimised Meta Title, Meta Description, Product Long Description,
+    Product Short Description for a product called [PROMPT], in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

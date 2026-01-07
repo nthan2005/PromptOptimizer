@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2332
+# teaser: The best way to optimize your text and to make sure you make no mistakes. (Works better for
+# smaller text, like paragraphs)
+- id: 2332-auto-correct-your-text
+  title: Auto Correct Your Text
+  tags:
+    - respond
+    - auto
+    - correct
+    - text
+  family: Respond
+  body:
+    "[PROMPT] Correct and highlight all the grammar and language mistakes in the
+    text above, even the small mistakes. Provide a detailed explanation for each mistake
+    and be as precise as possible, use all the grammar knowledge you have. Then re-write
+    the text with the corrections. In a separate topic, answer these questions: How
+    can I optimize this text? What are some parts I can sumarize? What can I add to
+    make it even better? Answer all the questions above in a detailed manner. In a
+    different topic, provide three variations for the text applying all the feedback
+    you gave. Variation 1 should be whatever you think is best, variation 2 should
+    be written in a informal manner and variation 3 should be very formal and use
+    complicated words. Strictly follow the specified order when correcting Organize
+    it in a chart so its easy to understant. Also make the rest of the next very organized
+    and visually engaging You are the master of [TARGETLANGUAGE]. All output shall
+    be in [TARGETLANGUAGE]."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

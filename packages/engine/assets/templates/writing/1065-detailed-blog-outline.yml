@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1065
+# teaser: Create a Detailed Blog Outline
+- id: 1065-detailed-blog-outline
+  title: Detailed Blog Outline
+  tags:
+    - writing
+    - detailed
+    - blog
+    - outline
+  family: writing
+  body:
+    "Your task is to make a detailed blog post outline for the text I give you.
+    Output will be in [TARGETLANGUAGE]. The text is to make a detailed blog post outline
+    is: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

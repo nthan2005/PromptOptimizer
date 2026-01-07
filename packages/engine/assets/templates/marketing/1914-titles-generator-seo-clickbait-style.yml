@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1914
+# teaser: Generate at Least 50 SEO, Clickbait Style Article Titles, List Format, Best for Use With My
+# AdSense Safe 2000+ Words Article Generator
+- id: 1914-titles-generator-seo-clickbait-style
+  title: Titles Generator | SEO | Clickbait Style
+  tags:
+    - marketing
+    - titles
+    - generator
+    - seo
+    - clickbait
+    - style
+  family: marketing
+  body:
+    "I'd like you to help me come up with a content schedule for my blog that
+    has the best chance of helping me rank for long tail keywords that are specific
+    to my keyword. I'll tell you my main target keyword in the prompt below. Please
+    target transaction style search terms only. Please come up with clickbait style
+    titles for these blog posts. Please provide at least 50 titles. Please provide
+    all responses in [TARGETLANGUAGE] The keyword I'm targeting is: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

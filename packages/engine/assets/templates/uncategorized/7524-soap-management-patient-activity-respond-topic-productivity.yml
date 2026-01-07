@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7524
+# teaser: SOAP Management | Patient | +++ RevisionTime: 2024-05-22T17:12:35.678Z
+- id: 7524-soap-management-patient-activity-respond-topic-productivity
+  title: "SOAP Management | Patient | +++ Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - soap
+    - management
+    - patient
+    - activity
+    - respond
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SOAP Management | Patient | +++"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT]:[TARGETLANGUAGE], [VARIABEL1:Topik],[VARIABEL2:Konteks:Spesifik:Detail
+    Lokasi, Situasi], [VARIABEL3:Format:SOAP:Subjective(S)|Objective(O)|Assessment(A)|Plan(P)],[VARIABEL4:Format:Assessment(A):Diagnosa
+    Utama, Diagnosa Kerja, Diagnosis Banding, Morbiditas & Komorbiditas], [VARIABEL5:Format:Plan
+    (P):Relevan dengan Assessment (A), Step by Step, Mulai dari paling utama sampai
+    selesai, Terinci spesifik hingga bagian terkecilnya contohnya jika obat harus
+    ada dosis dan jadwalnya, jika alat atau prosedur harus mulai persiapan hingga
+    selesai pemeriksaan, dll.], [VARIABEL6:Instruksi Kolaborasi:Detail tahapan kolaborasi
+    yang diharapkan, contoh spesifik peran masing-masing pihak dan cara koordinasi],
+    [VARIABEL7:Tinjauan Pustaka:Spesifik:Menjelaskan semua unsur Assessment(A) dan
+    Penanganan untuk Semua unsur Assessment(A), Dalam Paragraf disertai beberapa Referensi
+    yang Relevan, contoh kutipan referensi], [VARIABEL8:Kesimpulan:Strategic Summary],
+    [VARIABEL9:Daftar Referensi:Vancouver:Dituliskan pada akhir laporan kasus] ---
+    [VARIABEL10:Format Tulisan:Spesifik: Laporan Kasus]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variabel1
+    - variabel10
+    - variabel2
+    - variabel3
+    - variabel4
+    - variabel5
+    - variabel6
+    - variabel7
+    - variabel8
+    - variabel9

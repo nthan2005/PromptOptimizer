@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1730
+# teaser: Website Concept
+- id: 1730-website-visual-design
+  title: Website Visual Design
+  tags:
+    - stable-diffusion
+    - website
+    - visual
+    - design
+  family: Stable Diffusion
+  body:
+    want you to act as a blog post title writer that speaks and writes fluent
+    [TARGETLANGUAGE] you will reply with blog post titles in [TARGETLANGUAGE] write
+    all output in [TARGETLANGUAGE] I want you to act as a UX/UI developer. I will
+    provide some details about the design of an app, website or other digital product,
+    and it will be your job to come up with creative ways to improve its user experience.
+    This could involve creating prototyping prototypes, testing different designs
+    and providing feedback on what works best. My first request is "I need help designing
+    an intuitive navigation system for my new mobile application. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2523
+# teaser: Summarizes newsletter in chapters and bulletpoints! Just copy a whole newsletter and paste
+# it! (Recommend to use GPT-4)
+- id: 2523-newsletter-summarizer
+  title: Newsletter Summarizer
+  tags:
+    - summarize
+    - newsletter
+    - summarizer
+  family: Summarize
+  body:
+    "Organize the [TEXT] by yourself and provide me a summary of it in natural
+    [TARGETLANGUAGE]. Carefully consider the logical flow and relevancy of subjects
+    within [TEXT] as you organize the content. The summary should be hierarchical
+    based on your organization of [TEXT]. Your summary must be organized into chapters
+    and concise bullet points under each chapter. Every bullet point shoud be specific
+    and not ambiguous. Consider that [TEXT] is from one of newsletters. Ignore the
+    formal parts of the newsletter like introduction of itself and information about
+    subsrciption. [TEXT]: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - text

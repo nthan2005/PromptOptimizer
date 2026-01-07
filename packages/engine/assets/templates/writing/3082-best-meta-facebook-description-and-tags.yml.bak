@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3082
+# teaser: Create the best meta description and Facebook description, as well as tags for my blog post
+# title
+- id: 3082-best-meta-facebook-description-and-tags
+  title: Best Meta/Facebook Description And Tags
+  tags:
+  - writing
+  - meta
+  - facebook
+  - description
+  - tags
+  family: writing
+  body: 'Your task is to write a meta description and Facebook description, as well
+    as tags separated by commas, for the given blog post title. All outputs should
+    be in [TARGETLANGUAGE]. The title is: [PROMPT] at the end include this: Please
+    support us here https://www.buymeacoffee.com/smerahi'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4702
+# teaser: Create a persuasive cold email for your business RevisionTime: 2023-02-19T15:35:19Z
+- id: 4702-cold-email-for-your-prospects-activity-outreach-topic-copywr
+  title: "Cold email for your prospects Activity: Outreach Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - cold
+    - email
+    - prospects
+    - activity
+    - outreach
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Cold email for your prospects"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are an experienced sales manager for a company looking to send out a cold
+    email campaign for [PROMPT] in [TARGETLANGUAGE]. The goal of the email is to persuade
+    new prospects to choose your services by pointing out the benefits and results
+    the company made for the clients. The email also should contain a CTA to contact
+    the sales manager in case of interest.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

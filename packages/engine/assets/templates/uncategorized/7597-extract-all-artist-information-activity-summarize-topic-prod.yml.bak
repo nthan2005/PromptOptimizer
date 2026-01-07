@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7597
+# teaser: Getting all the artistic information about a cd cover, a poster, a manga volume cover, game
+# cover, etc. RevisionTime: 2023-11-28T08:44:03.084Z
+- id: 7597-extract-all-artist-information-activity-summarize-topic-prod
+  title: 'Extract All Artist Information Activity: Summarize Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - extract
+  - all
+  - artist
+  - information
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1790722156129415168/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Extract All Artist Information"](https://www.aiprm.com/prompts/productivity/summarize/1790722156129415168/)_"
+    --- Your task is to list in [TARGETLANGUAGE]. Can you list writing per line, all
+    the artistic information analysis, such as cover description, aspect ratio, clothes
+    style, artist, illustrator, art style, palette scheme, angles, colourimetry name,
+    poses, and background description, that you can extract from the cover or poster
+    of: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

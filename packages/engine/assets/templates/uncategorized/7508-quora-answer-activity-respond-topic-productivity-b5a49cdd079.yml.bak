@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7508
+# teaser: Write a personalized Quora answer to any query. Upvote if you like it. Check out my "Magic
+# Article Generator." RevisionTime: 2023-02-19T15:35:19Z
+- id: 7508-quora-answer-activity-respond-topic-productivity-b5a49cdd079
+  title: 'Quora Answer Activity: Respond Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - quora
+  - answer
+  - activity
+  - respond
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1784520619539562496/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Quora Answer"](https://www.aiprm.com/prompts/productivity/respond/1784520619539562496/)_"
+    --- Read the below-mentioned Quora Question. Pretend to be an expert on the subject.
+    Write 2 paragraphs of 300 words long answer . Be informal and greet the author.
+    Write it in [TARGETLANGUAGE]. Personalize the comment to sound as if you are talking
+    to the author. Write a fictional story from your own life. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

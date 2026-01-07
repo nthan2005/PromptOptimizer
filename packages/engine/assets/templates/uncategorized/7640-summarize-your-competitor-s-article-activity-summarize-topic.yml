@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7640
+# teaser: Summarize your article or competitor's article smartly. Please Upvote if you like it.
+# RevisionTime: 2023-02-19T15:35:19Z
+- id: 7640-summarize-your-competitor-s-article-activity-summarize-topic
+  title: "Summarize Your Competitor's Article Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - summarize
+    - competitor
+    - article
+    - activity
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Summarize Your Competitor''s Article"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as a content writing expert who is fluent in [TARGETLANGUAGE]. Read the
+    following blog article and summarize its key points in your own words. Ensure
+    that the summary is concise, accurate, and well-structured. Highlight the main
+    arguments, insights, and takeaways from the article. All outputs shall be in English.
+    To summarize this text, please refer to the following URL: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

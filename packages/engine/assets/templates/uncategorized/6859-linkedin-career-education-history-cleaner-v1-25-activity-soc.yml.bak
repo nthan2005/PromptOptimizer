@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6859
+# teaser: Paste in raw LinkedIn education or career history DATA and have ChatGPT clean it up, and
+# sort it! RevisionTime: 2024-10-03T09:57:49.802Z
+- id: 6859-linkedin-career-education-history-cleaner-v1-25-activity-soc
+  title: 'LinkedIn Career/Education History cleaner v1.25 Activity: Social Media Topic:
+    Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - linkedin
+  - career
+  - education
+  - history
+  - cleaner
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1806683990292430848/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "LinkedIn Career/Education History cleaner
+    v1.25"](https://www.aiprm.com/prompts/marketing/social-media/1806683990292430848/)_"
+    --- Firstly, Write in [TARGETLANGUAGE]. only reply to me in a markup box. Iâ€™d
+    like you to write only in this format: Job title - company name - year from -
+    year to If it is education history, please use this format: Degree - University
+    or establishment - year from - year to To get the Job titles, company names and
+    years worked, I will paste in some data. Please do your best to clean the data,
+    and only include the data I asked for in the format above. Do not include any
+    bullet points or â€œ-â€œ when you start a new line for a new job role. The data
+    is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

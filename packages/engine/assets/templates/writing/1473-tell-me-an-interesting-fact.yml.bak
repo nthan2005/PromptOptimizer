@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1473
+# teaser: Tell me an interesting fact in my language that people need to know. Insert keyword and
+# press ENTER.
+- id: 1473-tell-me-an-interesting-fact
+  title: Tell me an Interesting Fact
+  tags:
+    - writing
+    - tell
+    - interesting
+    - fact
+  family: writing
+  body: "Tell me an interesting fact in[TARGETLANGUAGE] about : [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

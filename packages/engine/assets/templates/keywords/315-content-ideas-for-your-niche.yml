@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 315
+# teaser: give me ideas for my niche in table for insert [YOURNICHE]
+- id: 315-content-ideas-for-your-niche
+  title: Content ideas for your niche
+  tags:
+    - keywords
+    - content
+    - ideas
+    - niche
+  family: keywords
+  body:
+    "I want to add to my topical authority, write me 30 ideas with catchy titles.
+    write in table form with categories. The output is [TARGETLANGUAGE]. The text
+    output is: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

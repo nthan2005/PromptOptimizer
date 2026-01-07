@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2684
+# teaser: Create a website layout (Sitemap) from just 1 or 2 keywords.
+- id: 2684-website-layout
+  title: Website Layout
+  tags:
+    - ideation
+    - website
+    - layout
+  family: ideation
+  body:
+    Create a sitemap for a [PROMPT] website with privacy policy and terms of service
+    pages
+  enabled: true
+  required:
+    - prompt

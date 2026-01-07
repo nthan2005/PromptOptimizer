@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7160
+# teaser: creat youtube shorts title from a video script RevisionTime: 2023-03-29T15:11:34.535Z
+- id: 7160-youtube-shorts-title-from-video-script-activity-writing-topi
+  title: 'Youtube Shorts title - from video script Activity: writing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - youtube
+  - shorts
+  - title
+  - video
+  - script
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1806676820901486592/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Youtube Shorts title - from video script"](https://www.aiprm.com/prompts/marketing/writing/1806676820901486592/)_"
+    --- create titles for youtube shorts videos, from this script from videos [PROMPT]
+    the titles should contain no more than 30 characters, counting spaces. In addition,
+    they should arouse curiosity, and should be complementary to what is being said
+    in the video. The titles must have a good hook to make people want to watch the
+    video to find out what the curious title is about. Each new sentence that is submitted
+    should be taken with a new script, for a new title. All output shall be in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

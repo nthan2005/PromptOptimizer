@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 179
+# teaser: Calculate your taxes and duties in any country! Our calculator will allow you to find out
+# the actual tax in any part of the world.
+- id: 179-world-vat-gst-calculator
+  title: World vat/gst Calculator
+  tags:
+    - accounting
+    - world
+    - vat
+    - gst
+    - calculator
+  family: Accounting
+  body:
+    "Your task is to calculate the amount from dependent tax. All output shall
+    be in [TARGETLANGUAGE]. There is World VAT/GST rates 2022. You need to update
+    the rates every 3 month and use the relevant. Take the information from here:
+    https://www.globalvatcompliance.com/globalvatnews/world-countries-vat-rates-2020/
+    Take the information about counry from the web-site and calculate the amount with
+    the tax. [PROMPT] [Counry Name] [Tax] [Amount with tax] [Amount without tax] Some
+    information about the tax in the country or state"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

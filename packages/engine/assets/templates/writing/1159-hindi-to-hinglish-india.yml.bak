@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1159
+# teaser: Translate hindi content into Hinglish (Hindi written in English alphabets)
+- id: 1159-hindi-to-hinglish-india
+  title: Hindi to Hinglish (India)
+  tags:
+  - writing
+  - hindi
+  - hinglish
+  - india
+  family: writing
+  body: 'Your task is to translate hindi content into Hinglish (Hindi written in English
+    alphabets) . All output should be in [TARGETLANGUAGE] . The details you must write
+    about this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2967
+# teaser: Classify a list of media in transactional page or informational page to find press, magazine
+# or blog to publish your contents
+- id: 2967-media-class
+  title: Media Class
+  tags:
+    - research
+    - media
+    - class
+  family: Research
+  body:
+    "Act like an SEO expert [TARGETLANGUAGE]. Classify JUST in Transaccional(shops,
+    clinics, services, ecommerce) or Informacional(blogs, press, magazine) the follow
+    list of websites: [LIST OF PPAA] Your response must be a table with two columns:
+    website and type [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

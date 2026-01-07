@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1852
+# teaser: Create a marketing plan from Your hope Conversion Score.
+- id: 1852-marketing-adviser
+  title: Marketing Adviser
+  tags:
+    - marketing
+    - adviser
+  family: marketing
+  body:
+    I am a digital marketing professional director for a company. Please consider
+    the necessary additional goals and digital marketing measures to reach more conversions
+    than [PROMPT] in a more cost-effective way. The total budget should be 100,000
+    yen per month. Our company is Facebookãƒ»Twitterãƒ» We have YouTube as our main
+    customer acquisition channel, and we advertise on each SNS. Please make a table
+    and think about the name of the medium, goals, contents, and budget. Please specify
+    the total budget amount on the last line. [TARGETLANGUAGE], please.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

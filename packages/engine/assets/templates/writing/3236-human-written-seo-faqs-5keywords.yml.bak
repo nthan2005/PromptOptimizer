@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3236
+# teaser: Just write the keyword
+- id: 3236-human-written-seo-faqs-5keywords
+  title: Human-written , SEO , FAQs , 5keywords
+  tags:
+  - writing
+  - human
+  - written
+  - seo
+  - faqs
+  - 5keywords
+  family: writing
+  body: 'It doesn''t write like an AI article, This is a long, human-level blog post,
+    Writing like talking to, plagiarism free, Use different expressions when using
+    the same word, use different verbs, Words and colloquial expressions used in daily
+    life, friendly tone, conversational style, Don''t put a link in it, put in # and
+    ##, a detailed table of contents, all output shall be in [TARGETLANGUAGE], the
+    text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

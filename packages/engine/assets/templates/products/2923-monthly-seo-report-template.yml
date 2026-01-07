@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2923
+# teaser: Monthly SEO Report (gpt4 recommended)
+- id: 2923-monthly-seo-report-template
+  title: Monthly SEO Report template
+  tags:
+    - products
+    - monthly
+    - seo
+    - report
+    - template
+  family: Products
+  body:
+    "Prompt: Create a monthly SEO campaign summary using the provided information.
+    Use a concise, bullet-point style to emphasize key achievements and upcoming initiatives.
+    Maintain a positive tone, focusing on growth and progress. Improve my [TARGETLANGUAGE].
+    Use the following format: Monthly SEO Report - < Add This Months Name here Tasks
+    Summary: [PROMPT] Please summarize above tasks into 1-2 short bullet points. This
+    Month's Wins: - Successfully executed key on-page optimizations - [VARIABLE1]
+    Next Month's Initiatives: - [VARIABLE2] [:point_right: Click here to access your
+    monthly SEO report] [VARIABLE1:This Month's Wins] [VARIABLE2:Next Month's Initiatives]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2

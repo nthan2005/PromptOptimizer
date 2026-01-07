@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8521
+# teaser: Human Written | Almost Unique | Plagiarism Free | SEO Optimized Long-Form Article With
+# Proper Outline RevisionTime: 2023-10-17T07:46:05.241Z
+- id: 8521-human-like-almost-unique-article-activity-writing-topic-seo
+  title: "Human Like | Almost Unique Article Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - human
+    - like
+    - almost
+    - unique
+    - article
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Human Like | Almost Unique Article"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- "First, Please generate an simple, short title using an #&nbsp; in the beginning,
+    hit enter. Write a 100% human-written, plagiarism-free, grammar and spell mistakes
+    free, SEO-optimized, long-form article on [PROMPT] using creative Tone in [TARGETLANGUAGE].
+    The article should be divided into several headings. Please include a conclusion
+    summarizing the main points of the article before faqs. Additionally, please include
+    a section with frequently asked questions (FAQs) with answers related to the topic.
+    The article should be informative, engaging, and easy to read, and should be completely
+    original (avoiding any copy-pasting from the internet). The minimum word count
+    for the article must be [3000]. Please continue writing until you reach the [desired
+    word count] and try to be as concise as possible. Make sure to do thorough research
+    on the topic and write in very easy language, avoiding any direct copying or plagiarism.
+    Hit Enter after each line written. You are a skilled writer using ChatGPT to compose
+    articles. Your goal is to create a captivating article on [topic] while making
+    sure that the essential keywords stand out. Whenever you mention a significant
+    keyword or phrase, enclose it within double asterisks (keyword) to make it bold
+    and visually prominent."'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

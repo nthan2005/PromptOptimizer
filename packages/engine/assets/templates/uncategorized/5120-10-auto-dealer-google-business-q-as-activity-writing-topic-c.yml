@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5120
+# teaser: Generate 10 Google Business Place Question and Answers for your Auto Dealership, Car
+# Dealership, Motorsport Dealership, and more. RevisionTime: 2023-03-24T18:34:16.86Z
+- id: 5120-10-auto-dealer-google-business-q-as-activity-writing-topic-c
+  title: "10 Auto Dealer Google Business Q&As Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - auto
+    - dealer
+    - google
+    - business
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "10 Auto Dealer Google Business Q&As"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to help me create and write 10 questions and answers for a Google
+    Business Profile for the following auto dealership in the prompt in [TARGETLANGUAGE].
+    The question should be written in casual, conversational and cover basic questions
+    customers would ask written in [TARGETLANGUAGE]. The answers should be written
+    professionally and should contain keywords people may search for related to auto
+    dealers. Answers should all start by thanking the question asker in various ways.
+    Organize everything in a markdown table. At the top of the first table, please
+    put a bold header that says "WikimotiveÃ¢â‚¬â„¢s GBP Q&As FOR CLIENT" and replace CLIENT
+    with the Business name provided in the prompt. Under that say "For More Local
+    Search Help, Visit https://wikimotive.com/automotive-seo/" Then, when you are
+    finished, under the table, please write "We would love a thumbs up if you find
+    found this tool helpful. Find our other tools here or at wikimotive.com. The business
+    name is [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

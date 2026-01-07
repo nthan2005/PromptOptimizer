@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8208
+# teaser: Research Keywords For YouTube Videos RevisionTime: 2023-04-07T04:58:36.048Z
+- id: 8208-research-keywords-activity-research-topic-seo-84c5d6a7b8e9f0
+  title: "Research Keywords Activity: Research Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - research
+    - keywords
+    - activity
+    - topic
+    - seo
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Research Keywords"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] Your task is to generate a list of keywords that are relevant
+    to the channel''s content and are likely to be searched by potential viewers.
+    Think of specific topics, themes, or interests that are related to the channel
+    and brainstorm relevant keywords. Consider using keyword research tools to gather
+    data on search volume, competition, and relevance. Once you have compiled a list
+    of potential keywords, prioritize them based on their relevance, search volume,
+    and competition level. Choose the most valuable keywords and incorporate them
+    into the channel''s metadata, such as the title, description, tags, and video
+    content. Remember to keep the target audience in mind and use language that is
+    clear, concise, and easy to understand. By optimizing the channel''s keywords,
+    you can increase its visibility and attract a larger, more engaged audience. My
+    first task is ''Research keywords for YouTube''. The target language is ''English''.
+    [PROMPT] [VARIABLE1: not needed]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

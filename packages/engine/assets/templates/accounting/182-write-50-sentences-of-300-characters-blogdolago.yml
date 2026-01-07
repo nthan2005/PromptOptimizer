@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 182
+# teaser: Escreva uma lista com 50 frases [KEYWORD]
+- id: 182-write-50-sentences-of-300-characters-blogdolago
+  title: Write 50 sentences of 300 characters (blogdolago)
+  tags:
+    - accounting
+    - write
+    - sentences
+    - "300"
+    - characters
+    - blogdolago
+  family: Accounting
+  body:
+    FaÃ§a uma lista com 50 frases sobre [PROMPT] 300 caracteres cada frase. Use
+    um tom motivacional. [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

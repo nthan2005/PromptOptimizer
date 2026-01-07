@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6858
+# teaser: Act as a LinkedIn Community Manager, and write a caption for [PROMPT] RevisionTime:
+# 2024-10-03T09:56:07.987Z
+- id: 6858-linkedin-caption-activity-social-media-topic-marketing-cc647
+  title: 'Linkedin Caption Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - linkedin
+  - caption
+  - activity
+  - social
+  - media
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1807905570737610752/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Linkedin Caption\"](https://www.aiprm.com/prompts/marketing/social-media/1807905570737610752/)_\"\
+    \ --- Act as a LinkedIn Community Manager, and write a caption for [PROMPT] using\
+    \ the format: HOOK, COMMON MISCONCEPTION (less than 15 words), CURIOSITY PROVOKING\
+    \ QUESTION, and then add more value related to the [PROMPT] from above. End it\
+    \ with a call-to-comment. Replace words with emojis also[HOOK: ðŸ’¥ COMMON MISCONCEPTION:\
+    \ ðŸ˜¬ â\x9DŒ CURIOSITY PROVOKING QUESTION: ðŸ¤”â\x9D“ VALUE: ðŸ’¡ðŸ‘¨â€\x8DðŸ’»\
+    \ CALL-TO-COMMENT: ðŸ’­ðŸ‘‡] [TARGETLANGUAGE] [English]"
+  enabled: true
+  required:
+  - hook
+  - prompt
+  - targetlanguage

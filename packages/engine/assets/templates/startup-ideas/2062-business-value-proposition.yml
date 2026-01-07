@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2062
+# teaser: Business Value Proposition
+- id: 2062-business-value-proposition
+  title: Business Value Proposition
+  tags:
+    - startup-ideas
+    - business
+    - value
+    - proposition
+  family: Startup Ideas
+  body:
+    Imagine you are a [PROMPT] tasked with creating a top notch value proposition
+    for a new product or service. Your goal is to succinctly communicate the benefits
+    of the product or service to potential customers in a way that convinces them
+    to make a purchase or take some other desired action. Think about what sets the
+    product or service apart from others on the market, and consider the needs and
+    desires of your target audience. What problem does your product or service solve,
+    and how does it make the customer's life better? Craft a compelling value proposition
+    statement that clearly communicates the unique value that your product or service
+    provides to customers. Make it concise, easy to understand, and memorable. Remember
+    to focus heavily on the benefits, not just the features of the product or service.
+    My first task is to create a top notch value proposition. The target language
+    is [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

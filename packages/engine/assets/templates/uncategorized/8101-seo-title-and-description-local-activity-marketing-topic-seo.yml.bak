@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8101
+# teaser: Make a SEO title and description for local SEO with up to 3 Geographies RevisionTime:
+# 2023-06-06T11:45:50.73Z
+- id: 8101-seo-title-and-description-local-activity-marketing-topic-seo
+  title: 'SEO title and description - Local Activity: marketing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - seo
+  - title
+  - description
+  - local
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/1794089315400413184/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "SEO title and description - Local"](https://www.aiprm.com/prompts/seo/marketing/1794089315400413184/)_"
+    --- Develop a SEO title and description from the text from this landing page [PROMPT]
+    - Use only knowledge from the website and the geographies. the description can
+    maximum be 160 characters and the titel a maximum of 60 characters. All output
+    shall be in [TARGETLANGUAGE]. Insert in to a table'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

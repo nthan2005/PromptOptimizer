@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6531
+# teaser: [TARGETLANGUAGE]: Portuguese [PROMPT]: â€œWhat information is most relevant to you when
+# qualifying leads pulled from Facebook? Consider factors like a valid phone number and an active
+# Instagram presence, which are essential in determining whether the lead can be leveraged in your
+# campaigns. RevisionTime: 2024-10-09T22:48:01.62Z
+- id: 6531-qualifying-leads-extracted-from-facebook-activity-marketing
+  title: 'Qualifying Leads Extracted from Facebook Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - qualifying
+  - leads
+  - extracted
+  - facebook
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/2009728895398187008/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Qualifying Leads Extracted from Facebook"](https://www.aiprm.com/prompts/marketing/marketing/2009728895398187008/)_"
+    --- [TARGETLANGUAGE]: Portuguese [PROMPT]: â€œFilter the lead list extracted from
+    Facebook that contains the following columns: name, phone number, Facebook profile,
+    and Instagram link. The qualification criteria is: only display leads who have
+    a valid phone number and an active Instagram profile with at least 1,000 followers.
+    Remove leads with incomplete or duplicate information. Display name, phone number,
+    Facebook profile and Instagram link of qualified leads.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

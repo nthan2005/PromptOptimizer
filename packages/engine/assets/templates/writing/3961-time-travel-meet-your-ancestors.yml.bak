@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3961
+# teaser: Time Travel to meet ancestors in a specific country, and learn about history and traditions
+- id: 3961-time-travel-meet-your-ancestors
+  title: Time Travel & Meet Your Ancestors
+  tags:
+  - writing
+  - time
+  - travel
+  - meet
+  - ancestors
+  family: writing
+  body: Write a short story about a time traveler who goes back in time to meet their
+    ancestors. the name of the time traveler and the country their ancestors are from.
+    is provided in the following text and the year is also given in [PROMPT] to which
+    you should modify the story and the answer should always be in [TARGETLANGUAGE].
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

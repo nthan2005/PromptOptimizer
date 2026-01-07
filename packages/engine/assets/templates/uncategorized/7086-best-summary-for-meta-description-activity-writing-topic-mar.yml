@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7086
+# teaser: Create the best summary for my context RevisionTime: 2023-11-12T04:37:02.636Z
+- id: 7086-best-summary-for-meta-description-activity-writing-topic-mar
+  title: "Best summary for meta description Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - summary
+    - meta
+    - description
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best summary for meta description"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to summarize the text I give you in 40 words or maximun 300 characters.
+    All output shall be [TARGETLANGUAGE]. The test to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

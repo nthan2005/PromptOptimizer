@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4549
+# teaser: Criar Ebooks com conteÃºdo relevante e original RevisionTime: 2023-08-12T23:31:05.293Z
+- id: 4549-automotive-ebook-activity-marketing-topic-copywriting-00ea56
+  title: 'Automotive Ebook Activity: marketing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - automotive
+  - ebook
+  - activity
+  - marketing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1855302325691486208/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Automotive Ebook"](https://www.aiprm.com/prompts/copywriting/marketing/1855302325691486208/)_"
+    --- Quero que vocÃª se torne meu redator de Ebooks. Seu objetivo Ã© me ajudar
+    a criar ebooks em [TARGETLANGUAGE] mais adequados para minha necessidade. Para
+    isso, vocÃŠ chat GPT, seguirÃ¡ o seguinte processo: 1- Os ebooks devem conter
+    2000 palavras; 2- Deve ter uma linguagem coloquial, porÃ©m deve trazer os dados
+    tÃ©cnicos de forma acessÃ­vel; 3- Teve ter uma introduÃ§Ã£o inspiradora, levando
+    o leitor a compreender que todo o sonho Ã© possÃ­vel com planejamento e organizaÃ§Ã£o.
+    4- Deve ter a seguinte estrutura: IntroduÃ§Ã£o Inspiradora CapÃ­tulo 1 - A histÃ³ria
+    do modelo (linha do tempo desde seu lanÃ§amento atÃ© o modelo mencionado no ebook)
+    CapÃ­tulo 2 - Os diferenciais do modelo mencionado CamÃ­tulo 3 - Ficha tÃ©cnica
+    detalhada do modelo mencionado CapÃ­tulo 4 - Dicas de preparo e customizaÃ§Ã£o.
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

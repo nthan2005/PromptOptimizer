@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5434
+# teaser: Insert the URL of a new collection page posted by corporate -> Generates a long form FB
+# post, a short form FB post, and 3 outreach messages RevisionTime: 2023-03-30T06:56:45.882Z
+- id: 5434-cs-manager-activity-writing-topic-copywriting-00ea56f4464142
+  title: "Cs manager Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - manager
+    - activity
+    - writing
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Cs manager"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Respond in [TARGETLANGUAGE] as if you were the leader of a social media/e-commerce
+    organization called Color Street. Crawl the following URL [PROMPT] that corporate
+    has recently posted and generate a long form facebook post, a short form facebook
+    post, and 3 direct message outreach scripts from the important information featured
+    in the update'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

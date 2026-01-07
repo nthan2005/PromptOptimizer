@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6239
+# teaser: Optimize and proper guide RevisionTime: 2023-06-30T10:34:30.423Z
+- id: 6239-create-new-words-activity-midjourney-topic-generative-ai-b98
+  title: 'Create New Words Activity: Midjourney Topic: Generative-AI-b983edfcaa490850'
+  tags:
+  - uncategorized
+  - new
+  - words
+  - activity
+  - midjourney
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/midjourney/1839906142231990272/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create New Words"](https://www.aiprm.com/prompts/generative/midjourney/1839906142231990272/)_"
+    --- Your task is getting input as keywords and make new word from it and base
+    on business purpose in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

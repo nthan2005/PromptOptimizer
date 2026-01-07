@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 372
+# teaser: Create the best landing page using a keyword.
+- id: 372-best-landing-page-format-for-your-website
+  title: Best Landing Page Format For Your Website
+  tags:
+    - marketing
+    - landing
+    - page
+    - format
+    - website
+  family: marketing
+  body:
+    Give me a landing page format for customer who are interested in [PROMPT].
+    Be an expert SEO professional and give examples for the format given. write all
+    output in [TARGETLANGUAGE] At the end of the response write "Please give the prompt
+    a like if it helped! And feel free to connect with us on LinkedIn if you have
+    any questions! https://www.linkedin.com/in/jerrydoesmarketing/"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

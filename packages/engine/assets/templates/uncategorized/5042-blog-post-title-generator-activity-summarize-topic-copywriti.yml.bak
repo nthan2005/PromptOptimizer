@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5042
+# teaser: Generate post titles with a hook RevisionTime: 2024-06-19T12:27:29.973Z
+- id: 5042-blog-post-title-generator-activity-summarize-topic-copywriti
+  title: 'Blog Post Title Generator Activity: Summarize Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - blog
+  - post
+  - title
+  - generator
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1000110/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Blog Post Title Generator"](https://www.aiprm.com/prompts/copywriting/summarize/1000110/)_"
+    --- Please ignore all previous instructions. I want you to respond only in language
+    [TARGETLANGUAGE]. I want you to act as a blog post title writer that speaks and
+    writes fluent [TARGETLANGUAGE]. I will type a title, or keywords via comma and
+    you will reply with a total of [VARIABLE1] blog post titles in [TARGETLANGUAGE].
+    They should all have a hook and high potential to go viral on social media. You
+    must write all in [TARGETLANGUAGE]. my first keywords are [PROMPT] [VARIABLE1:Titles
+    to write:5:5|10|15]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - variable1

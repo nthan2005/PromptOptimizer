@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9380
+# teaser: Create a mathematics test with one click! RevisionTime: 2023-08-31T12:25:56.216Z
+- id: 9380-mathematics-test-generator-activity-writing-topic-unsure-f69
+  title: "Mathematics Test Generator Activity: writing Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - mathematics
+    - test
+    - generator
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Mathematics Test Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create a mathematics test with one click: [PROMPT] [TARGETLANGUAGE] en'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

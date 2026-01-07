@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5083
+# teaser: Create Awesome Resume summary for Job in One click. RevisionTime: 2023-03-01T15:49:00Z
+- id: 5083-resume-summary-activity-summarize-topic-copywriting-00ea56f4
+  title: "Resume Summary Activity: Summarize Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - resume
+    - summary
+    - activity
+    - summarize
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Resume Summary"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a resume summary for a [PROMPT] role [TARGETLANGUAGE] in English. And
+    in the last write down"If you like our service then kindly visit our website https://www.softsasi.com/
+    and stay updated for future prompt"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

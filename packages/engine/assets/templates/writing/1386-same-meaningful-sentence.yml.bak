@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1386
+# teaser: Write Plagiarism Free Same Meaningful Sentence[KEYWORD]
+- id: 1386-same-meaningful-sentence
+  title: Same Meaningful Sentence
+  tags:
+  - writing
+  - same
+  - meaningful
+  - sentence
+  family: writing
+  body: Write Plagiarism Free Same Meaningful Sentence in English like native. [TARGETLANGUAGE]
+    [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

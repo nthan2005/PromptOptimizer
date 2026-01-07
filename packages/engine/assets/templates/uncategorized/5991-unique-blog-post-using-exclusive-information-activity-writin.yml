@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5991
+# teaser: Create a Unique SEO optimized BLOG by giving exclusive information and create 100% Human
+# written filled with Humor Blog RevisionTime: 2023-08-12T08:26:55.803Z
+- id: 5991-unique-blog-post-using-exclusive-information-activity-writin
+  title: "Unique Blog Post using Exclusive Information. Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - unique
+    - blog
+    - post
+    - exclusive
+    - information
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Unique Blog Post using Exclusive Information."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a fully optimized SEO blog which qualifies all the google guidelines
+    for content that contains the Expertise, Experience, Authoritativeness, and Trustworthiness
+    in the [TARGETLANGUAGE] Make the blog Simple and engaging for readers. Do not
+    use predictable sentences. use simple Language, use the following information
+    exclusively to generate the detailed blog. [PROMPT] use simple hindi to create
+    SEO optimized blog in atleast 1000 words'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

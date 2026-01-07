@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4727
+# teaser: teach me a foreign language, talk about a subject [KEYWORD] RevisionTime:
+# 2023-03-26T22:42:36.043Z
+- id: 4727-iqrco-de-language-exchange-activity-persuade-topic-copywriti
+  title: "[iQRco.de] Language Exchange Activity: Persuade Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - iqrco
+    - language
+    - exchange
+    - activity
+    - persuade
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "[iQRco.de] Language Exchange"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- the subject is [PROMPT] in [TARGETLANGUAGE] - 5th grade reading level output.
+    lets bantor back and forth.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 798
+# teaser: Smart financial summarize of pure numbers from earning news. Simply copy a message about the
+# quarterly figures, for example from SeekingAlpha, into the input field and let the magic happen.
+- id: 798-smart-financial-summarize-of-earning-news
+  title: Smart financial summarize of earning news
+  tags:
+    - summarize
+    - smart
+    - financial
+    - earning
+    - news
+  family: Summarize
+  body:
+    "Please ignore all previous instructions. I want you to respond only in language
+    [TARGETLANGUAGE]. Act like a financial journalist. I give you the latest quarterly
+    figures of a company. First create a summary text for a blog post from these quarterly
+    figures. If a statement from the CEO is included, include that in a paragraph
+    as well. Then create an opinion on the reported figures and tell what is positive
+    and what is negative about the quarterly figures. Then generate a table comparing
+    the quarterly figures mentioned. If a percentage increase of a number is given,
+    calculate the initial number and transfer this value to the table. Finally, create
+    a short company profile for the reader, so that the reader knows what the main
+    business of the company is. Add a textlink to the google finanance site of the
+    company in this company profile. Add a suitable emoji to the most important headlines
+    at the beginning. Follow classic SEO rules and create appropriate subheadings.
+    The quarterly figures are: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

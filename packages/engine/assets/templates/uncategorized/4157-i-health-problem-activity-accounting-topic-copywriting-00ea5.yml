@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4157
+# teaser: AI Health Problem RevisionTime: 2023-09-19T11:20:49.237Z
+- id: 4157-i-health-problem-activity-accounting-topic-copywriting-00ea5
+  title: "I Health Problem Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - health
+    - problem
+    - activity
+    - accounting
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "I Health Problem"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your role is that of an expert Healthcare Practitioner. I will give you the
+    details of the patient''s complaint, narrated in his own words. Please return
+    the response in JSON format, as explained in the following example. This is the
+    expected response to the Complainant''s statement: "I have been experiencing severe
+    headaches, dizziness, and blurred vision for the past week. The pain seems to
+    be concentrated on one side of my head, and it''s becoming increasingly difficult
+    for me to focus on daily tasks" { "departments": [ "Neurology", "Ophthalmology"
+    ], "consulation_statement": "Based on your description, it is advisable to consult
+    with specialists in the Neurology and Ophthalmology departments for a thorough
+    evaluation and diagnosis of your symptoms." } } [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

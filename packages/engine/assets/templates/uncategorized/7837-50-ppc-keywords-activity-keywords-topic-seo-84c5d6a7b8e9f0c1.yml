@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7837
+# teaser: 50 PPC keywords RevisionTime: 2023-03-02T17:47:58.077Z
+- id: 7837-50-ppc-keywords-activity-keywords-topic-seo-84c5d6a7b8e9f0c1
+  title: "50 PPC keywords Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - ppc
+    - keywords
+    - activity
+    - topic
+    - seo
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "50 PPC keywords"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Give me 50 PPC keywords that could be used for "[PROMPT]" and created a table
+    with the avg. monthly searches, and top to lowest page bid with competition ranging
+    from (Low, Medium, high) [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

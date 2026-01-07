@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 795
+# teaser: Explains everything in a straightforward way. Optionally with sarcasm - just for fun.
+- id: 795-rockochamp-s-explain-like-i-m-five-years-old
+  title: "Rockochamp's: Explain Like I'm Five Years Old"
+  tags:
+    - summarize
+    - rockochamp
+    - explain
+    - like
+    - five
+    - years
+  family: Summarize
+  body:
+    'Target output language: [TARGETLANGUAGE] Output should contain sarcasm: [VARIABLE1]
+    Instruction: Explain "[PROMPT]" like I''m five years old, including a brief history,
+    some examples, and an interesting fact. [VARIABLE1:Sarcasm:Off:Off|On]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

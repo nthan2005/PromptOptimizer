@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1929
+# teaser: Paste the transcript into this prompt for perfect chapters! This works best for videos less
+# than 10 minutes. (Chat GPT won't allow more text entered into the prompt)
+- id: 1929-youtube-chapters-generator
+  title: Youtube Chapters Generator
+  tags:
+    - marketing
+    - youtube
+    - chapters
+    - generator
+  family: marketing
+  body:
+    "In [TARGETLANGUAGE] create a list of key moments with their coordinating
+    time stamps where it was discussed in the video. Use this as an example for the
+    timestamps 09:23 Transcript: [PROMPT] When completed, ask for any remaining transcript
+    for the video and then combine all parts of the transcript into 1 list of time
+    stamps and key moments."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

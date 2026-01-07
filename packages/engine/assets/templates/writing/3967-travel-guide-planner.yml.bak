@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3967
+# teaser: Create a weekly plan with all the information about the tourist destination you want to
+# visit.
+- id: 3967-travel-guide-planner
+  title: Travel guide/planner!
+  tags:
+  - writing
+  - travel
+  - planner
+  family: writing
+  body: Escribe un plan para un viaje sobre el pais o el lugar que te proporciona
+    el usuario, quiero que planifiques un plan semanal [PROMPT] [TARGETLANGUAGE].
+    Quiero que para cada dÃƒÂ­a planifiques todo el dia hasta donde van a comer, las
+    activades y completamente todo. Quiero que pongas el precio aproximado de lo que
+    se van a gastar aporximadamente en la ocmida, actvidades, etc... Quiero que tambine
+    digas recomiendaciones de hoteles.
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

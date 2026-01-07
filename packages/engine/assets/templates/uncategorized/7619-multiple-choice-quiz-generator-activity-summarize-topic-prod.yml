@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7619
+# teaser: Generates one multiple choice quiz question with four answers based on your topic or
+# question. RevisionTime: 2023-03-09T19:02:06Z
+- id: 7619-multiple-choice-quiz-generator-activity-summarize-topic-prod
+  title: "Multiple Choice Quiz Generator Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - multiple
+    - choice
+    - quiz
+    - generator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Multiple Choice Quiz Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I''d like you to write one quiz question based on my topic. All output should
+    be in [TARGETLANGUAGE] Please also include four possible answers, but only one
+    of the answers can be correct. Please display the correct answer below the answers.
+    My topic is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

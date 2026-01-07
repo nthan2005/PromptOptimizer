@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 693
+# teaser: A re-writer that re-writes [Paragraph]
+- id: 693-re-writer
+  title: re-writer
+  tags:
+    - script-writing
+    - writer
+  family: Script Writing
+  body:
+    Act as a re-writing machine. I will provide a paragraph of research paper.
+    You will rewrite the paragraph in [TARGETLANGUAGE]. The paragraph should have
+    the similar meaning and convey similar information, but have different manner
+    and pass the plagiarism check. Here is the paragraph [Paragraph:Paragraph] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

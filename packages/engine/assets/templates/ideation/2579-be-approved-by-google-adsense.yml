@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2579
+# teaser: Create a 100% original post with minimum 400 words to be approved by Google Adsense from
+# [TITTLE POST]
+- id: 2579-be-approved-by-google-adsense
+  title: Be Approved By Google Adsense
+  tags:
+    - ideation
+    - approved
+    - google
+    - adsense
+  family: ideation
+  body:
+    Your task is to create a 100% original post with minimum 400 words to be approved
+    by Google Adsense program about [Tittle post]. All outputs shall be in [TARGETLANGUAGE]
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

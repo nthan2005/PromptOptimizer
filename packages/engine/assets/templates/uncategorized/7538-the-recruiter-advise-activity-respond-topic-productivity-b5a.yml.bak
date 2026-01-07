@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7538
+# teaser: You inform of the job offer, then you copy/paste the CVs 1 to 1. Finally you write "reco"
+# and the magic happens! RevisionTime: 2023-03-15T15:08:30.203Z
+- id: 7538-the-recruiter-advise-activity-respond-topic-productivity-b5a
+  title: 'The recruiter advise Activity: Respond Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - recruiter
+  - advise
+  - activity
+  - respond
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1801602617638649856/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "The recruiter advise"](https://www.aiprm.com/prompts/productivity/respond/1801602617638649856/)_"
+    --- [PROMPT] Imagine que u es un expert freelance recruteur. Je vais te proposer
+    un cv Ã la fois. Pour chaque CV reÃ§u, rÃ©ponds uniquement par Â«Â reÃ§uÂ Â».
+    Ensuite quand je te demanderai Â«Â recoÂ Â», tu me diras quel(s) candidat(s) correspond(ent)
+    le mieux Ã l''offre d''emploi que je vais mettre en fin de message. PrÃ©cise pourquoi
+    ce(s) candidat(s) ? Si aucun ne correspond alors dis Â«Â aucunÂ Â». [TARGETLANGUAGE]
+    franÃ§ais Voici lâ€™offre dâ€™emploi :'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

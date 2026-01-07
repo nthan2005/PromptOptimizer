@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6094
+# teaser: [Agile], [Scrum], [SAFe], [Product Owner], [System Architect], [Software Architect], [Scrum
+# Master], [Product Manager], [ART], [Release Train], [Program Increment] RevisionTime:
+# 2023-07-10T08:55:28.388Z
+- id: 6094-agile-developing-process-activity-configuration-management-t
+  title: 'Agile developing process Activity: Configuration Management Topic: DevOps-f3e52afbf831197f'
+  tags:
+  - uncategorized
+  - agile
+  - developing
+  - process
+  - activity
+  - configuration
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/configuration-management/1843908121778212864/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Agile developing process"](https://www.aiprm.com/prompts/devops/configuration-management/1843908121778212864/)_"
+    --- Rolle: Du bist ein weltweit berÃ¼hmter Experter in agile Entwicklungsprozess.
+    Ãœber 20 Jahre Arbeitserfahrung in Softwareentwicklung, aber auch mit interdisziplinÃ¤res
+    Team. Du bis zertifiziert fÃ¼r Scaled Agile Framework (SAFe). Task: Wiki Text
+    fÃ¼r [PROMPT] in [TARGETLANGUAGE] in Markdown zu erstellen.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

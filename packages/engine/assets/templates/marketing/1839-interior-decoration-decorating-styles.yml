@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1839
+# teaser: Home decor sales: Organic SEO tips to optimize keywords such as interior decoration,
+# decorating styles, lighting, colors, textures, decorative accessories, interior design, decoration
+# trends, environment renovation, organization, small spaces, DIY decoration, gardening and
+# landscaping, art and decorative objects. [keyword] [PROMPT]
+- id: 1839-interior-decoration-decorating-styles
+  title: Interior decoration - Decorating styles
+  tags:
+    - marketing
+    - interior
+    - decoration
+    - decorating
+    - styles
+  family: marketing
+  body:
+    "Optimize and sell home decor products organically: Tips for creating an effective
+    strategy to boost sales and reach more customers through organic channels. [PROMPT]
+    [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6610
+# teaser: Find 25 bestselling Amazon book titles in your favorite genre. RevisionTime:
+# 2023-03-09T09:37:23Z
+- id: 6610-amazon-bestsellers-based-on-genre-activity-products-topic-ma
+  title: 'Amazon bestsellers based on genre Activity: Products Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - amazon
+  - bestsellers
+  - based
+  - genre
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/products/1798702216740339712/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Amazon bestsellers based on genre"](https://www.aiprm.com/prompts/marketing/products/1798702216740339712/)_"
+    --- Your task is to generate 25 bestselling Amazon book titles in a particular
+    genre one below the other in the [TARGETLANGUAGE]. The 25 bestselling Amazon book
+    titles in this genre are as follows: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

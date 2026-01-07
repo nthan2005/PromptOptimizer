@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7514
+# teaser: Type your email and let ChatGPT make it look professional and correct grammar for you
+# RevisionTime: 2023-07-21T06:08:44.276Z
+- id: 7514-rewrite-email-activity-respond-topic-productivity-b5a49cdd07
+  title: "Rewrite email Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - rewrite
+    - email
+    - activity
+    - respond
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Rewrite email"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Rewrite this email, make it look professional and correct grammar. It should
+    be in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

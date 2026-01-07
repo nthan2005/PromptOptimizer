@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 213
+# teaser: Game Name or Title
+- id: 213-best-aso-and-seo-for-games-titles-and-description-google-pla
+  title: Best ASO and SEO for Games titles and description Google Play
+  tags:
+    - games
+    - aso
+    - seo
+    - titles
+    - description
+    - google
+  family: Games
+  body:
+    Write Title, Short Description and Long Descriptions for Games in the Google's
+    Play Store for the [PROMPT] in the [TARGETLANGUAGE] Title length should be 30
+    letters and short descriptions should be 80 letters and long description should
+    be 600 letters at least and all these three should be SEO Optimized and popular
+    keywords should be used.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

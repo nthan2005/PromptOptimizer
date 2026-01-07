@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2283
+# teaser: Act as a nutritionist and create recipes for a diabetic, hypertensive and having cholesterol
+- id: 2283-recipes-for-diabetic-person
+  title: Recipes for diabetic person
+  tags:
+    - plan
+    - recipes
+    - diabetic
+    - person
+  family: Plan
+  body:
+    "[TARGETLANGUAGE] [PROMPT] Act as a nutritionist and create recipes for a
+    diabetic, hypertensive and having cholesterol"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

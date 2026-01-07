@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2980
+# teaser: Create simple FAQs schema for any blog post/page. Use it as custom HTML code if you're
+# WordPress.
+- id: 2980-write-faqs-schema-markup-for-wp-post-or-page
+  title: Write FAQs schema markup for WP Post or Page
+  tags:
+    - research
+    - write
+    - faqs
+    - schema
+    - markup
+    - post
+  family: Research
+  body:
+    your job is to Write FAQs schema markup for WP page. Note always start with
+    [<script type="application/ld+json">] and input endline this [</script>] in code
+    section. Your language shall be in [TARGETLANGUAGE] and your output based on [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

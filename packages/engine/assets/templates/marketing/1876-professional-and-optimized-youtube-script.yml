@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1876
+# teaser: this prompt will make your video script for YouTube, thumbnail, description and keywords and
+# if you like it just like it.
+- id: 1876-professional-and-optimized-youtube-script
+  title: professional and optimized youtube script
+  tags:
+    - marketing
+    - professional
+    - optimized
+    - youtube
+    - script
+  family: marketing
+  body:
+    "Create an attractive and captivating YouTube video script script that is
+    informative. I want you to create a persuasive and attractive headline, write
+    a description for the video with repetition of keywords used in the headline,
+    cite relevant keywords and tags, create the youtube video script script and give
+    me an idea of â€‹â€‹a thumbnail persuasive, from the following description: [PROMPT]
+    that all output is done in [TARGETLANGUAGE]. Please script the video script."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

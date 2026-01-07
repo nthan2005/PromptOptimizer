@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3257
+# teaser: short seo-friendly title and
+- id: 3257-meta-title-slug-and-description
+  title: Meta Title Slug and description
+  tags:
+    - writing
+    - meta
+    - title
+    - slug
+    - description
+  family: writing
+  body:
+    write Short Title and Slug and description for google in [TARGETLANGUAGE].
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6150
+# teaser: [media pointer="file-service://file-FDTKkbJVSLVjHCP2M2NjTg"] Hey GPT, Enhance this picture
+# and clean Background color RevisionTime: 2025-07-26T08:31:10.382Z
+- id: 6150-english-activity-adobe-firefly-topic-generative-ai-b983edfca
+  title: "English Activity: Adobe Firefly Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - english
+    - activity
+    - adobe
+    - firefly
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "English"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

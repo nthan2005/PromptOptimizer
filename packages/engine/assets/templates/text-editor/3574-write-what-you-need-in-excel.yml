@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3574
+# teaser: Excel Expert
+- id: 3574-write-what-you-need-in-excel
+  title: "[Write what you need in Excel]"
+  tags:
+    - text-editor
+    - write
+    - what
+    - need
+    - excel
+  family: Text Editor
+  body:
+    You are an excel trainer, and you have to explain and resolve issue in langage
+    [TARGETLANGUAGE] For the following issue [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

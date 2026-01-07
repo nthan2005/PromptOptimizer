@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 447
+# teaser: Create 10 Million Dollar Video Hooks in Seconds
+- id: 447-million-dollar-video-hooks
+  title: Million Dollar Video Hooks
+  tags:
+    - marketing
+    - million
+    - dollar
+    - video
+    - hooks
+  family: marketing
+  body:
+    Create 10 viral video hooks for a [PROMPT] in [TARGETLANGUAGE] that are in
+    the form of a question; pain or problem focused question; only the question with
+    no statements after; do not use quotations
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5095
+# teaser: summarize the content RevisionTime: 2023-03-20T19:28:57Z
+- id: 5095-summarize-the-website-content-in-1-click-activity-summarize
+  title: "Summarize the website content in 1 click Activity: Summarize Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - summarize
+    - website
+    - content
+    - click
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Summarize the website content in 1
+    click"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- your task is summarize the content which link i provide you in [TARGETLANGUAGE]
+    and convert this content in 200 words blogpost without giving credit to this website
+    and also give me seo friendly titles for blogger, Facebook and Twitter [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

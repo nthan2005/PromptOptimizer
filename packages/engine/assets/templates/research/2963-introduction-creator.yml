@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2963
+# teaser: Create an eye catching INTRO for your article
+- id: 2963-introduction-creator
+  title: Introduction Creator
+  tags:
+    - research
+    - introduction
+    - creator
+  family: Research
+  body:
+    Write me an introduction for the guide on [PROMPT]. Use the focus keyword
+    in the first line. - Don't make it long. Keep it short. - Tease the reader and
+    hook them so that they want to read the guide - Make it 3 sentences maximum -
+    Keep it concise, crunchy and informal -output must be in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

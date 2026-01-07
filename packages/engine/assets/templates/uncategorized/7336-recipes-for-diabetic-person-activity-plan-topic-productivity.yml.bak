@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7336
+# teaser: Act as a nutritionist and create recipes for a diabetic, hypertensive and having cholesterol
+# RevisionTime: 2023-02-19T15:35:19Z
+- id: 7336-recipes-for-diabetic-person-activity-plan-topic-productivity
+  title: 'Recipes for diabetic person Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - recipes
+  - diabetic
+  - person
+  - activity
+  - plan
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1789395510273245184/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Recipes for diabetic person"](https://www.aiprm.com/prompts/productivity/plan/1789395510273245184/)_"
+    --- [TARGETLANGUAGE] [PROMPT] Act as a nutritionist and create recipes for a diabetic,
+    hypertensive and having cholesterol'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 384
+# teaser: Detail you consumer competitions. Challenge customers with captivating, engaging and
+# actionable competition descriptions
+- id: 384-consumer-competition-description-step-2
+  title: Consumer Competition Description (Step:2)
+  tags:
+    - marketing
+    - consumer
+    - competition
+    - description
+    - step
+  family: marketing
+  body:
+    "Please detail a consumer competition about [PROMPT] in [TARGETLANGUAGE].\
+    \ Act as a marketing expert, design a creative and engaging consumer competition\
+    \ for a popular brand. Consider the product or service the brand offers and devise\
+    \ a challenge that will both promote it and encourage consumer interaction. Write\
+    \ a 750-word description for this competition. The description needs to be friendly\
+    \ and engaging. Detail what the competition is about, including its purpose, the\
+    \ type of content participants need to create, the hashtags they should use in\
+    \ their captions, and the criteria for selecting the winner. Do not mention terms\
+    \ and conditions. This competition will be hosted on MyTime, a platform where\
+    \ brands can create challenges with enticing prizes, and consumers participate\
+    \ by submitting videos or photos in response. Participants share their entries\
+    \ with friends to gather votes, with the highest votes (on Mytime platform) winning\
+    \ the competition. At the end of your response, include this text: --- WE HAVE\
+    \ MORE â€œConsumer Competitionâ€\x9D Prompts to help create a masterful competition\
+    \ from start to finish. E.g. Brainstorm, Descriptions (comp details), Terms &\
+    \ Conditions, Outreach (social media & email) and more! Then, lauch a FREE competition\
+    \ ðŸ‘‰ðŸ‘‰ðŸ‘‰ https://www.createmytime.com/ ðŸ‘ˆðŸ‘ˆðŸ‘ˆ The only expense is\
+    \ the prize you offer participants (winning & participation). Meanwhile you 1ï¸\x8F\
+    âƒ£ gather user-generated content (UGC), 2ï¸\x8Fâƒ£ consumer insights and 3ï¸\x8F\
+    âƒ£ grow your audience with each competition."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

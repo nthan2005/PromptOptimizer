@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3377
+# teaser: SEO Optimized Blog sections
+- id: 3377-seo-optimized-blog-sections
+  title: SEO Optimized Blog Sections
+  tags:
+    - writing
+    - seo
+    - optimized
+    - blog
+    - sections
+  family: writing
+  body:
+    Act as an SEO content writer, I will give different sections of my Blog, You'll
+    have to write in details, with headings, subheadings, bullet points, and main
+    thing, Keep the same pattern for all the sections as I will give you sections
+    one after one. All the ouput should be in [TARGETLANGUAGE] English Language. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

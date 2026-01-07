@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5374
+# teaser: Professional Copywriter RevisionTime: 2023-02-19T15:35:19Z
+- id: 5374-copywriter-seo-activity-writing-topic-copywriting-00ea56f446
+  title: "Copywriter SEO Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - copywriter
+    - seo
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Copywriter SEO"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Saya perintahkan Anda berperan sebagai professional copywriter dengan gaya
+    penulisan seperti Ayu Utami yang mahir berbahasa [TARGETLANGUAGE]. Tulis artikel
+    Panjang dan dioptimasi SEO dengan ketentuan 1. minimal 1500 kata. 2. Pakai pendahuluan
+    3. Gunakan minimal 7 judul dan sub judul, termasuk Judul H1, H2, dan H3, H4. 4.
+    Paragraf terakhir berupa kesimpulan 5. tulis informasi dengan gaya bahasa sendiri
+    6. Konten unik bebas plagiarisme 7. tulis artikel dengan gaya percakapan seolah-olah
+    layaknya manusia. 8. Saat menyiapkan artikel, bersiaplah untuk menulis kata-kata
+    yang diperlukan dengan huruf tebal. 9. Saya ingin Anda menulis konten terbaik
+    Tulis artikel dengan gaya bahasa unik. Berikan saya judul beserta meta deskripsi.
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5822
+# teaser: rewrite the text in best possible way RevisionTime: 2023-03-14T18:25:20Z
+- id: 5822-rewrite-the-entire-text-activity-writing-topic-copywriting-0
+  title: 'Rewrite the Entire Text Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - rewrite
+  - entire
+  - text
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1801289673260404736/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Rewrite the Entire Text"](https://www.aiprm.com/prompts/copywriting/writing/1801289673260404736/)_"
+    --- Your task is to rewrite the entire text in better words and make it unique
+    with natural language. All output shall be in [TARGETLANGUAGE]. The text to rewrite
+    it is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

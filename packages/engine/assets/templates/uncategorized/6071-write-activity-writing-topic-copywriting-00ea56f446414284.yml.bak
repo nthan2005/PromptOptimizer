@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6071
+# teaser: [targetlanguage] RevisionTime: 2023-07-04T14:56:39.154Z
+- id: 6071-write-activity-writing-topic-copywriting-00ea56f446414284
+  title: 'write Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - write
+  - activity
+  - writing
+  - topic
+  - copywriting
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1841824688365121536/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "write"](https://www.aiprm.com/prompts/copywriting/writing/1841824688365121536/)_"
+    --- [TARGETLANGUAGE] and [PROMPT] co'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

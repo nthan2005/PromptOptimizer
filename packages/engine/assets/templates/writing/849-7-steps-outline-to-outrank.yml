@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 849
+# teaser: The 7 steps outline strategy for best content writing to outrank your competitions. Google
+# loves it: ItÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s indexed quickly ,It ranks high , Readers love it, They share it on social, They
+# leave comments, ItÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s unique, ItÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s practical, ItÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s engaging.
+- id: 849-7-steps-outline-to-outrank
+  title: 7 Steps outline to Outrank
+  tags:
+    - writing
+    - steps
+    - outline
+    - outrank
+  family: writing
+  body:
+    "1. Introduction unique Hook the reader as quickly as possible. Make the intro\
+    \ conversational, ask questions and put yourself in the reader's shoes. You want\
+    \ them to think: ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œThis author gets meÃƒÂ¢Ã¢â€šÂ¬\x9D 2. Challenge - Explain why companies\
+    \ struggle with this [PROMPT]. Is it lack of expertise, strategy, resources? Be\
+    \ detailed. Demonstrate that you understand their pain points 3. Benefits - Why\
+    \ should the reader care about this [PROMPT]? How can they benefit by reading\
+    \ further? Make it practical and engaging. Include at least 3 benefits. Use statistics\
+    \ to support your argument 4. Practical tips on [PROMPT] - Create practical tips\
+    \ that they can implement to improve their business. Share tactics, best practices,\
+    \ new ideas - and how to execute them to help them achieve real business benefits\
+    \ They should be able implement at least 1 tactic immediately after reading -\
+    \ whether theyÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢re a beginner or expert. 5. Unique content on [PROMPT] Use one\
+    \ of the below to make it unique: ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Product: Include references to the product\
+    \ [link here]. Be specific and try to include screenshots or video. ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Case study:\
+    \ Reference a case study that describes how a customer used to have the same challenge\
+    \ and how they solved it by using your product [PROMPT] ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Experience or POV:\
+    \ Share your experience or point of view. Your experience is unique and adds value\
+    \ to the piece ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Subject matter expertise: If you donÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢t have experience, ask\
+    \ someone internally - ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œWhy should companies invest in TOPIC?ÃƒÂ¢Ã¢â€šÂ¬\x9D and use\
+    \ their quote ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Software, tools and resources: Any software, tools or resources\
+    \ you have used or recommend? Add it here and why you recommend it 6. Conclusion\
+    \ - Wrap up the piece. Connect the introduction to the conclusion. Make sure you\
+    \ tie everything together 7. CTA The call to action should be a logical next step\
+    \ and flow seamlessly from the conclusion. Use a CTA thatÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s descriptive and\
+    \ relevant to use the [PROMPT] or product. [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

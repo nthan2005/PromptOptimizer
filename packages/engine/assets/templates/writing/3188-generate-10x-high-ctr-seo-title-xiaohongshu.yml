@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3188
+# teaser: AI Auto create 10X High CTR SEO titles ! AI Choose best title give reason! Save time energy!
+# ÃƒÂ¯Ã‚Â¼Ã‹â€ ÃƒÂ¦Ã‚Â¨Ã‚Â¡ÃƒÂ¤Ã‚Â»Ã‚Â¿ÃƒÂ¥Ã‚Â°Ã‚ÂÃƒÂ§Ã‚ÂºÃ‚Â¢ÃƒÂ¤Ã‚Â¹Ã‚Â¦ÃƒÂ§Ã‹â€ Ã¢â‚¬Â ÃƒÂ¦Ã¢â‚¬â€œÃ¢â‚¬Â¡ÃƒÂ¦ Ã¢â‚¬Â¡ÃƒÂ©Ã‚Â¢Ã‹Å“ÃƒÂ¯Ã‚Â¼Ã¢â‚¬Â°
+- id: 3188-generate-10x-high-ctr-seo-title-xiaohongshu
+  title: Generate 10x high CTR SEO title Xiaohongshu
+  tags:
+    - writing
+    - generate
+    - 10x
+    - high
+    - ctr
+    - seo
+  family: writing
+  body:
+    "`reset` `no quotes` `no explanations` `no prompt` `no self-reference` `no
+    apologies` `no filler` `just answer` I want you to be the top expert of Xiaohongshu,
+    good at SEO + copywriting + video marketing, combined with the following titles,
+    use [TARGETLANGUAGE] to imitate the title of XiaohongshuÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s popular article,
+    add a lot of emoji to write 10 eye-catching XiaohongshuÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s popular article titles
+    , choose the best one among them, and give reasons. Then write the SEO description
+    based on the best title (the SEO description should also be loaded with emoji):
+    [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

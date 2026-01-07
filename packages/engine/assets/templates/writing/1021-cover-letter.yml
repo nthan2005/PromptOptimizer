@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1021
+# teaser: paste your resume here
+- id: 1021-cover-letter
+  title: Cover letter
+  tags:
+    - writing
+    - cover
+    - letter
+  family: writing
+  body:
+    "[TARGETLANGUAGE] and [PROMPT]Write a cover letter for this resume with first
+    person perspective"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

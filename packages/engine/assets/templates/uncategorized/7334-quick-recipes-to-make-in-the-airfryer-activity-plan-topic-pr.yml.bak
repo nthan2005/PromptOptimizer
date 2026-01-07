@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7334
+# teaser: Get an easy and quick recipe to prepare in the airfryer, to have a tasty meal with the
+# ingredients you have in your fridge. RevisionTime: 2023-04-08T04:15:46.869Z
+- id: 7334-quick-recipes-to-make-in-the-airfryer-activity-plan-topic-pr
+  title: 'Quick recipes to make in the airfryer Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - quick
+  - recipes
+  - airfryer
+  - activity
+  - plan
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1810133625807826944/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Quick recipes to make in the airfryer"](https://www.aiprm.com/prompts/productivity/plan/1810133625807826944/)_"
+    --- Your task is to present an easy and quick recipe to be prepared in the airfryer,
+    based on the ingredients listed below: [KEYWORD][TARGETLANGUAGE][PROMPT]'
+  enabled: true
+  required:
+  - keyword
+  - prompt
+  - targetlanguage

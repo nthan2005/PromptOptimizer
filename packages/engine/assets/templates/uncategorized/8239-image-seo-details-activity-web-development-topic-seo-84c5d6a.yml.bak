@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8239
+# teaser: Create an alt text, title, caption and meta description for an image RevisionTime:
+# 2023-07-14T08:16:15.146Z
+- id: 8239-image-seo-details-activity-web-development-topic-seo-84c5d6a
+  title: 'Image SEO details Activity: Web Development Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - image
+  - seo
+  - details
+  - activity
+  - web
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/web-development/1845347803028275200/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Image SEO details"](https://www.aiprm.com/prompts/seo/web-development/1845347803028275200/)_"
+    --- Create an alt image text, image title, caption and meta description for an
+    image IN [TARGETLANGUAGE] showing an image of [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

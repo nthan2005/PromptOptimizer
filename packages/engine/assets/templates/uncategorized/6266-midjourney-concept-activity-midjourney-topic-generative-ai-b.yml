@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6266
+# teaser: With this superpowered template you just enter a concept and let this tool fix the rest.
+# Like if you want more. Bonusfeature: Your concept gets a cheesy quote at the end :) RevisionTime:
+# 2023-03-07T00:05:00Z
+- id: 6266-midjourney-concept-activity-midjourney-topic-generative-ai-b
+  title: "Midjourney Concept Activity: Midjourney Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - midjourney
+    - concept
+    - activity
+    - topic
+    - generative
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Midjourney Concept"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- From now on you''ll only reply in [TARGETLANGUAGE]. I want you to take a concept
+    ("[PROMPT]") and make a /imagine'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

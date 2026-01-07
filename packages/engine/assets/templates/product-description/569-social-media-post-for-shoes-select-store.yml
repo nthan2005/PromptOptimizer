@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 569
+# teaser: Create post for store shoes for FB
+- id: 569-social-media-post-for-shoes-select-store
+  title: Social Media Post For Shoes (Select Store)
+  tags:
+    - product-description
+    - social
+    - media
+    - post
+    - shoes
+    - select
+  family: Product Description
+  body:
+    "We have a shoe store named Select and located in Pau, France. We want to
+    showcase the new collection of shoes brands that we distribute. I need a 130-170
+    characters more or less post for Facebook and Instagram social networks in [TARGETLANGUAGE].
+    Please include in the post either the benefits of the brand or an unusual fact
+    about the brand. Would be nice to add emojis. For this post, we would like to
+    have a text for the women's shoe brand [PROMPT]. Some more information to help
+    you optimize your proposition: The audience of this post would be people between
+    30-60 years old who like fashion and shoes. Also, the ton of voice should be friendly."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

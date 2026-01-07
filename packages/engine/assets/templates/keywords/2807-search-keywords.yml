@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2807
+# teaser: Search Keywords
+- id: 2807-search-keywords
+  title: Search Keywords
+  tags:
+    - keywords
+    - search
+  family: keywords
+  body:
+    lister des mots en [TARGETLANGUAGE] en relation sans explications et sans
+    donner de dÃ©tails [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

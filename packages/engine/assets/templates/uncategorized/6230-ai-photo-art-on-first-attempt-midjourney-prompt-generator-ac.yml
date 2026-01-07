@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6230
+# teaser: Create a MidJourney Prompt That Makes Awesome & Useable Ultra Detailed Photo Style AI Images
+# for Instagram RevisionTime: 2023-02-19T15:35:19Z
+- id: 6230-ai-photo-art-on-first-attempt-midjourney-prompt-generator-ac
+  title:
+    "AI Photo Art on First Attempt - MidJourney Prompt Generator Activity: Midjourney
+    Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - photo
+    - art
+    - first
+    - attempt
+    - midjourney
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "AI Photo Art on First Attempt - MidJourney
+    Prompt Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to respond in only LANGUAGE of [TARGETLANGUAGE]. I want you to
+    type out: /imagine'
+  enabled: true
+  required:
+    - targetlanguage

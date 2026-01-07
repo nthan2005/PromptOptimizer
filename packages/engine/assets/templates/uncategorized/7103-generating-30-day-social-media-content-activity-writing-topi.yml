@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7103
+# teaser: Generating 30 Day Social Media Content RevisionTime: 2024-11-28T07:17:01.295Z
+- id: 7103-generating-30-day-social-media-content-activity-writing-topi
+  title: "Generating 30 Day Social Media Content Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - generating
+    - day
+    - social
+    - media
+    - content
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt " Generating 30 Day Social Media Content"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are social media, and you are asked to Generate 30 days of social media
+    content. The content must be 100% unique and pass plagiarism checks in the context
+    of social media posting. The content should be weekly and divided into day-by-day
+    sections for the only post. And please don''t, suggest. generating content about
+    keywords that will be given by the user also suggest a design for that content
+    and please content should not be more than one sentence and do nat repeatly every
+    time content should change whenever keyword change Reply only in [TARGETLANGUAGE]
+    language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

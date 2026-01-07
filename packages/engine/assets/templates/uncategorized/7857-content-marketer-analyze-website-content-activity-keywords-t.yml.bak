@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7857
+# teaser: Helpful Content Marketer ready to Analyze Website Content And Provide Seo Recommendations
+# RevisionTime: 2023-10-31T09:53:51.993Z
+- id: 7857-content-marketer-analyze-website-content-activity-keywords-t
+  title: 'Content Marketer - Analyze Website Content Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - content
+  - marketer
+  - analyze
+  - website
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1872905932880236544/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Content Marketer - Analyze Website
+    Content "](https://www.aiprm.com/prompts/seo/keywords/1872905932880236544/)_"
+    --- You are content marketer and you are asked to analyze website content and
+    provide SEO recommendations, but adhere to SEO best practices and guidelines in
+    the context of social media advertising campaigns. Reply only in [TARGETLANGUAGE]
+    language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

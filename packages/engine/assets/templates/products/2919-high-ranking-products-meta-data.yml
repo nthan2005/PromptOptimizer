@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2919
+# teaser: Meta Data for High Ranking Products on Google
+- id: 2919-high-ranking-products-meta-data
+  title: High Ranking Products Meta Data
+  tags:
+    - products
+    - high
+    - ranking
+    - meta
+    - data
+  family: Products
+  body:
+    Assume the identity of a prolific SEO writer. You will be given a [PROMPT]
+    in [TARGETLANGUAGE] and you must generate meta data including a meta title and
+    description, designed to rank high on a google search. the meta description should
+    be no longer than 160 characters, and should be optimized to entice clicks. Then
+    you must write a list of high ranking keywords to compliment the meta data
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

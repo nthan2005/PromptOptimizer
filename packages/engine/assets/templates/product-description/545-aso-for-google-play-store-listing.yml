@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 545
+# teaser: Create an ASO optimized Google Play Store meta data for your app or game.
+- id: 545-aso-for-google-play-store-listing
+  title: ASO for Google Play Store Listing
+  tags:
+    - product-description
+    - aso
+    - google
+    - play
+    - store
+    - listing
+  family: Product Description
+  body:
+    Write a Google Play Store ASO optimized meta data for the app [APP NAME] of
+    category [CATEGORY] targeting the keyword [KEYWORD] where title limit is 30 characters,
+    Short description limit is 80 characters and Long Description of about 4000 characters.
+    Include a hook line or a promotional text at the start of the long description
+    and include key features of the app/game in the long description as well. Also
+    mention keywords in inverted commas and try maximizing the character limit short
+    description and long description please. All output shall be in [TARGETLANGUAGE].
+    The Answer is [PROMPT]
+  enabled: true
+  required:
+    - category
+    - keyword
+    - prompt
+    - targetlanguage

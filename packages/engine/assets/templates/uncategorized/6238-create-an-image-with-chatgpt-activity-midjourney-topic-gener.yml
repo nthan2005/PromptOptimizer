@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6238
+# teaser: Create your own image with ChatGPT prompt !!! Create images or create an image with AI!
+# RevisionTime: 2023-03-17T08:07:35.968Z
+- id: 6238-create-an-image-with-chatgpt-activity-midjourney-topic-gener
+  title: "Create an image with ChatGPT Activity: Midjourney Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - image
+    - chatgpt
+    - activity
+    - midjourney
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create an image with ChatGPT"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] INPUT = {focus} OUTPUT = {description}\n ![MG](https://image.pollinations.ai/prompt/{description}){description}
+    = {focuseDetailed},%20{adjective1},%20{adjective2},%20{visualStyle1},%20{visualStyle2},%20{visualStyle3},%20{artistreference}
+    INPUT = [ [PROMPT] ]'
+  enabled: true
+  required:
+    - adjective1
+    - adjective2
+    - artistreference
+    - description
+    - focus
+    - focusedetailed
+    - mg
+    - prompt
+    - targetlanguage
+    - visualstyle1
+    - visualstyle2
+    - visualstyle3

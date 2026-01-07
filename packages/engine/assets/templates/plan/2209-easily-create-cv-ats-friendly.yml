@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2209
+# teaser: An easy way to create an ATS-friendly CV, just input your self-description in the form of
+# paragraphs or other written data.
+- id: 2209-easily-create-cv-ats-friendly
+  title: Easily create CV ATS friendly
+  tags:
+    - plan
+    - easily
+    - ats
+    - friendly
+  family: Plan
+  body:
+    "Identify the following sentence or paragraph inputs [INPUT YOUR DATA HERE]
+    and classify them in the following sections in the language [TARGETLANGUAGE]:
+    Create a professional â€˜# bioâ€˜ in bullet point format, starting with â€˜# nameâ€™,
+    sub title â€˜## interests/hobbiesâ€™, and including your birth date/age, phone
+    number, email address, and website or social media profiles in bullet point format.
+    Craft a â€˜# summaryâ€™ section with a heading, summarizing your professional
+    background, skills, and experience. Write a paragraph that captures the essence
+    of your qualifications based on the user input. In the â€œ# educationâ€™ section,
+    list educational background in reverse chronological order, starting with the
+    most recent degree, diploma, or certificate. Include the â€˜## institution's
+    name, location, and year of graduationâ€™, and â€˜## degree, diploma, or certificate
+    earnedâ€™. Next, create a â€˜# work experienceâ€™ section, listing your work experience
+    in reverse chronological order, starting with your most recent job. Create sub
+    item â€˜# job title, company name, location, and employment datesâ€™, and provide
+    a brief paragraph describing your job responsibilities. In the â€˜# skillsâ€™
+    section, identify skills and abilities input in bullet point format. In the â€˜#
+    certifications sectionâ€™, list any certifications you have earned, along with
+    the issuing authority, issue date, and expiration date. create sub title â€˜##certification
+    nameâ€™ and create sub item abut â€˜### issuing authority, issue date, and expiration
+    dateâ€™. Finally, include a â€˜# referencesâ€™ section with, listing your professional
+    references by â€˜##name and job titleâ€™, followed by their company, email address,
+    and phone number. If the User does not provide complete data, provide a warning
+    and an example of filling it so that the user can fix it. [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

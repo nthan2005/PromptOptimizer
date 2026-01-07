@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8430
+# teaser: Create a Profesional Proposal to Get Freelance Project RevisionTime:
+# 2023-07-18T09:16:08.539Z
+- id: 8430-create-professional-freelance-project-proposal-activity-writ
+  title:
+    "Create Professional Freelance Project Proposal Activity: writing Topic:
+    SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - professional
+    - freelance
+    - project
+    - proposal
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create Professional Freelance Project
+    Proposal "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to create a professional proposal or project proposal for applying
+    to a freelance job, The length of this proposal template should be under in 200
+    words. All output shall be in [TARGETLANGUAGE]. The Freelance job description
+    or subpage URL is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

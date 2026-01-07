@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 228
+# teaser: This helps you make your roblox game easier to develop. Generates: title, description,
+# gamepass ideas.
+- id: 228-roblox-game-ideas
+  title: Roblox Game Ideas
+  tags:
+    - games
+    - roblox
+    - game
+    - ideas
+  family: Games
+  body:
+    "write me a roblox game desc up to 1000 charecters (including spaces) and
+    also some gamepass ideas not in the desc & title ideas not in the desc up to 50
+    charecters incuding spaces about the following: [PROMPT] The target launguege
+    is [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

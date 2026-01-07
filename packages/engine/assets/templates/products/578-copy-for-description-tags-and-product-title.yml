@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 578
+# teaser: Rewrite product title, tag and description with Copywriting technique
+- id: 578-copy-for-description-tags-and-product-title
+  title: '"Copy" for Description, Tags and Product Title'
+  tags:
+    - products
+    - copy
+    - description
+    - tags
+    - product
+    - title
+  family: Products
+  body:
+    "You are an expert copywrtier specializing in ecommerce, your task today is
+    to define the title of a product with a maximum of 30 characters, the tags and
+    the description. Be creative and persuasive using copywriting techniques: All
+    output shall be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

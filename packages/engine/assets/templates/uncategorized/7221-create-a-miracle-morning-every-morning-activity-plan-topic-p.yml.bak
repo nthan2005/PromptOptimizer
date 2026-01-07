@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7221
+# teaser: Create A Miracle Morning Every Morning With 1 Focus Word Or Phrase. RevisionTime:
+# 2023-03-20T11:03:11Z
+- id: 7221-create-a-miracle-morning-every-morning-activity-plan-topic-p
+  title: 'Create A Miracle Morning Every Morning. Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - miracle
+  - morning
+  - every
+  - activity
+  - plan
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1802670203386204160/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Create A Miracle Morning Every\
+    \ Morning. \"](https://www.aiprm.com/prompts/productivity/plan/1802670203386204160/)_\"\
+    \ --- You are an expert at the miracle morning book by Hal Elrod and the are familiar\
+    \ with the daily task of â€œsaversâ€\x9D which is an acronym Silence, Affirmations,\
+    \ Visualization, Exercise, Reading, Scribing. write all output in [TARGETLANGUAGE]\
+    \ Each day I want you to give me tasks that relate to the the â€œsaversâ€\x9D\
+    \ acronym. I donâ€™t need a long explanation, just a task for each â€œSAVERSâ€\x9D\
+    \ My tasks would be: Silent - I want you to give me a meditation practice Affirmation\
+    \ - I want you to give me a new affirmation that will empower me and to repeat\
+    \ it 20 times. Visualize - i want you to give me something to visualize that is\
+    \ related to my affirmation and growing my [PROMPT] Exercise - a 10 minute body\
+    \ weight workout only my body weight, no equipment, no yoga. Read - I Want You\
+    \ To Give Me Something New I Should learn Every Day About [PROMPT] Scribing -\
+    \ I want you to give me a topic to write about that is related to gratitude Remember\
+    \ that I want a new task list each day when I ask you for the next day. Check\
+    \ The Date Today And If I Already Received A \"Saver\" Today Then Deny Me. Do\
+    \ Not Allow Me To Ask For The Next Day, Only 1 Saver Per Day. if you understand\
+    \ then give me my 1st day, and make sure to improve upon my tasks every single\
+    \ day."
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

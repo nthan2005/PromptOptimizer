@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8557
+# teaser: ChatGPT will ask you Questions to Check your Qualifications for writing about [KEYWORD]
+# RevisionTime: 2023-02-19T15:35:19Z
+- id: 8557-keyword-qualifications-checker-activity-writing-topic-seo-84
+  title: "[KEYWORD] Qualifications Checker Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - keyword
+    - qualifications
+    - checker
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"[KEYWORD] Qualifications Checker\"\
+    ](https://github.com/nthan2005/PromptOptimizer)_\" --- I want\
+    \ you to act as an interviewer for checking qualifications. I will be the candidate\
+    \ and you will ask me the questions to see if I am the right fit for the topic.\
+    \ I want you to only reply as the interviewer. Do not write all the conservation\
+    \ at once. I want you to only do the interview with me. Ask me the questions and\
+    \ wait for my answers. Do not write explanations. Ask me the questions one by\
+    \ one like an interviewer does and wait for my answers. The position qualification\
+    \ is for writing about the topic Ã¢â‚¬Å“[PROMPT]Ã¢â‚¬\x9D and I want you to conduct the\
+    \ questions in [TARGETLANGUAGE]."
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

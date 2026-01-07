@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4699
+# teaser: (YP) Copy media Use: Company name, market segment, focus of the message (Mother's day, for
+# example), differentials,Ã‚ objective RevisionTime: 2023-03-29T18:24:23.312Z
+- id: 4699-yp-copy-media-activity-marketing-topic-copywriting-00ea56f44
+  title: "(YP) Copy media Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - copy
+    - media
+    - activity
+    - marketing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "(YP) Copy media"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] FaÃƒÂ§a um texto para anÃƒÂºncio
+    de uma empresa chamada ... A empresa ÃƒÂ© do mercado de .... Quero que a comunicaÃƒÂ§ÃƒÂ£o
+    seja focada em... Os principais diferenciais sÃƒÂ£o ... O foco da comunicaÃƒÂ§ÃƒÂ£o
+    ÃƒÂ© ... FaÃƒÂ§a 2 versÃƒÂµes ideiais para Facebook e Instagram, cada uma com nÃƒÂºmero
+    de caracteres entre 150 e 200. Faca uma versÃƒÂ£o para campanha de Performance Max
+    do Google Ads, contendo: 5 TÃƒÂ­tulos diferentes (Cada um com atÃƒÂ© 30 caracteres)
+    10 DescriÃƒÂ§ÃƒÂµes diferentes (Cada uma com atÃƒÂ© 90 caracteres) [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

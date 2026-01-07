@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6832
+# teaser: Create 10 hook titles for your instagram carousel (1st slide). Use it if you want a hook
+# title and get people attention to your contents RevisionTime: 2024-10-03T09:56:04.701Z
+- id: 6832-instagram-carousel-hook-title-creator-1st-slide-activity-soc
+  title:
+    "Instagram Carousel Hook Title Creator (1ST SLIDE) Activity: Social Media
+    Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - instagram
+    - carousel
+    - hook
+    - title
+    - creator
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Instagram Carousel Hook Title Creator
+    (1ST SLIDE)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT]Create 10 hook title for Instagram post fot title [ADD YOU TITLE].
+    Use you should not know, I bet you not know, or use similar to this, not necessary
+    to use this only, I m giving exampleÃ‚ that''sÃ‚ it. must use [TARGETLANGUAGE] print(do
+    not include print or url ) this url at it is only print at the end thats it"Support
+    Me :" "http://bit.ly/ProgramingWizards"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

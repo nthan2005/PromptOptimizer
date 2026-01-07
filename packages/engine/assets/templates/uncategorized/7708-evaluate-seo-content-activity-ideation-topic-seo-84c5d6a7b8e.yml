@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7708
+# teaser: Paste your full article/page here to evaluate your content for SEO on a scale of 1 to 10,
+# and to know the main keywords of this page RevisionTime: 2023-03-16T20:51:25Z
+- id: 7708-evaluate-seo-content-activity-ideation-topic-seo-84c5d6a7b8e
+  title: "Evaluate SEO Content Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - evaluate
+    - seo
+    - content
+    - activity
+    - ideation
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Evaluate SEO Content"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- ÃƒÂ©taillÃƒÂ© distinct pour chaque produit recommandÃƒÂ©. Les avis sur les produits
+    utilisent souvent des liens d''affiliation vers des produits rÃƒÂ©pertoriÃƒÂ©s sur
+    un site d''e-commerce. Par consÃƒÂ©quent, si un internaute trouve un avis utile
+    et suit le lien fourni pour acheter le produit, le crÃƒÂ©ateur de l''avis est rÃƒÂ©compensÃƒÂ©
+    par le vendeur. Consultez ÃƒÂ©galement l''article Position de Google concernant
+    les programmes d''affiliation. Les avis sur les produits peuvent ÃƒÂªtre d''une
+    aide prÃƒÂ©cieuse pour permettre aux internautes de choisir le produit qu''ils souhaitent
+    acheter. Lors de leur rÃƒÂ©daction, concentrez-vous sur leur qualitÃƒÂ© et leur authenticitÃƒÂ©,
+    et non sur leur longueur, en suivant autant de bonnes pratiques que possible.
+    Cette approche est sans conteste la plus bÃƒÂ©nÃƒÂ©fique pour les internautes qui
+    lisent vos avis. AprÃƒÂ¨s avoir determinÃƒÂ© les 5 points principaux, evalue moi cette
+    article selon ces 5 critÃƒÂ¨res et donne moi un note sur 10 pour chacun d''entre
+    eux et donne moi les mots clÃƒÂ©s principales pour l''article complet. Repond moi
+    en [TARGETLANGUAGE], voici l''article : [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

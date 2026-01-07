@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1429
+# teaser: Similar word
+- id: 1429-similar-word
+  title: Similar word
+  tags:
+    - writing
+    - similar
+    - word
+  family: writing
+  body:
+    "Give me several words that are similar to the word that fits between ' '
+    in the sentence below. Tell me in Korean. I want you to respond only in language
+    [TARGETLANGUAGE]. KOREA : [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

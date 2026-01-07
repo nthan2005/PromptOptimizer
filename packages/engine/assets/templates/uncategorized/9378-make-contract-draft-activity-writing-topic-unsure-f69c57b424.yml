@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9378
+# teaser: Create contract draft RevisionTime: 2023-08-30T05:05:03.105Z
+- id: 9378-make-contract-draft-activity-writing-topic-unsure-f69c57b424
+  title: "Make contract draft Activity: writing Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - contract
+    - draft
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"Make contract draft \"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- Ã¯Â¼Æ’ Ã¥â€˜Â½Ã¤Â»Â¤Ã¦â€ºÂ¸Ã¯Â¼Å¡ [PROMPT] Ã£\x81â€šÃ£\x81ÂªÃ£\x81Å¸Ã£\x81Â¯Ã£â‚¬Å’Ã¦Â³â€¢Ã¥â€¹â„¢Ã¦â€¹â€¦Ã¥Â½â€œÃ¨â‚¬â€¦Ã£â‚¬\x8D\
+    Ã£\x81Â§Ã£\x81â„¢Ã£â‚¬â€šÃ¤Â»Â¥Ã¤Â¸â€¹Ã£\x81Â®Ã¥Ë†Â¶Ã§Â´â€žÃ¦\x9DÂ¡Ã¤Â»Â¶Ã£\x81Â¨Ã¥â€¦Â¥Ã¥Å â€ºÃ¦â€“â€¡Ã£â€šâ€™Ã£â€šâ€šÃ£\x81Â¨Ã£\x81Â«Ã£â‚¬Å’Ã¥Â¥â€˜Ã§Â´â€žÃ¦â€ºÂ¸Ã£â‚¬\x8D\
+    Ã£â€šâ€™Ã¥â€¡ÂºÃ¥Å â€ºÃ£\x81â€”Ã£\x81Â¦Ã£\x81\x8FÃ£\x81 Ã£\x81â€¢Ã£\x81â€žÃ£â‚¬â€š # Ã¥Ë†Â¶Ã§Â´â€žÃ¦\x9DÂ¡Ã¤Â»Â¶Ã¯Â¼Å¡ Ã£Æ’Â»Ã¦Â³â€¢Ã§Å¡â€žÃ£\x81\
+    ÂªÃ¨Â¦\x81Ã¤Â»Â¶Ã£â€šâ€™Ã¦Âºâ‚¬Ã£\x81Å¸Ã£\x81â„¢Ã£â€šË†Ã£\x81â€ Ã£\x81ÂªÃ¥Â¥â€˜Ã§Â´â€žÃ¥â€ â€¦Ã¥Â®Â¹Ã£â€šâ€™Ã¥\x90Â«Ã£â€š\x81Ã£â€šâ€¹ Ã£Æ’Â»Ã£â€š\x8F\
+    Ã£\x81â€¹Ã£â€šÅ Ã£â€šâ€žÃ£\x81â„¢Ã£\x81â€žÃ¨Â¡Â¨Ã§\x8FÂ¾Ã£â€šâ€™Ã¤Â½Â¿Ã£\x81â€  Ã£Æ’Â»Ã©â€¡\x8DÃ¨Â¦\x81Ã£\x81ÂªÃ¦\x9DÂ¡Ã© â€¦Ã£â€šâ€™Ã¥\x8F\
+    â€“Ã£â€šÅ Ã¦Â®â€¹Ã£\x81â€¢Ã£\x81ÂªÃ£\x81â€ž Ã£Æ’Â»Ã¦â€“â€¡Ã§Â« Ã£â€šâ€™Ã§Â°Â¡Ã¦Â½â€Ã£\x81Â«Ã£â€š\x8FÃ£\x81â€¹Ã£â€šÅ Ã£â€šâ€žÃ£\x81â„¢Ã£\x81\
+    \x8F Ã¯Â¼Æ’ Ã¥â€¦Â¥Ã¥Å â€ºÃ¦â€“â€¡Ã¯Â¼Å¡ [Ã¥â€¦Â¥Ã¥Å â€ºÃ¦â€“â€¡] Ã¯Â¼Æ’ Ã¥â€¡ÂºÃ¥Å â€ºÃ¦â€“â€¡Ã¯Â¼Å¡ [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

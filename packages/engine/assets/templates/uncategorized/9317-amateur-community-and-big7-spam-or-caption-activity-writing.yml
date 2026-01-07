@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9317
+# teaser: Amateur community and Big7 Spam or Caption RevisionTime: 2023-04-03T18:39:44.685Z
+- id: 9317-amateur-community-and-big7-spam-or-caption-activity-writing
+  title: "Amateur community and Big7 Spam or Caption Activity: writing Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - amateur
+    - community
+    - big7
+    - spam
+    - caption
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Amateur community and Big7 Spam or
+    Caption"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to create a spam message or a social media caption to my fans
+    in Big7 or Amateur community. Make it daring, flirty, and sexy and asking how
+    is he doing or what do they think about me. [TARGETLANGUAGE]. [PROMPT] make it
+    a minimum of 150 characters for a spam message and 250 minimum characters of a
+    social media caption. Add a call to action at the last message that will trigger
+    the customer to engage more. Make sure that it is bubbly, daring, sexy and flirty.
+    Add emojis to the respective places. After you gave an English spam message with
+    call to action translate it to the German Language. Compiling the response and
+    the call to action. Make sure the German translation is in good grammar. Make
+    sure that the overall context will focus on both men and women. Basically, just
+    use YOU. Make sure the overall tone of this is more human.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

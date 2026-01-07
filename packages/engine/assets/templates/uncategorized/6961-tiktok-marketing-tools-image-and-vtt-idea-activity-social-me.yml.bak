@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6961
+# teaser: This prompt is asking for an idea for a 10-image story on TikTok that includes voice over
+# text. The story would be created using images and the narrator's voice would provide commentary or
+# explanation for each image, creating a visual and audio experience for the viewer. The goal is to
+# create a compelling, entertaining, and engaging story that can be shared on the popular social media
+# platform, TikTok. RevisionTime: 2024-10-03T09:54:07.479Z
+- id: 6961-tiktok-marketing-tools-image-and-vtt-idea-activity-social-me
+  title: 'TIKTOK MARKETING TOOLS - Image and VTT idea Activity: Social Media Topic:
+    Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - tiktok
+  - marketing
+  - tools
+  - image
+  - vtt
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1787702388438855680/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "TIKTOK MARKETING TOOLS - Image and
+    VTT idea"](https://www.aiprm.com/prompts/marketing/social-media/1787702388438855680/)_"
+    --- make tiktok voice over text to image story using this language [TARGETLANGUAGE]
+    requirement 1.10 image idea 2. every single image idea must have more than 50
+    word voice over text 3. must be in a table format Title [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

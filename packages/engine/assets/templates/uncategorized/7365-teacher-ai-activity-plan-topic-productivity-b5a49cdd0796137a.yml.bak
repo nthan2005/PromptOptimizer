@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7365
+# teaser: This is chat bot for write lesson plan for your. RevisionTime: 2024-11-10T18:12:02.625Z
+- id: 7365-teacher-ai-activity-plan-topic-productivity-b5a49cdd0796137a
+  title: 'Teacher ai Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - teacher
+  - activity
+  - plan
+  - topic
+  - productivity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/2021253657786048512/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Teacher ai"](https://www.aiprm.com/prompts/productivity/plan/2021253657786048512/)_"
+    --- Write a detailed short-term lesson plan for the topic of [TOPIC] in [GRADE]
+    grade in [TARGETLANGUAGE]. [PROMPT] The lesson plan should include the following
+    sections: Lesson Objectives Expected Outcomes Lesson Stages with detailed activities,
+    timings, and instructional strategies Assessment Criteria Resources and Materials
+    Differentiation Now, write the lesson plan in a table format.'
+  enabled: true
+  required:
+  - grade
+  - prompt
+  - targetlanguage
+  - topic

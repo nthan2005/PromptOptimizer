@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8091
+# teaser: Create 10 meta descriptions for any existing URL. RevisionTime: 2023-02-20T03:58:51Z
+- id: 8091-meta-description-for-existing-website-activity-marketing-top
+  title: 'Meta Description for existing website Activity: marketing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - meta
+  - description
+  - existing
+  - website
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/1793098152690311168/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Meta Description for existing website"](https://www.aiprm.com/prompts/seo/marketing/1793098152690311168/)_"
+    --- write based on the text on [URL] 10 different matching meta descriptions in
+    [TARGETLANGUAGE] that contain the word [PROMPT], are between 140 and 156 characters
+    long, draw readers'' attention to the text and invite them to read it, do not
+    mention the website and do not contain the word advantages, benefits or merits.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - url

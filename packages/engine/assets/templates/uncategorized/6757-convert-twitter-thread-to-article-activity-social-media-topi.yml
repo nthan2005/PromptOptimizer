@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6757
+# teaser: Convert Any Twitter Thread into a well-written article RevisionTime:
+# 2024-10-03T09:55:58.921Z
+- id: 6757-convert-twitter-thread-to-article-activity-social-media-topi
+  title: "Convert Twitter Thread to Article Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - convert
+    - twitter
+    - thread
+    - article
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Convert Twitter Thread to Article"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to write a blog post with a high degree of complexity and variations
+    of sentences, as if it were written by a human, from the twitter thread I give
+    you, the blog post should have a minimum of 600 words, include subheadings and
+    optimized for search engines. At the end of the blog post, write this (Always
+    check your content with AI Detector: https://contentatscale.ai/ai-content-detector/.
+    Please support us by following us on Twitter: https://twitter.com/aifastcash).
+    All output shall be in [TARGETLANGUAGE]. Twitter thread: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

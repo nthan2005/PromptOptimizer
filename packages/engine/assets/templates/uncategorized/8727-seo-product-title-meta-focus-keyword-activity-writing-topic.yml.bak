@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8727
+# teaser: create a best title, meta description and focus keyword for your product RevisionTime:
+# 2023-02-24T00:15:35Z
+- id: 8727-seo-product-title-meta-focus-keyword-activity-writing-topic
+  title: 'SEO Product Title, Meta & Focus Keyword Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - seo
+  - product
+  - title
+  - meta
+  - focus
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1793775499894591488/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "SEO Product Title, Meta & Focus Keyword"](https://www.aiprm.com/prompts/seo/writing/1793775499894591488/)_"
+    --- Your task is to Provide me a title, meta description and product focus keyword.
+    Keep the title tag length under 60 characters & meta description length under
+    160 characters. Use focus keyword in first 10% of meta description. All output
+    should be in [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

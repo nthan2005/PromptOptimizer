@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1749
+# teaser: Unlock the power of Practina, your AI-driven digital marketing ally! Streamline your online
+# presence, boost engagement, and grow your brand effortlessly. Key Features: 1. Automated post
+# creation, scheduling, & publishing 2. Custom website templates 3. Smart targeting for higher reach
+# 4. Comprehensive analytics for data-driven strategy Join the Practina community today and elevate
+# your brand's digital presence to new heights. Stay ahead of the competition and unlock your
+# business's true potential with the power of AI-driven marketing.
+- id: 1749-ai-marketing-automation-platform
+  title: AI Marketing Automation Platform
+  tags:
+    - marketing
+    - automation
+    - platform
+  family: marketing
+  body:
+    "It reduces the time you spend posting manually and ensures you donâ€™t forget
+    to share anything. All out shall be in [TARGETLANGUAGE]. The text summarizes is
+    this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

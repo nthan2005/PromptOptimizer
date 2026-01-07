@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4545
+# teaser: Paste article then add " RevisionTime: 2023-05-11T02:21:16.834Z
+- id: 4545-article-analyzer-starter-activity-marketing-topic-copywritin
+  title: "Article Analyzer Starter Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - article
+    - analyzer
+    - starter
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Article Analyzer Starter"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] I''m going to give you an aritcle, then STRICTLY await instructions.
+    article = "[PROMPT]"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

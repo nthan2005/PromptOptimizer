@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4717
+# teaser: Create the best specialized, persuasive, strategic, curious, interesting article, to be the
+# first in Google searches, with NLP language, and motivational phrases, [SEO Title] [Keyword] [meta
+# description for article] [keyword for slug] [Title of your Article] RevisionTime:
+# 2023-08-10T17:47:06.499Z
+- id: 4717-best-blog-article-with-seo-activity-persuade-topic-copywriti
+  title: "[ Best Blog Article with SEO] Activity: Persuade Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - blog
+    - article
+    - seo
+    - activity
+    - persuade
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "[ Best Blog Article with SEO]"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to write a specialized article, optimized for SEO, with persuasive
+    text, NLP language, 90% sentences in active voice and 10% in passive voice, to
+    rank first in Google searches. The article must contain a maximum of 1700 words,
+    divided into an introduction and four subtitles. 90% of the sentences must be
+    in the active voice, 10% of the sentences in the passive voice. Each sentence
+    of the text must have a maximum of 25 words. 90% of sentences should contain transition
+    words for SEO optimization. All outputs must be in [TARGETLANGUAGE]. The text
+    to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

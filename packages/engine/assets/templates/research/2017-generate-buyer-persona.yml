@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2017
+# teaser: Generate Buyer Persona, With Pain Points, Goals, How can you help, (Upvote Please For More)
+- id: 2017-generate-buyer-persona
+  title: Generate Buyer Persona
+  tags:
+    - research
+    - generate
+    - buyer
+    - persona
+  family: Research
+  body:
+    Your task is to generate buyer persona with Gender, Age, Location, Relationship
+    Status, Work, Interests, Behaviors, Web History, Search Terms, Pain Points, Goals,
+    How We can help? [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

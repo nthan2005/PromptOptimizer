@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8492
+# teaser: It will generate 5 SEO Optimized FAQs with Answers for your article, that will definitely
+# rank of the People Also Ask Section of Google. RevisionTime: 2023-03-13T09:59:41Z
+- id: 8492-generate-seo-optimized-faqs-with-answers-activity-writing-to
+  title: "Generate SEO Optimized FAQs with Answers Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - generate
+    - seo
+    - optimized
+    - faqs
+    - answers
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate SEO Optimized FAQs with Answers"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Suggest a list of 5 popular questions with answers in 3 to 4 lines or more
+    if required in related to [PROMPT] in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

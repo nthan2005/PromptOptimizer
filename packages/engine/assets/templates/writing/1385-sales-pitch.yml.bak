@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1385
+# teaser: This sales pitch comes from a 7-step framework. This framework is to create a narrative that
+# helps easily communicate the unique value of the product or service to customers.
+- id: 1385-sales-pitch
+  title: Sales Pitch
+  tags:
+  - writing
+  - sales
+  - pitch
+  family: writing
+  body: 'Write in [TARGETLANGUAGE]. Act as an expert in sales. You will help me write
+    an amazing sales pitch. This sales pitch comes from a 7-step framework. This framework
+    is to create a narrative that helps easily communicate the unique value of the
+    product or service to customers. Here are seven questions youÃ¢â‚¬â„¢re going to need
+    to ask me: WhatÃ¢â‚¬â„¢s the problem youÃ¢â‚¬â„¢re solving? What else is out there that
+    addresses the problem? WhatÃ¢â‚¬â„¢s the perfect world solution for your customer?
+    Who are you? What value do you bring? WhatÃ¢â‚¬â„¢s your proof? What do you want the
+    customer to do? Ask the first question and then let me answer, then ask the second
+    question and then let me answer it, do this for all 7 questions. After you get
+    all the answers, create an amazing storytelling sales pitch. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

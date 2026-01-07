@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4928
+# teaser: Create a web story for blogs with keyword rich content with simple single short sentence
+# lines for a [KEYWORD] RevisionTime: 2023-03-05T13:26:33.152Z
+- id: 4928-100-human-generated-web-story-activity-script-writing-topic
+  title: "100% Human Generated Web Story Activity: Script Writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - "100"
+    - human
+    - generated
+    - web
+    - story
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "100% Human Generated Web Story "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are a content creator for a popular SEO blog, and you''ve been tasked
+    with generating a quick SEO web story that will engage readers and improve their
+    content score. Your goal is to create keyword-rich content that will drive traffic
+    to the website and help it rank higher in search results. Consider the latest
+    industry trends, the most popular search terms, and the interests of your audience
+    when crafting your story. Think of an attention-grabbing headline and use short,
+    snappy sentences to keep your readers engaged. Your first task is to create a
+    web story with the headline [PROMPT]. Write all output in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2415
+# teaser: Find books, podcasts and Twitter handle for Podcast guests.
+- id: 2415-podcast-guest-info-table
+  title: Podcast Guest Info Table
+  tags:
+    - respond
+    - podcast
+    - guest
+    - info
+    - table
+  family: Respond
+  body:
+    "Given the names in [PROMPT] below. Please can you create me a table with
+    the name and any books that they have written plus the topic of the book also
+    includes any podcast that they host and the topic and finally their Twitter handle.
+    So the table should have 6 columns and include column headings. Column 1 is name,
+    column 2 is book titles, column 3 is topic of said books, column 4 is podcast
+    title (if any) and column 5 is the podcast topic, and finally column 6 is their
+    twitter handle. If the person has written multiple books include them each on
+    a new line within the same cell. Write the table output in [TARGETLANGUAGE] Thanks:
+    [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

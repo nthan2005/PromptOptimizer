@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8399
+# teaser: Use this prompt to create a comprehensive SEO-optimized article brief/outline from any
+# keyword or topic. RevisionTime: 2024-06-29T11:54:24.459Z
+- id: 8399-comprehensive-seo-article-brief-outline-activity-writing-top
+  title: 'Comprehensive SEO Article Brief/Outline Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - comprehensive
+  - seo
+  - article
+  - brief
+  - outline
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1863238568655982592/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Comprehensive SEO Article Brief/Outline"](https://www.aiprm.com/prompts/seo/writing/1863238568655982592/)_"
+    --- all output must be in [TARGETLANGUAGE] your task is to act as an seo content
+    specialist and create an seo article brief/outline on this topic - [PROMPT] write
+    about 120 characters meta description for this article that contains the main
+    keyword. the brief should be broken down into sequential sub-headings that cover
+    the topic in-depth. please do not go out of the context of the topic. this brief
+    should be comprehensive enough to be sent to an article writer for writing. the
+    brief should start with an intro section and end with a conclusion. suggest some
+    semantic keywords to include in the article. come up with 5 different catchy title
+    variations. include relevant faqs that need to be answered regarding the topic.
+    suggest appropriate h tags for the different sub-headings of the outline. here
+    is a structure you can follow for the brief:'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

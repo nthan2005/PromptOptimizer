@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2784
+# teaser: Subtopics in KW research
+- id: 2784-kw-research
+  title: KW Research
+  tags:
+    - keywords
+    - research
+  family: keywords
+  body:
+    "Cluster this list of keywords. The primary objective it's to avoid cannibalization
+    and choose the best options under each cluster or subtopic. Here are the keywords:
+    [PROMPT] [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

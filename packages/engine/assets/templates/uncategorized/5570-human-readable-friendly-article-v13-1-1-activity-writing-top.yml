@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5570
+# teaser: Rewrite provided content on best way in human readability RevisionTime:
+# 2024-04-13T04:23:46.366Z
+- id: 5570-human-readable-friendly-article-v13-1-1-activity-writing-top
+  title: "Human Readable friendly Article [V13.1.1] Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - human
+    - readable
+    - friendly
+    - article
+    - v13
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Human Readable friendly Article [V13.1.1]"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- your task is rewrite the text i give you rewrite word 20 to 5000 words, with
+    create FAQs based on article [TARGETLANGUAGE] rewrite well human readability [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

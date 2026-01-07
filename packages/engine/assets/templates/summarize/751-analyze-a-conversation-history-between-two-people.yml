@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 751
+# teaser: My first task is to analyze a conversation history between two people. The target language
+# is English.
+- id: 751-analyze-a-conversation-history-between-two-people
+  title: analyze a conversation history between two people
+  tags:
+    - summarize
+    - analyze
+    - conversation
+    - history
+    - between
+    - two
+  family: Summarize
+  body:
+    Imagine you have been given a conversation history between two individuals,
+    and your goal is to gain insights from the conversation. The conversation could
+    be in the form of text messages, emails, or any other written communication. You
+    are tasked with examining the dialogue and extracting relevant information, such
+    as the main topics discussed, the tone of the conversation, the emotions expressed,
+    and any significant events or decisions made. Consider the following steps when
+    crafting your
+  enabled: true
+  required: []

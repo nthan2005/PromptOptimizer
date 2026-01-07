@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1696
+# teaser: 6 different amazing Midjourney V5 prompts using different artists and styles including a
+# realistic photographic style. after prompt generation, you may ask for more prompts or different
+# artists. best results with GPT-4
+- id: 1696-midjourney-v5-prompts-6-different-styles
+  title: Midjourney V5 prompts - 6 different styles
+  tags:
+    - midjourney
+    - prompts
+    - different
+    - styles
+  family: Midjourney
+  body:
+    'You will generate a stills image description exactly as instructed by me.
+    - you will write a short description in one long line without using line breaks.
+    - you will use minimal words required to describe the image properly The concept
+    of the image will be [PROMPT] The structure of the prompt will be as follows:
+    start first with "Prompt [number]:", then in a new line start the description
+    with the phrase "/imagine'
+  enabled: true
+  required:
+    - prompt

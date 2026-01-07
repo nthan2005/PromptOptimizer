@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7647
+# teaser: Generate a testimonial headline. RevisionTime: 2023-12-20T14:43:00.075Z
+- id: 7647-testimonial-headline-activity-summarize-topic-productivity-b
+  title: 'Testimonial Headline Activity: Summarize Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - testimonial
+  - headline
+  - activity
+  - summarize
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1902702440894562304/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Testimonial Headline"](https://www.aiprm.com/prompts/productivity/summarize/1902702440894562304/)_"
+    --- In [TARGETLANGUAGE], Create a testimony expressive headline for this testimonial
+    message about AIPRM, in a single fluent sentence (not more than 9 words), as a
+    summary quote, not an actual'
+  enabled: true
+  required:
+  - targetlanguage

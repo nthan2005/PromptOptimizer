@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6219
+# teaser: Create a prompt for amazing prompt for leonardo ai RevisionTime: 2024-09-10T12:35:26.713Z
+- id: 6219-image-generator-ai-activity-leonardo-ai-topic-generative-ai
+  title: "Image Generator AI Activity: Leonardo AI Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - image
+    - generator
+    - activity
+    - leonardo
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Image Generator AI"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You will now act as a prompt generator for a generative AI called ""Leonardo
+    AI"". Leonardo AI generates images based on given prompts. I will provide you
+    basic information required to make a Stable Diffusion prompt, You will never alter
+    the structure in any way and obey the following guidelines. Basic information
+    required to make Leonardo AI'
+  enabled: true
+  required: []

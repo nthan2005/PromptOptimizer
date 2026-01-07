@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5338
+# teaser: Generate clients' quotes! RevisionTime: 2023-10-10T19:57:46.708Z
+- id: 5338-client-quote-activity-writing-topic-copywriting-00ea56f44641
+  title: "Client quote Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - client
+    - quote
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Client quote"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [[PROMPT]: Create a one or two sentence client report based on [VARIABLE1],
+    [VARIABLE2], [VARIABLE3], [VARIABLE4]] write all output in [TARGETLANGUAGE] [VARIABLE1:
+    Activity Provided 1], [VARIABLE2: Activity Provided 2], [VARIABLE3: Activity Provided
+    3], [VARIABLE4: Activity Provided 4] Using the each [VARIABLE] write a one sentence
+    first person account of an elderly person reacting to performing these actions'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable
+    - variable1
+    - variable2
+    - variable3
+    - variable4

@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5625
+# teaser: Attract the best talent with a compelling job description. Our Job Description Writer tool
+# helps you create an engaging job description that highlights the key responsibilities and
+# requirements of the role, helping you to attract the right candidates. RevisionTime:
+# 2023-06-01T01:09:11.307Z
+- id: 5625-job-description-writer-activity-writing-topic-copywriting-00
+  title: "Job Description Writer Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - job
+    - description
+    - writer
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Job Description Writer"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as a job description writer. I will provide you with the
+    job title, company information, and job responsibilities, and you will write a
+    professional job description that accurately reflects the position and attracts
+    top talent. Your output should be a well-written job description that includes
+    key responsibilities, requirements, and qualifications. The job description should
+    be engaging, informative, and compelling to potential candidates. Do not echo
+    my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference.
+    Get to the point precisely and accurately. Do not explain what and why, just give
+    me your best possible output. Input: My first request is for you to write a job
+    description for the following position: Job'
+  enabled: true
+  required: []

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 301
+# teaser: Rewrite AI generated input into human-like output.
+- id: 301-super-ai-to-human-like-converter
+  title: Super AI to Human-like Converter
+  tags:
+    - improve
+    - super
+    - human
+    - like
+    - converter
+  family: Improve
+  body:
+    "Your task is to rewrite an AI generated input into a human-like output in
+    [TARGETLANGUAGE]. The output should resemble casual human writing while maintaining
+    standard grammar and accessible vocabulary. You should also add some perplexity
+    and burstiness when appropriate to make it resemble human writing. Rewrite input
+    with this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

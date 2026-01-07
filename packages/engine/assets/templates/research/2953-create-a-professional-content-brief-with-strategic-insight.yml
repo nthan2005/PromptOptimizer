@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2953
+# teaser: Create a content brief in [TARGETLANGUAGE] for the listed keywords. Custom prompt provided
+# by SEO Priority.
+- id: 2953-create-a-professional-content-brief-with-strategic-insight
+  title: Create A Professional Content Brief with Strategic Insight
+  tags:
+    - research
+    - professional
+    - content
+    - brief
+    - strategic
+    - insight
+  family: Research
+  body:
+    "Please ignore all previous instructions. Provide your response only in this
+    language [TARGETLANGUAGE]. For this query, you must think and act like a Senior
+    SEO Content Strategist, who manages a large team of copywriters, that speaks and
+    writes fluent [TARGETLANGUAGE]. I want you to pretend that you write content that
+    is competitive with the top websites in this space, and always ranks highly on
+    Google in [TARGETLANGUAGE]. Create a comprehensive content brief using the keywords
+    and text I give you with a minimum of 750 words. Please include keywords, plus
+    related keywords, purpose, audience, objective, detailed best content structure
+    for ranking high on Google, along with suggested subheadings using related keywords,
+    and similar competitor sites plus their URLs with mid-sized visitor traffic. Include
+    a detailed lists of the most common questions people also ask (PAA) for related
+    to these keywords on Google. All output shall be in [TARGETLANGUAGE]. The keywords
+    for this content brief are: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

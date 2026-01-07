@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2535
+# teaser: Social Media Viral Caption Generator | Simply enter your topic and get 10 Viral Social Media
+# Captions with Hashtags.
+- id: 2535-social-media-viral-captions-generator-hashtags
+  title: Social Media Viral Captions Generator + Hashtags
+  tags:
+    - summarize
+    - social
+    - media
+    - viral
+    - captions
+    - generator
+  family: Summarize
+  body:
+    Act as if you're a social media expert. Give me a 10 tweet thread about [PROMPT].
+    The thread should be optimized for virality and contain hashtags and emoticons.
+    Each tweet should not exceed 280 characters in length. [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8466
+# teaser: Dicover Featured Snippet search queries for your topic or title RevisionTime:
+# 2023-04-04T10:46:51.216Z
+- id: 8466-find-featured-snippet-search-queries-activity-writing-topic
+  title: 'Find featured snippet search queries Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - find
+  - featured
+  - snippet
+  - search
+  - queries
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1793596769100365824/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Find featured snippet search queries"](https://www.aiprm.com/prompts/seo/writing/1793596769100365824/)_"
+    --- Generate a list of search queries that appear as a featured snippet in Google''s
+    SERPs for a given any topic or title. List out only featured snippet appearing
+    search queries and provide a reason why some queries may not appear as Featured
+    Snippet as a note. All output shall be in [TARGETLANGUAGE] The text to summarize
+    is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

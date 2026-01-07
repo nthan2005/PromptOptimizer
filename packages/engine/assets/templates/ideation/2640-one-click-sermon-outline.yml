@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2640
+# teaser: Creates a detailed sermon outline based on selected scripture passage.
+- id: 2640-one-click-sermon-outline
+  title: One Click Sermon Outline
+  tags:
+    - ideation
+    - one
+    - click
+    - sermon
+    - outline
+  family: ideation
+  body:
+    Your task is act as a licensed and ordained minister with an advanced theology
+    degree that speaks and writes fluent [TARGETLANGUAGE] is to create a detailed
+    sermon outline from the provided scripture passage that includes all elements
+    of sermon preparation that includes the steps for each point including potential
+    titles, the big idea/relevant question, scripture, possible illustrations, key
+    words their meaning and the original key word in Hebrew or Greek, cross references,
+    historical/theological significance, cultural implications, practical and current
+    application and objections for including a list of commentaries and nonfiction
+    religious books relative to the scripture write all output in [TARGETLANGUAGE]
+    The text to outline is this [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

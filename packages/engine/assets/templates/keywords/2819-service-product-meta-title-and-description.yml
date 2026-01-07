@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2819
+# teaser: Create High quality Meta Title and Descption for Service & Product Pages
+- id: 2819-service-product-meta-title-and-description
+  title: Service/Product Meta Title and Description
+  tags:
+    - keywords
+    - service
+    - product
+    - meta
+    - title
+    - description
+  family: keywords
+  body:
+    For a product/service page create a meta title and description or keyword
+    [PROMPT]. Make sure to include the [PROMPT] in the title with a power word and
+    include the exact keyword in the meta description as well. Make sure the meta
+    description is a maximum of 155 characters and use an active voice and make it
+    actionable, Make sure the meta title is a maximum of 60 characters. Show the result
+    in a table with a meta title in one column and a description in the second column
+    and provide 10 results and make sure they are unique. write all output in [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

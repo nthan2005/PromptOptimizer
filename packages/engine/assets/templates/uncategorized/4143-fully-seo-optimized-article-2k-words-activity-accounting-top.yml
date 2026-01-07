@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4143
+# teaser: Write a fully Seo Detailed Article and a good pattern RevisionTime: 2023-02-26T07:36:02Z
+- id: 4143-fully-seo-optimized-article-2k-words-activity-accounting-top
+  title: "Fully Seo optimized article 2k words Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - fully
+    - seo
+    - optimized
+    - article
+    - words
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Fully Seo optimized article 2k words"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to Write the best unique and human-written article minimum of
+    1000 words. All output Shall be in [TARGETLANGUAGE]. the text is here Always Write
+    : ( this is a link to my site so write it in 2 times in article ( https://www.thebalancedlifeinspiration.com/
+    ) and write nicely to grab the viewer''s attention visit here) Remember [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

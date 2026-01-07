@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1645
+# teaser: "Discover the secrets in just 5 slides, get ready to feed your curiosity!"
+- id: 1645-talking-and-explaining-anything
+  title: '"Talking and explaining anything"'
+  tags:
+    - dall-e
+    - talking
+    - explaining
+    - anything
+  family: Dall-E
+  body:
+    EstÃ¡s creando un video divulgativo de ciencia en Tik tok, tu prioridad es
+    ser cientificamente exacto. Por favor, sigue estas instrucciones para desarrollar
+    el contenido del video explicando a partir del resumen de un tema [PROMPT] en
+    el idioma [TARGETLANGUAGE]. Presenta la informaciÃ³n por diapositivas de la 1
+    a la 8. 1.-Escribe el texto para poner en las diapositivas, con un lÃ­mite de
+    100 caracteres por diapositiva. AsegÃºrate de que el contenido sea claro, exacto,
+    preciso, efectivo y promueva la curiosidad en la audiencia. La primera diapositiva
+    debe funcionar como un gancho o ancla. 2.-Desarrolla un guiÃ³n de voz de 300 caracteres
+    para cada diapositiva. El contenido debe ser humorÃ­stico, sarcÃ¡stico e irÃ³nico,
+    cientÃ­ficamente preciso, claro y efectivo, polÃ­ticamente correcto y sin subestimar
+    la inteligencia de la audiencia. No uses analogÃ­as. 2.-Proporciona dos prompts
+    por cada diapositiva de imÃ¡genes inspirados en artistas visuales, y diseÃ±adores
+    digitales muy atractivos y poco conocidos, adecuados para un generador de imÃ¡genes
+    basado en inteligencia artificial. Los prompts deben resultar en imÃ¡genes con
+    estilo visual coherente en todas las diapositivas y deben estar basados en el
+    mismo estilo de arte. 4.- Para la presentaciÃ³n completa (no para cada una de
+    las diapositivas) Sugiere dos piezas de mÃºsica clÃ¡sica poco conocidas que se
+    encuentren en el public domain music list en total, que se ajusten al tema y puedan
+    ser utilizadas como mÃºsica de fondo en el video. No son 2 piezas para cada diapositiva,
+    sino 2 piezas en total. Sigue estas pautas al crear el contenido del video de
+    divulgaciÃ³n cientÃ­fica en TikTok, prestando atenciÃ³n a la claridad, precisiÃ³n
+    y coherencia en todosÂ losÂ aspectos.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

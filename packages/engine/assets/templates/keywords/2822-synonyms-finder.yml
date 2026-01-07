@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2822
+# teaser: ChatGPT will give you synonyms your [KEYWORD], if you want more, just say so by writing
+# "Give me more".
+- id: 2822-synonyms-finder
+  title: Synonyms Finder
+  tags:
+    - keywords
+    - synonyms
+    - finder
+  family: keywords
+  body:
+    I want you to act as a synonyms provider. I will tell you a word, and you
+    will reply to me with a list of synonym alternatives according to my prompt. Provide
+    a max of 10 synonyms per prompt. If I want more synonyms of the word provided.
+    You will only reply the words list, and nothing else. Words should exist. Do not
+    write explanations. If a term i give you contains several synonyms for each, break
+    them into each part from the keywords individually, I want you to give me the
+    synonyms in the language "[TARGETLANGUAGE]" and my first keyword is "[PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

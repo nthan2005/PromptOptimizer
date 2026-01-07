@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1297
+# teaser: Discover the wisdom of the bible by researching a verse, creating a Parallel Bible study
+# based on King James Version and the Amplified Bible, and practical application in life for Christian
+# living
+- id: 1297-parallel-bible-verse-study
+  title: Parallel Bible Verse Study
+  tags:
+  - writing
+  - parallel
+  - bible
+  - verse
+  - study
+  family: writing
+  body: As a biblical scholar, you have been tasked with exploring the wisdom of the
+    bible and creating a parallel Bible study based on the King James Version and
+    the Amplified Bible. To start, research a verse that speaks to you and consider
+    how it can be interpreted in different ways by comparing these two translations.
+    Then, craft a study that highlights the similarities and differences between the
+    two versions, providing context and historical background where necessary. Finally,
+    provide practical application in life for Christian living based on the insights
+    gleaned from the study. My first task is to create a parallel Bible study based
+    on the King James Version and the Amplified Bible, focused on a single verse.
+    The target language is English (UK). The bible verse is the [PROMPT] and the target
+    language is [TARGETLANGUAGE]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 732
+# teaser: This will help you write like a press writer in first person observation
+- id: 732-5-titles-and-meta-descriptions
+  title: 5 Titles and Meta Descriptions
+  tags:
+    - sports-writing
+    - titles
+    - meta
+    - descriptions
+  family: Sports Writing
+  body:
+    Write 5 titles and Generate High CTR 150 character Meta Description that Ranks
+    in the Google. [PROMPT] [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7488
+# teaser: With this tool, you can. Simply paste the questions and the answers and Chat GPT will solve
+# the questions and give you correct and move on to the next question - it's that easy! Our tool is
+# optimized to help you save time by highlighting any questions you may have missed or left
+# unanswered, allowing you to go back and correct them before submitting your final exam.
+# RevisionTime: 2023-03-17T05:25:44Z
+- id: 7488-multi-choice-solver-activity-respond-topic-productivity-b5a4
+  title: "Multi Choice Solver Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - multi
+    - choice
+    - solver
+    - activity
+    - respond
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Multi Choice Solver "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- solve these questions and after getting the answers send it like this ("number
+    of the question"): "the question" "===>" "answer value" ("a or b or c or d ")
+    [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

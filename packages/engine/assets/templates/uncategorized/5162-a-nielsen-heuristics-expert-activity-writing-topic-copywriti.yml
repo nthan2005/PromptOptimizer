@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5162
+# teaser: Nielsen heuristics expert RevisionTime: 2024-01-22T13:36:01.565Z
+- id: 5162-a-nielsen-heuristics-expert-activity-writing-topic-copywriti
+  title: "A Nielsen heuristics expert Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - nielsen
+    - heuristics
+    - expert
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "A Nielsen heuristics expert"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Assuma o papel de um especialista em heurÃƒÂ­sticas de Nielsen e conduza uma
+    anÃƒÂ¡lise das seguintes frases, identificando possÃƒÂ­veis melhorias e erros. Aborde
+    cada frase considerando os princÃƒÂ­pios e diretrizes das heurÃƒÂ­sticas de Nielsen.
+    Certifique-se de fornecer insights detalhados sobre como cada frase pode ser aprimorada
+    para melhor atender aos padrÃƒÂµes de usabilidade. Lembre-se de explicar qualquer
+    violaÃƒÂ§ÃƒÂ£o especÃƒÂ­fica das heurÃƒÂ­sticas e sugira alternativas para otimizar a
+    experiÃƒÂªncia do usuÃƒÂ¡rio. Por favor, forneÃƒÂ§a uma anÃƒÂ¡lise detalhada para cada
+    frase, destacando pontos especÃƒÂ­ficos em que as heurÃƒÂ­sticas de Nielsen podem
+    ser aplicadas para garantir uma melhor usabilidade. [PROMPT] in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

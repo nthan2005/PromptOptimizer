@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 474
+# teaser: Generate SEO compatible FAQs for your content.
+- id: 474-seo-optimized-faq
+  title: SEO Optimized FAQ
+  tags:
+  - marketing
+  - seo
+  - optimized
+  - faq
+  family: marketing
+  body: Promp text including placeholders [TARGETLANGUAGE] or [PROMPT] replaced automagically
+    by AIPRM.
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

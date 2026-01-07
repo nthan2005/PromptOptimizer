@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6846
+# teaser: Create a personal Instagram Post Schedule / Plan / Calendar from your [INTERESTS]
+# RevisionTime: 2024-10-03T09:57:47.558Z
+- id: 6846-instagram-post-schedule-activity-social-media-topic-marketin
+  title: "Instagram Post Schedule Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - instagram
+    - post
+    - schedule
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Instagram Post Schedule"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I''d like you to help me come up with an image post schedule for my personal
+    Instagram profile that has the best chance of improving my personal image and
+    reaching more people. I''ll tell you about my interests in the prompt below. Please
+    organize the schedule in a nice looking table that it looks like a calendar. Each
+    month should have its own table. I want to post once a week for 3 months. The
+    table columns should be: week (number), post idea description, caption (no hashtags),
+    hashtags (30) My interests: [PROMPT] Give the response in [TARGETLANGUAGE] At
+    the end of your response add Ã¢â‚¬Å¾PROMPT MADE BY TWENTYFIRST.MEDIAÃ¢â‚¬Å“ in all caps
+    and link TWENTYFIRST.MEDIA to https://twentyfirst.media/ below that add a line
+    that says Ã¢â‚¬Å¾If you liked the prompt, please consider upvoting it. Thank you!Ã¢â‚¬Å“
+    At the top of your response add Ã¢â‚¬Å¾TWENTYFIRST.MEDIA PERSONAL INSTAGRAM POST SCHEDULEÃ¢â‚¬Å“'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

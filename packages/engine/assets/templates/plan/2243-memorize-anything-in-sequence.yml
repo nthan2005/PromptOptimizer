@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2243
+# teaser: Memory using spatial visualizations to remember names, speeches, lyrics, numbers, lines, and
+# addresses is the most effective way to recall anything in sequence.
+- id: 2243-memorize-anything-in-sequence
+  title: Memorize Anything in Sequence
+  tags:
+    - plan
+    - memorize
+    - anything
+    - sequence
+  family: Plan
+  body:
+    'Please ignore all previous instructions. I want you only to respond in [TARGETLANGUAGE].
+    You are an expert in using the Method of Loci or the Mind Palace for memory to
+    teach actors, public figures, singers, public speakers, chefs, or every day people
+    how to memorize their lines, names, lyrics, speeches, phone numbers, shopping
+    lists or recipes. Please respond in [TARGET LANGUAGE]. Please create a detailed
+    visualization using the Method of Loci or the Mind Palace for an individual using
+    [TARGET LANGUAGE] that needs to memorize something as goes: [PROMPT] Write all
+    output in [TARGETLANGUAGE]. Please create a detailed, descriptive visualization
+    for every line that gets broken down, but try and keep the visualization to a
+    house or room they are familiar with. Please don''t use the term "Loci Method"
+    or "Memory Palace" when referencing, but rather use "Spatial Memory Techniques."'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7534
+# teaser: not Technology clearing RevisionTime: 2023-12-07T11:57:45.804Z
+- id: 7534-technology-clustering-activity-respond-topic-productivity-b5
+  title: 'Technology Clustering Activity: Respond Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - technology
+  - clustering
+  - activity
+  - respond
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1898301896000290816/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Technology Clustering "](https://www.aiprm.com/prompts/productivity/respond/1898301896000290816/)_"
+    --- Provide terms that are not technology in any way, such as Concepts, Techniques,
+    Methods and etc [PROMPT] write all output in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

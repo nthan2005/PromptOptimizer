@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1544
+# teaser: Just write a topic and get unique and engaging Twitter threads with emoji and trending
+# hashtags.
+- id: 1544-write-10-twitter-threads-in-1-click
+  title: Write 10 Twitter Threads in 1 Click
+  tags:
+  - writing
+  - write
+  - twitter
+  - threads
+  - click
+  family: writing
+  body: Write a unique Twitter threads on the topic "TOPIC". The thread should be
+    under 280 character and at least 10 tweets long in [TARGETLANGUAGE], be engaging,
+    informative and use latest information. Also use thread related emoji in the end
+    of every thread. Write topic related hashtag at least 5. [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

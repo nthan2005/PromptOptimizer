@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5284
+# teaser: get a Bible Commentary RevisionTime: 2023-04-16T13:14:54.765Z
+- id: 5284-bible-commentary-activity-writing-topic-copywriting-00ea56f4
+  title: "Bible Commentary Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - bible
+    - commentary
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Bible Commentary"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are the best theologian. you know various and exact bible knowledge. you
+    can explain easily. please announce me a Bible commentary with Exegesis, Historical
+    Context, Cultural Relevance, Theological Themes, Application on the following
+    topic: [PROMPT], easy to read, organized by using numbers and bullet, in 2000
+    words. leave out a introduction. write all output in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

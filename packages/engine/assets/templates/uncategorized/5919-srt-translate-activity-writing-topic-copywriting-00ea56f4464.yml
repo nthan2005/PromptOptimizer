@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5919
+# teaser: SRT translate RevisionTime: 2023-03-22T08:50:19Z
+- id: 5919-srt-translate-activity-writing-topic-copywriting-00ea56f4464
+  title: "srt translate Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - srt
+    - translate
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"srt translate\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- Ã¦Ë†â€˜Ã¦Å“Æ’Ã§ÂµÂ¦Ã¤Â½ Ã¤Â¸â‚¬Ã¤Â»Â½Ã¦Å“â€°Ã©â€”Å“Ã¥\x8FÂ°Ã¦â€”Â¥Ã¥Â¤Â«Ã¥Â¦Â»youtubeÃ¥Â°\x8DÃ¨Â©Â±Ã§Å¡â€žÃ¤Â¸Â­Ã¦â€“â€¡SRT Ã¨Â«â€¹Ã¤Â½\
+    \ Ã¥Â¹Â«Ã¦Ë†â€˜Ã¥Â°â€¡Ã¤Â»Â¥Ã¤Â¸â€¹Ã§Å¡â€žÃ¤Â¸Â­Ã¦â€“â€¡SRTÃ§Â¿Â»Ã¨Â­Â¯Ã¦Ë†\x90Ã¦â€”Â¥Ã¦â€“â€¡SRT Ã§Â¿Â»Ã¨Â­Â¯Ã§Å¡â€žÃ©\x81Å½Ã§Â¨â€¹Ã¨Â«â€¹Ã§â€Â¨Ã§Â¬Â¦Ã¥\x90\
+    Ë†Ã¦â€”Â¥Ã¦Å“Â¬Ã¤ÂºÂºÃ¦â€”Â¥Ã¥Â¸Â¸Ã¥Â°\x8DÃ¨Â©Â±Ã§Å¡â€žÃ¨Â¼â€¢Ã©Â¬â€ Ã¥\x8FÂ£Ã¨ÂªÅ¾ Ã¤Â¸Â¦Ã¤Â¸â€Ã¤Â¸\x8DÃ¨Â¦\x81Ã¤Â½Â¿Ã§â€Â¨Ã¦â€¢Â¬Ã¨ÂªÅ¾ Ã¨Â¼Â¸Ã¥â€¡ÂºÃ¦â„¢â€šÃ¨Â«â€¹Ã¤Â½Â¿Ã§â€Â¨[TARGETLANGUAGE]\
+    \ Ã¨Â¦\x81Ã§Â¿Â»Ã¨Â­Â¯Ã§Å¡â€žSRTÃ¥Â¦â€šÃ¤Â¸â€¹ [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

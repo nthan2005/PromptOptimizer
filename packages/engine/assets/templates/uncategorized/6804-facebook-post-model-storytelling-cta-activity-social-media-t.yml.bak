@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6804
+# teaser: Alex PÃ©rez Presents: Rewrite any Facebook post with new Words and make the post much more
+# powerful and persuasive. Includes Storytelling and Call to Action for them to interact RevisionTime:
+# 2024-10-03T09:56:02.336Z
+- id: 6804-facebook-post-model-storytelling-cta-activity-social-media-t
+  title: 'Facebook Post Model + Storytelling + CTA Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - facebook
+  - post
+  - model
+  - storytelling
+  - cta
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1804250512133197824/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Facebook Post Model + Storytelling
+    + CTA "](https://www.aiprm.com/prompts/marketing/social-media/1804250512133197824/)_"
+    --- [PROMPT] Reescribe el siguiente post de Facebook mejorando el texto. Hazlo
+    en [TARGETLANGUAGE] Utiliza tus propias palabras e incluye emoticonos. Haz tambiÃ©n
+    que el texto sea mÃ¡s potente y persuasivo. Tienes que hacer que el nuevo post
+    genere mucho mÃ¡s engangement que el original. AÃ±ade tambiÃ©n algo de Storytelling
+    para generar sensaciones en el lector. Finaliza el post con un CTA que llame a
+    la interacciÃ³n del usuario.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

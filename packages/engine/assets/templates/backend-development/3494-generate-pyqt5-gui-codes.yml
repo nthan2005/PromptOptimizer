@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3494
+# teaser: Make a code in a python language using PyQt5
+- id: 3494-generate-pyqt5-gui-codes
+  title: Generate PyQt5 GUI codes
+  tags:
+    - backend-development
+    - generate
+    - pyqt5
+    - gui
+    - codes
+  family: Backend Development
+  body:
+    Make me a code in [TARGETLANGUAGE] using Python PyQt5 that enables the user
+    to [PROMPT], make the code compact as much as you can, set also the default window
+    size to 200x200
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

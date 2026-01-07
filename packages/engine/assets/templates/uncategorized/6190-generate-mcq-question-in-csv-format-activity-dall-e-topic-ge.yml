@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6190
+# teaser: Generate MCQ question in csv format by gyanok.com RevisionTime: 2023-03-20T04:58:25Z
+- id: 6190-generate-mcq-question-in-csv-format-activity-dall-e-topic-ge
+  title: "Generate MCQ question in csv format Activity: Dall-E Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - generate
+    - mcq
+    - question
+    - csv
+    - format
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate MCQ question in csv format"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- generate 25 [KEYWORD] multiple-choice questions with four options and corresponding
+    answers (1, 2, 3, 4) in a csv format [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

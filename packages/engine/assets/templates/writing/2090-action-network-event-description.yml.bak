@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2090
+# teaser: Action Network Event Description from [Keyword}
+- id: 2090-action-network-event-description
+  title: Action Network Event Description
+  tags:
+  - writing
+  - action
+  - network
+  - event
+  - description
+  family: writing
+  body: '"Act as an event organizer and create a captivating event page on actionnetwork.org
+    that will attract a large number of attendees. Consider the latest events trends,
+    current events, and the interests of your target audience when crafting your page.
+    Highlight the unique features of your event, and use eye-catching images and persuasive
+    language to entice people to attend. My first task is [PROMPT]. The target language
+    is [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

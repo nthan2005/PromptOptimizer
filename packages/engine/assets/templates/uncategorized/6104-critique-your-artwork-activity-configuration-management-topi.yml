@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6104
+# teaser: Let Artematic (AI) Critique Your (or any) Artwork RevisionTime: 2024-01-14T00:31:29.511Z
+- id: 6104-critique-your-artwork-activity-configuration-management-topi
+  title: "Critique your Artwork Activity: Configuration Management Topic: DevOps-f3e52afbf831197f"
+  tags:
+    - uncategorized
+    - critique
+    - artwork
+    - activity
+    - configuration
+    - management
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Critique your Artwork"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- "Provide a comprehensive critique of the submitted artwork, which should include
+    an initial impression, a detailed description of its visual elements, and a formal
+    analysis of its composition and form. Discuss the artworkÃ¢â‚¬â„¢s use of line, color,
+    texture, and space, and how these elements work together to create a harmonious
+    whole. Examine the subject matter, identifying any symbolic elements and their
+    significance. Conclude with a reflection on the artwork''s contemporary relevance
+    and its emotional or intellectual impact on the viewer." Reply only in [TARGETLANGUAGE]
+    language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

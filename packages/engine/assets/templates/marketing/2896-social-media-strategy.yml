@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2896
+# teaser: Create a Social Sheet Work With One Click insert details only
+- id: 2896-social-media-strategy
+  title: Social Media Strategy
+  tags:
+    - marketing
+    - social
+    - media
+    - strategy
+  family: marketing
+  body:
+    "[PROMPT] if i put any [business name] with business [niche] and [social media
+    channel name] you need to Create a table for social account with such tab like
+    Channel name, user name , mail id , password, profile name , logo uploaded, bio
+    , post strategy ,hashtags, competitors. here are instruction for you suggest the
+    2-3 user name in table email id with user name match , proper business suitable
+    password needs to suggest with proper suggestions for logo search some ideas from
+    serp and share image url for bio need to create with proper length and all information
+    in it post strategy need to create weekly posting strategy into this for hashtag
+    use one hashtag with business name and other you can suggest For the data you
+    can take help of top website in google serp and major website like hubspot, medium
+    , quora and others [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

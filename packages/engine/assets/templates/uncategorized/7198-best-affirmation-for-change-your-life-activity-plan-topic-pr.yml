@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7198
+# teaser: create magical affirmation to change your life RevisionTime: 2023-03-16T08:53:44.211Z
+- id: 7198-best-affirmation-for-change-your-life-activity-plan-topic-pr
+  title: "Best Affirmation for change your life Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - affirmation
+    - change
+    - life
+    - activity
+    - plan
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best Affirmation for change your life
+    "](https://github.com/nthan2005/PromptOptimizer)_" ---
+    your task is create an affirmation to change our life. all output shall be in
+    [TARGETLANGUAGE] . the text to summarize is this : [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

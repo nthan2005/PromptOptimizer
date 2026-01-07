@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 955
+# teaser: Creates an SEO friendly Blog Post Introduction and Meta Description for your Article.
+- id: 955-blog-post-intro-meta-description
+  title: Blog Post Intro. & Meta Description
+  tags:
+    - writing
+    - blog
+    - post
+    - intro
+    - meta
+    - description
+  family: writing
+  body:
+    Generate a SEO Friendly Blog Post Introduction and 165 characters meta description
+    for [PROMPT] using [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

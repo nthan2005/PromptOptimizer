@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6208
+# teaser: "Learn the secrets of smart online shopping and enjoy a comfortable and enjoyable
+# experience" RevisionTime: 2023-04-11T23:12:41.405Z
+- id: 6208-the-shopping-activity-dall-e-topic-generative-ai-b983edfcaa4
+  title: "the shopping Activity: Dall-E Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - shopping
+    - activity
+    - dall
+    - topic
+    - generative
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "the shopping"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] Ã™Ë† [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

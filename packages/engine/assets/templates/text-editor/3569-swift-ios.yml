@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3569
+# teaser: Help your development with swift.
+- id: 3569-swift-ios
+  title: Swift ios
+  tags:
+    - text-editor
+    - swift
+    - ios
+  family: Text Editor
+  body:
+    "Help me with IOS developing with Swift and Xcode MY CODE: [PROMPT] My expectation
+    about this problem: [VARIABLE1]â€¨ My error: [VARIABLE2] My goal: [VARIABLE3]
+    â€¨All output should be in [TARGETLANGUAGE] [VARIABLE1:My problem:none] [VARIABLE2:Error
+    you got:none] [VARIABLE3:Goal to achive:none]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3

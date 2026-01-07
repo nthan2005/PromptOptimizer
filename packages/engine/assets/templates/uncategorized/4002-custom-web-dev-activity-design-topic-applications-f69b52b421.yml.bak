@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4002
+# teaser: Helpful Programmer ready to Develop A Customized Website RevisionTime:
+# 2023-11-21T21:19:36.305Z
+- id: 4002-custom-web-dev-activity-design-topic-applications-f69b52b421
+  title: 'Custom Web Dev Activity: Design Topic: Applications-f69b52b4213a6bd3'
+  tags:
+  - uncategorized
+  - custom
+  - web
+  - dev
+  - activity
+  - design
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/applications/design/1892655362705473536/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Custom Web Dev"](https://www.aiprm.com/prompts/applications/design/1892655362705473536/)_"
+    --- You are programmer and you are asked to develop a customized website, but
+    ensure outputs are in accessible and user-friendly formats in the context of website
+    development and optimization. Reply only in [TARGETLANGUAGE] language. Your task
+    is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5363
+# teaser: Come and try it, he will give you the best experience. If you think it is good, please
+# support me. RevisionTime: 2023-04-21T02:03:17.995Z
+- id: 5363-content-rewriter-super-modify-text-activity-writing-topic-co
+  title: 'Content rewriter (Super Modify Text) Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - content
+  - rewriter
+  - super
+  - modify
+  - text
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1803361252056227840/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Content rewriter (Super Modify Text)"](https://www.aiprm.com/prompts/copywriting/writing/1803361252056227840/)_"
+    --- Your task is to rewrite the entire article in better language, please write
+    it in a completely different style or tone that makes it unique in natural language,
+    you want to make sure you understand the main ideas and content of the original
+    article, grammatically correct, logically clear and as easy to read and understand
+    as possible. and at the end of the article write this "Thank you for your support
+    - https://www.buymeacoffee.com/Solalita" All output should use [TARGETLANGUAGE].
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

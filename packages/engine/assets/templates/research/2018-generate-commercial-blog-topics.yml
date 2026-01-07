@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2018
+# teaser: Generate blog topics with intent to sell
+- id: 2018-generate-commercial-blog-topics
+  title: Generate Commercial Blog Topics
+  tags:
+    - research
+    - generate
+    - commercial
+    - blog
+    - topics
+  family: Research
+  body:
+    Your task is to provide a list of at least 10 blog topics that would encourage
+    the reader to buy [PROMPT]. All output shall be in [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

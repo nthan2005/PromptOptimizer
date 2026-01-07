@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8627
+# teaser: Improve your writing with error-free content. This expert proofreaders polish your work for
+# credibility and success. RevisionTime: 2023-03-09T17:32:22Z
+- id: 8627-proofread-your-content-for-100-readability-activity-writing
+  title: "Proofread Your Content for 100% Readability Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - proofread
+    - content
+    - "100"
+    - readability
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Proofread Your Content for 100% Readability"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Proofread below provided content like highly experienced proofreaders do.
+    Mention all mistakes in bullet points and also create a better version of it.
+    [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

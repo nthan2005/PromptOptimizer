@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1962
+# teaser: Find 25 bestselling Amazon book titles in your favorite genre.
+- id: 1962-amazon-bestsellers-based-on-genre
+  title: Amazon bestsellers based on genre
+  tags:
+    - products
+    - amazon
+    - bestsellers
+    - based
+    - genre
+  family: Products
+  body:
+    "Your task is to generate 25 bestselling Amazon book titles in a particular
+    genre one below the other in the [TARGETLANGUAGE]. The 25 bestselling Amazon book
+    titles in this genre are as follows: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

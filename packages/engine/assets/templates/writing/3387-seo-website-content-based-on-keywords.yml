@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3387
+# teaser: write a TYPE page content for the below: focused keywords: 1, 2, 3 keyword cluster keyword
+# cluster keyword cluster
+- id: 3387-seo-website-content-based-on-keywords
+  title: SEO website content based on keywords
+  tags:
+    - writing
+    - seo
+    - website
+    - content
+    - based
+    - keywords
+  family: writing
+  body:
+    "please write website content in [TARGETLANGUAGE] based on the below keywords
+    and their cluster. please follow the below: - Use the focused keywords in the
+    title, description, slug, keywords, first paragraph, and any heading tag - Title
+    must be 60 character max including the targeted keywords - Descriptions must be
+    140 character max including the target keywords - make a heading and subheadings
+    for each section if needed - please include all the keywords in the output within
+    the heading or paragraphs, don't leave any of the keywords not to be included
+    on the content [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

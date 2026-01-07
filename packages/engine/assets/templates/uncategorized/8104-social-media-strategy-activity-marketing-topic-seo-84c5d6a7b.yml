@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8104
+# teaser: Create a Social Sheet Work With One Click insert details only RevisionTime:
+# 2023-03-19T16:28:01.936Z
+- id: 8104-social-media-strategy-activity-marketing-topic-seo-84c5d6a7b
+  title: "Social Media Strategy Activity: marketing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - social
+    - media
+    - strategy
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Social Media Strategy"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] if i put any [business name] with business [niche] and [social media
+    channel name] you need to Create a table for social account with such tab like
+    Channel name, user name , mail id , password, profile name , logo uploaded, bio
+    , post strategy ,hashtags, competitors. here are instruction for you suggest the
+    2-3 user name in table email id with user name match , proper business suitable
+    password needs to suggest with proper suggestions for logo search some ideas from
+    serp and share image url for bio need to create with proper length and all information
+    in it post strategy need to create weekly posting strategy into this for hashtag
+    use one hashtag with business name and other you can suggest For the data you
+    can take help of top website in google serp and major website like hubspot, medium
+    , quora and others [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

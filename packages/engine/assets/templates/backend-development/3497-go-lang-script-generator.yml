@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3497
+# teaser: [Go Lang - Code generator]
+- id: 3497-go-lang-script-generator
+  title: Go Lang Script Generator
+  tags:
+    - backend-development
+    - lang
+    - script
+    - generator
+  family: Backend Development
+  body:
+    Sua tarefa Ã© criar, ou seja, gerar scripts em Go Lang de acordo com a necessidade
+    pedida idioma [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

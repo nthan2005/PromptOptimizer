@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7497
+# teaser: Create a professional job posting [title] RevisionTime: 2023-03-10T14:17:40Z
+- id: 7497-professional-job-posting-activity-respond-topic-productivity
+  title: "Professional Job Posting Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - professional
+    - job
+    - posting
+    - activity
+    - respond
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Professional Job Posting"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Interagiere als Recruiting Spezialist und schreibe fÃƒÂ¼r mich eine professionelle
+    Stellenanzeige. Schreibe sie in der "Du" Form und in Stichpunkten und nutze dabei
+    die typische Gliederung (Deine Aufgaben, Dein Profil, Wir bieten) . Schreibe auf
+    [TARGETLANGUAGE] die Stellenanzeige fÃƒÂ¼r folgenden Job: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7427
+# teaser: Create a quiz based on your Keywords with Explanation. RevisionTime:
+# 2023-07-07T11:20:53.638Z
+- id: 7427-create-quizzes-activity-respond-topic-productivity-b5a49cdd0
+  title: "Create quizzes Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - quizzes
+    - activity
+    - respond
+    - topic
+    - productivity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create quizzes "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- please use the keywords [PROMPT] and Act as an educational content creator
+    and generate a set of 10 quizzes, along with their corresponding answers and explanations.
+    please avoid all of the above as a 4th answer. Each quiz should cover a different
+    topic and should be designed to test the knowledge and understanding of the reader
+    that speaks and writes fluent [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

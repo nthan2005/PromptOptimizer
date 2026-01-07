@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4983
+# teaser: Create Python Script For AutoDesk Maya RevisionTime: 2023-02-19T15:35:19Z
+- id: 4983-python-script-export-to-or-import-from-json-ex-export-skin-w
+  title:
+    "Python Script: Export To (or) Import From JSON. Ex: Export Skin Weights
+    in AutoDesk Maya Activity: Script Writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - python
+    - script
+    - export
+    - import
+    - json
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Python Script: Export To (or) Import
+    From JSON. Ex: Export Skin Weights in AutoDesk Maya"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write [TARGETLANGUAGE] script: [Describe Script Here] for [Software Name]
+    [PROMPT] Ã¢â€“Âª [Main query/title] options: Ã¢â‚¬Â¢ [bullet point 01] Ã¢â‚¬Â¢ [bullet point
+    02] Ã¢â‚¬Â¢ And so on Ã¢â€“Âª Generic options [mostly needed for all the tools] Ã¢â‚¬Â¢ [bullet
+    point 01 -Use Ã¢â‚¬Ëœpymel.core as pmÃ¢â‚¬â„¢] Ã¢â‚¬Â¢ [bullet point 02 -Write comments] Ã¢â‚¬Â¢
+    And so on Ã¢â€“Âª Specific options needed for this tool Ã¢â‚¬Â¢ [bullet point 01] Ã¢â‚¬Â¢
+    [bullet point 02] Ã¢â‚¬Â¢ And so on'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

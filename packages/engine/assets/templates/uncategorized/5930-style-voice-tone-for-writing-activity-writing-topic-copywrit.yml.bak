@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5930
+# teaser: Discover more on how you write RevisionTime: 2023-02-19T15:35:19Z
+- id: 5930-style-voice-tone-for-writing-activity-writing-topic-copywrit
+  title: 'Style/Voice/Tone for writing Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - style
+  - voice
+  - tone
+  - writing
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1791841751405953024/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Style/Voice/Tone for writing"](https://www.aiprm.com/prompts/copywriting/writing/1791841751405953024/)_"
+    --- Analyze the text below for style, voice, and tone. Using NLP, create a prompt
+    to write a new email in the same style, voice, and tone: [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2567
+# teaser: As low-cost if not free as possible, whilst high quality and highly sought after for rapid
+# expansion.
+- id: 2567-ai-monetize
+  title: AI Monetize
+  tags:
+    - trial
+    - monetize
+  family: Trial
+  body:
+    "[PROMPT] [TARGETLANGUAGE]The way and guide to setup web application that
+    includes AI or another Technology, that I can monetize ASAP and create a market."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 134
+# teaser: Create customer reviews for your products by just pasting your product URL
+- id: 134-product-review-generator
+  title: Product Review Generator
+  tags:
+    - accounting
+    - product
+    - review
+    - generator
+  family: Accounting
+  body:
+    I will give you a website product url, you need to create 20 short customer
+    review for this product [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

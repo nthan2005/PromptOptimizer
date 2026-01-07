@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4308
+# teaser: Introducing the ultimate custom multiple-choice test generator! Based on any text you
+# provide, our AI-powered tool will create a tailored multiple-choice test to suit your specific
+# needs. Choose the number of questions, answer choices per question, and difficulty level to ensure
+# your test is a perfect fit. Say goodbye to generic tests and hello to personalized learning. Get
+# ready to revolutionize your assessment experience with our state-of-the-art custom test generator!
+# RevisionTime: 2023-04-09T21:32:48.87Z
+- id: 4308-ai-driven-custom-quiz-maker-test-exam-activity-call-to-actio
+  title:
+    '"AI-Driven Custom Quiz Maker. Test Exam" Activity: call to action Topic:
+    Copywriting-00ea56f446414284'
+  tags:
+    - uncategorized
+    - driven
+    - custom
+    - quiz
+    - maker
+    - test
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt ""AI-Driven Custom Quiz Maker. Test
+    Exam""](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] User-provided text: (insert text here) Number of questions:
+    (insert number) Number of answer choices per question: (insert number of) Difficulty
+    level answer: (insert difficulty (easy, intermediate, difficult)) [PROMPT] Please
+    create a multiple-choice test with the following characteristics: -Based on the
+    provided text, -With the requested number of questions, -With the indicated number
+    of answer choices per question, -Adjusted to the desired difficulty level answer'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

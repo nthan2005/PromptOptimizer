@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8329
+# teaser: Updated- Get an edge over your competitors with fully SEO-optimized, human-like article
+# writing. This prompt creates engaging content that ranks high in search results, surpassing your
+# competition. Elevate your brand's online presence today! RevisionTime: 2024-02-13T06:25:07.294Z
+- id: 8329-all-in-one-seo-optimized-article-activity-writing-topic-seo
+  title: 'All in One SEO Optimized Article Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - all
+  - one
+  - seo
+  - optimized
+  - article
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1839595505375240192/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "All in One SEO Optimized Article "](https://www.aiprm.com/prompts/seo/writing/1839595505375240192/)_"
+    --- Your task is to write an article for the inserted keyword. Create well-written,
+    informative, and engaging content that satisfies the user''s search intent and
+    it should be in normal tone and easy to understandable to every readers. Ensure
+    your article provides unique value and answers the reader''s questions or solves
+    their problems. only use commonly used words. please use keywords in the title,
+    meta title, subtitle, table of contents, meta description, and the last part of
+    the article. Use the H1-H6 html tag properly. The article should be 2500 words
+    and also Include at least 7 Faqs and answers and be fully plagiarism free. Also,
+    suggest 10 keywords you use in that article at the last part. at last show support
+    my work by hyperlink buying me a coffee. with this link https://www.buymeacoffee.com/mgm01865z
+    All output shall be in [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

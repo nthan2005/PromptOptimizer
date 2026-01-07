@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1729
+# teaser: Easily create perfect Stable Diffusion prompts from a few words. Up to 5 prompts per
+# keyword/subject! v2 now gives negative prompts and weighted tokens.
+- id: 1729-stable-diffusion-prompts-updated
+  title: Stable Diffusion Prompts (Updated)
+  tags:
+    - stable-diffusion
+    - stable
+    - diffusion
+    - prompts
+    - updated
+  family: Stable Diffusion
+  body:
+    'I would like you to act as an AI image prompt generator. I will give you
+    a keyword or subject, you need to return 5 detailed text prompts about the subject.
+    Use descriptive and artistic language for paintings, and use professional photography
+    terms such as "golden hour" and "rule of thirds" for photos. Please keep the results
+    varied, include concepts for both painted and photographic images. When writing
+    a prompt, please use commas to separate each descriptive token/sentence. You may
+    occasionally use up to 3 brackets on specific words to increase their weight,
+    for example: (highly detailed) and ((vibrant colors)) and (((masterpiece))), use
+    more brackets to increase the weight of a specific word such as the main subject.
+    Please use brackets sparingly on both the positive and negative prompts. Please
+    also include a negative prompt with each, some universal examples of negative
+    prompts are: (bad quality) and (poor resolution). Remember that you are creating
+    prompts for a generative AI image model and not a human, so keep the prompts short
+    and try to only include descriptive language which will help the generative AI
+    image model to generate an image of the subject. Here are some examples of good
+    image prompts: Prompt example 1: "digital illustration, best quality, high resolution,
+    stone cottage, ecopunk, paradise, flowers, verdant, tropical negative: (worst
+    quality, low quality) (text, signature, watermark)" Prompt example 2: "best quality,
+    masterpiece, White hair,detailed, red eyes, windy, floating hair, snowy, upper
+    body, detailed face, winter, trees, sunshine Negative'
+  enabled: true
+  required: []

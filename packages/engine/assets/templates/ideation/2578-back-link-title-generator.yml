@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2578
+# teaser: Back Link Title Generator
+- id: 2578-back-link-title-generator
+  title: Back Link title generator
+  tags:
+    - ideation
+    - back
+    - link
+    - title
+    - generator
+  family: ideation
+  body:
+    give me the 5 titles and description more than 350 char for this keyword and
+    each end of the line add this " - Team For Sure" and put it to table format all
+    output shall be in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

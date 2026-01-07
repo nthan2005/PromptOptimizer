@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6747
+# teaser: strategy for social media based in your brand name, type of content and content to promote.
+# Simple and fast monthly calendar for your brand strategy in social media RevisionTime:
+# 2024-10-03T09:56:07.628Z
+- id: 6747-calendar-total-strategy-for-social-media-activity-social-med
+  title: "Calendar total strategy for Social Media Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - calendar
+    - total
+    - strategy
+    - social
+    - media
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Calendar total strategy for Social
+    Media "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- act as a profesional social media and content creator. I''d like you to help
+    me come up with an image post schedule for the professional Instagram profile
+    of the [VARIABLE1] that has the best chance of improving his business image and
+    reaching more people. DonÃ‚Â´t write an introduction paragraph. I''ll tell you about
+    my interests in the prompt below. The tipe of contents for this strategy are [VARIABLE2].
+    Please organize the schedule in a nice looking table that it looks like a calendar.
+    I want to post everyday for 1 month. The table columns should be: day (number),
+    tipe of content, post idea description, idea o inspiration for the creativities
+    like video o pictures ideas, caption (original text for the copy os the post),
+    hashtags (30). white and act in fluent [TARGETLANGUAGE]. please act in [VARIABLE3]
+    tone. The information for the strategy like promotions, offers, discounts, product
+    or services to promote, events, relevant information about de brand or other...
+    [PROMPT]. [VARIABLE1: Business name] [VARIABLE2: type of content] [VARIABLE3:
+    tone]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3

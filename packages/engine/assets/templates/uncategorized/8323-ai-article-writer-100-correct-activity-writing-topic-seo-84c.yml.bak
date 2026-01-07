@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8323
+# teaser: Write a best article with AI writer for ease in your small business.Text the name of an
+# article and see how it is a great writer. RevisionTime: 2023-06-29T17:46:43.094Z
+- id: 8323-ai-article-writer-100-correct-activity-writing-topic-seo-84c
+  title: 'AI Article-Writer 100% correct Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - article
+  - writer
+  - '100'
+  - correct
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1836790611857641472/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "AI Article-Writer 100% correct"](https://www.aiprm.com/prompts/seo/writing/1836790611857641472/)_"
+    --- Your task is to generate article i give you in [PROMPT].All output shall be
+    in [TARGETLANGUAGE].Create the points and put the words of some great personalities
+    in the middle of the article and bold it.Fully SEO optimised with proper outline.The
+    article to generate is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

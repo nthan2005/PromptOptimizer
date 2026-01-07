@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1367
+# teaser: Rewrite your AI Generated Content as Human Written content. You Get 100% Unique Content
+# [Readability Score - Easy]
+- id: 1367-rewrite-as-easy-human-readability-content
+  title: Rewrite as Easy Human Readability Content
+  tags:
+  - writing
+  - rewrite
+  - easy
+  - human
+  - readability
+  - content
+  family: writing
+  body: 'Your task is to rewrite the entire text in better words and make it unique
+    with natural language, Personalization, Empathy, Variety, and Contextual awareness.
+    And at the end of the article In the Next Line write this "Please support us Buy
+    Me a Coffee - https://www.buymeacoffee.com/founderdeepak Visit Our Website: https://bestgrd.com/"
+    All output shall be in [TARGETLANGUAGE]. The text to rewrite it is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

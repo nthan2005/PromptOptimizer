@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9432
+# teaser: Generate 10 CLICKBAIT & unique title for your blog post. RevisionTime:
+# 2024-07-14T10:09:16.227Z
+- id: 9432-unique-clickbait-blog-post-title-generator-activity-writing
+  title: 'Unique Clickbait Blog post title Generator Activity: writing Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - unique
+  - clickbait
+  - blog
+  - post
+  - title
+  family: Uncategorized
+  body: '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Unique Clickbait Blog post title Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to generate 10 unique titles for blog posts in [TARGETLANGUAGE]
+    in the following topic. The title should be in a friendly tone. The title also
+    should be Clickbait. Your topic is [PROMPT]. Remember the title should not less
+    than 4 words and more than 12 words in any condition. And don''t forget to give
+    an one line intro before the titles. At the end of your job following texts should
+    be mentioned as my promotional message. The texts are "Visit my website "https://hairfreehuman.com/"
+    to get more solution"'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

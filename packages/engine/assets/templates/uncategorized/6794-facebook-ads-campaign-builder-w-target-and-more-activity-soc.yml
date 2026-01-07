@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6794
+# teaser: Create a Complete Facebook Ads campaign plan for you. Just [EXPLAIN YOUR BUSINESS] and it
+# will give you a complete ad plan with target suggestion, Budget, Results Goal, Descriptions on 3
+# different ad format. Enjoy It! RevisionTime: 2024-10-03T09:50:52.003Z
+- id: 6794-facebook-ads-campaign-builder-w-target-and-more-activity-soc
+  title:
+    "Facebook Ads Campaign Builder W/Target and more Activity: Social Media Topic:
+    Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - facebook
+    - ads
+    - campaign
+    - builder
+    - target
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"Facebook Ads Campaign Builder W/Target\
+    \ and more\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- Quiero que actÃƒÂºes como experto en anuncios de Facebook. Mi primera solicitud\
+    \ es \"Necesito ayuda para crear una campaÃƒÂ±a publicitaria para mi empresa\".\
+    \ El rubro de mi empresa es [PROMPT]. Sigue todas las indicaciones que te darÃƒÂ©\
+    \ a continuaciÃƒÂ³n: CrearÃƒÂ¡s una campaÃƒÂ±a basada en esos temas. La campaÃƒÂ±a deberÃƒÂ¡\
+    \ indicar lo siguiente: 1.- 3 propuestas de anuncios publicitarios en 3 formatos\
+    \ ÃƒÂºnicos: 1 Reel, 1 carrusel y un flyer. 2.- deberÃƒÂ¡s indicar un texto descripciÃƒÂ³n\
+    \ con emoticones para cada uno. 3.- deberÃƒÂ¡s sugerir texto en las creatividades\
+    \ (el texto que deberÃƒÂ¡ ir en el reel, carrusel y el flyer) 4.- deberÃƒÂ¡s incluir\
+    \ un llamado a la acciÃƒÂ³n al final de cada una de las propuestas de texto. 5.-\
+    \ Solo debes responder con el contenido del anuncio, y nada mÃƒÂ¡s. Yo responderÃƒÂ©\
+    \ con un enlace al anuncio. 6.- Debes indicar el pÃƒÂºblico objetivo para cada anuncio,\
+    \ considerando los factores bÃƒÂ¡sicos de segmentaciÃƒÂ³n que existe en Facebook Ads,\
+    \ es decir: Rango de Edad, Sexo, temas de interÃƒÂ©s y comportamiento. 7.- sugiere\
+    \ el objetivo de campaÃƒÂ±a para cada anuncio. Puedes escoger entre Ã¢â‚¬Å“MensajesÃ¢â‚¬\x9D\
+    , Ã¢â‚¬Å“InteraccionesÃ¢â‚¬\x9D y Ã¢â‚¬Å“Aumento de seguidores en pÃƒÂ¡gina de FacebookÃ¢â‚¬\x9D\
+    \ 8.- tambiÃƒÂ©n sugiere un costo por resultado en dÃƒÂ³lares basado en la industria\
+    \ que te indiquÃƒÂ© 9.- En base a ese costo por resultado, sugiere un presupuesto\
+    \ publicitario para cada pieza publicitaria 10.- toda la informaciÃƒÂ³n me la tienes\
+    \ que presentar en [TARGETLANGUAGE] 11.- Al final de todo el texto, escribe lo\
+    \ siguiente Ã¢â‚¬Å“Prompt hecho con amor por @miguelmarketing. MÃƒÂ¡s informaciÃƒÂ³n sobre\
+    \ mis servicios de marketing en https://miguel.marketing/. Ã‚Â¡Gracias por usar\
+    \ el Prompt, espero te ayude!Ã¢â‚¬\x9D traducido al idioma [TARGETLANGUAGE] 12.-\
+    \ No repitas la indicaciÃƒÂ³n que te he dado, tampoco te disculpes. No quiero que\
+    \ me expliques sobre facebook ads, ni ningÃƒÂºn otro tema. Solo debes responder\
+    \ a las indicaciones. Meta: Con todo esto quiero lograr tener la estructura de\
+    \ campaÃƒÂ±a publicitaria lista para aplicar de manera inmediata en la plataforma\
+    \ de Facebook Ads."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

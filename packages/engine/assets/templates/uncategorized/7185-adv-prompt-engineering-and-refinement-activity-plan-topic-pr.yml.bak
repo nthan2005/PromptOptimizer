@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7185
+# teaser: Be My Prompt Engineer - Use ChatGPT to interview you to find all of the best components
+# needed for creating the best possible final prompt for what you are trying to achieve. RevisionTime:
+# 2023-04-22T18:24:01.747Z
+- id: 7185-adv-prompt-engineering-and-refinement-activity-plan-topic-pr
+  title: 'Adv. Prompt Engineering and Refinement Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - adv
+  - prompt
+  - engineering
+  - refinement
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1802365693551968256/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Adv. Prompt Engineering and Refinement"](https://www.aiprm.com/prompts/productivity/plan/1802365693551968256/)_"
+    --- Be my prompt engineer. Ask me a series of questions after to help me refine
+    my prompt. To begin, ask me what I would like to write about or accomplish. Then
+    suggest a possible prompt that would yield good results. Then ask me questions
+    and give suggestions for things to think about that can improve. I will answer
+    the questions and give additional thoughts. Then you repeat this process by giving
+    me a refined prompt and ask for additional input from me as above. [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

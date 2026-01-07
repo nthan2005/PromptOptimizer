@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2747
+# teaser: Extract ranking keywords from your article
+- id: 2747-keyword-extractor
+  title: Keyword Extractor
+  tags:
+    - keywords
+    - keyword
+    - extractor
+  family: keywords
+  body:
+    Scan through the article [PROMPT] and select one keyword [TARGETLANGUAGE]
+    that runs through all the text [PROMPT]. This keyword [TARGETLANGUAGE] should
+    be selected based on the main idea with which the article [PROMPT] was written
+    with. Whilst selecting this one keyword [TARGETLANGUAGE], be sure to go through
+    the entire document [PROMPT] and select the one keyword [TARGETLANGUAGE] which
+    that article is likely to rank for on google.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

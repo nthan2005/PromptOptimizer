@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2087
+# teaser: Create 6 months of High-converting Blog Headlines with weekly post schedule.
+- id: 2087-6-month-content-generator-organizer
+  title: 6-month Content Generator & Organizer
+  tags:
+    - writing
+    - month
+    - content
+    - generator
+    - organizer
+  family: writing
+  body:
+    "I'd like you to help me come up with a monthly content schedule for my blog\
+    \ that has the best chance of helping me rank for long tail keywords that are\
+    \ specific to my keyphrase, ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ[PROMPT]ÃƒÂ¢Ã¢â€šÂ¬\x9D. Please target transaction-style\
+    \ search terms only. Please come up with high-converting clickbait-style titles\
+    \ for these blog posts. Please organize each blog post title in a nice-looking\
+    \ table. Each week should be separated into its own row. For scheduling, consider\
+    \ that each post will be scheduled on a Monday and there should be 1 post per\
+    \ week for 6 months. Output results using the [TARGETLANGUAGE] language."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

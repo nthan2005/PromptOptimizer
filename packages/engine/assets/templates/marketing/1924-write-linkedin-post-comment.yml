@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1924
+# teaser: Write linkedin in post comment from given post content
+- id: 1924-write-linkedin-post-comment
+  title: Write linkedin Post Comment
+  tags:
+    - marketing
+    - write
+    - linkedin
+    - post
+    - comment
+  family: marketing
+  body:
+    Write a Linked post comment on the given LinkedIn post content. Comment should
+    be in [TARGETLANGUAGE] from given [PROMPT] and Comment should be of 2 lines maximum.
+    Add emojis and make it a little funny. Please understand what they want to say.
+    tell them what they like the most. add some information
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

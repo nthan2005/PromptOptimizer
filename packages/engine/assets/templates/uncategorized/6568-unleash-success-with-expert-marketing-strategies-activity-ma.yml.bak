@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6568
+# teaser: Unlock the secrets to skyrocketing your small business! RevisionTime:
+# 2023-06-20T16:54:41.761Z
+- id: 6568-unleash-success-with-expert-marketing-strategies-activity-ma
+  title: 'Unleash Success with Expert Marketing Strategies Activity: marketing Topic:
+    Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - unleash
+  - success
+  - expert
+  - marketing
+  - strategies
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1836780964852846592/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Unleash Success with Expert Marketing
+    Strategies"](https://www.aiprm.com/prompts/marketing/marketing/1836780964852846592/)_"
+    --- "Unleash the power of AI in [TARGETLANGUAGE]. [PROMPT] and revolutionize your
+    [VARIABLE1] with cutting-edge technology. Discover the endless possibilities as
+    AI automagically transforms your [VARIABLE2] and boosts [VARIABLE3] to new heights."
+    [VARIABLE1:Business Type][VARIABLE2:Industry][VARIABLE3:Business Goals] [VARIABLE1:Business
+    Type:small business] [VARIABLE2:Industry:E-commerce] [VARIABLE3:Business Goals:revenue|customer
+    engagement|operational efficiency]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - variable1
+  - variable2
+  - variable3

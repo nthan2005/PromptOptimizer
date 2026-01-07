@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3956
+# teaser: gererate bolne ke liye
+- id: 3956-term-explantion-generator
+  title: term explantion generator
+  tags:
+  - writing
+  - term
+  - explantion
+  - generator
+  family: writing
+  body: I will give you one term, you are suppose to answer in 3 steps. Sterp 1 to
+    provide non traditional explanation which shall include a new perspective in point
+    wise form. step02 is to come with mind-boggling fun facts with relevant examples.
+    step 03 is to give me very brief stories in oderly point each point shall create
+    a very very small caviate. My topic in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

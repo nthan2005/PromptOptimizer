@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1601
+# teaser: Write simple and runnable bash script for automation. For example, [PROMPT] can be "remove
+# all lines that contain '[2022-01-01]".
+- id: 1601-easy-use-bash-simple-runnable
+  title: Easy Use Bash Simple & Runnable
+  tags:
+    - configuration-management
+    - easy
+    - use
+    - bash
+    - simple
+    - runnable
+  family: Configuration Management
+  body: |
+    [PROMPT] Write in bash script. I want the output in [TARGETLANGUAGE]

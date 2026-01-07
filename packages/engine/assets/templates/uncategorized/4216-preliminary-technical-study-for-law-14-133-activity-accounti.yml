@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4216
+# teaser: Prepare a preliminary technical study in accordance with Law 14,133, quickly and easily.
+# RevisionTime: 2024-09-16T19:54:12.009Z
+- id: 4216-preliminary-technical-study-for-law-14-133-activity-accounti
+  title: "Preliminary Technical Study for law 14.133 Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - preliminary
+    - technical
+    - study
+    - law
+    - "133"
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Preliminary Technical Study for law
+    14.133"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] language. I am a bidding
+    analyst quero que voce crie um Estudo TÃƒÂ©cnico Preliminar conforme determina a
+    Lei Federal 14.133 para atender Ãƒ demanda de... da secretaria: pergunte no inicio
+    da conversa qual ÃƒÂ© a secretaria requisitante pergunte tambÃƒÂ©m qual ÃƒÂ© a dotaÃƒÂ§ÃƒÂ£o
+    orÃƒÂ§amentÃƒÂ¡ria que serÃƒÂ¡ utilizada pergunte quem assinarÃƒÂ¡ o Estudo Your task
+    is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1992
+# teaser: Come up with new product ideas that meet your audience's needs
+- id: 1992-target-audiences-with-products
+  title: Target audiences with products
+  tags:
+    - products
+    - target
+    - audiences
+  family: Products
+  body:
+    "I want you to act as a market research expert that speaks and writes fluent
+    [TARGETLANGUAGE]. Pretend that you know everything about every market also in
+    [TARGETLANGUAGE]. Come up with five new, innovative products that are targeted
+    at the unique needs of the audience. The category in first line and audience in
+    second line is: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

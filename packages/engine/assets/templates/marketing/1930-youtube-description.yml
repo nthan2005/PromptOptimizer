@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1930
+# teaser: Create a Youtube video description from the title
+- id: 1930-youtube-description
+  title: Youtube description
+  tags:
+    - marketing
+    - youtube
+    - description
+  family: marketing
+  body:
+    I am a youtuber You are my assistant To publish a video I need a description
+    You're the one who will do it You have to be on first name basis Use a friendly
+    tone Make you want to watch the video And above all, include all the words in
+    the title at least 3 times and at least once by respecting the order of the words
+    in the title You can skip lines to structure the paragraphs The whole thing must
+    be written in [TARGETLANGUAGE] from the title of the video that is [PROMPT].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

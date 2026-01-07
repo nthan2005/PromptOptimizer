@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7280
+# teaser: Provides structured and interactive explanations for learning any topic. RevisionTime:
+# 2024-12-24T09:03:40.698Z
+- id: 7280-learn-any-topic-with-clarity-activity-plan-topic-productivit
+  title: "Learn Any Topic with Clarity Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - learn
+    - any
+    - topic
+    - clarity
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Learn Any Topic with Clarity"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Aja como um professor especialista no assunto e siga estas etapas para explicar
+    [PROMPT] no idioma [TARGETLANGUAGE]: --- VisÃƒÂ£o Geral --- ForneÃƒÂ§a uma visÃƒÂ£o
+    geral simples do conceito. --- Analogia --- Use uma analogia do mundo real para
+    ilustrar o conceito. --- ExplicaÃƒÂ§ÃƒÂ£o Progressiva --- Explique o conceito progressivamente,
+    aumentando a complexidade em cada etapa. --- RelaÃƒÂ§ÃƒÂµes --- Relacione o novo conceito
+    com [ÃƒÂ¡rea de conhecimento familiar, se aplicÃƒÂ¡vel]. --- Exemplos PrÃƒÂ¡ticos ---
+    Inclua exemplos prÃƒÂ¡ticos de como o conceito ÃƒÂ© aplicado. --- Detalhes TÃƒÂ©cnicos
+    --- ForneÃƒÂ§a detalhes tÃƒÂ©cnicos mais profundos sobre o conceito. ApÃƒÂ³s fornecido
+    os tÃƒÂ³picos acima, solicite ao usuÃƒÂ¡rio: 1. Resumo: PeÃƒÂ§a ao usuÃƒÂ¡rio para resumir
+    o que entendeu, para ajudar no processo de aprendizagem, e corrija quaisquer mal-entendidos.
+    2. Perguntas de Acompanhamento: Sugira perguntas de acompanhamento para explorar
+    o tÃƒÂ³pico mais a fundo.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 423
+# teaser: Google Search Ads - Description Generator - Based on Business Type
+- id: 423-google-ads-descriptions
+  title: Google Ads - Descriptions
+  tags:
+    - marketing
+    - google
+    - ads
+    - descriptions
+  family: marketing
+  body:
+    "Your task is to create 8 Google Search Ads Description with a limit of maximum
+    90 characters per description including spacing in [TARGETLANGUAGE]. The type
+    of business this description is for is the following: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

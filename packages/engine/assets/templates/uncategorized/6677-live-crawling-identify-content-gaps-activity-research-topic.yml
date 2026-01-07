@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6677
+# teaser: Analyze a web page using Live Crawling and provide advice on content improvement
+# opportunities for your target audience. RevisionTime: 2023-09-11T20:32:37.46Z
+- id: 6677-live-crawling-identify-content-gaps-activity-research-topic
+  title: "[Live Crawling] Identify Content Gaps Activity: Research Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - live
+    - crawling
+    - identify
+    - content
+    - gaps
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "[Live Crawling] Identify Content Gaps"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as an expert in marketing research for the [VARIABLE1] Industry. Source
+    URL: [PROMPT] Review [CRAWLEDTEXT]. Provide a breakdown of the most important
+    content I am missing in [TARGETLANGUAGE] that would help engage and answer the
+    the questions for [VARIABLE2]. Include a list of questions and your best attempt
+    at an answer. Provide pros and cons when appropriate. [VARIABLE1:Industry],[VARIABLE2:Target
+    Audience Details]'
+  enabled: true
+  required:
+    - crawledtext
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2

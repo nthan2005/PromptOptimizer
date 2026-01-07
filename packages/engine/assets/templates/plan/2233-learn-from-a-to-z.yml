@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2233
+# teaser: Say what you want to know and what you know about what you want to know. Soon chatgpt will
+# tell you what you have to understand to learn what you want.
+- id: 2233-learn-from-a-to-z
+  title: Learn from A to Z
+  tags:
+    - plan
+    - learn
+  family: Plan
+  body:
+    A and Z are variables. Z is the knowledge I want to gain and A is my prior
+    knowledge Z. The letters between A and Z are the necessary knowledge that someone
+    with an A needs to learn in order to understand Z. Whenever I say "I want to learn
+    Z, but I only know about A" or something similar, you will have to tell me the
+    letters between A and Z. That is, you will tell me what I need to learn to understand
+    Z. If I say that I have no knowledge of A, you can say from A to Z where A= "I
+    don't know anything about Z" [PROMPT] [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1352
+# teaser: Discover a delicious and easy-to-make [Recipe Title] that will tantalize your taste buds.
+# With a combination of [highlight key ingredients], this recipe is perfect for [mention target
+# audience or occasion]. Get ready to indulge in a culinary delight that will leave you craving for
+# more.
+- id: 1352-recipe-name-keywords-or-description
+  title: '[Recipe Name]: [Keywords or Description]'
+  tags:
+  - writing
+  - recipe
+  - name
+  - keywords
+  - description
+  family: writing
+  body: '[TARGETLANGUAGE] Recipe Prompt [PROMPT] **Title** :[Title] **Summary**: Discover
+    a [summary description] with this easy-to-follow recipe. [PROMPT] Please generate
+    a recipe for [Title] , Each recipe has its own title. Include the words "[Ingredients]
+    , and [Instructions], and Note" to bold Font . Include a list of [Ingredients]
+    **Ingredients** and step-by-step [Instructions] **Instructions** for preparing
+    and using the recipe. provide a [Note]**Note** Shorted just "one line" .'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4684
+# teaser: Have a table with 5 title options for your property advertisements RevisionTime:
+# 2024-01-03T19:09:14.089Z
+- id: 4684-title-table-for-your-property-listing-activity-marketing-top
+  title: 'Title table for your property listing Activity: marketing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - title
+  - table
+  - property
+  - listing
+  - activity
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1900568967362912256/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Title table for your property listing\"\
+    ](https://www.aiprm.com/prompts/copywriting/marketing/1900568967362912256/)_\"\
+    \ --- Quero que apresente o resultado em [TARGETLANGUAGE] OlÃ¡! Gostaria que vocÃª\
+    \ me apresentasse 1 descriÃ§Ã£o que serÃ¡ utilizada para anÃºncios focados em\
+    \ conversÃ£o de leads, gostaria que acrescentasse emojis. Essa descriÃ§Ã£o deve\
+    \ ser longa. A descriÃ§Ã£o deve comeÃ§ar com uma frase e depois ter em tÃ³picos\
+    \ 5 frases curtas com principais caracterÃ­sticas do imÃ³vel... Antes de cada\
+    \ tÃ³pico deve conter esse emoji âœ… E apÃ³s a primeira frase adicionar ðŸ“\x8D\
+    \ com o bairro do imÃ³vel Ao final de todos tÃ­tulos devem conter a seguinte frase\
+    \ \"Vamos conversar sobre este imÃ³vel ? Mande uma mensagem!\" [TARGETLANGUAGE]\
+    \ [PROMPT]"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6592
+# teaser: Identify media channels for your audience and how to use them RevisionTime:
+# 2023-02-19T15:35:19Z
+- id: 6592-target-audiences-with-places-media-channels-activity-places
+  title:
+    "Target audiences with places (media channels) Activity: Places (Media Channels)
+    Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - target
+    - audiences
+    - places
+    - media
+    - channels
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Target audiences with places (media
+    channels)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as a market research expert that speaks and writes fluent
+    [TARGETLANGUAGE]. Pretend that you know everything about every market also in
+    [TARGETLANGUAGE]. Create a list of the ten main marketing channels (with emojis
+    to describe each channel) I should consider to help my brand engage my target
+    audience. Start with the marketing channel that will be most important for my
+    brand and target audience and end with the one that will be least important. Give
+    detailed reasons why they are important (or not important) that relate specifically
+    to my brand, my category and my target audience. (You may find it useful to give
+    reasons that draw on some of the main dimensions on which the marketing channels
+    are differentiated, such as reach, cost, impact, speed, control, engagement and
+    measurability.) For each marketing channel: come up with three detailed, specific
+    creative examples (with emojis) of how I should use each channel that are highly
+    focused on the specifics of my brand in my category and my target audience. All
+    your output shall be in [TARGETLANGUAGE] language. The brand (first line), category
+    (second line) and target audience (third line) are: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

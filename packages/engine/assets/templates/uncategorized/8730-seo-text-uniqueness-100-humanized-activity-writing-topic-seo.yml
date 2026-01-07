@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8730
+# teaser: Prompt for writing unique SEO texts for blocks on a website. RevisionTime:
+# 2023-09-05T11:55:04.562Z
+- id: 8730-seo-text-uniqueness-100-humanized-activity-writing-topic-seo
+  title: "SEO Text | Uniqueness 100% | Humanized Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - seo
+    - text
+    - uniqueness
+    - "100"
+    - humanized
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SEO Text | Uniqueness 100% | Humanized"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as a very experienced SEO copywriter who is fluent in [TARGETLANGUAGE].
+    Write the table title in bold using Markdown language. The text should not be
+    determined by artificial intelligence validation and should be written by a real
+    person. IMPORTANT: Before writing, separately create a table with an H header
+    on the left and a header on the right, use only the following headers in your
+    text, do not make up your own: [VARIBALE3] (including headings H1, H2, H3, and
+    H4), and then begin writing, step by step, based on this outline. Write [VARIABLE1]
+    words of 100% unique, SEO-optimized, human-written article on [TARGETLANGUAGE].
+    The text must be exactly this length [VARIABLE1] and no less, note that the total
+    number of characters to be written is divided by an equal number between headings
+    [VARIABLE3]. IMPORTANT: The text should not be determined by artificial intelligence
+    checks and should be written by a real person. Use the following keywords in the
+    text: [VARIABLE2]. Use only the following headings in the text, do not make up
+    your own: [VARIABLE3]. Please write in a professional style, use different word
+    forms so that the text is not determined by artificial intelligence, do your best
+    for this. It is important to bold the title and all headings of the article, and
+    use appropriate headings for H-tags. Using the data provided, write a text on
+    the topic: [PROMPT]. Thank you! I am sure you can handle what I have written.
+    [VARIABLE1:Volume of text] [VARIABLE2:Keywords] [VARIABLE3:Text Structure]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3
+    - varibale3

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7425
+# teaser: Create a reponse to a freelance project posting from the job's description RevisionTime:
+# 2023-02-19T15:35:19Z
+- id: 7425-create-a-reponse-to-a-freelance-project-posting-activity-res
+  title:
+    "Create a reponse to a freelance project posting Activity: Respond Topic:
+    Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - reponse
+    - freelance
+    - project
+    - posting
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create a reponse to a freelance project
+    posting"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- There is this website that posts freelance project opportunities. I am currently
+    applying for projects on this website. One project that I taken interest into
+    is: [PROMPT] Can you write a suitable first message, in [TARGETLANGUAGE], that
+    will: make me stand out, show my interest and show my relevant expertise for this
+    project. Before you write the message, you can ask me questions to ensure you
+    have all the required details.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

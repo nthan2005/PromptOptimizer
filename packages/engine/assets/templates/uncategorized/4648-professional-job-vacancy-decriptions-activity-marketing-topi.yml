@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4648
+# teaser: Easily Create Professional Job Vacancy Description RevisionTime: 2023-03-14T05:38:06Z
+- id: 4648-professional-job-vacancy-decriptions-activity-marketing-topi
+  title: "Professional Job Vacancy Decriptions Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - professional
+    - job
+    - vacancy
+    - decriptions
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Professional Job Vacancy Decriptions"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] Write a professional job vacancy for the position of [Job Title],
+    in english [TARGETLANGUAGE], with the appropriate job description, for [Company
+    Name], [Location] also add the condition [Terms] and [Specific Terms], also amount
+    range of [SALARY], this job vacancy is [Job Type], and CV sent via email to [Email].
+    and at the end of the article write this"Please support us by visiting us on -
+    https://coinbazooka.com"'
+  enabled: true
+  required:
+    - prompt
+    - salary
+    - targetlanguage

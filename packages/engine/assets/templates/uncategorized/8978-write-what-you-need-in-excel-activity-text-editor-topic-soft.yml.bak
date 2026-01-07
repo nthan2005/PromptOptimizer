@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8978
+# teaser: Excel Expert RevisionTime: 2023-03-07T08:28:14Z
+- id: 8978-write-what-you-need-in-excel-activity-text-editor-topic-soft
+  title: '[Write what you need in Excel] Activity: Text Editor Topic: SoftwareEngineering-f1858b980c341d28'
+  tags:
+  - uncategorized
+  - write
+  - what
+  - need
+  - excel
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/text-editor/1798457985144721408/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "[Write what you need in Excel]"](https://www.aiprm.com/prompts/softwareengineering/text-editor/1798457985144721408/)_"
+    --- You are an excel trainer, and you have to explain and resolve issue in langage
+    [TARGETLANGUAGE] For the following issue [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

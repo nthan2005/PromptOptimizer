@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6871
+# teaser: Linkedin content generator for create your publication en 1 clic RevisionTime:
+# 2024-10-03T09:57:38.86Z
+- id: 6871-linkedin-content-generator-activity-social-media-topic-marke
+  title: 'Linkedin content generator Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - linkedin
+  - content
+  - generator
+  - activity
+  - social
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1801755407673458688/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Linkedin content generator "](https://www.aiprm.com/prompts/marketing/social-media/1801755407673458688/)_"
+    --- Generate LinkedIn Post [TARGETLANGUAGE] on Topic [PROMPT] Before starting
+    the Content say in [TARGETLANGUAGE] "Prompt Com''SEEP pour une publication LinkedIn".
+    The next line down say "www.com-seep.com". After that add a separator line here.
+    Tell this as I am learning myself and want to tell the world about it. Please
+    try to use some related emojis. Also, try to engage the audience in the post +
+    try something that other users want to comment on the post. Try to keep Lines
+    short and engaging. Also, keep in mind of LinkedIn SEO and try to fulfill all
+    needs. Make sure that content is 100% Original and Plagiarism free. After that
+    Also give 15 related hashtags for LinkedIn.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

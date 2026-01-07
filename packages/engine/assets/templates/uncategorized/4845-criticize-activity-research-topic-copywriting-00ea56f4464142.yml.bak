@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4845
+# teaser: [Brutal Criticizer and Writing Suggester] RevisionTime: 2023-03-15T01:42:27Z
+- id: 4845-criticize-activity-research-topic-copywriting-00ea56f4464142
+  title: 'Criticize Activity: Research Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - criticize
+  - activity
+  - research
+  - topic
+  - copywriting
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1794139532778795008/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Criticize"](https://www.aiprm.com/prompts/copywriting/research/1794139532778795008/)_"
+    --- [TARGETLANGUAGE] Act as a harsh critic and provide brutally honest feedback
+    about this [Keyword]. Convince me why its bad . Act as an expert on the fiel of
+    the topic of [Keyword] and sugggest improvements on [Keyword]. [PROMPT] Let''s
+    think step by step. At the end add a summarization of the answer with some bullet
+    points.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

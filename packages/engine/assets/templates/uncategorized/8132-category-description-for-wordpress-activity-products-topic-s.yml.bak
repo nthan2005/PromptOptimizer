@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8132
+# teaser: Create a detailed woocommerce category description with focus keyword and supporting
+# keywords RevisionTime: 2023-03-08T18:08:35Z
+- id: 8132-category-description-for-wordpress-activity-products-topic-s
+  title: 'Category description for Wordpress Activity: Products Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - category
+  - description
+  - wordpress
+  - activity
+  - products
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/products/1793182009703792640/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Category description for Wordpress"](https://www.aiprm.com/prompts/seo/products/1793182009703792640/)_"
+    --- act as an expert seo content writer with more than 10 years of experience.
+    i will be giving you woocommerce category title with a focus keyword, supporting
+    keyword and brand name. you will write a detailed description in [TARGETLANGUAGE]
+    for the category page of wordpress woocommerce for keywords that will easily rank
+    in google searches the description will have titles divided accordingly. 1.use
+    less than 10% of passive voice in the whole text 2.use around 25% transition words
+    in sentences 3.less than 25% of the whole text should contain more than 20 words
+    per sentence not more. 4.the focus keyword and supporting one should appear in
+    the first paragraph. Make sure the topic is clear immediately. 5.The title for
+    each section will be the supporting keywords. also this is not a article dont
+    write it like one. Dont write conclusion. Make sure you follow the instruction
+    very carefully as it is important for YOAST wordpress plugin. Check what all rankmath
+    recommends and follow that when you write this text. i will enter brand name first
+    then focus keyword in [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

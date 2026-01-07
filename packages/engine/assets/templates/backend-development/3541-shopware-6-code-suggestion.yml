@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3541
+# teaser: Shopware6
+- id: 3541-shopware-6-code-suggestion
+  title: Shopware 6 Code suggestion
+  tags:
+    - backend-development
+    - shopware
+    - code
+    - suggestion
+  family: Backend Development
+  body:
+    Shopware 6 Code [PROMPT] in [TARGETLANGUAGE] with [VARIABLE1],[VARIABLE2]
+    and [VARIABLE3]. [VARIABLE1:Class Name] [VARIABLE2:Function Name:Default Function]
+    [VARIABLE3:Title:Default Value:Avialable Value 1|Avialable Value 2|Avialable Value
+    3].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3

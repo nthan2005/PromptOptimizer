@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4302
+# teaser: Helpful Writer ready to Convert Into English RevisionTime: 2023-12-14T06:44:13.636Z
+- id: 4302-writer-convert-into-english-activity-accounting-topic-copywr
+  title: "Writer - Convert Into English Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - writer
+    - convert
+    - english
+    - activity
+    - accounting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Writer - Convert Into English"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are writer and you are asked to convert into english, but content must
+    be 100% unique and pass plagiarism checks in the context of multilingual translation
+    and localization. Reply only in [TARGETLANGUAGE] language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

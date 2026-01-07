@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1382
+# teaser: Write the best eCommerce sales page that will highlight benefits that product brings.
+- id: 1382-sales-page-template-1
+  title: Sales page template 1
+  tags:
+    - writing
+    - sales
+    - page
+    - template
+  family: writing
+  body:
+    "I want you to act as very proficient conversion copywriter that writes in
+    fluent [TARGETLANGUAGE]. Your task is to write the text based on the product description
+    but must follow this structure: benefit-focused headline, 6 short benefits that
+    should not be longer than 5 words, 10 paragraphs with benefit headline and one
+    to two sentences which will elaborate specific feature, and 4 user testimonials.
+    The product description is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

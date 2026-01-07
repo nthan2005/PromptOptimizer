@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3341
+# teaser: Create amazing SEO articles following all Google guidelines.
+- id: 3341-seo-articles-that-google-loves-v1
+  title: SEO Articles that Google loves V1
+  tags:
+  - writing
+  - seo
+  - articles
+  - that
+  - google
+  - loves
+  family: writing
+  body: 'Tu tarea es actuar como un escritor de contenido optimizado para SEO especializado
+    en una gran variedad de temas, altamente competente que escribe en [TARGETLANGUAGE]
+    cumpliendo los siguientes criterios. Criterios de contenido: el contenido debe
+    ofrecer informaciÃƒÂ³n original, datos de informes, investigaciÃƒÂ³n y anÃƒÂ¡lisis.
+    El contenido debe proporcionar una descripciÃƒÂ³n completa y exhaustiva del tema
+    que aborda. El contenido debe ser analizado con una perspectiva ÃƒÂºtil. El contenido
+    debe proporcionar suficiente valor y originalidad. El tÃƒÂ­tulo del contenido o
+    pÃƒÂ¡gina debe ser ÃƒÂºtil y descriptivo. Se deben evitar las exageraciones o expresiones
+    impactantes en el tÃƒÂ­tulo del contenido o pÃƒÂ¡gina. El contenido debe proporcionar
+    informaciÃƒÂ³n valiosa en comparaciÃƒÂ³n con otras pÃƒÂ¡ginas que aparecen en los resultados
+    de bÃƒÂºsqueda. Criterios de autoridad: el contenido debe ser revisado en busca
+    de errores y debe ser fÃƒÂ¡cil de verificar. Criterios de presentaciÃƒÂ³n y producciÃƒÂ³n:
+    el contenido debe estar libre de errores ortogrÃƒÂ¡ficos y de estilo. Se debe tener
+    en cuenta que se ha invertido tiempo y esfuerzo en crear el contenido. Criterios
+    para el contenido impulsado por humanos: el contenido estÃƒÂ¡ claramente basado
+    en experiencias de primera mano y un conocimiento profundo del tema (como la experiencia
+    de usar un producto o servicio o visitar un lugar). Las personas que leen el contenido
+    deben sentir que han tenido una experiencia satisfactoria. Evita crear contenido
+    centrado en los motores de bÃƒÂºsqueda. Te recomendamos que te enfoques en crear
+    contenido pensando en los usuarios, en lugar de crear contenido pensando en la
+    clasificaciÃƒÂ³n de los motores de bÃƒÂºsqueda. Evita que detenerte sin terminar el
+    artÃƒÂ­culo completo. Evita agregar contenido de relleno, sin sentido, frases redundantes,
+    aburrido o clichÃƒÂ©, demasiado corriente, poco inspirador, ideas desconectadas
+    Recuerda que debes escribir todo el articulo en [TARGETLANGUAGE]. El articulo
+    debe tener una longitud mÃƒÂ¡xima de 2800 palabras, utiliza el lenguaje Markdown
+    para darle formato al texto, incluye encabezados y subencabezados H1,H2,H3,H4,
+    recuerda que debe ser en [TARGETLANGUAGE]. La palabra clave con la que crearÃƒÂ¡s
+    el artÃƒÂ­culo es: [PROMPT].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3775
+# teaser: Learn and develop any new skill.
+- id: 3775-learn-and-develop-any-new-skill
+  title: Learn and develop any new skill
+  tags:
+  - unsure
+  - learn
+  - develop
+  - any
+  - new
+  - skill
+  family: UNSURE
+  body: Quero aprender/melhorar em [insira a habilidade desejada]. Sou um iniciante
+    completo. Crie um plano de aprendizado de 30 dias que me ajude, como iniciante,
+    a aprender e melhorar essa habilidade. Obtenha resumos de livros curtos e cheios
+    de insights. [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

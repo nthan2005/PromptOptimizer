@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 95
+# teaser: PRO Fiverr Gig description Writer: Just a Click Write Professional Fiverr Gig description
+# and 5 Keyword!
+- id: 095-fiverr-gig-description-pro-title-service-bullet-point-keywor
+  title: "Fiverr Gig description PRO: Title, Service, Bullet Point, Keyword Research"
+  tags:
+    - accounting
+    - fiverr
+    - gig
+    - description
+    - pro
+    - title
+  family: Accounting
+  body:
+    You write a Fiverr Gig description 850 Word and Bold attraction Word. include
+    Gig Title, 5 SEO Keyword For Gig, Attraction description, Short feature bullet
+    point, Why is my service good?, My SEO services include:, Short Attractive description,
+    contact me before Order [TARGETLANGUAGE]. The sentence to summarize is this. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

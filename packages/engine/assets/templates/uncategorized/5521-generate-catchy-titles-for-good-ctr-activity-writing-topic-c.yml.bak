@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5521
+# teaser: Generate catchy titles for good click-through rates, be more unique and creative. include
+# meta descriptions and permalinks. RevisionTime: 2023-02-28T15:26:29Z
+- id: 5521-generate-catchy-titles-for-good-ctr-activity-writing-topic-c
+  title: 'Generate catchy titles for good CTR Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - generate
+  - catchy
+  - titles
+  - good
+  - ctr
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1795142353770778624/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Generate catchy titles for good CTR"](https://www.aiprm.com/prompts/copywriting/writing/1795142353770778624/)_"
+    --- Please ignore all previous instructions. I want you to act as a Content writer
+    very proficient SEO that speaks and writes fluently [TARGETLANGUAGE]. Generate
+    some catchy titles with meta descriptions to get good CTR for topic named: [PROMPT].
+    Make it more unique, creative. The title must be different from the previous title.
+    The titles should be 60 characters and meta descriptions should be 160 characters.
+    Add topic name to the SEO title, and meta descriptions. Also, Use topic name in
+    the permalink should be 75 characters. write in table.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

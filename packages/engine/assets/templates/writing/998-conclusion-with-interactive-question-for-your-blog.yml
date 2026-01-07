@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 998
+# teaser: Create the best conclusion for your blog with an interactive question. Just Add your BLOG-
+# TITLE here. Which will increase your blogs enagagement with your audience.
+- id: 998-conclusion-with-interactive-question-for-your-blog
+  title: Conclusion with Interactive Question for your BLOG!
+  tags:
+    - writing
+    - conclusion
+    - interactive
+    - question
+    - blog
+  family: writing
+  body:
+    Act as a Copywriter Write SEO-optimized Conclusion with Interactive question
+    [PROMPT] this blog in [TARGETLANGUAGE] showcase with separate section
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

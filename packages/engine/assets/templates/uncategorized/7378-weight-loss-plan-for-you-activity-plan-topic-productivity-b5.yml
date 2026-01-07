@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7378
+# teaser: Write your Own Weight Loss Plane According to Body and Weight RevisionTime:
+# 2023-02-22T04:50:17Z
+- id: 7378-weight-loss-plan-for-you-activity-plan-topic-productivity-b5
+  title: "Weight Loss Plan For You Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - weight
+    - loss
+    - plan
+    - activity
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Weight Loss Plan For You"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a complete Weight Loss plane according to the Age, weight and height
+    ratio given by the User. Calculate BMI and Suggest Best Food for Weight Gain.
+    Also Suggest best exercise for Weight Loss In the start write this massage included
+    "Ã°Å¸â€œâ€”Ã°Å¸â€œâ€”Ã°Å¸â€œâ€” Please support me so that I could create more free content-https://www.buymeacoffee.com/Nirachi
+    Ã°Å¸â€œâ€”Ã°Å¸â€œâ€”Ã°Å¸â€œâ€”" and in the end, write "Please Like and Support" [TARGETLANGUAGE]
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

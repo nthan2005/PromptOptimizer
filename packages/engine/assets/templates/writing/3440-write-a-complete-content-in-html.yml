@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3440
+# teaser: write a full blog post of up to 1200 words writing like a human expert on the subject. It
+# will have an introduction with an air of curiosity, at the beginning talking about a pain that the
+# person suffers. put sub titles, conclusion and frequently asked questions at the end of the content.
+# also put words that you think call attention in bold and put some link to another site related to
+# the word or topic in question. All this in html5. Remember this is for a blog post, so no Html
+# header or H1 is required. Start with the introduction
+- id: 3440-write-a-complete-content-in-html
+  title: Write a complete content in HTML
+  tags:
+    - writing
+    - write
+    - complete
+    - content
+    - html
+  family: writing
+  body:
+    "[TARGETLANGUAGE]write a full blog post of up to 1200 words writing like a
+    human expert on the subject. It will have an introduction with an air of curiosity,
+    at the beginning talking about a pain that the person suffers. put sub titles,
+    conclusion and frequently asked questions at the end of the content. also put
+    words that you think call attention in bold and put some link to another site
+    related to the word or topic in question. All this in html5. Remember this is
+    for a blog post, so no Html header or H1 is required. Start with the introduction[PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

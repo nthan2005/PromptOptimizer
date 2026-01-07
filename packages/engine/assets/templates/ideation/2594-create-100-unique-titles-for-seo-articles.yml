@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2594
+# teaser: Create 100 SEO Optimized Title for Best Article | Use Title on Our Promt "SEO Article Human
+# Writting Optimize 100% Unique"
+- id: 2594-create-100-unique-titles-for-seo-articles
+  title: Create 100 Unique Titles for SEO Articles
+  tags:
+    - ideation
+    - "100"
+    - unique
+    - titles
+    - seo
+    - articles
+  family: ideation
+  body:
+    Create 100 unique titles without copyright. All output shall be in [TARGETLANGUAGE].
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6413
+# teaser: Make a quick and free diagnosis of your company, brand or products now and find out how we
+# can take your business to another level. RevisionTime: 2025-01-02T15:16:53.444Z
+- id: 6413-discover-your-company-s-areas-for-improvement-activity-marke
+  title: 'Discover your company''s areas for improvement. Activity: marketing Topic:
+    Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - discover
+  - company
+  - areas
+  - improvement
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/2040410646407532544/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Discover your company''s areas for
+    improvement."](https://www.aiprm.com/prompts/marketing/marketing/2040410646407532544/)_"
+    --- Please write in [TARGETLANGUAGE] PortuguÃªs [PROMPT] Eu sou uma agÃªncia de
+    publicidade, estou disponibilizando este local para que o nossos novos Leads possam
+    fazer uma breve apresentaÃ§Ã£o de como Ã© a empresa dele e quais sÃ£o as principais
+    dificuldades. Assim de forma automÃ¡tica vocÃª pode fazer essa anÃ¡lise, que serÃ¡
+    direcionada automaticamente para o lead, entÃ£o Ã© necessÃ¡rio que o texto seja
+    totalmente direcionado ao lead, jÃ¡ iniciando o texto com a anÃ¡lise, sem citar
+    nada antes da anÃ¡lise. Sendo assim, apresente uma resposta com pontos fortes,
+    pontos de melhoria e uma sugestÃ£o final: "Nossa equipe pode ajudar a implementar
+    estratÃ©gias personalizadas para fortalecer sua marca e otimizar suas vendas.
+    Entre em contato agora e transforme seu negÃ³cio.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

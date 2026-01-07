@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6088
+# teaser: Translate your text to EN, even better than Google translate ! RevisionTime:
+# 2023-02-19T15:35:19Z
+- id: 6088-your-language-to-en-translate-activity-writing-topic-copywri
+  title: "Your language to EN translate Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - language
+    - translate
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Your language to EN translate"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Translate the following [TARGETLANGUAGE] text to english using vocabulary
+    and expressions of a native of the United Kingdom : [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

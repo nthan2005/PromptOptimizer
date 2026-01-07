@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3174
+# teaser: Create the best meta description 100% optimized for SEO of a keyword
+- id: 3174-full-optimized-meta-description-for-seo
+  title: Full optimized meta description for SEO
+  tags:
+    - writing
+    - full
+    - optimized
+    - meta
+    - description
+    - seo
+  family: writing
+  body:
+    Write a meta description as copywriter for [PROMPT] in [TARGETLANGUAGE] language
+    less than 140 characters, please don't use hashtags and include the [PROMPT] in
+    the description, also considere that this is for Seo purpose.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

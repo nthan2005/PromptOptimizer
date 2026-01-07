@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3711
+# teaser: Create a value proposition easily
+- id: 3711-create-a-value-proposition-2
+  title: Create a Value Proposition 2
+  tags:
+    - unsure
+    - value
+    - proposition
+  family: UNSURE
+  body:
+    "Apresentar o resultado no idioma [TARGETLANGUAGE] Crie uma proposta de valor
+    para o seu negÃƒÆ’Ã‚Â³cio usando o seguinte modelo: Para (segmento de clientes) que
+    (dores, necessidades ou desejos), oferecemos (produto ou serviÃƒÆ’Ã‚Â§o) que entrega
+    (benefÃƒÆ’Ã‚Â­cios) diferenciando-se da concorrÃƒÆ’Ã‚Âªncia com (diferenciais da oferta).
+    [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

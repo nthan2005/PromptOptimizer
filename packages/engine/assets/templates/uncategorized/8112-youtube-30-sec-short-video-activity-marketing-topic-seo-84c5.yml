@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8112
+# teaser: write the product name with RevisionTime: 2023-02-19T15:35:19Z
+- id: 8112-youtube-30-sec-short-video-activity-marketing-topic-seo-84c5
+  title: "YouTube 30 Sec Short Video Activity: marketing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - youtube
+    - sec
+    - short
+    - video
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "YouTube 30 Sec Short Video"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Generate a script for a 30-second commercial promoting our new product. All
+    output shall be in [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

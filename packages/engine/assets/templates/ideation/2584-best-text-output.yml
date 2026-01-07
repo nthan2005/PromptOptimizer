@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2584
+# teaser: create best out put ever
+- id: 2584-best-text-output
+  title: Best Text Output
+  tags:
+    - ideation
+    - text
+    - output
+  family: ideation
+  body:
+    "[TARGETLANGUAGE],[PROMPT] i asking you to imagine your self , Acting as a
+    [VARIBLE1] perform [VARIBLE2] in [VARIBLE3]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - varible1
+    - varible2
+    - varible3

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6013
+# teaser: What do you want 'Whimsified' today? Write 4 small paragraphs in a whimsical and creative
+# style on anything you want. Go on, be whimsical! RevisionTime: 2023-04-07T14:26:25.858Z
+- id: 6013-whimsical-style-sparks-activity-writing-topic-copywriting-00
+  title: "Whimsical Style Sparks Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - whimsical
+    - style
+    - sparks
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Whimsical Style Sparks"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a 3-4 sentence paragraph in [TARGETLANGUAGE] using a whimsical and creative
+    style about the following: [PROMPT] For each paragraph, write a creative title,
+    and a unique subtitle. Do not use any numerical or bullet points. Add 3 hashtags
+    after each paragraph (on a new line) that are fun and creative. Do not put things
+    in quotes. Repeat this process for a total of 5 times. Format everything in Markdown
+    as follows: ## for the title ### for the subtitle **bold text** for the hashtags'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

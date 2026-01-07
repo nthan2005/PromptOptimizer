@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9268
+# teaser: Utility class RevisionTime: 2023-03-13T13:31:16.107Z
+- id: 9268-settle-your-need-activity-unsure-topic-unsure-f69c57b424376b
+  title: "settle your need. Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - settle
+    - need
+    - activity
+    - unsure
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "settle your need."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- My need is [PROMPT].Please tell me 2 possible solutions in as concise language
+    as possible, and give as detailed and precise implementation steps as possible
+    for each solution.Please output it in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

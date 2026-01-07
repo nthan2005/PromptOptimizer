@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7901
+# teaser: Get the best keyword cluster FROM YOUR COMPETITOR content RevisionTime: 2023-02-19T15:35:19Z
+- id: 7901-keyword-cluster-from-your-competitors-content-activity-keywo
+  title:
+    "Keyword Cluster From your competitors Content Activity: keywords Topic:
+    SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - keyword
+    - cluster
+    - competitors
+    - content
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Keyword Cluster From your competitors
+    Content"](https://github.com/nthan2005/PromptOptimizer)_" ---
+    Your task is create Keyword Cluster From this content. Give me a list of keyword
+    cluster from this content with a outline. All output shall be in [TARGETLANGUAGE].
+    The text to keyword cluster in this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

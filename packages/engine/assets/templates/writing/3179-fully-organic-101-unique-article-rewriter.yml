@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3179
+# teaser: Rewrite The Article with your own format and with unique and organic Characters. So Let's do
+# this!
+- id: 3179-fully-organic-101-unique-article-rewriter
+  title: Fully Organic & 101% Unique Article Rewriter
+  tags:
+    - writing
+    - fully
+    - organic
+    - "101"
+    - unique
+    - article
+  family: writing
+  body:
+    'Your Task is to Rewrite the Article. All out put shall be in [TARGETLANGUAGE].
+    And Rewrite the Article With these given commands: "Write a very unique and short
+    meta description" "Rewrite Introduction of given Article" "Rewrite the features
+    of given Article one by one and don''t mix their Paragraph''s titles rewrite them
+    also on their paragraph" "Rewrite the Downloading steps of Given Article" "Rewrite
+    Conclusion of Given Article" "Write Five Unique FAQs of Article With their Answers"
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

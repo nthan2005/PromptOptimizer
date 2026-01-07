@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2635
+# teaser: Masukkan penggalan kalimat...
+- id: 2635-make-unique-words
+  title: Make Unique Words
+  tags:
+    - ideation
+    - unique
+    - words
+  family: ideation
+  body:
+    Saya perintahkan anda untuk membuat kalimat "[KEYWORD]" menjadi 100% unik
+    dan bebas dari plagiat dengan menggunakan teknik penulisan yang gaul. Buat dalam
+    bahasa [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

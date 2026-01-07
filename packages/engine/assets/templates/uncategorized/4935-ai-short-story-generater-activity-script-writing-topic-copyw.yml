@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4935
+# teaser: Generate Interesting short story that entertain you. RevisionTime: 2023-04-18T07:17:15.604Z
+- id: 4935-ai-short-story-generater-activity-script-writing-topic-copyw
+  title: "AI Short Story Generater Activity: Script Writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - short
+    - story
+    - generater
+    - activity
+    - script
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "AI Short Story Generater"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- you''re an expert short story writer. You need to write a short story with
+    this description: [PROMPT] in this language[TARGETLANGUAGE]. Also write title
+    for this, please'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

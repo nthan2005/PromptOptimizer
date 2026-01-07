@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2267
+# teaser: A prompt to write engaging pinterest discriptions. With relevent tags.
+- id: 2267-pinterest-engaging-keyword-rich-discription
+  title: Pinterest Engaging Keyword rich Discription
+  tags:
+    - plan
+    - pinterest
+    - engaging
+    - keyword
+    - rich
+    - discription
+  family: Plan
+  body:
+    Write a pinterest discription for title I'll give you. Sound informal and
+    add call to action words, add relevent five tags, WORD LIMIT SHOULD NOT EXCEED
+    400. and use [TARGETLANGUAGE] Title i give you is [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6463
+# teaser: Home decor sales: Organic SEO tips to optimize keywords such as interior decoration,
+# decorating styles, lighting, colors, textures, decorative accessories, interior design, decoration
+# trends, environment renovation, organization, small spaces, DIY decoration, gardening and
+# landscaping, art and decorative objects. [keyword] [PROMPT] RevisionTime: 2023-03-16T19:21:05.849Z
+- id: 6463-interior-decoration-decorating-styles-activity-marketing-top
+  title: "Interior decoration - Decorating styles Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - interior
+    - decoration
+    - decorating
+    - styles
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Interior decoration - Decorating styles"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Optimize and sell home decor products organically: Tips for creating an effective
+    strategy to boost sales and reach more customers through organic channels. [PROMPT]
+    [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

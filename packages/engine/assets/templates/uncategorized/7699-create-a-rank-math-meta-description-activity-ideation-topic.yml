@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7699
+# teaser: Create a Rank Math meta description under 159 characters long for SERPs RevisionTime:
+# 2023-05-29T13:56:56.655Z
+- id: 7699-create-a-rank-math-meta-description-activity-ideation-topic
+  title: "Create a Rank Math Meta Description Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - rank
+    - math
+    - meta
+    - description
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create a Rank Math Meta Description"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write me a meta description under 159 characters long for SERPs based on this
+    title. DO NOT go over the 159 characters. Please write all output in [TARGETLANGUAGE]
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

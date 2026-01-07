@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8097
+# teaser: Generate a data-driven SEO keyword strategy and weekly content plan from a single seed
+# keyword. RevisionTime: 2025-05-06T21:36:34.967Z
+- id: 8097-seo-keyword-strategy-content-plan-generato-activity-marketin
+  title: 'SEO Keyword Strategy & Content Plan Generato Activity: marketing Topic:
+    SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - seo
+  - keyword
+  - strategy
+  - content
+  - plan
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/2085449979782770688/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"SEO Keyword Strategy & Content\
+    \ Plan Generato\"](https://www.aiprm.com/prompts/seo/marketing/2085449979782770688/)_\"\
+    \ --- Please write in [TARGETLANGUAGE] You are an expert SEO strategist. 1. Given\
+    \ the seed keyword â€œ[PROMPT]â€\x9D, generate the top [MAX_RESULTS] related keywords.\
+    \ For each, include: - â€œkeywordâ€\x9D: the related term - â€œintentâ€\x9D: one\
+    \ of {â€œinformationalâ€\x9D, â€œnavigationalâ€\x9D, â€œtransactionalâ€\x9D, â€œcommercialâ€\x9D\
+    } - â€œdifficultyâ€\x9D: a 1â€“100 score estimating SEO competition 2. Create\
+    \ a content_plan array: for each of the next [MAX_RESULTS] weeks, propose: - â€œtitleâ€\x9D\
+    : an SEO-optimized article title - â€œpublish_dateâ€\x9D: a date spaced weekly\
+    \ (YYYY-MM-DD) - â€œnotesâ€\x9D: 1â€“2 bullet points of SEO best practices Write\
+    \ your answer in [TARGETLANGUAGE] using a [TONE] tone tailored to [AUDIENCE].\
+    \ Return **only** a JSON object with two keys: ```json { \"keywords\": [ /* array\
+    \ of keyword objects */ ], \"content_plan\": [ /* array of plan objects */ ] }"
+  enabled: true
+  required:
+  - audience
+  - max_results
+  - prompt
+  - targetlanguage
+  - tone

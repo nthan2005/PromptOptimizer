@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1162
+# teaser: Expand The Topic With Subheading Style In Details
+- id: 1162-how-to-heading-expand-in-details
+  title: How To - Heading Expand In Details
+  tags:
+    - writing
+    - heading
+    - expand
+    - details
+  family: writing
+  body:
+    Please write a comprehensive, engaging, and easy-to-understand guide on the
+    [PROMPT] in [TARGETLANGUAGE]. The guide should be divided into well-organized
+    sections with descriptive subheadings for each step. Begin the guide with an attention-grabbing
+    statement like "Here are the" or "This is how to" and then start writing the steps
+    without any introductory statements. Throughout the guide, maintain a balance
+    between informativeness and readability, ensuring that the content is both detailed
+    and easy to follow. Use relevant keywords and examples to help illustrate your
+    points. Write in a conversational and informal style that feels as though it was
+    written by a human. Utilize personal pronouns, active voice, brief explanations,
+    rhetorical questions, and engaging storytelling techniques like analogies and
+    metaphors. Ensure that your writing is fluent, SEO-friendly, and avoids repetitive
+    patterns or phrases. The guide should focus solely on the specific topic on the
+    [PROMPT]. Explain the signs thoroughly, with examples or visuals to support the
+    reader's understanding. Your guide should provide a self-contained explanation
+    of the process. Avoid including any concluding statements or summarizing the signs
+    at the end of the guide. Remember to proofread your guide for grammatical errors
+    and maintain a high standard of English language proficiency throughout the content.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

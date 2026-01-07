@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8065
+# teaser: Get assessments and recommendations to improve a site's SEO based on 1 [PROMPT].
+# RevisionTime: 2023-09-14T08:46:53.905Z
+- id: 8065-audit-seo-activity-marketing-topic-seo-84c5d6a7b8e9f0c1
+  title: 'audit seo Activity: marketing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - audit
+  - seo
+  - activity
+  - marketing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/1867823563009675264/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "audit seo"](https://www.aiprm.com/prompts/seo/marketing/1867823563009675264/)_"
+    --- Prompt text including placeholders [TARGETLANGUAGE], [PROMPT], [VARIABLE1],
+    [VARIABLE2], and [VARIABLE3] automatically replaced by AIPRM. Provide an assessment
+    and improvement axes for the following SEO situation: "[PROMPT]" in the target
+    language "[TARGETLANGUAGE]". Variables such as [VARIABLE1:Type of site], [VARIABLE2:Industry:Default],
+    and [VARIABLE3:Importance:Default:Low|Medium|High] must be taken into account.
+    [VARIABLE1], [VARIABLE2], and [VARIABLE3] will be pre-filled using the URL parameters
+    AIPRM_VARIABLE1, AIPRM_VARIABLE2, and AIPRM_VARIABLE3.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - variable1
+  - variable2
+  - variable3

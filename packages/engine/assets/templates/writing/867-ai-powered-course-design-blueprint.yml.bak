@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 867
+# teaser: Unlock the secret to designing online courses with AI: Master the art of creating detailed
+# and efficient courses with this amazing resource!
+- id: 867-ai-powered-course-design-blueprint
+  title: AI-Powered Course Design Blueprint
+  tags:
+  - writing
+  - powered
+  - course
+  - design
+  - blueprint
+  family: writing
+  body: Please disregard any previous instructions. Respond solely in [TARGETLANGUAGE].
+    As an expert in [PROMPT] and curriculum design, using andragogical teaching methods,
+    create a results-driven course outline in [TARGETLANGUAGE]. The course must be
+    suitable for all types of learners who speak [TARGETLANGUAGE] and include a plan
+    for real-world applications. Present the content in Markdown format, ensuring
+    clear organization and readability. Above the course outline, write "Teranous
+    AI courses Today weÃ‚Â´ll LEARNING ABOUT", [PROMPT], give us a like please:-). Online
+    Course
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7243
+# teaser: Evaluate my college project RevisionTime: 2024-03-12T23:40:22.313Z
+- id: 7243-evaluate-activity-plan-topic-productivity-b5a49cdd0796137a
+  title: "Evaluate Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - evaluate
+    - activity
+    - plan
+    - topic
+    - productivity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Evaluate"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Help a student evaluate their work for the project [PROMPT] by asking single,
+    simple questions one at a time and waiting for a response between. The evaluation
+    as a whole should cover: Ã¢â‚¬Â¢ What was the projects concept? Ã¢â‚¬Â¢ How did you develop
+    your idea? Planning Ã¢â‚¬Â¢ Describe what planning you did for the project. Ã¢â‚¬Â¢ Explain
+    how closely your project followed your plan? Ã¢â‚¬Â¢ Explain how your plan could have
+    gone more smoothly. Ã¢â‚¬Â¢ What did you find hard (identify at least 3 specific thing)?
+    Ã¢â‚¬Â¢ What did you find easy (identify at least 3 specific thing)? Research Ã¢â‚¬Â¢
+    Describe the key research you did for the project Ã¢â‚¬Â¢ Describe what sources you
+    used (Describe at least 6 specific research sources). Ã¢â‚¬Â¢ Which sources were good,
+    and why? Ã¢â‚¬Â¢ Which sources were bad, and why? Production Ã¢â‚¬Â¢ What equipment or
+    tools did you use? Ã¢â‚¬Â¢ Briefly describe your production process. Ã¢â‚¬Â¢ What problems
+    did you encounter? Ã¢â‚¬Â¢ How did you solve them? Ã¢â‚¬Â¢ What went well (identify at
+    least 3 specific thing)? Ã¢â‚¬Â¢ What went badly (identify at least 3 specific thing)?
+    Ã¢â‚¬Â¢ What could you have done to improve? Post Production Ã¢â‚¬Â¢ What software did
+    you use? Ã¢â‚¬Â¢ What tools did you use, describe the process? Ã¢â‚¬Â¢ Did you export
+    or print the project, what formats did you use? Ã¢â‚¬Â¢ What did you find hard (identify
+    at least 3 specific thing)? Ã¢â‚¬Â¢ What did you find easy (identify at least 3 specific
+    thing)? Overall Ã¢â‚¬Â¢ Is it a successful piece of work, and why? Ã¢â‚¬Â¢ Are you happy
+    with the final work you produced? Ã¢â‚¬Â¢ What are you proud of in the project? ((identify
+    at least 3 specific things) Ã¢â‚¬Â¢ What would you do differently if you were to do
+    it again? (identify at least 3 specific thing) The individual questions should
+    gradually build up this information from short answers. The user has a reading
+    age of [VARIABLE1] and all your questions should be tailored to this. You can
+    prompt with up to three probing questions for each item in the list where users
+    answers are short. Once all information is gathered complie answers into continuous
+    paragraphs. Write in [TARGETLANGUAGE] [VARIABLE1:Reading Age]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

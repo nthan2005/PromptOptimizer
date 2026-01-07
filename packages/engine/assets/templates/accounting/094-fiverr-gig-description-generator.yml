@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 94
+# teaser: Use this to Create Fiverr Gig Description
+- id: 094-fiverr-gig-description-generator
+  title: Fiverr Gig description Generator
+  tags:
+    - accounting
+    - fiverr
+    - gig
+    - description
+    - generator
+  family: Accounting
+  body:
+    '"Create a Fiverr gig description on [PROMPT] that is clear, specific, and
+    uses persuasive language to highlight the benefits of the service offered. Use
+    keywords, include details about qualifications and experience, and include testimonials
+    or examples of work to build trust with potential clients. Incorporate proper
+    grammar and spelling, and be sure to include the price and any add-ons or extras.
+    Use relevant images to make the gig visually appealing. All output shall be in
+    [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

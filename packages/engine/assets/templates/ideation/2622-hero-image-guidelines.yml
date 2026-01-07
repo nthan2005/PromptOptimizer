@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2622
+# teaser: Get ideas on what hero image (banner) you should use on your page. - by Joao Filipe Pereira
+- id: 2622-hero-image-guidelines
+  title: Hero Image Guidelines
+  tags:
+    - ideation
+    - hero
+    - image
+    - guidelines
+  family: ideation
+  body:
+    "Based on the content of this page, what should my hero image contain? All
+    output shall be in [TARGETLANGUAGE]. The text to analyse is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

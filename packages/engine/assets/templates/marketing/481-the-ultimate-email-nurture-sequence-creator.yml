@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 481
+# teaser: Create an email sequence to sell your product/service.
+- id: 481-the-ultimate-email-nurture-sequence-creator
+  title: The Ultimate Email Nurture Sequence Creator
+  tags:
+    - marketing
+    - ultimate
+    - email
+    - nurture
+    - sequence
+    - creator
+  family: marketing
+  body:
+    Write a welcome email sequence in [TARGETLANGUAGE] including subject lines
+    that convert. This email sequence should get people to know, like, and trust me,
+    so they feel comfortable buying my [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

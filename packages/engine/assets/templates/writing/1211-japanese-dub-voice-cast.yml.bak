@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1211
+# teaser: Japanese dub voice cast
+- id: 1211-japanese-dub-voice-cast
+  title: Japanese dub voice cast
+  tags:
+    - writing
+    - japanese
+    - dub
+    - voice
+    - cast
+  family: writing
+  body: "[TARGETLANGUAGE] write me voice cast of the japanese dub of [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

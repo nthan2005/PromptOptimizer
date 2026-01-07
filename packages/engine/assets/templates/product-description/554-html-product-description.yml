@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 554
+# teaser: HTML Product Description with headings <H4> and <H5> and futures bullet points list with
+# negative and positive emoji.
+- id: 554-html-product-description
+  title: <HTML> Product Description
+  tags:
+    - product-description
+    - html
+    - product
+    - description
+  family: Product Description
+  body:
+    "Your task is to create a product description with these instructions: 2)
+    2, 3, 4 or 5 paragraphs with the headings <h3> <h4> and <h5> with the benefits
+    of the product. 3)Create a bullet point <ul> list with the most important futures
+    and a heading in <h5>. The description should be written in HTML. All output shall
+    be in [TARGETLANGUAGE]. Now I will give you the text to examine and create the
+    product description: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

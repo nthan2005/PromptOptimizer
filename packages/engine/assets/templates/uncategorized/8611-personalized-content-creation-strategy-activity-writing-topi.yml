@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8611
+# teaser: ChatGPT, you are tasked with creating content that is highly engaging and sounds like it was
+# written by a specific person. RevisionTime: 2024-11-05T14:55:45.78Z
+- id: 8611-personalized-content-creation-strategy-activity-writing-topi
+  title: "Personalized Content Creation Strategy Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - personalized
+    - content
+    - creation
+    - strategy
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Personalized Content Creation Strategy"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

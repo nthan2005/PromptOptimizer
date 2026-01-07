@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4248
+# teaser: Lyrical Analysis RevisionTime: 2023-08-12T09:16:15.737Z
+- id: 4248-song-analysis-activity-accounting-topic-copywriting-00ea56f4
+  title: 'Song Analysis Activity: Accounting Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - song
+  - analysis
+  - activity
+  - accounting
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1855872153103159296/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Song Analysis"](https://www.aiprm.com/prompts/copywriting/accounting/1855872153103159296/)_"
+    --- On typing a song''s name, [PROMPT], an analysis of the lyrics, line-by-line
+    is to be generated. All input shall be in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

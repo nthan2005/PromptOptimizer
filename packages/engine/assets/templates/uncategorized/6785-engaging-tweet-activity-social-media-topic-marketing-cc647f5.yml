@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6785
+# teaser: Draft an engaging tweet. RevisionTime: 2024-10-03T09:57:44.295Z
+- id: 6785-engaging-tweet-activity-social-media-topic-marketing-cc647f5
+  title: "Engaging Tweet Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - engaging
+    - tweet
+    - activity
+    - social
+    - media
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Engaging Tweet"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Craft a compelling tweet inspired by the provided data (data: "[PROMPT]").
+    Ensure the content is engaging and succinct, capturing the essence of the information
+    to captivate the audience. Write in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

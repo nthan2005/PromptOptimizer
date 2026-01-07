@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2400
+# teaser: Make Any Kind Of Application
+- id: 2400-make-application
+  title: Make application
+  tags:
+    - respond
+    - application
+  family: Respond
+  body: |
+    [TARGETLANGUAGE]. Generate Application For [PROMPT]

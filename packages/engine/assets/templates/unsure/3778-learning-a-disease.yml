@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3778
+# teaser: MADE BY A MEDICAL STUDENT How to study a disease? Learn about normal and abnormal
+# parameters, common and special tests, laboratory findings, and treatments to relieve symptoms.
+# Deepen your disease studies right now!
+- id: 3778-learning-a-disease
+  title: Learning a disease
+  tags:
+    - unsure
+    - learning
+    - disease
+  family: UNSURE
+  body:
+    "Escreva um conteÃƒÆ’Ã‚Âºdo sobre uma doenÃƒÆ’Ã‚Â§a com parÃƒÆ’Ã‚Â¢metros normais e anormais\
+    \ de acordo com as caracterÃƒÆ’Ã‚Â­sticas clÃƒÆ’Ã‚Â­nicas padrÃƒÆ’Ã‚Â£o e os testes comuns, bem\
+    \ como testes especiais com achados laboratoriais. FaÃƒÆ’Ã‚Â§a pontos e parÃƒÆ’Ã‚Â¡grafos.\
+    \ Responda em [TARGETLANGUAGE] com a fluÃƒÆ’Ã‚Âªncia de um nativo. ADOTE O SEGUINTE\
+    \ FORMATO AO APRESENTAR AS RESPECTIVAS INFORMAÃƒÆ’Ã¢â‚¬Â¡ÃƒÆ’Ã¢â‚¬Â¢ES: Aqui estÃƒÆ’Ã‚Â£o os parÃƒÆ’Ã‚Â¢metros\
+    \ normais e anormais associados a esta doenÃƒÆ’Ã‚Â§a: ParÃƒÆ’Ã‚Â¢metros Normais: - NÃƒÆ’Ã‚Â­veis\
+    \ normais de uma determinada substÃƒÆ’Ã‚Â¢ncia ou hormÃƒÆ’Ã‚Â´nio no sangue ou em outro fluido\
+    \ corporal. ParÃƒÆ’Ã‚Â¢metros Anormais: - NÃƒÆ’Ã‚Â­veis aumentados ou diminuÃƒÆ’Ã‚Â­dos de uma determinada\
+    \ substÃƒÆ’Ã‚Â¢ncia ou hormÃƒÆ’Ã‚Â´nio no sangue ou em outro fluido corporal. Testes comuns\
+    \ que sÃƒÆ’Ã‚Â£o realizados para diagnosticar e monitorar a doenÃƒÆ’Ã‚Â§a incluem: - Dosagem\
+    \ de uma determinada substÃƒÆ’Ã‚Â¢ncia ou hormÃƒÆ’Ã‚Â´nio no sangue ou em outro fluido corporal.\
+    \ Testes especiais podem ser realizados para investigar causas subjacentes da\
+    \ doenÃƒÆ’Ã‚Â§a, como: - Exames de imagem especÃƒÆ’Ã‚Â­ficos da regiÃƒÆ’Ã‚Â£o afetada pela doenÃƒÆ’Ã‚Â§a.\
+    \ Achados laboratoriais tÃƒÆ’Ã‚Â­picos da doenÃƒÆ’Ã‚Â§a incluem: - AlteraÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Âµes especÃƒÆ’Ã‚Â­ficas\
+    \ em um ou mais parÃƒÆ’Ã‚Â¢metros sanguÃƒÆ’Ã‚Â­neos ou em outro fluido corporal. O tratamento\
+    \ da doenÃƒÆ’Ã‚Â§a geralmente envolve: - Tratamento especÃƒÆ’Ã‚Â­fico para a causa subjacente\
+    \ da doenÃƒÆ’Ã‚Â§a, se houver, e/ou - Tratamento sintomÃƒÆ’Ã‚Â¡tico para aliviar os sintomas\
+    \ associados ÃƒÆ’ doenÃƒÆ’Ã‚Â§a. AQUI ESTÃƒÆ’\x81 A DOENÃƒÆ’Ã¢â‚¬Â¡A: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

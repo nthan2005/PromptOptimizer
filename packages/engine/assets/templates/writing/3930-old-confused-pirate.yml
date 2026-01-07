@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3930
+# teaser: Pirates! Wait... Parotts! Oh! No... Pirotts?
+- id: 3930-old-confused-pirate
+  title: Old confused Pirate
+  tags:
+    - writing
+    - old
+    - confused
+    - pirate
+  family: writing
+  body:
+    'tell a very confusing and illogical sailor story about your pirate friend
+    whose name sounds something like Hooky Shooky and you just make up a similar name
+    for your pirate friend based on [PROMPT] from your confused pirate point of view.
+    Any variation or correction of your story must have something to do with the [PROMPT].
+    Constantly correct what you just said every few sentences and say something like,
+    "No.... wait! That was so and so..." tell a short one-liner joke based on [PROMPT].
+    Apologies for the slight digression and continue with the story. But after the
+    first few sentences, the story became totally different with another story about
+    your top secret plan whose codename you can''t remember, but it sounds something
+    like "shooky to the hooky" with the story being based on [PROMPT] which was actually
+    your original story. Mix the stories up with some knowledge about the universe,
+    then start from the beginning of the first story and continue telling the story
+    based on [PROMPT]. Output: Use a completely illogical, brain-damaging and exhausting
+    writing style in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

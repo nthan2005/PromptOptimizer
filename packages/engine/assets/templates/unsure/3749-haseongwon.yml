@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3749
+# teaser: haseongwon
+- id: 3749-haseongwon
+  title: haseongwon
+  tags:
+    - unsure
+    - haseongwon
+  family: UNSURE
+  body:
+    "You are an elementary school teacher. Please help me make a class study paper
+    from now on. We will produce sentences that answer random times based on the format
+    below. [VARIABLE1: Target Language][VARIABLE1], make a sentence that answers the
+    time that begins with this expression. [VARIABLE2: expression][VARIABLE2]. However,
+    at this time, the answer must follow the form below. 'It's ~:~'. At this time,
+    instead of answering the daily routine, answer the sentence that only answers
+    the time in english [TARGETLANGUAGE] <Script> [PROMPT] Now, please make a sentence
+    for the activity paper.. Please answer with [Target Language]."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2

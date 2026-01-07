@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8830
+# teaser: Write Upwork Cover Letter Like a Pro RevisionTime: 2023-08-14T09:38:51.337Z
+- id: 8830-write-upwork-cover-letter-like-a-pro-activity-writing-topic
+  title: "Write Upwork Cover Letter Like a Pro Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - write
+    - upwork
+    - cover
+    - letter
+    - like
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Write Upwork Cover Letter Like a Pro"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- write a cover letter for this job in [TARGETLANGUAGE].Use this format: Using
+    the information [PROMPT]. write a unique job proposal by answering this information.
+    The proposal should be in 4 paragraphs and less than 100 words. Paragraph one
+    answer "Show you understand what the client is looking for " paragraph two answer
+    "Tell them youÃ¢â‚¬â„¢ll help them" paragraph three " Proof you can do it (experience,
+    training, and anything else)" paragraph four "Call to action (Ask for interview
+    & not hire)". Remember it should be less sales and more value driven for the client.
+    Do not use the 1st person pronoun. Do not include these: [Your Name] [Your Address]
+    [City, State, ZIP Code] [Email Address] [Phone Number] [Date] [Client''s Name]
+    [Client''s Job Title] [Company Name] [Company Address] [City, State, ZIP Code]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

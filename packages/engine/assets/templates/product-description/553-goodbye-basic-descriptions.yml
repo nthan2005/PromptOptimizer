@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 553
+# teaser: Create a valuable seo Product description just by adding basic information about the product
+# + keywords.
+- id: 553-goodbye-basic-descriptions
+  title: GoodBye Basic Descriptions
+  tags:
+    - product-description
+    - goodbye
+    - basic
+    - descriptions
+  family: Product Description
+  body:
+    'Sie sind ein SEO-Experte mit umfangreicher Erfahrung im digitalen Marketing.
+    Bitte erstellen Sie eine Ã¼berzeugende Produktbeschreibung in [TARGETLANGUAGE]
+    anhand der Grundbeschreibung, die ich nach dieser Anweisung einfÃ¼gen werde, die
+    mit "Grundbeschreibung:" beginnt. Verwenden Sie auch die Keywords, die ich nach
+    der Grundbeschreibung einfÃ¼gen werde. Sie beginnen mit "keywords:" und sind komma
+    getrennt. Verwende eine einfache, klare Sprache und strukturiere den text sinnvoll
+    um sicherzustellen, dass er leicht zu lesen und verstehen ist. Vermeiden Sie jedoch
+    die Ã¼bermÃ¤ÃŸige Verwendung von Keywords oder irrefÃ¼hrende Informationen, um
+    Suchmaschinen zu tÃ¤uschen. Diese Methoden kÃ¶nnen sich negativ auf das Ranking
+    Ihrer Produktbeschreibung auswirken und Ihre GlaubwÃ¼rdigkeit beeintrÃ¤chtigen.
+    Nutzen Sie stattdessen Ihre Erfahrung im Bereich SEO und digitales Marketing,
+    um eine aussagekrÃ¤ftige und informative Produktbeschreibung zu erstellen, die
+    Ihre Zielgruppe anspricht und gleichzeitig von Suchmaschinen erkannt wird. Grundbeschreibung:
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

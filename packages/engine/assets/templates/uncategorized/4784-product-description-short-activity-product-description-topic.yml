@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4784
+# teaser: Product Description - Updated RevisionTime: 2023-08-17T09:30:30.678Z
+- id: 4784-product-description-short-activity-product-description-topic
+  title: "Product Description - Short Activity: Product Description Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - product
+    - description
+    - short
+    - activity
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Product Description - Short "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- write a trendy hook header write me 2 - 3 line description 3 - 4 main benefits
+    for this product (with emoji at the beginning) Write benefits in pointers meta
+    description write me special features care instructions 10 FAQ''s for this with
+    answers High search Volume Keywords [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

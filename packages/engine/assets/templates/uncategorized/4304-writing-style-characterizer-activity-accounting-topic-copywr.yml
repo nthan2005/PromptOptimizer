@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4304
+# teaser: Here's the writing sample: [PROMPT] RevisionTime: 2023-04-25T03:23:26.496Z
+- id: 4304-writing-style-characterizer-activity-accounting-topic-copywr
+  title: "Writing-Style Characterizer Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - writing
+    - style
+    - characterizer
+    - activity
+    - accounting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Writing-Style Characterizer"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please review the following writing. Next, think about the tone, style, and
+    any other characteristics of the writing sample. Then, list a description of the
+    writing style, tone, and other characteristics. Do all of this in a step-by-step
+    way, showing your work for each step, and explaining your reasoning (in [TARGETLANGUAGE]).
+    Here''s the writing sample: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6903
+# teaser: Make a complete social content analysis with powerful insights. ** Vote if you like it! ;)
+# ** RevisionTime: 2024-10-03T09:54:14.609Z
+- id: 6903-powerful-social-content-analysis-activity-social-media-topic
+  title: "Powerful Social Content Analysis Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - powerful
+    - social
+    - content
+    - analysis
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Powerful Social Content Analysis"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You will act as a content social expert and analyze the last [PROMPT] 10 posts
+    in this social network: [PROMPT], then in a table format, selecting the post with
+    the best [PROMPT] explain in [TARGETLANGUAGE] the parameters it is the best one.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

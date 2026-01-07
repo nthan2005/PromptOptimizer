@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6884
+# teaser: Creates a LinkedIn Social Media Post about your topic and provides relevant hashtags. No
+# Nonsense or asking you to help me buy a PC. RevisionTime: 2024-10-03T09:55:57.856Z
+- id: 6884-linkedin-social-media-post-with-seo-hashtags-activity-social
+  title: 'LinkedIn Social Media Post with SEO HashTags Activity: Social Media Topic:
+    Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - linkedin
+  - social
+  - media
+  - post
+  - seo
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1799515296231591936/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "LinkedIn Social Media Post with SEO
+    HashTags"](https://www.aiprm.com/prompts/marketing/social-media/1799515296231591936/)_"
+    --- Generate a social media Post that is appropriate for LinkedIn in [TARGETLANGUAGE]
+    on [PROMPT]. Write this pretending that you are an expert in SEO and Social Media
+    Management but you are not allowed to mention this to the audience. Please try
+    to use some related emojis but don''t overdo it. Also, try to engage the audience
+    in the post + try something that other users want to comment on the post. Try
+    to keep Lines short and engaging. Also, keep in mind of LinkedIn SEO and try to
+    fulfill all needs. Make sure that content is 100% Original and Plagiarism free.
+    After that Also give 6 related hashtags for LinkedIn. Do not include step by step
+    instructions in the post, that is what the youtube video I have created is for.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

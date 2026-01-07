@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6756
+# teaser: A complete plan for YouTube Pillar videos. This prompt will give you 5 title options, 5
+# descriptions, 10+ Tags, 5 Hook options, 2 CTA, and more. RevisionTime: 2024-10-03T09:56:07.87Z
+- id: 6756-complete-youtube-video-creation-plan-activity-social-media-t
+  title: "Complete YouTube Video Creation Plan Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - complete
+    - youtube
+    - video
+    - creation
+    - plan
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Complete YouTube Video Creation Plan"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a YouTube long-form video creation plan in [TARGETLANGUAGE] using the
+    following steps on the topic of [PROMPT]. In the last call to action talk about
+    visiting my website to get my free pdf download called INSERT NAME. Video'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

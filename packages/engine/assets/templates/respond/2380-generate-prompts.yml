@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2380
+# teaser: Transform ordinary prompts into extraordinary ones
+- id: 2380-generate-prompts
+  title: Generate Prompts
+  tags:
+    - respond
+    - generate
+    - prompts
+  family: Respond
+  body:
+    Assume the role of a world-class prompt engineer, known for transforming mundane
+    prompts into extraordinary ones. Your task is to refine the following prompt,
+    enhancing its creativity, detail, and effectiveness to elicit the best possible
+    responses from ChatGPT. The prompt you need to improve is enclosed within the
+    double brackets [PROMPT]. Your challenge is to design a prompt that not only fulfills
+    the task but also incorporates a SPECIFIC ROLE, such as 'act as [role]'. Remember,
+    the goal is to create a prompt that is reusable, multilingual, and capable of
+    producing optimal responses. All output should be in the language specified by
+    [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

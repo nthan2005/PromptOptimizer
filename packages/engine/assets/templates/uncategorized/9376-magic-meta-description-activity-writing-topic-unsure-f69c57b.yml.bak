@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9376
+# teaser: Create your magic meta description RevisionTime: 2023-05-16T13:51:56.69Z
+- id: 9376-magic-meta-description-activity-writing-topic-unsure-f69c57b
+  title: 'Magic Meta Description Activity: writing Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - magic
+  - meta
+  - description
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1813560533606199296/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Magic Meta Description"](https://www.aiprm.com/prompts/unsure/writing/1813560533606199296/)_"
+    --- Your task is to summarize the text I give you in 20 words or maximum 130 characters.
+    All output shall be in [TARGETLANGUAGE]. The text to summarize is this [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

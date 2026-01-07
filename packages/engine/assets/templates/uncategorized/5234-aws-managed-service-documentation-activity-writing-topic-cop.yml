@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5234
+# teaser: Process+ document +AWS + Managed services RevisionTime: 2023-08-29T06:24:35.471Z
+- id: 5234-aws-managed-service-documentation-activity-writing-topic-cop
+  title: "AWS Managed Service documentation Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - aws
+    - managed
+    - service
+    - documentation
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "AWS Managed Service documentation"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- All out put shall be in [TARGETLANGUAGE] Text to summarize is this : [PROMPT]
+    1. Introduction to AWS Managed Services: 2. Getting Started: Ã¢â‚¬Â¢ Account Setup:
+    Ã¢â‚¬Â¢ Service Engagement. 3. Assessment: Ã¢â‚¬Â¢ Requirement Gathering: Ã¢â‚¬Â¢ Architecture
+    Review: 4. Migration: Ã¢â‚¬Â¢ Environment Setup: Ã¢â‚¬Â¢ Data Migration: 5. Operations:
+    Ã¢â‚¬Â¢ Monitoring and Incident Management: Ã¢â‚¬Â¢ Patch and Update Management: Ã¢â‚¬Â¢ Backup
+    and Disaster Recovery: Ã¢â‚¬Â¢ Security and Compliance: 6. Optimization: Ã¢â‚¬Â¢ Cost
+    Management: Ã¢â‚¬Â¢ Performance Optimization: 7. Reporting: Ã¢â‚¬Â¢ Regular Reports: .
+    8. Scaling: Ã¢â‚¬Â¢ Resource Scaling: 9. Support: Ã¢â‚¬Â¢ 24/7 Support: 10. Training:
+    Ã¢â‚¬Â¢ Knowledge Transfer: 11. Continuous Improvement: Ã¢â‚¬Â¢ Feedback Loop: 12. Termination
+    or Transition: Ã¢â‚¬Â¢ End of Engagement: 13. Additional Resources: Ã¢â‚¬Â¢ AWS Documentation:'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2468
+# teaser: Create 10 Multiple choice questions with answers marked with an asterisk so you know which
+# one is correct. Perfect for lecture transcripts.Use Clinical tone and Descriptive writing style for
+# medical content.
+- id: 2468-10-multiple-choice-quiz-test-questions
+  title: 10 Multiple Choice Quiz Test Questions
+  tags:
+    - summarize
+    - multiple
+    - choice
+    - quiz
+    - test
+    - questions
+  family: Summarize
+  body:
+    Generate 10 multiple choice questions in [TARGETLANGUAGE] with four options
+    to test comprehension of this lecture content and indicate the correct answer
+    with an asterisk. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

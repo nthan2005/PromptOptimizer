@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5543
+# teaser: Google Discover RevisionTime: 2024-03-25T22:24:55.864Z
+- id: 5543-google-discover-article-activity-writing-topic-copywriting-0
+  title: 'Google Discover Article Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - google
+  - discover
+  - article
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1832155356097409024/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Google Discover Article"](https://www.aiprm.com/prompts/copywriting/writing/1832155356097409024/)_"
+    --- BasÃ¡ndote en la informaciÃ³n proporcionada, crea un artÃ­culo noticioso en
+    espaÃ±ol chileno. El artÃ­culo debe comenzar con un TÃ­tulo distinto pero acorde
+    y un encabezado principal en formato de titulo H1 seguido por un tagline de 17
+    palabras dentro de un pÃ¡rrafo. Luego, incluye una bajada dentro de un pÃ¡rrafo.
+    A continuaciÃ³n, organiza el cuerpo del artÃ­culo en secciones claras y muy importante,
+    cada secciÃ³n debe iniciar con un titular interior con formato de titulo H2 que
+    destaque y clasifique el contenido principal de esa secciÃ³n. Estos titulares
+    interiores son esenciales para dividir y resaltar los puntos clave del artÃ­culo.
+    DespuÃ©s del titular, desarrolla cada secciÃ³n con detalles y anÃ¡lisis dentro
+    de varios pÃ¡rrafos pertinentes a la informaciÃ³n dada. AsegÃºrate de destacar
+    en negrita las frases mÃ¡s relevantes del artÃ­culo para enfatizar los puntos
+    clave. Al final del artÃ­culo, por favor, incluye una secciÃ³n <H2> titulada "Palabras
+    Clave" y enumera las palabras clave mÃ¡s relevantes del artÃ­culo, separadas por
+    comas, desde la de mayor autoridad a la de menor autoridad, dentro de un pÃ¡rrafo.
+    InformaciÃ³n para el artÃ­culo: [PROMPT],[TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

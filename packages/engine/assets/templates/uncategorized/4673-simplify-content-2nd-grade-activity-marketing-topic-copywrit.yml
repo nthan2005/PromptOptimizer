@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4673
+# teaser: Simplify and streamline content so a 2nd grader can understand it. RevisionTime:
+# 2024-08-20T21:10:46.624Z
+- id: 4673-simplify-content-2nd-grade-activity-marketing-topic-copywrit
+  title: "Simplify Content (2nd Grade) Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - simplify
+    - content
+    - 2nd
+    - grade
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Simplify Content (2nd Grade)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are an expert marketer and fluent in [TARGETLANGUAGE]. Your task is to
+    simplify and improve the readability of the following passage so a 2nd grader
+    can understand it. Limit sentences to 20 words or less. Avoid the passive voice
+    whenever possible. Here is the passage: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

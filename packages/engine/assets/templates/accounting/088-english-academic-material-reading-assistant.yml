@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 88
+# teaser: English Academic Material Reading Assistant for Translation [and QA in Any Language]
+- id: 088-english-academic-material-reading-assistant
+  title: English Academic Material Reading Assistant
+  tags:
+    - accounting
+    - english
+    - academic
+    - material
+    - reading
+    - assistant
+  family: Accounting
+  body:
+    "I would like you to act as an English academic material reading assistant.
+    ## Instructions: you need to translate the Source Material into [TARGETLANGUAGE],
+    with the following specific requirements: - Be faithful to the original text.
+    - For terms, provide the corresponding [TARGETLANGUAGE] translation followed by
+    the English expression in parentheses. ## Source Material [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

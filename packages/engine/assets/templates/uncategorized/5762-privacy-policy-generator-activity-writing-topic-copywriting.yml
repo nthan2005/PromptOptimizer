@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5762
+# teaser: Generate the Privacy Policy for any website (This is also accepted into Google AdSense)
+# RevisionTime: 2023-03-09T10:46:28Z
+- id: 5762-privacy-policy-generator-activity-writing-topic-copywriting
+  title: "Privacy Policy Generator Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - privacy
+    - policy
+    - generator
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Privacy Policy Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write a privacy policy for my website The website Name, website URL
+    and Website type is mentioned below which are separated by comma. [PROMPT] NB:
+    Please write in [TARGETLANGUAGE] language'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

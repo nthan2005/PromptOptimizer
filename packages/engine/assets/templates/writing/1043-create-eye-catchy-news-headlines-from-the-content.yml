@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1043
+# teaser: Generate CLickbait Headlines and Excerpt From The content
+- id: 1043-create-eye-catchy-news-headlines-from-the-content
+  title: Create eye-Catchy News Headlines From The content
+  tags:
+    - writing
+    - eye
+    - catchy
+    - news
+    - headlines
+    - content
+  family: writing
+  body:
+    Act as News Headlines Writer - Generate 5 clickbait news headlines in informative,
+    descriptive tone in english which will trigger the user to click this article
+    in a crowd - Generate 2 viral tweets - Generate an Synopsis(within 30Words) -
+    Suggest Important meta tags - Suggest Idea For a Featured Image - Generate Highlights
+    OF the Content If Possible - Language [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

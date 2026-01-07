@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1107
+# teaser: With just one click, you can generate a bi-weekly lesson plan, including learning
+# verification questions. Save time and focus on what really matters: preparing amazing lessons for
+# your students!
+- id: 1107-fortnightly-lesson-plan
+  title: Fortnightly Lesson Plan
+  tags:
+  - writing
+  - fortnightly
+  - lesson
+  - plan
+  family: writing
+  body: 'InstruÃƒÂ§ÃƒÂµes: Construir um plano de aula contendo o conteÃƒÂºdo programÃƒÂ¡tico
+    [KEYWORD]. Deve conter as expectativas de aprendizagem que sÃƒÂ£o da bncc para o
+    ensino mÃƒÂ©dio, onde as expectativas devem ser precedidas das siglas (para essa
+    parte utilize o que estÃƒÂ¡ no documento do link: "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf");
+    a estratÃƒÂ©gia de ensino (utilize como exemplo o seguinte: Aula com exposiÃƒÂ§ÃƒÂ£o
+    do conteÃƒÂºdo com auxÃƒÂ­lio de data show. ApresentaÃƒÂ§ÃƒÂ£o de situaÃƒÂ§ÃƒÂµes problemas
+    para resoluÃƒÂ§ÃƒÂ£o e consolidaÃƒÂ§ÃƒÂ£o dos conhecimentos.); o material utilizado (sala
+    de aula, data show, formulÃƒÂ¡rios, impressÃƒÂµes, google colab, chromebooks,). Crie
+    uma situaÃƒÂ§ÃƒÂ£o problema sobre [KEYWORD], para avaliar os conhecimentos dos alunos
+    sobre o conteÃƒÂºdo inserido. Inserir 5 questÃƒÂµes do ENEM ou estilo ENEM, sobre
+    o [KEYWORD] com as respostas. O formato da resposta serÃƒÂ¡ assim: TÃƒÂ­tulo: Plano
+    de aula semanal para Ensino MÃƒÂ©dio Data: [insira a data atual do sistema ] atÃƒÂ©
+    [data inicial do sistema mais 7 dias] ConteÃƒÂºdo programÃƒÂ¡tico: [KEYWORD] Expectativa
+    de Aprendizagem EstratÃƒÂ©gia de Ensino Material Utilizado Toda a saÃƒÂ­da deve estar
+    em [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - keyword
+  - prompt
+  - targetlanguage

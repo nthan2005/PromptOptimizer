@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2648
+# teaser: Get profitable Google Adsense micro niche blog ideas.
+- id: 2648-profitable-google-adsense-blog-ideas
+  title: Profitable Google Adsense Blog Ideas
+  tags:
+    - ideation
+    - profitable
+    - google
+    - adsense
+    - blog
+    - ideas
+  family: ideation
+  body:
+    I want you to act as a market research expert that speaks and writes fluent
+    [TARGETLANGUAGE]. Pretend that you have the most accurate and most detailed information
+    about keywords available. Give me 15 most profitable Google Adsense micro niche
+    blog ideas that have high Cost per click in 2023. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

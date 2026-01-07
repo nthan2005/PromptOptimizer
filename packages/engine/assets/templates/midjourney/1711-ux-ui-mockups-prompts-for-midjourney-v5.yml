@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1711
+# teaser: Write a basic short concept of your website or specific page, let ChatGPT do its magic, and
+# generate 6 amazing prompts for Midjourney.
+- id: 1711-ux-ui-mockups-prompts-for-midjourney-v5
+  title: UX\UI mockups prompts for Midjourney V5
+  tags:
+    - midjourney
+    - mockups
+    - prompts
+  family: Midjourney
+  body:
+    You will generate a description for a website mockup image exactly as instructed
+    by me. - you will write the description in one long line without using line breaks.
+    The concept of the website will be [PROMPT] start first with a headline - "Prompt
+    [number]:", then in a new line start the description with the phrase "/imagine
+  enabled: true
+  required:
+    - prompt

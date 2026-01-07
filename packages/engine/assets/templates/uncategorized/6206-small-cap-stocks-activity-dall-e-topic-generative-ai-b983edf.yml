@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6206
+# teaser: Stock portfolio of small cap RevisionTime: 2024-07-26T23:21:59.421Z
+- id: 6206-small-cap-stocks-activity-dall-e-topic-generative-ai-b983edf
+  title: "Small cap stocks Activity: Dall-E Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - small
+    - cap
+    - stocks
+    - activity
+    - dall
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Small cap stocks"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]Create a portfolio of small cap stocks
+    copying style and philosophy of Warren Buffett''s strategy'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7282
+# teaser: Create a lesson plan and a strategy for teaching this and topic and grade level.
+# RevisionTime: 2023-08-30T03:51:14.424Z
+- id: 7282-lesson-plan-activity-plan-topic-productivity-b5a49cdd0796137
+  title: 'Lesson Plan Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - lesson
+  - plan
+  - activity
+  - topic
+  - productivity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1787103541173944320/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Lesson Plan"](https://www.aiprm.com/prompts/productivity/plan/1787103541173944320/)_"
+    --- Topic: [PROMPT] For the topic above, create a lesson plan. Prioritize the
+    Grade level and age of the child, the time it will take per topic, Objectives,
+    Materials, Introduction, Instruction, Practice Exercises, and Assessment in the
+    form of a quiz, Extensions beyond the class, and Interactive Fun Activities.[TARGETLANGUAGE]
+    Add appropriate video links'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

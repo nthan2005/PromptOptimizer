@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 252
+# teaser: Convert AI Written Content Into Human
+- id: 252-convert-ai-written-content-into-human
+  title: Convert AI Written Content Into Human
+  tags:
+    - improve
+    - convert
+    - written
+    - content
+    - human
+  family: Improve
+  body:
+    Convert AI Written Content Into Human. Content shall be in [TARGETLANGUAGE]
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

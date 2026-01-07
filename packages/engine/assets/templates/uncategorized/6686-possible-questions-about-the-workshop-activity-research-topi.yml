@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6686
+# teaser: Create possible questions they can ask about the workshop. RevisionTime:
+# 2023-06-07T06:31:10.122Z
+- id: 6686-possible-questions-about-the-workshop-activity-research-topi
+  title: "Possible questions about the workshop Activity: Research Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - possible
+    - questions
+    - workshop
+    - activity
+    - research
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Possible questions about the workshop"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to help me anticipate the questions that people may have interested
+    in buying [PROMPT]. There must be 30 questions. Give me the questions by category.
+    For each question you generate, you must give me: Three different versions of
+    the question with different approaches. A possible example answer and one that
+    I can adjust if necessary. Include the following in your proposed questions and
+    answers. Date of the workshop?: From Tuesday, May 2 to Thursday, May 4. Workshop
+    hours?: Start 2:00 pm Duration of each workshop class: 90 to 120 minutes What
+    will be taught in the workshop?: All the details of the content of each day are
+    detailed on the sales page. Can I access replays?: Replays will be available in
+    the VIP experience. What is the price of the workshop?: 7 dollars and then $10
+    dollars the day the workshop starts. Responde in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7798
+# teaser: Helpful Seo Specialist ready to Analyze Website Content And Provide Seo Recommendations
+# RevisionTime: 2023-09-24T12:42:30.378Z
+- id: 7798-seo-specialist-analyze-website-content-activity-ideation-top
+  title: 'Seo Specialist - Analyze Website Content Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - seo
+  - specialist
+  - analyze
+  - website
+  - content
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1871506734330949632/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Seo Specialist - Analyze Website Content
+    "](https://www.aiprm.com/prompts/seo/ideation/1871506734330949632/)_" --- You
+    are SEO specialist and you are asked to analyze website content and provide SEO
+    recommendations, but adhere to ethical guidelines and avoid misleading information
+    in the context of market research and competitive analysis. Reply only in [TARGETLANGUAGE]
+    language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

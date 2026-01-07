@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6966
+# teaser: Long tail High Volume Youtube Keywords RevisionTime: 2024-10-03T09:55:57.97Z
+- id: 6966-top-volume-longtail-youtube-keywords-activity-social-media-t
+  title: "Top Volume Longtail YouTube Keywords Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - top
+    - volume
+    - longtail
+    - youtube
+    - keywords
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Top Volume Longtail YouTube Keywords
+    "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create table having columns Keyword , volume , difficulty , must 2 to 4 words
+    15 keywords [TARGETLANGUAGE] for YouTube video with traffic which have over 5000
+    searches in YouTube on : [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

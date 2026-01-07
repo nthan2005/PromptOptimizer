@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 500
+# teaser: I will provide all most popular types of content about any topic. Just enter a topic and see
+# magic. Upvote if you like so I can provide more Free Tools.
+- id: 500-find-all-types-of-most-popular-content
+  title: Find All Types of Most Popular Content
+  tags:
+    - outreach
+    - find
+    - all
+    - types
+    - most
+    - popular
+  family: Outreach
+  body:
+    My question is What are the all most popular types of content in [PROMPT]
+    Please Do not echo my prompt. Do not remind me what I asked you for. Do not apologize.
+    Do not self-reference. Just take the best action you can. All output must be in
+    the [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

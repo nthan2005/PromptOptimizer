@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3501
+# teaser: Identify any potential edge cases or scenarios that may cause the code to fail or produce
+# unexpected results, and suggest solutions or improvements to address these issues [KEYWORD]
+- id: 3501-identify-any-potential-edge-cases
+  title: Identify any potential edge cases
+  tags:
+    - backend-development
+    - identify
+    - any
+    - potential
+    - edge
+    - cases
+  family: Backend Development
+  body:
+    "[PROMPT]Identify any potential edge cases or scenarios that may cause the
+    code to fail or produce unexpected results, and suggest solutions or improvements
+    to address these issues. [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

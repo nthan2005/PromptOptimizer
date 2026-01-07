@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5875
+# teaser: SEO Optimized Content | Human Written | Plagiarism Free RevisionTime: 2023-02-20T14:14:04Z
+- id: 5875-seo-optimised-article-with-latest-yoast-updates-activity-wri
+  title:
+    "SEO Optimised Article with Latest Yoast Updates. Activity: writing Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - seo
+    - optimised
+    - article
+    - latest
+    - yoast
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SEO Optimised Article with Latest Yoast
+    Updates."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- write 100% unique, creative and Human-written article in [TARGETLANGUAGE]
+    for the Keyword "[PROMPT]". The article should include Creative Title (should
+    be in H1 Heading), SEO meta description, Introduction, headings (Shoud be h2 heading),
+    sub headings (h3, h4,h5,h6 headings), bullet points or Numbered list (if needed),
+    faqs and conclusion. Make sure article is plagiarism free. minimum 700 words.
+    use question mark (?) at the end of questions. Try not to change the original
+    write content righting tips while writing the Title. Try to use "[PROMPT]" 2-3
+    times in article. try to include [PROMPT] in headings as well. write a content
+    which can easily pass ai detection tools test. Please write in sarcastic tone,
+    creative writing style.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

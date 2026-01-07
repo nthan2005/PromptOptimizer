@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1886
+# teaser: For review mining- Copy paste reviews [PROMPT]
+- id: 1886-review-mining
+  title: Review mining
+  tags:
+    - marketing
+    - review
+    - mining
+  family: marketing
+  body:
+    You have to do review mining I will give you reviews Create 10 columns number
+    Review Pain points Features Benefits Results Anxiety Use cases Persona Now read
+    every review and write the points associated with each in the column ALL output
+    should be in [TARGETLANGUAGE] reviews are [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

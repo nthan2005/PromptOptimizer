@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8516
+# teaser: Write high SEO Articel to get rank high in google search. RevisionTime:
+# 2023-05-31T19:33:22.748Z
+- id: 8516-high-seo-article-rewriter-activity-writing-topic-seo-84c5d6a
+  title: "High SEO Article Rewriter Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - high
+    - seo
+    - article
+    - rewriter
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "High SEO Article Rewriter"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- rewrite this article in your own words dont copy content from given article,
+    make a very high SEO Optimized article 100% human writing style must rank high
+    on google search, use H1 H2 H3 H4 etc in the article ane make article unique,
+    provide high SEO title in start, then high SEO meta description, then focus keyword
+    of the article, then write the article, also use high search volume keywords,
+    this is the article [PROMPT][TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

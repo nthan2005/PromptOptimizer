@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7918
+# teaser: Have a keyword list related to your main subject, including search volume, search intent,
+# sales funnel, and ranking difficulty. Plus words average and outline. RevisionTime:
+# 2023-03-23T05:27:11.365Z
+- id: 7918-keyword-research-easily-activity-keywords-topic-seo-84c5d6a7
+  title: 'Keyword Research Easily Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - keyword
+  - research
+  - easily
+  - activity
+  - keywords
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1794215162698526720/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Keyword Research Easily"](https://www.aiprm.com/prompts/seo/keywords/1794215162698526720/)_"
+    --- Crie uma lista de 20 palavras-chave com Volume de Busca (em ordem decrescente),
+    IntenÃ§Ã£o de Busca (Informacional, Comercial, Transacional ou Navegacional),
+    EstÃ¡gio de Funil (Topo de Funil, Meio de Funil ou Fundo de Funil) e Dificuldade
+    de Posicionamento. Responda tudo em [TARGETLANGUAGE]. Cite a fonte de onde retirou
+    o volume de busca. FaÃ§a na sequÃªncia uma lista de palavras relacionadas ao campo
+    semÃ¢ntico do assunto principal, excluindo a palavra-chave exata. FaÃ§a isso em
+    formato de lista, com um termo abaixo do outro. Responda tudo em [TARGETLANGUAGE].
+    Sugira uma mÃ©dia de palavras necessÃ¡rias para criar o texto do assunto principal
+    baseado nos primeiros 10 resultados orgÃ¢nicos do Google. Responda tudo em [TARGETLANGUAGE].
+    Finalize com uma sugetÃ£o de meta title e meta description, sendo a meta title
+    com no mÃ¡ximo 59 caracteres e a meta Description com no mÃ¡ximo 160 caracteres.
+    Inclua a palavra-chave principal Ã esqueda tanto na meta Title como na meta Description.
+    Responda tudo em [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7920
+# teaser: Search the keywords for my website content RevisionTime: 2023-02-19T15:35:19Z
+- id: 7920-keyword-research-for-my-content-activity-keywords-topic-seo
+  title: "Keyword research for my content Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - keyword
+    - research
+    - content
+    - activity
+    - keywords
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Keyword research for my content"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to Research Keywords for my website article I give you 1 to 300
+    keywords. All keywords shall be in [TARGETLANGUAGE]. The keyword Research in this:
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

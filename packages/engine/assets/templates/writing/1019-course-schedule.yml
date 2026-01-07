@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1019
+# teaser: Create a complete schedule for your course with modules and lectures. (Biffi)
+- id: 1019-course-schedule
+  title: Course Schedule
+  tags:
+    - writing
+    - course
+    - schedule
+  family: writing
+  body:
+    Eu sou um criador de curso online. Estou criando um curso de [COURSE]. Eu
+    quero que vocÃƒÆ’Ã‚Âª escreva um ÃƒÆ’Ã‚Â­ndice com mÃƒÆ’Ã‚Â³dulos para a criaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o desse curso.
+    Depois escreva um resumo de cada um desses mÃƒÆ’Ã‚Â³dulos. Me informe o pÃƒÆ’Ã‚Âºblico alvo
+    desse curso. [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - course
+    - prompt
+    - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4974
+# teaser: Change the script to the natural way Americans speak in real life RevisionTime:
+# 2023-02-24T18:53:59Z
+- id: 4974-natural-script-in-english-activity-script-writing-topic-copy
+  title: 'Natural Script in English Activity: Script Writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - natural
+  - script
+  - english
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1794701396495556608/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Natural Script in English"](https://www.aiprm.com/prompts/copywriting/script-writing/1794701396495556608/)_"
+    --- Your task is to change the following script to the natural way Americans speak
+    in real life. Just show me the result script. All output shall be in [TARGETLANGUAGE].
+    The script to change is this : [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

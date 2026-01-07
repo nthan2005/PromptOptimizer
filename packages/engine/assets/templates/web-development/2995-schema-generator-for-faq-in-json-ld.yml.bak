@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2995
+# teaser: Write your questions with answers and get a simple markup code in json format
+- id: 2995-schema-generator-for-faq-in-json-ld
+  title: Schema generator for FAQ in json-ld
+  tags:
+  - web-development
+  - schema
+  - generator
+  - faq
+  - json
+  family: Web Development
+  body: 'I want you to act as a web developer experienced in writing schema markup
+    in json-ld format according to schema.org documentation. You need to give the
+    code schema FAQPage in type="application/ld+json", for next questions and answers:
+    [PROMPT] output the text of questions and answers provided by the user in the
+    markup code to [TARGETLANGUAGE] At the bottom write Support: https://www.buymeacoffee.com/andrewshe'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

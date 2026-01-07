@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7908
+# teaser: Create a list of keywords related to your prompt. Generates a bullet list, as well as a
+# comma separated list beneath that you can copy and paste. RevisionTime: 2023-02-19T15:35:19Z
+- id: 7908-keyword-generator-activity-keywords-topic-seo-84c5d6a7b8e9f0
+  title: "Keyword Generator Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - keyword
+    - generator
+    - activity
+    - keywords
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Keyword Generator "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Generate a list of 25 keywords closely related to [PROMPT] without duplicating
+    any words. please list keywords in bullet form and then add a comma separated
+    list underneath.'
+  enabled: true
+  required:
+    - prompt

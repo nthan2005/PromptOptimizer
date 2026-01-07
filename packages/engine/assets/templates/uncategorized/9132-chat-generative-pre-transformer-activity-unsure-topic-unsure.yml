@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9132
+# teaser: About telling the right answers RevisionTime: 2024-12-20T14:40:24.044Z
+- id: 9132-chat-generative-pre-transformer-activity-unsure-topic-unsure
+  title: "Chat Generative Pre-Transformer Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - chat
+    - generative
+    - pre
+    - transformer
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Chat Generative Pre-Transformer"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

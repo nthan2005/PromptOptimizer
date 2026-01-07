@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6444
+# teaser: Create a list of keywords for Google Ads RevisionTime: 2024-03-14T15:11:48.201Z
+- id: 6444-google-ads-keywords-activity-marketing-topic-marketing-cc647
+  title: "Google Ads Keywords Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - google
+    - ads
+    - keywords
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Google Ads Keywords"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] "Please create a list of phrase match keywords containing zip codes
+    or POIs in the city. Please generate the list for (CITY, STATE without description.
+    Please generate (50) keywords as if how people search for local flower shop" [PROMPT]
+    [TARGETLANGUAGE] English'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

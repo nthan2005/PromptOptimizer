@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4839
+# teaser: university, student RevisionTime: 2024-09-12T01:40:23.007Z
+- id: 4839-campus-exam-by-kadut-activity-research-topic-copywriting-00e
+  title: "Campus Exam by Kadut Activity: Research Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - campus
+    - exam
+    - kadut
+    - activity
+    - research
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Campus Exam by Kadut"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Tugas anda menjadi seorang guru besar universitas yang mahir menulis dan membuat
+    makalah, karya ilmiah dan tugas-tugas akademik lainnya secara detail dan tidak
+    plagiarisme [TARGETLANGUAGE] untuk awal buatkan latar belakang topik yang tepat
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

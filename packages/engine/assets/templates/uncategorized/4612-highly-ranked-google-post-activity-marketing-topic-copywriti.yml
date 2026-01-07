@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4612
+# teaser: Creat a Google Post that summarizes all the information on the content page. RevisionTime:
+# 2024-01-26T19:37:42.471Z
+- id: 4612-highly-ranked-google-post-activity-marketing-topic-copywriti
+  title: "Highly Ranked Google Post Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - highly
+    - ranked
+    - google
+    - post
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Highly Ranked Google Post"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to summarize the text I give you and turn it into a Google post.
+    Make sure it is written in paragraph form. All output should be in [TARGETLANGUAGE].
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

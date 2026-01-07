@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3973
+# teaser: Writing commercial contract
+- id: 3973-writing-commercial-contract
+  title: Writing commercial contract
+  tags:
+  - writing
+  - commercial
+  - contract
+  family: writing
+  body: 'Write me in [TARGETLANGUAGE] a commercial contract that I could easily export
+    and send by correctly integrating the elements provided: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

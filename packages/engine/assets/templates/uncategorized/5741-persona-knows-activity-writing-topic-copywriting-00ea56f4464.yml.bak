@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5741
+# teaser: ex. Act as a top podcaster. I am going to tell you what makes people want to listen to my
+# content. Create analysis of why people choose this top podcaster and write an assessment for me.
+# RevisionTime: 2024-08-21T11:32:55.675Z
+- id: 5741-persona-knows-activity-writing-topic-copywriting-00ea56f4464
+  title: 'Persona Knows Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - persona
+  - knows
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1990545937616916480/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Persona Knows"](https://www.aiprm.com/prompts/copywriting/writing/1990545937616916480/)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT] Persona (as a type of person, animal,
+    (animism -plants, other objects) or expert in a specified field)'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

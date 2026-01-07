@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 458
+# teaser: Easily Create Professional Job Vacancy Description
+- id: 458-professional-job-vacancy-decriptions
+  title: Professional Job Vacancy Decriptions
+  tags:
+    - marketing
+    - professional
+    - job
+    - vacancy
+    - decriptions
+  family: marketing
+  body:
+    '[PROMPT] Write a professional job vacancy for the position of [Job Title],
+    in english [TARGETLANGUAGE], with the appropriate job description, for [Company
+    Name], [Location] also add the condition [Terms] and [Specific Terms], also amount
+    range of [SALARY], this job vacancy is [Job Type], and CV sent via email to [Email].
+    and at the end of the article write this"Please support us by visiting us on -
+    https://coinbazooka.com"'
+  enabled: true
+  required:
+    - prompt
+    - salary
+    - targetlanguage

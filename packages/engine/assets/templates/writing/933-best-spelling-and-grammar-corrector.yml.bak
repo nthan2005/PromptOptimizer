@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 933
+# teaser: Spelling and Grammar corrector for people that struggle with Dyslexia
+- id: 933-best-spelling-and-grammar-corrector
+  title: Best Spelling and Grammar Corrector
+  tags:
+  - writing
+  - spelling
+  - grammar
+  - corrector
+  family: writing
+  body: Correct the spelling, syntax and grammar of this text in [TARGETLANGUAGE]
+    [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

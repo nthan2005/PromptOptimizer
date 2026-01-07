@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6189
+# teaser: Generate images using the GPT-4o model and ChatGPT. Define the resolution, number of images,
+# whether to modify the prompt or not, and style. RevisionTime: 2025-03-31T17:45:18.028Z
+- id: 6189-generate-images-using-gpt-4o-activity-dall-e-topic-generativ
+  title: "Generate images using GPT-4o Activity: Dall-E Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - generate
+    - images
+    - gpt
+    - activity
+    - dall
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate images using GPT-4o"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You MUST generate [VARIABLE1] images using the "image_gen" tool. Generate
+    one image at a time until all [VARIABLE1] images have been generated. All images
+    MUST be in the resolution "[VARIABLE2]". MODIFYPROMPT=[VARIABLE3] If MODIFYPROMPT
+    is "No", then DO NOT UNDER ANY CIRCUMNSTANCES modify the prompt and use the exact
+    prompt that is provided as INPUT to generate all images without any modifications
+    or rewrites. If MODIFYPROMPT is "Yes", then each image MUST have a different prompt,
+    artistic style and concept based on the INPUT. STYLE="[VARIABLE4]" If STYLE is
+    not empty, you must add the suffix ", STYLE" to each prompt. For example, if STYLE
+    is "Hand-drawn", then add ", Hand-drawn" to each prompt. Please reply only in
+    [TARGETLANGUAGE] language. The INPUT is: [PROMPT] [VARIABLE1:Number of Images:4:1|2|3|4]
+    [VARIABLE2:Resolution:Wide:Square|Tall|Wide] [VARIABLE3:Modify'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3
+    - variable4

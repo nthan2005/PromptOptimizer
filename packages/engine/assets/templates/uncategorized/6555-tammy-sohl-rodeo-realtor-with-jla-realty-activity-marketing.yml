@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6555
+# teaser: Real estate, Tammy Sohl-rodeo realtor is my brand, fun and entertaining, interactive
+# motivated, love to educate the client RevisionTime: 2025-03-03T18:36:44.244Z
+- id: 6555-tammy-sohl-rodeo-realtor-with-jla-realty-activity-marketing
+  title: "Tammy Sohl-Rodeo realtor with JLA Realty Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - tammy
+    - sohl
+    - rodeo
+    - realtor
+    - jla
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Tammy Sohl-Rodeo realtor with JLA Realty"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT] Montgomery, Grimes, Walker and Washington
+    and Brazos counties. looking at homes, thinking of selling your home, renting,
+    have questions about real estate or Montgomery county fair and rodeo. Marketing
+    analysis on your home'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

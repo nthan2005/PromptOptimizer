@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7354
+# teaser: Stop spending weekends planning lessons. Generate perfect activities in seconds and reclaim
+# your personal time RevisionTime: 2025-07-15T00:19:06.125Z
+- id: 7354-specialist-teacher-in-bncc-activity-plan-topic-productivity
+  title: 'Specialist Teacher in BNCC Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - specialist
+  - teacher
+  - bncc
+  - activity
+  - plan
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/2110478314052911104/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Specialist Teacher in BNCC"](https://www.aiprm.com/prompts/productivity/plan/2110478314052911104/)_"
+    --- [TARGETLANGUAGE] Agora tu vai ser um profissional da educaÃ§Ã£o especializado
+    na aplicaÃ§Ã£o da BNCC. EntÃ£o tu irÃ¡ realizar a seguinte atividade: - Crie uma
+    atividade de fixaÃ§Ã£o sobre o tema "{conjuntos}" para alunos do {9Â°}, na disciplina
+    de {matematica}. A atividade deve conter entre 3 a 5 questÃµes, em nÃ­veis progressivos
+    de dificuldade, com linguagem acessÃ­vel para a faixa etÃ¡ria. Inclua o gabarito
+    ao final e indique, se possÃ­vel, a habilidade da BNCC correspondente. [PROMPT]'
+  enabled: true
+  required:
+  - conjuntos
+  - matematica
+  - prompt
+  - targetlanguage

@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1648
+# teaser: Write a short concept for your mobile app and let ChatGPT do its magic and generate 4
+# amazing prompts for Midjourney
+- id: 1648-4-ux-ui-mobile-app-mockups-for-midjourney
+  title: 4 UX\UI mobile app mockups for Midjourney
+  tags:
+    - midjourney
+    - mobile
+    - app
+    - mockups
+  family: Midjourney
+  body:
+    'you will now act as a prompt generator for a generative AI I will provide
+    a concept for a Mobile app and you will provide the prompt for the generative
+    AI. Write each prompt in one line without creating new lines, using the following
+    structure: [1] [2], [3], [4], [5], [6], [7], [8], [9], [10] (no comma) [11] (no
+    comma) [12] You will not alter the structure in any way including the commas.
+    [1] = "/imagine'
+  enabled: true
+  required: []

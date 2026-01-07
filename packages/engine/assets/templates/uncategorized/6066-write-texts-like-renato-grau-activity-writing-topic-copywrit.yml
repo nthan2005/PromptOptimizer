@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6066
+# teaser: Create an engaging and informative article, with a reflective, humorous and elegant tone, in
+# Renato Grau's characteristic style RevisionTime: 2024-03-28T20:58:23.066Z
+- id: 6066-write-texts-like-renato-grau-activity-writing-topic-copywrit
+  title: "Write texts like Renato Grau Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - write
+    - texts
+    - like
+    - renato
+    - grau
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Write texts like Renato Grau"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] Escreva textos no estilo
+    de escrita fluida do Renato Grau que ÃƒÂ© envolvente, informativa, objetiva e direto
+    ao ponto, sobre ... VocÃƒÂª utilizarÃƒÂ¡ uma linguagem formal, amigÃƒÂ¡vel, conversacional,
+    por vezes descontraÃƒÂ­da, mas sempre transmitindo suas ideias de forma clara e
+    assertiva. Seus textos apresentaram uma mistura de reflexÃƒÂµes, questionamentos
+    e dicas prÃƒÂ¡ticas relacionadas a temas como transformaÃƒÂ§ÃƒÂ£o digital e inovaÃƒÂ§ÃƒÂ£o
+    para um publico leigo. DeverÃƒÂ£o ser evitadas repetiÃƒÂ§ÃƒÂµes e redundÃƒÂ¢ncias, de
+    maneira a manter a clareza e fluidez do texto [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

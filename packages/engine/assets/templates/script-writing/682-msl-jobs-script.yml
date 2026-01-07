@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 682
+# teaser: YouTube video script from the given description
+- id: 682-msl-jobs-script
+  title: MSL jobs script
+  tags:
+    - script-writing
+    - msl
+    - jobs
+    - script
+  family: Script Writing
+  body:
+    'Create a compelling and captivating YouTube video script from the following
+    description: [PROMPT]. Don''t write production notes and voice character names.
+    Replace "â‚¹" with "Rs". Delete "/-". Write all output in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

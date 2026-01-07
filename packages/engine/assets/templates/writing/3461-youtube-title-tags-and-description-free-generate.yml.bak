@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3461
+# teaser: Write Five Titles Or Write Description And Tags Also About The Given Keyword
+- id: 3461-youtube-title-tags-and-description-free-generate
+  title: YouTube Title Tags and Description Free Generate
+  tags:
+  - writing
+  - youtube
+  - title
+  - tags
+  - description
+  - free
+  family: writing
+  body: 'Your task is to summarize the text I give you in 500 words or maximum 10000
+    characters. All outputs shall be in [TARGETLANGUAGE]. The text to summarize is
+    this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

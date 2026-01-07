@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6004
+# teaser: Create an outline for a book chapter based on a transcript of a video. RevisionTime:
+# 2023-10-17T21:06:39.011Z
+- id: 6004-video-transcript-to-book-chapter-outline-activity-writing-to
+  title: 'Video Transcript to Book Chapter Outline Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - video
+  - transcript
+  - book
+  - chapter
+  - outline
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1879968527201390592/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Video Transcript to Book Chapter Outline"](https://www.aiprm.com/prompts/copywriting/writing/1879968527201390592/)_"
+    --- This is a transcript of a video about [VARIABLE1]. Please transform this transcript
+    into a detailed outline for a chapter in a nonfiction book about [VARIABLE2] in
+    [TARGETLANGUAGE]. Here is the transcript: [PROMPT] [VARIABLE1: What the individual
+    video is about] [VARIABLE2: What your course/book is about]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - variable1
+  - variable2

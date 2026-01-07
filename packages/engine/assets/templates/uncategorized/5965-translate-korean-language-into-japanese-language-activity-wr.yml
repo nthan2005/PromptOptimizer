@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5965
+# teaser: Translate Korean into Japanese RevisionTime: 2023-03-31T01:49:37.481Z
+- id: 5965-translate-korean-language-into-japanese-language-activity-wr
+  title:
+    "Translate Korean language into Japanese language Activity: writing Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - translate
+    - korean
+    - language
+    - japanese
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Translate Korean language into Japanese
+    language"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Translate Korean into Japanese. act as a writer that speaks and writes fluent
+    [TARGETLANGUAGE] japanese. If there is English word in the sentence, convert to
+    Japanese katakana. always, output in japanese. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

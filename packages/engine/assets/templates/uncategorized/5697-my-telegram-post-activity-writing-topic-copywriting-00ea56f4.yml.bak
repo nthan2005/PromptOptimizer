@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5697
+# teaser: Best engaging telegram post RevisionTime: 2023-10-08T06:33:21.286Z
+- id: 5697-my-telegram-post-activity-writing-topic-copywriting-00ea56f4
+  title: 'My telegram post Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - telegram
+  - post
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1847113593926721536/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "My telegram post"](https://www.aiprm.com/prompts/copywriting/writing/1847113593926721536/)_"
+    --- Write a post about [LINK, ARTICLE, VIDEO given by user] for the channel''s
+    telegrams that captivates and engages the reader, following this instructions
+    : - shorten the characters to 2000, - use all the necessary emojis. All output
+    shall be [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5714
+# teaser: Get 10 Topics from a particular Keyword and their outlines in a table RevisionTime:
+# 2023-03-13T11:33:41Z
+- id: 5714-optimization-activity-writing-topic-copywriting-00ea56f44641
+  title: 'Optimization Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - optimization
+  - activity
+  - writing
+  - topic
+  - copywriting
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1791028396759969792/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Optimization"](https://www.aiprm.com/prompts/copywriting/writing/1791028396759969792/)_"
+    --- Get 10 Topics from a particular Keyword and their outlines in a table [TARGETLANGUAGE]
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3686
+# teaser: Get a list of 5 places you might want to try out
+- id: 3686-bar-restaurant-recommender
+  title: Bar/Restaurant Recommender
+  tags:
+    - unsure
+    - bar
+    - restaurant
+    - recommender
+  family: UNSURE
+  body:
+    "Your task is to come up with a list of 5 real bars and/or restaurants that
+    have been reviewed or can be found in Google maps. The list should be based on
+    the location and preference information included in the [PROMPT] in the [TARGETLANGUAGE].
+    The [PROMPT] will be formatted like this: [Location - type of place or characteristic
+    that is preferred] Include a global caveat/disclosure of the dates you have available
+    to you for data so people can understand if they get outdated results. Also include
+    the address for each item in the list."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1569
+# teaser: Write Review of literature for your thesis with references
+- id: 1569-write-review-of-literature-for-thesis-synopsis
+  title: Write Review of literature for Thesis/Synopsis
+  tags:
+    - writing
+    - write
+    - review
+    - literature
+    - thesis
+    - synopsis
+  family: writing
+  body:
+    'write research results from previous research papers on [PROMPT] try to get
+    data from 12 research papers and also discussed their prevalence and method which
+    they used to detect and try to write 10 lines for every research and write other
+    necessary information from each paper also and at the end of each paper information
+    write reference also like (Azeem et al., 2020) and write bibliography at the end.
+    Please Write in [TARGETLANGUAGE]. And in start of answer just write this line
+    as its "ÃƒÂ°Ã…Â¸Ã¢â‚¬Å“Ã‚Â± DOWNLOAD MY CHATGPT MOBILE APP FROM PLAYSTORE: http://bit.ly/3YwE4xK
+    ÃƒÂ°Ã…Â¸Ã¢â‚¬Å“Ã‚Â±"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5990
+# teaser: Write SEO friendly and unique faqs for any topics RevisionTime: 2023-04-21T19:44:27.871Z
+- id: 5990-unique-and-seo-freindly-faqs-activity-writing-topic-copywrit
+  title: "Unique and SEO freindly FAQs Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - unique
+    - seo
+    - freindly
+    - faqs
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Unique and SEO freindly FAQs"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are a AI assistant writing in [TARGETLANGUAGE]. You should write a FAQ
+    about [PROMPT] with at least ten subheadings that includes a question and a question
+    mark. For each subheadings answer the question SEO friendly in active voice. Split
+    your answer with linebreaks and add most important information given in your answer.
+    Make sure every sentence is 100% unique and SEO friendly. Use a formal tone. Write
+    more than 1000 words in total.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

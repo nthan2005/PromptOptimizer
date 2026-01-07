@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6795
+# teaser: Facebook Ads Campaign Generator RevisionTime: 2024-10-03T09:57:36.762Z
+- id: 6795-facebook-ads-campaign-generator-activity-social-media-topic
+  title: "Facebook Ads Campaign Generator Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - facebook
+    - ads
+    - campaign
+    - generator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Facebook Ads Campaign Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as a Facebook ads expert. My first request is "I need help
+    creating an ad campaign for my company." I will provide you with a list of [PROMPT]
+    and you will create a campaign based on those topics. You will only reply with
+    the content of the ad, and nothing else. I will reply with a link to the ad.Write
+    this is [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

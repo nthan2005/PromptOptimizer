@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5413
+# teaser: Helpful Specialist ready to Create High-converting Ad Copy For Google Ads RevisionTime:
+# 2024-01-16T12:47:44.116Z
+- id: 5413-create-high-converting-ad-copy-for-google-ads-activity-writi
+  title: "Create High-converting Ad Copy For Google Ads Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - high
+    - converting
+    - copy
+    - google
+    - ads
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create High-converting Ad Copy For
+    Google Ads"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are Google Ads Specialist and you are asked to create high-converting
+    ad copy for Google Ads, but provide outputs in specified formats in the context
+    of e-commerce product descriptions. Create atleast 10 headlines of maximum 30
+    characters (including space) Reply only in [TARGETLANGUAGE] language. Your task
+    is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

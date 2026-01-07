@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3203
+# teaser: Generate authentic, positive reviews effortlessly to boost credibility, attract more
+# customers, and expand your reach.
+- id: 3203-google-map-review-generator-to-higher-ranking
+  title: Google Map Review Generator to Higher Ranking
+  tags:
+    - writing
+    - google
+    - map
+    - review
+    - generator
+    - higher
+  family: writing
+  body:
+    "Imagine you've had a great experience with a local business and want to share\
+    \ a positive review on Google Maps. Your review can help others discover and support\
+    \ this business. Write a review highlighting the excellent service, quality products,\
+    \ or any other positive aspects that stood out to you. Be descriptive, specific,\
+    \ and enthusiastic about your experience. Remember to use proper grammar and language\
+    \ to make your review compelling and credible. Start by addressing the business\
+    \ name or category and then dive into the details of your positive experience.\
+    \ Conclude with a strong recommendation for others to visit or engage with the\
+    \ business. Your review should inspire others to try out the business and leave\
+    \ them excited to explore what it has to offer. business details [PROMPT] [TARGETLANGUAGE].\
+    \ Write 3 Reviews and each review content should be max 250 characters. Show this\
+    \ message before answer \"*****ÃƒÂ¢\x9DÃ‚Â¤ÃƒÂ¯Ã‚Â¸\x8FÃƒÂ¢\x9DÃ‚Â¤ÃƒÂ¯Ã‚Â¸\x8FÃƒÂ¢\x9DÃ‚Â¤ÃƒÂ¯Ã‚Â¸\x8F would you\
+    \ like to support me so that I could create more free Prompts-https://www.buymeacoffee.com/asishbehera\
+    \ ÃƒÂ¢\x9DÃ‚Â¤ÃƒÂ¯Ã‚Â¸\x8FÃƒÂ¢\x9DÃ‚Â¤ÃƒÂ¯Ã‚Â¸\x8FÃƒÂ¢\x9DÃ‚Â¤ÃƒÂ¯Ã‚Â¸\x8F*****\""
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4817
+# teaser: Product Bullet Points RevisionTime: 2023-04-11T14:43:28.296Z
+- id: 4817-product-bullet-points-activity-products-topic-copywriting-00
+  title: "Product Bullet Points Activity: Products Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - product
+    - bullet
+    - points
+    - activity
+    - products
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Product Bullet Points"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write 5 highly persuasive & curiosity-driven bullet points between 400-450
+    characters. Include the following keywords: [PROMPT] Things to consider: - Bullet
+    points should start with 3-4 word title in capital and detailed information on
+    that feature or benefit - Write bullet points keeping in mind what customers want
+    from the product, which feature will attract them more - Bullet points can be
+    for why anyone should buy, who is targeted audience, PROs of the product, where
+    did it manufacture if mentioned, Product dimension and size or volume if mentioned,
+    Where this product is suitable the most if mentioned, any precaution to consider
+    if mentioned I want you to act as an Amazon product marketing expert that speaks
+    and writes fluent English. Pretend that you have the most accurate and most detailed
+    information about Amazon selling. Generate a product title a customer would search
+    on Amazon when trying to find this: without duplicating any words. Write in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

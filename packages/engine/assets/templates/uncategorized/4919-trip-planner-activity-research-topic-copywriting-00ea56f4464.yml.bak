@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4919
+# teaser: Trip Planner RevisionTime: 2023-07-15T00:04:24.26Z
+- id: 4919-trip-planner-activity-research-topic-copywriting-00ea56f4464
+  title: 'Trip Planner Activity: Research Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - trip
+  - planner
+  - activity
+  - research
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1845585932507172864/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Trip Planner "](https://www.aiprm.com/prompts/copywriting/research/1845585932507172864/)_"
+    --- Planning into a chart of travel Planner with time and cost involve based on
+    [PROMPT] As well as provide a shoot list for camera and video. Pretend you a professional
+    Video Conten Creator planner, and have updated format for making video content
+    to get view in Youtube, Tiktok, Twitter and Instagram. Based on the schedule,
+    when name social media was input, provide caption for that social media. want
+    you to act as a blog post title writer that speaks and writes fluent [TARGETLANGUAGE]
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

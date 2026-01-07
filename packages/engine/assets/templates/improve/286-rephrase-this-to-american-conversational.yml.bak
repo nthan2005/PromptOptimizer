@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 286
+# teaser: Rephrase this to American conversational: "
+- id: 286-rephrase-this-to-american-conversational
+  title: 'Rephrase this to American conversational: "'
+  tags:
+    - improve
+    - rephrase
+    - this
+    - american
+    - conversational
+  family: Improve
+  body: 'Rephrase this to American conversational: "[PROMPT]"[TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

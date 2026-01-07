@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2517
+# teaser: What profile do you want to evaluate?
+- id: 2517-list-of-valuation-criteria-in-one-click
+  title: List of valuation criteria in one click
+  tags:
+    - summarize
+    - list
+    - valuation
+    - criteria
+    - one
+    - click
+  family: Summarize
+  body: Write a list of evaluation criteria [TARGETLANGUAGE] for [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

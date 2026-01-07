@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1012
+# teaser: Cookbook Outlines
+- id: 1012-cookbook-outlines
+  title: Cookbook Outlines
+  tags:
+  - writing
+  - cookbook
+  - outlines
+  family: writing
+  body: based on title generate 12 or more categories each category minimum 10 recipes
+    list [PROMPT] [TARGETLANGUAGE]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

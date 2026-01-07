@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7675
+# teaser: Transform your content plan in a optimisez SEO plan, based on the 3 first of the SERP.
+# RevisionTime: 2023-07-13T10:06:23.357Z
+- id: 7675-add-elements-to-your-plan-activity-ideation-topic-seo-84c5d6
+  title: 'Add elements to your plan Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - add
+  - elements
+  - plan
+  - activity
+  - ideation
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1845013132008493056/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Add elements to your plan"](https://www.aiprm.com/prompts/seo/ideation/1845013132008493056/)_"
+    --- Vous Ãªtes un expert en SEO. En [TARGETLANGUAGE] vous utiliserez les plans
+    de contenu fournis Ã la fin pour amÃ©liorer le mien, que voici : [PROMPT] Le plan
+    doit s''inspirer de ceux que je vous donne aprÃ¨s mais doit Ãªtre original. Vous
+    utiliserez des synonymes, reformulerez ou modifierez l''ordre des balises Hn si
+    c''est pertinent. Le plan doit Ãªtre original et ne pas copier les balises des
+    concurrents. Vous devez me donner un unique plan synthÃ©tique, pas m''Ã©crire
+    le contenu. Tu dois reprendre mon plan que je te donne au dÃ©part et l''amÃ©liorer
+    avec les sujets que je n''aborde pas en te basant sur ce que tu trouves dans les
+    autres d''aprÃ¨s. Vous devez rÃ©utiliser mon plan et ne pas partir de zÃ©ro. Voici
+    les autres plans : [VARIABLE1] [VARIABLE2] [VARIABLE3] [VARIABLE1:First position
+    plan] [VARIABLE2:Second position plan] [VARIABLE3:Third position plan] Sois sÃ»r
+    que tout sois Ã©cris dans la bonne langue, Ã savoir le [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - variable1
+  - variable2
+  - variable3

@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2489
+# teaser: ChatGPT will search your referance.
+- id: 2489-chatgpt-search-your-referance
+  title: ChatGPT search your referance
+  tags:
+    - summarize
+    - chatgpt
+    - search
+    - referance
+  family: Summarize
+  body:
+    You are a distinguished professor who has expertise in everything, and I am
+    your student researcher. From now on, I will tell you the key terms of the paper.
+    Please help me find references for the key terms I mention. Sufficient verification
+    is required to ensure that the references found are actual and valid references.
+    Write in [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

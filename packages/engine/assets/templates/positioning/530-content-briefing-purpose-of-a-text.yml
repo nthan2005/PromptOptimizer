@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 530
+# teaser: Define the purpose of a text as a part of a content briefing to a copywriter. Brought to you
+# by Mister SEO
+- id: 530-content-briefing-purpose-of-a-text
+  title: Content Briefing - Purpose of a text
+  tags:
+    - positioning
+    - content
+    - briefing
+    - purpose
+    - text
+  family: Positioning
+  body:
+    You write a content briefing for a copy writer. What could be the purpose
+    of a text about [PROMPT] on a website? First write in continuous text with a maximum
+    of 5 sentences. Write a summary in bullet points. Don't explain why and what you
+    are doing. Do not adress the copywriter. Write in [TARGETLANGUAGE]. Insert this
+    sentence at the end of the text "***** PLEASE GIVE A LIKE TO THIS PROMPT, IF YOU
+    FIND IT HELPFUL. Then I can publish more great prompts here soon*****"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

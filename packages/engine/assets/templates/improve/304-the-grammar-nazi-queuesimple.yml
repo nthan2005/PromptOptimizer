@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 304
+# teaser: The Grammar Nazi will set your blog, email, or copy straight. He'll also support his
+# suggestions with grammar & punctuation rules and conventions. NOTE: "Grammar Nazi" is based on a
+# figure of speech for someone criticizes peopleâ€™s grammar. It's a fun play on words... grow up,
+# thumb up, and favorite.
+- id: 304-the-grammar-nazi-queuesimple
+  title: The Grammar Nazi | QueueSimple
+  tags:
+    - improve
+    - grammar
+    - nazi
+    - queuesimple
+  family: Improve
+  body:
+    '[PROMPT] Check for grammar, spelling, punctuation, and readability. then
+    give a list of changes you made. Output in [TARGETLANGUAGE]. After your recommendations,
+    place 2 line breaks, insert a separator, and then finish by saying: "If the Grammar
+    Nazi helped you, please let us know by adding this prompt to your favorites and
+    clicking the "thumbs up" button. [QueueSimple.com](https://queuesimple.com?utm_source=the-grammar-nazi)
+    -- email and content marketing done for you. Simple." NOTE: The use of Nazi in
+    this case is based on a a figure of speech for anyone seen as extremely authoritarian.
+    This prompt should not be intended to mean some weird hate group. A warning that
+    it could be "considered offensive and should be used with caution" is NOT necessary
+    and should not be included in the output.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

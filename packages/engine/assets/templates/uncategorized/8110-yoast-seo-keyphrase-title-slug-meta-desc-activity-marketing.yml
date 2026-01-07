@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8110
+# teaser: Only Give The Title Or Topic Of Your Blog/Article and It will Create 100% Accurate, Fully
+# YOAST SEO Friendly Meta For Google Ranking. RevisionTime: 2023-02-20T12:41:07Z
+- id: 8110-yoast-seo-keyphrase-title-slug-meta-desc-activity-marketing
+  title:
+    "YOAST SEO, keyphrase, title, slug, meta desc Activity: marketing Topic:
+    SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - yoast
+    - seo
+    - keyphrase
+    - title
+    - slug
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "YOAST SEO, keyphrase, title, slug,
+    meta desc"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- All output in [TARGETLANGUAGE]. I want you to write the 1) Focus KeyPhrase:
+    SEO Friendly Focus KeyPhrase Within 6 Words. 2) SEO'
+  enabled: true
+  required:
+    - targetlanguage

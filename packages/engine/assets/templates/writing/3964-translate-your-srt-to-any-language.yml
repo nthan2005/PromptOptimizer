@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3964
+# teaser: Translate your SRT to any language
+- id: 3964-translate-your-srt-to-any-language
+  title: Translate your SRT to any language
+  tags:
+    - writing
+    - translate
+    - srt
+    - any
+    - language
+  family: writing
+  body:
+    "I will give you a [VARIABLE1] SRT of a youtube conversation. Please help
+    me to translate the following [VARIABLE1] SRT into [TARGETLANGUAGE] SRT. Please
+    use a relaxed language to match the daily conversation of [VARIABLE1] people and
+    do not use honorifics. Please use [TARGETLANGUAGE] when exporting. The SRT to
+    be translated is as follows: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

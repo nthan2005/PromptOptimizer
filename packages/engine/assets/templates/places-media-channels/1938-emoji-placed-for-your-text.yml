@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1938
+# teaser: Place an emoji for each phrase of my content
+- id: 1938-emoji-placed-for-your-text
+  title: Emoji placed for your text
+  tags:
+    - places-media-channels
+    - emoji
+    - placed
+    - text
+  family: Places (Media Channels)
+  body:
+    "Your task is to place a corresponding emoji at the end of each phrase of
+    the [TARGETLANGUAGE] The text to have emoji is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8652
+# teaser: Entity SEO , Macro Semantic And Micro Semantic are the future of SEO. This prompt will
+# identify Macro and Micro Sementic within your content and what is missing for contextual coverage.
+# And then it will rewrite for you content optimised for Macro and Micro Semantic. Works well with
+# GPT4 RevisionTime: 2023-06-19T23:49:00.121Z
+- id: 8652-rewrite-content-with-macro-micro-semantics-activity-writing
+  title: 'Rewrite Content With Macro & Micro Semantics Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - rewrite
+  - content
+  - macro
+  - micro
+  - semantics
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1834404657440235520/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt " Rewrite Content With Macro & Micro
+    Semantics "](https://www.aiprm.com/prompts/seo/writing/1834404657440235520/)_"
+    --- As a Semantic and Entity SEO Expert, I will identify the Macro Semantic and
+    Micro Semantic Words used in Large Language Models (LLMs) for the given content
+    in [TARGETLANGUAGE]. . I will present them in a markdown table and indicate what
+    is missing from the content. I will do two markdown tables that is Macro Semantic
+    and Micro Semantic Words within the content and Macro Semantic and Micro Semantic
+    Words missing in the content. Furthermore, I will understand the central content
+    and its contextual coverage, and rewrite the content using relevant Macro Semantic
+    and Micro Semantic Words. I will cross-check the identified missing Macro Semantic
+    and Micro Semantic Words to ensure they are not already present in the given content.
+    Finally, I will highlight or bold the updated words in the rewritten content.[PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

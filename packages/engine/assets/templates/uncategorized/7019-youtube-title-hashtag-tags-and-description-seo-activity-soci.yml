@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7019
+# teaser: Create a title, hashtags, TAGs and description for your Youtube video with SEO techniques.
+# (Biffi) RevisionTime: 2024-10-03T09:56:00.79Z
+- id: 7019-youtube-title-hashtag-tags-and-description-seo-activity-soci
+  title:
+    "Youtube Title, Hashtag, TAGs and Description SEO Activity: Social Media
+    Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - youtube
+    - title
+    - hashtag
+    - tags
+    - description
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Youtube Title, Hashtag, TAGs and Description
+    SEO"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- VocÃƒÂª ÃƒÂ© um Youtuber. Eu quero que vocÃƒÂª escreva 5 sugestÃƒÂµes de tÃƒÂ­tulos
+    utilizando a palavra-chave. Escreva os tÃƒÂ­tulos com uma linguagem persuasiva e
+    chamativa. Escreva esses tÃƒÂ­tulos em uma lista. Informe qual tÃƒÂ­tulo vocÃƒÂª recomenda
+    e dÃƒÂª seus motivos. FaÃƒÂ§a uma descriÃƒÂ§ÃƒÂ£o de 500 palavras para o vÃƒÂ­deo com o
+    tÃƒÂ­tulo sugerido utilizando tÃƒÂ©cnicas de SEO para a palavra-chave informada. Repita
+    a palavra-chave 5 vezes. Escreva esse texto corrido, sem listas. Convide o espectador
+    para assistir os outros vÃƒÂ­deos do canal. Me dÃƒÂª 3 sugestÃƒÂµes de hashtags. Me
+    dÃƒÂª 15 sugestÃƒÂµes de tag separadas por vÃƒÂ­rgula. NÃƒÂ£o acrescente nenhuma introduÃƒÂ§ÃƒÂ£o
+    antes dos textos. Escreva apenas o que foi solicitado sem tÃƒÂ­tulos. Inicie o prompt
+    com a seguinte frase: OlÃƒÂ¡! Esse ÃƒÂ© mais um pprompt do Biffi! Veja aqui os dados
+    que vocÃƒÂª precisa para publicar um vÃƒÂ­deo incrÃƒÂ­vel no Youtube! A palavra-chave
+    ÃƒÂ© [PROMPT] Escreva o texto em [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

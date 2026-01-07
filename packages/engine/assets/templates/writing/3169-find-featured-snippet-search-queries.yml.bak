@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3169
+# teaser: Dicover Featured Snippet search queries for your topic or title
+- id: 3169-find-featured-snippet-search-queries
+  title: Find featured snippet search queries
+  tags:
+  - writing
+  - find
+  - featured
+  - snippet
+  - search
+  - queries
+  family: writing
+  body: 'Generate a list of search queries that appear as a featured snippet in Google''s
+    SERPs for a given any topic or title. List out only featured snippet appearing
+    search queries and provide a reason why some queries may not appear as Featured
+    Snippet as a note. All output shall be in [TARGETLANGUAGE] The text to summarize
+    is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7754
+# teaser: Make Sentences Easy to read RevisionTime: 2023-06-20T15:18:02.422Z
+- id: 7754-make-sentence-shorter-and-seo-optimized-activity-ideation-to
+  title: "Make sentence shorter and SEO Optimized Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - sentence
+    - shorter
+    - seo
+    - optimized
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Make sentence shorter and SEO Optimized"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Make this shortest sentence and easy to read but do not use repeated words
+    as you use everywhere "[PROMPT]" . This should be in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

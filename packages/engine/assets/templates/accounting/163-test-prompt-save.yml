@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 163
+# teaser: this is the teaser area
+- id: 163-test-prompt-save
+  title: test prompt save
+  tags:
+    - accounting
+    - test
+    - prompt
+    - save
+  family: Accounting
+  body: |
+    [PROMPT] Please write in clinical tone, informative writing style, [TARGETLANGUAGE]

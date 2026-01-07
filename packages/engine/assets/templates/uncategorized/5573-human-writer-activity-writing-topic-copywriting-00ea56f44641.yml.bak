@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5573
+# teaser: Make it unlikely that your text will be detected as AI generated RevisionTime:
+# 2023-03-14T21:11:38Z
+- id: 5573-human-writer-activity-writing-topic-copywriting-00ea56f44641
+  title: 'Human Writer Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - human
+  - writer
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1800483020579536896/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Human Writer "](https://www.aiprm.com/prompts/copywriting/writing/1800483020579536896/)_"
+    --- Please rewrite the following text in Language [TARGETLANGUAGE] and by adding
+    a high degree of perplexity and burstiness: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1132
+# teaser: Based on the product information given, this prompt will create a unique and very click-
+# enticing product name and description that encourage buying online. Perfect for Amazon product
+# rewriting for affiliate marketing and other E-commerce websites.
+- id: 1132-generate-click-enticing-product-name-unique-product-descript
+  title: Generate Click Enticing Product Name & Unique Product Description
+  tags:
+  - writing
+  - generate
+  - click
+  - enticing
+  - product
+  - name
+  family: writing
+  body: I want you to act as an SEO and Conversion Rate Optimisation expert that speaks
+    and writes fluently [TARGETLANGUAGE]. Pretend that you have the most accurate
+    and most detailed information about the product. Based on the product information
+    given below, create a unique and very click-enticing product name and product
+    description that encourage to buy online. [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

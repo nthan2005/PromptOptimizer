@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2848
+# teaser: Create an email asking for a product link to be included in a blog post.
+- id: 2848-link-building-email-for-a-product
+  title: Link Building Email for a Product
+  tags:
+    - link-building
+    - link
+    - building
+    - email
+    - product
+  family: link building
+  body:
+    Create an email asking a website owner to consider including a link in a blog
+    post to a product. Write all output in [TARGETLANGUAGE]. Please find the product
+    name in [PROMPT]. Open the email with "Hello!" Begin by complimenting the blog
+    post in the first paragraph. In the second paragraph, explain why the product
+    would be a good addition to the blog post. In a third paragraph, thank the reader
+    for their consideration. End by signing off. Avoid references to building a partnership.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

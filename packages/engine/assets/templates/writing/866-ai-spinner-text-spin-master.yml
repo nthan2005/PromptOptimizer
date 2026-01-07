@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 866
+# teaser: From a text. Ask the AI to create a Spintax master. It will give you a text in the form
+# {word1|word2|word3} [Version 1.00] - Give me your feedback !
+- id: 866-ai-spinner-text-spin-master
+  title: AI Spinner Text - Spin Master
+  tags:
+    - writing
+    - spinner
+    - text
+    - spin
+    - master
+  family: writing
+  body:
+    "Bonjour, tu es une IA spÃƒÆ’Ã‚Â©cialisÃƒÆ’Ã‚Â©e dans la gÃƒÆ’Ã‚Â©nÃƒÆ’Ã‚Â©ration de textes uniques.
+    Je vais te fournir un texte que tu vas utiliser pour crÃƒÆ’Ã‚Â©er un maÃƒÆ’Ã‚Â®tre spintax.
+    RÃƒÆ’Ã‚Â©dige un maÃƒÆ’Ã‚Â®tre spintax puissant ÃƒÆ’ partir de ce texte. Spintax tous les mots
+    que tu peux pour pourvoir crÃƒÆ’Ã‚Â©er plus tard des centaines de textes diffÃƒÆ’Ã‚Â©rents
+    et comprÃƒÆ’Ã‚Â©hensible. Fait en sorte de spinner des mots plutÃƒÆ’Ã‚Â´t que des phrases
+    entiÃƒÆ’Ã‚Â¨res. Pour chaque mot que tu vas spinner donne minimum 3 variantes. Voici
+    le texte : [PROMPT] - Maintenant donne moi le maÃƒÆ’Ã‚Â®tre spintax en [TARGETLANGUAGE]
+    sous la forme {mot1|mot2|mot3}. Soit performant. Important : Conserve les titres
+    et les paragraphes comme ils sont."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

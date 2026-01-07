@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2280
+# teaser: Easily generate random addresses with our Prompt. Whether you're testing software, filling
+# out forms, or just need some dummy data, our Random Address Generator has got you covered.
+- id: 2280-random-address-generator
+  title: Random Address Generator
+  tags:
+    - plan
+    - random
+    - address
+    - generator
+  family: Plan
+  body:
+    'I want you to act as a random address generator. I will provide you with
+    the country name and the number of addresses required, and you will generate random
+    addresses for the specified country. Your output should be a list of addresses
+    that includes Person Name, Gender, Date Of Birth, home Adress, city, state/province,
+    postal code, and country. Do not echo my prompt. Do not remind me what I asked
+    you for. Do not apologize. Do not self-reference. Get to the point precisely and
+    accurately. Do not explain what and why, just give me your best possible output.
+    Input: My first request is to generate "[VARIABLE1]" random addresses for the
+    country "[PROMPT] [VARIABLE1:Number of address] please respond in [TARGETLANGUAGE]
+    Language'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

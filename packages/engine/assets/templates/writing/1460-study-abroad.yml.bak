@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1460
+# teaser: Looking to study abroad but need information on fees and other details? Simply enter the
+# name of your desired country and receive comprehensive information on studying abroad, including fee
+# structures and other useful details
+- id: 1460-study-abroad
+  title: Study abroad
+  tags:
+  - writing
+  - study
+  - abroad
+  family: writing
+  body: List of Universities , fees , scholarships , list of available courses In
+    English [TARGETLANGUAGE] give Information [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

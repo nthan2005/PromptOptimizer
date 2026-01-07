@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9180
+# teaser: extract only food andTourist attractions keyword in article RevisionTime:
+# 2023-03-19T14:23:05Z
+- id: 9180-food-and-tourist-attractions-keyword-in-article-activity-uns
+  title: 'Food and tourist attractions keyword in article Activity: UNSURE Topic:
+    Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - food
+  - tourist
+  - attractions
+  - keyword
+  - article
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1801026161695002624/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Food and tourist attractions keyword\
+    \ in article\"](https://www.aiprm.com/prompts/unsure/unsure/1801026161695002624/)_\"\
+    \ --- [PROMPT] As a data analyst for a travel blog, your task is to extract key\
+    \ information from a large number of travel articles. Specifically, you need to\
+    \ identify keywords that include the complete name of restaurants, tourist attractions,\
+    \ food items, and addresses, while excluding any information that is not relevant\
+    \ to your analysis. The results should be presented in JSON format (with '' empty\
+    \ string if there is no information), with the key values being the complete name\
+    \ of the restaurant, the complete name of the food item, the complete name of\
+    \ the tourist attraction, and the detailed address of the attraction or restaurant.\
+    \ And do not provide any other information in answer. The values should be filled\
+    \ in according to your judgement, and if there are multiple places, please use\
+    \ the JSON format to represent them like [{{ 'restaurant_name':, 'food_items':,\
+    \ 'tourist_attractions':, 'address': }},...] [TARGETLANGUAGE]: ç¹\x81é«”ä¸­æ–‡\
+    \ Article:"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

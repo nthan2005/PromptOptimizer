@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 888
+# teaser: Writing an Article about the benefits of adopting any pet; eg: dog or cat (any cat or dog
+# breed), parrot, etc
+- id: 888-article-on-benefits-of-adopting-pet
+  title: Article on benefits of adopting Pet
+  tags:
+    - writing
+    - article
+    - benefits
+    - adopting
+    - pet
+  family: writing
+  body:
+    Write a 1000-word article about the benefits of adopting a [PROMPT] as a pet.
+    Please include information about the positive impact of [PROMPT] ownership on
+    mental health, the various types of [PROMPT] and their personalities, how to prepare
+    your home for a new [PROMPT], and resources for finding a reputable [PROMPT] adoption
+    agency, if any. Also, please include at least three personal anecdotes about your
+    experiences with [PROMPT] to help engage and connect with readers. Your article
+    should be informative, engaging, and well-researched, with proper citations where
+    necessary. write all output in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

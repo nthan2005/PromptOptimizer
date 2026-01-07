@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4867
+# teaser: Create a structured literature review (Bab 2) based on Indonesian academic sources
+# (2019â€“2024). RevisionTime: 2025-08-07T12:29:43.07Z
+- id: 4867-iot-safe-box-literature-review-activity-research-topic-copyw
+  title: 'IoT Safe Box Literature Review Activity: Research Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - iot
+  - safe
+  - box
+  - literature
+  - review
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/2119014428212740096/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "IoT Safe Box Literature Review"](https://www.aiprm.com/prompts/copywriting/research/2119014428212740096/)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

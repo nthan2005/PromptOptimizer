@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2488
+# teaser: Create a Case Summary
+- id: 2488-case-digest
+  title: case digest
+  tags:
+    - summarize
+    - case
+    - digest
+  family: Summarize
+  body:
+    'Your task is to summarize the text of a legal case given to you in an easily-readable
+    format. Do not start with "this text deals about." Instead, begin with the summary
+    immediately. All output shall be in [TARGETLANGUAGE]. The text to summarize is
+    this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

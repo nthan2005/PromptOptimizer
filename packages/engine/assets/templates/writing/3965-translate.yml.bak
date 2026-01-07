@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3965
+# teaser: Translate.
+- id: 3965-translate
+  title: Translate
+  tags:
+  - writing
+  - translate
+  family: writing
+  body: 'Your task is to creatively translate the Chinese text into [TARGETLANGUAGE].
+    Make sure it looks like a novel originally written in modern American English,
+    using short and simple phrases, easy to understand for 13 year-old kids. Change
+    wording or details to make the text fluent in English context, but please try
+    not to twist the main plot. Here''s the text to translate: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

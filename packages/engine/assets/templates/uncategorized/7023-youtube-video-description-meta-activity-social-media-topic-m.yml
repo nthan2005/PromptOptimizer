@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7023
+# teaser: YouTube video description RevisionTime: 2024-10-03T09:57:41.117Z
+- id: 7023-youtube-video-description-meta-activity-social-media-topic-m
+  title: "Youtube Video description & Meta Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - youtube
+    - video
+    - description
+    - meta
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Youtube Video description & Meta "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- The YouTube advice is: Writing descriptions with keywords can help viewers
+    find your videos more easily through search. You can give an overview of your
+    video and place keywords at the beginning of the description.( less than 5000)
+    Your Task is to write meta-data and descriptive Based on the information below
+    in [TARGETLANGUAGE], write me a good description for my YouTube video based on
+    this script. It has to be between 700 and 5000 words, plus enough hashtags and
+    enough meta-data information. The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

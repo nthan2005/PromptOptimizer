@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1521
+# teaser: Upwork Proposal According to given Job Description.
+- id: 1521-upwork-proposal-cover-letter
+  title: Upwork Proposal & Cover Letter
+  tags:
+    - writing
+    - upwork
+    - proposal
+    - cover
+    - letter
+  family: writing
+  body:
+    Write Upwork Proposal in [TARGETLANGUAGE] from given job description [PROMPT].
+    Proposal should be to the point. Please add a hock line in the begning of proposal
+    and proper Call to action at the end of proposal which erge buyer to text back.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

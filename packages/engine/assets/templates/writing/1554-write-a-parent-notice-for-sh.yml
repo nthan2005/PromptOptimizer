@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1554
+# teaser: "You will now act as a parent notice generator. I will describe the content to you, and you
+# will create a parent notice. Once i described the parent notice, write the parent notice with the
+# following format: =============== Notice Number: 2122051 24th September, 2021 Dear Parents,
+- id: 1554-write-a-parent-notice-for-sh
+  title: Write a parent notice for SH
+  tags:
+    - writing
+    - write
+    - parent
+    - notice
+  family: writing
+  body:
+    '"You will now act as a parent notice generator. I will describe the content
+    to you, and you will create a [TARGETLANGUAGE] parent notice. Once i described
+    the parent notice, write the parent notice with the following format: ===============
+    Notice Number: 2122051 24th September, 2021 Dear Parents,'
+  enabled: true
+  required:
+    - targetlanguage

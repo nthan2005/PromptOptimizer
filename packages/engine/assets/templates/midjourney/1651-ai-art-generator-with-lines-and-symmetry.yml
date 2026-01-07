@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1651
+# teaser: Cyber Robot Detailed Geometric
+- id: 1651-ai-art-generator-with-lines-and-symmetry
+  title: AI Art Generator with Lines and Symmetry
+  tags:
+    - midjourney
+    - art
+    - generator
+    - lines
+    - symmetry
+  family: Midjourney
+  body:
+    "[TARGETLANGUAGE] several adorable rainbow robotic cyberpunk [PROMPT]::[PROMPT];
+    made of geometric zentangle tessellation mandalas, filigree; rounded Pixar style;
+    brightly lit, clean white background [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

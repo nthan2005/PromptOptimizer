@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 876
+# teaser: Get a short and sweet SEO friendly product review article for your blog or product review
+# website.
+- id: 876-amazon-product-review-article-one-click
+  title: Amazon Product Review Article [One Click]
+  tags:
+  - writing
+  - amazon
+  - product
+  - review
+  - article
+  - one
+  family: writing
+  body: 'Product Name: [PROMPT] [PROMPT] Description (200 words): Key Feature (Pointwise):
+    Pros (Pointwise): Cons (Pointwise): Conclusion: Write all output in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

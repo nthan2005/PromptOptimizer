@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6520
+# teaser: product review articles RevisionTime: 2024-11-12T02:53:27.541Z
+- id: 6520-product-review-articles-activity-marketing-topic-marketing-c
+  title: 'product review articles Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - product
+  - review
+  - articles
+  - activity
+  - marketing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/2021749459952353280/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "product review articles"](https://www.aiprm.com/prompts/marketing/marketing/2021749459952353280/)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

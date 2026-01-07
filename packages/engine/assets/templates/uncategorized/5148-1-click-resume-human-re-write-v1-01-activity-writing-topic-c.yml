@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5148
+# teaser: Create that the resume that professional summary, skills with 3 detailed job description in
+# 50 words or maximum 350 characters. RevisionTime: 2023-03-04T14:09:47Z
+- id: 5148-1-click-resume-human-re-write-v1-01-activity-writing-topic-c
+  title: "1-Click Resume Human Re-write V1.01 Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - click
+    - resume
+    - human
+    - write
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "1-Click Resume Human Re-write V1.01"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to create the resume that Professional Summary, three Skills,
+    and 3 job descriptions not company but skills with three bulletpoint descriptions,
+    and its acomplishments in 70 words or maximum 500 characters. All output shall
+    be in [TARGETLANGUAGE]. The text to write the resume is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

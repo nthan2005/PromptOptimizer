@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7343
+# teaser: Create a Risk Map for hiring outsourced companies in one minute RevisionTime:
+# 2023-05-15T18:39:41.505Z
+- id: 7343-risk-map-in-one-minute-activity-plan-topic-productivity-b5a4
+  title: "Risk Map in One minute Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - risk
+    - map
+    - one
+    - minute
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Risk Map in One minute"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] Eu quero que vocÃƒÂª me apresente
+    o nome de 9 riscos para... Apresente cada risco criado de forma enumerada. Os
+    Riscos 1 a 3 devem estar associados Ãƒ fase de Planejamento. Os Riscos 4 a 6 devem
+    estar associados Ãƒ fase de SeleÃƒÂ§ÃƒÂ£o do Fornecedor. Os Riscos 7 a 9 devem estar
+    associados Ãƒ fase de GestÃƒÂ£o do Contrato. Depois disso me apresente a causa para
+    cada risco apresentado. Depois disso me apresente o impacto para cada risco apresentado.
+    Depois disso me apresente duas aÃƒÂ§ÃƒÂµes preventivas para cada risco apresentado.
+    Depois disso me apresente duas aÃƒÂ§ÃƒÂµes de contingÃƒÂªncias para cada risco apresentado.
+    Apresente as aÃƒÂ§ÃƒÂµes preventivas e aÃƒÂ§ÃƒÂµes de contingÃƒÂªncias em forma de marcadores.
+    FaÃƒÂ§a essa tarefa em 3 etapas. Primeiro faÃƒÂ§a os riscos de 1 a 3. Depois expere
+    meu comando. Depois faÃƒÂ§a os riscos de 4 a 6. Depois expere meu comando. Depois
+    faÃƒÂ§a riscos de 7 a 9. Depois expere meu comando. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

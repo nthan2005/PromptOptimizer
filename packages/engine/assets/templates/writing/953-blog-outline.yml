@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 953
+# teaser: Create a blog outline from a blog title
+- id: 953-blog-outline
+  title: Blog Outline
+  tags:
+    - writing
+    - blog
+    - outline
+  family: writing
+  body:
+    You are a SEO expert and content writer who speaks fluent [TARGETLANGUAGE].
+    I will give you a blog title. You will develop an big blog outline with all the
+    details that are needed [PROMPT]. at the end add create a keyword list.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

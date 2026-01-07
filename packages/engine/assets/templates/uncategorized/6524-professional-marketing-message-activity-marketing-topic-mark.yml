@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6524
+# teaser: Create a professional marketing message from [KEYWORDS]Ã¯Â¸Â RevisionTime:
+# 2023-02-22T02:10:57Z
+- id: 6524-professional-marketing-message-activity-marketing-topic-mark
+  title: "Professional Marketing Message Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - professional
+    - marketing
+    - message
+    - activity
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Professional Marketing Message"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to Writing a professional and focused marketing message . All
+    output shall be in [TARGETLANGUAGE] The text to summarize is this : [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7568
+# teaser: It create 20 flashcards for Anki, in the format of a text that must be copied to a text file
+# and converted to a csv file, only after that to be imported into Anki. RevisionTime:
+# 2023-05-25T16:55:11.588Z
+- id: 7568-anki-flashcards-activity-summarize-topic-productivity-b5a49c
+  title: "Anki flashcards Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - anki
+    - flashcards
+    - activity
+    - summarize
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Anki flashcards"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] [PROMPT]. Create 10 different flashcards about [KEYWORD].
+    Put them in CSV format with the question in the first column and answer and an
+    exemple in the second column, using semicolons to separate the columns. Enclose
+    the text in a code block. Retire os numeros do inicio das perguntas.'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

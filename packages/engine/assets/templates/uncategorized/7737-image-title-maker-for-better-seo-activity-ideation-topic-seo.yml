@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7737
+# teaser: Normalize the provided text by removing all spaces and special characters, converting to
+# lowercase, and adding hyphens between words. Keep the text in a single line without any full stops.
+# RevisionTime: 2023-09-02T02:45:00.989Z
+- id: 7737-image-title-maker-for-better-seo-activity-ideation-topic-seo
+  title: "[Image Title maker for better SEO] Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - image
+    - title
+    - maker
+    - better
+    - seo
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "[Image Title maker for better SEO]"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Normalize the provided text by removing all spaces and special characters,
+    converting to lowercase, and adding hyphens between words. Keep the text in a
+    single line without any full stops. Just give my answer in the result not any
+    extra text from your side like"Sure, here''s the provided text normalized according
+    to your instructions:" All output shall be in [TARGETLANGUAGE]. The text is this:
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

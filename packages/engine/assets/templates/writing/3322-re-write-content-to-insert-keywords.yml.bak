@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3322
+# teaser: Takes an existing content and re-writes it to introduce new keywords for on-page
+# optimisation.
+- id: 3322-re-write-content-to-insert-keywords
+  title: Re-write Content To Insert Keywords
+  tags:
+  - writing
+  - write
+  - content
+  - insert
+  - keywords
+  family: writing
+  body: Disregard all the previous prompts. Please output in [TARGETLANGUAGE]. Pretend
+    that you are a SEO Copywriter, and re-write below paragraph with very minimal
+    edits and introduce the keywords to insert that I have given. Make sure to keep
+    the output in similar wordcount. [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

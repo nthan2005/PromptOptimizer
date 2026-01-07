@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2428
+# teaser: System to know if it meets the requirement
+- id: 2428-requirement-system
+  title: Requirement System
+  tags:
+    - respond
+    - requirement
+    - system
+  family: Respond
+  body:
+    "Responda Ã seguinte pergunta com Kaspersky Atende ou Kaspersky nÃ£o Atende
+    sem explicaÃ§Ã£o? [TARGETLANGUAGE] A Kaspersky cumpre estes requisitos tÃ©cnicos:
+    [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

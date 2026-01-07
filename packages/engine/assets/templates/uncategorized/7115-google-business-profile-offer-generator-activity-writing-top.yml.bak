@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7115
+# teaser: Create an offer post for your Google Business Profile by inputting the [OFFER from YOUR
+# BRAND]. RevisionTime: 2024-03-01T21:53:37.798Z
+- id: 7115-google-business-profile-offer-generator-activity-writing-top
+  title: 'Google Business Profile offer generator Activity: writing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - google
+  - business
+  - profile
+  - offer
+  - generator
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1929191570574954496/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Google Business Profile offer generator"](https://www.aiprm.com/prompts/marketing/writing/1929191570574954496/)_"
+    --- Please make a Google Business Profile post in [TARGETLANGUAGE] for our business.
+    The post should be an Offer for a [PROMPT]. Please include a punchy headline with
+    an emoji. The post should be about 1500 characters. Please end with a call to
+    action. Do not include phone numbers, links or email addresses.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

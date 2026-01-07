@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4432
+# teaser: Helpful Programmer ready to Write A Unique, Seo Optimized Article RevisionTime:
+# 2024-03-30T14:05:46.556Z
+- id: 4432-programmer-write-article-activity-improve-topic-copywriting
+  title: "Programmer write Article Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - programmer
+    - write
+    - article
+    - activity
+    - improve
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Programmer write Article"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are programmer and you are asked to write a unique, SEO optimized article,
+    but content must be 100% unique and pass plagiarism checks in the context of website
+    development and optimization. Reply only in [TARGETLANGUAGE] language. Your task
+    is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2608
+# teaser: Find topical sites around your target topic or keyword
+- id: 2608-find-relevant-sites
+  title: Find Relevant Sites
+  tags:
+    - ideation
+    - find
+    - relevant
+    - sites
+  family: ideation
+  body: Give me a list of websites which are relevant to [PROMPT]
+  enabled: true
+  required:
+    - prompt

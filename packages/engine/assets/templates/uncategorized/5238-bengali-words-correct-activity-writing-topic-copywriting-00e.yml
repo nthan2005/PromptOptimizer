@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5238
+# teaser: correct, bengali, words RevisionTime: 2024-06-28T13:07:59.314Z
+- id: 5238-bengali-words-correct-activity-writing-topic-copywriting-00e
+  title: "Bengali Words Correct Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - bengali
+    - words
+    - correct
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"Bengali Words Correct\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- [TARGETLANGUAGE]: I will give you the rules that how can you help me in\
+    \ my work Are you ready to understand the rules and help me in my work Oh and\
+    \ I forget to mention you that I will also give you a step by step guide what\
+    \ have to do Wrong Words in Bengali, [PROMPT]: Rules No. 1 : You can change only\
+    \ words but you can't change the sentences. Rules No. 2 : Show me those words\
+    \ that you think wrong or incorrect with serial number list and also show me the\
+    \ right words with it and also total counting of wrong words. Rules No. 3 : Ask\
+    \ me before the chang those word when command 'ok' then you can change. Rules\
+    \ No. 4 : when you give me the wrong words number list and ask me for command\
+    \ if I give you any number with command it's me that number list into numbers\
+    \ are not change others you can do Step 1 : at first show me the wrong words with\
+    \ right words with serial number Step 2 : when you show me then ask me for the\
+    \ command 'ok' Step 3.a : when I command you then you change those words in the\
+    \ text Step 3.b : when I send some numbers with command it's mean you don't change\
+    \ those serial number and you have to change others serial number Example : ok\
+    \ 1,2,9 (it's me 1,2 and 9 you can't change those serial number words and the\
+    \ 3,4,5,7,8 you have to change those numbers) Other example :ok 1,5,7 (it's me\
+    \ 1,5 and 9 you can't change those serial number words and the 2,3,4,8 you have\
+    \ to change those numbers)], [You know right you can't change this serial number\
+    \ word who I provide you with the command Example (1. Ã Â¦â€¦Ã Â¦Â®Ã Â§\x8DÃ Â¦Â¬Ã Â¦Â¾Ã Â¦Â¬Ã Â§\x81\
+    Ã Â¦Å¡Ã Â¦Â¿ -> Ã Â¦â€¦Ã Â¦Â®Ã Â§\x8DÃ Â¦Â¬Ã Â§\x81Ã Â¦Â¬Ã Â¦Â¾Ã Â¦Å¡Ã Â§â‚¬) '1' one is the serial number it's\
+    \ mean you can't change this 'Ã Â¦â€¦Ã Â¦Â®Ã Â§\x8DÃ Â¦Â¬Ã Â¦Â¾Ã Â¦Â¬Ã Â§\x81Ã Â¦Å¡Ã Â¦Â¿' word], [https://translate.google.co.in/?sl=bn&tl=en&op=translate]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

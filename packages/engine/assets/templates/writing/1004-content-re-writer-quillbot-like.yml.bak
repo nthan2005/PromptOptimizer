@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1004
+# teaser: Make your content like human written. Re-Write like Quillbot. Copy the re-written work then
+# rephrase with Quillbot ("Standard" option) works 98% of the time!
+- id: 1004-content-re-writer-quillbot-like
+  title: Content Re-Writer (Quillbot-Like)
+  tags:
+  - writing
+  - content
+  - writer
+  - quillbot
+  - like
+  family: writing
+  body: I want you to act like Quillbot and re-write only the text I give you do not
+    add information, I just want you to re- write and write more human like and also
+    not detectable by AI. All output shall be in [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

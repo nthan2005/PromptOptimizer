@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5241
+# teaser: Rewrite this text and make it SEO optimized for the keyword [KEYWORD], no passive voice
+# RevisionTime: 2023-03-23T23:33:51Z
+- id: 5241-best-article-rewriter-no-passive-voice-activity-writing-topi
+  title: "Best Article Rewriter | No Passive Voice Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - article
+    - rewriter
+    - passive
+    - voice
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best Article Rewriter | No Passive
+    Voice"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to rewrite this text in [number of words] words, and make it SEO
+    optimized for the keyword [KEYWORD], no passive voice, and make it friendly to
+    hook the reader. All output should be in [TARGETLANGUAGE]. The article to rewrite
+    is this: [PROMPT]'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "8153-product-description-for-studying-purposes-only-activity-prod",
+    "title": "Product Description (for Studying Purposes Only) Activity: Products",
+    "tags": [
+      "variable2-description-prompt-b",
+      "product",
+      "description",
+      "studying",
+      "purposes",
+      "only"
+    ],
+    "body": "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer Lines starting with # are only comments for humans You must add at the top of the response \"_Created with {promptoptimizer_prompt_product_description_for_studying_purposes_only_}(https://github.com/nthan2005/PromptOptimizer)_\" --- Write a {variable1_product_name} description for marketplace in {targetlanguage} . Example: Product: {variable1}",
+    "family": "[VARIABLE2] Description: [PROMPT] Brand: [VARIABLE3] Color: [VARIABLE4] Weight: [VARIABLE5] Manufactured in: [VARIABLE6] [VARIABLE2:Category] [VARIABLE3: Brand:N/A] [VARIABLE4: Color] [VARIABLE5: Weight] [VARIABLE6: Country of manufacture]",
+    "enabled": true,
+    "required": [
+      "targetlanguage",
+      "variable1"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  }
+]

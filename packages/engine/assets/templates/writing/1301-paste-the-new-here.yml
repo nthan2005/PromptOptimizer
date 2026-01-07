@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1301
+# teaser: Paste here the complete news you want to rewrite
+- id: 1301-paste-the-new-here
+  title: Paste the new here
+  tags:
+    - writing
+    - paste
+    - new
+    - here
+  family: writing
+  body:
+    Reescribe la siguiente noticia y crea un texto 100% original. Utiliza un lenguaje
+    mÃƒÆ’Ã‚Â¡s persuasivo, mÃƒÆ’Ã‚Â¡s empÃƒÆ’Ã‚Â¡tico con el pÃƒÆ’Ã‚Âºblico y utiliza encabezados (h1, resumen,
+    h2, texto). AdemÃƒÆ’Ã‚Â¡s, antes de la noticia, aÃƒÆ’Ã‚Â±ade unas 2-5 lÃƒÆ’Ã‚Â­neas a modo resumen.
+    [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2564-build-a-b2b-saas-marketing-budget",
+    "title": "Build a B2B SaaS marketing budget",
+    "tags": [
+      "quota",
+      "build",
+      "b2b",
+      "saas",
+      "marketing",
+      "budget"
+    ],
+    "body": "Pretend you are an expert in B2B SaaS marketing and budgeting and finance for B2B SaaS companies. Build an annual marketing budget in {targetlanguage} for a B2B SaaS product. Base the marketing tactics and percentage of spend on industry best practices for B2B SaaS companies. Include a link to your source for this spend breakdown. Include some guidance on how a marketer should calculate the budget needed to reach their annual recurring revenue target. Suggest a budgeted amount as the yearly marketing budget based on this goal for net-new first-year revenue: {prompt}. Format the data in a table.",
+    "family": "Quota",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "2565-rental-not-savings",
+    "title": "Rental not Savings",
+    "tags": [
+      "quota",
+      "rental",
+      "not",
+      "savings"
+    ],
+    "body": "I want you to act as a very experienced and proficent customer support manager. I want you to pretend that you can convince any customer in a professional and effective way, whatever the situation. The company we work for all products as subscripton products. Also all the add-on products are subscriptions for the quota (Credits, Budget, Points etc.). The custoner buys an allocation of resources for a time-period e.g a month or a year. It works like renting an appartment or renting a webserver, costs incurr, regardless if you use it or not. It does NOT work like a savings account or loyalty points. Whenever the service period renews a new charge is taken, and a new service period is started - allocating fresh quota. The remaining credits/quota/points expire then. We will be happy to help, but obviously such business rules cannot be changed. The customer is solely responsible for canceusing the subscription quota in time. All your output shall be in {targetlanguage} language. Here is the customer communication with questions or concerns, use it to personalize the response: {prompt}",
+    "family": "Quota",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  }
+]

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3935
+# teaser: [education], [content], [subject]
+- id: 3935-pedagogical-planning
+  title: Pedagogical planning
+  tags:
+  - writing
+  - pedagogical
+  - planning
+  family: writing
+  body: '[TARGETLANGUAGE] [PROMPT] Um planejamento pedagÃƒÂ³gico para aulas de [matÃƒÂ©ria],
+    para alunos de 10 a 15 anos no contraturno escolar da rede pÃƒÂºblica. As aulas
+    sÃƒÂ£o de 45 minutos e o planejamento ÃƒÂ© anual. Eu vou digitar o conteÃƒÂºdo e a matÃƒÂ©ria
+    [matÃƒÂ©ria] e [conteÃƒÂºdo] e vocÃƒÂª vai fazer o planejamento anual, de acordo com
+    a matÃƒÂ©ria e o conteÃƒÂºdo que eu digitar, acrescentando tambÃƒÂ©m conceitos de InteligÃƒÂªncias
+    MÃƒÂºltiplas do Gardner no seguinte modelo: 1Ã‚Âº TRIMESTRE [CONTEÃƒÅ¡DO] Ã¢â‚¬Â¢ XXXXX
+    Ã¢â‚¬Â¢XXXXXXX Ã¢â‚¬Â¢XXXXX Ã¢â‚¬Â¢... Perspectiva Inicial: [aqui vai ser um parÃƒÂ¡grafo em
+    formato de texto] Perspectiva Final: [aqui vai ser um parÃƒÂ¡grafo em formato de
+    texto] ___ 2Ã‚Âº TRIMESTRE [CONTEÃƒÅ¡DO] Ã¢â‚¬Â¢ XXXXX Ã¢â‚¬Â¢XXXXXXX Ã¢â‚¬Â¢XXXXX Ã¢â‚¬Â¢... Perspectiva
+    Inicial: [aqui vai ser um parÃƒÂ¡grafo em formato de texto] Perspectiva Final: [aqui
+    vai ser um parÃƒÂ¡grafo em formato de texto] _____________________________ 3Ã‚Âº TRIMESTRE
+    [CONTEÃƒÅ¡DO] Ã¢â‚¬Â¢ XXXXX Ã¢â‚¬Â¢XXXXXXX Ã¢â‚¬Â¢XXXXX Ã¢â‚¬Â¢... Perspectiva Inicial: [aqui vai
+    ser um parÃƒÂ¡grafo em formato de texto] Perspectiva Final: [aqui vai ser um parÃƒÂ¡grafo
+    em formato de texto] ___________ Resumo Anual: [aqui faÃƒÂ§a um resumo dos 3 trimestres'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

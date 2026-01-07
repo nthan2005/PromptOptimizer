@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8509
+# teaser: Create Quizzes in a Tabular form RevisionTime: 2023-04-01T10:06:49.623Z
+- id: 8509-gyanok-create-quiz-in-a-tabular-form-activity-writing-topic
+  title: "GyanOk Create Quiz in a Tabular Form Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - gyanok
+    - quiz
+    - tabular
+    - form
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "GyanOk Create Quiz in a Tabular Form"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- create a quiz with minimum 10 qestions per table on category [KEYWORD] with
+    four options and in tabular form (Question, Option A, Option B, Option C, Option
+    D, Correct option). Make sure on correct option write number on correct option
+    column 1 as a Optiona A ,2 as a Option B, 3 as a Option C and 4 as a Option D
+    for correct answer. Don''t Repeat the Questions. Don''t repeat the options too
+    many times. Don''t repeat the correct option place (Option A, Option B, Option
+    C, Option D) too many times. All output shall be in [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

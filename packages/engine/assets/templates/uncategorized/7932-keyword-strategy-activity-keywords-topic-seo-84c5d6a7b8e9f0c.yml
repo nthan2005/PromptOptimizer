@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7932
+# teaser: Create keyword strategy and SEO plan from 1 keyword RevisionTime: 2023-02-19T15:35:19Z
+- id: 7932-keyword-strategy-activity-keywords-topic-seo-84c5d6a7b8e9f0c
+  title: "Keyword Strategy Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - keyword
+    - strategy
+    - activity
+    - keywords
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Keyword Strategy"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to generate keyword strategy from one keyword in [TARGETLANGUAGE].
+    The one keyword is as follows: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6892
+# teaser: Monthly Schedule for Youtube Videos RevisionTime: 2024-10-03T09:57:38.618Z
+- id: 6892-monthly-schedule-for-youtube-videos-activity-social-media-to
+  title: 'Monthly Schedule for Youtube Videos Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - monthly
+  - schedule
+  - youtube
+  - videos
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1791655334277017600/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Monthly Schedule for Youtube Videos"](https://www.aiprm.com/prompts/marketing/social-media/1791655334277017600/)_"
+    --- I''d like you to help me come up with a content schedule for my youtube channel
+    that has the best chance of helping me rank for long tail keywords that are specific
+    to my keyword. I''ll tell you my main target keyword in the prompt below. Please
+    target transaction style search terms only. Please come up with clickbait style
+    titles for these youtube videos. Please organize each Youtube video title in a
+    nice looking table so that it looks like a calendar for a year. Each week should
+    have its own table from Monday to Sunday. Above the table say "YOUTUBE SCHEDULE
+    FOR KEYWORD" and replace "KEYWORD" with the keyword provided in the prompt in
+    all caps. The keyword I''m targeting is: [PROMPT] Please provide all responses
+    in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

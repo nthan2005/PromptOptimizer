@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7644
+# teaser: Summerise your text! RevisionTime: 2024-04-06T12:02:40.401Z
+- id: 7644-summary-provider-clone-activity-summarize-topic-productivity
+  title: "Summary Provider - Clone Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - summary
+    - provider
+    - clone
+    - activity
+    - summarize
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Summary Provider - Clone"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Provide a summary of the [PROMPT] Provide a response in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

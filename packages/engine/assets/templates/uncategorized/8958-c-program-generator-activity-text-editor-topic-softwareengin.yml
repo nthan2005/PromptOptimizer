@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8958
+# teaser: Write any C++ Program RevisionTime: 2023-03-29T02:29:51.261Z
+- id: 8958-c-program-generator-activity-text-editor-topic-softwareengin
+  title: "C++ Program Generator Activity: Text Editor Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - program
+    - generator
+    - activity
+    - text
+    - editor
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "C++ Program Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to write a C++ program using iostream.h and conio.h extension
+    for the topic given by the user. Also explain the Program using comments. All
+    the output should be in [TARGETLANGUAGE]. Write a program to: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

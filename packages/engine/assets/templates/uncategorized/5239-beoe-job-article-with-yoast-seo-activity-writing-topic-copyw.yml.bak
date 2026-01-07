@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5239
+# teaser: Generate fully SEO-optimized overseas job article with Yoast-friendly format for BEOE job
+# listings. RevisionTime: 2025-08-01T07:11:16.515Z
+- id: 5239-beoe-job-article-with-yoast-seo-activity-writing-topic-copyw
+  title: 'Beoe job article with Yoast SEO Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - beoe
+  - job
+  - article
+  - yoast
+  - seo
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2116756654573502464/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Beoe job article with Yoast SEO"](https://www.aiprm.com/prompts/copywriting/writing/2116756654573502464/)_"
+    --- Please write in [TARGETLANGUAGE] English [PROMPT] Write a 2000-word SEO-optimized
+    article based on the job details I will provide from the Bureau of Emigration
+    and Overseas Employment (BEOE). The article should fully follow Yoast SEO: Job
+    details: ðŸ”‘ SEO ELEMENTS (To be generated according to job details): â€¢ SEO
+    Title â€¢ Slug â€¢ Meta Description â€¢ Focus Keyphrase ________________________________________
+    ðŸ§± ARTICLE STRUCTURE & SECTION-WISE INSTRUCTIONS ________________________________________
+    Use proper bulletpoints not dashes 1. ðŸ§³ Introduction â€¢ Briefly introduce
+    the concept of working abroad from Pakistan â€¢ Mention BEOE as the only official
+    legal body for overseas job facilitation â€¢ Use the focus keyphrase naturally
+    2. ðŸ“‹ Job Summary (Mobile-Friendly Vertical Format) Include a clear and mobile-friendly
+    job summary in vertical text format (or in table). with emojis Example format
+    to follow in the article: â€¢ Job'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

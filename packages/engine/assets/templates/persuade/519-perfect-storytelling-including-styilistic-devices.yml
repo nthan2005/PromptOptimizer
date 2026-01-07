@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 519
+# teaser: write a speech as perfect storyteller including stylistic devices, such as {
+- id: 519-perfect-storytelling-including-styilistic-devices
+  title: perfect storytelling including styilistic devices
+  tags:
+    - persuade
+    - perfect
+    - storytelling
+    - including
+    - styilistic
+    - devices
+  family: Persuade
+  body:
+    "[TARGETLANGUAGE], write a speech as perfect storyteller including styilistic
+    devices, [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

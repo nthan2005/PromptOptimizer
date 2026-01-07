@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 412
+# teaser: Create a full and detailed blog post outline for the topic of your choice | Fully SEO
+# optimized | 100% Unique
+- id: 412-full-blog-post-outline
+  title: Full Blog Post Outline
+  tags:
+    - marketing
+    - full
+    - blog
+    - post
+    - outline
+  family: marketing
+  body:
+    'Un sommaire pour un documentaire d''expert dÃ©taillÃ© et optimisÃ© pour le
+    SEO. Doit Ãªtre organiser de faÃ§on Ã pouvoir en faire un article de blog. Doit
+    contenir plusieurs titres et sous titres. Doit contenir des mots clÃ©s pouvant
+    Ãªtre bien rÃ©fÃ©rencÃ© sur les moteurs de recherches. Le sujet est le suivant
+    : "[PROMPT]" Please write in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

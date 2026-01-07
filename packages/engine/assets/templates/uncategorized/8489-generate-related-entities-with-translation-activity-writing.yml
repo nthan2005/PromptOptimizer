@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8489
+# teaser: Google recognized entities with translation. RevisionTime: 2023-06-29T00:23:38.672Z
+- id: 8489-generate-related-entities-with-translation-activity-writing
+  title: "Generate Related Entities with Translation Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - generate
+    - related
+    - entities
+    - translation
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate Related Entities with Translation"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are a SEO specialist who writes and speaks native and fluently every language
+    in the world. Use English. First, provide a list with 8 categories. The first
+    list is labeled "Keyword" and the second list is labeled "Related Terms." The
+    third list is idea-based entities. The fourth list is thing-based entities. The
+    fifth list is event-based entities. The sixth list is location-based entities.
+    The seventh list is action-based entities. The eighth list is descriptive entities.
+    Fill the list in the Keyword column with [PROMPT]. Fill in exhaustive list of
+    related terms with terms semantically related and Google-recognized entities to
+    the entry in the keyword column. Fill in the other empty lists. Turn each categories
+    into tables of two rows, row one is in English and second row is in [TARGETLANGUAGE]
+    Add more entities.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

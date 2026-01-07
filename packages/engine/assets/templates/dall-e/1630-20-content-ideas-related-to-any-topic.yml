@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1630
+# teaser: ARE YOU A WRITER? Create 20 content ideas related to your [topic] that [your audience] would
+# find interesting and beneficial.
+- id: 1630-20-content-ideas-related-to-any-topic
+  title: 20 Content Ideas Related To Any Topic
+  tags:
+    - dall-e
+    - content
+    - ideas
+    - related
+    - any
+    - topic
+  family: Dall-E
+  body:
+    "[TARGETLANGUAGE] [PROMPT] Create 20 content ideas related to a [topic] make
+    it interesting and beneficial. [TARGETLANGUAGE] [PROMPT] add a short description
+    to each idea."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

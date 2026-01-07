@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 757
+# teaser: Summarized a book and highlights all important key paragraphs in an article form. If you
+# liked the response please Hit the thumbs up button. Let's make it learn!
+- id: 757-book-summarizer-in-1-click
+  title: Book Summarizer in 1-click
+  tags:
+    - summarize
+    - book
+    - summarizer
+    - click
+  family: Summarize
+  body:
+    '[TARGETLANGUAGE] Assuming the role of a content writer with high proficiency
+    in SEO and fluent English, write an SEO-optimized long-form article summarizing
+    the book [PROMPT]. The article should be written in a natural, informative, and
+    engaging style, exceeding 1,200 words in length. Please use the following guidelines:
+    Summarize the book: Highlight the most important key points and concepts without
+    detailing each chapter. Use quotation marks ("") when quoting directly from the
+    book. Headings and subheadings: Use double asterisks (**) to indicate bold text
+    for the title and all headings. Structure the article with clear and informative
+    headings and subheadings. Language: Write in a simple and clear language, ensuring
+    the article is easy to read. Increase the words'' perplexity and burstiness while
+    maintaining readability. Originality: The article must be free of plagiarism.
+    Conclusion: Explain why you selected the key points from the book, and provide
+    a clear and concise conclusion. After completing the article, add the following
+    line to indicate the end: "If you liked this prompt, please like it on the prompt
+    search page so I know how to enhance it."'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

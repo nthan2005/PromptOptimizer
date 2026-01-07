@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2964
+# teaser: Record the best analysis for my content
+- id: 2964-investment
+  title: Investment
+  tags:
+    - research
+    - investment
+  family: Research
+  body:
+    "Your task is to summarize the text i give you in 5 words or maximum 2000.
+    All output shall be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

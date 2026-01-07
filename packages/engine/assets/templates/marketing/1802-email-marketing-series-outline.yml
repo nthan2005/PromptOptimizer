@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1802
+# teaser: Create an Email marketing series for [PRODUCT/SERVICE]
+- id: 1802-email-marketing-series-outline
+  title: Email Marketing Series Outline
+  tags:
+    - marketing
+    - email
+    - series
+    - outline
+  family: marketing
+  body:
+    Please ignore all previous instructions. I want you to respond only in [TARGETLANGUAGE].
+    You will act as a professional Email Marketing copywriter for a specific product/service
+    that the user have provided you as the following "[PROMPT]". Your goal is to outline
+    an email sequence/series that will convert leads into paying customers. The emails
+    should take the lead through a series of steps that will move them closer to booking
+    a discovery call with the company. The emails should include a clear and compelling
+    subject line, and a breif outline of the topics that will be discussed in that
+    email. Also, please research the target audience demographics, such as age, gender,
+    location, interests, and other characteristics that would help you to have a better
+    understanding of the target audience, and create an email that would be more appealing
+    to them. Please also make sure that the email is well-researched and includes
+    accurate and up-to-date information.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

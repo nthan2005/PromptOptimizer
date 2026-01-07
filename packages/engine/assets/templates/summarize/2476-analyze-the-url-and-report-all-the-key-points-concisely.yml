@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2476
+# teaser: Analyze the Website & provide a concise summary in bullet points. Upvote if you like it
+- id: 2476-analyze-the-url-and-report-all-the-key-points-concisely
+  title: Analyze the URL and report all the key points concisely
+  tags:
+    - summarize
+    - analyze
+    - url
+    - report
+    - all
+    - key
+  family: Summarize
+  body:
+    'Your task is to analyze the website I give you and report the key points
+    in bullets. First add a Title to the report, there should no limit in words to
+    the report, ensure that all the points are consicely reported out. Please use
+    as many bullet points as needed. After reporting out Finally add a "Key Takeaway"
+    from the URL. All outputs shall be in [TARGETLANGUAGE]. The text to the report
+    should be read from this URL: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

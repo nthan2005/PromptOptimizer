@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4500
+# teaser: Keyword used for top H1, H2, density control strategy. RevisionTime:
+# 2023-08-04T18:18:32.154Z
+- id: 4500-less-touchy-seo-post-generator-activity-keywords-topic-copyw
+  title: "Less touchy seo post generator. Activity: keywords Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - less
+    - touchy
+    - seo
+    - post
+    - generator
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Less touchy seo post generator."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Recognize the first word as the focus keyword. [PROMPT] Write more than 2000
+    words. [TARGETLANGUAGE] Use the same keyword no more than 7 times. Exclude duplicate
+    content. [TARGETLANGUAGE] Include the focus keyword in the first part of the title.
+    Use titles with strong words and emotions. [TARGETLANGUAGE] Use the focus keyword
+    in the first line of your article, i.e., the introduction. [PROMPT] Use the H2
+    tag to introduce the first line of your article. [TARGETLANGUAGE] Write creatively
+    in the form of a blog post, making the most of your input. [TARGETLANGUAGE] Write
+    high-quality text with natural sentences. Write about an Incellderm entrepreneur
+    (Riman Beauty Planner) and stimulate the reader''s curiosity. [PROMPT] Dermatology
+    Booster & Serum, Active Cream EX, and Radiansome products use the patented liposome
+    method and penetrate deep into the dermal cells to fundamentally solve skin diseases.
+    [TARGETLANGUAGE] The goal is to appear at the top of Google search. Provide easy
+    examples for difficult explanations. [TARGETLANGUAGE] Discuss the role of marketing
+    and sales as an entrepreneur. [PROMPT] At the end of the article, include a sign-up
+    for riman.com/ Beauty Planner'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

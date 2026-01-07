@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 986
+# teaser: Generate Design Related comment for an Article
+- id: 986-comment-generator
+  title: Comment Generator
+  tags:
+  - writing
+  - comment
+  - generator
+  family: writing
+  body: 'Read the content give in the [PROMPT] and generate a comment under 500 characters
+    using [TARGETLANGUAGE] that related the following keywords: logo design or web
+    or design or typefaces or typography or logo or banner design or fonts. Do not
+    use more than 2 keywords in a single output'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

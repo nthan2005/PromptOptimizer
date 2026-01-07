@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7509
+# teaser: Get Tailored market Data RevisionTime: 2024-01-07T22:09:42.278Z
+- id: 7509-real-estate-market-trends-activity-respond-topic-productivit
+  title: "Real Estate Market Trends Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - real
+    - estate
+    - market
+    - trends
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Real Estate Market Trends"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- "Develop a GPT-based AI model tailored for a real estate business. The model
+    should be capable of engaging with potential clients through chat, providing them
+    with property advice, market trends, and investment opportunities. It should understand
+    and respond in layman''s terms to cater to a diverse audience. The model must
+    be trained on up-to-date real estate articles, market analysis reports, and customer
+    service dialogues. It should adhere to ethical guidelines, avoiding any form of
+    biased advice, and ensuring user privacy. Performance will be evaluated based
+    on accuracy, user engagement, and satisfaction. Integration with our existing
+    CRM system is required for seamless client interaction. Comprehensive documentation
+    on model operation and maintenance is also requested." You must use [TARGETLANGUAGE]
+    and [PROMPT] correctly.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

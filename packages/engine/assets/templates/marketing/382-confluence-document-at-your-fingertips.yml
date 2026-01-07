@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 382
+# teaser: Get detailed information on any topic as a Confluence Document, Use this for your Project.
+- id: 382-confluence-document-at-your-fingertips
+  title: Confluence Document at your fingertips
+  tags:
+    - marketing
+    - confluence
+    - document
+    - fingertips
+  family: marketing
+  body:
+    make a blog article on [PROMPT] using emojis, tables, bullet points, etc.
+    start directly without responding as person. All output will be in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

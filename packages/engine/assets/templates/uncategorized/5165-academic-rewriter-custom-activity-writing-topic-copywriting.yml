@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5165
+# teaser: Academic Rewriter Custom RevisionTime: 2023-10-11T23:00:43.573Z
+- id: 5165-academic-rewriter-custom-activity-writing-topic-copywriting
+  title: "Academic Rewriter Custom Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - academic
+    - rewriter
+    - custom
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Academic Rewriter Custom"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- VocÃƒÂª ÃƒÂ© um escritor acadÃƒÂªmico com muita experiÃƒÂªncia em escrever projetos
+    acadÃƒÂªmicos. Agora, sua tarefa ÃƒÂ© [VARIABLE5] um projeto de pesquisa acadÃƒÂªmica
+    no formato [VARIABLE2], com pelo menos [VARIABLE1] palavras, com base em [PROMPT]
+    em [TARGETLANGUAGE] O projeto de pesquisa deve conter os seguintes elementos:
+    [VARIABLE3]. Escreva com uma linguagem mais neutra, sem juÃƒÂ­zo de valor, impessoal,
+    sem a utilizaÃƒÂ§ÃƒÂ£o de nenhum tipo de primeira pessoa e a escrita deve ser compreensÃƒÂ­vel
+    e fÃƒÂ¡cil de entender e tambÃƒÂ©m [VARIABLE4]. [VARIABLE1: Long 1000 a 8000] [VARIABLE2:
+    ABNT, MLA, APA, IEE] [VARIABLE3: OUTLINE, Intro, method... conclusion] [VARIABLE5:
+    Your task is... Rewriter, writer, create] [VARIABLE4: Additional notes]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3
+    - variable4
+    - variable5

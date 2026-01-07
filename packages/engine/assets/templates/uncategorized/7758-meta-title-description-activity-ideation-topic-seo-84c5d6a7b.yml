@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7758
+# teaser: Get meta title and description as per keywords RevisionTime: 2023-08-29T06:12:53.752Z
+- id: 7758-meta-title-description-activity-ideation-topic-seo-84c5d6a7b
+  title: "Meta Title & Description Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - meta
+    - title
+    - description
+    - activity
+    - ideation
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Meta Title & Description"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT]Write meta title of 60 characters and meta descriptions of 155 characters
+    in [TARGETLANGUAGE] English for [Brand Name] on [Keyword]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4575
+# teaser: create content matrix for [PROMPT] RevisionTime: 2024-04-02T12:53:42.505Z
+- id: 4575-create-content-matrix-activity-marketing-topic-copywriting-0
+  title: 'Create Content Matrix Activity: marketing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - content
+  - matrix
+  - activity
+  - marketing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1940725635765514240/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create Content Matrix"](https://www.aiprm.com/prompts/copywriting/marketing/1940725635765514240/)_"
+    --- As a [TARGETLANGUAGE] content creator for a coach who specializes in helping
+    their clients [PROMPT] your task is to generate unique and compelling ideas for
+    engaging and authoritative content. Please create a table with the following rows:
+    mistakes, myths , objections, belief shift, tips, hacks/tricks, lead magnet, Livestream,
+    meme, poll questions that compels people to answer, case study, controversy. The
+    columns should be affiliate marketing, wealth building, healthy living'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

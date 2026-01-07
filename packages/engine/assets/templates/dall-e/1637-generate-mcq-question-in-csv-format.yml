@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1637
+# teaser: Generate MCQ question in csv format by gyanok.com
+- id: 1637-generate-mcq-question-in-csv-format
+  title: Generate MCQ question in csv format
+  tags:
+    - dall-e
+    - generate
+    - mcq
+    - question
+    - csv
+    - format
+  family: Dall-E
+  body:
+    generate 25 [KEYWORD] multiple-choice questions with four options and corresponding
+    answers (1, 2, 3, 4) in a csv format [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

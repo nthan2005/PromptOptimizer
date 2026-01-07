@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4071
+# teaser: With just one click, it is possible to generate a list of ENEM-type questions RevisionTime:
+# 2023-05-08T13:36:58.008Z
+- id: 4071-build-enem-assessment-activity-accounting-topic-copywriting
+  title: "Build Enem Assessment Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - build
+    - enem
+    - assessment
+    - activity
+    - accounting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Build Enem Assessment"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- InstruÃƒÂ§ÃƒÂµes: Use o tema [KEYWORD] para construir 5 questÃƒÂµes objetivas com
+    5 alternativas cada. As questÃƒÂµes seguem o padrÃƒÂ£o da prova do ENEM. Para elaborar
+    as questÃƒÂµes use como referÃƒÂªncia os documentos: 1- O Guia para ElaboraÃƒÂ§ÃƒÂ£o e
+    RevisÃƒÂ£o de Itens do ENEM (Exame Nacional do Ensino MÃƒÂ©dio) que estÃƒÂ¡ em: http://darnassus.if.ufrj.br/~marta/enem/docs_enem/guia_elaboracao_revisao_itens_2012.pdf
+    ; 2 - a matriz de referÃƒÂªncia que estÃƒÂ¡ em: https://download.inep.gov.br/download/enem/matriz_referencia.pdf
+    3. Prova ENEM: https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D1_CD1.pdf
+    Cada questÃƒÂ£o terÃƒÂ¡ uma resposta correta. Cada questÃƒÂ£o terÃƒÂ¡ a resoluÃƒÂ§ÃƒÂ£o. O
+    formato de saÃƒÂ­da ÃƒÂ©: QuestÃƒÂµes Gabarito ResoluÃƒÂ§ÃƒÂµes Use [PROMPT] como o inÃƒÂ­cio
+    do texto. Todas as saÃƒÂ­das devem estar em [TARGETLANGUAGE]. Estilo de escrita
+    [CREATIVE]'
+  enabled: true
+  required:
+    - creative
+    - keyword
+    - prompt
+    - targetlanguage

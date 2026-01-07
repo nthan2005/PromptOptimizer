@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5607
+# teaser: Correct and improve the spelling of the following text. RevisionTime:
+# 2023-07-26T22:35:06.685Z
+- id: 5607-improve-text-for-prompt-use-activity-writing-topic-copywriti
+  title: 'Improve text for prompt use Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - improve
+  - text
+  - prompt
+  - use
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1849903426944364544/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Improve text for prompt use"](https://www.aiprm.com/prompts/copywriting/writing/1849903426944364544/)_"
+    --- Your task is to correct and improve the spelling of the provided text in [TARGETLANGUAGE]
+    . Your goal is to preserve the original intent while elevating the clarity and
+    fluency of the text. Concentrate on fixing any spelling or grammatical errors,
+    and contemplate rewording any awkward or unclear sentences to enhance overall
+    readability for use as a prompt in ChatGPT-4. Your response should comprise the
+    revised and enhanced text, free of supplementary comments or explanations. This
+    response is explicitly crafted as a "prompt" in ChatGPT-4 and should be optimized
+    accordingly. The text to optimize is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

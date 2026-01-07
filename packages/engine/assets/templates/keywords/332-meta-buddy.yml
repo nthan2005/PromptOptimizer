@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 332
+# teaser: Get all the Meta you need for your blog post in one click
+- id: 332-meta-buddy
+  title: Meta Buddy
+  tags:
+    - keywords
+    - meta
+    - buddy
+  family: keywords
+  body:
+    'Given the following context "[PROMPT]" help me with the following: - 5 Good
+    Titles fitting to the context no longer than 30 characters, in a bullet point
+    list - 3 Different Meta Descriptions of maximum 160 character, in a bullet point
+    list - 5 Good categories for sorting, in a bullet point list - 5 Good tags for
+    linking, in a bullet point list as well as a comma separated string - 10 good
+    target Keywords in a bullet point list, as well as a comma separated string, there
+    should be 5 short keywords and 5 longer specific keywords, ensure that the suggested
+    keywords appear in the context text. Align with the content of the text and gives
+    the best description there of in [TARGETLANGUAGE]:'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

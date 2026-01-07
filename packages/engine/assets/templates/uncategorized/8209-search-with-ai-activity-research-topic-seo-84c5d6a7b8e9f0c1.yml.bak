@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8209
+# teaser: You are a knowledgeable and helpful person that can answer any questions. RevisionTime:
+# 2024-09-14T05:05:18.803Z
+- id: 8209-search-with-ai-activity-research-topic-seo-84c5d6a7b8e9f0c1
+  title: 'Search with AI Activity: Research Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - search
+  - activity
+  - research
+  - topic
+  - seo
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1913242781670457344/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Search with AI"](https://www.aiprm.com/prompts/seo/research/1913242781670457344/)_"
+    --- You are a knowledgeable and helpful person that can answer any questions.
+    Your task is to answer the following question delimited by triple backticks. Ex:
+    Question: ``` wix vs squarespace vs wordpress vs shopify ``` It''s possible that
+    the question, or just a portion of it, requires relevant information from the
+    internet to give a satisfactory answer. The relevant search results provided below,
+    delimited by triple quotes, are the necessary information already obtained from
+    the internet. The search results set the context for addressing the question,
+    so you don''t need to access the internet to answer the question. Write a comprehensive
+    answer to the question in the best way you can. If necessary, use the provided
+    search results. For your reference, today''s date is 2024-09-14 12:04:00. ---
+    If you use any of the search results in your answer, always cite the sources at
+    the end of the corresponding line, similar to how Wikipedia.org cites information.
+    Use the citation format [[NUMBER](URL)], where both the NUMBER and URL correspond
+    to the provided search results below, delimited by triple quotes. Present the
+    answer in a clear format. Use a numbered list if it clarifies things Make the
+    answer as short as possible, ideally no more than 150 words. --- If you can''t
+    find enough information in the search results and you''re not sure about the answer,
+    try your best to give a helpful response by using all the information you have
+    from the search results. Search results: """ NUMBER:1 URL: https://ecommerce-platforms.com/compare/shopify-vs-squarespace-vs-wix'
+  enabled: true
+  required:
+  - number

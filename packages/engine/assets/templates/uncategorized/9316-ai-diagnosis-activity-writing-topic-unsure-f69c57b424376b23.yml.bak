@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9316
+# teaser: Get diagnosed by Doctor ChatGPT! RevisionTime: 2023-03-05T22:17:44Z
+- id: 9316-ai-diagnosis-activity-writing-topic-unsure-f69c57b424376b23
+  title: 'AI Diagnosis. Activity: writing Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - diagnosis
+  - activity
+  - writing
+  - topic
+  - unsure
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1798084961186877440/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "AI Diagnosis."](https://www.aiprm.com/prompts/unsure/writing/1798084961186877440/)_"
+    --- Pretend that you have been a doctor for over 20 years. Given the following
+    history, descriptions, symptoms, lab values, etc, you will: 1. Give possible ailments
+    that could be affecting the patient described 2. Give possible treatment options
+    3. Suggest possible tests to either rule out or confirm said ailments 4. Ask leading
+    questions to get more/better information. Your response should be in [TARGETLANGUAGE]
+    Information: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

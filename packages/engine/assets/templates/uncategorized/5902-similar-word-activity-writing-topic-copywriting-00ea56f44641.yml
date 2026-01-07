@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5902
+# teaser: Similar word RevisionTime: 2023-05-03T04:37:48.924Z
+- id: 5902-similar-word-activity-writing-topic-copywriting-00ea56f44641
+  title: "Similar word Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - similar
+    - word
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Similar word"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Give me several words that are similar to the word that fits between '' ''
+    in the sentence below. Tell me in Korean. I want you to respond only in language
+    [TARGETLANGUAGE]. KOREA : [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

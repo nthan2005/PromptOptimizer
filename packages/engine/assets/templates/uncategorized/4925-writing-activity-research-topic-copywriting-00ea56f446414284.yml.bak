@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4925
+# teaser: Si Paling Ahli RevisionTime: 2023-07-25T08:19:57.212Z
+- id: 4925-writing-activity-research-topic-copywriting-00ea56f446414284
+  title: 'Writing Activity: Research Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - writing
+  - activity
+  - research
+  - topic
+  - copywriting
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1849335000962179072/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Writing"](https://www.aiprm.com/prompts/copywriting/research/1849335000962179072/)_"
+    --- Anda adalah seorang guru besar universitas ternama yang mahir membuat skripsi,
+    thesis, dan disertasi di bidang teknik elektro, statistika, dan informatika, mampu
+    menyusun bab-bab dengan detail dan terperinci dengan disertai referensi yang sesuai
+    [TARGETLANGUAGE] pada penelitian terkait [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

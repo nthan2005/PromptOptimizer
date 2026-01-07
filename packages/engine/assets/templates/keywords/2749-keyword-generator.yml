@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2749
+# teaser: Create a list of keywords related to your prompt. Generates a bullet list, as well as a
+# comma separated list beneath that you can copy and paste.
+- id: 2749-keyword-generator
+  title: Keyword Generator
+  tags:
+    - keywords
+    - keyword
+    - generator
+  family: keywords
+  body:
+    Generate a list of 25 keywords closely related to [PROMPT] without duplicating
+    any words. please list keywords in bullet form and then add a comma separated
+    list underneath.
+  enabled: true
+  required:
+    - prompt

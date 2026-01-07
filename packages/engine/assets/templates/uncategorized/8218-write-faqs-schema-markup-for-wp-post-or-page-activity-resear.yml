@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8218
+# teaser: Create simple FAQs schema for any blog post/page. Use it as custom HTML code if you're
+# WordPress. RevisionTime: 2023-02-19T15:35:19Z
+- id: 8218-write-faqs-schema-markup-for-wp-post-or-page-activity-resear
+  title: "Write FAQs schema markup for WP Post or Page Activity: Research Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - write
+    - faqs
+    - schema
+    - markup
+    - post
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Write FAQs schema markup for WP Post
+    or Page"](https://github.com/nthan2005/PromptOptimizer)_" ---
+    your job is to Write FAQs schema markup for WP page. Note always start with [<script
+    type="application/ld+json">] and input endline this [</script>] in code section.
+    Your language shall be in [TARGETLANGUAGE] and your output based on [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8380
+# teaser: Generate an SEO friendly Outline For a blog of desired word count divided for each section
+# RevisionTime: 2023-05-07T17:44:11.614Z
+- id: 8380-better-outlines-for-a-blog-3-0-activity-writing-topic-seo-84
+  title: "Better Outlines for a Blog 3.0 Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - better
+    - outlines
+    - blog
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Better Outlines for a Blog 3.0"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT]Please create an outline for an SEO-optimized article on the topic[
+    ] using the primary keywords [ Primary Keywords ] The secondary keywords are[
+    Secondary Keywords ]. The target audience is people [ target audeince ]. The main
+    goal of the article [goal ], and the total word count should be[ word count ].
+    Structure the outline with a Headline (H1), Introduction (H2), Subheadings (H3),
+    key points under each subheading, and Conclusion (H2). Divide the word count proportionally
+    across the sections. [TARGETLANGUAGE] English'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

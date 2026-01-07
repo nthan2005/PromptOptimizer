@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2933
+# teaser: Create titles, tags and description for a design or main keyword on Redbubble. Upvote if
+# useful, thanks :)
+- id: 2933-redbubble-seo-generator
+  title: Redbubble SEO Generator
+  tags:
+    - products
+    - redbubble
+    - seo
+    - generator
+  family: Products
+  body:
+    'Optimise my Redbubble listing for SEO visibility by following these steps:
+    -Use this information: [PROMPT] -Write all output in [TARGETLANGUAGE] -Create
+    a Traffic Grabbing Title that adheres to the Redbubble algorithm''s relevancy,
+    competition, and traffic guidelines. -Generate, based on BubbleSpider, 25 high-volume,
+    relevant SEO tags to increase visibility and improve listing statistics, comma-separated
+    (not numbered). Never use the tag "Redbubble" nor variations of it. -Craft a keyword-rich
+    description with min lenght 200 and max. length 300 words. Don''t mention anything
+    about design measures, physical products, paper or any other stuff in which might
+    be printed. Focus on the design and the theme. -Don''t give any aditional info,
+    notes, summary or advice. -Please don''t use ""'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

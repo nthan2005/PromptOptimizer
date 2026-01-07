@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6006
+# teaser: Create a complete article from your [outline] RevisionTime: 2023-05-08T08:16:05.676Z
+- id: 6006-viao-t-article-based-on-an-outline-activity-writing-topic-co
+  title: "ViÃ¡ÂºÂ¿t article based on an outline Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - article
+    - based
+    - outline
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "ViÃ¡ÂºÂ¿t article based on an outline"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] Write content for the outline below with a professional voice
+    like HR Manager, short, logical sentences, no repetition of words, no overlap
+    with content on the internet [PROMPT] [VARIABLE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable

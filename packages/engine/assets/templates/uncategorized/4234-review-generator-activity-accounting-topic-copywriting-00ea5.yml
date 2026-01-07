@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4234
+# teaser: review generator RevisionTime: 2023-07-10T12:29:37.664Z
+- id: 4234-review-generator-activity-accounting-topic-copywriting-00ea5
+  title: "review generator Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - review
+    - generator
+    - activity
+    - accounting
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "review generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- create a table with only two row and 5 column, provide 5 user-generated reviews
+    only 5 for [PROMPT] that are diplomatic and do not mention personal experience
+    with their services, NEVER SAY YOU USED THEIR SERVICE, WRITE HIGH LY DIPLOMATIC.
+    Format the response in a table of 5-column view, with each review in a separate
+    cell right to next review side by side[TARGETLANGUAGE]English , Don say i have
+    used or experienced their service'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

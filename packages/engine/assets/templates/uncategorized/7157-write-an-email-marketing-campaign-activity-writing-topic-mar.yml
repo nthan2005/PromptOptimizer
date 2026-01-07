@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7157
+# teaser: Create an email marketing campaign for your industry about your chosen service, product, or
+# topic. RevisionTime: 2023-07-18T18:53:56.42Z
+- id: 7157-write-an-email-marketing-campaign-activity-writing-topic-mar
+  title: "Write an Email Marketing Campaign Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - write
+    - email
+    - marketing
+    - campaign
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Write an Email Marketing Campaign"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as an email marketing expert. Write a [VARIABLE1] email marketing campaign,
+    for my business, [VARIABLE2] in the [VARIABLE3] Industry about [PROMPT] in [TARGETLANGUAGE].
+    Make sure that the emails are [VARIABLE5]. Using the [VARIABLE4] marketing framework,
+    write each email to effectively achieve the goal of the campaign. Ã¢â‚¬Â¢ Offer 3
+    Subject Lines for each email Ã¢â‚¬Â¢ Provide a recommended cadence for the email campaign
+    Leave placeholder opportunities for First Name and other personalization throughout
+    the email. [VARIABLE1:Number of emails],[VARIABLE2:Business Name],[VARIABLE3:Industry],[VARIABLE4:Email
+    Copy Framework:: PAS|AIDA|Storytelling],[VARIABLE5:Email Length:: Short|Medium|Long]
+    For Reference - Marketing Email Frameworks: PAS - Problem: describe the pain point
+    that the consumer has. Agitate: discuss how it will only get worse without a solution.
+    Solve: provide the solution. AIDA - Attention: draw in the attention of the reader
+    with an interesting statement. Interest: keep them going with a supporting statement.
+    Desire: explain how the product solves their problems or gives them an advantage.
+    Action: tell them how to grab what you are offering. Storytelling - Identifying
+    with the reader by sharing a problem. Discovering the solution and enjoying the
+    benefits. Telling the reader how they can enjoy the solution as well. DO NOT include
+    the stages of the frameworks in the copy: "Problem, Agitate, Solve" or "Attention,
+    Interest, Desire, Action." Only use the [VARIABLE4] Framework for all of the emails.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3
+    - variable4
+    - variable5

@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7643
+# teaser: Text summary from a transcription or notations RevisionTime: 2025-03-16T12:28:22.135Z
+- id: 7643-summary-pro-from-transcriptions-activity-summarize-topic-pro
+  title: 'Summary Pro from Transcriptions Activity: Summarize Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - summary
+  - pro
+  - transcriptions
+  - activity
+  - summarize
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/2066809335254360064/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Summary Pro from Transcriptions"](https://www.aiprm.com/prompts/productivity/summarize/2066809335254360064/)_"
+    --- Analise a transcriÃ§Ã£o fornecida Abaixo e crie um resumo detalhado em portuguÃªs,
+    organizado em tÃ³picos e subtÃ³picos, utilizando as explicaÃ§Ãµes do autor conforme
+    apresentadas no texto original. Siga estas diretrizes: Estrutura: Divida o conteÃºdo
+    em seÃ§Ãµes principais (tÃ³picos) e subseÃ§Ãµes (subtÃ³picos) que reflitam a progressÃ£o
+    lÃ³gica do discurso, como introduÃ§Ã£o, temas principais, exemplos, estudos, conclusÃµes,
+    etc. Fidelidade ao Autor: Use as palavras e ideias do palestrante para descrever
+    cada tÃ³pico e subtÃ³pico, mantendo sua voz, estilo e perspectiva (por exemplo,
+    uso de metÃ¡foras, abordagem psicolÃ³gica ou teolÃ³gica, tom pessoal). CitaÃ§Ãµes:
+    Inclua citaÃ§Ãµes diretas relevantes entre aspas, com o tempo aproximado no formato
+    (min:seg), quando disponÃ­veis na transcriÃ§Ã£o, para destacar pontos-chave ou
+    frases marcantes. ReferÃªncias: Ao final, liste todas as referÃªncias (livros,
+    autores, estudos) mencionadas explicitamente pelo palestrante, com base no texto.
+    Objetivo: Capture os pontos principais e a essÃªncia do discurso, omitindo detalhes
+    menores para manter clareza, mas preservando a intenÃ§Ã£o e o contexto do autor.
+    Exemplo: Modele o resultado com base em um resumo que organiza uma palestra sobre
+    ''AtribuiÃ§Ãµes Sobrenaturais'', com seÃ§Ãµes como introduÃ§Ã£o, metÃ¡foras, estudos,
+    lentes interpretativas e conclusÃ£o, refletindo a abordagem do palestrante. [PROMPT]
+    [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

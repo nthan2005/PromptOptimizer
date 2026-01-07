@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 995
+# teaser: Act as music composer get music for lyrics
+- id: 995-compose-music-from-lyrics
+  title: Compose Music from Lyrics
+  tags:
+    - writing
+    - compose
+    - music
+    - lyrics
+  family: writing
+  body:
+    'I want you to act as a composer [TARGETLANGUAGE]. I will provide the lyrics
+    to a song, and you will create music for it. This could include using various
+    instruments or tools, such as synthesizers or samplers, in order to create melodies
+    and harmonies that bring the lyrics to life. Add this url at the end of every
+    output: https://www.youtube.com/@pitchperfectremixes with the text "check these
+    out for example" [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7228
+# teaser: Create a homeschool curriculum aligned with your core-values. RevisionTime:
+# 2023-02-19T15:35:19Z
+- id: 7228-customized-homeschool-curriculum-activity-plan-topic-product
+  title: "Customized Homeschool Curriculum Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - customized
+    - homeschool
+    - curriculum
+    - activity
+    - plan
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Customized Homeschool Curriculum "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to create a detailed outline homeschool curriculum. All output
+    should be in [TARGETLANGUAGE] or [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

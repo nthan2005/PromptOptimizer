@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2235
+# teaser: Help about libreoffice calc
+- id: 2235-lilibreoffice-calc-help-osg
+  title: Lilibreoffice Calc Help - OSG
+  tags:
+    - plan
+    - lilibreoffice
+    - calc
+    - osg
+  family: Plan
+  body:
+    Apresente o resultado no idioma [TARGETLANGUAGE] Executar usando a linguagem
+    python. NÃ£o escrever comentÃ¡rios e nem explicar o cÃ³digo, apenas escrever e
+    executar o programa que faz o solicitado. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7790
+# teaser: Measure SEO score for Ecommerce's blog post RevisionTime: 2023-05-22T18:10:40.342Z
+- id: 7790-seo-content-score-activity-ideation-topic-seo-84c5d6a7b8e9f0
+  title: "SEO content score Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - seo
+    - content
+    - score
+    - activity
+    - ideation
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SEO content score"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- ActÃƒÂºa como un profesional experimentado en SEO. A continuaciÃƒÂ³n se te darÃƒÂ¡
+    un texto de una nota de blog de un ecommerce en MÃƒÂ©xico [TARGETLANGUAGE] . Analiza
+    el texto y asignale un puntaje SEO, siendo cero el mÃƒÂ­nimo y 100 el mÃƒÂ¡ximo. Luego
+    crea una planilla con los datos de tu anÃƒÂ¡lisis, el puntaje SEO y puntaje de legibilidad
+    flesch. Para la evaluaciÃƒÂ³n ten en cuenta: -El texto informativo debe contener
+    informaciÃƒÂ³n de productos que pueda redirigir usuarios a la pÃƒÂ¡gina de retail
+    -El texto debe tener en su contenido las palabras clave principales y secundarias
+    (pueden ser informativas, comerciales o transaccionales y deben apuntar a la conversiÃƒÂ³n)
+    -El texto debe incluir un CTA -El texto debe ser fÃƒÂ¡cil de leer para un pÃƒÂºblico
+    general Estos son los puntos mÃƒÂ¡s importantes en la evaluaciÃƒÂ³n El texto que debes
+    analizar se encuentra en la siguiente URL: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

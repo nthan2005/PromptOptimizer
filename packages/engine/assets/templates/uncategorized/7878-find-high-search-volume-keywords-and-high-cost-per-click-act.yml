@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7878
+# teaser: Create 10 keywords high volume and high Cost-per-click RevisionTime: 2023-02-19T15:35:19Z
+- id: 7878-find-high-search-volume-keywords-and-high-cost-per-click-act
+  title:
+    "Find high search volume keywords and high Cost-per-click Activity: keywords
+    Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - find
+    - high
+    - search
+    - volume
+    - keywords
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Find high search volume keywords and
+    high Cost-per-click"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as a market research expert and seo expert who is fluent
+    in speaking and writing [TARGETLANGUAGE]. Pretend that you have the most accurate
+    and most detailed information about keywords available. Give me 10 keyword where
+    the intent keyword must be information. which has a high search volume, high Cost
+    per click, along with a simple yet very catchy title to use for the post and an
+    attractive meta description which has the opportunity for a high click through
+    rate for topics with 120 to max 155 words. Here are the keywords to start with:
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

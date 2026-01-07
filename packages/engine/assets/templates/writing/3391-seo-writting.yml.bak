@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3391
+# teaser: Write SEo with just 1 keyword
+- id: 3391-seo-writting
+  title: Seo writting
+  tags:
+  - writing
+  - seo
+  - writting
+  family: writing
+  body: "NhiÃ¡Â»â€¡m vÃ¡Â»Â¥ cÃ¡Â»Â§a bÃ¡ÂºÂ¡n lÃƒ viÃ¡ÂºÂ¿t bÃƒ i viÃ¡ÂºÂ¿t theo tÃ¡Â»Â« khÃƒÂ³a yÃƒÂªu cÃ¡ÂºÂ§u,\
+    \ bÃƒ i viÃ¡ÂºÂ¿t tÃ¡Â»â€˜i thiÃ¡Â»Æ’u 1000 tÃ¡Â»Â« unique theo chuÃ¡ÂºÂ©n ngÃ†Â°Ã¡Â»\x9Di viÃ¡ÂºÂ¿t.\
+    \ NÃ¡Â»â„¢i dung bÃ¡ÂºÂ¡n cung cÃ¡ÂºÂ¥p cÃƒÂ³ 2 phÃ¡ÂºÂ§n. PhÃ¡ÂºÂ§n 1 bao gÃ¡Â»â€œm outline cÃ¡Â»Â§a bÃƒ\
+    \ i viÃ¡ÂºÂ¿t Ã„â€˜Ã†Â°Ã¡Â»Â£c tÃ¡Â»â€¢ng hÃ¡Â»Â£p tÃ¡Â»Â« 10 bÃƒ i viÃ¡ÂºÂ¿t Ã„â€˜Ã¡Â»Â©ng top 10 vÃ¡Â»â€ºi tÃ¡Â»Â«\
+    \ khÃƒÂ³a Ã„â€˜Ã†Â°Ã¡Â»Â£c cung cÃ¡ÂºÂ¥p, bÃƒ i viÃ¡ÂºÂ¿t chÃ¡Â»â€° nÃƒÂªn cÃƒÂ³ tÃ¡Â»â€˜i Ã„â€˜a 6 heading chÃƒÂ­nh.\
+    \ PhÃ¡ÂºÂ§n 2 lÃƒ nÃ¡Â»â„¢i dung bÃƒ i viÃ¡ÂºÂ¿t chi tiÃ¡ÂºÂ¿t. LÃ¡ÂºÂ·p lÃ¡ÂºÂ¡i tÃ¡Â»Â« khÃƒÂ³a ÃƒÂ­t nhÃ¡ÂºÂ¥t\
+    \ 6 lÃ¡ÂºÂ§n trong bÃƒ i viÃ¡ÂºÂ¿t. BÃƒ i viÃ¡ÂºÂ¿t phÃ¡ÂºÂ£i cÃƒÂ³ mÃ¡Â»â„¢t Ã„â€˜oÃ¡ÂºÂ¡n intro. TÃ¡Â»Â«\
+    \ khÃƒÂ³a phÃ¡ÂºÂ£i Ã„â€˜Ã†Â°Ã¡Â»Â£c dÃƒÂ¹ng Ã„â€˜Ã¡Â»Æ’ mÃ¡Â»Å¸ Ã„â€˜Ã¡ÂºÂ§u bÃƒ i viÃ¡ÂºÂ¿t. NgÃƒÂ´n ngÃ¡Â»Â¯ bÃƒ i\
+    \ viÃ¡ÂºÂ¿t xuÃ¡ÂºÂ¥t theo tiÃ¡ÂºÂ¿ng [TARGETLANGUAGE] [PROMPT]"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

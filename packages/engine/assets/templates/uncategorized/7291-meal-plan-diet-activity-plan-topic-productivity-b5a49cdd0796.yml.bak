@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7291
+# teaser: Create an healthy and balanced diet RevisionTime: 2023-02-23T10:25:17Z
+- id: 7291-meal-plan-diet-activity-plan-topic-productivity-b5a49cdd0796
+  title: 'Meal Plan diet Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - meal
+  - plan
+  - diet
+  - activity
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1794282653428740096/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Meal Plan diet"](https://www.aiprm.com/prompts/productivity/plan/1794282653428740096/)_"
+    --- MEAL PLAN for a healthy and balanced diet. All output shall be in [TARGETLANGUAGE]
+    The text is this [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

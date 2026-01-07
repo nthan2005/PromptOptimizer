@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4954
+# teaser: Create AI Detector Free Content RevisionTime: 2023-03-08T22:39:09.115Z
+- id: 4954-create-ai-detector-free-content-activity-script-writing-topi
+  title: 'Create AI Detector Free Content Activity: Script Writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - detector
+  - free
+  - content
+  - activity
+  - script
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1799179311996211200/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create AI Detector Free Content"](https://www.aiprm.com/prompts/copywriting/script-writing/1799179311996211200/)_"
+    --- [PROMPT] Please write in a way that is the same as a human, 100% unique and
+    undetectable to plagiarism software and AI detection tools. Under no circumstances
+    should you copy text verbatim from the any sources, [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8673
+# teaser: I want you to act as an SEO Optimized Article. I will provide you with a list of topics that
+# can be searched for, and you will create an article based on those topics. My first request is "I
+# need help creating an SEO optimized article for my company." RevisionTime: 2023-06-25T05:14:27.371Z
+- id: 8673-seo-based-article-100-original-activity-writing-topic-seo-84
+  title: 'SEO Based Article 100% original Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - seo
+  - based
+  - article
+  - '100'
+  - original
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1838416683056812032/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "SEO Based Article 100% original"](https://www.aiprm.com/prompts/seo/writing/1838416683056812032/)_"
+    --- Write 500 words SEO Optimized Article With introduction and conclusion & FAQs]
+    All output shall be in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

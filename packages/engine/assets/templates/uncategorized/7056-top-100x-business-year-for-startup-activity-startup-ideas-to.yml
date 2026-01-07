@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7056
+# teaser: Marketing plane for StartUP. RevisionTime: 2023-10-07T22:10:25.173Z
+- id: 7056-top-100x-business-year-for-startup-activity-startup-ideas-to
+  title: "[TOP 100X+] Business year for startup. Activity: Startup Ideas Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - top
+    - 100x
+    - business
+    - year
+    - startup
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "[TOP 100X+] Business year for startup."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- # Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Advanced Business Ideas Generation"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want to generate startup or online business ideas from [PROMPT]. Write all
+    output in [TARGETLANGUAGE] This generator will help entrepreneurs to find startup
+    ideas based on different criteria. c. The response should provide: - a list of
+    ideas - the advantages and disadvantages of each idea - a 3-month action plan
+    for the mvp (minimal viable product) - a list of points to be explored to validate
+    the project - invite the user to bring more information to chatgpt on a specific
+    idea to deepen it Task: a. Explain clearly the task you expect from ChatGPT. b.
+    Create a startup idea generator that considers the following criteria: potential
+    market, competition, production costs, market demand, etc. b. For each idea generated,
+    provide a list of pros and cons. Here is an Example of what I want: User'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

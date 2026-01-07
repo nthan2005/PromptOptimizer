@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7021
+# teaser: Convert Youtube Video Transcript into a Human Written Professional Article RevisionTime:
+# 2024-10-03T09:55:57.299Z
+- id: 7021-youtube-transcript-to-blog-post-activity-social-media-topic
+  title: "Youtube Transcript To Blog Post Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - youtube
+    - transcript
+    - blog
+    - post
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Youtube Transcript To Blog Post"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to write a blog post with a high degree of complexity and variations
+    of sentences, as if it were written by a human, about the subject I give you,
+    and from the transcript I give you, the blog post should have between 600 and
+    1000 words, include subheadings and optimize the article for the keywords I give
+    you for improved search engine optimization. At the end of the blog post, write
+    this (Always check your content with AI Detector: https://contentatscale.ai/ai-content-detector/.
+    Please support us by following us on Twitter: https://twitter.com/aifastcash).
+    All output shall be in [TARGETLANGUAGE]. Here is the Transcript, Subject, and
+    keywords: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

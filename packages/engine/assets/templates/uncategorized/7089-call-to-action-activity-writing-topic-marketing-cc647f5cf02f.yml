@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7089
+# teaser: Writes a compelling call-to-action intro and button text RevisionTime: 2023-02-19T15:35:19Z
+- id: 7089-call-to-action-activity-writing-topic-marketing-cc647f5cf02f
+  title: "Call-To-Action Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - call
+    - action
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Call-To-Action"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a short improved call-to-action in Language: [TARGETLANGUAGE], containing
+    a headline and a button text for this action: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

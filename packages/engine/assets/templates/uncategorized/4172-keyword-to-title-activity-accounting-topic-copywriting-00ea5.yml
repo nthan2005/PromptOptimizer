@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4172
+# teaser: Best Title RevisionTime: 2023-08-27T20:41:49.454Z
+- id: 4172-keyword-to-title-activity-accounting-topic-copywriting-00ea5
+  title: "Keyword to Title Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - keyword
+    - title
+    - activity
+    - accounting
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Keyword to Title"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- create a unique and interesting title for Google snippets with each keyword
+    "[PROMPT]" add YOAST SEO, keyphrase, seo title, slug, meta desc and organic keywords.[TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

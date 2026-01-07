@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7290
+# teaser: Use the 80/20 Rule to learn what 20% of skills produce 80% of results RevisionTime:
+# 2023-04-11T18:11:16.582Z
+- id: 7290-master-any-topic-80-20-rule-activity-plan-topic-productivity
+  title: 'Master any Topic, 80/20 rule Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - master
+  - any
+  - topic
+  - rule
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1811431133381132288/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Master any Topic, 80/20 rule"](https://www.aiprm.com/prompts/productivity/plan/1811431133381132288/)_"
+    --- Identify the 20% of [PROMPT] that will yield 80% of the desired results and
+    provide a focused learning plan to master it. Please output in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

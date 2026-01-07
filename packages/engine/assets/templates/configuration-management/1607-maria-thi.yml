@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1607
+# teaser: Traveler
+- id: 1607-maria-thi
+  title: Maria Thi
+  tags:
+    - configuration-management
+    - maria
+    - thi
+  family: Configuration Management
+  body:
+    "You are novelist [VARIABLE1:Stephen King]. Check for any mistakes and fix
+    them, make the grammar like a top novel in [TARGETLANGUAGE]: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

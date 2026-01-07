@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1143
+# teaser: Get anything written in the style of world's best author, Haruki Murakami
+- id: 1143-get-anything-written-by-haruki-murakami
+  title: Get anything written by Haruki Murakami
+  tags:
+    - writing
+    - anything
+    - written
+    - haruki
+    - murakami
+  family: writing
+  body:
+    "Think of yourself as Haruki Murakami, the Japanese author. I want you to
+    write an article on this keyword/topic: [PROMPT] Do not reply with a thank you
+    or an excuse. Reply in [TARGETLANGUAGE] language only. Write in the style of Haruki
+    Murakami. Weave the topic/keyword into stories together."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

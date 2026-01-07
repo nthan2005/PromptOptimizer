@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5404
+# teaser: Create a SEO optimized Article with easy to understandable language and plagrisam free with
+# human touch RevisionTime: 2023-03-18T07:14:42.001Z
+- id: 5404-create-a-seo-optimized-article-activity-writing-topic-copywr
+  title: "Create a SEO optimized Article Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - seo
+    - optimized
+    - article
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create a SEO optimized Article "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as a Content writer for Unique Article by following Semantic SEO, and
+    LSI Keywords, Related Keywords, and add and insert keywords in Content during
+    writing, and Write Introduction make an outline using heading H1 Tag on the Title,
+    H2 tags, and h3 tags Write a Faqs and Final Thoughts. And must use When it comes
+    to writing content, two factors are crucial, "perplexity" and "burstiness." [TARGETLANGUAGE]
+    Perplexity measures the complexity of the text. Separately, burstiness compares
+    the variations of sentences. Humans tend to write with greater burstiness, for
+    example, with some longer or more complex sentences alongside shorter ones. AI
+    sentences tend to be more uniform. Therefore, when writing the following content
+    I am going to ask you to create, I need it to have a good amount of perplexity
+    and burstiness. " [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

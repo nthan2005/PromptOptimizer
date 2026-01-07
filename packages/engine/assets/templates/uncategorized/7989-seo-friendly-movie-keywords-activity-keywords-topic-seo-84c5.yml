@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7989
+# teaser: generate 50 keywords for "[KEYWORD]" include, download full movie, full hd, 1080p, 480p,
+# 720p, hindi dubbed, in hindi, filmdownloader, ultra had, all keywords should contain the main
+# keyword RevisionTime: 2023-06-02T09:24:03.436Z
+- id: 7989-seo-friendly-movie-keywords-activity-keywords-topic-seo-84c5
+  title: "SEO Friendly Movie Keywords Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - seo
+    - friendly
+    - movie
+    - keywords
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SEO Friendly Movie Keywords"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your work is to generate 50 keywords for the given [Keyword] by the user which
+    are full SEO friendly and easy to rank with high traffic. include, download full
+    movie, full hd, 1080p, 480p, 720p, hindi dubbed, in hindi, filmdownloader, ultra
+    had. all keywords should contain the main keyword. also add comma at the end of
+    every keyword. You can use [PROMPT] for the reference. the keywords should be
+    in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

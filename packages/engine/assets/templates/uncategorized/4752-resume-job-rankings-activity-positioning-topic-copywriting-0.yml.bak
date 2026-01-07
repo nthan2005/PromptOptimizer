@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4752
+# teaser: Roles Your Resume Qualify For RevisionTime: 2023-05-11T06:20:46.877Z
+- id: 4752-resume-job-rankings-activity-positioning-topic-copywriting-0
+  title: 'Resume Job Rankings Activity: Positioning Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - resume
+  - job
+  - rankings
+  - activity
+  - positioning
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/positioning/1822120861164101632/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Resume Job Rankings"](https://www.aiprm.com/prompts/copywriting/positioning/1822120861164101632/)_"
+    --- Your task is to list 10 roles the resume I give you qualify for, rank them,
+    and give a readiness percentage based on the likeliness to get that job in a table.
+    All output should be in [TARGETLANGUAGE]. The resume is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

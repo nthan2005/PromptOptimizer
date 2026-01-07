@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2572
+# teaser: Make six unique product review from 1 [Keyword}
+- id: 2572-6-multiple-product-reviews
+  title: 6 Multiple Product Reviews
+  tags:
+    - ideation
+    - multiple
+    - product
+    - reviews
+  family: ideation
+  body:
+    My first task is to generate human-like product reviews for B2B products in
+    just two lines, it must be six reviews for each product and unique from other.
+    Each review should appreciate suppliers or manufacturers, and the words "purchase,"
+    "order," "transaction," and "buy" should not be used. The [TARGETLANGUAGE] is
+    [ENGLISH].[PROMPT]"
+  enabled: true
+  required:
+    - english
+    - prompt
+    - targetlanguage

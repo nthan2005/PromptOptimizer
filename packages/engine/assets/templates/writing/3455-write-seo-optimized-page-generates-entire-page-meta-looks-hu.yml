@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3455
+# teaser: Generate SEO optimized page from ANY content (a page title, an existing post, or a long
+# article). Drop an optional keyword list at the end.
+- id: 3455-write-seo-optimized-page-generates-entire-page-meta-looks-hu
+  title: Write SEO Optimized Page | Generates entire page + meta | Looks human written
+  tags:
+    - writing
+    - write
+    - seo
+    - optimized
+    - page
+    - generates
+  family: writing
+  body:
+    "Re-create a full article/page from the following content, include a better:
+    SEO Title, and SEO Meta Description at the begining. If the following content
+    contains a list of keywords at the end (or at begining), please optimize the article
+    to include them with a good density but make it look human written. Here's the
+    content, and the keywords (if any): [PROMPT], please generate content in [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

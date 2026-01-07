@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8249
+# teaser: Ready to ditch Lorem Ipsum for content that actually brings in traffic? Discover how to
+# create SEO-optimized text that boosts visibility, attracts the right audience, and keeps users
+# engagedÃ¢â‚¬â€all while giving your website the professional polish it deserves! RevisionTime:
+# 2024-12-02T09:04:16.234Z
+- id: 8249-seo-optimized-content-creation-for-web-development-activity
+  title:
+    "SEO-Optimized Content Creation for Web Development Activity: Web Development
+    Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - seo
+    - optimized
+    - content
+    - creation
+    - web
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SEO-Optimized Content Creation for
+    Web Development"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as a website developer, and create an outline to help develop SEO-optimized
+    content that can replace placeholder text like Lorem Ipsum on a website. The content
+    should be specifically crafted to enhance search engine rankings by using keyword-rich,
+    engaging, and informative text that resonates with the target audience. Explain
+    how this content can make the website more discoverable online and lead to increased
+    user engagement. My first task is [PROMPT]. The target language is [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

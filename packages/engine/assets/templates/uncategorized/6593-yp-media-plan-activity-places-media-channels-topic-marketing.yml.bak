@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6593
+# teaser: (YP) media plan RevisionTime: 2023-03-31T20:03:34.917Z
+- id: 6593-yp-media-plan-activity-places-media-channels-topic-marketing
+  title: '(YP) media plan Activity: Places (Media Channels) Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - media
+  - plan
+  - activity
+  - places
+  - channels
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/places-media-channels/1805973584590663680/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "(YP) media plan"](https://www.aiprm.com/prompts/marketing/places-media-channels/1805973584590663680/)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] FaÃ§a um planejamento de
+    mÃ­dia paga para uma empresa de ... Traga os possÃ­veis canais de mÃ­dia paga
+    em uma tabela, com colunas falando sobre as possÃ­veis segmentaÃ§Ãµes e pontos
+    positivos de cada canal de mÃ­dia. NÃ£o deixe de adicionar mÃ­dia programÃ¡tica
+    Traga tambÃ©m sugestÃµes de anÃºncios ou formatos para anÃºncios de Facebook e
+    Instagram com base no segmento de mercado, trazendo separado por etapa do funil
+    de vendas Traga em tabela tambÃ©m as principais palavras-chave do segmento de
+    mercado, com nÃºmero estimado de buscas e valor mÃ©dio do Custo por clique (CPC)
+    Traga tambÃ©m sugestÃµes de pÃºblicos e segmentaÃ§Ãµes separado entre etapas do
+    funil para campanhas em Facebook Ads para o segmento [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

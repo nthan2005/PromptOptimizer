@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9421
+# teaser: The PROMPT should be the chapter title. It is recommended to copy ChatGPT's answer and ask
+# it to correct itself for a better sense-making construction. RevisionTime: 2023-02-19T15:35:19Z
+- id: 9421-the-best-chapter-writer-for-books-on-anything-in-any-languag
+  title:
+    "The best chapter writer for books on anything, in any language. Activity:
+    writing Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - chapter
+    - writer
+    - books
+    - anything
+    - any
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "The best chapter writer for books on
+    anything, in any language."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- With focus on building meaningful relationships between ideas and maintaining
+    coherence throughout the chapter. Write a chapter, in [TARGETLANGUAGE] with the
+    title "[PROMPT]", containing approximately 3000 words and no fewer, with the objective
+    of presenting a cohesive and persuasive text about [PROMPT]. Use solid and well-structured
+    arguments and illustrate your ideas with metaphors and analogies. Build complete
+    and complex sentences and emphasize paragraph coherence so that the text makes
+    sense in the end. Write a human text with fewer, but larger, paragraphs, and if
+    interrupted, continue writing in a way that maintains text consistency. Focus
+    on building meaningful relationships between ideas and maintaining coherence throughout
+    the chapter.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

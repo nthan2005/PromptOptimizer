@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2467
+# teaser: Generated 10 enticing and accurate titles for your scientific articles based on your
+# abstracts
+- id: 2467-10-high-quality-scientific-titles-from-abstract
+  title: 10 high-quality scientific titles from abstract
+  tags:
+    - summarize
+    - high
+    - quality
+    - scientific
+    - titles
+    - abstract
+  family: Summarize
+  body:
+    "Propose 10 professional titles for a scientific paper based on this abstract's
+    results and conclusions. Be concise. Make it catchy but remain professional. Do
+    not repeat the instructions. Keep them simple but precise. Write in a formal professional
+    manner. Make them extremely convincing and optimised to push to click. Rank them
+    the most accurate and convincing first. Abstract : [PROMPT][TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

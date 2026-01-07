@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6176
+# teaser: Create CV for job RevisionTime: 2023-06-06T08:26:36.892Z
+- id: 6176-cv-generation-test-activity-dall-e-topic-generative-ai-b983e
+  title: "CV Generation Test Activity: Dall-E Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - generation
+    - test
+    - activity
+    - dall
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "CV Generation Test"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Generate a general CV for the job of [VARIABLE 1]. The person name is [VARIABLE
+    2]. The output language is [TARGETLANGUAGE] and job tile is [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

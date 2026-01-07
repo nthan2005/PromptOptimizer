@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3164
+# teaser: You will get fancy titles! Type keywords separarted by a comma for the title, Example
+# keywords are: api,test,automation
+- id: 3164-fancy-title-generator
+  title: Fancy Title Generator
+  tags:
+  - writing
+  - fancy
+  - title
+  - generator
+  family: writing
+  body: 'I want you to act as a fancy title generator. Give me the title in the language
+    [TARGETLANGUAGE]. I will type keywords via comma and you will reply with fancy
+    titles. my first keywords are: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

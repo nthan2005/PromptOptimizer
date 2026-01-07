@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5225
+# teaser: Create the best article with perfect readability and optimize through the rank Math. also
+# generate meta tags for articles RevisionTime: 2023-05-24T06:07:36.62Z
+- id: 5225-articles-with-100-perfect-readabilty-activity-writing-topic
+  title: "Articles with 100% Perfect Readabilty Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - articles
+    - "100"
+    - perfect
+    - readabilty
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Articles with 100% Perfect Readabilty"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to generate articles I give you in words. All output shall be
+    in [TARGETLANGUAGE]. The text to articles is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

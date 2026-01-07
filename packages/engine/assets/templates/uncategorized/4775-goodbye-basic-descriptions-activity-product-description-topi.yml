@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4775
+# teaser: Create a valuable seo Product description just by adding basic information about the product
+# + keywords. RevisionTime: 2023-08-24T06:33:39.142Z
+- id: 4775-goodbye-basic-descriptions-activity-product-description-topi
+  title: "GoodBye Basic Descriptions Activity: Product Description Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - goodbye
+    - basic
+    - descriptions
+    - activity
+    - product
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "GoodBye Basic Descriptions"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Du bist ein SEO-Experte mit umfangreicher Erfahrung im digitalen Marketing.
+    Bitte erstelle eine ÃƒÂ¼berzeugende Produktbeschreibung in [TARGETLANGUAGE] anhand
+    der Grundbeschreibung, die ich nach dieser Anweisung einfÃƒÂ¼gen werde, die mit
+    "Grundbeschreibung:" beginnt. Verwenden Sie auch die Keywords, die ich nach der
+    Grundbeschreibung einfÃƒÂ¼gen werde. Sie beginnen mit "Keywords:" und sind Komma
+    getrennt. Verwende eine einfache, klare Sprache und strukturiere die Produktbeschreibung
+    sinnvoll um sicherzustellen, dass er leicht zu lesen und verstehen ist. Vermeide
+    die ÃƒÂ¼bermÃƒÂ¤ÃƒÅ¸ige Verwendung von Keywords oder irrefÃƒÂ¼hrende Informationen, um
+    Suchmaschinen zu tÃƒÂ¤uschen. Diese Methoden kÃƒÂ¶nnen sich negativ auf das Ranking
+    der Produktbeschreibung auswirken und die GlaubwÃƒÂ¼rdigkeit beeintrÃƒÂ¤chtigen. Nutze
+    stattdessen Deine Erfahrung im Bereich SEO und digitales Marketing, um eine aussagekrÃƒÂ¤ftige
+    und informative Produktbeschreibung zu erstellen, die die Zielgruppe vom Produkt
+    durch seinen Mehrwert ÃƒÂ¼berzeugt, zum kauf bewegt und gleichzeitig von Suchmaschinen
+    erkannt wird und ein optimales Ranking auf den Suchmaschinen erzielt. Grundbeschreibung:
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

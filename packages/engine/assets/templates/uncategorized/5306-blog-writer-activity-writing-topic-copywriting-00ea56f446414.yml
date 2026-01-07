@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5306
+# teaser: use the topic keywords and its synonyms RevisionTime: 2024-06-21T18:22:28.34Z
+- id: 5306-blog-writer-activity-writing-topic-copywriting-00ea56f446414
+  title: "blog writer Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - blog
+    - writer
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "blog writer"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT] act as an professional humanized
+    blog writer seo optimized keep easy english and simple tone'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

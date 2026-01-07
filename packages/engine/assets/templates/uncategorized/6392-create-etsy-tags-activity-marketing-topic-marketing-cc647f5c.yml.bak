@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6392
+# teaser: Create 13 product tags for your Etsy product. The result is comma separated so you can
+# copy/paste into the Etsy tag section of your product. If you don't get 13 Etsy tags back, shorten
+# your product description. RevisionTime: 2024-01-16T17:14:09.573Z
+- id: 6392-create-etsy-tags-activity-marketing-topic-marketing-cc647f5c
+  title: 'Create Etsy Tags Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - etsy
+  - tags
+  - activity
+  - marketing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1912531085486063616/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create Etsy Tags"](https://www.aiprm.com/prompts/marketing/marketing/1912531085486063616/)_"
+    --- Act as a SEO marketing genuis. Create the following as a comma-separated list
+    with blanks between words. Create 13 popular and distinct Etsy product tags that
+    are between 4 and 20 characters in length. Each product tag must have a length
+    of less than 21 characters. Each tag must contain more than one word. No numbers.
+    No conjunctions. No plurals. No special characters. No quotation marks. Generate
+    in [TARGETLANGUAGE] for this Etsy product: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

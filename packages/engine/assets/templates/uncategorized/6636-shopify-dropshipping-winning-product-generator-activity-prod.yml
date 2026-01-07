@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6636
+# teaser: Shopify winning product research to find the next big eCommerce brand. Enter your niche and
+# get unique, non saturated products for your next big eCommerce brand. Use specific categories to get
+# the best results. Ex: nail, petcare, bottle, massage RevisionTime: 2024-05-03T06:26:27.005Z
+- id: 6636-shopify-dropshipping-winning-product-generator-activity-prod
+  title:
+    "Shopify Dropshipping: Winning Product Generator Activity: Products Topic:
+    Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - shopify
+    - dropshipping
+    - winning
+    - product
+    - generator
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Shopify Dropshipping: Winning Product
+    Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- As a Product Research Specialist with proficient product and market research
+    skills and fluent in [TARGETLANGUAGE], I need you to gather data on unique and
+    attractive products that are not yet available in the market or have the potential
+    to make an impact in people''s lives. These products should useful, unique, or
+    have potential for everyday life, and have a low cost of manufacturing, and be
+    able to generate higher margins through dropshipping. Do not use general or common
+    products for this research. To begin, Write a Heading'
+  enabled: true
+  required:
+    - targetlanguage

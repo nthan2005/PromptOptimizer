@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1047
+# teaser: Create keyword optimized FAQ for Product
+- id: 1047-create-seo-optimized-faq-for-product
+  title: Create SEO optimized FAQ for Product
+  tags:
+    - writing
+    - seo
+    - optimized
+    - faq
+    - product
+  family: writing
+  body:
+    Write in [TARGETLANGUAGE]. Create [NUM] questions with answers for [PRODUCT].
+    Use each of keywords in exact form. [PROMPT]
+  enabled: true
+  required:
+    - num
+    - product
+    - prompt
+    - targetlanguage

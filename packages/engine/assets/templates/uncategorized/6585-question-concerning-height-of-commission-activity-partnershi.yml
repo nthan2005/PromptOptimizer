@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6585
+# teaser: Please write an email asking for a commission. RevisionTime: 2023-05-23T17:56:17.16Z
+- id: 6585-question-concerning-height-of-commission-activity-partnershi
+  title: "Question concerning height of Commission Activity: Partnerships Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - question
+    - concerning
+    - height
+    - commission
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Question concerning height of Commission"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write an e-mail with the inquiry whether an order has resulted for
+    me from a joint live workshop in the context of a cooperation. Please write in
+    [TARGETLANGUAGE] and in the [PROMPT].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7788
+# teaser: Audit your existing content and get it SEO optimized along with Meta Title and Description
+# suggestions RevisionTime: 2023-02-24T10:34:37Z
+- id: 7788-seo-content-optimization-and-suggestions-activity-ideation-t
+  title: "SEO Content Optimization and Suggestions Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - seo
+    - content
+    - optimization
+    - suggestions
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SEO Content Optimization and Suggestions"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to audit the pasted content and get it SEO optimized on what areas
+    to improve and get more suggestions to rank better on search engines. I want you
+    to respond only in one language [TARGETLANGUAGE]. Your task is to give SEO optimization
+    suggestions in pointers and also internal linking suggestions. All the output
+    shall be in [ENGLISH]. Also create a Meta title between 60-70 characters, and
+    a Meta description below 160 characters. Give around 3-4 Title suggestions and
+    also long-tail keyword suggestions that would be easy to rank. The text to summarize
+    would be [PROMPT]'
+  enabled: true
+  required:
+    - english
+    - prompt
+    - targetlanguage

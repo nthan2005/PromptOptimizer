@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5264
+# teaser: Make your article perfect by correcting errors in spelling, grammar, punctuation, syntax,
+# formatting and etc. RevisionTime: 2023-03-03T03:39:39Z
+- id: 5264-best-proofreader-for-daily-use-activity-writing-topic-copywr
+  title: "Best Proofreader for Daily Use Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - proofreader
+    - daily
+    - use
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best Proofreader for Daily Use"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Proofread this article and show where you did change. All output should be
+    in [TARGETLANGUAGE]. Here is the article. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

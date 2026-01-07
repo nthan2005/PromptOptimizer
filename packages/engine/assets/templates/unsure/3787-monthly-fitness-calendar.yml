@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3787
+# teaser: monthly Fitness calendar - Put your weight and height in this format: [weight 80 kgs and
+# 1.80 cms]
+- id: 3787-monthly-fitness-calendar
+  title: "* Monthly Fitness Calendar *"
+  tags:
+    - unsure
+    - monthly
+    - fitness
+    - calendar
+  family: UNSURE
+  body:
+    'Por favor, piensa como un gimnasta nutricionista experto en musculaciÃƒÆ’Ã‚Â³n
+    y crea para mi en [TARGETLANGUAGE]: Calendario Mensual con los mÃƒÆ’Ã‚Âºsculos que debo
+    ejercitar para una persona que pesa y mide [PROMPT] de altura, para aumentar mi
+    volumen muscular. AÃƒÆ’Ã‚Â±ade esto en una tabla que se vea bien con las siguientes
+    columnas: "Semanas", "Fecha", "lunes", "martes", "miÃƒÆ’Ã‚Â©rcoles", "jueves", "viernes",
+    "sÃƒÆ’Ã‚Â¡bado", "domingo". Por favor, crea despuÃƒÆ’Ã‚Â©s otra tabla con las repeticiones
+    de ejercicios para cada musculo. Por favor, hazlo en un tono amigable y un estilo
+    descriptivo.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

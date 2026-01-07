@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8090
+# teaser: Optimize Business Listing | Keywords For Local Business Listings | Boost Your Business
+# Ranking | Upvote so that we can publish more prompts RevisionTime: 2023-05-25T20:22:39.421Z
+- id: 8090-local-business-keyword-for-best-seo-result-activity-marketin
+  title: 'Local Business Keyword for Best SEO Result Activity: marketing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - local
+  - business
+  - keyword
+  - seo
+  - result
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/1826731078405328896/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Local Business Keyword for Best SEO
+    Result"](https://www.aiprm.com/prompts/seo/marketing/1826731078405328896/)_" ---
+    You need to write Best local optimized keywords in [TARGETLANGUAGE] business type
+    [PROMPT] for the given [LOCATION]'
+  enabled: true
+  required:
+  - location
+  - prompt
+  - targetlanguage

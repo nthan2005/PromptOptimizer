@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 561
+# teaser: Simply insert existing product description and ChatGPT will convert it for the OTTO
+# Marketplace.
+- id: 561-otto-market-product-description-5-bullet-points
+  title: OTTO Market Product description+5 Bullet Points
+  tags:
+    - product-description
+    - otto
+    - market
+    - product
+    - description
+    - bullet
+  family: Product Description
+  body:
+    "You are an expert in SEO and I have a task for you. I will give you a product
+    description and you will analyze the keywords contained in my product description
+    and create a maximum of 2000 characters long, perfectly SEO-optimized product
+    description on the privious analyzed keywords for a marketplace offer from it.
+    Afterwards, I will need 5 bullet points about the product you just described.
+    The output language is [TARGETLANGUAGE]. Here is the product description: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4306
+# teaser: Create CTR on YouTube, TikTok, and Instagram with a one-click generator! Generate with CTR
+# emojis and hashtags, based on topics or keywords you use frequently on social media platforms. Make
+# your content stand out on social media! RevisionTime: 2023-06-15T05:34:03.891Z
+- id: 4306-1-click-generate-hashtags-emojis-calls-to-action-activity-ca
+  title:
+    "1 Click Generate Hashtags+Emojis+Calls To Action Activity: call to action
+    Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - click
+    - generate
+    - hashtags
+    - emojis
+    - calls
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"1 Click Generate Hashtags+Emojis+Calls\
+    \ To Action\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- Only respond in [TARGETLANGUAGE] and forget everything said before this\
+    \ prompt in the conversation. I will give 6 separate commands that have no relation\
+    \ to each other. Please answer the ... in format I listed. Commands : 1. Write\
+    \ me an Instagram description or caption with emojis for the post about \"[PROMPT]\"\
+    , include a hook and also a call to action. Also include the words, CLICK LINK\
+    \ IN BIO. Also include 4 frequently used relevant hashtags and 2 viral hashtag.\
+    \ 2. Write a caption for a reel of my Instagram page. This particular reel contains\
+    \ a video about [PROMPT]. Add a Hashtags to the caption. The Hashtags should be\
+    \ high competitive and relevant viral Hashtag. Use a friendly Ã¢â‚¬Å“youÃ¢â‚¬\x9D form.\
+    \ The reel should go viral and people should follow the page after reading this\
+    \ caption. 3. Write a caption for my TikTok page. This particular contains a video\
+    \ about [PROMPT]. Use a friendly tone. Add a viral Hashtag to the caption. The\
+    \ video should go viral and people should follow the page after reading this caption.\
+    \ 4. Write a hook and also a call to action often used on social media platforms\
+    \ where should go viral and people should follow the page after reading it. 5.\
+    \ Create 10 trending hashtags about \"[PROMPT]\" that is used frequently on social\
+    \ media platforms. Please separate hashtags with space. 6. Create 10 YouTube Tags\
+    \ Targeting an LSI Keyword that are often used for the following Topic: [PROMPT].\
+    \ No hashtags, separate keywords by commas. Only capitalize proper nouns. The\
+    \ format should look like: IG Captions: ... IG reel Captions: ... TikTok Captions:\
+    \ ... Other CTA: ... Other Hastags: ... YouTube Tags: ..."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

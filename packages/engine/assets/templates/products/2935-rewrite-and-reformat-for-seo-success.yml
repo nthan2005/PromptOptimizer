@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2935
+# teaser: Are you looking to make your content more appealing and rank well on major search engines?
+# ChatGPT can help you rewrite and reformat your text to make it SEO-friendly. Get started today and
+# make sure your content stands out!
+- id: 2935-rewrite-and-reformat-for-seo-success
+  title: Rewrite and Reformat for SEO Success
+  tags:
+    - products
+    - rewrite
+    - reformat
+    - seo
+    - success
+  family: Products
+  body:
+    "Please rewrite and reformat the given text to make it appealing and rank
+    well on major search engines. Make sure to include a Page Title, Meta Keywords
+    (separated by commas), and a catchy Meta Description (limited to 155-160 characters).
+    Use H1, H2's, H3's where necessary along with bullet points and FAQs to organize
+    the content and make it more accessible for ChatGPT. Please ensure that the language
+    is clear, concise, and easy to understand. Write all output in [TARGETLANGUAGE]
+    English. Here are the details: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5206
+# teaser: Write Article from a URL / 100 char summary / photos and / video. [Ã¯Â¸ÂÃ¯Â¸ÂATTENTION] Only
+# works with ChatGPT Plus on GPT4! Ã¯Â¸ÂThe following plugins MUST be activated. (Only works with GPT4!)
+# -WebPilot -Image Search -Heygen (Go to settings - Beta features - activate them there) RevisionTime:
+# 2023-06-30T12:20:47.789Z
+- id: 5206-article-from-url-summary-photos-video-activity-writing-topic
+  title: "Article from URL, Summary, Photos & Video Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - article
+    - url
+    - summary
+    - photos
+    - video
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Article from URL, Summary, Photos &
+    Video"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You need to perform 4 tasks with the plugins activated. 1. Create a complete
+    and structured article on the following webpage: [PROMPT] 2. Select 2 illustrative
+    photos for this article 3.Create a 100 word summary of the generated article 4.Create
+    a video from the summary Language: [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

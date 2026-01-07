@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2976
+# teaser: Add Your Website All Urls
+- id: 2976-topical-authority-creating
+  title: Topical Authority Creating
+  tags:
+    - research
+    - topical
+    - authority
+    - creating
+  family: Research
+  body:
+    I want to add to my topical authority, here's a list of my current blog posts,
+    [PROMPT]can you give me 20 ideas for new topical authority in this niche[TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

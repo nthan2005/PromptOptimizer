@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5629
+# teaser: Create a list of words arranged in alphabetical order for your word search puzzle books! Hit
+# the Like button if you are happy with the results! RevisionTime: 2023-03-27T17:33:58.602Z
+- id: 5629-kdp-word-search-puzzles-word-lists-activity-writing-topic-co
+  title: 'KDP Word Search Puzzles (Word Lists) Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - kdp
+  - word
+  - search
+  - puzzles
+  - lists
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1796520678460223488/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "KDP Word Search Puzzles (Word Lists)"](https://www.aiprm.com/prompts/copywriting/writing/1796520678460223488/)_"
+    --- I want yout to create an ordered list of words in language [TARGETLANGUAGE]
+    up to 100 words. Make sure the words are arranged in an alphabetical order. Also,
+    make sure no single word is added twice. Create a list of words about this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

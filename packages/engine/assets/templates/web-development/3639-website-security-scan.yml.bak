@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3639
+# teaser: Do a Security Scan in your Website
+- id: 3639-website-security-scan
+  title: Website Security Scan
+  tags:
+  - web-development
+  - website
+  - security
+  - scan
+  family: Web Development
+  body: Use [TARGETLANGUAGE] and do a security scan using open sources like ZAP and
+    OWASP10 of the website listed in [PROMPT]. Also list all the URL that have errors
+    like 404. Send this as a formal report with the date and risk envolved.
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

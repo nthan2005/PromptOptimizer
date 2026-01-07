@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7676
+# teaser: add power word before title RevisionTime: 2023-10-11T14:59:10.743Z
+- id: 7676-add-power-word-activity-ideation-topic-seo-84c5d6a7b8e9f0c1
+  title: "add power word Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - add
+    - power
+    - word
+    - activity
+    - ideation
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "add power word"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- your task is to add power word or number before title within 1 or 2 word within
+    20 chacrecters.all output will be [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

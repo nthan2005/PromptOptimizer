@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2845
+# teaser: Use this prompt to make forum posts.
+- id: 2845-forum-posts
+  title: Forum posts
+  tags:
+    - link-building
+    - forum
+    - posts
+  family: link building
+  body:
+    Your task is to write a forum post and title the text I give you in 100 words.
+    The scenario of this post should be positive and first person. All output should
+    be in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

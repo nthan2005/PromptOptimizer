@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 726
+# teaser: Create Youtube Shorts scripts for your Humor Channel.
+- id: 726-youtube-shorts-script-generator
+  title: Youtube Shorts script generator.
+  tags:
+    - script-writing
+    - youtube
+    - shorts
+    - script
+    - generator
+  family: Script Writing
+  body:
+    "Crie um roteiro em de vÃ­deo ironico com ideias de imagens engraÃ§adas para
+    o YouTube Shorts a partir da seguinte descriÃ§Ã£o: [PROMPT]. Crie esse roteiro
+    em [TARGETLANGUAGE]."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

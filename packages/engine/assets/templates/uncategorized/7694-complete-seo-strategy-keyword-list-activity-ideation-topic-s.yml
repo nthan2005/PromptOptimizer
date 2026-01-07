@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7694
+# teaser: Powered SEO Keyword list & strategy. Drive traffic & boost leads RevisionTime:
+# 2023-03-21T04:24:25Z
+- id: 7694-complete-seo-strategy-keyword-list-activity-ideation-topic-s
+  title: "Complete SEO Strategy & Keyword List Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - complete
+    - seo
+    - strategy
+    - keyword
+    - list
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Complete SEO Strategy & Keyword List
+    "](https://github.com/nthan2005/PromptOptimizer)_" --- Task:
+    You are a market research expert and must create a keyword list for an SEO content
+    strategy plan in [TARGETLANGUAGE]. [PROMPT] Use the given target keyword to create
+    a markdown table with the following columns: Keyword Group, keyword, Search Engine
+    Friendly Title,Target audience, Query Intent, Meta Description, Call-to-Action
+    (CTA). Cluster the keywords into 15 super categories and list 10 subcategories
+    or specific long-tail keywords for each cluster. Classify the keywords into one
+    of four search intent groups: Commercial Intent, Informational Intent, Transactional
+    Intent, and Navigational Intent. Write an attractive title and meta description
+    (120-160 words) that entices clicks. Do not use generic keywords like, Here are,
+    "sure", "introduction" or "conclusion" and avoid enclosing characters in any columns.
+    Simply present your suggestions in the table.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

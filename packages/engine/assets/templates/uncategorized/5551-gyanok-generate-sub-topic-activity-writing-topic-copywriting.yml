@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5551
+# teaser: Unleash your creativity with Generate Subtopic: the ultimate tool for expanding your ideas
+# and exploring new topics! RevisionTime: 2023-04-01T10:18:20.311Z
+- id: 5551-gyanok-generate-sub-topic-activity-writing-topic-copywriting
+  title: "GyanOk Generate Sub-Topic Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - gyanok
+    - generate
+    - sub
+    - topic
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "GyanOk Generate Sub-Topic"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Generates a list of unique sub-category for each [KEYWORD] without repeating.
+    [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

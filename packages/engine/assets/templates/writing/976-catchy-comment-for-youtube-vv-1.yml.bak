@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 976
+# teaser: This prompt is great for commenting video titles on YouTube without the headache
+- id: 976-catchy-comment-for-youtube-vv-1
+  title: Catchy comment for Youtube- VV.1
+  tags:
+  - writing
+  - catchy
+  - comment
+  - youtube
+  family: writing
+  body: Your Task is leave a comment for the YouTube video in a persuasive language
+    style. comment must in 1 paragraph with full emojis. you will reply in [TARGETLANGUAGE]
+    the video title is [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

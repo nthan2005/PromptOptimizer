@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7800
+# teaser: Create titles and meta descriptions with the main keyword of the article. If you use and
+# like this prompt please hit the like button. RevisionTime: 2024-03-16T07:29:23.789Z
+- id: 7800-seo-titles-and-meta-descriptions-activity-ideation-topic-seo
+  title: "SEO Titles and Meta Descriptions Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - seo
+    - titles
+    - meta
+    - descriptions
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SEO Titles and Meta Descriptions"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Suppose you are so good in writing copies and it ranks high in the search
+    engines and engage eyeballs. Act as a copywriter that speaks and writes fluently
+    in [TARGETLANGUAGE] and generate at least 5 clickbait meta titles and meta descriptions
+    for the following keyword: [PROMPT], titles must not exceed 60 characters and
+    descriptions between 130 - 160 characters: [PROMPT] should naturally be included
+    in the title, it is not necessary to be in the description. list titles together
+    at the top and descriptions together at the bottom of the list of titles do not
+    include endnotes'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

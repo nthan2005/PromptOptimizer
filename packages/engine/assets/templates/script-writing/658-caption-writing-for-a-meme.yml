@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 658
+# teaser: Create an engaging instagram caption for a meme
+- id: 658-caption-writing-for-a-meme
+  title: Caption writing for a meme
+  tags:
+    - script-writing
+    - caption
+    - writing
+    - meme
+  family: Script Writing
+  body:
+    Write a fun, engaging and informative caption for an instagram meme which
+    says [PROMPT] . Make sure it's funny and value-adding at the same times. Do put
+    a few emojis and 4-5 top hashtags for the same. All output shall be in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

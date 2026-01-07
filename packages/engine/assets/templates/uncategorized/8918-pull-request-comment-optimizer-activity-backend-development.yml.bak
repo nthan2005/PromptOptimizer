@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8918
+# teaser: Optimize the following Pull Request comment: [COMMENT] RevisionTime:
+# 2024-02-02T11:59:20.475Z
+- id: 8918-pull-request-comment-optimizer-activity-backend-development
+  title: 'Pull Request comment optimizer Activity: Backend Development Topic: SoftwareEngineering-f1858b980c341d28'
+  tags:
+  - uncategorized
+  - pull
+  - request
+  - comment
+  - optimizer
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1834869177010900992/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Pull Request comment optimizer"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1834869177010900992/)_"
+    --- Please optimize the following Pull Request comment.All output shall be in
+    [TARGETLANGUAGE]. The comment to optimize is following: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

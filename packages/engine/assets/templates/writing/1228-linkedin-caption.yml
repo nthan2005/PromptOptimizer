@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1228
+# teaser: Act as a LinkedIn Community Manager, and write a caption for [PROMPT]
+- id: 1228-linkedin-caption
+  title: Linkedin Caption
+  tags:
+    - writing
+    - linkedin
+    - caption
+  family: writing
+  body:
+    "Act as a LinkedIn Community Manager, and write a caption for [PROMPT] using\
+    \ the format: HOOK, COMMON MISCONCEPTION (less than 15 words), CURIOSITY PROVOKING\
+    \ QUESTION, and then add more value related to the [PROMPT] from above. End it\
+    \ with a call-to-comment. Replace words with emojis also[HOOK: ÃƒÂ°Ã…Â¸Ã¢â‚¬â„¢Ã‚Â¥ COMMON MISCONCEPTION:\
+    \ ÃƒÂ°Ã…Â¸Ã‹Å“Ã‚Â¬ ÃƒÂ¢\x9DÃ…â€™ CURIOSITY PROVOKING QUESTION: ÃƒÂ°Ã…Â¸Ã‚Â¤Ã¢â‚¬ÂÃƒÂ¢\x9DÃ¢â‚¬Å“ VALUE: ÃƒÂ°Ã…Â¸Ã¢â‚¬â„¢Ã‚Â¡ÃƒÂ°Ã…Â¸Ã¢â‚¬ËœÃ‚Â¨ÃƒÂ¢Ã¢â€šÂ¬\x8DÃƒÂ°Ã…Â¸Ã¢â‚¬â„¢Ã‚Â»\
+    \ CALL-TO-COMMENT: ÃƒÂ°Ã…Â¸Ã¢â‚¬â„¢Ã‚Â­ÃƒÂ°Ã…Â¸Ã¢â‚¬ËœÃ¢â‚¬Â¡] [TARGETLANGUAGE] [English]"
+  enabled: true
+  required:
+    - hook
+    - prompt
+    - targetlanguage

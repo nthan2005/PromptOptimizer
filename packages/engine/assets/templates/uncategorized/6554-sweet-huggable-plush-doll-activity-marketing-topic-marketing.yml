@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6554
+# teaser: t shirt RevisionTime: 2024-09-18T09:26:53.477Z
+- id: 6554-sweet-huggable-plush-doll-activity-marketing-topic-marketing
+  title: "Sweet Huggable Plush Doll Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - sweet
+    - huggable
+    - plush
+    - doll
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Sweet Huggable Plush Doll"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

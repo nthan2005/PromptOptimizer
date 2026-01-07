@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 638
+# teaser: Explains websites' Terms and Conditions in a simple and human language.
+- id: 638-terms-and-conditions-explainer
+  title: Terms and Conditions Explainer
+  tags:
+    - research
+    - terms
+    - conditions
+    - explainer
+  family: Research
+  body:
+    Explain the terms and conditions of [PROMPT] in simple and human language.
+    You should provide a clear and concise explanation, highlighting the key points
+    and any important information that users should be aware of. The explanation should
+    be easy to understand for non-technical individuals and should not contain any
+    legal jargon. The target language is [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

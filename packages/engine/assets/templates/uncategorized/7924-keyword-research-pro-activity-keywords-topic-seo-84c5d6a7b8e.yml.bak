@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7924
+# teaser: Create niche based keywords list RevisionTime: 2023-02-19T15:35:19Z
+- id: 7924-keyword-research-pro-activity-keywords-topic-seo-84c5d6a7b8e
+  title: 'Keyword Research Pro Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - keyword
+  - research
+  - pro
+  - activity
+  - keywords
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1791396831910162432/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt " Keyword Research Pro"](https://www.aiprm.com/prompts/seo/keywords/1791396831910162432/)_"
+    --- Your task is to create list of all possible niche based keywords, group them
+    and mention the intent of each keyword. I give you niche in words. All output
+    shall be in [TARGETLANGUAGE]. The text is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

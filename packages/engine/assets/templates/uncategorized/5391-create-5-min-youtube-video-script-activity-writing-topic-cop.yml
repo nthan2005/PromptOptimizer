@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5391
+# teaser: This Prompt Helps you to Create 5 Min perfect youtube Video Script RevisionTime:
+# 2023-03-15T23:07:58Z
+- id: 5391-create-5-min-youtube-video-script-activity-writing-topic-cop
+  title: "Create 5 Min Youtube Video Script Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - min
+    - youtube
+    - video
+    - script
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create 5 Min Youtube Video Script "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You will be creating a 5-minute Youtube video script on any topic that you
+    choose, with a colorful and dynamic visual style. The video should grab viewers''
+    attention right away and have an upbeat and optimistic tone. The target audience
+    is viewers between the ages of 18 to 55, and the video should aim to inform and/or
+    entertain. The pacing and flow of the video should be well-thought-out to keep
+    viewers engaged, and there should be a clear message or call-to-action at the
+    end. [TARGETLANGUAGE] is [ENGLISH] [PROMPT]'
+  enabled: true
+  required:
+    - english
+    - prompt
+    - targetlanguage

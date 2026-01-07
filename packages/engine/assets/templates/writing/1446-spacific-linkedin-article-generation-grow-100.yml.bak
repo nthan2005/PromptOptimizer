@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1446
+# teaser: Enter your targeted keyword only and get mind-blowing results!
+- id: 1446-spacific-linkedin-article-generation-grow-100
+  title: Spacific Linkedin Article Generation! Grow 100%
+  tags:
+  - writing
+  - spacific
+  - linkedin
+  - article
+  - generation
+  - grow
+  family: writing
+  body: '[Write a human-Friendly Article for LinkedIn] [English] Please Give related
+    hash tags must [I will provide you keywords] [Create at least 1000 words] [Include
+    hashtags in the article] [TARGETLANGUAGE] [PROMPT] [Include bullets points] [Human
+    tone] [Create headings]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

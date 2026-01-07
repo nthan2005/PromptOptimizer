@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5553
+# teaser: Write headlines using rhetorical devices RevisionTime: 2023-02-21T18:16:59Z
+- id: 5553-headlines-using-rhetorical-devices-activity-writing-topic-co
+  title: "Headlines Using Rhetorical Devices Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - headlines
+    - rhetorical
+    - devices
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Headlines Using Rhetorical Devices"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to write 5 bullet points or headlines using the text I provide.
+    Bullet points or headlines should be written using any of the following rhetorical
+    devices: Parallelism, Antithesis Scesis onomaton, Polyptoton, Asyndeton. The bullet
+    points or headlines will be used for marketing purposes and should be written
+    with direct response marketing in mind. All output should be written in [TARGETLANGUAGE].
+    The text is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

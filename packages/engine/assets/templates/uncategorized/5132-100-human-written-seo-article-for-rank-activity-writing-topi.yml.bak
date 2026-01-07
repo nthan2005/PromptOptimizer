@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5132
+# teaser: Unlock the potential of your website with content that captivates and converts. This
+# template guides you in creating SEO-driven articles that are not only structured with HTML for
+# clarity but also crafted in a conversational tone to resonate with your audience. Perfect for
+# marketers and content creators aiming for top search engine rankings without sacrificing reader
+# engagement. RevisionTime: 2023-11-07T20:11:20.11Z
+- id: 5132-100-human-written-seo-article-for-rank-activity-writing-topi
+  title: '100% Human Written, SEO Article for Rank Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - '100'
+  - human
+  - written
+  - seo
+  - article
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1887564751899979776/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "100% Human Written, SEO Article for
+    Rank"](https://www.aiprm.com/prompts/copywriting/writing/1887564751899979776/)_"
+    --- Prompt Description: Generate an engaging, SEO-optimized article in HTML format.
+    The content should be human-like, conversational, and structured with clear readability.
+    Apply the placeholders as needed to customize the article framework and content.
+    User Instructions: Replace [PROMPT] with your article title or main keyword. Use
+    [TARGETLANGUAGE] to specify the desired output language if not English. Template:
+    Article Framework: Outline Table: [Outline Table with H1, H2, H3, H4 tags] Article
+    Table: [Article Content Table in Markdown] Content Development: Word Count: [Minimum
+    2500 words] Headings: [At least 15 headings with H tags] SEO Optimization: [Integrated
+    keywords, readability, structured flow] Technical Specifications: HTML Tags: [Use
+    specific HTML tags for structuring] Conclusion: [H1 tagged "Conclusion" paragraph]
+    FAQ Section: [Google''s standard FAQ schema] Call to Action: [Call to action link]
+    Final Message: Conclude with a message on the importance of SEO-friendly content
+    creation. Replace the bracketed sections with the specific requirements or instructions
+    as per your article needs.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1248
+# teaser: Make a best cv for your post
+- id: 1248-make-eye-catching-cv
+  title: Make eye catching CV
+  tags:
+    - writing
+    - eye
+    - catching
+  family: writing
+  body: "[TARGETLANGUAGE]. Generate CV For [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3312
+# teaser: Here is resume for that [book]
+- id: 3312-resume-a-book
+  title: Resume a Book
+  tags:
+    - writing
+    - resume
+    - book
+  family: writing
+  body:
+    "[TARGETLANGUAGE] Your task is to resume [book you want to resume and author]
+    in general and by chapters [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

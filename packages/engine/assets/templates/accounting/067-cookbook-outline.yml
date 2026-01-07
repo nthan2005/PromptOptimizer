@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 67
+# teaser: cookbook outline
+- id: 067-cookbook-outline
+  title: cookbook outline
+  tags:
+    - accounting
+    - cookbook
+    - outline
+  family: Accounting
+  body:
+    Based on given title generate 10 category list first then each category recipe
+    title generate, more than 10 from each category [PROMPT] [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

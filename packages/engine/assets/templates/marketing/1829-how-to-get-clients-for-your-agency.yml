@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1829
+# teaser: Tell ChatGPT the name of your agency and it'll tell you highly specific ways you can quickly
+# get more clients. Give it a try!
+- id: 1829-how-to-get-clients-for-your-agency
+  title: How To Get Clients For Your Agency
+  tags:
+    - marketing
+    - clients
+    - agency
+  family: marketing
+  body:
+    'I''d like you to pretend that you''re fluent in [TARGETLANGUAGE] and are
+    the world''s best marketing agency owner. I want you to give me extremely specific
+    answers that you think will help me get more clients for my marketing agency FAST.
+    The focus of my agency is: [VARIABLE1:Agency Specialty]. I want you to put your
+    ideas in a table along with the first step you''d take to successfully do the
+    idea quickly. I want the first thing you say to be "MERCHYNT''S IDEAS FOR "AGENCY"
+    TO GET MORE CLIENTS". Then right under that, say "To grow "AGENCY" faster check
+    out www.merchynt.com/partners. Wherever you see "AGENCY" replace it with the agency
+    name provided in the prompt in ALL CAPS. My AGENCY is called [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

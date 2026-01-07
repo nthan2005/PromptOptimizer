@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8488
+# teaser: Generate custom post or update for your Google Business Profile within under 1500 characters
+# limit. RevisionTime: 2023-03-05T11:52:44Z
+- id: 8488-generate-custom-google-business-profile-post-gmb-activity-wr
+  title:
+    "Generate custom Google Business Profile post (GMB) Activity: writing Topic:
+    SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - generate
+    - custom
+    - google
+    - business
+    - profile
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate custom Google Business Profile
+    post (GMB)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Generate custom content for Google Business Profile post or update in [TARGETLANGUAGE]
+    from given [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

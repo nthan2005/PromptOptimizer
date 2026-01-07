@@ -1,0 +1,39 @@
+[
+  {
+    "id": "2074-find-unmet-needs",
+    "title": "Find unmet needs",
+    "tags": [
+      "unmet-category-related-needs",
+      "find",
+      "unmet",
+      "needs"
+    ],
+    "body": "I want you to act as a market research expert that speaks and writes fluent {targetlanguage}. Pretend that you know everything about every market also in {targetlanguage}. Please list the ten biggest unmet category-related needs in the category of {prompt} . By \"biggest unmet category-related needs\", I mean category-related needs that are shared by many people and where it is hard for them to satisfy that need with the products and services in that category on the market today. Please give each need a catchy title, emoji and give reasons for your answers. All your output shall be in {targetlanguage} language.",
+    "family": "Unmet Category-Related Needs",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "2075-pas-framework",
+    "title": "Pas Framework",
+    "tags": [
+      "unmet-category-related-needs",
+      "pas",
+      "framework"
+    ],
+    "body": "Please ignore all previous instructions. Please respond only in the language {targetlanguage}. You are an expert copywriter that speaks and writes fluent {targetlanguage}. . Do not self reference. Do not explain what you are doing. Write a witty PAS (Problem, Agitate and Solution) marketing campaign for \"\" {prompt}",
+    "family": "Unmet Category-Related Needs",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  }
+]

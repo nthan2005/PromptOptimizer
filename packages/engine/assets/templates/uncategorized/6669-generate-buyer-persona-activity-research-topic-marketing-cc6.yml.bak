@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6669
+# teaser: Generate Buyer Persona, With Pain Points, Goals, How can you help, (Upvote Please For More)
+# RevisionTime: 2024-03-27T21:10:49.579Z
+- id: 6669-generate-buyer-persona-activity-research-topic-marketing-cc6
+  title: 'Generate Buyer Persona Activity: Research Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - generate
+  - buyer
+  - persona
+  - activity
+  - research
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1790621851500933120/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Generate Buyer Persona"](https://www.aiprm.com/prompts/marketing/research/1790621851500933120/)_"
+    --- Your task is to generate buyer persona with Gender, Age, Location, Relationship
+    Status, Work, Interests, Behaviors, Web History, Search Terms, Pain Points, Goals,
+    How We can help? [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

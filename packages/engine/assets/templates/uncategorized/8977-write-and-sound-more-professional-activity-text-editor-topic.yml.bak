@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8977
+# teaser: Write and sound more professional in your daily life. Convert your email, Azure/Jira
+# comments in more professional tone. RevisionTime: 2024-04-20T05:31:57.282Z
+- id: 8977-write-and-sound-more-professional-activity-text-editor-topic
+  title: 'Write and sound more professional Activity: Text Editor Topic: SoftwareEngineering-f1858b980c341d28'
+  tags:
+  - uncategorized
+  - write
+  - sound
+  - more
+  - professional
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/text-editor/1818162592292794368/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Write and sound more professional"](https://www.aiprm.com/prompts/softwareengineering/text-editor/1818162592292794368/)_"
+    --- All output shall be in [TARGETLANGUAGE]. Your task is to give a more professional
+    and formal version of this text: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

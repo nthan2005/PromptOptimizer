@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2245
+# teaser: Generate Mind Map for Keyword Research for Content Expert (need ChatGPT 4 to work)
+- id: 2245-mind-map-generator-for-content-experts
+  title: Mind Map Generator for Content Experts
+  tags:
+    - plan
+    - mind
+    - map
+    - generator
+    - content
+    - experts
+  family: Plan
+  body:
+    "Topic : [PROMPT] Create it in the XML OPML 2.0 format of a well researched,
+    tree-like hierarchy, insightful, related, high relevant, high authority, exhaustive
+    mindmap on the topic above. List out the all main branches, sub-branches to use
+    latent semantic index LSI keywords to help brainstorming new ideas and thoughts
+    for an Ultimate Guide blog for Content Experts and Subject Matter Experts. [TARGETLANGUAGE]
+    (Temperature = 0.8, Top-p = 0.9, Top-k = 5)."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

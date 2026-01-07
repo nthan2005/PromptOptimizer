@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1564
+# teaser: Write Literature Reviews Best 100% Quality
+- id: 1564-write-literature-reviews
+  title: Write Literature Reviews .
+  tags:
+    - writing
+    - write
+    - literature
+    - reviews
+  family: writing
+  body:
+    "[TARGETLANGUAGE] [PROMPT] write literature reviews with in-text APA citations
+    and references for :"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2143
+# teaser: Create a full organization for a instagram reels video, including hashtags, description,
+# headlines, etc.
+- id: 2143-reels-video-script
+  title: Reels video Script
+  tags:
+  - writing
+  - reels
+  - video
+  - script
+  family: writing
+  body: Como fazer um video curto para redes sociais que ira reter a atenÃƒÂ§ÃƒÂ£o do
+    seguidor e serÃƒÂ¡ bem persuasivo sobre o tema "[PROMPT]", me diga quais imagens
+    e vÃƒÂ­deos de fundo usar, descreva como dever ser as ediÃƒÂ§ÃƒÂµes, headlines, CTA,
+    boas mÃƒÂºsicas para usar de fundo, e tudo mais para se ter um vÃƒÂ­deo viral. Me
+    gere uma descriÃƒÂ§ÃƒÂ£o completa para o post e tambÃƒÂ©m as melhores 25 hashtags para
+    a postagem. tudo isso na linguagem [TARGETLANGUAGE]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2529
+# teaser: Mind map with topics and subtopics
+- id: 2529-quick-mind-map
+  title: Quick mind map
+  tags:
+    - summarize
+    - quick
+    - mind
+    - map
+  family: Summarize
+  body:
+    Create a mind map in the following text or articles. List the main idea, main
+    branches and sub-branches. [KEYWORD] write all output to [TARGETLANGUAGE][PROMPT]
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3534
+# teaser: Refactor C# code to max performance despite readability.
+- id: 3534-refactor-c-code-to-max-performance
+  title: Refactor C# code to max performance.
+  tags:
+    - backend-development
+    - refactor
+    - code
+    - max
+    - performance
+  family: Backend Development
+  body:
+    Please ignore all previous instructions. Act as a expert in C#. Review the
+    below-mentioned C# code and provide some suggestions in [TARGETLANGUAGE] with
+    regards to better performance. It does not matter if you have to write more code
+    or less readable one, performance is all that matter. Try to improve it the better
+    you can do but do not use unsafe blocks. Provide the sample code with comments
+    in [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

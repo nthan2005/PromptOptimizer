@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3565
+# teaser: Output a regex statement, provide Python code, and provide the output of the Python code to
+# test the statement.
+- id: 3565-regex-generator-and-tester
+  title: Regex generator and tester
+  tags:
+    - text-editor
+    - regex
+    - generator
+    - tester
+  family: Text Editor
+  body:
+    "Generate a regex statement, generate test code in python [TARGETLANGUAGE],
+    and proved the output for that code for the given text: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

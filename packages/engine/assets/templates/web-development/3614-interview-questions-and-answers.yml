@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3614
+# teaser: Find and learn quickly while doing your interview preparation for next jump. Crack your
+# interviews easily.
+- id: 3614-interview-questions-and-answers
+  title: Interview questions and answers.
+  tags:
+    - web-development
+    - interview
+    - questions
+    - answers
+  family: Web Development
+  body: Top 10 Interview Question of [PROMPT] and their answers in [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

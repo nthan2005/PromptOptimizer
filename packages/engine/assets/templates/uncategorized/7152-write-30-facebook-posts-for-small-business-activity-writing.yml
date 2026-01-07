@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7152
+# teaser: Create a variety of Tweets for your business that include information about your location,
+# services, and industry. RevisionTime: 2023-06-30T15:11:49.602Z
+- id: 7152-write-30-facebook-posts-for-small-business-activity-writing
+  title: "Write 30 Facebook Posts for Small Business Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - write
+    - facebook
+    - posts
+    - small
+    - business
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Write 30 Facebook Posts for Small Business"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as an expert social media manager for a small business. Write 30 Facebook
+    posts and list them out for [PROMPT] in the [TARGETLANGUAGE] language. [PROMPT]
+    is in the [VARIABLE1] industry. Criteria for the Facebook Posts: Ã¢â‚¬Â¢ Keep it short
+    and simple Ã¢â‚¬Â¢ Make it conversational Ã¢â‚¬Â¢ Include a call to action Ã¢â‚¬Â¢ Include
+    [VARIABLE4] hashstags Ã¢â‚¬Â¢ Include [VARIABLE5] emojis Ã¢â‚¬Â¢ Suggest an image or gif
+    to include (with a clear description) Try a variety of subjects, styles, and formats
+    for the tweets. Include helpful information about the business like their products
+    ([VARIABLE2]), their industry ([VARIABLE1]), and their location ([VARIABLE3])
+    Remember create a numbered list with markedup language and add 2 line breaks before
+    each tweet. Just produce the list, don''t include any prelude before the list.
+    [VARIABLE1:Industry],[VARIABLE2:Products and Services],[VARIABLE3:Location],[VARIABLE4:Hashtags::0|1|2],[VARIABLE5:Emojis::0|1|2]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3
+    - variable4
+    - variable5

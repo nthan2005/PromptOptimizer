@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5245
+# teaser: Create a E Book Series for given topic. RevisionTime: 2023-12-17T10:08:37.163Z
+- id: 5245-best-e-book-writing-unique-series-activity-writing-topic-cop
+  title: "Best E Book Writing | Unique Series Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - book
+    - writing
+    - unique
+    - series
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best E Book Writing | Unique Series"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You act as a best writer to create E-Book Series 100% Unique, Plagiarism free
+    , each chapter must be 4 to 5 pages length generating contents to end of the e
+    book [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

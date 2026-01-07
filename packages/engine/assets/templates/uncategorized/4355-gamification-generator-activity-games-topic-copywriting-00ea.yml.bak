@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4355
+# teaser: ChatGPT can help you write fun interactive elements like quizzes, trivia games or scavenger
+# hunts that will make your marketing campaigns more engaging. RevisionTime: 2023-02-20T03:37:08Z
+- id: 4355-gamification-generator-activity-games-topic-copywriting-00ea
+  title: 'Gamification Generator Activity: Games Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - gamification
+  - generator
+  - activity
+  - games
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/games/1782919674846253056/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Gamification Generator"](https://www.aiprm.com/prompts/copywriting/games/1782919674846253056/)_"
+    --- Write a set of trivia questions based on [PROMPT] in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

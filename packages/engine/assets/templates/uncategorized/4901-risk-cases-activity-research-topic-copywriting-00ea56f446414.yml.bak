@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4901
+# teaser: Risk case, risk management table RevisionTime: 2023-05-24T15:05:32.672Z
+- id: 4901-risk-cases-activity-research-topic-copywriting-00ea56f446414
+  title: 'Risk cases Activity: Research Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - risk
+  - cases
+  - activity
+  - research
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1826938367066243072/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Risk cases"](https://www.aiprm.com/prompts/copywriting/research/1826938367066243072/)_"
+    --- I want you to respond only in [TARGETLANGUAGE]. I want you to create a table
+    for possible risk cases about [PROMPT] with risk management table. There must
+    exist columns for Risk event, Description of risk event, potential hazard, potential
+    effects of failure, Probability, severity, Risk level, risk mitigation. For each
+    risk cases, you should generate safety requirements for them below the table you
+    made.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

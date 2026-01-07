@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7025
+# teaser: YouTube Video Description RevisionTime: 2024-10-03T09:57:44.981Z
+- id: 7025-youtube-video-description-activity-social-media-topic-market
+  title: "YouTube Video Description Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - youtube
+    - video
+    - description
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "YouTube Video Description"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- vocÃƒÂª ÃƒÂ© um copywriter especialista em SEO pra youtube. estou criando um vÃƒÂ­deo
+    pra youtube com o tÃƒÂ­tulo: [PROMPT] . crie uma descriÃƒÂ§ÃƒÂ£o perfeita para esse
+    vÃƒÂ­deo em [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

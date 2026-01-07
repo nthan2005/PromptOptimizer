@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3134
+# teaser: Create a SEO and clickbait meta description. 130-155 characters for Google. by itroom
+- id: 3134-create-a-seo-and-clickbait-meta-description
+  title: Create a SEO and clickbait meta description
+  tags:
+  - writing
+  - seo
+  - clickbait
+  - meta
+  - description
+  family: writing
+  body: 'Ignore all previous prompts. [TARGETLANGUAGE] Suppose you are so good in
+    writing copies and it ranks high in the search engines and engage eyeballs. Act
+    as a [TARGETLANGUAGE] copywriter and write a clickbait meta description of minimum
+    130 characters for the following topic and the description must not exceed 155
+    characters. Write in [TARGETLANGUAGE]. Also mention the characters count. Here
+    is the keyword: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

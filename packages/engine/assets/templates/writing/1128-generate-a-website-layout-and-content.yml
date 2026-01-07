@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1128
+# teaser: Get a complete website layout and content plan from AI.
+- id: 1128-generate-a-website-layout-and-content
+  title: Generate a Website Layout and Content
+  tags:
+    - writing
+    - generate
+    - website
+    - layout
+    - content
+  family: writing
+  body:
+    Please respond in [TARGETLANGUAGE]. I need your help in creating a B2B website
+    layout and content plan. The website's niche is [PROMPT], targeting businesses
+    in the [TARGET_INDUSTRY] industry, and the main goal is [MAIN_GOAL]. Please provide
+    a detailed layout, including the main pages and sections, along with suggestions
+    for content topics and formats that cater to B2B clients. Ensure the design is
+    user-friendly, optimized for SEO, and includes a secure and efficient ordering
+    system. Thank you!
+  enabled: true
+  required:
+    - main_goal
+    - prompt
+    - target_industry
+    - targetlanguage

@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4980
+# teaser: Prepare for a job interview RevisionTime: 2023-09-11T22:54:01.031Z
+- id: 4980-prepare-for-a-job-interview-activity-script-writing-topic-co
+  title: 'Prepare for a job interview Activity: Script Writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - prepare
+  - job
+  - interview
+  - activity
+  - script
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1845193173854052352/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Prepare for a job interview"](https://www.aiprm.com/prompts/copywriting/script-writing/1845193173854052352/)_"
+    --- [TARGETLANGUAGE] Em portuguÃªs, [PROMPT] Atue como um especialista em recrutamento
+    de pessoas que tem o maior conhecimento teorico e prÃ¡tico sobre como entrevistar
+    pessoas baseado em competÃªncias e situaÃ§Ãµes prÃ¡ticas. Baseado nas informaÃ§Ãµes
+    fornecidas sobre o cargo desejado, segmento e nÃ­vel de complexidade, forneÃ§a
+    um roteiro de entrevista detalhado. O roteiro deve incluir perguntas comuns, especÃ­ficas
+    e tÃ©cnicas. Estas perguntas devem se basear nas habilidades, conhecimentos e
+    atitudes desejados para o cargo. O objetivo Ã© ter um guia completo que prepare
+    alguÃ©m 100% para qualquer entrevista dentro do contexto fornecido. . Crie um
+    roteiro bem detalhado, esquematizado e extenso de uma entrevista de emprego, com
+    perguntas por competÃªncias a partir das das variÃ¡veis: cargo, segmento, nÃ­vel
+    complexidade (junior, pleno ou sÃªnior). Traga pelo menos 15 perguntas do inicio
+    atÃ© o fim de uma entrevista, em formato de roteiro, e o formato deverÃ¡ ser assim:
+    exemplos de perguntas por competÃªncias, o que o recrutador estÃ¡ buscando fazendo
+    esta pergunta, qual a melhor forma de responder esta pergunta, exemplos prÃ¡ticos
+    e detalhados de resposta, o que nÃ£o falar nesta resposta. NÃ£o deixe de trazer
+    tambÃ©m perguntas por competÃªncias tÃ©cnicas especÃ­ficas sobre sistemas, softwares
+    ou processos.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

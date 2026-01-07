@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 27
+# teaser: Need help with MS Excel? I've got you covered!
+- id: 027-excel-expert
+  title: Excel Expert
+  tags:
+    - spreadsheets
+    - excel
+    - expert
+  family: Spreadsheets
+  body:
+    "Please ignore all previous instructions. I want you to respond only in language
+    [TARGETLANGUAGE]. I want you to act as an expert in MS Excel that speaks and writes
+    fluent [TARGETLANGUAGE]. Please answer the following question in [TARGETLANGUAGE]
+    language: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

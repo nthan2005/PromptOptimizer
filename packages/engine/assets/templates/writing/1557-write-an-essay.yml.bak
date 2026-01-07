@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1557
+# teaser: Write an essay on any topic in your favourite language. Just write the Topic and hit enter.
+- id: 1557-write-an-essay
+  title: Write an essay
+  tags:
+  - writing
+  - write
+  - essay
+  family: writing
+  body: Write an essay on [PROMPT] in [TARGETLANGUAGE]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

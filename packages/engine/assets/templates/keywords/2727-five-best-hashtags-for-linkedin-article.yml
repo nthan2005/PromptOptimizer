@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2727
+# teaser: Create 5 keywords to use in Linkedin article
+- id: 2727-five-best-hashtags-for-linkedin-article
+  title: Five Best Hashtags for Linkedin Article
+  tags:
+    - keywords
+    - five
+    - hashtags
+    - linkedin
+    - article
+  family: keywords
+  body:
+    "Your task is to write 5 keywords that better ranked based on search intentions
+    on linkedin hashtags and to get better views and clicks. All output shall be in
+    [TARGETLANGUAGE]. Generante each keywords without space between the words. Generate
+    a hash before each keywords. The text to generate the keywords is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

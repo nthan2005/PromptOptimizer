@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5
+# teaser: Translate automaticaly po file odoo and gain your time!!
+- id: 005-translate-po-file
+  title: Translate PO file
+  tags:
+    - accounting
+    - translate
+    - file
+  family: Accounting
+  body:
+    'je vais te donner le contenue d''un fichier PO sur Odoo et je vais te demander
+    de le traduire en suivant la rÃ¨gle suivante: - Dans ce fichier il y a deux lignes
+    Ã prendre en compte: msgid "" cette ligne reprÃ©sente le texte Ã traduire (mis
+    entre guillemet) msgstr "" cette ligne reprÃ©sente le texte traduit en franÃ§ais
+    (mis entre guillemet) - Il faut que tu prenne le texte Ã traduire en [TARGETLANGUAGE]
+    (entre les guillemets) et met la traduction correspondante dans la ligne msgtr
+    "" (entre les guillemet). voici le contenue du fichier: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

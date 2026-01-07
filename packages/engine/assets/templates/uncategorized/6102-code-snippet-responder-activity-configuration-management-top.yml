@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6102
+# teaser: Save on tokens by only getting the code that needs to be added, replaced or changed without
+# getting the entire script in the GPT response every time. RevisionTime: 2023-03-29T13:22:02.447Z
+- id: 6102-code-snippet-responder-activity-configuration-management-top
+  title: "Code Snippet Responder Activity: Configuration Management Topic: DevOps-f3e52afbf831197f"
+  tags:
+    - uncategorized
+    - code
+    - snippet
+    - responder
+    - activity
+    - configuration
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Code Snippet Responder"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] [TARGETLANGUAGE] Provide only the code that needs to be added, replaced
+    or changed accompanied by a short explanation. Do not rewrite the entire script
+    in your response.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

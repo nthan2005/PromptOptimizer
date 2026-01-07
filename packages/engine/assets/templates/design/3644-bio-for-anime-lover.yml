@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3644
+# teaser: Write a bio for an anime lover who loves action, issekai and romance anime
+- id: 3644-bio-for-anime-lover
+  title: Bio for Anime lover
+  tags:
+    - design
+    - bio
+    - anime
+    - lover
+  family: Design
+  body:
+    Your task is to write a bio for a person who has keen interest in Japanese
+    cartoons specifically in genre of Romance, time-travel and action. All output
+    should be in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

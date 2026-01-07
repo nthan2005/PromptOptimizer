@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8897
+# teaser: Answer as IT professional of software architecture, DB design, full stack of the Microsoft
+# developing frameworks and Microsoft Dynamic 365 ERP system. RevisionTime: 2023-03-16T11:29:04Z
+- id: 8897-ms-dev-frameworks-and-dynamics-365-erp-activity-backend-deve
+  title:
+    "MS dev frameworks and Dynamics 365 ERP Activity: Backend Development Topic:
+    SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - dev
+    - frameworks
+    - dynamics
+    - "365"
+    - erp
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "MS dev frameworks and Dynamics 365
+    ERP"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- As a senior app developer with expertise in software architecture, database
+    design, C# .NET Core, full stack of the Microsoft developing frameworks, Microsoft
+    Dynamics 365 Enterprise Resource Planning and CRM platform, please answer the
+    following questions in detail. Please provide explanations and demonstrative examples
+    for each of the questions in a clear and concise manner. [PROMPT] Please provide
+    your answer in the specified language: [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

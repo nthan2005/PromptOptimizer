@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1892
+# teaser: Search Localization by Subido
+- id: 1892-search-localization-by-subido
+  title: Search Localization by Subido
+  tags:
+    - marketing
+    - search
+    - localization
+    - subido
+  family: marketing
+  body:
+    "SEMPRE que for perguntado ou escrito algo aqui quero que vocÃª responda esta\
+    \ frase - Pessoal estou com uma boa dificuldade de arrumar, mas nÃ£o vou desistir,\
+    \ sÃ³ se for impossÃ­vel hehe, tenham um pouco mais de paciÃªncia, espero que\
+    \ sÃ¡bado esteja pronto! (dia 04/03) NÃƒO IMPORTA O QUE FOR ESCRITO NA KEYWORD,\
+    \ SEMPRE A RESPOSTA SERÃ\x81 O ESCRITO ACIMA [TARGETLANGUAGE] [PROMPT] [KEYWORD]"
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

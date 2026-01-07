@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 295
+# teaser: Rewrite text Unique SEO optimized
+- id: 295-rewrite-text-unique-seo-optimized
+  title: Rewrite text Unique SEO optimized
+  tags:
+    - improve
+    - rewrite
+    - text
+    - unique
+    - seo
+    - optimized
+  family: Improve
+  body:
+    "I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently
+    [TARGETLANGUAGE] . Rewrite the prompted text 100% Unique, SEO-optimized, Human-Written
+    article in [TARGETLANGUAGE] [PROMPT]:"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

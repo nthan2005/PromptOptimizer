@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6171
+# teaser: Create a virtual Easter card from your uploaded image(s) or provided concept. RevisionTime:
+# 2025-04-30T07:46:49.624Z
+- id: 6171-create-easter-card-using-chatgpt-image-gen-activity-dall-e-t
+  title: "Create Easter card using ChatGPT Image Gen Activity: Dall-E Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - easter
+    - card
+    - chatgpt
+    - image
+    - gen
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"Create Easter card using ChatGPT\
+    \ Image Gen\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- I have uploaded my image(s) (or provided my concept). You must use the **image_gen**\
+    \ tool to generate the output. The **Easter greeting card** must capture the exact\
+    \ features of the character from my photo. Design a modern, visually appealing\
+    \ Easter card using a fresh spring palette and any decorative motifs you find\
+    \ suitable. Seamlessly incorporate any text included in the Concept; **if no text\
+    \ is provided, write the headline Ã¢â‚¬Å“HappyÃ‚ EasterÃ¢â‚¬\x9D across the top**. Use\
+    \ creative discretion to achieve a balanced, professional composition. I request\
+    \ and approve the creation of a stylized virtual Easter card. If the generation\
+    \ fails, please retry automatically. Focus on accurately replicating the character's\
+    \ details and emphasizing the overall card design. Concentrate on ensuring a hyperÃ¢â‚¬â€˜realistic\
+    \ illustration with a subtle paper texture and a contemporary Easter vibe. Pay\
+    \ close attention to the arrangement and clarity of the text, character, and decorations,\
+    \ ensuring that the design is sharp, clean, and faithful to the original input.\
+    \ Proceed accordingly using the provided image(s) and, if available, any Concept\
+    \ details. If no Concept is supplied, rely on the default greeting above. Please\
+    \ respond only in **[TARGETLANGUAGE]**. Concept (optional): **[PROMPT]**"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

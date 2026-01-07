@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6853
+# teaser: Create a LinkedIn Reccommendation to my former Co-Worker JoÃƒÂ£o Renato RevisionTime:
+# 2024-10-03T09:54:10.409Z
+- id: 6853-linked-in-recommendation-activity-social-media-topic-marketi
+  title: "Linked In Recommendation Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - linked
+    - recommendation
+    - activity
+    - social
+    - media
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Linked In Recommendation"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please create a professional Linked In Reccomendation to recommend working
+    with JoÃƒÂ£o Renato [PROMPT] in want you to act as a writer that speaks and writes
+    fluent English [TARGETLANGUAGE] with worked for over two years at the SAS, a marketing
+    Agency specialized on Digital Advertising [TARGETLANGUAGE] , During this period
+    JoÃƒÂ£o excel on Team Leadership, Team Building, Developing Client Relationshiops,
+    Growing Accounts, Developing cross-department projects, and improving internal
+    work flow [TARGETLANGUAGE], Highly recommend his on any project management role
+    [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4642
+# teaser: Pins 2 go - fastest pinterest posts. Get 3 different Titles, Descriptions and "What people
+# can see" RevisionTime: 2023-03-16T06:50:00Z
+- id: 4642-pin-2-go-activity-marketing-topic-copywriting-00ea56f4464142
+  title: "Pin 2 go Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - pin
+    - activity
+    - marketing
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Pin 2 go"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] pretend that you are an successful SEO expert and pinterest expert
+    for many years now! Write me following: a title, tell everyone what this pin is
+    about (max 500 signs), explain what people can see (max 500 signs - this is always
+    a picture with the [prompt] inserted!) Use this format:'
+  enabled: true
+  required:
+    - prompt

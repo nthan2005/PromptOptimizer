@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3045
+# teaser: Simply paste your content at the top and paste your keywords at the bottom of the text.
+# Enclose the keyword list in [ ] and let the magic happen.
+- id: 3045-add-a-list-of-keywords-to-your-existing-content
+  title: Add a List of Keywords to Your Existing Content
+  tags:
+  - writing
+  - add
+  - list
+  - keywords
+  - existing
+  - content
+  family: writing
+  body: 'You have to follow every instruction very seriously and do not miss anything.
+    The goal is to add keywords into the text naturally, without changing much of
+    what''s already written. VERY IMPORTANT: DO NOT MISS ANY KEYWORD! ADD ALL PROVIDED
+    KEYWORDS. All added keywords should be in BOLD. I want you to add some keywords
+    to the text. You will find the keywords at the end of the text enclosed in [].
+    All output shall be in [TARGETLANGUAGE] Here are the text and keywords at the
+    end: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

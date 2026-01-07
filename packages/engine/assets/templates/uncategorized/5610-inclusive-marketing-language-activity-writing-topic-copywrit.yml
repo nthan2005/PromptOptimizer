@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5610
+# teaser: Create 15 sentence variations with no gender marking on pronouns and nouns for "[PROMPT]"
+# RevisionTime: 2023-12-11T15:33:06.436Z
+- id: 5610-inclusive-marketing-language-activity-writing-topic-copywrit
+  title: "Inclusive marketing language Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - inclusive
+    - marketing
+    - language
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Inclusive marketing language"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- With as few changes as possible, make 15 variations of the sentence below,
+    without identifying the gender of the reader, in [TARGETLANGUAGE]. The sentence
+    should be suitable for all genders. Sentence: "[PROMPT]"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

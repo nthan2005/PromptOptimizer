@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2854
+# teaser: Write a linkbuilding blog post easily! Choose your desired language below. Enter the
+# following information below: - Your desired blog title (between "") (mandatory) - Your desired
+# keywords (between [ ]) (optional) - Any specific important subjects (freely) (optional) Example:
+# ""How to bake cookies", [chocolate], [cream], unique baking techniques"
+- id: 2854-seeders-linkbuilding-blogs
+  title: Seeders Linkbuilding Blogs
+  tags:
+    - link-building
+    - seeders
+    - linkbuilding
+    - blogs
+  family: link building
+  body:
+    "Write a blog post with a total of 400-500 words. The main focus of the blog\
+    \ post should be to answer the main question related to the blog title. Add a\
+    \ title to all paragraphs. Add an H1 heading for the title, add H2 headings for\
+    \ the paragraph titles using Markdown language. The main title and all paragraph\
+    \ titles should be fully bold. Write in a conversational style as written by a\
+    \ human (use an informal tone, utilize personal pronouns, keep It simple, engage\
+    \ the reader, use the active voice, keep it brief, use rhetorical questions, and\
+    \ incorporate analogies and metaphors). Write the article In your own words, rather\
+    \ than copying and pasting from other sources. Use fully detailed paragraphs that\
+    \ engage the reader. Don't write as 'I' or 'me', only 'we' or 'us' can be used.\
+    \ Write all output in [TARGETLANGUAGE]. If the language is Dutch, address the\
+    \ reader of the blog post with â€œjeâ€\x9D, not â€œuâ€\x9D. Implement the blog\
+    \ post title that is mentioned between quotation marks below: [PROMPT] Do not\
+    \ include the quotation marks themselves. Implement the keywords that are possibly\
+    \ mentioned between square brackets below: [PROMPT] Do not include the brackets\
+    \ with the specified keywords. NEVER include the specified keywords in H1 or H2's.\
+    \ If the specified keywords are very specific or not very related to the main\
+    \ subject of the blog post, only mention them briefly. Implement the topics that\
+    \ are possibly mentioned freely, without quotation marks or square brackets below:\
+    \ Thank you!"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

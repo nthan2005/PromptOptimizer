@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8482
+# teaser: [News Article][google helpful policy updated] RevisionTime: 2023-11-02T09:24:32.987Z
+- id: 8482-generate-100-authentic-news-article-activity-writing-topic-s
+  title: "Generate 100% Authentic News Article Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - generate
+    - "100"
+    - authentic
+    - news
+    - article
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate 100% Authentic News Article"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please Rewrite Given news article in Hinglish, Hindi and English mix language
+    with journalese tone. Begin with a concise and engaging introduction to the topic.
+    Ensure that the content is original and not copied from the source material. Also
+    prevent it to detected as machine-generated text, Add value by providing unique
+    insights or perspectives. Mention the original source of the news and provide
+    proper attribution. If available, include information about the author''s background
+    or expertise in the subject matter. Verify facts, figures, and statements for
+    accuracy to reflect trustworthiness in the content.[TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

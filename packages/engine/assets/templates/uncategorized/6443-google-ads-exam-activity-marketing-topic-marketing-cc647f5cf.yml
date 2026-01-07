@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6443
+# teaser: Prompt for google ads certification RevisionTime: 2023-03-26T14:12:05.95Z
+- id: 6443-google-ads-exam-activity-marketing-topic-marketing-cc647f5cf
+  title: "Google ads Exam Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - google
+    - ads
+    - exam
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Google ads Exam"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Soy un experto en google ads y estoy haciendo un examen sobre la certificaciÃƒÂ³n
+    sobre mis conocimientos. Necesito seleccionar solo [PROMPT] respuesta correcta
+    para la siguiente pregunta[TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

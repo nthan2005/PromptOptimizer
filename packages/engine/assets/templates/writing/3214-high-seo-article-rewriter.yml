@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3214
+# teaser: Write high SEO Articel to get rank high in google search.
+- id: 3214-high-seo-article-rewriter
+  title: High SEO Article Rewriter
+  tags:
+    - writing
+    - high
+    - seo
+    - article
+    - rewriter
+  family: writing
+  body:
+    rewrite this article in your own words dont copy content from given article,
+    make a very high SEO Optimized article 100% human writing style must rank high
+    on google search, use H1 H2 H3 H4 etc in the article ane make article unique,
+    provide high SEO title in start, then high SEO meta description, then focus keyword
+    of the article, then write the article, also use high search volume keywords,
+    this is the article [PROMPT][TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

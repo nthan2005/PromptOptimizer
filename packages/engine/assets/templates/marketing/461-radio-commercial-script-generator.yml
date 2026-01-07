@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 461
+# teaser: Create 3 radio commercials (30 sec.) scripts from [KEYWORDS]
+- id: 461-radio-commercial-script-generator
+  title: Radio commercial script generator
+  tags:
+    - marketing
+    - radio
+    - commercial
+    - script
+    - generator
+  family: marketing
+  body:
+    'Create 3 versions for a radio commercial text. Use maximum 350 characters
+    or 50 words! End with a strong selling call to action. Do not write the text from
+    the we form. But as the third person. Optimize for selling the product. All output
+    shall be in [TARGETLANGUAGE]. Call the versions "Versie 1, 2, etc." and generate
+    a short attractive title above each version. All in the [TARGETLANGUAGE]. The
+    text to summarize is this: [PROMPT]. Human Written | Plagiarism Free'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

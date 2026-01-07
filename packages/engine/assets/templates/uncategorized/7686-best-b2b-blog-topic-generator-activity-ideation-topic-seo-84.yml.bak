@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7686
+# teaser: Create unique blog topics for user intent [keyword] RevisionTime: 2024-10-30T08:02:00.143Z
+- id: 7686-best-b2b-blog-topic-generator-activity-ideation-topic-seo-84
+  title: 'Best B2B Blog Topic Generator Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - b2b
+  - blog
+  - topic
+  - generator
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/2017076103827165184/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Best B2B Blog Topic Generator"](https://www.aiprm.com/prompts/seo/ideation/2017076103827165184/)_"
+    --- Provide trending and relevant blog topics from all intents as per SEO and
+    focus the variation of the targeted keyword with search volume and showcase it
+    in a table format [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

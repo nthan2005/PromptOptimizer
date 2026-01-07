@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2390
+# teaser: Home Renovation Ideas
+- id: 2390-home-renovation-ideas
+  title: Home Renovation Ideas
+  tags:
+    - respond
+    - home
+    - renovation
+    - ideas
+  family: Respond
+  body:
+    Your task is to give home renovation ideas. All output should be in [TARGETLANGUAGE].
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1989
+# teaser: Create a goofy or silly product description or social media post. Drop a like if you used
+# it!
+- id: 1989-silly-product-marketing
+  title: Silly Product Marketing
+  tags:
+    - products
+    - silly
+    - product
+    - marketing
+  family: Products
+  body:
+    "Write a silly or funny product description for [PROMPT] in [TARGETLANGUAGE],
+    and include catchy social media copy for each platform: Facebook, Instagram, Twitter,
+    YouTube, TikTok, Reddit, and LinkedIn."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

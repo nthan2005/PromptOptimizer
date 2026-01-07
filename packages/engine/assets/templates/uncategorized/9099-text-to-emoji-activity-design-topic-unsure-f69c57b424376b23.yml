@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9099
+# teaser: Want to add some fun to your messages or social media posts? Our AI-powered Text to Emoji
+# Prompt is here to help! With just a one clicks, you can convert any plain text into a string of
+# expressive emojis that perfectly capture the essence of your message. RevisionTime:
+# 2023-03-16T11:00:41Z
+- id: 9099-text-to-emoji-activity-design-topic-unsure-f69c57b424376b23
+  title: "Text to Emoji Activity: Design Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - text
+    - emoji
+    - activity
+    - design
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Text to Emoji"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You know exactly what each emoji means and where to use. I want you to translate
+    the sentences I wrote into suitable emojis. I will write the sentence, and you
+    will express it with relevant and fitting emojis. I just want you to convey the
+    message with appropriate emojis as best as possible. I donÃ¢â‚¬â„¢t want you to reply
+    with anything but emoji. My first sentence is "[PROMPT]" please respond in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

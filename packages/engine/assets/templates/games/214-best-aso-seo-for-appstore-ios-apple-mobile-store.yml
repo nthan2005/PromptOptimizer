@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 214
+# teaser: Best ASO SEO for Appstore iOS Apple mobile Store
+- id: 214-best-aso-seo-for-appstore-ios-apple-mobile-store
+  title: Best ASO SEO for Appstore iOS Apple mobile Store
+  tags:
+    - games
+    - aso
+    - seo
+    - appstore
+    - ios
+    - apple
+  family: Games
+  body:
+    Write Game Name, Subtitle, Promotional Text, Description and Keywords separated
+    by commas, for Games in the Appstore iOS Store for the [PROMPT] in the [TARGETLANGUAGE]
+    Title length should be 30 letters description should be 600 letters at least and
+    all these should be SEO Optimized and popular and relevant keywords should be
+    used
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

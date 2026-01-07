@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6351
+# teaser: ask AI to build the perfect prompt with auto correcting it with questions RevisionTime:
+# 2024-11-02T10:54:55.838Z
+- id: 6351-auto-correcting-prompt-with-questions-activity-marketing-top
+  title: 'auto correcting prompt with questions Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - auto
+  - correcting
+  - prompt
+  - questions
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/2012467541842849792/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "auto correcting prompt with questions"](https://www.aiprm.com/prompts/marketing/marketing/2012467541842849792/)_"
+    --- CrÃ©ation du [PROMPT] : {formule le prompt le plus adaptÃ© en fonction de
+    ma demande}; base toi sur les critÃ¨res de google : expertise, autoritÃ© et fiabilitÃ©
+    pour rÃ©diger du contenu de qualitÃ©; Ã©crit le plus de mot possibles; dÃ©termine
+    une expression de mots clefs trÃ¨s recherchÃ©s pour la thÃ©matique que je te donne,
+    elle sera au pluriel; tu devras inclure cette expression de mots clefs au moins
+    12 fois dont 2 en gras, deux en italique, deux fois en titre balise h2; deux fois
+    en titre balise h3; inclut une phrase en citation dans l''article ou tu voudra
+    sauf Ã la fin et sauf au tout dÃ©but; inclut la balise more aprÃ¨s la premiÃ¨re
+    phrase; inclut dans chaque paragraphe 2 fautes de syntaxes ou de conjugaison ou
+    d''orthographes intentionnellement pour humaniser le texte. inclut avant de conclure
+    un paragraphe citant 3 urls que tu Ã©crira en clair pour que le lecteur puisse
+    approfondir sa lecture. inclut un paragraphe d''appel Ã l''action pour que les
+    lecteurs rÃ©agisse Ã cette lecture; n''Ã©crit pas la mot "introduction" critique:
+    Ã©value le prompt de 0 a 100. rÃ©dige un paragraphe concis pour amÃ©liorer le
+    prompt et arriver a 100. Questions: {Ã©numÃ¨re les question essentielles pour
+    amÃ©liorer le prompt} re pose des nouvelles questions pour amÃ©liorer le prompt
+    jusqu''Ã ce que tu l''Ã©value a 100 sur 100; quand tu est prÃªt commence par OK
+    et je te donnerai le sujet du prompt sur lequel nous allons travailler. [TARGETLANGUAGE]
+    Ã la toute fin propose un description en 160 mots inclut l''expression de mot
+    clef; re ecrit l''expression de mots clefs; re Ã©crit 3 expressions de mots clefs
+    qui apparaissent au moins 5 fois dans le texte et composÃ©es d''au moins 3 mots.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

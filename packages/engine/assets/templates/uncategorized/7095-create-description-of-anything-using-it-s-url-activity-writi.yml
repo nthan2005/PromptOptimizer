@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7095
+# teaser: Show me the URL of an online tool that you need a description for and I will summarise what
+# it is, what are it's applications and who is it aimed at. RevisionTime: 2023-03-31T11:25:11.679Z
+- id: 7095-create-description-of-anything-using-it-s-url-activity-writi
+  title:
+    "Create description of anything using it's URL. Activity: writing Topic:
+    Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - description
+    - anything
+    - url
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create description of anything using
+    it''s URL."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to read content under [PROMPT]. Then create a description of
+    what that content is. Description shall be separated into three paragraphs; first
+    one being giving general idea of what is it that is under [PROMPT], the second
+    paragraph shall highlight usability of the [PROMPT] and third one shall describe
+    who [PROMPT] is aimed at. Every paragraph shall begin in different manner. Description
+    shall be between 400-800 symbols. All the output shall be in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2202
+# teaser: Create post from [Keyword] with output text and images
+- id: 2202-create-post-with-image
+  title: Create Post With Image
+  tags:
+    - plan
+    - post
+    - image
+  family: Plan
+  body:
+    Help me write a blog post in [TARGETLANGUAGE] with the title [PROMPT] with
+    convincing points in segmented writing and displayed images using markdown syntax.
+    To display the images, use the markdown syntax with the url from unsplash (https://source.unsplash.com/960x640/?<keyword>)
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

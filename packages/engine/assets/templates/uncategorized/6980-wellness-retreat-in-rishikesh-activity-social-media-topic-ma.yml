@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6980
+# teaser: I need a bio for my instagram page Amantrhit. The page is about wellness retreats in
+# rishikesh. The retreat are Ayuvedic retreat, yoga retreat, Mindfulness retreat, Weight loss
+# management, Panchakarma retreat. RevisionTime: 2024-10-03T09:55:58.576Z
+- id: 6980-wellness-retreat-in-rishikesh-activity-social-media-topic-ma
+  title: "Wellness Retreat In Rishikesh Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - wellness
+    - retreat
+    - rishikesh
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Wellness Retreat In Rishikesh"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

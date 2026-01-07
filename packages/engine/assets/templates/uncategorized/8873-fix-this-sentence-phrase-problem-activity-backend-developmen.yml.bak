@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8873
+# teaser: Fix [Comment] sentence/phrase problems RevisionTime: 2023-06-13T11:19:33.71Z
+- id: 8873-fix-this-sentence-phrase-problem-activity-backend-developmen
+  title: 'Fix this sentence / phrase problem Activity: Backend Development Topic:
+    SoftwareEngineering-f1858b980c341d28'
+  tags:
+  - uncategorized
+  - fix
+  - this
+  - sentence
+  - phrase
+  - problem
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1834159910515507200/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Fix this sentence / phrase problem"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1834159910515507200/)_"
+    --- Fix this git message problem to use in a commit message in terms of phrasing
+    and grammar, and also line length (not more than 70 characters) and its format
+    as a git message in [TARGETLANGUAGE] language: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

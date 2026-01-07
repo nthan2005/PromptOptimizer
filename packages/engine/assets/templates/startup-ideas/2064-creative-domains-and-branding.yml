@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2064
+# teaser: Creative Domain Name Ideas for Your Startup - [Cupcakes] = SweetFrosting.com /
+# CupcakeGalore.net / SprinklesandSpice.com / HeavenlyCupcake.com / FrostyBites.net...
+# CakeandCrumb.com ButtercreamBliss.com WhiskedAwayCupcakes.com DelightfulCupcakeCo.com
+# BakedwithLoveCupcakes.com
+- id: 2064-creative-domains-and-branding
+  title: Creative Domains and Branding
+  tags:
+    - startup-ideas
+    - creative
+    - domains
+    - branding
+  family: Startup Ideas
+  body:
+    Write 10 excellent, creative domain names for a website about [PROMPT] in
+    [TARGETLANGUAGE]. Keep it simple and memorable, Make it relevant to the business.
+    Use figurative language
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

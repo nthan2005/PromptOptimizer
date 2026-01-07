@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7625
+# teaser: PowerPoint presentation RevisionTime: 2025-03-25T20:07:24.375Z
+- id: 7625-powerpoint-presentation-activity-summarize-topic-productivit
+  title: "PowerPoint presentation Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - powerpoint
+    - presentation
+    - activity
+    - summarize
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "PowerPoint presentation"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are an expert in [field/topic] Write an outline for a PowerPoint presentation
+    covering the following [PROMPT] and [TOPICS] . Make it [number] slides. In [TARGETLANGUAGE]
+    Expand on each of the subtopics you provided earlier. You can consider elaborating
+    on the key ideas, offering supporting examples and explaining any details that
+    you think would enhance the audience''s understanding on the topic. Expand the
+    ideas in bullet format and with summary detail. Suggest any images to be included
+    in the slides to enhance the visual appeal. Provide also the Bing Image Creator
+    prompts for the images you suggested. Do this step by step.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - topics

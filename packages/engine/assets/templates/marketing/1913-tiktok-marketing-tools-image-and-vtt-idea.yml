@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1913
+# teaser: This prompt is asking for an idea for a 10-image story on TikTok that includes voice over
+# text. The story would be created using images and the narrator's voice would provide commentary or
+# explanation for each image, creating a visual and audio experience for the viewer. The goal is to
+# create a compelling, entertaining, and engaging story that can be shared on the popular social media
+# platform, TikTok.
+- id: 1913-tiktok-marketing-tools-image-and-vtt-idea
+  title: TIKTOK MARKETING TOOLS - Image and VTT idea
+  tags:
+    - marketing
+    - tiktok
+    - tools
+    - image
+    - vtt
+    - idea
+  family: marketing
+  body:
+    make tiktok voice over text to image story using this language [TARGETLANGUAGE]
+    requirement 1.10 image idea 2. every single image idea must have more than 50
+    word voice over text 3. must be in a table format Title [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6307
+# teaser: Write an article for blogger articles, That have 4000 Words in your Category > if ChatGpt
+# Stop Writing Click Continue RevisionTime: 2023-02-19T15:35:19Z
+- id: 6307-blogger-articles-activity-stable-diffusion-topic-generative
+  title: "Blogger Articles Activity: Stable Diffusion Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - blogger
+    - articles
+    - activity
+    - stable
+    - diffusion
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Blogger Articles"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write an article for blogger articles, That have 4,000 long Words in This
+    Category [PROMPT], Writein This Language [TARGETLANGUAGE], ,With SEO optimized
+    content Include : Title, Meta,description,Label picture and title, add SEO [KEYWORDS]
+    at the end of article,and count number of words,Continue Writing At the End'
+  enabled: true
+  required:
+    - keywords
+    - prompt
+    - targetlanguage

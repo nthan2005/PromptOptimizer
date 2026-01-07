@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1660
+# teaser: Create 2 creative and highly unique Midjourney prompts for t-shirt designs for print on
+# demand. Thanks for upvote.
+- id: 1660-creative-t-shirt-printing-designs-midjourney
+  title: Creative t-shirt printing designs (Midjourney)
+  tags:
+    - midjourney
+    - creative
+    - shirt
+    - printing
+    - designs
+  family: Midjourney
+  body:
+    Ignore previous data. Imagine you're an expert Graphic Designer and have experience
+    in [PROMPT] t-shirt printing and also an expert Midjourney AI Generative prompt
+    writer. I want you to respond in only [TARGETLANGUAGE] {PREFIX} is /imagine
+  enabled: true
+  required:
+    - prefix
+    - prompt
+    - targetlanguage

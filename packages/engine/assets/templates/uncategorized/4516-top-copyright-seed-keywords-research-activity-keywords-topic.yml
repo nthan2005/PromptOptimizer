@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4516
+# teaser: Seed keywords which has low traffic 300 searches daily and less information available over
+# internet with no specific information available RevisionTime: 2024-07-19T09:19:07.775Z
+- id: 4516-top-copyright-seed-keywords-research-activity-keywords-topic
+  title: "Top Copyright Seed Keywords Research Activity: keywords Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - top
+    - copyright
+    - seed
+    - keywords
+    - research
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Top Copyright Seed Keywords Research"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- your task is finding 10 Copyright Seed Keywords Research, which has daily
+    traffic on search engine less than 300 and having very less information available
+    over internet, only a few low authority site ranking on this text. Output in 10
+    seed keywords from the text I give you in [TARGETLANGUAGE], [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

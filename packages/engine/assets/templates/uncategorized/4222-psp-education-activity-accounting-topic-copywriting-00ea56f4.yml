@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4222
+# teaser: YouTube Short Script RevisionTime: 2025-04-14T10:55:05.732Z
+- id: 4222-psp-education-activity-accounting-topic-copywriting-00ea56f4
+  title: "Psp Education Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - psp
+    - education
+    - activity
+    - accounting
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Psp Education"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create a 30 to 60 second short video script in [TARGETLANGUAGE]. The script
+    should be based on the following topic: [PROMPT]. Include: - A strong hook in
+    the first 3 seconds - A clear tagline or message - 2Ã¢â‚¬â€œ3 key points or tips -
+    A compelling call to action at the end The tone should be engaging and conversational,
+    suitable for YouTube Shorts or Instagram Reels.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

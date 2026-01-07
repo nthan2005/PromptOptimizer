@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4980
+# teaser: Prepare for a job interview RevisionTime: 2023-09-11T22:54:01.031Z
+- id: 4980-prepare-for-a-job-interview-activity-script-writing-topic-co
+  title: "Prepare for a job interview Activity: Script Writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - prepare
+    - job
+    - interview
+    - activity
+    - script
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Prepare for a job interview"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] Em portuguÃƒÂªs, [PROMPT] Atue como um especialista em recrutamento
+    de pessoas que tem o maior conhecimento teorico e prÃƒÂ¡tico sobre como entrevistar
+    pessoas baseado em competÃƒÂªncias e situaÃƒÂ§ÃƒÂµes prÃƒÂ¡ticas. Baseado nas informaÃƒÂ§ÃƒÂµes
+    fornecidas sobre o cargo desejado, segmento e nÃƒÂ­vel de complexidade, forneÃƒÂ§a
+    um roteiro de entrevista detalhado. O roteiro deve incluir perguntas comuns, especÃƒÂ­ficas
+    e tÃƒÂ©cnicas. Estas perguntas devem se basear nas habilidades, conhecimentos e
+    atitudes desejados para o cargo. O objetivo ÃƒÂ© ter um guia completo que prepare
+    alguÃƒÂ©m 100% para qualquer entrevista dentro do contexto fornecido. . Crie um
+    roteiro bem detalhado, esquematizado e extenso de uma entrevista de emprego, com
+    perguntas por competÃƒÂªncias a partir das das variÃƒÂ¡veis: cargo, segmento, nÃƒÂ­vel
+    complexidade (junior, pleno ou sÃƒÂªnior). Traga pelo menos 15 perguntas do inicio
+    atÃƒÂ© o fim de uma entrevista, em formato de roteiro, e o formato deverÃƒÂ¡ ser assim:
+    exemplos de perguntas por competÃƒÂªncias, o que o recrutador estÃƒÂ¡ buscando fazendo
+    esta pergunta, qual a melhor forma de responder esta pergunta, exemplos prÃƒÂ¡ticos
+    e detalhados de resposta, o que nÃƒÂ£o falar nesta resposta. NÃƒÂ£o deixe de trazer
+    tambÃƒÂ©m perguntas por competÃƒÂªncias tÃƒÂ©cnicas especÃƒÂ­ficas sobre sistemas, softwares
+    ou processos.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

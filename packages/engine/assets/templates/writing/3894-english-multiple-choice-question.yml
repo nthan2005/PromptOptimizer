@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3894
+# teaser: First
+- id: 3894-english-multiple-choice-question
+  title: English multiple choice question
+  tags:
+    - writing
+    - english
+    - multiple
+    - choice
+    - question
+  family: writing
+  body: input the text that need to read Second
+  enabled: true
+  required: []

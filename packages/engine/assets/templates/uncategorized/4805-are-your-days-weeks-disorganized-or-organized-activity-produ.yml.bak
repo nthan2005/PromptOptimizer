@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4805
+# teaser: disorder vs organization RevisionTime: 2025-03-06T01:11:02.204Z
+- id: 4805-are-your-days-weeks-disorganized-or-organized-activity-produ
+  title: 'Are your days/weeks disorganized or organized? Activity: Products Topic:
+    Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - days
+  - weeks
+  - disorganized
+  - organized
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/products/2063035901219192832/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Are your days/weeks disorganized or
+    organized?"](https://www.aiprm.com/prompts/copywriting/products/2063035901219192832/)_"
+    --- [TARGETLANGUAGE] e [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

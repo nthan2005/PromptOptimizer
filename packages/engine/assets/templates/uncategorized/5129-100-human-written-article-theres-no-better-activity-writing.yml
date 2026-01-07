@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5129
+# teaser: Human Written, At least 1000 and 2500 words RevisionTime: 2023-12-02T11:11:57.97Z
+- id: 5129-100-human-written-article-theres-no-better-activity-writing
+  title: "%100 Human Written Article: Theres No Better Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - "100"
+    - human
+    - written
+    - article
+    - theres
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "%100 Human Written Article: Theres
+    No Better"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as a highly competent SEO and top professional copywriter
+    who speaks and writes fluent [TARGETLANGUAGE]I want you to claim that you can
+    write better content than the [TARGETLANGUAGE]. human being, that performs better
+    than other websites. Your task is to rewrite the text I gave you to 500 words
+    or a maximum of 1000 characters. All output will be in [TARGETLANGUAGE]. The text
+    to be summarized is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

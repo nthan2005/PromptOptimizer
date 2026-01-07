@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7374
+# teaser: Create a Unit Study and a strategy for teaching this from 1 [KEYWORD] RevisionTime:
+# 2023-06-30T20:07:16.773Z
+- id: 7374-unit-study-activity-plan-topic-productivity-b5a49cdd0796137a
+  title: "Unit Study Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - unit
+    - study
+    - activity
+    - plan
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Unit Study"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create a Unit Study in [TARGETLANGUAGE] on the topic of [PROMPT] with the
+    following in mind for each section. Add age and grade requirements. Create a schedule
+    that will last 5 days. Choose a topic, and outline the goals that will be accomplished
+    at the end of this unit study. Create a list of books with available amazon links
+    that will support the topic, Create a list of Documentary, DVD, or YouTube videos
+    with links that can support this topic. Include arts and crafts if possible as
+    the activity that can help with the unit study topic. Plan a field trip, add a
+    science project, Add there is a history section and geography component that can
+    support the topic add it as well. If the topic is mentioned in the bible please
+    add it.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

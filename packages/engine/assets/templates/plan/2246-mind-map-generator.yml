@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2246
+# teaser: Best way to generate Mind Mapping Ideas
+- id: 2246-mind-map-generator
+  title: Mind Map Generator
+  tags:
+    - plan
+    - mind
+    - map
+    - generator
+  family: Plan
+  body:
+    Use a mind map theory to create a large text mind map about "should I change
+    careers?" [TARGETLANGUAGE] Use emojis and markdown to make it more visual. Don't
+    use excessive description but rather keywords. Follow each point with potential
+    gain or lose from a material impact on my life from statistical data. Again use
+    only few words. Add numbers to each claim. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

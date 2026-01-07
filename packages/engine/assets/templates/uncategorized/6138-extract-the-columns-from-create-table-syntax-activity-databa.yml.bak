@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6138
+# teaser: extract the columns from create table syntax RevisionTime: 2023-04-21T02:39:55.574Z
+- id: 6138-extract-the-columns-from-create-table-syntax-activity-databa
+  title: 'extract the columns from create table syntax Activity: Database Administration
+    Topic: DevOps-f3e52afbf831197f'
+  tags:
+  - uncategorized
+  - extract
+  - columns
+  - table
+  - syntax
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/database-administration/1814822242497064960/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "extract the columns from create table
+    syntax"](https://www.aiprm.com/prompts/devops/database-administration/1814822242497064960/)_"
+    --- [PROMPT] extract the columns from above text, columns wrapper by double quotation
+    and separate by comma. All output shall be in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

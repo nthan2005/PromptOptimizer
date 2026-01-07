@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1586
+# teaser: Create the business plan
+- id: 1586-your-business-development-manager
+  title: Your business development manager
+  tags:
+  - writing
+  - business
+  - development
+  - manager
+  family: writing
+  body: 'Your task is to write business plan details with full information as like
+    professional business development head that text I gave you in 4500 words or maximum
+    10000 characters.All output shall be in [TARGETLANGUAGE].The text to write business
+    plan in this : [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

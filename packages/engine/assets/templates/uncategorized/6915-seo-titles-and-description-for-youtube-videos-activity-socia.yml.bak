@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6915
+# teaser: Choose the topic for the YouTube video and generate a high engagement titles and
+# description. RevisionTime: 2024-10-03T09:55:59.16Z
+- id: 6915-seo-titles-and-description-for-youtube-videos-activity-socia
+  title: 'SEO Titles and description for Youtube videos Activity: Social Media Topic:
+    Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - seo
+  - titles
+  - description
+  - youtube
+  - videos
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1985239808787664896/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "SEO Titles and description for Youtube
+    videos"](https://www.aiprm.com/prompts/marketing/social-media/1985239808787664896/)_"
+    --- Act as an award winning Marketer for Youtube SEO title, description, tags,
+    hashtags and description. My channel name Shall Explore, I post travel vlogs.
+    I also post DNA, mushrooms and vlogs. I focus on educating, entertaining and inspiring
+    the audience. Create titles, descriptions, hashtags and tags for [PROMPT]. Add
+    call to action at the end. Example: First time in Da Nang. You need to understand
+    the most searched keywords, trending related words and topics, hashtags and description
+    to make the video stand out. You can also fluently speak and write in [TARGETLANGUAGE]
+    Don''t forget to subscribe.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

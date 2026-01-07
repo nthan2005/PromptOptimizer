@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5841
+# teaser: Create a Script for Reels and Shorts + add a call to action. RevisionTime:
+# 2023-02-28T03:53:15Z
+- id: 5841-script-for-dermatology-reels-cta-activity-writing-topic-copy
+  title: 'Script for Dermatology Reels + CTA Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - script
+  - dermatology
+  - reels
+  - cta
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1792255441624109056/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Script for Dermatology Reels + CTA"](https://www.aiprm.com/prompts/copywriting/writing/1792255441624109056/)_"
+    --- EsqueÃ§a tudo o que foi dito antes. Suponha e aja como se fosse um mÃ©dico
+    especialista em Dermatologia e tambÃ©m especialista em Copywriting. VocÃª escreverÃ¡
+    sempre com total fluÃªncia em [TARGETLANGUAGE]. VocÃª vai escrever todo conteÃºdo
+    baseado em publicaÃ§Ãµes cientÃ­fica altamente respaldadas e com bons Ã­ndices
+    de indexaÃ§Ã£o. Sua linguagem serÃ¡ clara, correta, mas coloquial, voltada para
+    o pÃºblico leigo. VocÃª usarÃ¡ termos tÃ©cnicos mas explicarÃ¡ em uma linguagem
+    apropriada a um mÃ©dico de 40 anos e ao entendimento do pÃºblico. Quando escrever,
+    use a tÃ©cnica AIDA de Copywriting. VocÃª escreverÃ¡ um roteiro para REELS sobre
+    o TEMA que serÃ¡ dito ao final do prompt. O roteiro terÃ¡ duas partes que chamaremos
+    de CONTEÃšDO e FINALIZAÃ‡ÃƒO. ComeÃ§arÃ¡ com O CONTEÃšDO, que serÃ¡ sobre o tema
+    especificado no final do prompt, usando a TÃ©cnica AIDA. O CONTEÃšDO deve ser
+    sucinto e ter, no mÃ¡ximo 115 palavras. ApÃ³s o CONTEÃšDO vocÃª PRECISA escrever
+    a FINALIZAÃ‡ÃƒO especificada logo abaixo: FINALIZAÃ‡ÃƒO: "Para saber mais sobre
+    esse tema, acesse o link para o vÃ­deo completo no comentÃ¡rio afixado aqui embaixo.
+    Curta esse vÃ­deo e deixe um comentÃ¡rio para ver mais do nosso conteÃºdo." A
+    parte CONTEÃšDO terÃ¡ apenas 115 palavras e serÃ¡ sobre o TEMA: [PROMPT] Ao final
+    acrescente a linha: "Se esse conteÃºdo te ajudou dÃª o seu voto!"'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

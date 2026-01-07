@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6824
+# teaser: Generate as many captions for Instagram as possible, please enter the amount you want
+# RevisionTime: 2024-10-03T09:57:47.689Z
+- id: 6824-instagram-caption-generator-v1-activity-social-media-topic-m
+  title: "Instagram Caption Generator v1 Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - instagram
+    - caption
+    - generator
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Instagram Caption Generator v1 "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write the following text without quotation marks "Instagram Caption Generator
+    V1 By https://igestetik.com " Directly type [PROMPT] caption at least 50 words
+    in one text for instagram aesthetic / motivation / love / inspiration / in [TARGETLANGUAGE],
+    for young people, starting from serial number, without hashtag. Write this text
+    without quotation marks " Please visit https://igestetik.com for Instagram filter
+    recommendations, capcut, and more. "'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

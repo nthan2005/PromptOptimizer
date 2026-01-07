@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5473
+# teaser: Welcome to our Automated Google Review Response Generator, where you simply input the
+# customer's review and ChatGPT crafts a personalized and engaging response for you! RevisionTime:
+# 2023-04-18T18:05:24.547Z
+- id: 5473-enter-the-google-review-activity-writing-topic-copywriting-0
+  title: "Enter the Google review Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - enter
+    - google
+    - review
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Enter the Google review"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to help me respond to an online customer review in [TARGETLANGUAGE]:
+    Please pretend you are a very nice and grateful person that speaks and writes
+    in casual perfect [TARGETLANGUAGE]. Please give me three responses with different
+    tons for each one to the prompt in this format. Please organize the responses
+    in a table. In the head of each column, write me the ton you use to reply to the
+    review. For the first response only, add few nice emoticons in the response text.
+    The customer review to help me with is: [PROMPT] My company name is : [VARIABLE2]
+    The name of the customer is : [VARIABLE1] [VARIABLE1:The name of the customer]
+    [VARIABLE2:The name of your company]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2

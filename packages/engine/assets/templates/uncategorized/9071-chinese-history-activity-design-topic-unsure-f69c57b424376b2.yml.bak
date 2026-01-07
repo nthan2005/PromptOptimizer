@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9071
+# teaser: world war two RevisionTime: 2023-03-29T07:50:10.711Z
+- id: 9071-chinese-history-activity-design-topic-unsure-f69c57b424376b2
+  title: 'Chinese history Activity: Design Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - chinese
+  - history
+  - activity
+  - design
+  - topic
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/design/1806565739692560384/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Chinese history\"](https://www.aiprm.com/prompts/unsure/design/1806565739692560384/)_\"\
+    \ --- ä¸­å›½åŽ†å\x8F²[TARGETLANGUAGE] [PROMPT]"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

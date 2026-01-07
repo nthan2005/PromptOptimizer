@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7146
+# teaser: Engage your audience by creating a social media post that inspires, motivates, and addresses
+# [PROMPT]. RevisionTime: 2024-12-05T11:33:10.31Z
+- id: 7146-storytelling-for-social-media-engagement-activity-writing-to
+  title: "Storytelling for Social Media Engagement. Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - storytelling
+    - social
+    - media
+    - engagement
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Storytelling for Social Media Engagement."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a high-engagement social media post in [TARGETLANGUAGE] : Dutch targeted
+    at online entrepreneurs. Use [PROMPT] as the topic and follow this structure:
+    Hook: Start with an attention-grabbing sentence that sparks curiosity. Examples:
+    Ã¢â‚¬ËœNiemand vertelt je dit over [PROMPT]Ã¢â‚¬Â¦Ã¢â‚¬â„¢ or Ã¢â‚¬ËœWist je dat [PROMPT] makkelijker
+    ÃƒÂ©n moeilijker is dan ooit?Ã¢â‚¬â„¢ Problem Statement: Highlight a relatable challenge
+    or pain point faced by online entrepreneurs regarding [PROMPT]. Use simple and
+    vivid language to connect emotionally. Storytelling: Share a short, personal story
+    or anecdote that aligns with the topic and inspires your audience. Show that you
+    understand their struggles. Practical Solutions: Provide 2-3 actionable tips or
+    steps that directly help solve the challenge related to [PROMPT]. Keep them clear,
+    concise, and actionable. Call-to-Action (CTA): End with an invitation to engage.
+    Examples: Ã¢â‚¬ËœWat is jouw grootste uitdaging met [PROMPT]? Laat het weten in de
+    reacties!Ã¢â‚¬â„¢ or Ã¢â‚¬ËœBenieuwd hoe ik je kan helpen met [PROMPT]? Stuur me een bericht.Ã¢â‚¬â„¢
+    Tone and Style: Write in a motivational and approachable style, avoiding jargon.
+    Use short paragraphs and line breaks for readability. Keep the length concise:
+    around 200-250 words. Hashtags: Include 3-5 relevant hashtags such as: #Ondernemen,
+    #Groei, #OnlineBusiness, #Storytelling.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

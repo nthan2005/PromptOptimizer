@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1221
+# teaser: analyze writing style
+- id: 1221-kik-yanto-analyze-my-writing-style
+  title: kik yanto - analyze my writing style
+  tags:
+  - writing
+  - kik
+  - yanto
+  - analyze
+  - style
+  family: writing
+  body: '[PROMPT] Analyze the text below for style, voice, and, tone. Create a prompt
+    to write a new paragraph in the same style, voice, and tone. [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

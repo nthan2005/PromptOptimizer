@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5815
+# teaser: Rewrite articles here, to get 100% Human Score and Plagiarism Free RevisionTime:
+# 2023-08-31T07:18:01.938Z
+- id: 5815-rewrite-articles-100-human-score-plagiarism-free-activity-wr
+  title:
+    "Rewrite Articles-100% Human Score, Plagiarism Free Activity: writing Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - rewrite
+    - articles
+    - "100"
+    - human
+    - score
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Rewrite Articles-100% Human Score,
+    Plagiarism Free"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Rewrite article with 100% Human Score [TARGETLANGUAGE], Rewrite article with
+    100% human score [PROMPT], use keywords [PROMPT], [VARIABLE1], [VARIABLE2]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2

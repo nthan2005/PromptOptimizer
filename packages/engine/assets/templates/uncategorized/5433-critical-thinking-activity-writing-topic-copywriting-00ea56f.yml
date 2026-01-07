@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5433
+# teaser: This prompt is used for complex and/or not so complex problems. With this ChatGPT prompt,
+# look at the result of a problem from the perspective of 3 experts on the subject you choose, the
+# experts will debate among themselves and choose the best solution that ChatGPT will present to you.
+# The results are incredible, try it! RevisionTime: 2023-07-20T15:28:30.692Z
+- id: 5433-critical-thinking-activity-writing-topic-copywriting-00ea56f
+  title: "Critical Thinking Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - critical
+    - thinking
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Critical Thinking"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Necesito que actues como 3 expertos en [PROMPT]. Cada uno de ellos va a plantear
+    una hipÃƒÂ³tesis distinta sobre el resultado del siguiente problema en [TARGETLANGUAGE].
+    Es importante que cada uno plantee una lÃƒÂ­nea de razonamiento distinta. Cuando
+    hayan terminado, quiero que continues la conversaciÃƒÂ³n entre esos 3 expertos para
+    que contrasten los diferentes resultados y lleguen a una conclusiÃƒÂ³n consensuada,
+    es importante que haya vocaciÃƒÂ³n de aceptar la posiciÃƒÂ³n mÃƒÂ¡s rozanable por parte
+    de los demÃƒÂ¡s. Es importante que esa conclusiÃƒÂ³n sea: Ã¢â‚¬Å“La respuesta tiene que
+    ser clara y concreta. Quiero que me muestres todo el proceso de la conversaciÃƒÂ³n
+    en tablas. Donde cada columna vemos la intervenciÃƒÂ³n en la coversaciÃƒÂ³n de cada
+    uno de los expertos. Finalmente, proponme la respuesta consensuada como resultado
+    final. El problema es el siguiente: [PROMPT].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

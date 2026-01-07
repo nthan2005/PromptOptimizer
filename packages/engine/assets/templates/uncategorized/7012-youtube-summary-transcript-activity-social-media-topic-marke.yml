@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7012
+# teaser: summarize this content, make a brief TLDR summary and list the important points in topics
+# below: [TRANSCRIPT] RevisionTime: 2024-10-03T09:57:48.538Z
+- id: 7012-youtube-summary-transcript-activity-social-media-topic-marke
+  title: "Youtube Summary Transcript Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - youtube
+    - summary
+    - transcript
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Youtube Summary Transcript"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- summarize this content in [TARGETLANGUAGE], make a brief TLDR summary and
+    list below the important points in topics: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

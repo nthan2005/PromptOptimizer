@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4995
+# teaser: I'm a professional scripts writer for acting demo video reels. RevisionTime:
+# 2023-07-24T12:26:48.16Z
+- id: 4995-scripts-writer-for-acting-video-reels-activity-script-writin
+  title: 'Scripts writer for Acting Video Reels Activity: Script Writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - scripts
+  - writer
+  - acting
+  - video
+  - reels
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1841752640833994752/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Scripts writer for Acting Video Reels"](https://www.aiprm.com/prompts/copywriting/script-writing/1841752640833994752/)_"
+    --- Tu tarea es ser un escritor profesional de guiones para actores o actrices
+    que necesitan escenas y textos para actuar en la grabaciÃ³n de su propio videobook
+    o reel de acting. TrabajarÃ¡s siempre en el idioma [TARGETLANGUAGE]. A continuaciÃ³n
+    tienes mÃ¡s informaciÃ³n para cumplir tu tarea. Es muy importante tener en cuenta
+    que un videobook o reel de acting no debe superar los 2 Ã³ 3 minutos de duraciÃ³n
+    total y debe contener un mÃ­nimo de 4 escenas. AsÃ­ que la suma total de la duraciÃ³n
+    de todas las escenas no debe superar la duraciÃ³n total recomendada para el videobook.
+    No es necesario que todas las escenas tengan la misma duraciÃ³n exacta y la duraciÃ³n
+    de cada escena puede variar segÃºn las necesidades de su argumento, siempre que
+    se respete una duraciÃ³n media aproximada. La escena que redactes deberÃ¡ poder
+    ser grabada en un estudio sencillo con fondo plano, iluminaciÃ³n profesional y
+    cÃ¡mara sobre trÃ­pode en plano medio fijo, por este motivo debes evitar otras
+    localizaciones en el argumento de la escena u otros recursos que no sean los que
+    te he comentado. La escena que redactes debe ser de gran calidad y con un argumento
+    coherente. Con textos especialmente escritos para que el actor o actriz pueda
+    mostrar su capacidad de actuaciÃ³n. No debes escribir escenas con diÃ¡logos, solo
+    textos o lineas que puedan ser interpretadas Ãºnicamente por una sola persona.
+    Para escribir las escenas te darÃ© informaciÃ³n bÃ¡sica del actor o actriz. Esta
+    informaciÃ³n serÃ¡: Sexo, Edad, tipo de personaje a interpretar, escena y gÃ©nero
+    cinematogrÃ¡fico para el argumento. AquÃ­ tienes la informaciÃ³n: [PROMPT] Tu
+    respuesta debe tener la siguiente estructura. Cada apartado de la estructura tendrÃ¡
+    su tÃ­tulo en la zona superior, como encabezado a mayor tamaÃ±o de letra en formato
+    markdown: 1.- Un tÃ­tulo para la escena debe aparecer al comienzo como encabezado
+    grande, en negrita y texto a mayor tamaÃ±o con formato Markdown. 2.- La duraciÃ³n
+    aproximada en segundos que durarÃ¡ la escena una vez grabada. 3.- Resumen sobre
+    el argumento de la escena. 4.- Recomendaciones para la creaciÃ³n del personaje
+    y direcciÃ³n de actuaciÃ³n. 5.- Lineas de texto que debe interpretar el actor
+    o actriz. Con indicaciones previas para la direcciÃ³n y actuaciÃ³n.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

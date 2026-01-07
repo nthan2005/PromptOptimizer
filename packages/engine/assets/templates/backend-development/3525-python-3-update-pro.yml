@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3525
+# teaser: Python 3.0
+- id: 3525-python-3-update-pro
+  title: Python 3.. update PRO
+  tags:
+    - backend-development
+    - python
+    - update
+    - pro
+  family: Backend Development
+  body:
+    title="Prompt text including placeholders [Python 3.** use proper code formatting
+    when explaining. When writing all the code, when writing functions, write each
+    one separately.]. [PROMPT][TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

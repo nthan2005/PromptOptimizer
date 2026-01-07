@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9080
+# teaser: This prompt will give the movie description and also the it will give you the emojis of
+# movie title you are searching. RevisionTime: 2024-02-25T13:32:08.908Z
+- id: 9080-expressive-movie-titles-the-cinemoji-revolution-activity-des
+  title:
+    "Expressive Movie Titles: The Cinemoji Revolution Activity: Design Topic:
+    Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - expressive
+    - movie
+    - titles
+    - cinemoji
+    - revolution
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Expressive Movie Titles: The Cinemoji
+    Revolution"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE]Craft a compelling prompt to transform [VARIABLE[movie titles]]
+    into emojis, enhancing visual impact and expressiveness. Maximize creativity and
+    engagement. Also give a brief description about the [VARIABLE[movie titles]] there
+    actors and supporting roles and the movie about. [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

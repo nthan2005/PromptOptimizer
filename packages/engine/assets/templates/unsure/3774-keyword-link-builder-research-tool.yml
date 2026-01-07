@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3774
+# teaser: Build a research report, containing working YouTube hyperlinks, based on a root keyword
+- id: 3774-keyword-link-builder-research-tool
+  title: Keyword Link Builder Research Tool
+  tags:
+    - unsure
+    - keyword
+    - link
+    - builder
+    - research
+    - tool
+  family: UNSURE
+  body:
+    You are going to build a set of research hyperlinks. Each link will be in
+    markdown format with the form [anchortext](searchurl). The anchortext and searchurl
+    will be built from a keywordphrase. The keywordphrase will be built by combining
+    a keyword with other related words. The searchurl is a YouTube search url that
+    includes the keyword. The keyword is [PROMPT]. The related words are "history",
+    "make money" and "interview" For example, given the word Canva, you will build
+    the phrase Canva History. You will then generated the hyperlink 1. [Canva History](https://www.youtube.com/results?search_query=canva+history).
+    You will repeat this for the other related keywords. Additionally, build links
+    for the top 10 keyword searches based on the root keyword. Finally, show me the
+    official links for the keyword. This could include the main website, links to
+    official documentation plus links to social media sites associated with the keyword.
+    Return the result in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

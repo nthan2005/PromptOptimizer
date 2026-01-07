@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7073
+# teaser: Create 6 months of High-converting Blog Headlines with weekly post schedule. RevisionTime:
+# 2023-06-28T18:42:44.865Z
+- id: 7073-6-month-content-generator-organizer-activity-writing-topic-m
+  title: "6-month Content Generator & Organizer Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - month
+    - content
+    - generator
+    - organizer
+    - activity
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"6-month Content Generator & Organizer\"\
+    ](https://github.com/nthan2005/PromptOptimizer)_\" ---\
+    \ Imagine you're a content writer specializing in SEO optimized blog posts. I'd\
+    \ like you to help me come up with a weekly content schedule for my blog that\
+    \ has the best chance of helping me rank for long tail keywords that are specific\
+    \ to my keyphrase(s), Ã¢â‚¬Å“[PROMPT]Ã¢â‚¬\x9D. Please target transaction-style search\
+    \ terms only. Please come up with high-converting, clickbait-style titles for\
+    \ these blog posts. Please organize each blog post title in a nice-looking table.\
+    \ Each week should be separated into its own row. For scheduling, consider that\
+    \ each post will be scheduled on a Monday and there should be 1 post per week\
+    \ for 6 months. Output results using the [TARGETLANGUAGE] language."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 110
+# teaser: [Generate Intro paragraph of Jobs]
+- id: 110-jobs-intro-paragraph-by-ahmed-naeem
+  title: Jobs Intro Paragraph by Ahmed Naeem
+  tags:
+    - accounting
+    - jobs
+    - intro
+    - paragraph
+    - ahmed
+    - naeem
+  family: Accounting
+  body:
+    Write an short Intro Paragraph in very simple easy to read English of this
+    Title [PROMPT] also include these words and sentences In this article discuss
+    Eligibility Criteria, Job Benefits, and How to Apply. [TARGETLANGUAGE] .
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

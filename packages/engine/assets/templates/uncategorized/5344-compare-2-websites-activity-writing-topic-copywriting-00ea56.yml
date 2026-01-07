@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5344
+# teaser: Write [URL1] and [URL2] to be compared RevisionTime: 2023-03-06T10:51:14Z
+- id: 5344-compare-2-websites-activity-writing-topic-copywriting-00ea56
+  title: "Compare 2 Websites Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - compare
+    - websites
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Compare 2 Websites"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] Compare 2 URLs from the same niche and specify the pros and
+    cons of each one, as well as a final conclusion about which one is better taking
+    into account positioning, SEO, search intention... In conclusion which is better
+    for the engine. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

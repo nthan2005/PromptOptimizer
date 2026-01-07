@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2693
+# teaser: Insert A keyword Idea, and CHAT GPT will show you 20 Recomended Keyword with estimation
+# traffic per month and chat GPT will show SEO Dificult
+- id: 2693-100-seo-page-one-google-keyword-research
+  title: 100% SEO Page one Google Keyword Research
+  tags:
+    - keywords
+    - "100"
+    - seo
+    - page
+    - one
+    - google
+  family: keywords
+  body:
+    "tugas anda sekarang adalah menjadi pakar ahli SEO yang bertugas mencari KEYWORD
+    panjang (Long Tail Keyword) dari keyword utama yang akan saya berikan. Buat 20
+    keyword panjang (Long Tail Keyword) yang mempunyai kemugkinan saya mendapatkan
+    ranking 1 di google dengan nilai pencarian perbulan di atas 10.000 dan kesulitan
+    SEO di bawah 10/100 atau kesulitan SEO nya mudah, dan buat juga rekomendasi title
+    yang bagus. buat dengan tabel yang rapi menggunakan bahasa [TARGETLANGUAGE]. Jangan
+    tampilkan Apapun selain Tabel, dan di akhir chat, beri tambahan link 'viraltekno.com'
+    sekarang mulailah dengan keyword utama: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2598
+# teaser: Let the AI create some killer, high conversion meta descriptions to use with blog posts.
+- id: 2598-create-great-meta-descriptions-from-a-keyword-list
+  title: Create great meta descriptions from a keyword list
+  tags:
+    - ideation
+    - great
+    - meta
+    - descriptions
+    - keyword
+    - list
+  family: ideation
+  body:
+    "Target Language is [TARGETLANGUAGE] Turn each of the following keywords into
+    a compelling 2nd person meta description. Includes the keyword, exactly as it's
+    written in the list below, near the beginning of the meta description. The entire
+    description must be at least 130 characters in length, but no longer than 160
+    characters in length: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

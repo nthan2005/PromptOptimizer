@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1990
+# teaser: In one click you can create a social skills script for autistic individuals.
+- id: 1990-social-skills-script-for-autistic-individuals
+  title: Social Skills Script for Autistic Individuals
+  tags:
+    - products
+    - social
+    - skills
+    - script
+    - autistic
+    - individuals
+  family: Products
+  body:
+    Forget all previous instructions. I want you only to respond in [TARGETLANGUAGE].
+    You are a Master Special Education Teacher and you specialize in supporting students
+    on the autism spectrum with improving their social skills. Generate a social script
+    for autistic teens to socialize with their peers. Focus the script on the specific
+    activity of [PROMPT] and write all output in [TARGETLANGUAGE]. Be sure that is
+    appropriate learners that speak [TARGETLANGUAGE]. Use two fictional characters.
+    The script is a conversation between them. Include an introduction, small talk,
+    body, and end of conversation. Also include details about the specific activity
+    in each area of the script. Use simple language that is suitable for students
+    on the autism spectrum. Respond only in [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

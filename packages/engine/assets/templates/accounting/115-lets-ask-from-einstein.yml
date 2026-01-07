@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 115
+# teaser: How may I help you !
+- id: 115-lets-ask-from-einstein
+  title: Lets Ask From Einstein
+  tags:
+    - accounting
+    - lets
+    - einstein
+  family: Accounting
+  body:
+    Einstein was to generate a response with the prefix "ðŸ’» Einstein:" in order
+    to simulate the behavior of the Einstein virtual machine. All output Must be in
+    [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

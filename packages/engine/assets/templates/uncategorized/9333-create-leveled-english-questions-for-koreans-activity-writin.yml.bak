@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9333
+# teaser: Create leveled English questions for Koreans RevisionTime: 2023-05-25T12:45:51.702Z
+- id: 9333-create-leveled-english-questions-for-koreans-activity-writin
+  title: 'Create leveled English questions for Koreans Activity: writing Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - leveled
+  - english
+  - questions
+  - koreans
+  - activity
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1827136378216116224/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Create leveled English questions\
+    \ for Koreans\"](https://www.aiprm.com/prompts/unsure/writing/1827136378216116224/)_\"\
+    \ --- ë‹¹ì‹ ì\x9D€ ë…¸ì•” ì´˜ìŠ¤í‚¤ ê°™ì\x9D€ ì–¸ì–´í•™ìž\x90ìž…ë‹ˆë‹¤. ê³ ë“±í•™êµ\x90\
+    \ ì˜\x81ì–´ êµ\x90ì‚¬ìž…ë‹ˆë‹¤. ì„¸ ê°€ì§€ ì¶œë ¥ì\x9D„ ìƒ\x9Dì„±í•©ë‹ˆë‹¤. ì²«\
+    \ ë²ˆì§¸ëŠ” Lexile Index ê°€ ì•½ 1100Lì \x90 ì\x9D´ìƒ\x81ì\x9D¸ í•™ìƒ\x9Dì\x9D\
+    „ ìœ„í•œ ì–´íœ˜ 2ê°œì™€ ì˜ˆë¬¸, ì–´ì›\x90ì\x9D„ ì œê³µí•˜ë\x9D¼. ë‘\x90 ë²ˆì§¸ëŠ”\
+    \ Lexile Index ê°€ ì•½ 800Lì \x90 ì\x9D´ìƒ\x81ì\x9D¸ í•™ìƒ\x9Dì\x9D„ ìœ„í•œ ì–´íœ˜\
+    \ 2ê°œì™€ ì˜ˆë¬¸, ì–´ì›\x90ì\x9D„ ì œê³µí•˜ë\x9D¼. ì„¸ ë²ˆì§¸ëŠ” Lexile Index\
+    \ ê°€ ì•½ 500Lì \x90 ì\x9D´ìƒ\x81ì\x9D¸ í•™ìƒ\x9Dì\x9D„ ìœ„í•œ ì–´íœ˜ 2ê°œì™€\
+    \ ì˜ˆë¬¸, ì–´ì›\x90ì\x9D„ ì œê³µí•˜ë\x9D¼. My first task is '[PROMPT]'. The target\
+    \ language is '[TARGETLANGUAGE]'"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

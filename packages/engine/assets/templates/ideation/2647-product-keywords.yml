@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2647
+# teaser: Product Keywords
+- id: 2647-product-keywords
+  title: Product Keywords
+  tags:
+    - ideation
+    - product
+    - keywords
+  family: ideation
+  body: Extract keywords from this product name [PROMPT] in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

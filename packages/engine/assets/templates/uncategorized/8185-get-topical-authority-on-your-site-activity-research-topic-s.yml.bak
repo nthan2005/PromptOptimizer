@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8185
+# teaser: i want to add to my topical authority, here's a list of my current blog post: RevisionTime:
+# 2023-03-06T16:10:47Z
+- id: 8185-get-topical-authority-on-your-site-activity-research-topic-s
+  title: 'get topical authority on your site Activity: Research Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - topical
+  - authority
+  - site
+  - activity
+  - research
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1798355967071748096/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "get topical authority on your site"](https://www.aiprm.com/prompts/seo/research/1798355967071748096/)_"
+    --- PROMPT] i want to add to my topical authority, here''s a list of my current
+    blog post, can you give me 10 ideas for new topical authority blog posts in this
+    niche and write it in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

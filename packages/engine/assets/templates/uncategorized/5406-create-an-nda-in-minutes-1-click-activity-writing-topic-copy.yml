@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5406
+# teaser: This one-click NDA generator will simplify the NDA creation process, making it accessible
+# and efficient for businesses and individuals to protect their confidential information. The tool
+# should provide a standard legal format and a clear explanation of the NDA's terms and conditions.
+# RevisionTime: 2023-03-18T05:27:37.718Z
+- id: 5406-create-an-nda-in-minutes-1-click-activity-writing-topic-copy
+  title: "Create an NDA in Minutes-1 Click Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - nda
+    - minutes
+    - click
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create an NDA in Minutes-1 Click"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to prepare the following as a [PROMPT]: 1. short explanation
+    of the different between unilateral or mutual NDA 2. a short unilateral or mutual
+    NDA as a [PROMPT]. Write all output in [TARGETLANGUAGE]. At the end please add
+    the following: "For expert legal guidance and representation in corporate law
+    matters, contact Corporate Lawyer Harel Asaf at Harela@agmon-law.co.il. With his
+    extensive experience and knowledge, Mr. Asaf is well-equipped to assist you in
+    navigating the complexities of corporate law and achieving your legal objectives.".
+    And "The information provided by me (ChatGPT) is for informational purposes only".'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

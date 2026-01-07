@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9267
+# teaser: Classify the services offered by the company by inputting the [ANSWER] to the question.
+# RevisionTime: 2023-05-30T18:50:43.852Z
+- id: 9267-services-offered-by-company-activity-unsure-topic-unsure-f69
+  title: 'Services Offered by Company Activity: UNSURE Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - services
+  - offered
+  - company
+  - activity
+  - unsure
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1829196325875613696/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Services Offered by Company"](https://www.aiprm.com/prompts/unsure/unsure/1829196325875613696/)_"
+    --- Based on the following answer to this question, "Why do you think your business
+    is important to the United States?", and in the context of creating a `Proposed
+    Endeavor Executive Plan`, please provide 2, maybe 3, innovative (but not too abstract
+    or complicated) services this company could offer. Here is the answer to the previous
+    question: "[PROMPT]". Provide your response in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

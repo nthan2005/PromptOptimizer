@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5378
+# teaser: Correct spellings and grammar and add emojis RevisionTime: 2023-03-15T14:18:56Z
+- id: 5378-correct-spellings-grammar-and-add-emojis-activity-writing-to
+  title: 'Correct spellings, grammar and add emojis Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - correct
+  - spellings
+  - grammar
+  - add
+  - emojis
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1801589185078095872/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Correct spellings, grammar and add
+    emojis"](https://www.aiprm.com/prompts/copywriting/writing/1801589185078095872/)_"
+    --- Korrigere die Rechtschreibfehler und Grammatikfehler in dem folgenden Text.
+    FÃ¼ge dann Emojis hinzu. [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

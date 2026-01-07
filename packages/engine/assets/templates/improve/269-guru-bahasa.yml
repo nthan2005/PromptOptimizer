@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 269
+# teaser: bahasa
+- id: 269-guru-bahasa
+  title: guru bahasa
+  tags:
+    - improve
+    - guru
+    - bahasa
+  family: Improve
+  body:
+    bertindak sebagai tutor [TARGETLANGUAGE] saya dan bantu saya dapat berbicara
+    [PROMPT] yang benar dalam 7 hari, gunakan prinsip pareto di mana anda mengajarkan
+    20% dan paling berguna untuk mendapatkan 80% hasil yang paling optimal.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

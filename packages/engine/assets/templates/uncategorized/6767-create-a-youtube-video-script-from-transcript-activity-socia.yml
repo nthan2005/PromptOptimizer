@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6767
+# teaser: Create a Youtube Video Script from Transcript (5-20min) RevisionTime:
+# 2024-10-03T09:57:39.721Z
+- id: 6767-create-a-youtube-video-script-from-transcript-activity-socia
+  title:
+    "Create a Youtube Video Script from Transcript Activity: Social Media Topic:
+    Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - youtube
+    - video
+    - script
+    - transcript
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create a Youtube Video Script from
+    Transcript"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create a detailed written youtube video script that takes between 8-20 minutes
+    to read using 1500-4000 words, that is ready to be read out loud from a first-person
+    perspective in present tense sound like a real human. Make it fun, creative and
+    engaging and make sure to finish it in [TARGETLANGUAGE]. KEY MESSAGE: Start directly
+    with one sentence what exactly the viewer will learn in this video and add 2-3
+    sentences that make the viewer want to hear more addressing the possible pain
+    points, needs and solution about the main topic and title. INTRO: Then create
+    a paragraph with a rewritten and convincing variation that makes the views trust
+    in me from this: Hello, my name is Marvin. I bring people together to help build
+    and grow a successful business. I want to help you make a living and enjoy your
+    freedom. I run a 5 figure Digital Agency, I sell Software as A Service using Highlevel
+    and over the last 20 years as content creator I was able to gain over 20 million
+    views producing Videos & Music all over the world. Be your own Boss - Let''s Make
+    This Your Moment. BULLET POINTS: Now, after that follow up with well-structured
+    bullet points using emoijs instead of bullet points. Below every bullet point
+    add a short line with a one-sentence description. Replace all names with the word
+    I and write from the I-form. TIME: Then add a line with a time emoij: How long
+    it takes to read the script in minutes. For all of that, use a rephrased version
+    of this text: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

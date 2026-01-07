@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 734
+# teaser: This will help you write like a press writer in first person observation
+- id: 734-write-a-professional-sports-press-article
+  title: Write a Professional Sports Press Article
+  tags:
+    - sports-writing
+    - write
+    - professional
+    - sports
+    - press
+    - article
+  family: Sports Writing
+  body:
+    Act as a professional sports press publication writer and write a title and
+    750 word article about [PROMPT] [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

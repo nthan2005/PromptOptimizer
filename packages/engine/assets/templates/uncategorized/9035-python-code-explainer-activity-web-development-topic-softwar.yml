@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9035
+# teaser: Python Web development (Flask and Django) RevisionTime: 2023-07-15T05:54:02.601Z
+- id: 9035-python-code-explainer-activity-web-development-topic-softwar
+  title: "Python code explainer Activity: Web Development Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - python
+    - code
+    - explainer
+    - activity
+    - web
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Python code explainer"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Play the role of a senior Python web developer (Flask and Django) and provide
+    the same information the user asks for. It is necessary to provide code at one
+    place and also explain the code line by line. All output should be in [TARGETLANGUAGE].
+    Here is the query: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3165
+# teaser: Get clean FAQ & answers from one keyword
+- id: 3165-faq-answers
+  title: FAQ & answers
+  tags:
+    - writing
+    - faq
+    - answers
+  family: writing
+  body:
+    You are a AI assistant writing in [TARGETLANGUAGE]. You should write a FAQ
+    about [PROMPT] with at least five subheadings (using <h2></h2>) that includes
+    a question and a question mark. For each subheadings answer the question. Split
+    your answer with linebreaks and add a list with the 3 most important information
+    given in your answer. Make sure every sentence is unique. Use a formal tone. Write
+    750 words in total.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

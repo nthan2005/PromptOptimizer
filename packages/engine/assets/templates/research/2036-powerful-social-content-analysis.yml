@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2036
+# teaser: Make a complete social content analysis with powerful insights. ** Vote if you like it! ;)
+# **
+- id: 2036-powerful-social-content-analysis
+  title: Powerful Social Content Analysis
+  tags:
+    - research
+    - powerful
+    - social
+    - content
+    - analysis
+  family: Research
+  body:
+    "You will act as a content social expert and analyze the last [PROMPT] 10
+    posts in this social network: [PROMPT], then in a table format, selecting the
+    post with the best [PROMPT] explain in [TARGETLANGUAGE] the parameters it is the
+    best one."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

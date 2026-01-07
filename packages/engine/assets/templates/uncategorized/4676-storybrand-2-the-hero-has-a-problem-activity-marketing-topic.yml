@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4676
+# teaser: Understand your audience in relation to the issues and problems they face, based on the
+# Donald Miller book Story Brand. Lets find out what your customers problems might be [What is you
+# product or service, be specific. My product or service is .....] RevisionTime: 2023-02-20T22:48:23Z
+- id: 4676-storybrand-2-the-hero-has-a-problem-activity-marketing-topic
+  title: "Storybrand: 2. The Hero has a problem Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - storybrand
+    - hero
+    - has
+    - problem
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Storybrand: 2. The Hero has a problem
+    "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Set the [TARGETLANGUAGE] for output. In relation to Story Brand Scripting
+    by Donald Miller if my product or service is, [PROMPT] In relation to our customers
+    or the hero:'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

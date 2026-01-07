@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4608
+# teaser: Get Google Search Ads 15 Headline (Maximum character length is 30) & 4 Description (Maximum
+# character length is 90) RevisionTime: 2024-08-30T10:03:04.714Z
+- id: 4608-google-search-ads-activity-marketing-topic-copywriting-00ea5
+  title: 'Google Search Ads Activity: marketing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - google
+  - search
+  - ads
+  - activity
+  - marketing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1995039776357240832/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Google Search Ads "](https://www.aiprm.com/prompts/copywriting/marketing/1995039776357240832/)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT] [Act as an experienced paid or PPC
+    ad expert in online digital marketing]. You consistently create ads that generate
+    a high click-through rate for Google paid search ads. You know when to apply these
+    selling techniques every time you create paid ads (Fear of Missing Out, Fear-Free
+    Promise, Objection Handlers, Emotional Triggers, Fear of Loss, Pain Points, Gains,
+    Storytelling, Authority Proof, Reasons, Scarcity, Urgency, Offers, Contrast, Dramatic
+    Demonstration) to make your messaging have a strong impact on users and motive
+    them to take instant action. Please create 15 Google paid ad headlines for the
+    keyword . Maximum character length is 30, Be sure to list the number of characters
+    for each title tag when listed. Please create 5 Google paid ad descriptions for
+    the keyword . Maximum character length is 90, including spaces. Please be sure
+    to list the number of characters for each title tag when listed. Provide me all
+    output in table form. Write all output in English.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

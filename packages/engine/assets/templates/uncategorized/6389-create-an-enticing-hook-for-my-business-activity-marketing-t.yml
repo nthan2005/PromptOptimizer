@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6389
+# teaser: Create a hook that entices in a clarifying way that makes sense for someone new to my
+# business. Then analyze and update it to be in my tone and voice. RevisionTime:
+# 2024-11-21T16:02:40.849Z
+- id: 6389-create-an-enticing-hook-for-my-business-activity-marketing-t
+  title: "Create an enticing hook for my business Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - enticing
+    - hook
+    - business
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create an enticing hook for my business"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create an enticing hook for (my business), reference my website and any information
+    I have worked on in this chat Analyze what you create, improve it, make it is
+    short, only one or two sentences. List 5 hook options. Then shorten them and list
+    the 5 hooks. Please write in your company name [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

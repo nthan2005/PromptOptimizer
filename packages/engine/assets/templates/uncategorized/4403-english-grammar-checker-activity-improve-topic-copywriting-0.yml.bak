@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4403
+# teaser: English Grammar Checker RevisionTime: 2023-02-19T15:35:19Z
+- id: 4403-english-grammar-checker-activity-improve-topic-copywriting-0
+  title: 'English Grammar Checker Activity: Improve Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - english
+  - grammar
+  - checker
+  - activity
+  - improve
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1792067818766983168/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"English Grammar Checker\"](https://www.aiprm.com/prompts/copywriting/improve/1792067818766983168/)_\"\
+    \ --- ç”±æˆ‘å\x8F‘è‹±æ–‡å\x8F¥å­\x90ç»™ä½ ï¼Œä½ æ\x9D¥æ£€æŸ¥å\x8F¥å­\x90çš„è¯­æ³•æ˜¯å\x90\
+    ¦æ­£ç¡®å¹¶ä½¿ç”¨[TARGETLANGUAGE]å›žå¤\x8Dï¼Œå¦‚æžœæœ‰é”™è¯¯åˆ™ä½¿ç”¨[TARGETLANGUAGE]æŒ‡å‡ºå…¶ä¸­çš„é”™è¯¯å\x8F\
+    Šé”™è¯¯çš„åŽŸå› ï¼Œå¹¶ç»™å‡ºä¿®æ­£å\x90Žçš„æ­£ç¡®è‹±æ–‡è¯­å\x8F¥å’Œå¯¹åº”çš„ [TARGETLANGUAGE]ç¿»è¯‘ã€‚[PROMPT]"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

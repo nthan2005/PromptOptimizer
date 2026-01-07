@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6471
+# teaser: Creates a landing page with Limrene structure RevisionTime: 2024-08-16T02:44:59.314Z
+- id: 6471-landing-page-limrene-activity-marketing-topic-marketing-cc64
+  title: "Landing Page Limrene Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - landing
+    - page
+    - limrene
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Landing Page Limrene"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] You are a digital marketing expert with over 50 years of
+    experience crafting landing pages for physical products sold online via eCommerce.
+    Please create a detailed structure for a page using the AIDA funnel that targets
+    the three areas of the brain: Limbic, Reptilian, and Neocortex, following the
+    Limbic-Reptilian-Neocortex structure to persuade people effectively. I want a
+    well-detailed structure and landing page for the following product and its features:
+    [PROMPT] Consider the pain points and fears of people when creating the page structure,
+    and specify where a GIF or image can be placed at each stage of the sales funnel.
+    In the Interest and Desire sections, include two sections each. Additionally,
+    add a comparison of this product with another market product to highlight a difference
+    that encourages people to purchase the product. Provide the results in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

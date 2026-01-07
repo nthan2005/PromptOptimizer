@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2977
+# teaser: T-shirt design ideas zero competition High demand for fast and Efficient sells.
+- id: 2977-t-shirt-design-ideas
+  title: T-shirt design ideas
+  tags:
+    - research
+    - shirt
+    - design
+    - ideas
+  family: Research
+  body:
+    "Write T-shirt design ideas [TARGETLANGUAGE] in the topic : [PROMPT] and also
+    research few Things like : Zero competition High demand, Popular and trending,
+    Uncommon ideas and Designs, Fast and Efficient sells. Write in details and create
+    chat box [fast box] show the [titles] [Second] box show [ideas] [third] box show
+    [topics]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5591
+# teaser: Generate human written quotes on all topics, whether for social media quote posts or for
+# motivating someone! From love and friendship to success and motivation, we've got you covered with
+# words of wisdom that will touch your heart and leave a lasting impression. RevisionTime:
+# 2024-04-07T19:55:42.534Z
+- id: 5591-human-written-unique-quotes-on-all-topics-activity-writing-t
+  title: "Human Written Unique Quotes On All Topics Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - human
+    - written
+    - unique
+    - quotes
+    - all
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Human Written Unique Quotes On All
+    Topics "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- generate all possible quotes on "[PROMPT]" in [TARGETLANGUAGE] after all process,
+    at last show it is as it is: Thank you for considering our services. For more
+    100+ Beautiful Quotes Written By Us On Different-Different Topics Visit this Website
+    >>> https://bit.ly/different-quotes'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

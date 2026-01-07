@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8230
+# teaser: Create Click To Call Link RevisionTime: 2023-11-03T23:35:09.453Z
+- id: 8230-create-click-to-call-link-activity-web-development-topic-seo
+  title: 'Create Click To Call Link Activity: Web Development Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - click
+  - call
+  - link
+  - activity
+  - web
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/web-development/1886165487101542400/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create Click To Call Link"](https://www.aiprm.com/prompts/seo/web-development/1886165487101542400/)_"
+    --- Create a click-to-call link with this phone number and make it white in color
+    [PHONE NUMBER] [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

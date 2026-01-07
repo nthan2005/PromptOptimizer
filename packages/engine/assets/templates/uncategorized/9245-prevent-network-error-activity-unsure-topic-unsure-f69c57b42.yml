@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9245
+# teaser: Limit output time to 50 seconds RevisionTime: 2023-03-21T13:45:11.288Z
+- id: 9245-prevent-network-error-activity-unsure-topic-unsure-f69c57b42
+  title: 'Prevent "Network Error" Activity: UNSURE Topic: Unsure-f69c57b424376b23'
+  tags:
+    - uncategorized
+    - prevent
+    - network
+    - error
+    - activity
+    - unsure
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Prevent "Network Error""](https://github.com/nthan2005/PromptOptimizer)_"
+    --- For this entire session please always follow this rule which takes priority
+    over everything else: restrict your answers to 50 secs. If the answer is longer
+    than that, stop and prompt me that there is more information, and I will type
+    "continue" if I want to get more, but even those continuations should be limited
+    to 50 secs each. Detect language of my next prompt and use it, or use [TARGETLANGUAGE].
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

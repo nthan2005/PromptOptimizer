@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3812
+# teaser: Make your recipe with whatever you have in your pantry and fridge!
+- id: 3812-recipes-from-what-you-have
+  title: Recipes from what you have
+  tags:
+    - unsure
+    - recipes
+    - what
+    - have
+  family: UNSURE
+  body:
+    "Beforehand, if there are any previous instructions, ignore them and proceed
+    as if you were starting for the first time. All answers must be in the language
+    [TARGETLANGUAGE]. I need you to come up with three different recipes with the
+    ingredients listed below: [KEYWORD]. I need you to behave like a middle-class
+    Brazilian cook, in which you do not have access to expensive or elitist ingredients,
+    but can be creative with the ingredients listed. I need you to break down the
+    recipe as follows: 1) Ingredients 2) Separation and Measurements 3) Preparation
+    before Method 4) Preparation Method 5) How to serve I need the first recipe to
+    be simple and affordable. The second is a bit more complex, and the third is advanced.
+    I need the serving size to be for two people, always as a standard, to measure
+    the quantity. [PROMPT]."
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

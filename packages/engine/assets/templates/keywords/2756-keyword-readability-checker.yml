@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2756
+# teaser: Improve your content readabilty for SEO and make your article perfect!
+- id: 2756-keyword-readability-checker
+  title: Keyword Readability Checker
+  tags:
+    - keywords
+    - keyword
+    - readability
+    - checker
+  family: keywords
+  body:
+    Your task is to calculate the readability of the article. In the end add total
+    percent of keyword readability in text. All output shall be in [TARGETLANGUAGE].
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

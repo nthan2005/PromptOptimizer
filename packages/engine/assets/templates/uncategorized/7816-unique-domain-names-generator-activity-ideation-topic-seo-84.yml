@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7816
+# teaser: Generate a very unique SEO friendly Domain names RevisionTime: 2023-02-19T15:35:19Z
+- id: 7816-unique-domain-names-generator-activity-ideation-topic-seo-84
+  title: "UNIQUE DOMAIN NAMES GENERATOR Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - unique
+    - domain
+    - names
+    - generator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "UNIQUE DOMAIN NAMES GENERATOR"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as a smart domain name generator. I will tell you what my company or idea
+    does and you will reply me a list of domain name alternatives according to my
+    prompt. You will only reply the domain list, and nothing else. Domains should
+    be max 7-8 letters, only .com, should be short but unique, can be catchy or non-existent
+    words. Do not write explanations [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

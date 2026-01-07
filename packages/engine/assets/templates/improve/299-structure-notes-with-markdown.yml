@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 299
+# teaser: Restructure your notes in a better way to highlights important keywords, and have a better
+# structure for making reading and learning easier.
+- id: 299-structure-notes-with-markdown
+  title: Structure Notes with Markdown
+  tags:
+    - improve
+    - structure
+    - notes
+    - markdown
+  family: Improve
+  body:
+    "RÃ©Ã©crit moi cette note avec plus de markdown pour faire ressortir les Ã©lÃ©ments
+    clÃ©s (**keywords**) et ajouter de la strucuture et de la lisibilitÃ© avec les
+    Ã©lÃ©ments de markdown suivant : - listes Ã puces (* liste) - listes numÃ©rotÃ©es
+    (1. element 1, 2. element 2, 3. element 3.....) - mots en gras (**gras**) -> Pour
+    tous les motrs et Ã©lÃ©ments importants, j'en veux le plus possible ! - mots
+    en italique (*italique*) -> Uniquement pour les noms - bloc de citation (> Les
+    blocs de citation) -> uniquement pour les citations - titres h1 (# Titre1) ->
+    Le titre de la note - titres h2 (## Titre2) -> Le titre des catÃ©gories de la
+    note (tu peux utiliser en plus des listes numÃ©rotÃ©s) - titres h3 (### Titre3)
+    -> Le titre des csous-catÃ©gories de la note (tu peux utiliser en plus des listes
+    numÃ©rotÃ©s) - code incorporÃ© (Â« code incorporÃ© Â») -> Si du code est prÃ©sent
+    dans la note - blocs de code (```code```) -> Si un script est prÃ©sent dans la
+    note - liens ([Texte dâ€™affichage du lien](http://www.sampleurl.com)) -> Si un
+    lien est prÃ©sent dans la note Utilise obligatoirement tout le formattage pour
+    servir la lisibilitÃ©, la clartÃ© et l'organisation de la note sans ne perdre
+    aucune informations. J'insite sur les mots en gras, il doit y en avoir le plus
+    possible, y compris Ã l'intÃ©rieur d'autres Ã©lÃ©ments de structure. Je veux
+    que la note soit dans la langue suivante : [TARGETLANGUAGE] Voici la note : [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

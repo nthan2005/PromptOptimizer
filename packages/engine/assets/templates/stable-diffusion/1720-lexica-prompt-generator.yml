@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1720
+# teaser: Outputs four extremely detailed lexica aperture prompts for your title.
+- id: 1720-lexica-prompt-generator
+  title: Lexica Prompt Generator
+  tags:
+    - stable-diffusion
+    - lexica
+    - prompt
+    - generator
+  family: Stable Diffusion
+  body: I am using Lexica to generate AI images for [PROMPT] in [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

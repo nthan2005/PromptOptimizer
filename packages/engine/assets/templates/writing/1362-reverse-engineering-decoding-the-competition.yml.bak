@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1362
+# teaser: Break down barriers and find new solutions with reverse engineering. Stay ahead of the game
+# by decoding your competitors' strategies by the decoding the competition textx. [reverse
+# engineering] [copywritting] [writting] [reasearch]
+- id: 1362-reverse-engineering-decoding-the-competition
+  title: 'Reverse Engineering: Decoding the Competition'
+  tags:
+  - writing
+  - reverse
+  - engineering
+  - decoding
+  - competition
+  family: writing
+  body: 'Na podstawie wklejonego tekstu okreÃ…â€ºl: 1. target publicznoÃ…â€ºci wynikajÃ„â€¦cy
+    z treÃ…â€ºci, 2. ton wypowiedzi, 3. Struktura tekstu i jego podziaÃ…â€š na sekcje oraz
+    dÃ…â€šugoÃ…â€ºÃ„â€¡ tekstu w znakach (Ã…â€šÃ„â€¦cznie ze spacjami) 4. SÃ…â€šownictwo i styl 5. rodzaj
+    jÃ„â„¢zyka i skÃ…â€šadni 6. narracja 7. StopieÃ…â€ž czytelnoÃ…â€ºci i atrakcyjnoÃ…â€ºci tekstu
+    okreÃ…â€ºlony w procentach (%) 8. Stosowane przykÃ…â€šady i czÃ„â„¢stotliwoÃ…â€ºÃ„â€¡ odwoÃ…â€šywania
+    siÃ„â„¢ do Ã…ÂºrÃƒÂ³deÃ…â€š 9. Zastosowane techniki pisarskie 10. OdpowiedÃ…Âº na potrzeby
+    czytelnikÃƒÂ³w i ocena atrakcyjnoÃ…â€ºci dla czytelnika (w procentach) 11. Jakie jeszcze
+    echniczne charakterystyki proponujesz do gÃ…â€šebszego zbadania tesktu pod wzglÃ„â„¢dem
+    techniki pisania. Wymien po przecinku, tylko elementy techniczne bez opisÃƒÂ³w (max
+    5). 12. Zaproponuj 10 hashtagÃƒÂ³w wynikajÃ„â€¦cych z treÃ…â€ºci i skoreluj je z najpopularniejszymi
+    hashtagami w sieci link do tekstu: [PROMPT] UÃ…Â¼ywaj jÃ„â„¢zyka: [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

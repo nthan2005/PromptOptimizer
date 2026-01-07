@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6907
+# teaser: Create 10 powerful, persuasive remarketing or retargetting message for your website
+# visitors. RevisionTime: 2024-11-04T08:28:38.425Z
+- id: 6907-remarketing-ad-copy-on-social-media-activity-social-media-to
+  title: "Remarketing Ad Copy on Social Media Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - remarketing
+    - copy
+    - social
+    - media
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Remarketing Ad Copy on Social Media"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write 10 persuasive remarketing or retargeting messages in [TARGETLANGUAGE]
+    for people who visited a webpage focusing on the target keyword below of the business
+    name mentioned, but didn''t become customers. The message should recall them what
+    they visited the business name''s website but didn''t take any action. Also give
+    them the reason to do so. Keep the word count within 80 words for each message.
+    To be posted on social media. Include emojis & popular related hashtags for each.
+    Write a heading with the word "With Discount Offers" after the first 5 remarketing
+    messages. Under that heading write the last 5 remarketing messages which should
+    contain some discount. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

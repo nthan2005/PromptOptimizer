@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9283
+# teaser: Implications of teaching in today's society RevisionTime: 2023-12-15T19:49:47.789Z
+- id: 9283-teaching-and-society-activity-unsure-topic-unsure-f69c57b424
+  title: "Teaching and society Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - teaching
+    - society
+    - activity
+    - unsure
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Teaching and society"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to generate a summary of what implications the teaching profession
+    has in the field of knowledge. You must give me separate answers based on the
+    disciplinary area: language and literature, mathematics, geography and history,
+    foreign language, biology and geology, physical education. write all output in
+    [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

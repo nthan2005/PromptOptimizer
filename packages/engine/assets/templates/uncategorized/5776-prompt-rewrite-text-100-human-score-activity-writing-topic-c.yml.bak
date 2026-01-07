@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5776
+# teaser: Rewrites your text to generate 100% human content RevisionTime: 2023-05-03T23:19:01.846Z
+- id: 5776-prompt-rewrite-text-100-human-score-activity-writing-topic-c
+  title: 'Prompt "Rewrite text | 100% Human Score" Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - prompt
+  - rewrite
+  - text
+  - '100'
+  - human
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1811109752269434880/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Prompt "Rewrite text | 100% Human Score""](https://www.aiprm.com/prompts/copywriting/writing/1811109752269434880/)_"
+    --- [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

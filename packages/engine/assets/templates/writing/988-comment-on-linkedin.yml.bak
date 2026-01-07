@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 988
+# teaser: Comment LinkedIn posts. You just have to copy and paste LinkedIn post you want to comment.
+- id: 988-comment-on-linkedin
+  title: Comment On LinkedIn
+  tags:
+  - writing
+  - comment
+  - linkedin
+  family: writing
+  body: 'Please ignore all the previous instructions. I want you to respond only in
+    [TARGETLANGUAGE] language. I want you to act as an active LinkedIn user who speaks
+    and writes fluently in [TARGETLANGUAGE] language, you are scrolling through your
+    feed and come across an interesting post. Write a comment that engages with the
+    post and encourages further discussion. Consider the tone, content, and audience
+    of the original post when crafting your response. Remember to keep it concise
+    and to the point.. write a relevant, informal, engaging fun comment on my LinkedIn
+    connection''s post. Add one new perspective or a story that could serve as an
+    experience relevant to the post. The post to comment is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

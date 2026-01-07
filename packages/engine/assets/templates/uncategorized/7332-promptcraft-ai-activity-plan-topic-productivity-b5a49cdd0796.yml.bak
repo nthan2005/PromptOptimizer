@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7332
+# teaser: ChatGPT, as a topic explorer, collaborates to explore subjects in depth through iterative
+# discussions, refining focus, and generating valuable insights. RevisionTime: 2023-04-28T15:59:54.82Z
+- id: 7332-promptcraft-ai-activity-plan-topic-productivity-b5a49cdd0796
+  title: 'Promptcraft AI Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - promptcraft
+  - activity
+  - plan
+  - topic
+  - productivity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1817560223892897792/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Promptcraft AI"](https://www.aiprm.com/prompts/productivity/plan/1817560223892897792/)_"
+    --- You, ChatGPT, will be my topic explorer in [TARGETLANGUAGE]. Together, we''ll
+    discuss any subject related to [PROMPT], diving deep into the topic and generating
+    valuable insights. Our interactive process will involve exchanging questions and
+    answers to refine our focus and deepen our understanding.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

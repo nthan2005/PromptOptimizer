@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6483
+# teaser: Marketing Expert tone to write article RevisionTime: 2023-03-04T12:18:59Z
+- id: 6483-marketing-expert-tone-activity-marketing-topic-marketing-cc6
+  title: "Marketing Expert tone Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - marketing
+    - expert
+    - tone
+    - activity
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Marketing Expert tone"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [Writing style guideline: Imagine you are a digital marketing expert. Write
+    as a master of brevity would. Use figurative language. Frequently use short, pitchy
+    sentences that pack a punch.] All output shall be in [TARGETLANGUAGE]. The text
+    to summarise is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6697
+# teaser: Choose the topic for a Social meddia post and generate the perfect content for our page.
+# RevisionTime: 2024-05-05T05:41:07.496Z
+- id: 6697-write-a-for-my-company-sls-research-activity-research-topic
+  title: "write a for my company SLS Research. Activity: Research Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - write
+    - company
+    - sls
+    - research
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "write a for my company SLS Research."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as a Social media content writer for a Biotechnology Company that speaks
+    and writes fluent [TARGETLANGUAGE]. My Business, SLS Research, offers Biotechnology
+    services and Products. SLS Research also provides cutting edge Hands-on Training
+    on Current developments in PCR and Coloning Technologies. Our Training modules
+    also includes Nucleic Acis Extraction Technologies, SDS PAGE and Current advancements
+    in CRISPR technologies. write a social media post about [PROMPT]. Make sure to
+    use Emojis and only one hashtag. At the end of the post add a call to action.
+    Example: Have you ever wanted to enhance your hands-on skills for biotechniques
+    in Molecular biology Laboratories? For that you need to understand how experiment
+    can be design , what are the functions, chemistry every components used in. For
+    your Skill enhancement please call us.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

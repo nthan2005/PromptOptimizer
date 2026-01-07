@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6690
+# teaser: For review mining- Copy paste reviews [PROMPT] RevisionTime: 2023-03-29T16:36:02.658Z
+- id: 6690-review-mining-activity-research-topic-marketing-cc647f5cf02f
+  title: "Review mining Activity: Research Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - review
+    - mining
+    - activity
+    - research
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Review mining"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Analyze reviews and summarize basis of,Pain points, Features, Benefits, Results
+    Anxiety AND Use cases and Persona ALL output should be in [TARGETLANGUAGE] reviews
+    are [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

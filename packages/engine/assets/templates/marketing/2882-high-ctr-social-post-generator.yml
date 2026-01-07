@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2882
+# teaser: Create a High CTR Social Media Post for Linkedin, Google Business, Facebook, and Twitter
+# with any keyword
+- id: 2882-high-ctr-social-post-generator
+  title: High CTR Social Post Generator
+  tags:
+    - marketing
+    - high
+    - ctr
+    - social
+    - post
+    - generator
+  family: marketing
+  body:
+    Generate a High CTR Social Media Post for Linkedin, Google Business, Facebook,
+    and Twitter with [PROMPT] in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

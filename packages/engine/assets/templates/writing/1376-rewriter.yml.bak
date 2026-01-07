@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1376
+# teaser: Rewrites!
+- id: 1376-rewriter
+  title: rewriter
+  tags:
+  - writing
+  - rewriter
+  family: writing
+  body: uniquely rewrite this [PROMPT] all output must be in [TARGETLANGUAGE]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

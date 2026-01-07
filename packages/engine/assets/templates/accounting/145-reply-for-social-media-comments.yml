@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 145
+# teaser: Generate a reply to any comments on social media
+- id: 145-reply-for-social-media-comments
+  title: Reply for social media comments
+  tags:
+    - accounting
+    - reply
+    - social
+    - media
+    - comments
+  family: Accounting
+  body:
+    Generate a casual, crisp and shortest [TARGETLANGUAGE] response to comment
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

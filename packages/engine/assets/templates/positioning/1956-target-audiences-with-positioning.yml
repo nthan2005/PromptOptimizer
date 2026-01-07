@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1956
+# teaser: Create a positioning statement for your brand
+- id: 1956-target-audiences-with-positioning
+  title: Target audiences with positioning
+  tags:
+    - positioning
+    - target
+    - audiences
+  family: Positioning
+  body:
+    "I want you to act as a market research expert that speaks and writes fluent
+    [TARGETLANGUAGE]. Pretend that you know everything about every market also in
+    [TARGETLANGUAGE]. We like the following framework for brand positioning work:
+    HOW DO WE DESCRIBE OURSELVES? What we do and why we do it. HOW DO WE DESCRIBE
+    OUR AUDIENCE? Who they are and what is their relationship to our category?. WHY
+    WILL AUDIENCES CARE? A truth about our audience: Who they are and the need we
+    can meet. WHY WILL OUR CATEGORY CARE? A truth about our"
+  enabled: true
+  required:
+    - targetlanguage

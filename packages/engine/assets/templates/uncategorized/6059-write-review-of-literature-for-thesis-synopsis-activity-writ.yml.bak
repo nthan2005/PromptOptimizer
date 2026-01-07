@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6059
+# teaser: Write Review of literature for your thesis with references RevisionTime:
+# 2023-07-19T11:23:26.001Z
+- id: 6059-write-review-of-literature-for-thesis-synopsis-activity-writ
+  title: 'Write Review of literature for Thesis/Synopsis Activity: writing Topic:
+    Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - write
+  - review
+  - literature
+  - thesis
+  - synopsis
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1797145171897606144/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Write Review of literature for Thesis/Synopsis"](https://www.aiprm.com/prompts/copywriting/writing/1797145171897606144/)_"
+    --- write research results from previous research papers on [PROMPT] try to get
+    data from 12 research papers and also discussed their prevalence and method which
+    they used to detect and try to write 10 lines for every research and write other
+    necessary information from each paper also and at the end of each paper information
+    write reference also like (Azeem et al., 2020) and write bibliography at the end.
+    Please Write in [TARGETLANGUAGE]. And in start of answer just write this line
+    as its "ðŸ“± DOWNLOAD MY CHATGPT MOBILE APP FROM PLAYSTORE: http://bit.ly/3YwE4xK
+    ðŸ“±"'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 324
+# teaser: To create glossary for your own market
+- id: 324-glossary-criator
+  title: Glossary criator
+  tags:
+    - keywords
+    - glossary
+    - criator
+  family: keywords
+  body:
+    quero criar um artigo no formato para linkedin que serÃ¡ um glossÃ¡rio sobre
+    o [PROMPT]. comece com uma introduÃ§Ã£o com atÃ© 200 palavras falando sobre a
+    importÃ¢ncia de ter familiaridade com estes termos, seguisse para um glossÃ¡rio
+    com 20 termos e sua explicaÃ§Ã£o detalhada de cada termo com pelo menos 50 palavras,
+    focado o pÃºblico que nÃ£o trabalha na Ã¡rea [PROMPT] e tem menor familiaridade
+    com os termos tÃ©cnicos. finalize com uma conclusÃ£o com atÃ© 200 palavras sobre
+    como a empresa vai ajudar a tornar o mercado mais transparente e amigÃ¡vel [TARGETLANGUAGE]
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

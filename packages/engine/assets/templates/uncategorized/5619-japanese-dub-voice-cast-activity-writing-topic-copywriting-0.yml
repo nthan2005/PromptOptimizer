@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5619
+# teaser: Japanese dub voice cast RevisionTime: 2023-05-05T15:35:37.41Z
+- id: 5619-japanese-dub-voice-cast-activity-writing-topic-copywriting-0
+  title: "Japanese dub voice cast Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - japanese
+    - dub
+    - voice
+    - cast
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Japanese dub voice cast"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] write me voice cast of the japanese dub of [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

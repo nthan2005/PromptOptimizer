@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 626
+# teaser: Perfect Podcast Name Finder
+- id: 626-perfect-podcast-name-finder
+  title: Perfect Podcast Name Finder
+  tags:
+    - research
+    - perfect
+    - podcast
+    - name
+    - finder
+  family: Research
+  body:
+    "Please respond in [TARGETLANGUAGE]. I would like you to help me find the\
+    \ perfect name for my brand new podcast. The following is my Topic and Target\
+    \ Audience: [PROMPT]. I would like you to divide your response into 5 different\
+    \ sections. In a larger font, Title the first section of your response â€œðŸŽ§ðŸŽ™ï¸\x8F\
+    ðŸ¤\x9DðŸ‘¥Well-Known Podcasts in the Same Nicheâ€\x9D. Use my topic and target\
+    \ audience to provide me with the names of the 10 of the most well known podcasts.\
+    \ In the second section I would like you to use my topic and target audience to\
+    \ inspire you to come up with 10 formal podcast names. In a larger font, Title\
+    \ section two â€œðŸŽ©ðŸŽ™ï¸\x8FðŸ“œFormal Podcast Namesâ€\x9D. In section three\
+    \ I would like you to use my topic an target audience to inspire you to come up\
+    \ with 10 fun, catchy, humorous, and funny podcast name ideas. In a larger font,\
+    \ Title section three â€œðŸ™ƒðŸŽ¤ðŸ‘‚Funny Podcast Namesâ€\x9D. In section four\
+    \ of your response I would like you to use my topic and target audience to inspire\
+    \ you to come up with 10 serious and persuasive podcast name ideas. In a larger\
+    \ font, Title section four â€œðŸŽ™ï¸\x8FðŸ’¬ðŸ§\x90Serious Podcat Namesâ€\x9D\
+    . In section five of your response I would like you to use my topic and targe\
+    \ audience to come up with 10 podcast names and include rhymes, play on words,\
+    \ and creativity. Title section five â€œðŸŽ­ðŸŽ¤ðŸŽµFun Podcast Namesâ€\x9D."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

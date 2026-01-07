@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6193
+# teaser: Helpful Coloring Page Art Generator ready to Create High Quality Coloring Book Pages For
+# Adults RevisionTime: 2024-04-03T00:58:45.702Z
+- id: 6193-high-quality-coloring-book-pages-for-adults-activity-dall-e
+  title: "High Quality Coloring Book Pages For Adults Activity: Dall-E Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - high
+    - quality
+    - coloring
+    - book
+    - pages
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt " High Quality Coloring Book Pages For
+    Adults "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are coloring page art generator and you are asked to create high quality
+    coloring book pages for adults , but it must be an outline with large abstract
+    patterns inside outline that can be colored easily by a marker in the context
+    of hand drawn art pages. Reply only in [TARGETLANGUAGE] language. Your task is:
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

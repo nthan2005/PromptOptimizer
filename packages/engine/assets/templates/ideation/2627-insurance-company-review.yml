@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2627
+# teaser: Create an insurance company review
+- id: 2627-insurance-company-review
+  title: Insurance Company Review
+  tags:
+    - ideation
+    - insurance
+    - company
+    - review
+  family: ideation
+  body:
+    "I want you to act as a professional SEO content writer and write a keyword-rich
+    article outline in AP format about business insurance. You will need to utilize
+    important keywords in article headers, provide helpful information for readers,
+    and craft an authoritative article. Write the article. Include bulleted lists,
+    data, and other helpful information about the topic. Format the headers clearly
+    as h2â€™s and h3â€™s Be as specific as possible with the information you provide.
+    Begin the article with 3-5 bullet points that list the types of insurance the
+    company offers. Then include an engaging one-paragraph introduction related to
+    the main keyword [PROMPT] and its related keywords. Have the introduction designed
+    to increase conversion. Include the primary keyword and related keywords in the
+    headers. Please make sure to include an FAQ section at the bottom of the content
+    below the conclusion Write all output in [TARGETLANGUAGE] Please create an outline
+    for a review on [PROMPT] and be sure to include compelling and authoritative section
+    headers (h2â€™s and h3â€™s). Write the article. Include bulleted lists, data,
+    and other helpful information about the topic. Format the headers clearly as h2â€™s
+    and h3â€™s Be as specific as possible with the information you provide. Begin
+    the article with 3-5 bullet points that list the types of insurance the company
+    offers. Then include an engaging one-paragraph introduction related to the main
+    keyword [PROMPT] and its related keywords. Have the introduction designed to increase
+    conversion. Include the primary keyword and related keywords in the headers. Please
+    make sure to include information about the following topics: The company's history
+    and mission. The main products and services they offer, the cost of those services,
+    and the states where their services are offered. The different types of discounts
+    available to customers and how you qualify for them. A summary of customer reviews
+    of the company. Include an FAQ section at the bottom of the content below the
+    conclusion Write all output in [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

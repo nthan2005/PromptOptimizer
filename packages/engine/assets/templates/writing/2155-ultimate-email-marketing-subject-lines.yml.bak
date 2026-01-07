@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2155
+# teaser: Create 35 [7X5] email subject line ideas from the perspective of a marketing expert - use
+# your short description or example email subject
+- id: 2155-ultimate-email-marketing-subject-lines
+  title: Ultimate Email Marketing Subject Lines
+  tags:
+  - writing
+  - ultimate
+  - email
+  - marketing
+  - subject
+  - lines
+  family: writing
+  body: 'As an email sales copywriter using [TARGETLANGUAGE] create 35 or 7*5 of each
+    of the following ''creative subject line'' ideas to increase open rate: 1. in
+    the style of eminem, 2. as a money making expert, 3. in a sensational manner,
+    4. in outlandish and humourous way, 5. making puns, + using the following content
+    as reference: [PROMPT] use max 50 characters, or 8 words on each subject line'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

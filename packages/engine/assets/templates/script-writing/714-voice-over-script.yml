@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 714
+# teaser: Create a voice-over script
+- id: 714-voice-over-script
+  title: Voice-over script
+  tags:
+    - script-writing
+    - voice
+    - over
+    - script
+  family: Script Writing
+  body:
+    Now, using this outline we will write a voice-over script for a [TARGETLANGUAGE].
+    I will later ask you to think about a precise chapter. You must focus ONLY on
+    this precise chapter, NEVER repeat yourself and be concise. Is that okay? [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

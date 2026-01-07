@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1456
+# teaser: Storytelling
+- id: 1456-storytelling
+  title: Storytelling
+  tags:
+  - writing
+  - storytelling
+  family: writing
+  body: 'Voice and style guide: Use a convincing tone, rhetorical questions, and stories
+    to keep the reader interested. Use similes, metaphors, and other literary tools
+    to make your points easier to understand and remember. Write in a way that is
+    both educational and fun in fluent [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

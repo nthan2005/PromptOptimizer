@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1267
+# teaser: Write the name of the movie
+- id: 1267-movie-recap-prompt
+  title: Movie Recap Prompt
+  tags:
+  - writing
+  - movie
+  - recap
+  - prompt
+  family: writing
+  body: '"I want you to watch the movie below: describe it in a narrative form, including
+    all the key details and spoilers. Your description should be engaging, smart and
+    well-structured. Provide a clear and accurate narration of the events that take
+    place in the movie, including character developments and plot twists. Your description
+    should be in the form of a story, making the audience feel like they''re watching
+    the movie themselves. Start your description with the title and director of the
+    movie you watched." All output shall be in [TARGETLANGUAGE]. The name of the Movie
+    called [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

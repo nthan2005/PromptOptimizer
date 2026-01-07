@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6829
+# teaser: Generate High-Quality Instagram Captions. RevisionTime: 2024-10-03T09:56:01.02Z
+- id: 6829-instagram-captions-activity-social-media-topic-marketing-cc6
+  title: "Instagram Captions Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - instagram
+    - captions
+    - activity
+    - social
+    - media
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Instagram Captions"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to Generate Instagram Captions and Relevent Hashtags. I Give
+    you the Topic Name or Title. All output shall be in [TARGETLANGUAGE]. The text
+    to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

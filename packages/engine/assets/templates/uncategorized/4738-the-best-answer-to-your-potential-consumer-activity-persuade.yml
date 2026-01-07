@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4738
+# teaser: Create the best answer to convince your potential consumer to buy your product RevisionTime:
+# 2023-03-22T16:38:49Z
+- id: 4738-the-best-answer-to-your-potential-consumer-activity-persuade
+  title: "The Best Answer to Your Potential Consumer Activity: Persuade Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - answer
+    - potential
+    - consumer
+    - activity
+    - persuade
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "The Best Answer to Your Potential Consumer"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You must give me a good objection-breaking answer to convince a potential
+    customer to buy my product. All output shall be in [TARGETLANGUAGE]. You should
+    give me this answer based on the following information: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

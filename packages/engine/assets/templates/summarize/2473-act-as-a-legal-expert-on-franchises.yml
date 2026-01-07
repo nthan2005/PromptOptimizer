@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2473
+# teaser: Acting as a legal expert, ChatGPT can explain how the Federal Trade Commission (FTC) defines
+# a franchise business relationship.
+- id: 2473-act-as-a-legal-expert-on-franchises
+  title: Act as a Legal Expert on Franchises
+  tags:
+    - summarize
+    - act
+    - legal
+    - expert
+    - franchises
+  family: Summarize
+  body:
+    Act as a legal expert on franchises in the United States. How does the Federal
+    Trade Commission define [PROMPT] a francise agreement in [TARGETLANGUAGE]?
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

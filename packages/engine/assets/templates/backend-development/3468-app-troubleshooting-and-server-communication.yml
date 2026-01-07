@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3468
+# teaser: Are you up for resolving issues and diving into the technical world of software
+# applications? Try this exercise of troubleshooting and uncovering the server communication paths.
+- id: 3468-app-troubleshooting-and-server-communication
+  title: App Troubleshooting and Server Communication
+  tags:
+    - backend-development
+    - app
+    - troubleshooting
+    - server
+    - communication
+  family: Backend Development
+  body:
+    "[PROMPT] [TARGETLANGUAGE] You're a software engineer facing an application
+    with some issues. Your task is to troubleshoot this application and extract all
+    the server communication paths, such as APIs and hubs. How would you approach
+    this task?"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

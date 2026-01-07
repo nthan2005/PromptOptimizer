@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6084
+# teaser: War in Yemen and Yemeni refugees struggling in Malaysia with the discrimination of UNHCR and
+# the westernÂ organizations RevisionTime: 2023-06-29T09:33:24.785Z
+- id: 6084-yemeni-refugees-in-malaysia-activity-writing-topic-copywriti
+  title: 'Yemeni refugees in Malaysia Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - yemeni
+  - refugees
+  - malaysia
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1839927803714998272/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Yemeni refugees in Malaysia "](https://www.aiprm.com/prompts/copywriting/writing/1839927803714998272/)_"
+    --- Your task is to summarize the text I give you in 86 words. All output shall
+    be in [TARGETLANGUAGE]. The text to summarize isÂ this: Your task is to summarize
+    the text I give you in 66 words. All output shall be in [TARGETLANGUAGE]. The
+    text to summarize isÂ this: In the context of ''War in Yemen and Yemeni Refugees:
+    Struggles in Malaysia,'' discuss the profound impact of the conflict on individuals
+    forced to seek refuge. Reflect on the discrimination facing Yemeni refugees in
+    Malaysia by UNHCR and Western organizations, particularly in the context of accepting
+    them for resettlement. Provide insightful analysis and recommendations supported
+    by examplesÂ fromÂ theÂ book [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4353
+# teaser: Design a fun and interactive game on any topic from a keyword RevisionTime:
+# 2023-02-19T15:35:19Z
+- id: 4353-game-builder-activity-games-topic-copywriting-00ea56f4464142
+  title: "Game Builder Activity: Games Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - game
+    - builder
+    - activity
+    - games
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Game Builder"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Design a fun and interactive game in [TARGETLANGUAGE] on the topic [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

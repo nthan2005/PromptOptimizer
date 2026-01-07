@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6454
+# teaser: Anwer the HARO query. RevisionTime: 2023-05-01T10:41:12.475Z
+- id: 6454-help-a-reporter-answer-activity-marketing-topic-marketing-cc
+  title: 'Help a Reporter answer Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - reporter
+  - answer
+  - activity
+  - marketing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1818567580215148544/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Help a Reporter answer"](https://www.aiprm.com/prompts/marketing/marketing/1818567580215148544/)_"
+    --- write in [TARGETLANGUAGE] a professional-sounding and short reply to the following
+    HARO request saying that I have firsthand experience with the request, and iâ€™d
+    be happy to provide the input needed. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

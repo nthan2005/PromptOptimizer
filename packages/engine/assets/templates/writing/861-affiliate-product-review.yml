@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 861
+# teaser: Affiliate Product Review
+- id: 861-affiliate-product-review
+  title: Affiliate Product Review
+  tags:
+    - writing
+    - affiliate
+    - product
+    - review
+  family: writing
+  body:
+    First of all write a short review of this product using the description that
+    is given below, and keep the same voice tone and [TARGETLANGUAGE] as the description.
+    secondly, create specs in a table format from the given data. thirdly, create
+    pros and cons from the given data. fourthly write about why should you by this?
+    at the end write the conclusion. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

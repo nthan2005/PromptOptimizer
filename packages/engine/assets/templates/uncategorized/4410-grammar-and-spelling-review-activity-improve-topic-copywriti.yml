@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4410
+# teaser: Review the Grammar and Spelling of the Text without losing the sense of the context in the
+# Brazilian Portuguese language. RevisionTime: 2023-06-13T10:59:26.371Z
+- id: 4410-grammar-and-spelling-review-activity-improve-topic-copywriti
+  title: "Grammar and spelling review Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - grammar
+    - spelling
+    - review
+    - activity
+    - improve
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Grammar and spelling review"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Revise a GramÃƒÂ¡tica e Ortografia do Texto sem perder o sentido do contexto
+    em Portugues do Brasil. [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

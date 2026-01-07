@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4988
+# teaser: A re-writer that re-writes [Paragraph] RevisionTime: 2023-04-20T03:07:34.712Z
+- id: 4988-re-writer-activity-script-writing-topic-copywriting-00ea56f4
+  title: 're-writer Activity: Script Writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - writer
+  - activity
+  - script
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1814467154121326592/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "re-writer"](https://www.aiprm.com/prompts/copywriting/script-writing/1814467154121326592/)_"
+    --- Act as a re-writing machine. I will provide a paragraph of research paper.
+    You will rewrite the paragraph in [TARGETLANGUAGE]. The paragraph should have
+    the similar meaning and convey similar information, but have different manner
+    and pass the plagiarism check. Here is the paragraph [Paragraph:Paragraph] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

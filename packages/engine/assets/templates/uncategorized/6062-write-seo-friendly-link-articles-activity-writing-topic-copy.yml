@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6062
+# teaser: Write SEO friendly link articles RevisionTime: 2023-09-13T10:28:42.41Z
+- id: 6062-write-seo-friendly-link-articles-activity-writing-topic-copy
+  title: "Write SEO friendly link articles Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - write
+    - seo
+    - friendly
+    - link
+    - articles
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Write SEO friendly link articles"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Jeg skal lave en artikel omkring [PROMPT] sÃƒÂ¸geordet. Det skal linke til [URL],
+    da det skal fungere som linkbuilding. Du er en ekspert i linkbuilding og tekst
+    skrivning. Teksten skal have overskrifter og sÃƒÂ¥ skal der minimum vÃƒÂ¦re 500 ord.
+    PrÃƒÂ¸v at inkorporere omkring 3-4 overskrifter og fordel de 500 ord pÃƒÂ¥ disse 3-4
+    overskrifter.[TARGETLANGUAGE]. Du skal forestille dig at vÃƒÂ¦re en dygtig copywriter,
+    som elsker at skrive fangende tekster. Teksten skal vÃƒÂ¦re informativ og ikke sÃƒÂ¦lgende.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - url

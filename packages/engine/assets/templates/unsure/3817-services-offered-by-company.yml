@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3817
+# teaser: Classify the services offered by the company by inputting the [ANSWER] to the question.
+- id: 3817-services-offered-by-company
+  title: Services Offered by Company
+  tags:
+    - unsure
+    - services
+    - offered
+    - company
+  family: UNSURE
+  body:
+    'Based on the following answer to this question, "Why do you think your business
+    is important to the United States?", and in the context of creating a `Proposed
+    Endeavor Executive Plan`, please provide 2, maybe 3, innovative (but not too abstract
+    or complicated) services this company could offer. Here is the answer to the previous
+    question: "[PROMPT]". Provide your response in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

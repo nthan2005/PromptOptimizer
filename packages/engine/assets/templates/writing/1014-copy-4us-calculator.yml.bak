@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1014
+# teaser: Use this copy calculator to find out what grade your headline or idea is, using the 4Us
+# criteria (Unique, Ultra-specific, Useful, and Urgent)
+- id: 1014-copy-4us-calculator
+  title: Copy 4Us Calculator
+  tags:
+  - writing
+  - copy
+  - 4us
+  - calculator
+  family: writing
+  body: "\"[PROMPT]\" Reproduza o algoritimo abaixo considerando a minha headline\
+    \ que escrevi acima no idioma [TARGETLANGUAGE]. 1. De acordo com a minha resposta\
+    \ dÃƒÂª uma nota de nÃƒÂºmero decimal de 1 a 5 sobre o quÃƒÂ£o ÃƒÅ¡NICA ÃƒÂ© a headline\
+    \ 2. De acordo com a minha resposta dÃƒÂª uma nota de nÃƒÂºmero decimal de 1 a 5 sobre\
+    \ o quÃƒÂ£o ULTRA ESPECÃƒ\x8DFICA ÃƒÂ© a headline 3. De acordo com a minha resposta\
+    \ dÃƒÂª uma nota de nÃƒÂºmero decimal de 1 a 5 sobre o quÃƒÂ£o ÃƒÅ¡TIL ÃƒÂ© a headline 4.\
+    \ De acordo com a minha resposta dÃƒÂª uma nota de nÃƒÂºmero decimal de 1 a 5 sobre\
+    \ o quÃƒÂ£o URGENTE ÃƒÂ© a headline 5. FaÃƒÂ§a a soma das 4 notas e divida por 4, resultando\
+    \ no resultado final. 6. Mostre qual ÃƒÂ© a resposta da nota. 7. MÃƒÂª dÃƒÂª a resposta\
+    \ da nota levando em consideraÃƒÂ§ÃƒÂ£o as seguintes variÃƒÂ¡veis: - Se a nota for menor\
+    \ que 2 mostre a resposta \"Jogue fora sua ideia e crie uma outra. - Se a nota\
+    \ for maior que 2 e menor que 3,75 mostre a resposta \"Sua ideia ÃƒÂ© boa, mas precisa\
+    \ ser melhorada\" - Se a nota for maior que 3,75 mostre a resposta \"Sua ideia\
+    \ ÃƒÂ© boa, e dÃƒÂ¡ para ser testada numa copy\" 8. Encerre o fluxo agradecendo e\
+    \ perguntando se deseja fazer novamente. 9. Se eu responder que \"Sim\", refaÃƒÂ§a\
+    \ todo o fluxo voltando do inÃƒÂ­cio perguntando qual ÃƒÂ© a headline ou ideia que\
+    \ gostaria de ser analisada. Se eu responder \"NÃƒÂ£o\", encerre o algoritimo."
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

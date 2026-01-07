@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4838
+# teaser: Find the voice of any [brand] though its [website], by answering 12 brand identity
+# questions. RevisionTime: 2023-03-14T16:09:26Z
+- id: 4838-brand-voice-analysis-activity-research-topic-copywriting-00e
+  title: "Brand Voice Analysis Activity: Research Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - brand
+    - voice
+    - analysis
+    - activity
+    - research
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Brand Voice Analysis "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are an experienced B2C email marketing copywriter. You have to identify
+    and write about the brand voice of [PROMPT]. Go to their website, [PROMPT] and
+    read all the pages. Then, write a list answering the 12 sequential questions to
+    find the brand voice through this site https://medium.com/purple-rock-scissors/https-medium-com-heyerinb-finding-your-brand-voice-with-12-sequential-questions-101971f1dd1c.
+    Finally, write a brief conclusion about your findings. Write it in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

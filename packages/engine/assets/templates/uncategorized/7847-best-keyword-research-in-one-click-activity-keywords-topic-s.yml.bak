@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7847
+# teaser: Find the Best Keywords to Bid Google First Page Ranking RevisionTime: 2023-02-21T18:32:03Z
+- id: 7847-best-keyword-research-in-one-click-activity-keywords-topic-s
+  title: 'Best Keyword Research in One Click Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - keyword
+  - research
+  - one
+  - click
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1788927860891975680/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Best Keyword Research in One Click"](https://www.aiprm.com/prompts/seo/keywords/1788927860891975680/)_"
+    --- Can you give me a list of 30 long-tail keywords related to ''''TOPIC'''' in
+    [TARGETLANGUAGE]with a minimum search volume of 1000 per month in the United States?
+    Please include a mix of informational, commercial, and ''how to'' keywords, along
+    with the keyword difficulty expressed as a percentage. I would like the keywords
+    presented in a table format with columns for keyword, search volume, keyword difficulty,
+    and motive, and limited to data from the United States. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

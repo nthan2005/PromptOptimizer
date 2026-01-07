@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6587
+# teaser: Generate engaging and relevant content for your social media using artificial intelligence.
+# Improve your presence on platforms like Instagram, TikTok, YouTube, and LinkedIn. RevisionTime:
+# 2024-09-13T18:38:19.554Z
+- id: 6587-ai-powered-social-media-content-generator-activity-places-me
+  title:
+    "AI-Powered Social Media Content Generator Activity: Places (Media Channels)
+    Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - powered
+    - social
+    - media
+    - content
+    - generator
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "AI-Powered Social Media Content Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Generate content optimized for social media in [TARGETLANGUAGE], using the
+    keywords [PROMPT] and the most relevant trends for [PLATAFORMA]. The content should
+    be highly creative, informative, and persuasive, targeting an ideal audience of
+    12-55 years old. Be sure to optimize the content to increase reach, generate leads,
+    retain customers, and drive engagement. Incorporate elements such as hashtags,
+    mentions, polls, GIFs, music, etc.'
+  enabled: true
+  required:
+    - plataforma
+    - prompt
+    - targetlanguage

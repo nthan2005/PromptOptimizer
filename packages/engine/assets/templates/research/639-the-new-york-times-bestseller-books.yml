@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 639
+# teaser: Find 10 bestselling The New York Times book titles in your favorite genre.
+- id: 639-the-new-york-times-bestseller-books
+  title: The New York Times Bestseller Books
+  tags:
+    - research
+    - new
+    - york
+    - times
+    - bestseller
+    - books
+  family: Research
+  body:
+    "Your task is to generate 10 bestselling The New York Times book titles in
+    a particular genre one below the other in the [TARGETLANGUAGE]. The 10 bestselling
+    The New York Times book titles in this genre are as follows: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

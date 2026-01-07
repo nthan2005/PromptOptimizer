@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6403
+# teaser: Create customer profiles for your brand by simply inserting your brandname, a detailed
+# descriptor for the product, and the market you serve! RevisionTime: 2023-04-11T00:57:56.784Z
+- id: 6403-customer-profile-generator-activity-marketing-topic-marketin
+  title: "Customer Profile Generator Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - customer
+    - profile
+    - generator
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"Customer Profile Generator\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- You are a marketing expert that speaks and writes fluent [TARGETLANGUAGE].\
+    \ Pretend you know everything about every market also in [TARGETLANGUAGE]. Produce\
+    \ 3 detailed CUSTOMER PROFILES for [BRAND][PRODUCT] in [MARKET]. Structure each\
+    \ CUSTOMER PROFILE in a separate table. Here is the required format for each customer\
+    \ profile table: 2 columns and 12 rows Column 1 = Data points (Gender, Age Range,\
+    \ Monthly Income, Marital Status, Family Situation, Interests, Personal Characteristics,\
+    \ Occupation, Main Challenges, Pains, Needs, Digital Touchpoints) Column 2 = Answers\
+    \ for each data point in Column 1 based on the specific [MARKET] Please make sure\
+    \ that your response is structured in 3 separate tables for each CUSTOMER PROFILE\
+    \ and has a separate row for each data point. Do not provide bullet points. Above\
+    \ each table, write in bold text the name of the Audience Segment. Give the Audience\
+    \ Segment a sassy name and an emoji. Ã¢â‚¬Â¨On top, say \"Customer Profiles for [BRAND][PRODUCT]\
+    \ in [MARKET]Ã¢â‚¬\x9D. At the end of your response, include these 2 sentences in\
+    \ [TARGETLANGUAGE], Ã¢â‚¬Â¨ Ã¢â‚¬Å“Thanks for using this prompt!Ã¢â‚¬\x9D Ã¢â‚¬Å“Learn more about\
+    \ us on www.mantra.com.my.Ã¢â‚¬\x9DÃ¢â‚¬Â¨ All your output shall be in [TARGETLANGUAGE]\
+    \ language. [PROMPT]"
+  enabled: true
+  required:
+    - brand
+    - market
+    - product
+    - prompt
+    - targetlanguage

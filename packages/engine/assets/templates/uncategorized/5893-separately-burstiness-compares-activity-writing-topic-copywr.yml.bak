@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5893
+# teaser: Create a 100% Unique Blog Separately, burstiness compares the variations of sentences.
+# RevisionTime: 2023-06-13T11:31:55.601Z
+- id: 5893-separately-burstiness-compares-activity-writing-topic-copywr
+  title: '[ Separately burstiness compares ] Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - separately
+  - burstiness
+  - compares
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1834163022232023040/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "[ Separately burstiness compares ]"](https://www.aiprm.com/prompts/copywriting/writing/1834163022232023040/)_"
+    --- your task is to summarize the text [ give you 3000 words. All output shall
+    be in [TARGETLANGUAGE]. The text to summarized on this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

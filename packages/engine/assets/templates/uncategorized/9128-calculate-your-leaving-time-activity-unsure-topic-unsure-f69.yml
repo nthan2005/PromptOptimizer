@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9128
+# teaser: Quickly find out what time you need to leave the office based on your arrival time.
+# RevisionTime: 2024-08-09T04:40:12.927Z
+- id: 9128-calculate-your-leaving-time-activity-unsure-topic-unsure-f69
+  title: "Calculate Your Leaving Time Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - calculate
+    - leaving
+    - time
+    - activity
+    - unsure
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Calculate Your Leaving Time"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE]: English [PROMPT]:'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

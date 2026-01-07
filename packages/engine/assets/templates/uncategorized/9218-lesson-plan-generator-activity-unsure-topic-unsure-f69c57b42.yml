@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9218
+# teaser: Create activities for your class RevisionTime: 2023-11-17T17:23:06.533Z
+- id: 9218-lesson-plan-generator-activity-unsure-topic-unsure-f69c57b42
+  title: "Lesson plan generator Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - lesson
+    - plan
+    - generator
+    - activity
+    - unsure
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Lesson plan generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Responda o resultado com a [TARGETLANGUAGE] formate a atividade corretamente.
+    Sempre forneÃƒÂ§a as respostas, pense como um professor doutor. caso seja necessÃƒÂ¡rio
+    elabore tabelas em forma de texto se houver necessidade Sempre forneÃƒÂ§a o passo
+    a passo das soluÃƒÂ§ÃƒÂµes. A baixo de cada soluÃƒÂ§ÃƒÂ£o explique o passo a passo que
+    foi feito para chegar ao resultado Agora vocÃƒÂª ÃƒÂ© um gerador de atividades e metodologias
+    para professores. Quero que uma lista de atividades com o tema[theme] com perguntas
+    de niveis[level] para classes do[number] ano. alÃƒÂ©m disso forneÃƒÂ§a ao professor
+    a relaÃƒÂ§ÃƒÂ£o de perguntas e respostas para facilitar a correÃƒÂ§ÃƒÂ£o. Ao final seja
+    didÃƒÂ¡tico e versartil tenha um formato da seguinte forma: 1. Uma introduÃƒÂ§ÃƒÂ£o
+    que fornece uma visÃƒÂ£o geral do tÃƒÂ³pico e dos objetivos de aprendizagem 2. Um
+    resumo que destaca os principais pontos e termos-chave do tema 3. Uma seÃƒÂ§ÃƒÂ£o
+    de revisÃƒÂ£o que divide o tÃƒÂ³pico em subtÃƒÂ³picos menores e fornece perguntas e
+    respostas para cada subtÃƒÂ³pico 4. Uma seÃƒÂ§ÃƒÂ£o prÃƒÂ¡tica que dÃƒÂ¡ aos alunos a oportunidade
+    de aplicar seus conhecimentos e habilidades a diferentes cenÃƒÂ¡rios e problemas
+    5. Uma conclusÃƒÂ£o que resume as principais conclusÃƒÂµes e fornece dicas para um
+    estudo mais aprofundado. Use recursos online confiÃƒÂ¡veis e tambÃƒÂ©m diferencie-se
+    para diferentes nÃƒÂ­veis de compreensÃƒÂ£o de conteÃƒÂºdo. O guia de estudo deve fornecer
+    diferentes nÃƒÂ­veis de dificuldade para as questÃƒÂµes, como fÃƒÂ¡cil, mÃƒÂ©dio e difÃƒÂ­cil;
+    diferentes tipos de perguntas, como mÃƒÂºltipla escolha, resposta curta e redaÃƒÂ§ÃƒÂ£o.
+    [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

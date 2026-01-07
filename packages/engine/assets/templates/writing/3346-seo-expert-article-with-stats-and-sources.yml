@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3346
+# teaser: Create a 2,000-word expert article with statistics and cited sources. Includes three
+# alternative SEO-friendly titles, a meta description, and slug.
+- id: 3346-seo-expert-article-with-stats-and-sources
+  title: SEO expert article with stats and sources
+  tags:
+    - writing
+    - seo
+    - expert
+    - article
+    - stats
+    - sources
+  family: writing
+  body:
+    "Write a 2,000-word article in [TARGETLANGUAGE] on the following topic: [PROMPT].
+    Pretend to be an expert on the topic. Include statistics and cite your sources.
+    Use a persuasive tone. Include three alternative SEO-friendly article titles of
+    no more than 50-70 characters. Include an SEO-friendly meta description of no
+    more than 150-160 characters. Suggest a slug for the article."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

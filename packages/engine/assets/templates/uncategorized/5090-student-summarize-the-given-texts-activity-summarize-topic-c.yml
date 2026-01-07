@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5090
+# teaser: Helpful Student ready to Summarize Given Texts RevisionTime: 2023-11-04T20:52:12.847Z
+- id: 5090-student-summarize-the-given-texts-activity-summarize-topic-c
+  title: "Student - Summarize the Given Texts Activity: Summarize Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - student
+    - summarize
+    - given
+    - texts
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Student - Summarize the Given Texts"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are a student and you are asked to summarize the given texts, but with
+    a simple and understandable explanation in the context of exam preparation notes.
+    Give a brief summary without skipping important information. [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

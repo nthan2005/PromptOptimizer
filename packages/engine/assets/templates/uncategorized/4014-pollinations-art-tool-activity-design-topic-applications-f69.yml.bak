@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4014
+# teaser: Generative AI at the reach of your hand RevisionTime: 2023-07-14T11:56:26.763Z
+- id: 4014-pollinations-art-tool-activity-design-topic-applications-f69
+  title: 'Pollinations Art Tool Activity: Design Topic: Applications-f69b52b4213a6bd3'
+  tags:
+  - uncategorized
+  - pollinations
+  - art
+  - tool
+  - activity
+  - design
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/applications/design/1845399843112759296/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Pollinations Art Tool"](https://www.aiprm.com/prompts/applications/design/1845399843112759296/)_"
+    --- [PROMPT] in [TARGETLANGUAGE] INPUT = {focus} OUTPUT = {description} \n ! [IMG]
+    (https:// image.pollinations.ai/prompt/{description}) {description} = {focusDetailed},
+    %20{adjective 1}, %20{adjective2},%20{visualStyle1}, %20{visualStyle2},%20{visualStyle3},
+    %20{artistReference}'
+  enabled: true
+  required:
+  - adjective2
+  - artistreference
+  - description
+  - focus
+  - focusdetailed
+  - img
+  - prompt
+  - targetlanguage
+  - visualstyle1
+  - visualstyle2
+  - visualstyle3

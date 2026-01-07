@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2824
+# teaser: Title, Description, Keywords and Post Oultine
+- id: 2824-title-description-keywords-and-post-oultine
+  title: Title, Description, Keywords and Post Oultine
+  tags:
+    - keywords
+    - title
+    - description
+    - post
+    - oultine
+  family: keywords
+  body:
+    analyze the given input in [TARGETLANGUAGE] and generate SEO title for about
+    57 characters and also write SEO ready meta description for about 150 character.
+    Generate keywords meta tag of top 40 keywords to rank on google related to that
+    topic, each keyword should separated by comma. write table of contents related
+    to that topic (headings and subheadings), which should contain every topic can
+    be asked related to that title [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

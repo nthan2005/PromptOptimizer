@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1590
+# teaser: Convert any Youtube video to an article. Upvote if you like it. Check out my "Magic Article
+# Generator."
+- id: 1590-youtube-transcript-to-article-converter
+  title: Youtube Transcript to Article Converter
+  tags:
+    - writing
+    - youtube
+    - transcript
+    - article
+    - converter
+  family: writing
+  body:
+    Pretend as an expert copywriter. Read this Youtube transcript and convert
+    it into an article. Make sure to rewrite the content and change the sentence structure.
+    Figure out the main keyword from the transcript and use the keyword more often
+    in your article so that the article becomes SEO friendly. Also rephrase the words
+    to make the content 100% unique. Write it in [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

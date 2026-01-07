@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4415
+# teaser: Compare content to Google's Helpful Content Guidelines RevisionTime:
+# 2023-06-29T12:07:48.719Z
+- id: 4415-helpful-content-review-activity-improve-topic-copywriting-00
+  title: "Helpful Content Review Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - helpful
+    - content
+    - review
+    - activity
+    - improve
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Helpful Content Review"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please analyze the guidelines at https://developers.google.com/search/docs/fundamentals/creating-helpful-content
+    and then analyze [PROMPT] to ensure that it follows all of the recommendations
+    outlined by Google in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

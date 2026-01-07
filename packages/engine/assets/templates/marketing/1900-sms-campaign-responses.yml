@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1900
+# teaser: Response to the following conversation
+- id: 1900-sms-campaign-responses
+  title: SMS Campaign responses
+  tags:
+    - marketing
+    - sms
+    - campaign
+    - responses
+  family: marketing
+  body:
+    "English [TARGETLANGUAGE] I'm Patrick. I buy homes and they might want to
+    sell their property. Be persuasive and provide a 160 character casual follow-up
+    message that is helpful and hopeful that references god to the following ascending
+    conversation: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

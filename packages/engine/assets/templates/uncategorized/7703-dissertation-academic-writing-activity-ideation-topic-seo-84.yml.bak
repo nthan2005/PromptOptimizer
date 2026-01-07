@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7703
+# teaser: Academic Research Writing RevisionTime: 2024-10-23T20:40:56.884Z
+- id: 7703-dissertation-academic-writing-activity-ideation-topic-seo-84
+  title: 'Dissertation Academic writing Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - dissertation
+  - academic
+  - writing
+  - activity
+  - ideation
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/2014770345055895552/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Dissertation Academic writing"](https://www.aiprm.com/prompts/seo/ideation/2014770345055895552/)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT] Generate complete dissertation from
+    chapter one to chapter 6 using relevant academic journals and scholarly literature
+    and citations in APA 7th style. Use human style of writing and also add reference
+    list at the end of the dissertation. Make sure all parts are up to standard dissertation
+    word count.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

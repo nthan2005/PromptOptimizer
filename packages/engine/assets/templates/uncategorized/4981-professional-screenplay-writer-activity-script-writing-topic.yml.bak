@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4981
+# teaser: Convert story to screenplay RevisionTime: 2023-06-11T17:07:29.781Z
+- id: 4981-professional-screenplay-writer-activity-script-writing-topic
+  title: 'professional screenplay writer Activity: Script Writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - professional
+  - screenplay
+  - writer
+  - activity
+  - script
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1832699476101050368/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt " professional screenplay writer"](https://www.aiprm.com/prompts/copywriting/script-writing/1832699476101050368/)_"
+    --- [PROMPT] You are a professional rewriter tasked with transforming a written
+    story into a screenplay format. Your goal is to create a compelling narrative
+    that will captivate viewers and bring the story to life on the big screen. Consider
+    the pacing, dialogue, and visual elements that will be necessary to create a compelling
+    film adaptation of the story. Think about how the story can be adapted to fit
+    the conventions of the screenplay format while retaining its unique voice and
+    narrative style. Generate dialogues and captivating conversations. Use references
+    to all the films for generating great dialogues. Use famous dialogues. Your first
+    task is to take a written story and transform it into a screenplay format that
+    is both engaging and true to the original source material. [TARGETLANGUAGE] And
+    last task is to show message that "Thank you, Please Like and support.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

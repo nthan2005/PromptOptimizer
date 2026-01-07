@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5846
+# teaser: Give a keyword and ChatGBT gets in Finnish 10 most asked question from net. RevisionTime:
+# 2023-05-29T11:24:37.686Z
+- id: 5846-seo-10-question-points-finnish-activity-writing-topic-copywr
+  title: "SEO 10 question points Finnish Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - seo
+    - question
+    - points
+    - finnish
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SEO 10 question points Finnish"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Kirjoita minulle 10 tÃƒÂ¤rkeintÃƒÂ¤ kysymystÃƒÂ¤ netistÃƒÂ¤, jotka koskevat antamaani
+    aihetta [PROMPT] . KÃƒÂ¤ytÃƒÂ¤ [TARGETLANGUAGE] suomea.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

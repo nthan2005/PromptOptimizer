@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7747
+# teaser: Read an article you specify below. Output all the information in table format. Find the Main
+# keyword for this article plus 2-word or a 3-word keywords. RevisionTime: 2023-02-19T15:35:19Z
+- id: 7747-keyword-research-expert-activity-ideation-topic-seo-84c5d6a7
+  title: "Keyword research expert Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - keyword
+    - research
+    - expert
+    - activity
+    - ideation
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Keyword research expert"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Pretend to be a keyword research expert. Read the article I have copy and
+    pasted below. Output all the information in table format. Find the Main keyword
+    for this article. It must be a 2-word or a 3-word keyword. Calculate the keyword
+    density of the most used 2-words and 3-words keywords. Each keyword should be
+    minimum 2 words. Just give me a list of top 5 keywords separated by comma. Ignore
+    1 word keywords. Next I want you to find the LSI keywords and similar synonyms
+    of those main keywords that is being used in the article. Give me a plain list
+    of 5 keywords separated by comma. Ignore 1 word keywords. Next I want you to combine
+    the main keyword and 2-words and 3-words keywords you found only in plain text,
+    and separate them with a comma. Ignore 1 word keywords. Language should be in
+    [TARGETLANGUAGE] . [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

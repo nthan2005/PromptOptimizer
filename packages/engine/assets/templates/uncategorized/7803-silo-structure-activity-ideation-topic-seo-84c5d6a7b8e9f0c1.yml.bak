@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7803
+# teaser: Create a SILO structure for an website using a [KEYWORD]. RevisionTime: 2023-02-19T15:35:19Z
+- id: 7803-silo-structure-activity-ideation-topic-seo-84c5d6a7b8e9f0c1
+  title: 'SILO Structure Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - silo
+  - structure
+  - activity
+  - ideation
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1783094852561670144/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "SILO Structure"](https://www.aiprm.com/prompts/seo/ideation/1783094852561670144/)_"
+    --- Create a detailed SILO structure for an website using the keyword: [PROMPT].
+    The sections and categories should be organized in a hierarchical structure, with
+    the Home page at the top and the more specific pages at the bottom. Use the knowledge
+    of how to make the best structure in terms of linking and SEO to get to the top
+    positions in Google. All output should be in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

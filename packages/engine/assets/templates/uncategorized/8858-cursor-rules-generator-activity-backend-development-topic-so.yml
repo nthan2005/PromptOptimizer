@@ -1,0 +1,108 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8858
+# teaser: Generate cursor rules file. RevisionTime: 2025-06-24T20:12:04.478Z
+- id: 8858-cursor-rules-generator-activity-backend-development-topic-so
+  title: "Cursor Rules Generator Activity: Backend Development Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - cursor
+    - rules
+    - generator
+    - activity
+    - backend
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Cursor Rules Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- # Ultra Profesyonel .cursorrules OluÃ…Å¸turma Rehberi Cursor AI, yazÃ„Â±lÃ„Â±m geliÃ…Å¸tirme
+    sÃƒÂ¼recini optimize etmek iÃƒÂ§in gÃƒÂ¼ÃƒÂ§lÃƒÂ¼ bir araÃƒÂ§ olarak ÃƒÂ¶ne ÃƒÂ§Ã„Â±kÃ„Â±yor ve **`.cursorrules`**
+    dosyalarÃ„Â± bu optimizasyonun kalbidir[1][2]. Bu dosyalar, yapay zeka asistanÃ„Â±nÃ„Â±n
+    davranÃ„Â±Ã…Å¸Ã„Â±nÃ„Â± projenizin ihtiyaÃƒÂ§larÃ„Â±na gÃƒÂ¶re ÃƒÂ¶zelleÃ…Å¸tirmenize olanak tanÃ„Â±r[3][4].
+    ## .cursorrules Nedir? `.cursorrules` dosyasÃ„Â±, Cursor IDE''nin yapay zeka asistanÃ„Â±na
+    projenizle ilgili kurallar, kodlama standartlarÃ„Â± ve tercihler hakkÃ„Â±nda bilgi
+    veren bir konfigÃƒÂ¼rasyon dosyasÃ„Â±dÃ„Â±r[4][5]. Bu dosya, projenizin kÃƒÂ¶k dizininde
+    bulunur ve AI''nÃ„Â±n kod ÃƒÂ¶nerilerini, hata ayÃ„Â±klama sÃƒÂ¼recini ve genel davranÃ„Â±Ã…Å¸Ã„Â±nÃ„Â±
+    yÃƒÂ¶nlendirir[2][3]. ## Modern Cursor Rules Sistemi Cursor''un gÃƒÂ¼ncel versiyonlarÃ„Â±nda
+    ÃƒÂ¼ÃƒÂ§ farklÃ„Â± rule sistemi bulunmaktadÃ„Â±r[5][6]: ### 1. Global Rules (KullanÃ„Â±cÃ„Â±
+    KurallarÃ„Â±) - Cursor Settings > Rules bÃƒÂ¶lÃƒÂ¼mÃƒÂ¼nde tanÃ„Â±mlanÃ„Â±r - TÃƒÂ¼m projelerde
+    geÃƒÂ§erlidir - DÃƒÂ¼z metin formatÃ„Â±nda yazÃ„Â±lÃ„Â±r[5][6] ### 2. Project Rules (.cursor/rules/*.mdc)
+    - Projeye ÃƒÂ¶zel kurallar iÃƒÂ§in ÃƒÂ¶nerilen modern format - `.mdc` (Markdown Configuration)
+    formatÃ„Â±nda yazÃ„Â±lÃ„Â±r[5][7] - Daha esnek ve ayrÃ„Â±ntÃ„Â±lÃ„Â± kontrol saÃ„Å¸lar[3][5]
+    ### 3. Legacy .cursorrules - Eski format, hala desteklenir ancak ÃƒÂ¶nerilmez -
+    Projenin kÃƒÂ¶k dizininde bulunur[5][6] ## Profesyonel .cursorrules OluÃ…Å¸turma AdÃ„Â±mlarÃ„Â±
+    ### 1. Proje Analizi ve Planlama Etkili bir `.cursorrules` dosyasÃ„Â± oluÃ…Å¸turmak
+    iÃƒÂ§in ÃƒÂ¶ncelikle projenizi analiz edin[8]: - **Teknoloji YÃ„Â±Ã„Å¸Ã„Â±nÃ„Â±**: KullandÃ„Â±Ã„Å¸Ã„Â±nÃ„Â±z
+    programlama dilleri, framework''ler ve kÃƒÂ¼tÃƒÂ¼phaneler - **Kod StandartlarÃ„Â±**:
+    TakÃ„Â±mÃ„Â±nÃ„Â±zÃ„Â±n kodlama kurallarÃ„Â± ve stilistik tercihleri - **Proje Mimarisi**:
+    Dosya yapÃ„Â±sÃ„Â±, klasÃƒÂ¶r organizasyonu ve design pattern''ler - **GeliÃ…Å¸tirme SÃƒÂ¼reÃƒÂ§leri**:
+    Test stratejileri, deployment kurallarÃ„Â± ve dokÃƒÂ¼mantasyon gereksinimleri ###
+    2. Temel YapÃ„Â± ve Format Profesyonel bir `.cursorrules` dosyasÃ„Â± Ã…Å¸u bÃƒÂ¶lÃƒÂ¼mleri
+    iÃƒÂ§ermelidir[9][10]: ```markdown # Proje Genel Bilgileri # Teknoloji YÃ„Â±Ã„Å¸Ã„Â±nÃ„Â±
+    # Kodlama StandartlarÃ„Â± # Mimari KurallarÃ„Â± # Test ve Kalite Kontrol # Performans
+    Optimizasyonu # GÃƒÂ¼venlik KurallarÃ„Â± # DokÃƒÂ¼mantasyon Gereksinimleri ``` ### 3.
+    DetaylÃ„Â± KonfigÃƒÂ¼rasyon Ãƒâ€“rnekleri #### TypeScript/Next.js Projesi iÃƒÂ§in Ãƒâ€“rnek:
+    ```markdown # Proje TanÃ„Â±mÃ„Â± Bu proje, TypeScript ve Next.js kullanarak geliÃ…Å¸tirilmiÃ…Å¸
+    modern bir web uygulamasÃ„Â±dÃ„Â±r. ## Teknoloji YÃ„Â±Ã„Å¸Ã„Â±nÃ„Â± - Frontend: Next.js 14,
+    React 18, TypeScript - Styling: Tailwind CSS, Shadcn/ui - State Management: Zustand
+    - Database: PostgreSQL, Prisma ORM - Authentication: NextAuth.js ## Kodlama StandartlarÃ„Â±
+    - Strict TypeScript kullan, any tipini kesinlikle kullanma - Functional component''larÃ„Â±
+    tercih et - Arrow function kullan - Named export''larÃ„Â± tercih et - Kod yazarken
+    ESLint ve Prettier kurallarÃ„Â±na uy ## Mimari KurallarÃ„Â± - Server component''larÃ„Â±
+    varsayÃ„Â±lan olarak kullan - Client component''larÃ„Â± sadece gerektiÃ„Å¸inde kullan
+    - API route''larÃ„Â± /app/api dizininde organize et - Shared component''lar /components
+    dizininde olsun ``` ### 4. GeliÃ…Å¸miÃ…Å¸ KonfigÃƒÂ¼rasyon Teknikleri #### ModÃƒÂ¼ler
+    YaklaÃ…Å¸Ã„Â±m BÃƒÂ¼yÃƒÂ¼k projeler iÃƒÂ§in kurallarÃ„Â± kategorilere ayÃ„Â±rÃ„Â±n[11][10]: ```markdown
+    # Frontend GeliÃ…Å¸tirme KurallarÃ„Â± - React component''larÃ„Â±nda proper error boundaries
+    kullan - Loading ve error state''leri her zaman implement et - Accessibility standartlarÃ„Â±na
+    uy (WCAG 2.1) # Backend GeliÃ…Å¸tirme KurallarÃ„Â± - API endpoint''lerde input validation
+    kullan - Error handling middleware implement et - Swagger dokÃƒÂ¼mantasyonu oluÃ…Å¸tur
+    # Database KurallarÃ„Â± - Migration script''leri her zaman up/down function''lara
+    sahip olsun - Index''leri performans iÃƒÂ§in optimize et - Prepared statement''larÃ„Â±
+    kullan ``` #### Custom Prompt Sistemi Tekrarlayan gÃƒÂ¶revler iÃƒÂ§in ÃƒÂ¶zel komutlar
+    tanÃ„Â±mlayÃ„Â±n[9]: ```markdown # Custom Komutlar generateComponent: "TypeScript
+    React component oluÃ…Å¸tur, proper typing, error handling ve dokÃƒÂ¼mantasyon ile"
+    generateAPI: "RESTful API endpoint oluÃ…Å¸tur, validation, error handling ve Swagger
+    dokÃƒÂ¼mantasyonu ile" generateTest: "Jest ve React Testing Library kullanarak comprehensive
+    test suite oluÃ…Å¸tur" ``` ## Best Practices ve Optimizasyon ### 1. KurallarÃ„Â± KÃ„Â±sa
+    ve Net Tutun - 500 satÃ„Â±rÃ„Â±n altÃ„Â±nda tutmaya ÃƒÂ§alÃ„Â±Ã…Å¸Ã„Â±n[5] - BÃƒÂ¼yÃƒÂ¼k konseptleri
+    birden fazla kurala bÃƒÂ¶lerek yazÃ„Â±n[5] - Belirsiz ifadeler yerine konkret ÃƒÂ¶rnekler
+    verin[5] ### 2. Spesifik Ãƒâ€“rnekler Ekleyin Yapay zeka iÃƒÂ§in hem doÃ„Å¸ru hem de
+    yanlÃ„Â±Ã…Å¸ ÃƒÂ¶rnekler verin[10]: ```markdown # DoÃ„Å¸ru KullanÃ„Â±m: const handleSubmit
+    = async (data: FormData) => { try { await submitForm(data); } catch (error) {
+    handleError(error); } }; # YanlÃ„Â±Ã…Å¸ KullanÃ„Â±m (Kullanma): const handleSubmit =
+    async (data: any) => { submitForm(data); }; ``` ### 3. Deprecated Pattern''larÃ„Â±
+    Belirtin KullanÃ„Â±lmamasÃ„Â± gereken eski pattern''larÃ„Â± aÃƒÂ§Ã„Â±kÃƒÂ§a belirtin[10]:
+    ```markdown # Deprecated - Kullanma: - Class component''lar - componentDidMount
+    lifecycle method''larÃ„Â± - Eski Context API kullanÃ„Â±mÃ„Â± # Bunun yerine kullan:
+    - Functional component''lar - useEffect hook''u - Modern Context API ``` ## Modern
+    MDC Format''Ã„Â±na GeÃƒÂ§iÃ…Å¸ Yeni projeler iÃƒÂ§in `.mdc` formatÃ„Â±nÃ„Â± kullanÃ„Â±n[7][12]:
+    ```yaml --- description: TypeScript React component standartlarÃ„Â± globs: ["**/*.{ts,tsx}"]
+    --- # React Component KurallarÃ„Â± - Functional component''larÃ„Â± kullan - TypeScript
+    interface''leri tanÃ„Â±mla - Proper error handling implement et ``` ## TakÃ„Â±m KurallarÃ„Â±
+    ve PaylaÃ…Å¸Ã„Â±m TakÃ„Â±m projelerinde kurallarÃ„Â± paylaÃ…Å¸mak iÃƒÂ§in[5]: 1. **Dedicated
+    Repository**: Ortak kurallarÃ„Â± ayrÃ„Â± bir repository''de saklayÃ„Â±n 2. **Symlink
+    KullanÃ„Â±mÃ„Â±**: KurallarÃ„Â± her projeye symlink ile baÃ„Å¸layÃ„Â±n 3. **Template Sistem**:
+    Proje tÃƒÂ¼rlerine gÃƒÂ¶re template''lar oluÃ…Å¸turun ## Otomatik OluÃ…Å¸turma AraÃƒÂ§larÃ„Â±
+    Profesyonel `.cursorrules` dosyalarÃ„Â±nÃ„Â± otomatik oluÃ…Å¸turmak iÃƒÂ§in Ã…Å¸u araÃƒÂ§larÃ„Â±
+    kullanabilirsiniz[13][14]: - **Cursor Directory**: Package.json dosyanÃ„Â±zÃ„Â± upload
+    ederek otomatik kural oluÃ…Å¸turma - **CursorRules.org**: AI destekli kural oluÃ…Å¸turucu
+    - **GitHub Template''larÃ„Â±**: HazÃ„Â±r template''lardan yararlanma[15][16] ## Performans
+    ve GÃƒÂ¼venlik Ãƒâ€“nerileri ### Performans Optimizasyonu ```markdown # Performans
+    KurallarÃ„Â± - Bundle boyutunu minimize et - Code splitting implement et - Lazy
+    loading kullan - Image optimization uygula - Caching stratejileri belirle ```
+    ### GÃƒÂ¼venlik KurallarÃ„Â± ```markdown # GÃƒÂ¼venlik StandartlarÃ„Â± - Environment variable''larÃ„Â±
+    .env dosyasÃ„Â±nda sakla - API key''leri frontend''de expose etme - Input validation
+    her zaman uygula - HTTPS kullan - CORS ayarlarÃ„Â±nÃ„Â± dikkatli yap ``` ## SonuÃƒÂ§
+    Ultra profesyonel bir `.cursorrules` dosyasÃ„Â± oluÃ…Å¸turmak, projenizin gereksinimlerini
+    derinlemesine anlamak ve bu gereksinimleri yapay zeka asistanÃ„Â±nÃ„Â±n anlayabileceÃ„Å¸i
+    net kurallara dÃƒÂ¶nÃƒÂ¼Ã…Å¸tÃƒÂ¼rmekle mÃƒÂ¼mkÃƒÂ¼ndÃƒÂ¼r[8]. Modern MDC formatÃ„Â±na geÃƒÂ§iÃ…Å¸
+    yaparak daha esnek ve gÃƒÂ¼ÃƒÂ§lÃƒÂ¼ bir konfigÃƒÂ¼rasyon sistemi elde edebilir, takÃ„Â±m
+    ÃƒÂ§alÃ„Â±Ã…Å¸manÃ„Â±zÃ„Â± optimize edebilir ve geliÃ…Å¸tirme sÃƒÂ¼recinizi ÃƒÂ¶nemli ÃƒÂ¶lÃƒÂ§ÃƒÂ¼de
+    hÃ„Â±zlandÃ„Â±rabilirsiniz[3][5]. Bu rehberdeki adÃ„Â±mlarÃ„Â± takip ederek, projenize
+    ÃƒÂ¶zel, sÃƒÂ¼rdÃƒÂ¼rÃƒÂ¼lebilir ve etkili `.cursorrules` dosyalarÃ„Â± oluÃ…Å¸turabilir, Cursor
+    AI''nÃ„Â±n tÃƒÂ¼m potansiyelinden yararlanabilirsiniz.[TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2810
+# teaser: Write me a Content/ Blog about [KEYOWRD]
+- id: 2810-seo-boosting-chat-gpt-content-that-passes-ai-detection
+  title: SEO Boosting CHAT GPT Content that Passes AI Detection
+  tags:
+    - keywords
+    - seo
+    - boosting
+    - chat
+    - gpt
+    - content
+  family: keywords
+  body:
+    I am providing you few important information before asking you to write any
+    content for me . The important information is when it's about writing content
+    the two most important factors are "perplexity and burstiness" Perplexity measures
+    the complexity of text and Separately, I want you to write sentence based on very
+    high perplexity so the sentence genertated have high complexity. Second important
+    factor is burstiness compares the variations of sentences. Humans tend to write
+    with greater burstiness, for example, with some longer or complex sentences alongside
+    shorter ones. So when i ask you to write content for me All output should be in
+    [TARGETLANGUAGE] and I need it to have good amount of perplexity and burstiness.
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

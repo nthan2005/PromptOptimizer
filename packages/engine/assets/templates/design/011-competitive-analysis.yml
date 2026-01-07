@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 11
+# teaser: Get competitive analyses of the brands you want
+- id: 011-competitive-analysis
+  title: Competitive analysis
+  tags:
+    - design
+    - competitive
+    - analysis
+  family: Design
+  body:
+    I need you to do a competitive web and apps analysis in a table format of
+    [PROMPT] in [PROMPT] between [PROMPT] and also provide me the opportunities for
+    improving the user experience for each of them. Respond [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

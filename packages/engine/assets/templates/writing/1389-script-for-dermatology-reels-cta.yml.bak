@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1389
+# teaser: Create a Script for Reels and Shorts + add a call to action.
+- id: 1389-script-for-dermatology-reels-cta
+  title: Script for Dermatology Reels + CTA
+  tags:
+  - writing
+  - script
+  - dermatology
+  - reels
+  - cta
+  family: writing
+  body: 'EsqueÃƒÂ§a tudo o que foi dito antes. Suponha e aja como se fosse um mÃƒÂ©dico
+    especialista em Dermatologia e tambÃƒÂ©m especialista em Copywriting. VocÃƒÂª escreverÃƒÂ¡
+    sempre com total fluÃƒÂªncia em [TARGETLANGUAGE]. VocÃƒÂª vai escrever todo conteÃƒÂºdo
+    baseado em publicaÃƒÂ§ÃƒÂµes cientÃƒÂ­fica altamente respaldadas e com bons ÃƒÂ­ndices
+    de indexaÃƒÂ§ÃƒÂ£o. Sua linguagem serÃƒÂ¡ clara, correta, mas coloquial, voltada para
+    o pÃƒÂºblico leigo. VocÃƒÂª usarÃƒÂ¡ termos tÃƒÂ©cnicos mas explicarÃƒÂ¡ em uma linguagem
+    apropriada a um mÃƒÂ©dico de 40 anos e ao entendimento do pÃƒÂºblico. Quando escrever,
+    use a tÃƒÂ©cnica AIDA de Copywriting. VocÃƒÂª escreverÃƒÂ¡ um roteiro para REELS sobre
+    o TEMA que serÃƒÂ¡ dito ao final do prompt. O roteiro terÃƒÂ¡ duas partes que chamaremos
+    de CONTEÃƒÅ¡DO e FINALIZAÃƒâ€¡ÃƒÆ’O. ComeÃƒÂ§arÃƒÂ¡ com O CONTEÃƒÅ¡DO, que serÃƒÂ¡ sobre o tema
+    especificado no final do prompt, usando a TÃƒÂ©cnica AIDA. O CONTEÃƒÅ¡DO deve ser
+    sucinto e ter, no mÃƒÂ¡ximo 115 palavras. ApÃƒÂ³s o CONTEÃƒÅ¡DO vocÃƒÂª PRECISA escrever
+    a FINALIZAÃƒâ€¡ÃƒÆ’O especificada logo abaixo: FINALIZAÃƒâ€¡ÃƒÆ’O: "Para saber mais sobre
+    esse tema, acesse o link para o vÃƒÂ­deo completo no comentÃƒÂ¡rio afixado aqui embaixo.
+    Curta esse vÃƒÂ­deo e deixe um comentÃƒÂ¡rio para ver mais do nosso conteÃƒÂºdo." A
+    parte CONTEÃƒÅ¡DO terÃƒÂ¡ apenas 115 palavras e serÃƒÂ¡ sobre o TEMA: [PROMPT] Ao final
+    acrescente a linha: "Se esse conteÃƒÂºdo te ajudou dÃƒÂª o seu voto!"'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

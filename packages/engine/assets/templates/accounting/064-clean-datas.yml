@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 64
+# teaser: Clean datas
+- id: 064-clean-datas
+  title: Clean datas
+  tags:
+    - accounting
+    - clean
+    - datas
+  family: Accounting
+  body:
+    "Veuillez nettoyer chaque nom de sociÃ©tÃ© de la liste suivante en supprimant
+    les formes juridiques (SARL, SELARL, SAS, etc.) et en ne conservant que le nom
+    essentiel de la sociÃ©tÃ©. Mettez chaque mot avec le premiÃ¨re lettres en majuscule
+    et le reste en minuscule comme dans cet exemple : Nicolas. N'incluez aucun dÃ©tail
+    supplÃ©mentaire tel que des informations sur les services ou les villes. Assurez-vous
+    de n'inclure que le nom de la sociÃ©tÃ©. Voici la liste des sociÃ©tÃ©s dans [PROMPT].
+    Utilise le [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

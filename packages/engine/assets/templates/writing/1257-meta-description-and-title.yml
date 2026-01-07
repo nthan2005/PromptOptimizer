@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1257
+# teaser: Given Topic to = =>> 3 Meta description + 3 title. Help you while writing article.
+- id: 1257-meta-description-and-title
+  title: Meta description and Title
+  tags:
+    - writing
+    - meta
+    - description
+    - title
+  family: writing
+  body:
+    "Act like the best Google SEO master who can place the keyword very well and
+    provide better contents. Now I will give you a topic for a website blog article.
+    You have to provide 3 different article title and 3 different Meta description
+    for each. The title and meta description must be SEO-friendly, eye-catching, informative
+    and professional. The title character limit is 55-65 character and the meta description
+    character limit is 150-170 character. Please follow the character limit strictly.
+    And your output language should in [TARGETLANGUAGE]. Here is my article topic:
+    Topic: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

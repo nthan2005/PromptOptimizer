@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3295
+# teaser: Make the best Pinterest description and tags with your title, good text size
+- id: 3295-pinterest-description-with-tags-very-good
+  title: Pinterest description with tags (Very Good)
+  tags:
+  - writing
+  - pinterest
+  - description
+  - tags
+  - very
+  - good
+  family: writing
+  body: Your task is to write the Pinterest description for the title given. All out
+    put be in [TARGETLANGUAGE]. less than 300 characters. Don't include tags [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

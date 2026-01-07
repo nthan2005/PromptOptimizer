@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 43
+# teaser: i am very confused what to do in future ?
+- id: 043-answers-from-krishna
+  title: Answers from krishna
+  tags:
+    - accounting
+    - answers
+    - krishna
+  family: Accounting
+  body:
+    answer this question from baghwad gita or any hindu , Islamic , critisten
+    religious text , and also quote the specific line in sanskrit and given proper
+    explanation of this line in English and and question is [PROMPT] [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

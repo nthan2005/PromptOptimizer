@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4759
+# teaser: Amazon products description write. RevisionTime: 2023-08-05T10:07:54.209Z
+- id: 4759-amazon-products-description-generate-activity-product-descri
+  title: 'Amazon products description Generate. Activity: Product Description Topic:
+    Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - amazon
+  - products
+  - description
+  - generate
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/product-description/1853348433978187776/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Amazon products description Generate.
+    "](https://www.aiprm.com/prompts/copywriting/product-description/1853348433978187776/)_"
+    --- Write a product description using the below information in a first-person
+    tone in English [TARGETLANGUAGE], including 3-4 paragraphs within 350 words then
+    write pros and cons with bullet points based on the above-mentioned details. Each
+    paragraph should begin with a transitional word. The description should be approximately
+    400 words in length. Now write product description using this [PROMPT].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

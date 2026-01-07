@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8767
+# teaser: Create a table for your required app. RevisionTime: 2023-03-09T12:42:41Z
+- id: 8767-table-generator-for-apk-activity-writing-topic-seo-84c5d6a7b
+  title: 'Table Generator for APK Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - table
+  - generator
+  - apk
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1799374949220343808/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Table Generator for APK"](https://www.aiprm.com/prompts/seo/writing/1799374949220343808/)_"
+    --- Your task is to create a table for and apk including app name, latest version,
+    release date, publisher name, genre, Requirements, and file size. All the output
+    should be in [TARGETLANGUAGE] and two column format. The APK name is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

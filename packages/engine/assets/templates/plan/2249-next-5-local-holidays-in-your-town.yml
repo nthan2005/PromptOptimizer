@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2249
+# teaser: Show your next 5 days off, not work or your local holiday. So you can plan your vacations,
+# outings, etc...
+- id: 2249-next-5-local-holidays-in-your-town
+  title: Next 5 Local holidays in your town!
+  tags:
+    - plan
+    - next
+    - local
+    - holidays
+    - town
+  family: Plan
+  body: Give me the next 5 most well-known holidays in [PROMPT], from today in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

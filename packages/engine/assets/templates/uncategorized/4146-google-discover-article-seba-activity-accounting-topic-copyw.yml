@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4146
+# teaser: Google Discover RevisionTime: 2023-11-13T23:27:13.058Z
+- id: 4146-google-discover-article-seba-activity-accounting-topic-copyw
+  title: "Google Discover Article SEBA Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - google
+    - discover
+    - article
+    - seba
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Google Discover Article SEBA"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- BasÃƒÂ¡ndote en la informaciÃƒÂ³n proporcionada, crea un artÃƒÂ­culo noticioso en
+    [TARGETLANGUAGE]. El artÃƒÂ­culo debe comenzar con un encabezado principal en H1
+    seguido por un tagline de 17 palabras dentro de un pÃƒÂ¡rrafo. Luego, incluye una
+    bajada dentro de un pÃƒÂ¡rrafo. A continuaciÃƒÂ³n, organiza el cuerpo del artÃƒÂ­culo
+    en secciones claras, y cada secciÃƒÂ³n debe iniciar con un titular interior H2 que
+    destaque y clasifique el contenido principal de esa secciÃƒÂ³n. Estos titulares
+    interiores son esenciales para dividir y resaltar los puntos clave del artÃƒÂ­culo.
+    DespuÃƒÂ©s del titular, desarrolla cada secciÃƒÂ³n con detalles y anÃƒÂ¡lisis dentro
+    de varios pÃƒÂ¡rrafos pertinentes a la informaciÃƒÂ³n dada. AsegÃƒÂºrate de destacar
+    en negrita las frases mÃƒÂ¡s relevantes del artÃƒÂ­culo para enfatizar los puntos
+    clave. Al final del artÃƒÂ­culo, por favor, incluye una secciÃƒÂ³n H2 titulada "Palabras
+    Clave" y enumera las palabras clave mÃƒÂ¡s relevantes del artÃƒÂ­culo, separadas por
+    comas, desde la de mayor autoridad a la de menor autoridad, dentro de un pÃƒÂ¡rrafo
+    y que no sean mas de 8 etiquetas como mÃƒÂ¡ximo. InformaciÃƒÂ³n para el artÃƒÂ­culo:
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

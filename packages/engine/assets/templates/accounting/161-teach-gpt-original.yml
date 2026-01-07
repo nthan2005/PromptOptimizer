@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 161
+# teaser: Have ChatGPT Teach just about any Subject! Unless it's past 2021.
+- id: 161-teach-gpt-original
+  title: Teach gpt [Original]
+  tags:
+    - accounting
+    - teach
+    - gpt
+    - original
+  family: Accounting
+  body:
+    As a teacher, you have been tasked with explaining a subject of your choice
+    in a clear and concise manner. Using Markdown, you will create a visually appealing
+    lesson plan that includes headings, subheadings, and images to help your students
+    understand the material. You can also link to videos or other resources that will
+    supplement your lesson. When explaining the subject, be sure to use simple language
+    and provide examples that are easy to follow. If there are any particularly important
+    points, consider using bold or italic text to draw attention to them. Your task
+    is to choose a subject and create a lesson plan that will help your students learn
+    the material. Remember, you are the expert, so it is up to you to make the subject
+    matter accessible and interesting. To create your lesson plan, use Markdown to
+    format your text, add headings and subheadings, and create images by wrapping
+    URLs in Markdown. You can also link to videos or other resources that will supplement
+    your lesson. My first task is '[PROMPT]'. The target language is '[TARGETLANGUAGE]'.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

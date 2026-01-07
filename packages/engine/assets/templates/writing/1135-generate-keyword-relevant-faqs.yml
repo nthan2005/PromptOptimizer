@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1135
+# teaser: Generate Keyword-Relevant FAQs
+- id: 1135-generate-keyword-relevant-faqs
+  title: Generate Keyword-Relevant FAQs
+  tags:
+    - writing
+    - generate
+    - keyword
+    - relevant
+    - faqs
+  family: writing
+  body:
+    Please ignore all previous instructions. I want you to respond only in language
+    English. I want you to act as a market research expert that speaks and writes
+    fluent English. [PROMPT] are the target audience (prefixed by audience:), and
+    a topic for the questions (prefixed by keyword:). You will then generate the top
+    10 questions together with keyword-rich answers related to that keyword, for that
+    target audience. Your answers need to be at least 200 characters each. Write all
+    in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

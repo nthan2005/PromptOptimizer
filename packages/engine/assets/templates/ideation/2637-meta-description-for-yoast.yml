@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2637
+# teaser: Create simple meta description
+- id: 2637-meta-description-for-yoast
+  title: Meta Description for Yoast
+  tags:
+    - ideation
+    - meta
+    - description
+    - yoast
+  family: ideation
+  body: Generate a meta description for [PROMPT] within 160 character [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6378
+# teaser: Complete Marketing Planning. Table with post scheduling, customer journey and blog post
+# suggestion. RevisionTime: 2023-03-17T02:28:16.82Z
+- id: 6378-complete-marketing-planning-activity-marketing-topic-marketi
+  title: "Complete Marketing Planning Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - complete
+    - marketing
+    - planning
+    - activity
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Complete Marketing Planning"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- "ESTRATÃƒâ€°GIA 01 - SUGESTÃƒÆ’O DE TEMAS PARA BLOG" Sua tarefa ÃƒÂ© me dar 5 sugestÃƒÂµes
+    de temas para blog sobre a palavra-chave escolhida. Segmente apenas termos de
+    pesquisa de estilo de transaÃƒÂ§ÃƒÂ£o. Por favor, crie tÃƒÂ­tulos de estilo clickbait
+    para essas postagens de blog. Por favor, organize cada tÃƒÂ­tulo de post de blog
+    em uma linha da tabela. ApÃƒÂ³s, pegue a palavra-chave escolhida, escreva "ESTRATÃƒâ€°GIA
+    02 - PROGRAMAÃƒâ€¡ÃƒÆ’O DE POSTAGENS" e crie uma programaÃƒÂ§ÃƒÂ£o de postagem de mÃƒÂ­dia
+    social com sugestÃƒÂµes de temas para tÃƒÂ³picos da palavra-chave escolhida na tabela
+    abaixo, onde estou postando no Facebook, Instagram, Twitter e Pinterest. O tipo
+    de mensagens incluem; dicas, truques, citaÃƒÂ§ÃƒÂµes, fatos, ideias de atividades,
+    inspiraÃƒÂ§ÃƒÂ£o, ideias de planos de aula, receitas e listas. Informe tambÃƒÂ©m qual
+    ÃƒÂ© formato dessas postagens. Pode ser texto, imagens ou vÃƒÂ­deos curtos. "ESTRATÃƒâ€°GIA
+    03 - JORNADA DO CLIENTE" Eu gostaria que vocÃƒÂª me ajudasse a criar uma programaÃƒÂ§ÃƒÂ£o
+    de conteÃƒÂºdo para o meu blog que tivesse a melhor chance de me ajudar a classificar
+    palavras-chave de cauda longa especÃƒÂ­ficas para a palavra-chave escolhida. Por
+    favor, descreva detalhadamente a jornada do cliente de um processo de compra para
+    uma empresa. Necessito que o resultado esteja em formato de tabela com as colunas:
+    Etapa, DescriÃƒÂ§ÃƒÂ£o, Pontos de Contato, AÃƒÂ§ÃƒÂµes de marketing a realizar e KPIs
+    no topo. [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

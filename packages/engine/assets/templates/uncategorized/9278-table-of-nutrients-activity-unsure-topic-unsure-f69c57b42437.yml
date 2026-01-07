@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9278
+# teaser: Consult the nutrients of food and discover the importance of each. RevisionTime:
+# 2023-03-31T14:10:18.372Z
+- id: 9278-table-of-nutrients-activity-unsure-topic-unsure-f69c57b42437
+  title: "Table of nutrients Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - table
+    - nutrients
+    - activity
+    - unsure
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Table of nutrients"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- me apresente o resultado no idioma [targetlanguage] Eu quero que vocÃƒÂª me
+    apresente os principais nutrientes de : me apresente os nutrientes em uma tabela.
+    depois me escreva um texto sobre cada importÃƒÂ¢ncia de cada nutriente. [TARGETLANGUAGE]
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

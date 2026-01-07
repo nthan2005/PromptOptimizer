@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8140
+# teaser: Save your time! write sales engaging product descriptions, headings & subheadings, related
+# target keywords, Meta title & descriptions, possible FAQs and Answers... RevisionTime:
+# 2023-07-27T08:10:36.95Z
+- id: 8140-get-full-seo-product-description-faqs-activity-products-topi
+  title: "Get full SEO product description, FAQs... Activity: Products Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - full
+    - seo
+    - product
+    - description
+    - faqs
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Get full SEO product description, FAQs..."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Hi mate, I have this product "[PROMPT]", I want to outrank my competition
+    with. Using [TARGETLANGUAGE] as the writing language, please generate a well detailed
+    product post with Headline, Introduction, Subheadings with Descriptions, please
+    also suggest at least 3 possible titles, suggest at least 10 Target Keywords,
+    Generate Meta Title and Meta Description then Finally, also generate possible
+    FAQs and answers.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

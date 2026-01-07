@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5459
+# teaser: Create A Ebook Based On The Topic RevisionTime: 2025-02-04T14:50:43.004Z
+- id: 5459-e-book-creator-activity-writing-topic-copywriting-00ea56f446
+  title: 'E-book Creator Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - book
+  - creator
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2052370544477347840/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "E-book Creator "](https://www.aiprm.com/prompts/copywriting/writing/2052370544477347840/)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

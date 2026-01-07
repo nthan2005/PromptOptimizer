@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6286
+# teaser: Two highly detailed Midjourney version 5 prompts in separate code blocks. Input a topic
+# (character, vehicle or any object from any Movie or Game) Thanks for upvote RevisionTime:
+# 2023-06-21T20:42:07.152Z
+- id: 6286-midjourney-v5-wallpaper-maker-activity-midjourney-topic-gene
+  title: "Midjourney [v5] Wallpaper Maker Activity: Midjourney Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - midjourney
+    - wallpaper
+    - maker
+    - activity
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Midjourney [v5] Wallpaper Maker"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to respond only in [TARGETLANGUAGE]. Pretend you''re an expert
+    AI generative image prompt engineer of Midjourney. Pretend you''re interested
+    in [PROMPT] and have a lot of knowledge about [PROMPT] Can you write 2 separate
+    highly detailed Prompts in creative style for the Al image generator Midjourney,
+    each detail must be related to [PROMPT] , which describes a scene in intricate
+    detail adding artistic style, the light setting, artistic descriptive terms, highly
+    effective rendering terms, and the mood of the image [PROMPT] Do not forget to
+    add this in the start of code block: /imagine'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

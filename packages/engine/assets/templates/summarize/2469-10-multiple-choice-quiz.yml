@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2469
+# teaser: Generates ten multiple choice quiz question with four answer based on your topic or
+# question.
+- id: 2469-10-multiple-choice-quiz
+  title: 10 Multiple Choice Quiz
+  tags:
+    - summarize
+    - multiple
+    - choice
+    - quiz
+  family: Summarize
+  body:
+    "I'd like you to write ten Quiz question based on my topic. Please also include
+    four possible answers, but only one of the answers can be corrected. Please display
+    the correct answer below the answer. My topic is: [PROMPT] [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

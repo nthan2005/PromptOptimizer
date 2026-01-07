@@ -1,0 +1,63 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6694
+# teaser: Create a attitude frequency table using Systemic Functional Linguistics APPRAISAL framework
+# simply by pasting your comments. RevisionTime: 2023-06-01T01:03:08.321Z
+- id: 6694-social-listening-using-appraisal-framework-activity-research
+  title: 'Social Listening using APPRAISAL framework Activity: Research Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - social
+  - listening
+  - appraisal
+  - framework
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1824589498022092800/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Social Listening using APPRAISAL framework"](https://www.aiprm.com/prompts/marketing/research/1824589498022092800/)_"
+    --- Your task is to code some text. Please use the the framework Affect Ã happiness
+    HAPPINESS Constitutes feelings of pleasure, joy, fun, and synonyms of these. affect
+    Ã unhappiness UNHAPPINESS Constitutes feeling of sadness, regret, melancholy and
+    synonyms of these. affect Ã security SECURITY Constitutes feeling of freedom from
+    care, anxiety or doubt; safety, absence of threat (refers mostly to human security).
+    affect Ã insecurity INSECURITY Constitutes feeling of anxiety, doubt, concern
+    and presence of threat and fear (refers mostly to human security). affect Ã satisfaction
+    SATISFACTION The state of fulfilment; gratification and pleasure. affect Ã dissatisfaction
+    DISSATISFACTION The state or attitude of not being satisfied; discontent and feeling
+    displeasure or disappointment. affect Ã hostility HOSTILITY A feeling of displeasure
+    or belligerence or opposition arising from anger, suspicion, disgust or contempt.
+    affect Ã hope HOPE The feeling that what is wanted can be had or that events will
+    turn out for the best. Also aspirational. affect Ã despair DESPAIR The feeling
+    where hope is lost, an attitude where people have given up. judgement Ã social
+    esteem Ã normality Ã positive POSNORM A judgement of how special/normal something
+    or someone is. Positive means normal/average and/or not normal, but good or better.
+    Negative means not normal and bad or worse, unfortunate or unfashionable. judgement
+    Ã social esteem Ã normality Ã negative NEGNORM judgement Ã social esteem Ã capacity
+    Ã positive CAPACITY POS A judgement of how capable something or someone is. judgement
+    Ã social esteem Ã capacity Ã negative CAPACITYNEG judgement Ã social esteem Ã
+    tenacity Ã positive DEPENDABLEPOS A judgement of how dependable someone or something
+    is. Dependability includes propensity to influence from others - typically media,
+    greens, big business. Also propensity to â€˜backflipâ€™. (Consistency) Cynical
+    politicking. judgement Ã social esteem Ã tenacity Ã negative DEPENDABLENEG judgement
+    Ã social sanction Ã veracity Ã positive TRUTHFULPOS A judgement of how truthful
+    someone or something is. judgement Ã social sanction Ã veracity Ã negative TRUTHFULNEG
+    Shark Sentiment Report | CSU : ILWS 151 judgement Ã social sanction Ã propriety
+    Ã positive MORALITYPOS A judgement of how someone or something can be assessed
+    against an accepted standard/morality. Positive: Thatâ€™s just the way it is.
+    Sometimes these things happen. Negative: Thatâ€™s not the way it should be. judgement
+    Ã social sanction Ã propriety Ã negative MORALITYNEG appreciation Ã reaction Ã
+    positive aprepo A reaction to an event, person or occurrence either natural or
+    symbolic appreciation Ã reaction Ã Including knee-jerk responses. negative REACTIONNEG
+    appreciation Ã composition Ã positive REACTIONPOS A reaction to the composition
+    of an item or event and/or the reaction to how something is comprised. appreciation
+    Ã composition Ã negative COMPOSITIONNEG appreciation Ã valuation Ã positive VALUATIONPOS
+    A reaction to how valuable someone or something is to a specific contextual setting,
+    either natural or symbolic - after appreciation Ã valuation Ã consideration. negative
+    VALUATIONNEG [PROMPT]. Ensure you present all codes in a table, columns left to
+    write, attitudinal component code, frequency for each code without duplication,
+    a sample of comment for each code [TARGETLANGUAGE]. The text to summarize is this:
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

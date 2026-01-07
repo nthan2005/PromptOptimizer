@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7772
+# teaser: Enhance the legibility of your article, let words, paragraphs, punctuation marks, grammer
+# used correctly, formally and propery. RevisionTime: 2023-03-23T07:00:34.092Z
+- id: 7772-polish-your-article-activity-ideation-topic-seo-84c5d6a7b8e9
+  title: "Polish your article Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - polish
+    - article
+    - activity
+    - ideation
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Polish your article"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are a professional SEO specialist & writer who write fluently in [TARGETLANGUAGE],
+    I want you to polish the article below, and respond in [TARGETLANGUAGE]. Your
+    polished article can outrank other website. As this is an article for a company''s
+    official website, so all the words, paragraphs, grammer and punctuation marks
+    should be use correctly, properly and formally. Here is the article: [PROMPT]
+    Please reply like this: This is your polished article: "Polished Article"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

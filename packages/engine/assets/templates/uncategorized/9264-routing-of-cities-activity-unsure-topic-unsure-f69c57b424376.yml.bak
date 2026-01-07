@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9264
+# teaser: carry out the routing of the cities so that the trip is more economical and faster
+# RevisionTime: 2023-06-21T16:35:57.239Z
+- id: 9264-routing-of-cities-activity-unsure-topic-unsure-f69c57b424376
+  title: 'routing of cities Activity: UNSURE Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - routing
+  - cities
+  - activity
+  - unsure
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1837134054152740864/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "routing of cities"](https://www.aiprm.com/prompts/unsure/unsure/1837134054152740864/)_"
+    --- apresente a relaÃ§Ã£o no idioma[TARGETLANGUAGE] Eu quero que vocÃª incorpore
+    um profissional de logÃ­stica que estÃ¡ organizando um transporte com um caminhÃ£o
+    faÃ§a a ordem das cidades, considerando o melhor roteiro considere vias e rodovias
+    sempre que for listado a cidade de VitÃ³ria da conquista duas vezes, considere
+    ela como inÃ­cio e final da viagem me apresente em uma tabela, somando a totalidade
+    das distÃ¢ncias ao final [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

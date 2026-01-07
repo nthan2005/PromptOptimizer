@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 138
+# teaser: Designed for those who want quick and straight-to-the-point answers without any unnecessary
+# information.
+- id: 138-quickfire-answers
+  title: Quickfire Answers
+  tags:
+    - accounting
+    - quickfire
+    - answers
+  family: Accounting
+  body:
+    "[PROMPT] answer as short as possible and remove your blablabla if you are
+    going to write sorry... don't write it i just want the bare answer with as few
+    words as possible answer in [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

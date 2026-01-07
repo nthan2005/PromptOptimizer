@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7110
+# teaser: Generates 10 short titles with max 30 characters and 5 long titles with max 90 characters
+# and 10 descriptions of MAXIMUM 90 characters, optimized for Google Ads (formerly Adwords) Display
+# campaigns RevisionTime: 2023-02-23T11:24:11Z
+- id: 7110-google-ads-display-responsives-ads-activity-writing-topic-ma
+  title: "Google Ads Display - Responsives Ads Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - google
+    - ads
+    - display
+    - responsives
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Google Ads Display - Responsives Ads"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- GÃƒÂ©nÃƒÂ¨re 10 titres courts avec max 30 caractÃƒÂ¨res et 5 titres long avec maximum
+    90 caractÃƒÂ¨res. Puis 10 descriptions d''une taille MAXIMUM de 90 caractÃƒÂ¨res.
+    Les textes seront optimisÃƒÂ©s pour les campagnes Google Ads Display - utilise la
+    thÃƒÂ©matique suivante [PROMPT] - rÃƒÂ©ponse en [[TARGETLANGUAGE]]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

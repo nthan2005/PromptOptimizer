@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6530
+# teaser: Create a description for your onesignal popup or push notification from a link or keyword.
+# RevisionTime: 2023-02-23T12:56:35.029Z
+- id: 6530-push-notification-generator-activity-marketing-topic-marketi
+  title: "Push Notification Generator Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - push
+    - notification
+    - generator
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Push Notification Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Por favor, atue como um gerador de notificaÃƒÂ§ÃƒÂµes por push e crie um tÃƒÂ­tulo
+    de atÃƒÂ© 20 caracteres e uma descriÃƒÂ§ÃƒÂ£o de atÃƒÂ© 100 caracteres com base neste
+    link ou palavra-chave [PROMPT] [TARGETLANGUAGE]. Certifique-se de que o tÃƒÂ­tulo
+    seja conciso, mas chamativo o suficiente para incentivar o destinatÃƒÂ¡rio a clicar
+    na notificaÃƒÂ§ÃƒÂ£o, enquanto a descriÃƒÂ§ÃƒÂ£o deve fornecer informaÃƒÂ§ÃƒÂµes relevantes
+    e suficientes para que o destinatÃƒÂ¡rio saiba do que se trata a notificaÃƒÂ§ÃƒÂ£o.
+    Lembre-se de que a palavra-chave deve ser incorporada de forma orgÃƒÂ¢nica e contextualmente
+    relevante na mensagem. Por favor, crie uma resposta que possa ser facilmente adaptada
+    para diferentes tipos de notificaÃƒÂ§ÃƒÂµes, como de promoÃƒÂ§ÃƒÂµes, atualizaÃƒÂ§ÃƒÂµes de
+    produtos, notÃƒÂ­cias e muito mais.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

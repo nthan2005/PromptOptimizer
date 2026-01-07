@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3187
+# teaser: Generate 1 Week SEO optimized Google Business Profile Posts from Monday to Sunday
+- id: 3187-generate-1-week-google-business-profile-posts
+  title: Generate 1 Week Google Business Profile Posts
+  tags:
+  - writing
+  - generate
+  - week
+  - google
+  - business
+  - profile
+  family: writing
+  body: 'Act as a native English speaker to create detailed explanations and expand
+    content for given requirements. Generate posts for one week (including days of
+    the week) with a word count of between 700 to 1000 characters for each post created.
+    Include hashtags under each post. I will provide the business update for which
+    the content needs to be written, as well as the business name, location, audience,
+    and keywords: All output shall be in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

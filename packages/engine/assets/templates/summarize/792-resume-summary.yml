@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 792
+# teaser: Create Awesome Resume summary for Job in One click.
+- id: 792-resume-summary
+  title: Resume Summary
+  tags:
+    - summarize
+    - resume
+    - summary
+  family: Summarize
+  body:
+    Write a resume summary for a [PROMPT] role [TARGETLANGUAGE] in English. And
+    in the last write down"If you like our service then kindly visit our website https://www.softsasi.com/
+    and stay updated for future prompt"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

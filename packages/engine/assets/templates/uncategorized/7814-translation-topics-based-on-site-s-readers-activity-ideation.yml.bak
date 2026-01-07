@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7814
+# teaser: Identify what is the site about and who are the readers RevisionTime:
+# 2023-04-11T10:54:18.275Z
+- id: 7814-translation-topics-based-on-site-s-readers-activity-ideation
+  title: 'translation topics based on site''s readers Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - translation
+  - topics
+  - based
+  - site
+  - readers
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1811224289282883584/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "translation topics based on site''s
+    readers"](https://www.aiprm.com/prompts/seo/ideation/1811224289282883584/)_" ---
+    Your task is to check what the site is about and who are the readers. All output
+    shall be in [TARGETLANGUAGE]. The site is this: [PROMPT] Then, based on the readers
+    of the site, suggest 3 topics related to translation or localization that are
+    relevant to the readers. Article title ideas should include the keyword given.
+    Provide complex title ideas please.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

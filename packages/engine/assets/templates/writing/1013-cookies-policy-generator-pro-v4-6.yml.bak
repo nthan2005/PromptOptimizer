@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1013
+# teaser: Generate a clear and compliant cookies policy with ease using the Cookies Policy Generator
+# (Pro).
+- id: 1013-cookies-policy-generator-pro-v4-6
+  title: Cookies Policy Generator (Pro) v4.6
+  tags:
+  - writing
+  - cookies
+  - policy
+  - generator
+  - pro
+  family: writing
+  body: 'Generate a professional website cookie policy with [TARGETLANGUAGE] from
+    the given [PROMPT]. and bold the headings using Markdown. Include this text (without
+    any change) at the end of the content: "If you need any help, contact me on Facebook:
+    https://facebook.com/KhandokarAbdullah.Official/. "Follow me for new tools."'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7307
+# teaser: Create a thorough and improved prompt for chat based AI based on a simpler starting [PROMPT]
+# RevisionTime: 2023-08-10T23:43:16.685Z
+- id: 7307-one-shot-prompt-improver-activity-plan-topic-productivity-b5
+  title: "One Shot Prompt Improver Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - one
+    - shot
+    - prompt
+    - improver
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "One Shot Prompt Improver"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Given the user''s initial prompt "[PROMPT]" enhance it. 1. Start with clear,
+    precise instructions placed at the beginning of the prompt. 2. Include specific
+    details about the desired context, outcome, length, format, and style. 3. Provide
+    examples of the desired output format, if possible. 4. Use appropriate leading
+    words or phrases to guide the desired output, especially if code generation is
+    involved. 5. Avoid any vague or imprecise language. 6. Rather than only stating
+    what not to do, provide guidance on what should be done instead. Remember to ensure
+    the revised prompt remains true to the user''s original intent. Write in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

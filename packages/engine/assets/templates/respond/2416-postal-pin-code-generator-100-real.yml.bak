@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2416
+# teaser: Generate genuine and real zip codes for the location you provided... Enter detailed location
+# for better results!
+- id: 2416-postal-pin-code-generator-100-real
+  title: Postal/Pin Code Generator | 100% Real
+  tags:
+    - respond
+    - postal
+    - pin
+    - code
+    - generator
+    - "100"
+  family: Respond
+  body: 'generate postal or pin code of this: "[PROMPT]" in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

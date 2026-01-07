@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7208
+# teaser: Create a short and original text, adapted for tik tok users, to capt attention and talk
+# about a subject or a topic. RevisionTime: 2023-06-19T16:06:31.349Z
+- id: 7208-captiving-tik-tok-script-activity-plan-topic-productivity-b5
+  title: "Captiving tik tok script Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - captiving
+    - tik
+    - tok
+    - script
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Captiving tik tok script"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I''m tik tok user. You''re going to help me. Create a short and original text,
+    adapted for tik tok users, to capt attention and talk about a subject or a topic.
+    This is the subject [PROMPT]. You will write the text in this language [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 648
+# teaser: Create a top ranked SEO optimize blog about the given topic with meta keywords.
+- id: 648-100-unique-humen-written-seo-optimizer-blog
+  title: 100% Unique Humen Written SEO optimizer blog
+  tags:
+    - script-writing
+    - "100"
+    - unique
+    - humen
+    - written
+    - seo
+  family: Script Writing
+  body:
+    "your task is to generate a blog of 2500+ words about the given topic name
+    and its totally ranked and SEO based. All output shall be in [TARGETLANGUAGE].
+    The text to summarize is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

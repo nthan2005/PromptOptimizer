@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3420
+# teaser: Create 100% SEO-friendly title & meta descriptions for service pages.
+- id: 3420-title-meta-description-for-service-page
+  title: Title & Meta Description for Service Page
+  tags:
+  - writing
+  - title
+  - meta
+  - description
+  - service
+  - page
+  family: writing
+  body: I want you to respond only in [TARGETLANGUAGE]. I want you to act as a Services
+    Meta description writer that speaks and writes [TARGETLANGUAGE]. I want you to
+    generate a Meta title & description for the following page
+  enabled: true
+  required:
+  - targetlanguage

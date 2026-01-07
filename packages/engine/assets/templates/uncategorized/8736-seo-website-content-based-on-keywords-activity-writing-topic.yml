@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8736
+# teaser: write a TYPE page content for the below: focused keywords: 1, 2, 3 keyword cluster keyword
+# cluster keyword cluster RevisionTime: 2023-03-15T13:18:24Z
+- id: 8736-seo-website-content-based-on-keywords-activity-writing-topic
+  title: "SEO website content based on keywords Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - seo
+    - website
+    - content
+    - based
+    - keywords
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SEO website content based on keywords"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- please write website content in [TARGETLANGUAGE] based on the below keywords
+    and their cluster. please follow the below: - Use the focused keywords in the
+    title, description, slug, keywords, first paragraph, and any heading tag - Title
+    must be 60 character max including the targeted keywords - Descriptions must be
+    140 character max including the target keywords - make a heading and subheadings
+    for each section if needed - please include all the keywords in the output within
+    the heading or paragraphs, don''t leave any of the keywords not to be included
+    on the content [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

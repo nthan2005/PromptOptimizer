@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2605
+# teaser: Get a detailed information to write an article based on your interest.
+- id: 2605-find-content-ideas-for-your-business
+  title: Find content Ideas for your business
+  tags:
+    - ideation
+    - find
+    - content
+    - ideas
+    - business
+  family: ideation
+  body:
+    "Suggest a list of trending and hot topics with breif and content outlines
+    to write an article for given any interest or keword phrase. Suggest a most suitable
+    article Title along with it. All output shall be in [TARGETLANGUAGE] The text
+    to summarize is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

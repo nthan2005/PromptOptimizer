@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5311
+# teaser: Get insights into the plot, characters, writing style, themes, and emotional impact.
+# Discover the book's strengths and potential weaknesses. RevisionTime: 2023-10-12T19:44:15.908Z
+- id: 5311-book-review-in-1-click-activity-writing-topic-copywriting-00
+  title: "Book Review in 1-click Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - book
+    - review
+    - click
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Book Review in 1-click"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- All output shall be in [TARGETLANGUAGE]. Please provide a comprehensive review
+    of the novel ''[Title of the Novel]'' by ''[Author''s Name].'' Begin by giving
+    a brief summary of the plot, including the main characters and setting. Then,
+    delve into your overall thoughts and feelings about the book. Discuss the writing
+    style, character development, and any literary themes or motifs you noticed. Analyze
+    the pacing and structure of the story. Did the plot hold your interest, or were
+    there any parts that you found slow or confusing? Please share your insights into
+    the author''s use of language and their ability to create vivid imagery. Were
+    there any particularly memorable quotes or passages that stood out to you? Additionally,
+    explore the emotional impact of the book. Did it evoke any strong emotions or
+    provoke deep thought? Were there any moments that you found particularly moving
+    or thought-provoking? Consider the themes and messages conveyed in the novel.
+    What do you think the author was trying to convey, and did they succeed in doing
+    so? Discuss any social or cultural commentary that the book may contain. It''s
+    important to address the strengths and weaknesses of the novel. What aspects of
+    the book did you particularly enjoy, and what, if anything, did you find lacking?
+    Would you recommend this book to others, and if so, who do you think would enjoy
+    it the most? Feel free to compare this novel to others by the same author or within
+    the same genre, if relevant. Finally, conclude your review with a rating out of
+    5 stars, and summarize your overall impression of the book. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

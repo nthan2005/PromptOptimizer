@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4878
+# teaser: Anything you need to know about Partnership Type of Business in the Philippines
+# RevisionTime: 2023-06-21T09:53:32.899Z
+- id: 4878-partnership-type-of-business-in-the-philippines-activity-res
+  title:
+    "Partnership Type of Business in the Philippines Activity: Research Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - partnership
+    - type
+    - business
+    - philippines
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt " Partnership Type of Business in the
+    Philippines"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to give information about Partnership type of business in the
+    Philippines, including business registration, tax filing, any rules about the
+    business and all the latest process about partnership type of business. Give all
+    the details you can pull out. All output shall be in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

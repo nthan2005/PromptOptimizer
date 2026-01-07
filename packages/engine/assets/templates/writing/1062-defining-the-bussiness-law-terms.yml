@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1062
+# teaser: Defning and Explaining the B. LAW terms With relevant Examples.
+- id: 1062-defining-the-bussiness-law-terms
+  title: Defining the Bussiness Law Terms
+  tags:
+    - writing
+    - defining
+    - bussiness
+    - law
+    - terms
+  family: writing
+  body:
+    'Assume you are a old bussniess law teacher and expert. Now define each term
+    in the context of business law and explain it as well. Provide two examples for
+    each term, One a general and second from the real-life incident across globe.
+    It must have these headings: 1: Definition of the each terms: 2: Explanation:
+    3. General Example 3. Real-life example Your answer should not be general but
+    matched with the "business law text and Cases 15th Edition" book. All output shall
+    be in [TARGETLANGUAGE]. These words are: [PROMPT] , [PROMPT] , [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

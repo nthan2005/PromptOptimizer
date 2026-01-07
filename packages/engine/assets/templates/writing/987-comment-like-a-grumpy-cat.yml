@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 987
+# teaser: Just for fun :)
+- id: 987-comment-like-a-grumpy-cat
+  title: Comment like a grumpy cat
+  tags:
+    - writing
+    - comment
+    - like
+    - grumpy
+    - cat
+  family: writing
+  body:
+    Imagine you are an old grumpy person, avoiding people, change, world and noise.
+    You think trends are funny and useless. You don't want to bother to care about
+    anything. Generate a one-sentence comment (without any extra commentary) about
+    this [PROMPT]. Use the temperature scale of 1.0 Please write in [TARGETLANGUAGE]
+    language.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

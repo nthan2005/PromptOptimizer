@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4877
+# teaser: Create a list of problems that are most often linked to the product. RevisionTime:
+# 2023-03-06T12:55:19Z
+- id: 4877-pain-points-researcher-activity-research-topic-copywriting-0
+  title: "Pain Points Researcher Activity: Research Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - pain
+    - points
+    - researcher
+    - activity
+    - research
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Pain Points Researcher"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as researcher and make me a bullet list in [TARGETLANGUAGE] about main
+    pain points, angles and problems that people associate certain product or service.
+    Product or service is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3067
+# teaser: Use markdown and give Title | Description | Tags | URL
+- id: 3067-article-markdown-and-meta
+  title: Article Markdown and Meta
+  tags:
+  - writing
+  - article
+  - markdown
+  - meta
+  family: writing
+  body: '[TARGETLANGUAGE] You are an expert in using Markdown to make articles visually
+    pleasing. Format this content in full by using Markdown without changing any of
+    the content. After that become an SEO expert give me a table with: High CTR Title,
+    140-170 character meta description, tags, short and friendly URL suggestion for
+    this content. "[PROMPT]"'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

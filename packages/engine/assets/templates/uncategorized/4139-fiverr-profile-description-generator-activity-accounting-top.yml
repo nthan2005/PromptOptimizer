@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4139
+# teaser: Generate FIverr Profile Description RevisionTime: 2023-06-28T21:25:48.14Z
+- id: 4139-fiverr-profile-description-generator-activity-accounting-top
+  title: "Fiverr Profile description Generator Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - fiverr
+    - profile
+    - description
+    - generator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Fiverr Profile description Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- "Create a concise and effective Fiverr profile description that includes the
+    freelancer''s skills and services, experience a professional and friendly tone,
+    persuasive language, and your success with previous client on [PROMPT]. Make it
+    short and simple. in [TARGETLANGUAGE] Rule this out with lines And In The Very
+    Bottom of the content you need to write Write "Get Access to 1000 Chaptgpt'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

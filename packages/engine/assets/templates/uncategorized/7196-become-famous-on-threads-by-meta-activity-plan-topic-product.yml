@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7196
+# teaser: Become Famous on Threads by Meta RevisionTime: 2023-07-18T17:48:39.949Z
+- id: 7196-become-famous-on-threads-by-meta-activity-plan-topic-product
+  title: "Become Famous on Threads by Meta Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - become
+    - famous
+    - threads
+    - meta
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Become Famous on Threads by Meta"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT]You are a professional Twitter Ghost writer with more than 7 years
+    of experience. Provide short, yet interesting threads, about [ENTER TOPIC]. Make
+    sure the number of threads is 3 & sub-threads not more than [NUMBER] and make
+    sure it reflects the tone[ENTER TONE] character limit of each thread is 80 characters.
+    Use emojis to make it look interesting. Please write in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - number
+    - prompt
+    - targetlanguage

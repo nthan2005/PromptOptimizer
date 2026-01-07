@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8704
+# teaser: Create the best SEO Optimized, APK Article in One click. RevisionTime: 2023-03-10T00:15:34Z
+- id: 8704-seo-optimized-article-for-apk-activity-writing-topic-seo-84c
+  title: "SEO optimized Article for APK Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - seo
+    - optimized
+    - article
+    - apk
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SEO optimized Article for APK"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- The task is to summarize text I give you in 1000 to 2000 words with using
+    proper SEO optimized keywords and add proper headings. All output shall be in
+    [TARGETLANGUAGE]. The text to summarize to this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

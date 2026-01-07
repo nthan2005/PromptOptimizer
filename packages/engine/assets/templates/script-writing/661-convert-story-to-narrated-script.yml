@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 661
+# teaser: Takes a story and turns it into a full on Action Script, or Scene.
+- id: 661-convert-story-to-narrated-script
+  title: Convert Story to Narrated Script
+  tags:
+    - script-writing
+    - convert
+    - story
+    - narrated
+    - script
+  family: Script Writing
+  body:
+    "Generate an acting script for the story provided: [PROMPT]. Add roles, and
+    narrator please."
+  enabled: true
+  required:
+    - prompt

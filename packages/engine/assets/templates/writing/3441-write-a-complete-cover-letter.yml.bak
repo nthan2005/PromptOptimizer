@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3441
+# teaser: Craft cover letter that the professional summary in 500 words or maximum 2000 characters.
+- id: 3441-write-a-complete-cover-letter
+  title: Write a complete cover letter
+  tags:
+  - writing
+  - write
+  - complete
+  - cover
+  - letter
+  family: writing
+  body: 'Craft a compelling cover-letter that create 4 chapters each growth, learned,
+    experienced, and a goal of career. Your task is to create a growth environment,
+    reason to choose major course of university subject, job description that related
+    experienced and learned, and you can contribute to the company and aspirations(focusing
+    on skills, not companies) with three bullet point descriptions and accomplishments,
+    all within a maximum of 500 words or 2000 characters. All output shall be in [TARGETLANGUAGE].
+    The text to write the resume is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

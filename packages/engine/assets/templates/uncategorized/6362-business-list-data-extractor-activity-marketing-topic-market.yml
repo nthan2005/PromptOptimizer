@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6362
+# teaser: Extract the business name and phone number from raw data (Google Maps copy & paste) Outputs
+# in Table format RevisionTime: 2023-05-15T23:32:06.987Z
+- id: 6362-business-list-data-extractor-activity-marketing-topic-market
+  title: "Business List Data Extractor Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - business
+    - list
+    - data
+    - extractor
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Business List Data Extractor"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Extract business names and phone number from the following data, if there
+    is no phone number put ''n/a'' after the business name so they keep proper order,
+    output phone numbers to ''000-000-0000'' format, output in table format, in the
+    [TARGETLANGUAGE] language: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

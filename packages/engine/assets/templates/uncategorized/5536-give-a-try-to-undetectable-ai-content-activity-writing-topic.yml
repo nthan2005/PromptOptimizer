@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5536
+# teaser: Beat any AI Detection easily and rank your content by simply entering your [KEYWORD OR
+# TOPIC] RevisionTime: 2023-07-15T17:03:00.88Z
+- id: 5536-give-a-try-to-undetectable-ai-content-activity-writing-topic
+  title: "Give A Try To Undetectable AI Content Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - give
+    - try
+    - undetectable
+    - content
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Give A Try To Undetectable AI Content"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] write a compelling [Keyword or Topic] article that is 2000 words
+    long in markdown format with proper headings and an engaging outline. use simple
+    english, contractions without directly mentioning them. vary the sentence structure
+    and complexity to mimic human writing with high perplexity and burstiness. incorporate
+    some longer, more complex sentences along with shorter ones. use vivid detail
+    and strong verbs to create an immersive and entertaining article that is indistinguishable
+    from human writing. [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

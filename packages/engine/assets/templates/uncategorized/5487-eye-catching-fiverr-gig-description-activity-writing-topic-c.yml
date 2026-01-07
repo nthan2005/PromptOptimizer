@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5487
+# teaser: Create an engaging and eye-catching Fiverr gig description that will impress the buyers
+# RevisionTime: 2023-03-14T14:10:46Z
+- id: 5487-eye-catching-fiverr-gig-description-activity-writing-topic-c
+  title: "Eye-Catching Fiverr Gig Description Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - eye
+    - catching
+    - fiverr
+    - gig
+    - description
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Eye-Catching Fiverr Gig Description"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to write a Fiverr Gig description using the title provided in command
+    Make sure to write in a humorous tone Make sure to engage the reader with crispy
+    and creative sentences Make sure not to use cliche words like greetings, my dear,
+    my friend, hola etc Be as creative as you can Make sure to write at least 250
+    words [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

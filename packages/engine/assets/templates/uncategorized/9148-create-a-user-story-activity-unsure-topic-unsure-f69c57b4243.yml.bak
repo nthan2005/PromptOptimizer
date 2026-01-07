@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9148
+# teaser: Create a user story RevisionTime: 2023-03-29T07:08:53.437Z
+- id: 9148-create-a-user-story-activity-unsure-topic-unsure-f69c57b4243
+  title: 'Create A User Story Activity: UNSURE Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - user
+  - story
+  - activity
+  - unsure
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1798611752821448704/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create A User Story "](https://www.aiprm.com/prompts/unsure/unsure/1798611752821448704/)_"
+    --- Write me a user stories for the user stories list: [PROMPT] All of the user
+    stories have to have acceptance criteria | User Story | |----------------------------------------------------------------------------------------------|
+    | As a [Description of user] | | | I Want [Functionality] | | | So That [Benefit]
+    | | |----------------------------------------------------------------------------------------------|
+    | Acceptance Criteria | |----------------------------------------------------------------------------------------------|
+    | Given [how things begin] | | | When [action taken] | | | Outcome [action result]
+    | | Please write in [TARGETLANGUAGE] language. The user stories are under the
+    table format.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 282
+# teaser: The Best Online AI Proofreader And Editor ChatGPT. Proofread And Edit Like Human, User
+# Friendly Bot. Do Not Forget To Give Me Thumb Up .
+- id: 282-proofread-and-edit-text-like-human
+  title: Proofread and Edit Text Like Human
+  tags:
+    - improve
+    - proofread
+    - edit
+    - text
+    - like
+    - human
+  family: Improve
+  body:
+    "Your task is to proofread and Edit The text i give you. Remove all unnecessary
+    words and add best one. All output shell bi in [TARGETLANGUAGE]. The Text to Proofread
+    and Edit is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

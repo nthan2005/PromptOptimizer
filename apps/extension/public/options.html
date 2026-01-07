@@ -1,0 +1,45 @@
+<!-- public/options.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AutoPrompt Options</title>
+    <style>
+        body { padding: 20px; font-family: sans-serif; max-width: 600px; margin: auto; }
+        h1 { border-bottom: 1px solid #ccc; padding-bottom: 10px; }
+        .setting-group { margin-bottom: 20px; padding: 15px; border: 1px solid #eee; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <h1>⚙️ AutoPrompt Preferences</h1>
+
+    <div class="setting-group">
+        <h2>General Settings</h2>
+        <label for="enable-extension">
+            <input type="checkbox" id="enable-extension"> Enable AutoPrompt globally
+        </label>
+    </div>
+    
+    <div class="setting-group">
+        <h2>Engine Weights (Preferences)</h2>
+        <label>
+            Retrieval Weight (0.0 - 1.0): 
+            <input type="number" id="retrieval-weight" min="0" max="1" step="0.1" value="0.8">
+        </label>
+        <p><small>Adjusts influence of BM25F ranking.</small></p>
+    </div>
+
+    <div class="setting-group">
+        <h2>Data Management</h2>
+        <button id="export-packs">Export Packs (JSON/CSV)</button>
+        <input type="file" id="import-packs" accept=".json, .csv" style="margin-left: 10px;">
+        <p><small>Templates and bandit history are kept locally.</small></p>
+    </div>
+
+    <button id="save-settings">Save Preferences</button>
+    <p id="status-message" style="color: green;"></p>
+
+    <script src="/src/options.ts" type="module"></script>
+</body>
+</html>

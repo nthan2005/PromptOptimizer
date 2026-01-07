@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4915
+# teaser: Find 10 bestselling The New York Times book titles in your favorite genre. RevisionTime:
+# 2023-05-19T18:50:32.447Z
+- id: 4915-the-new-york-times-bestseller-books-activity-research-topic
+  title: "The New York Times Bestseller Books Activity: Research Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - new
+    - york
+    - times
+    - bestseller
+    - books
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "The New York Times Bestseller Books"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to generate 10 bestselling The New York Times book titles in
+    a particular genre one below the other in the [TARGETLANGUAGE]. The 10 bestselling
+    The New York Times book titles in this genre are as follows: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

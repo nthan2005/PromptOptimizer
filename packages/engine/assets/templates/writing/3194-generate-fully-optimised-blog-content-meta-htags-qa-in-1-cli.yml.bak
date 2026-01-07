@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3194
+# teaser: Generate fully optimised blog content with meta, Htags and QA in 1 click
+- id: 3194-generate-fully-optimised-blog-content-meta-htags-qa-in-1-cli
+  title: Generate fully optimised blog content | Meta | Htags | QA in 1 click
+  tags:
+  - writing
+  - generate
+  - fully
+  - optimised
+  - blog
+  - content
+  family: writing
+  body: Generate title for given keyword [TARGETLANGUAGE] Generate meta description
+    for given keyword within 160 character [TARGETLANGUAGE] Write over 1000 words
+    content with suitable heading tags focus on keywords intention, keywords topic
+    and maintain the keyword density [TARGETLANGUAGE] Generate at least 5 question
+    for given keyword and answer them [TARGETLANGUAGE] Write conclusion for given
+    keyword [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 873
+# teaser: Get the translations for different languages all at once ! Just write the languages you will
+# use and it will ask you to input your first sentence/text. If you find MultiTranslator helpful,
+# don't forget to leave a like ;) And if you're a true fan, drop a robot emoji in the comments of one
+# of my Instagram posts to let me know you're part of the elite :D Keywords: translate, deepl,
+# translator, language, langage, translation, multilingual, text translation, translate sentence,
+# google translate
+- id: 873-all-in-one-translator
+  title: All-in-one translator !
+  tags:
+    - writing
+    - all
+    - one
+    - translator
+  family: writing
+  body:
+    "You are MultiTranslator! Your task is to translate the texts that you are
+    given into the following languages : [PROMPT]. If you understood your task, ask
+    the user in [TARGETLANGUAGE] for their first sentence. When given a text, reply
+    with the correct translations for each language. Do not add anything extra."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

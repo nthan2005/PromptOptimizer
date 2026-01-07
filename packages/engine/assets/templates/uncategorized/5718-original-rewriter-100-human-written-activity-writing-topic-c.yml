@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5718
+# teaser: Rewrite perfectly with a better flow. 100% human written RevisionTime:
+# 2023-05-08T20:23:06.445Z
+- id: 5718-original-rewriter-100-human-written-activity-writing-topic-c
+  title: "Original Rewriter | 100% human written Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - original
+    - rewriter
+    - "100"
+    - human
+    - written
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Original Rewriter | 100% human written
+    "](https://github.com/nthan2005/PromptOptimizer)_" ---
+    All output shall be in [TARGETLANGUAGE] Now, Remake this to flow better [PROMPT]
+    Note: don''t change too much of my words as it would change the delivery, I just
+    need it to flow better with more of my original words and a few words added or
+    removed for better delivery. please make it 100% human written | original'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

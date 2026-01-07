@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7491
+# teaser: Create a list of 100 items you would find in any [BUILDING or LOCATION]. Useful for still
+# life image concepts or as a keyword tool. RevisionTime: 2023-02-19T15:35:19Z
+- id: 7491-niche-items-list-generator-activity-respond-topic-productivi
+  title: "Niche Items List Generator Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - niche
+    - items
+    - list
+    - generator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Niche Items List Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Print a list of 100 items you would find in a [PROMPT], one item per line,
+    no line numbers. Do not include any duplicates, keep the items relevant to a [PROMPT].
+    Write all output in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

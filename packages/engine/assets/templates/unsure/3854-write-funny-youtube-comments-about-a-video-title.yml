@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3854
+# teaser: Write funny youtube comments based off title
+- id: 3854-write-funny-youtube-comments-about-a-video-title
+  title: Write funny youtube comments about a video title
+  tags:
+    - unsure
+    - write
+    - funny
+    - youtube
+    - comments
+    - video
+  family: UNSURE
+  body:
+    write a funny youtube comment about the youtube video called "[PROMPT]". Only
+    write it in [TARGETLANGUAGE] and do not repeat yourself.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7874
+# teaser: Use this prompt to extract the keywords from the competitor's content RevisionTime:
+# 2023-03-11T06:32:56Z
+- id: 7874-extract-keywords-from-the-competitor-content-activity-keywor
+  title: "Extract Keywords From The Competitor Content Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - extract
+    - keywords
+    - competitor
+    - content
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Extract Keywords From The Competitor
+    Content"](https://github.com/nthan2005/PromptOptimizer)_" ---
+    Your task is to extract all the keywords from the content that provided to you.
+    All output shell be in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

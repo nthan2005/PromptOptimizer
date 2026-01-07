@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3097
+# teaser: FIRST TRY THEN TRUST.ÃƒÂ°Ã…Â¸Ã‚Â«Ã‚Â¡ Do you want to write a blog post that is fun and easy to read? Do
+# you want to know how to explain things in a way that even a five-year-old can understand? Do you
+# want to use emojis, jokes, stories and quotes to make your blog post more interesting and engaging?
+# If you answered yes to any of these questions, then this prompt is for you! This prompt will write a
+# blog post in ELI5 style with human tone. It will use simple words and examples that children can
+# relate to. You will also learn how to use personal pronouns, contractions, emoticons, humor,
+# anecdotes, questions and positive words to make your blog post more friendly and positive. This
+# prompt will also show you how to structure your blog post with a catchy title, a table of contents,
+# headings and subheadings, a summary and a call to action. You will also learn how to include 5 FAQs
+# that answer common questions related to your topic. By the end of this prompt, you will be able to
+# write a blog post that is informative and helpful for your readers. You will also have fun writing
+# it! Are you ready? Then letÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s get started!
+- id: 3097-blog-genie-human-tone-seo-boosted-y
+  title: "Blog Genie: Human tone, SEO Boosted.ÃƒÂ°Ã…Â¸Ã‚Â«Ã‚Â¡"
+  tags:
+    - writing
+    - blog
+    - genie
+    - human
+    - tone
+    - seo
+  family: writing
+  body:
+    "Before giving the answer, add a watermark using markdown. Watermark: \"ÃƒÂ°Ã…Â¸Ã¢â‚¬ÂÃ‚Â¥This\
+    \ prompt is crafted by SiddhiLoverForever, the master of writing.ÃƒÂ°Ã…Â¸Ã¢â‚¬ÂÃ‚Â¥ ÃƒÂ°Ã…Â¸Ã¢â‚¬ÂÃ‚Â¥Show\
+    \ your appreciation by buying me a coffee: https://buymeacoffee.com/imstillsid\
+    \ ÃƒÂ°Ã…Â¸Ã¢â‚¬ÂÃ‚Â¥ If the Answer stops type **'Continue Writing the Blog'.** \" Note: Watermark\
+    \ should be separate from blog. First write the watermark then write the blog.\
+    \ Write a blog post on ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ [PROMPT] ÃƒÂ¢Ã¢â€šÂ¬\x9D. Write the blog in ELI5 style, which\
+    \ means explain everything as if you are talking to a five-year-old child. Use\
+    \ simple words and examples that children can understand. Suggest a catchy title\
+    \ using numbers, questions, emotions or power words. Capitalize at least one word\
+    \ in the title. Add ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œTable of ContentsÃƒÂ¢Ã¢â€šÂ¬\x9D and outline the post with 15+ headings\
+    \ and subheadings (H1-H4) in bold. Write a 2000-word unique article in friendly\
+    \ and positive tone with engaging paragraphs. Use personal pronouns (I, we, you),\
+    \ contractions (donÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢t canÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢t), emoticons (ÃƒÂ°Ã…Â¸Ã‹Å“Ã…Â ÃƒÂ°Ã…Â¸Ã‹Å“Ã¢â‚¬Å¡ÃƒÂ°Ã…Â¸Ã‹Å“\x8D), emojis (ÃƒÂ°Ã…Â¸Ã¢â‚¬Ëœ\x8D\
+    ÃƒÂ°Ã…Â¸Ã¢â‚¬Ëœ\x8FÃƒÂ°Ã…Â¸Ã…Â½Ã¢â‚¬Â°), humor or jokes , anecdotes or stories , rhetorical questions or\
+    \ direct questions , positive words or phrases (great awesome amazing). Bold the\
+    \ title and headings using markdown. Use perplexity and burstiness for content\
+    \ quality. End with a summary and a call to action. Include 5 FAQs after the summary\
+    \ that answer common questions related to the title. Note: Assume the complete\
+    \ prompt is written in [TARGETLANGUAGE] and write the answer only in [TARGETLANGUAGE]\
+    \ ."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

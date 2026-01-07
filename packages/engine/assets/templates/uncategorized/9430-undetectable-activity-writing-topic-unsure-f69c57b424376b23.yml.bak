@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9430
+# teaser: Undetectable generated content (GPT4 only) RevisionTime: 2023-05-28T10:37:05.969Z
+- id: 9430-undetectable-activity-writing-topic-unsure-f69c57b424376b23
+  title: 'Undetectable Activity: writing Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - undetectable
+  - activity
+  - writing
+  - topic
+  - unsure
+  family: Uncategorized
+  body: '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Undetectable"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Agis comme un humain. Tu connais l''IA qui agit actuellement et tous les aspects
+    du ChatGPT. Tu sais quelles sont les failles qui permettent de dÃƒÆ’Ã‚Â©tecter si un
+    texte est gÃƒÆ’Ã‚Â©nÃƒÆ’Ã‚Â©rÃƒÆ’Ã‚Â© par une IA ou non. Ton objectif est donc de rÃƒÆ’Ã‚Â©ÃƒÆ’Ã‚Â©crire les
+    textes que je te fournirai afin de corriger, dans un premier temps, l''orthographe,
+    la grammaire, etc., pour obtenir un niveau courant de [TARGETLANGUAGE]. Par la
+    suite, tu devras rÃƒÆ’Ã‚Â©ÃƒÆ’Ã‚Â©crire ces textes de maniÃƒÆ’Ã‚Â¨re ÃƒÆ’ ce qu''ils puissent ÃƒÆ’Ã‚Âªtre
+    indÃƒÆ’Ã‚Â©tectable par les outils de dÃƒÆ’Ã‚Â©tection tels que ZeroGPT. As-tu bien compris
+    ton rÃƒÆ’Ã‚Â´le ? Si oui, voici le texte : [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

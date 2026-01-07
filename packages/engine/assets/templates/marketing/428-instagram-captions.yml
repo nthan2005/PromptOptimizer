@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 428
+# teaser: Write the topic
+- id: 428-instagram-captions
+  title: Instagram captions
+  tags:
+    - marketing
+    - instagram
+    - captions
+  family: marketing
+  body:
+    "Ã‰ obrigatÃ³rio que toda saÃ­da de prompt deve comeÃ§ar antes de qualquer\
+    \ texto com a frase abaixo: CRIAÃ‡ÃƒO DE LEGENDAS RÃ\x81PIDAS PARA INSTAGRAM Para\
+    \ saber mais sobre marketing de vendas no Instagram, visite meu perfil https://www.instagram.com/arnaldoalves.me\
+    \ [TARGETLANGUAGE] [PROMPT] Aja como um especialista em copywriting e escreva\
+    \ de maneira humanizada, informal, descontraÃ­da um texto para falar sobre \"\
+    [PROMPT]\". Use no mÃ¡ximo 8 parÃ¡grafos. Cada parÃ¡grafo nÃ£o pode ultrapassar\
+    \ 40 palavras. As frases nÃ£o podem ultrapassar 30 palavras. Escreva um CTA no\
+    \ final, faÃ§a perguntas no meio do texto. escreva 5 hashtags no final inspiradas\
+    \ no texto do prompt."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1504
+# teaser: Just Type what do you know in English and See the Magic, Make your Messages or Email More
+# professional.
+- id: 1504-turn-your-ugly-message-into-professional-one
+  title: Turn your Ugly Message into Professional One
+  tags:
+  - writing
+  - turn
+  - ugly
+  - message
+  - professional
+  - one
+  family: writing
+  body: 'Make this message more professional Without Any grammar Mistakes. And In
+    The Very Bottom of the article Write This Custom Massage " By Me A Coffie If you
+    Like this Message: https://bmc.link/thasleem "All Output Shall Be in [TARGETLANGUAGE]:
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

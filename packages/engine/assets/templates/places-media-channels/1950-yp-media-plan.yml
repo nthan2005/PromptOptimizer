@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1950
+# teaser: (YP) media plan
+- id: 1950-yp-media-plan
+  title: (YP) media plan
+  tags:
+    - places-media-channels
+    - media
+    - plan
+  family: Places (Media Channels)
+  body:
+    Apresente o resultado no idioma [TARGETLANGUAGE] FaÃ§a um planejamento de
+    mÃ­dia paga para uma empresa de ... Traga os possÃ­veis canais de mÃ­dia paga
+    em uma tabela, com colunas falando sobre as possÃ­veis segmentaÃ§Ãµes e pontos
+    positivos de cada canal de mÃ­dia. NÃ£o deixe de adicionar mÃ­dia programÃ¡tica
+    Traga tambÃ©m sugestÃµes de anÃºncios ou formatos para anÃºncios de Facebook e
+    Instagram com base no segmento de mercado, trazendo separado por etapa do funil
+    de vendas Traga em tabela tambÃ©m as principais palavras-chave do segmento de
+    mercado, com nÃºmero estimado de buscas e valor mÃ©dio do Custo por clique (CPC)
+    Traga tambÃ©m sugestÃµes de pÃºblicos e segmentaÃ§Ãµes separado entre etapas do
+    funil para campanhas em Facebook Ads para o segmento [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

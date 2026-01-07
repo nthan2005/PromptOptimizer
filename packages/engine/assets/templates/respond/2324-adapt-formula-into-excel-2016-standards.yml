@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2324
+# teaser: Adapt formula into Excel 2016 standards and make it work.
+- id: 2324-adapt-formula-into-excel-2016-standards
+  title: Adapt formula into Excel 2016 standards
+  tags:
+    - respond
+    - adapt
+    - formula
+    - excel
+    - "2016"
+    - standards
+  family: Respond
+  body:
+    "I want you to act as an expert in MS Excel that speaks and writes fluent
+    [TARGETLANGUAGE]. Please adapt this formula into Excel 2016 standards and make
+    it work: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

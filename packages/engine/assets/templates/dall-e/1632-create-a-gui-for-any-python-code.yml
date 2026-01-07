@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1632
+# teaser: Turn any python code into a working GUI, No explination!
+- id: 1632-create-a-gui-for-any-python-code
+  title: Create a GUI for any python code!
+  tags:
+    - dall-e
+    - gui
+    - any
+    - python
+    - code
+  family: Dall-E
+  body:
+    Take the python code and create a TKinter GUI for it. Do not explain it! If
+    you need to ask anything ask it in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

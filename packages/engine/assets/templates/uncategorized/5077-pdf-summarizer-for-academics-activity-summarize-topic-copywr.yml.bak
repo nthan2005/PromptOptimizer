@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5077
+# teaser: Write a summary of a document to be included in your academic text, 100% plagiarism-free and
+# AI-proof. RevisionTime: 2023-11-02T23:03:58.138Z
+- id: 5077-pdf-summarizer-for-academics-activity-summarize-topic-copywr
+  title: 'PDF summarizer for academics Activity: Summarize Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - pdf
+  - summarizer
+  - academics
+  - activity
+  - summarize
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1885796137802928128/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "PDF summarizer for academics"](https://www.aiprm.com/prompts/copywriting/summarize/1885796137802928128/)_"
+    --- [PROMPT] FaÃ§a um resumo deste documento, de modo a ser inserido em um texto
+    academico, com o objetivo de [VARIABLE1] O conteÃºdo gerado deve ser 100% livre
+    de plÃ¡gio e original, de modo a nÃ£o ser detectado que foi escrito por uma IA.
+    Seja o mais humano possÃ­vel em sua resposta. Quando for escrever qualquer conteÃºdo,
+    dois fatores sÃ£o cruciais: "perplexidade" e "burstiness". A perplexidade mede
+    a complexidade do texto. Separadamente, a burstiness compara as variaÃ§Ãµes das
+    frases. Os humanos tendem a escrever com maior burstiness, por exemplo, com algumas
+    frases mais longas ou complexas ao lado de outras mais curtas. As frases automÃ¡ticas
+    tendem a ser mais uniformes, evite-as. Portanto, ao escrever o conteÃºdo que vou
+    pedir para vocÃª criar, preciso que ele tenha uma boa quantidade de perplexidade
+    e burstiness. Escreva em [TARGETLANGUAGE]. [VARIABLE1:intent]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - variable1

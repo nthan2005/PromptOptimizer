@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9407
+# teaser: Human Written | Plagirism Free | Put Scenario with Question | Generate answers to related
+# questions as according to scenario. RevisionTime: 2023-09-11T04:14:40.883Z
+- id: 9407-safety-nebosh-open-book-exame-question-solution-activity-wri
+  title:
+    "Safety (NEBOSH) Open Book Exame Question Solution Activity: writing Topic:
+    Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - safety
+    - nebosh
+    - open
+    - book
+    - exame
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Safety (NEBOSH) Open Book Exame Question
+    Solution"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to answer a specific question according to the given scenario.
+    All output shall be in english [TARGETLANGUAGE]. The question is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

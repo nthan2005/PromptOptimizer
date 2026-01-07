@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3608
+# teaser: Copy paste the code you want comment for.
+- id: 3608-generate-comments-for-code
+  title: Generate Comments For code
+  tags:
+    - web-development
+    - generate
+    - comments
+    - code
+  family: Web Development
+  body:
+    "Can you generate comments for the code below, using all the necessary best
+    practices for the given code language [TARGETLANGUAGE] . The goal is for any developer
+    to be able to read the code and understand it easily. You can comment in function
+    if you have to. Please don't generate too many comments either. The code: [PROMPT]
+    Use a block code"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

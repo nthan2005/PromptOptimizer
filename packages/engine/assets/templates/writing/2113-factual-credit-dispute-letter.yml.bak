@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2113
+# teaser: Create a Factual Dispute letter based off of 609 of Fair Credit Reporting Act (FCRA).
+- id: 2113-factual-credit-dispute-letter
+  title: Factual Credit Dispute Letter
+  tags:
+  - writing
+  - factual
+  - credit
+  - dispute
+  - letter
+  family: writing
+  body: Your task is to create a credit dispute letter based on factual dispute 609
+    laws in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

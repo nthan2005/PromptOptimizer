@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2889
+# teaser: Create a unique SEO friendly Ai image with Just click. [Enter Your Keyword]
+- id: 2889-one-click-100-unique-ai-image-generator
+  title: One Click 100% Unique Ai Image Generator
+  tags:
+    - marketing
+    - one
+    - click
+    - "100"
+    - unique
+    - image
+  family: marketing
+  body:
+    Based on the keywords, generate a high-quality AI Image [TARGETLANGUAGE] [PROMPT]
+    INPUT = {focus} OUTPUT = {description}\n ![MG](https://image.pollinations.ai/prompt/{description}){description}
+    = {focuseDetailed},%20{adjective1},%20{adjective2},%20{visualStyle1},%20{visualStyle2},%20{visualStyle3},%20{artistreference}
+    INPUT = [input what you wish to see] Remember to change [input what you wish to
+    see]
+  enabled: true
+  required:
+    - adjective1
+    - adjective2
+    - artistreference
+    - description
+    - focus
+    - focusedetailed
+    - mg
+    - prompt
+    - targetlanguage
+    - visualstyle1
+    - visualstyle2
+    - visualstyle3

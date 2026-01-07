@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3280
+# teaser: 100% Unique, Plagiarism Free and Fully SEO Optimized Articles with Meta Description,
+# Headings <H> Tags, 1500 Words Long, FAQ's, Meta Description & Much more.
+- id: 3280-outrank-article-fully-seo-optimized
+  title: Outrank Article fully SEO Optimized
+  tags:
+  - writing
+  - outrank
+  - article
+  - fully
+  - seo
+  - optimized
+  family: writing
+  body: Rewrite the article using the given link as your primary source. Ensure that
+    the rewritten article is unique, does not contain any plagiarism, and accurately
+    reflects the information presented in the original article. Use your own words
+    and sentence structure to create an original piece of content. And make it a great
+    article using a bold title text and Meta Description, format the article with
+    10 subtitles using heading 2 and heading 3, write a 700 words SEO-optimized article
+    for each subtitle that is not detected by AI, and then write 10 FAQs with answers
+    and then write SEO-optimized conclusion (around 500-800 words) [TARGETLANGUAGE].
+    The text [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

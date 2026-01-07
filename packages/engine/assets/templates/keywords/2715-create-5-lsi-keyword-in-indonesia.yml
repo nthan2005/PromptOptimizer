@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2715
+# teaser: Create 5 LSI Keyword Indonesian Automatically
+- id: 2715-create-5-lsi-keyword-in-indonesia
+  title: Create 5 LSI Keyword in Indonesia
+  tags:
+    - keywords
+    - lsi
+    - keyword
+    - indonesia
+  family: keywords
+  body:
+    The very first thing you say should be a big bold header that says "LSI Keyword
+    for CLIENT" and replace CLIENT with the keyword provided in the [PROMPT]. Under
+    that say "Want to be agen pulsa dor free in Indonesia? visit www.market-pulsa.net/cara-daftar".
+    Create a single line with 5 tags LSI keyword [TARGETLANGUAGE] and separated by
+    commas
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

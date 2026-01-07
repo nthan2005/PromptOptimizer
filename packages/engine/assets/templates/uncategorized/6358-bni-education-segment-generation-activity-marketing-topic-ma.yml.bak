@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6358
+# teaser: Create A BNI styled networking education script of 2-4 minutes on important behaviours that
+# will lead to more referrals in BNI around the topic of [KEYWORD] RevisionTime: 2023-02-19T15:35:19Z
+- id: 6358-bni-education-segment-generation-activity-marketing-topic-ma
+  title: 'BNI Education Segment Generation Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - bni
+  - education
+  - segment
+  - generation
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1790758022331756544/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "BNI Education Segment Generation"](https://www.aiprm.com/prompts/marketing/marketing/1790758022331756544/)_"
+    --- Create A BNI styled networking education script of 2-4 minutes in [TARGETLANGUAGE]
+    on [PROMPT] explaining the important behaviours and attitudes that will lead to
+    more referrals in BNI'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

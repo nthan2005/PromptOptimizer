@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6167
+# teaser: content of daily life RevisionTime: 2023-11-09T02:10:05.579Z
+- id: 6167-content-of-daily-life-activity-dall-e-topic-generative-ai-b9
+  title: "content of daily life Activity: Dall-E Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - content
+    - daily
+    - life
+    - activity
+    - dall
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "content of daily life"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- content of daily life [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

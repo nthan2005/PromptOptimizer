@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 167
+# teaser: link article [Keyword]
+- id: 167-translate-article
+  title: Translate article
+  tags:
+    - accounting
+    - translate
+    - article
+  family: Accounting
+  body: Please translate to [TARGETLANGUAGE] article in this link [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

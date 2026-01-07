@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5097
+# teaser: Summarize the functional description of this product in less than fifteen words
+# RevisionTime: 2023-02-25T09:37:40.809Z
+- id: 5097-summarize-activity-summarize-topic-copywriting-00ea56f446414
+  title: "Summarize Activity: Summarize Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - summarize
+    - activity
+    - topic
+    - copywriting
+    - 00ea56f446414284
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Summarize"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Summarize the functional description of this product in less than fifteen
+    words[TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

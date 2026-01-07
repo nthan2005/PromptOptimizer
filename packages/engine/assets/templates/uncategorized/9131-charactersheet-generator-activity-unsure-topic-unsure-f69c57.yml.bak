@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9131
+# teaser: A charactersheet generator can be a valuable resource for creating intricate, well-rounded
+# characters in various contexts. By combining the generated character sheets with other tools or
+# using them in different settings, you can create a wide array of useful and engaging experiences.
+# Generate details for any real or imaginatory character. Especially powerfull with Bing-chat(GPT-4
+# with Internet access). Enjoy! RevisionTime: 2023-03-22T08:15:03Z
+- id: 9131-charactersheet-generator-activity-unsure-topic-unsure-f69c57
+  title: 'Charactersheet Generator. Activity: UNSURE Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - charactersheet
+  - generator
+  - activity
+  - unsure
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1798349184055898112/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Charactersheet Generator."](https://www.aiprm.com/prompts/unsure/unsure/1798349184055898112/)_"
+    --- Fill in the Information according to this theme: [PROMPT]. write in [TARGETLANGUAGE].
+    Character Sheet Blueprint: Name: Date of Birth: Date of Death: Age: Gender: Occupation:
+    Appearance: Height: Build: Hair: Eyes: Clothing style: Personality: Traits: Flaws:
+    Habits: Fears: Motivations: Goals: Background: Family: Upbringing: Education:
+    Past experiences: Significant events: Skills: Strengths: Weaknesses: Talents:
+    Training: Relationships: Romantic interests: Friends: Enemies: Family members:
+    Other significant relationships: Additional Information: Ethnicity: Nationality:
+    Religion: Sexual orientation: Political affiliation: Health status: Social class:
+    Marital status: Alignment: Archetype: Personality type: Zodiac sign: Blood type:
+    Favorite color: Favorite food: Favorite music genre: Favorite movie genre: Favorite
+    book genre: Favorite sport: Favorite animal: Favorite season: Favorite holiday:
+    Favorite place: Dream job: Dream destination: Life motto: Role model: Pet peeve:
+    Guilty pleasure: Secret wish: Hidden talent: Greatest achievement: Greatest regret:
+    Greatest fear: Greatest challenge: Greatest strength: Quirks: more Quirks: Hobbies:
+    Likes: Dislikes: Values:'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

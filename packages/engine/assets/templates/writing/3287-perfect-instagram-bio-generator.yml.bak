@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3287
+# teaser: This promt generates for you a professional Bio for instagram
+- id: 3287-perfect-instagram-bio-generator
+  title: Perfect Instagram Bio Generator
+  tags:
+  - writing
+  - perfect
+  - instagram
+  - bio
+  - generator
+  family: writing
+  body: '[PROMPT] "Act as a professional instagram bio generator, and create a unique,
+    eye-catching with suitable emojis and informative bio for who wants to showcase
+    their skills and experience on their instagram profile. The bio should be brief,
+    engaging and highlight the individual''s professional accomplishments, key strengths,
+    and unique selling points in a concise and attention-grabbing manner. The length
+    of the bio should be within 150 characters. Feel free to use creative language,
+    emojis and hashtags to make the bio stand out and effectively communicate the
+    individual''s professional brand. the goal is that people who see the profile
+    click on follow " [TARGETLANGUAGE] english'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

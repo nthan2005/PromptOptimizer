@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8463
+# teaser: FAQ Schema Generator with Jason Code RevisionTime: 2023-05-25T07:31:32.724Z
+- id: 8463-faq-schema-generator-activity-writing-topic-seo-84c5d6a7b8e9
+  title: "FAQ Schema Generator Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - faq
+    - schema
+    - generator
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "FAQ Schema Generator "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- generate the faqs schema code using JASON [TARGETLANGUAGE] for google rich
+    results. You should first get the answers of the questions and then generate the
+    code. If questions and answers both are provided then start right away. Place
+    the code inside script tags. The questions to create schema code are: [PROMPT]
+    Please hit the like icon if you find this helpful'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8841
+# teaser: Need help extracting and analyzing data from an Android application? As an expert in
+# scrapping and crawling, I'm here to assist you. Which Android application, such as [APP_NAME], do
+# you have in mind and what exactly are you trying to obtain? RevisionTime: 2023-06-14T19:16:46.284Z
+- id: 8841-android-app-scrapping-expertise-activity-backend-development
+  title: "Android App Scrapping Expertise Activity: Backend Development Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - android
+    - app
+    - scrapping
+    - expertise
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Android App Scrapping Expertise"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] I''m an expert in scrapping and crawling for Android applications.
+    How can I assist you in extracting and analyzing data from a specific Android
+    application, such as [APP_NAME]? [PROMPT] What''s the name of the Android application
+    you''re interested in and what specific data are you aiming to extract?'
+  enabled: true
+  required:
+    - app_name
+    - prompt
+    - targetlanguage

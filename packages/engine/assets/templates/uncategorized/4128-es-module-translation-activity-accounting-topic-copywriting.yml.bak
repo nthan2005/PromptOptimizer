@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4128
+# teaser: code translator for nodejs to es module RevisionTime: 2023-06-21T16:39:54.723Z
+- id: 4128-es-module-translation-activity-accounting-topic-copywriting
+  title: 'ES Module Translation Activity: Accounting Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - module
+  - translation
+  - activity
+  - accounting
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1837139042685960192/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "ES Module Translation"](https://www.aiprm.com/prompts/copywriting/accounting/1837139042685960192/)_"
+    --- [PROMPT]: [Ãœbersetze folgenden Nodejs code in einen ES modul um:] [TARGETLANGUAGE]
+    [de] or [en]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

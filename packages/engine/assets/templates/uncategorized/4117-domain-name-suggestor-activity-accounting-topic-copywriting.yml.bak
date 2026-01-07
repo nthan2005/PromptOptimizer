@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4117
+# teaser: Generate A List of 10 Domain Name Suggestion For Your Business RevisionTime:
+# 2023-03-12T12:14:34Z
+- id: 4117-domain-name-suggestor-activity-accounting-topic-copywriting
+  title: 'Domain Name Suggestor Activity: Accounting Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - domain
+  - name
+  - suggestor
+  - activity
+  - accounting
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1800461912547516416/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Domain Name Suggestor"](https://www.aiprm.com/prompts/copywriting/accounting/1800461912547516416/)_"
+    --- Create a 10 doman name in [TARGETLANGUAGE] suggestor depending upon following
+    information typed in sequence separated by | first parameter is industry second
+    is niche and third is the domin name length without extension [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

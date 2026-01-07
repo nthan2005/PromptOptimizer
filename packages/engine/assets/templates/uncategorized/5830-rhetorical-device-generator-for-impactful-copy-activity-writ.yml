@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5830
+# teaser: This rhetorical device generator will make your text as varied as the spices in an Indian
+# curry. Creates a Table with Examples for Important Rhetoric Devices: simile, metaphor, irony,
+# accumulation, allegory, alliteration, anaphora, anticlimax, antithesis, assonance, chiasmus,
+# conversio, diminutive, ellipsis, enjambment, epanalepsy, epiphany, euphemism, hyperbole, inversion,
+# parallelism. Keywords: rhetorical device generator, writing tool, rhetorical devices, writing
+# techniques, figure of speech, literary device, creative writing, writing improvement, writing
+# assistant, writing inspiration, writing prompts, language generator RevisionTime:
+# 2023-03-31T08:49:00.324Z
+- id: 5830-rhetorical-device-generator-for-impactful-copy-activity-writ
+  title:
+    "Rhetorical Device Generator for Impactful Copy Activity: writing Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - rhetorical
+    - device
+    - generator
+    - impactful
+    - copy
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Rhetorical Device Generator for Impactful
+    Copy"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write rhetorical stylistic devices for the word (e.g. adjective) [PROMPT]
+    in [TARGETLANGUAGE]. List the following stylistic devices in a table: simile,
+    metaphor, irony, accumulation, allegory, alliteration, anaphora, anticlimax, antithesis,
+    assonance, chiasmus, conversio, diminutive, ellipsis, enjambment, epanalepsy,
+    epiphany, euphemism, hyperbole, inversion, parallelism in [TARGETLANGUAGE]. The
+    table must be complete and contain all the rhetorical figures indicated. The table
+    should have the following columns in [TARGETLANGUAGE]: Stylistic device, definition
+    (description of the stylistic device), example (example with the word: [PROMPT])
+    in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7370
+# teaser: Would you like to determine the duration of your work on the to-do list in hours and
+# minutes? For instance, working from 10 AM to 11:15 AM would be calculated as 1 hour and 15 minutes.
+# RevisionTime: 2023-03-15T05:53:46Z
+- id: 7370-time-duration-calculator-activity-plan-topic-productivity-b5
+  title: 'Time Duration Calculator Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - time
+  - duration
+  - calculator
+  - activity
+  - plan
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1799328040699031552/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Time Duration Calculator"](https://www.aiprm.com/prompts/productivity/plan/1799328040699031552/)_"
+    --- How many hours and minutes between [PROMPT] in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

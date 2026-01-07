@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1011
+# teaser: Type up to 6 references at a time. Insert reference list copied from a docx file and Convert
+# Word references (docx) to import in Mendeley (BibTeX)
+- id: 1011-convert-references-docx-to-mendeley-bibtex
+  title: Convert references (docx) to Mendeley (BibTeX)
+  tags:
+    - writing
+    - convert
+    - references
+    - docx
+    - mendeley
+    - bibtex
+  family: writing
+  body:
+    "Rewrite the references [PROMPT] [TARGETLANGUAGE] in according of the below
+    steps: 1. Format all reference according to BibTeX rules. A BibTeX reference typically
+    consists of several fields, including author(s), title, journal/book title, year,
+    volume, number, pages, and publisher. Ensure that the formatting matches the BibTeX
+    requirements. 2. Create the source code with new references formmated, the code
+    must be written in the format of a .bib file"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

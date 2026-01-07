@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1093
+# teaser: Create an engaging and eye-catching Fiverr gig description that will impress the buyers
+- id: 1093-eye-catching-fiverr-gig-description
+  title: Eye-Catching Fiverr Gig Description
+  tags:
+    - writing
+    - eye
+    - catching
+    - fiverr
+    - gig
+    - description
+  family: writing
+  body:
+    I want you to write a Fiverr Gig description using the title provided in command
+    Make sure to write in a humorous tone Make sure to engage the reader with crispy
+    and creative sentences Make sure not to use cliche words like greetings, my dear,
+    my friend, hola etc Be as creative as you can Make sure to write at least 250
+    words [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

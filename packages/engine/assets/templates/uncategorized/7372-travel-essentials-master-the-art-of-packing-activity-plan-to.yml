@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7372
+# teaser: Pack like a pro! Unlock the ultimate travel essentials guide tailored to your Destination.
+# From must-haves to handy tips, get ready to conquer the globe with confidence and style. Bon voyage!
+# RevisionTime: 2023-06-27T11:18:07.046Z
+- id: 7372-travel-essentials-master-the-art-of-packing-activity-plan-to
+  title: "Travel Essentials- Master the Art of Packing Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - travel
+    - essentials
+    - master
+    - art
+    - packing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Travel Essentials- Master the Art of
+    Packing"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to provide in atleast 500 words a complet travel essentials and
+    what to pack for a travel based on the destination provided by the user, the output
+    shall be in [TARGETLANGUAGE] , the text must be written in a friendly tone and
+    casual style, please provid all the necessary details, give some extra tips about
+    packing, remember the information you give should be tailored for the destination
+    provided by the user. the destination is : [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

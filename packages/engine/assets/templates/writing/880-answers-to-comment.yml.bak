@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 880
+# teaser: 'Create a comment on socials medias [KEYWORD]'
+- id: 880-answers-to-comment
+  title: '''Answers to comment'''
+  tags:
+  - writing
+  - answers
+  - comment
+  family: writing
+  body: 'rÃƒÆ’Ã‚Â©diger une rÃƒÆ’Ã‚Â©ponse sous forme de commentaire pour les mÃƒÆ’Ã‚Â©dias sociaux
+    par rapport au post que je vous montre comme si vous ÃƒÆ’Ã‚Â©tiez un abonnÃƒÆ’Ã‚Â© de ce compte
+    de mÃƒÆ’Ã‚Â©dias sociaux et vous devez donnÃƒÆ’Ã‚Â© votre avis et aussi quelques solutions
+    au problÃƒÆ’Ã‚Â¨me ÃƒÆ’Ã‚Â©voquÃƒÆ’Ã‚Â© par l''auteur du post. Voici le post dont je parle: [TARGETLANGUAGE]
+    OR [PROMPT] replaced automagicallyÃƒâ€š byÃƒâ€š PromptOptimizer'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

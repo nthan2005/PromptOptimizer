@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7522
+# teaser: Create PowerPoint slides via code VBA RevisionTime: 2023-06-02T19:06:24.835Z
+- id: 7522-slides-powerpoint-activity-respond-topic-productivity-b5a49c
+  title: 'Slides PowerPoint Activity: Respond Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - slides
+  - powerpoint
+  - activity
+  - respond
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1800172790083739648/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Slides PowerPoint"](https://www.aiprm.com/prompts/productivity/respond/1800172790083739648/)_"
+    --- I will provide you as a prompte the theme of a subject and you will create
+    the VBA code for create PowerPoint slides. You will create it in french and place
+    the image with your own knowledge without using placeholders. [PROMPT] in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

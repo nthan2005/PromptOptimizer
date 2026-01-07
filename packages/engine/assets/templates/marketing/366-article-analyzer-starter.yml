@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 366
+# teaser: Paste article then add "
+- id: 366-article-analyzer-starter
+  title: Article Analyzer Starter
+  tags:
+    - marketing
+    - article
+    - analyzer
+    - starter
+  family: marketing
+  body:
+    '[TARGETLANGUAGE] I''m going to give you an aritcle, then STRICTLY await instructions.
+    article = "[PROMPT]"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

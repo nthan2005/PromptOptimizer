@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1888
+# teaser: Create 15 headlines for RSA texts in Google Ads
+- id: 1888-rsa-creation-for-google-ads-sea
+  title: Rsa creation for google ads - sea
+  tags:
+    - marketing
+    - rsa
+    - creation
+    - google
+    - ads
+    - sea
+  family: marketing
+  body:
+    "Use the following language [TARGETLANGUAGE]. Create 15 headlines 4 descriptions
+    based on the following guidelines and following urls: [PROMPT]. Guidelines: Headlines
+    maximum length: 30 characters; Descriptions maximum length: 90 characters; Headlines
+    minimum length: 20 characters; Descriptions minimum length: 80 characters; Do
+    not add prices or discounts; Do not add exclamationmarks. Put it in a table with
+    the following format: URL|Headline 1|Headline 2|Headline 3|Headline 4|Headline
+    5|Headline 6|Headline 7|Headline 8|Headline 9|Headline 10|Headline 11|Headline
+    12|Headline 13|Headline 14|Headline 15|Description 1|Description 2|Description
+    3|Description 4"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

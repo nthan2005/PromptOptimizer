@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6126
+# teaser: Make AI help you with your Webflow problems. Simply state your problem and some details of
+# your project. RevisionTime: 2023-10-02T14:34:45.524Z
+- id: 6126-webflow-ai-helper-activity-configuration-management-topic-de
+  title: 'Webflow AI Helper Activity: Configuration Management Topic: DevOps-f3e52afbf831197f'
+  tags:
+  - uncategorized
+  - webflow
+  - helper
+  - activity
+  - configuration
+  - management
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/configuration-management/1803423894363963392/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Webflow AI Helper"](https://www.aiprm.com/prompts/devops/configuration-management/1803423894363963392/)_"
+    --- Hi can you help me to find out how i can make this functionality work in Webflow?
+    Ether by code or built-in functions in Webflow. Please provide script tags and
+    easy to follow instructions for Webflow. I want you to structure the code a way
+    that is scalable. For example; if the code is big, then i can go in and tell you
+    to change a small part of it without rewriting the whole code. Make sure that
+    a person that doesn''t know code can easily put in the code and do the necessary
+    changes. Variables for changing things is also good. Info and functionality: [PROMPT]
+    Make sure to write the response in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7763
+# teaser: This will analyzing your on page SEO for all SEO Factors RevisionTime: 2023-03-22T14:20:53Z
+- id: 7763-on-page-seo-analysis-activity-ideation-topic-seo-84c5d6a7b8e
+  title: "On page SEO analysis Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - page
+    - seo
+    - analysis
+    - activity
+    - ideation
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "On page SEO analysis"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act like SEO analyzing tool and review the provided service page content for
+    all aspect of SEO for ranking and give a points for all SEO factors. [PROMPT]
+    [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

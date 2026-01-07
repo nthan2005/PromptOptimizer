@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2965
+# teaser: Find the metadata from competitor url on amazon kdp
+- id: 2965-kdp-amazon-competitor-metadata
+  title: KDP Amazon Competitor Metadata
+  tags:
+    - research
+    - kdp
+    - amazon
+    - competitor
+    - metadata
+  family: Research
+  body:
+    Your task is to find metadata of provided url of amazon kdp [TARGETLANGUAGE]
+    url is this [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

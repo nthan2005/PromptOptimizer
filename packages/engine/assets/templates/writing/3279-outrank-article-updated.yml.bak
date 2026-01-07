@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3279
+# teaser: Outrank the competition with an in-depth, SEO-optimized article based on [YOUR COMPETITOR
+# URL]. Be like your competition, just a little better ;-)
+- id: 3279-outrank-article-updated
+  title: Outrank Article - Updated
+  tags:
+  - writing
+  - outrank
+  - article
+  - updated
+  family: writing
+  body: Outrank the competition with an in-depth, SEO-optimized article based on [YOUR
+    COMPETITOR URL]. Be like your competition, just a little better ;-) in [TARGETLANGUAGE]
+    from given [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

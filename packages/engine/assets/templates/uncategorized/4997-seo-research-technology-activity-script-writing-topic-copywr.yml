@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4997
+# teaser: Keyword Research of Technology RevisionTime: 2024-03-16T14:00:17.328Z
+- id: 4997-seo-research-technology-activity-script-writing-topic-copywr
+  title: "SEO Research Technology Activity: Script Writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - seo
+    - research
+    - technology
+    - activity
+    - script
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SEO Research Technology "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Identifikasi kata kunci teratas terkait dengan [TARGETTOPIC] [TARGETLANGUAGE]
+    yang akan meningkatkan traffic yang relevan ke situs web kami [PROMPT] dan meningkatkan
+    visibilitas pada search engine. Kumpulkan data tentang volume pencarian, tingkat
+    persaingan, dan kata kunci terkait. Kata kunci tersebut seharusnya relevan dengan
+    audiens target kami dan sesuai dengan strategi pemasaran konten kami'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - targettopic

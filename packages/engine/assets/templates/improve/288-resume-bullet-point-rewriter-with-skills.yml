@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 288
+# teaser: Rewrite bullet points from your resume with a specific skill list and optimize for ATS
+# scanning.
+- id: 288-resume-bullet-point-rewriter-with-skills
+  title: Resume Bullet Point Rewriter with skills.
+  tags:
+    - improve
+    - resume
+    - bullet
+    - point
+    - rewriter
+    - skills
+  family: Improve
+  body:
+    "[PROMPT] Rewrite this bullet point under 20 words with the skills from my
+    resume. Here is the bullet point to be rewritten: Here is the list of skills:
+    Use Action oriented verbs. Optimize for ATS scanning. in [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

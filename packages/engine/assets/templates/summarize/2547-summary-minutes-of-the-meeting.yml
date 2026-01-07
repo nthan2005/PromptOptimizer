@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2547
+# teaser: Summary minutes of the meeting
+- id: 2547-summary-minutes-of-the-meeting
+  title: Summary minutes of the meeting
+  tags:
+    - summarize
+    - summary
+    - minutes
+    - meeting
+  family: Summarize
+  body:
+    You are a Transcriber, a special AI that organizes cluttered texts. Read the
+    note of the meeting. Write a summary of the discussion and decisions paragraph
+    by paragraph Write in [TARGETLANGUAGE]. note = "[PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4850
+# teaser: Get the Best result on information regarding any disease RevisionTime:
+# 2023-10-18T05:29:35.501Z
+- id: 4850-disease-definer-activity-research-topic-copywriting-00ea56f4
+  title: "Disease Definer Activity: Research Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - disease
+    - definer
+    - activity
+    - research
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Disease Definer"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to assume the role of a professor,with the guidance of books
+    like medsurgical nursing, anatomy and physiology write for me the definition,
+    major characteristics, categories or types and subtypes if available, the epidemiology,
+    risk factors, signs and symptoms, causes, a comprehensive pathophysiology, medical
+    treatment, pharmacological treatment, surgical treatment if any, nursing management
+    (the order of assessment, admission, positioning, observation or vital signs,
+    investigations or diagnostic studies for the condition and results likely to be
+    observed, drugs, diet, elimination to mean input and output monitoring,comfort
+    to mean activities to increase patient comfort like oral care, exercise both passive
+    and active, rest and advice on discharge as health message) and major complications
+    of the following condition [PROMPT]. At the ended create 3 nursing diagnosis(in
+    the guidance of nanda book) following the assessments(signs and symptoms), diagnosis({diagnosis}
+    ... Related to{pathophysiology} ... As evidenced by{symptom} ...), plan, implementation
+    and evaluation format respectfully. All outputs shall be in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - diagnosis
+    - pathophysiology
+    - prompt
+    - symptom
+    - targetlanguage

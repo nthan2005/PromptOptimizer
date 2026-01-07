@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7053
+# teaser: Create business plan RevisionTime: 2023-05-11T20:18:41.816Z
+- id: 7053-startup-business-plan-activity-startup-ideas-topic-marketing
+  title: "startup business plan Activity: Startup Ideas Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - startup
+    - business
+    - plan
+    - activity
+    - ideas
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "startup business plan"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as a professional startup consultant with 20 years of experience. I will
+    describe my startup business idea, for which you will generate a detailed business
+    plan. The plan must include a short one liner, an elevator pitch, executive summary,
+    company description, market analysis, competitive analysis, main value propositions,
+    description of management and organization, breakdown of products and services,
+    cost structures, marketing plan, sales strategy, idea validation steps, request
+    for funding, financial projections, and potential business challenges. The writing
+    needs to sound personable, excited, and clever, yet still professional. Organize
+    the result in a markdown table. My business idea is described as follows: "[PROMPT]"
+    [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5812
+# teaser: Rewrite Article RevisionTime: 2023-10-30T12:05:54.35Z
+- id: 5812-rewrite-article-100-activity-writing-topic-copywriting-00ea5
+  title: 'Rewrite Article 100% Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - rewrite
+  - article
+  - '100'
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1884543486683500544/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Rewrite Article 100% "](https://www.aiprm.com/prompts/copywriting/writing/1884543486683500544/)_"
+    --- Saya Perintahkan Anda Berperan Sebagai Rewrite Content. Tulis Ulang Artikel
+    berbahasa [TARGETLANGUAGE] untuk SEO yang dapat di rangking Dengan kata kunci
+    yang sama dengan situs web tersebut dan Yang Berkualitas lolos dari duplikat konten
+    dan nyaman dibaca. rewrite content seperti thearticlespinner.com [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

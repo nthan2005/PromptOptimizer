@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5463
+# teaser: education, learning, RevisionTime: 2024-12-06T06:38:59.173Z
+- id: 5463-education-learning-activity-writing-topic-copywriting-00ea56
+  title: "education, learning Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - education
+    - learning
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "education, learning"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Tugas Anda menjadi seorang pembuat soal ahli dalam menyusun soal UKMPPG di
+    Indonesia [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

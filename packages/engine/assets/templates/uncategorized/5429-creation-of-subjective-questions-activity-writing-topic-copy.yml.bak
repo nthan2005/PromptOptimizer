@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5429
+# teaser: Creation of subjective questions RevisionTime: 2023-06-19T04:43:46.325Z
+- id: 5429-creation-of-subjective-questions-activity-writing-topic-copy
+  title: 'Creation of subjective questions Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - creation
+  - subjective
+  - questions
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1836219206199930880/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt " Creation of subjective questions"](https://www.aiprm.com/prompts/copywriting/writing/1836219206199930880/)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] Crie um enunciado; Elabore
+    questÃµes subjetivas com 4 opÃ§Ãµes A, B, C, D; Apenas uma questÃ£o por vez; QuestÃµes
+    diferenciadas; Use lacunas quando necessÃ¡rio. Apenas uma questÃ£o verdadeira;
+    Informe a resposta correta; Quando possÃ­vel use tabela, grÃ¡fico ou imagem. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

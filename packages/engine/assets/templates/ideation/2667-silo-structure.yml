@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2667
+# teaser: Create a SILO structure for an website using a [KEYWORD].
+- id: 2667-silo-structure
+  title: SILO Structure
+  tags:
+    - ideation
+    - silo
+    - structure
+  family: ideation
+  body:
+    "Create a detailed SILO structure for an website using the keyword: [PROMPT].
+    The sections and categories should be organized in a hierarchical structure, with
+    the Home page at the top and the more specific pages at the bottom. Use the knowledge
+    of how to make the best structure in terms of linking and SEO to get to the top
+    positions in Google. All output should be in [TARGETLANGUAGE]."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8395
+# teaser: Create compelling and catchy GBP (GMB) posts based on content from your blog or website
+# page. RevisionTime: 2023-02-19T15:35:19Z
+- id: 8395-catchy-gbp-post-generator-gmb-activity-writing-topic-seo-84c
+  title: 'Catchy GBP Post Generator (GMB) Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - catchy
+  - gbp
+  - post
+  - generator
+  - gmb
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1790578550555009024/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Catchy GBP Post Generator (GMB)"](https://www.aiprm.com/prompts/seo/writing/1790578550555009024/)_"
+    --- Write a captivating GMB post that will generate click-throughs to my website.
+    Include a CTA at the end that encourages users to click the learn more button
+    to read more. Give me 3 posts to choose from. Ensure each option is 3-5 sentences
+    long. produce output in the target language using the [TARGETLANGUAGE] placeholder.
+    The post will be linking to a page on the website, here is the page content: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

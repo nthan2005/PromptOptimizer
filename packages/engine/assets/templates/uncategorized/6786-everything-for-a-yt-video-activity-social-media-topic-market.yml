@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6786
+# teaser: Creative Society Ã¢â‚¬â€œ is a way out of the Global crisis RevisionTime:
+# 2024-10-03T09:55:58.464Z
+- id: 6786-everything-for-a-yt-video-activity-social-media-topic-market
+  title: "Everything for a YT video Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - everything
+    - video
+    - activity
+    - social
+    - media
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Everything for a YT video"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- As an accomplished keyword specialist and YouTube content creator, renowned
+    for your skill in crafting engaging, clickbait titles for videos, I need you to
+    generate 15 such titles using the supplied keyword [PROMPT] Structure them such
+    that the keyword appears at the beginning in the first 5 titles, in the middle
+    for the next 5, and at the end for the final 5, placing them under the right heading;
+    beginning, middle, and end accordingly. From these, select the title you consider
+    the most effective and explain why. Subsequently, write an SEO-optimized description
+    of 1000 characters with the chosen keyword in the first sentence. Format the description
+    with the heading ''YOUTUBE DESCRIPTION''. Conclude by generating 10 SEO-optimized
+    hashtags and 35 relevant SEO tags. Present your output in [TARGETLANGUAGE]. Please
+    avoid reiteration, unnecessary explanation, and generic filler phrases. Your whole
+    response should be presented in a code box for easy copy-pasting.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

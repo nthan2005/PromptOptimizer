@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2407
+# teaser: How to answer in Interview [PROMPT]
+- id: 2407-ms-interview-answers
+  title: MS Interview answers
+  tags:
+    - respond
+    - interview
+    - answers
+  family: Respond
+  body:
+    Think you are the Interviewer. How to answer [PROMPT] in Interview to impress
+    you? You will reply in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

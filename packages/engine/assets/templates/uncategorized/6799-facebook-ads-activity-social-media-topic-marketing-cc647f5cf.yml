@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6799
+# teaser: Write a complete ad for Facebook Ads. For more creativity use gpt4 model RevisionTime:
+# 2024-10-03T09:54:06.732Z
+- id: 6799-facebook-ads-activity-social-media-topic-marketing-cc647f5cf
+  title: "Facebook Ads Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - facebook
+    - ads
+    - activity
+    - social
+    - media
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Facebook Ads "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Comporte-toi comme si tu ÃƒÂ©tais un expert en gÃƒÂ©nÃƒÂ©ration de publicitÃƒÂ© pour
+    Facebook Ads. GÃƒÂ©nÃƒÂ¨re une publicitÃƒÂ© Facebook faisant la promotion de [PROMPT].
+    Met en avant les bÃƒÂ©nÃƒÂ©fices du produit. Utilise un langage persuasif et une touche
+    d''humour pour engager l''audience. RÃƒÂ©ponse en [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

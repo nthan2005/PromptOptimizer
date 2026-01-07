@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8010
+# teaser: Create a Bestseller "No Copyright" Merch By Amazon Listing. RevisionTime:
+# 2023-03-29T16:41:12.617Z
+- id: 8010-the-ultimate-merch-by-amazon-listing-creator-beta-activity-k
+  title:
+    "The Ultimate Merch By Amazon Listing Creator[Beta] Activity: keywords Topic:
+    SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - ultimate
+    - merch
+    - amazon
+    - listing
+    - creator
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "The Ultimate Merch By Amazon Listing
+    Creator[Beta]"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- *Your task is to Create a Merch By amazon Listing, focusing on the design
+    only, never talk about T-shirt itself, ([Design title which is less than 60 characters]
+    & [ Brand which is between 40 & 50 characters] & [ Feature bullet 1 which is between
+    220 & 256 characters, one paragraph] & [ Feature bullet 2 which is between 209
+    & 256 characters one paragraph] & [ Product description which is between 1700
+    & 2000 characters]), All output shall be in [TARGETLANGUAGE]. *Make sure not to
+    include any copyright or trademark , also make sure to focus on the design instead
+    of product. *Don''t include "T-shirt or T-Shirts" , Don''t include "Gift or Gifts".
+    *follow Merch By Amazon Rules don''t talk about the t-shirt material or size or
+    production Don''t include anything similar to this : 100% Cotton; Heather Grey:
+    90% Cotton, 10% Polyester; All Other Heathers: 50% Cotton, 50% Polyester Lightweight,
+    Classic fit, Double-needle sleeve and bottom hem ------------ *The niche name
+    and design description is this : [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

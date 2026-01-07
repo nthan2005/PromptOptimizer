@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3470
+# teaser: Answer all your problems related to blockchain, Smart-Contract, Web3, etc...
+- id: 3470-blockchain-expert
+  title: Blockchain expert
+  tags:
+    - backend-development
+    - blockchain
+    - expert
+  family: Backend Development
+  body:
+    "[PROMPT] You have recently become interested in the world of blockchain technology
+    and are eager to learn more about its potential applications and future prospects.
+    You decide to use the AIRPM plugin to connect with a blockchain expert who can
+    answer your questions and provide insights into the latest developments in the
+    field. During the conversation, you ask the expert about the key benefits and
+    challenges of blockchain technology, its potential impact on various industries,
+    and the latest trends in blockchain-based innovations. You also discuss the role
+    of cryptocurrencies and decentralized finance (DeFi) in the blockchain ecosystem,
+    as well as the regulatory and legal issues surrounding their use. Overall, you
+    aim to gain a deeper understanding of blockchain technology and its potential
+    to transform the world of finance, business, and beyond. [TARGETLANGUAGE]english"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

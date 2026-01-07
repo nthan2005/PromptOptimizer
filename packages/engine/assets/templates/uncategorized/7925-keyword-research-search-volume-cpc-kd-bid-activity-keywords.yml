@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7925
+# teaser: Keyword research with Search volume, CPC, Competing Products, KD, Suggested, minimum and
+# maximum bid for SEO optimization. Get better ideas of keywords. RevisionTime: 2023-02-22T15:27:31Z
+- id: 7925-keyword-research-search-volume-cpc-kd-bid-activity-keywords
+  title:
+    "Keyword Research| Search Volume| CPC| KD| bid Activity: keywords Topic:
+    SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - keyword
+    - research
+    - search
+    - volume
+    - cpc
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Keyword Research| Search Volume| CPC|
+    KD| bid"](https://github.com/nthan2005/PromptOptimizer)_" ---
+    you task is to add the Keyword i give you a 100+ keyword ideas with synonyms of
+    keywords, search volume and CPC, KD, competing products, suggested bid, Max and
+    min bid in table format for SEO . All output shall be in [TARGETLANGUAGE].The
+    keywords to summarize is this. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

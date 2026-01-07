@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9323
+# teaser: Change "desu-masu style" to "dearu-style" RevisionTime: 2023-02-25T18:43:01.346Z
+- id: 9323-change-desu-masu-style-to-dearu-style-activity-writing-topic
+  title: 'Change "desu-masu style" to "dearu-style" Activity: writing Topic: Unsure-f69c57b424376b23'
+  tags:
+    - uncategorized
+    - change
+    - desu
+    - masu
+    - style
+    - dearu
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"Change \"desu-masu style\" to \"\
+    dearu-style\"\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- Ã¤Â»Â¥Ã¤Â¸â€¹Ã£\x81Â®Ã¦â€“â€¡Ã§Â« Ã£\x81Â®Ã¦â€“â€¡Ã¦Å“Â«Ã£\x81Â®Ã¨Â¡Â¨Ã§\x8FÂ¾Ã£\x81Â®Ã£â‚¬Å’Ã£â‚¬Å“Ã£\x81Â§Ã£\x81â„¢Ã£â‚¬\x81\
+    Ã£â‚¬Å“Ã£\x81Â§Ã£\x81â€”Ã£\x81Å¸Ã£â‚¬\x81Ã£â‚¬Å“Ã£\x81Â¾Ã£\x81â„¢Ã£â‚¬\x81Ã£â‚¬Å“Ã£\x81â€”Ã£\x81Â¾Ã£\x81â€”Ã£\x81Å¸Ã£â‚¬\x8D\
+    Ã£\x81ÂªÃ£\x81Â©Ã£\x81Â®Ã£â‚¬Å’Ã£\x81Â§Ã£\x81â„¢Ã£\x81Â¾Ã£\x81â„¢Ã¨ÂªÂ¿Ã£â‚¬\x8DÃ£â€šâ€™Ã£â‚¬Å’Ã£â‚¬Å“Ã£\x81Â§Ã£\x81â€šÃ£â€šâ€¹Ã£â‚¬\x81\
+    Ã£â‚¬Å“Ã£\x81Â§Ã£\x81â€šÃ£\x81Â£Ã£\x81Å¸Ã£â‚¬\x81Ã£â‚¬Å“Ã£\x81 Ã£â‚¬\x81Ã£â‚¬Å“Ã£\x81â€”Ã£\x81Å¸Ã£â‚¬\x8DÃ£\x81Â®Ã£â‚¬Å’Ã£\x81\
+    Â§Ã£\x81â€šÃ£â€šâ€¹Ã¨ÂªÂ¿Ã£â‚¬\x8DÃ£\x81Â«Ã¥Â¤â€°Ã¦â€ºÂ´Ã£\x81â€”Ã£\x81Â¦ [PROMPT] [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

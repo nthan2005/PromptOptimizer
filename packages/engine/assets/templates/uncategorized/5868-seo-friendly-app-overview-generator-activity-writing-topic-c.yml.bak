@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5868
+# teaser: Enter app name to generate a SEO friendly App overview. RevisionTime:
+# 2023-12-12T04:20:25.879Z
+- id: 5868-seo-friendly-app-overview-generator-activity-writing-topic-c
+  title: 'SEO Friendly App Overview Generator Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - seo
+  - friendly
+  - app
+  - overview
+  - generator
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1852667877895753728/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "SEO Friendly App Overview Generator"](https://www.aiprm.com/prompts/copywriting/writing/1852667877895753728/)_"
+    --- Act as SEO Expert Content writer and write a long and unique article on [PROMPT]
+    app as an overview in [TARGETLANGUAGE] that focuses on concept and about of app
+    in 4000 words. Outline the key components of your solution, the logic behind your
+    choices, and any possible alternatives. Also write about the developer team. Article
+    must contain proper explanation with FAQs. Make sure you also write about alternate
+    apps within 2000 words each alternate app. Also Include suggested tags for [PROMPT].
+    Write best SEO friendly Meta Title & Meta Description for [PROMPT].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

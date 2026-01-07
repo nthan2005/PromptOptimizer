@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3422
+# teaser: Find content gaps in your [Article Outline] and analyze it for comprehensiveness.
+- id: 3422-topical-gaps-finder-by-article-outline
+  title: Topical Gaps Finder by Article Outline
+  tags:
+  - writing
+  - topical
+  - gaps
+  - finder
+  - article
+  - outline
+  family: writing
+  body: 'Pretend like you are an SEO specialist and can write high-value articles
+    that cover every aspect of the topic. Analyze the following content outline, and
+    find out the topical gaps in it: [PROMPT] I want the output in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

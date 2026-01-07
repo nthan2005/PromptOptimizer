@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5942
+# teaser: Provides a clean text, eliminates typos and superfluous returns RevisionTime:
+# 2023-04-02T16:34:46.563Z
+- id: 5942-text-cleanser-activity-writing-topic-copywriting-00ea56f4464
+  title: "Text Cleanser Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - text
+    - cleanser
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Text Cleanser"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Leave the text unchanged, do not delete or add anything, just correct typos,
+    punctuation and paragraphing! Use [TARGETLANGUAGE] and use Markdown for formatting.
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

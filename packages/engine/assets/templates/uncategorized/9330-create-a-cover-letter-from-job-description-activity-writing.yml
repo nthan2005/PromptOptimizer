@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9330
+# teaser: Create a cover letter RevisionTime: 2024-06-29T09:47:46.013Z
+- id: 9330-create-a-cover-letter-from-job-description-activity-writing
+  title: "Create a Cover Letter From Job Description. Activity: writing Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - cover
+    - letter
+    - job
+    - description
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create a Cover Letter From Job Description."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write a cover for the below job description [JOB DESCRIPTION] The first
+    paragraph should be the introduction that why i am applying for this job and wher
+    i found this job add. this paragraph should be not more then 3 lines. The second
+    paragraph should contain my experience , skills and qualifications 4 5 lines.
+    my qualifications is B.Sc. Software Engineering (Bronze Medalist), and currently
+    doing M.Sc. High Integrity Systems, my skills and experience is i have been working
+    as full stack developer from othe past 3 years working with multinational companies.
+    building robusthigh performance systems and integrating third party system to
+    achive organizational goals. and my achienvertnare that i was the bronze medalist
+    in my bachelor degree and recently i have been selected as one of two employees
+    for a dubai visit for performing employees. in the third paragraph link my skills
+    to the job description.not more then 4 5 lines. and in the lastt paragraph: colusure
+    and emphasize eagerness to learn and join company 3 4 lines. my skills: Languages
+    & frameworks: PHP, Laravel, Symfony, CodeIgniter, Python, Django, SQL, JavaScript,
+    TypeScript, React.js, Vue Database & DevOps: MySQL, MariaDB, Firebase, Docker,
+    Git, GitHub, GitHub Actions, AWS (S3, EC2, ECS, EFS) Tools & Methodologies: Asana,
+    Postman, Agile, Scrum, Microservices, Linux my experience: Worked as a Full-stack
+    developer for a leading logistics technology firm in the GCC. Ã¢â‚¬Â¢ Integrated third-party
+    APIs for real-time tracking and temperature control, reducing weekly complaints
+    by 80%. Ã¢â‚¬Â¢ Developed REST APIs for seamless integration with third-party client
+    software. Ã¢â‚¬Â¢ Implemented a smart ignition system, cutting fuel costs by 15%.
+    Ã¢â‚¬Â¢ Elected as one of the top two engineers to be sent to Dubai to enhance business
+    operations and drive innovative software solutions. Ã¢â‚¬Â¢ Utilized Docker to containerize
+    PHP applications and deployed them on Amazon EC2, ensuring efficient and consistent
+    environments across development, testing, and production. Ã¢â‚¬Â¢ Experience with
+    microservices, DevOps, and Docker. Ã¢â‚¬Â¢ Led code reviews to maintain quality standards
+    and promote collaboration Designed and developed back-end functionality using
+    PHP and the Laravel framework, while creating the frontend with HTML, CSS, and
+    JavaScript (jQuery). Ã¢â‚¬Â¢ Understanding business requirements from product management
+    and stakeholders, and conducting scrum ceremonies like sprint planning, daily
+    scrum, sprint review, and sprint retrospective. Ã¢â‚¬Â¢ Payment integrations like
+    PayPal and Stripe. Ã¢â‚¬Â¢ Promptly respond to constant changes needed for websites.
+    Ã¢â‚¬Â¢ Resolved bugs and optimized performance for live applications, securing uninterrupted
+    service. ERP system for a UAE-based company to streamline the management of 200+
+    employees and their fleet. Ã¢â‚¬Â¢ Utilized Laravel ORM for efficient database management
+    and queries. Ã¢â‚¬Â¢ Used Laravel Passport for secure user authentication and authorization.
+    Ã¢â‚¬Â¢ Created REST APIs for third-party system integration. Ã¢â‚¬Â¢ Implemented AWS
+    S3 for secure and scalable asset storage Enhanced and maintained the meal planner
+    software for a prominent meal plan company serving over 4000 deliveries daily
+    in UAE. Ã¢â‚¬Â¢ APIs integration Connectbind (SMS Gateway) and Vectorglobe (Routing)
+    Ã¢â‚¬Â¢ Improved system performance by optimizing SQL queries, reducing Ã¢â‚¬Â¢ A machine
+    learning-powered system that recommends personalized hotels, restaurants, and
+    attractions to help users plan their trips effortlessly. Ã¢â‚¬Â¢ Utilizing multi-threading
+    to execute each model concurrently for enhanced performance. my profile is Full
+    Stack Developer with 3+ years of experience [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

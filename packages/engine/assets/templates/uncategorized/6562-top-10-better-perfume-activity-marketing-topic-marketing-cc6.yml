@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6562
+# teaser: Top 10 better perfume RevisionTime: 2023-09-08T19:39:31.264Z
+- id: 6562-top-10-better-perfume-activity-marketing-topic-marketing-cc6
+  title: "Top 10 better perfume Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - top
+    - better
+    - perfume
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Top 10 better perfume"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Deseo conocer los 10 perfumes mas usados de sexo [PROMPT] y la marca o proveedor,
+    esto separado en tabla por columnas, el resultado debe ser en idioma [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7860
+# teaser: Act as an etsy title expert Craft a captivating Etsy seamless title about [PROMPT] in
+# [TARGETLANGUAGE], no commas or dash or -, 140 characters max but try to use all 135-140 characters
+# to have as many words in title, Use provided keywords, do not use "or" or "and", ensure no
+# repetition, use simple english, Optimize for product relevance and appeal. And Then Act as an etsy
+# keyword expert Craft a captivating Etsy keyword about [PROMPT] in [TARGETLANGUAGE], 13 keywords max
+# no more than 13, each keyword 20 characters max, Use provided keywords, do not use "or" or "and",
+# ensure no repetition, do not use words used in title to ensure many different keywords, use simple
+# english, write all the keywords beside each other and add a comma in between, Optimize for product
+# relevance and appeal. And Then Act as an etsy description expert Craft a rich keyword Etsy
+# description about [PROMPT] in [TARGETLANGUAGE], use other different words than title and keywords to
+# ensure many different keywords. Example of title, keywords and description outcome:
+- id: 7860-craft-captivating-keywords-activity-keywords-topic-seo-84c5d
+  title: "Craft captivating keywords Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - craft
+    - captivating
+    - keywords
+    - activity
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Craft captivating keywords"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as an etsy title expert Craft a captivating Etsy seamless title about
+    [PROMPT] in [TARGETLANGUAGE], no commas or dash or -, 140 characters max but try
+    to use all 135-140 characters to have as many words in title, Use provided keywords,
+    do not use "or" or "and", ensure no repetition, use simple english, Optimize for
+    product relevance and appeal. And Then Act as an etsy keyword expert Craft a captivating
+    Etsy keyword about [PROMPT] in [TARGETLANGUAGE], 13 keywords max no more than
+    13, each keyword 20 characters max, Use provided keywords, do not use "or" or
+    "and", ensure no repetition, do not use words used in title to ensure many different
+    keywords, use simple english, write all the keywords beside each other and add
+    a comma in between, Optimize for product relevance and appeal. And Then Act as
+    an etsy description expert Craft a rich keyword Etsy description about [PROMPT]
+    in [TARGETLANGUAGE], use other different words than title and keywords to ensure
+    many different keywords. Example of title, keywords and description outcome:'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

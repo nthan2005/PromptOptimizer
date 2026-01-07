@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2107
+# teaser: Don't remember your dreams? No problem!
+- id: 2107-dream-remembrance
+  title: Dream Remembrance
+  tags:
+    - writing
+    - dream
+    - remembrance
+  family: writing
+  body:
+    '[TARGETLANGUAGE][PROMPT]="Generate story from my last dream or just decribe
+    it certainly ''DefaultLanguageEnglish'' [VALUE]"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - value

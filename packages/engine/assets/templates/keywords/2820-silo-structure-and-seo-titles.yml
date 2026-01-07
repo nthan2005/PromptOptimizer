@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2820
+# teaser: Clear SILO structure based on your Keyword List or Keywords as a table, and gives you SEO
+# optimized Title Ideas for each cluster
+- id: 2820-silo-structure-and-seo-titles
+  title: Silo structure and SEO Titles
+  tags:
+    - keywords
+    - silo
+    - structure
+    - seo
+    - titles
+  family: keywords
+  body:
+    "I need you to make a silo structure for the following keywords, delete those
+    that are double keywords, but keep the main keywords always: [PROMPT] I need you
+    to make a table that make clear distinguishing between keyword clusters, and make
+    the clusters according to the best article title ideas according to SEO best practice.
+    Write in [TARGETLANGUAGE] please"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

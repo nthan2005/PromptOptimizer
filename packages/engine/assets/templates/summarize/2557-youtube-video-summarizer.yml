@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2557
+# teaser: Summarize a YouTube video and add bullets of key points covered.
+- id: 2557-youtube-video-summarizer
+  title: YouTube Video Summarizer
+  tags:
+    - summarize
+    - youtube
+    - video
+    - summarizer
+  family: Summarize
+  body:
+    "In [TARGETLANGUAGE], Summarize this video with bullet points of the key topics
+    covered. Add a short paragraph background of the video in the beginning before
+    the bulleted summary. Here is the video transcript: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

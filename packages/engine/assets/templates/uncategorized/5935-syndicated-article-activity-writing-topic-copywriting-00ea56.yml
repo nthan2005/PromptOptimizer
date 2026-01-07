@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5935
+# teaser: Recycle an article with new or updated content. RevisionTime: 2023-07-24T11:01:38.928Z
+- id: 5935-syndicated-article-activity-writing-topic-copywriting-00ea56
+  title: "Syndicated Article Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - syndicated
+    - article
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Syndicated Article"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to write 3 introduction paragraphs with a least 50 words about
+    the given topic. Then elaborate on the topic further in 800 words using an active
+    voice. Each paragraph should have a header. All outputs will be in [TARGETLANGUAGE]
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

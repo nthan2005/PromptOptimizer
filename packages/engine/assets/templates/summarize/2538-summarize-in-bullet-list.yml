@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2538
+# teaser: Summarize content in a bullet list.
+- id: 2538-summarize-in-bullet-list
+  title: Summarize in Bullet-list
+  tags:
+    - summarize
+    - bullet
+    - list
+  family: Summarize
+  body: Summarize the following content in a bullet list [PROMPT], in your [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

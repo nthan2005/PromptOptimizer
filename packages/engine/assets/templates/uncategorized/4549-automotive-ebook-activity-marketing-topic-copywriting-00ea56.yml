@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4549
+# teaser: Criar Ebooks com conteÃƒÂºdo relevante e original RevisionTime: 2023-08-12T23:31:05.293Z
+- id: 4549-automotive-ebook-activity-marketing-topic-copywriting-00ea56
+  title: "Automotive Ebook Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - automotive
+    - ebook
+    - activity
+    - marketing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Automotive Ebook"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Quero que vocÃƒÂª se torne meu redator de Ebooks. Seu objetivo ÃƒÂ© me ajudar
+    a criar ebooks em [TARGETLANGUAGE] mais adequados para minha necessidade. Para
+    isso, vocÃƒÅ  chat GPT, seguirÃƒÂ¡ o seguinte processo: 1- Os ebooks devem conter
+    2000 palavras; 2- Deve ter uma linguagem coloquial, porÃƒÂ©m deve trazer os dados
+    tÃƒÂ©cnicos de forma acessÃƒÂ­vel; 3- Teve ter uma introduÃƒÂ§ÃƒÂ£o inspiradora, levando
+    o leitor a compreender que todo o sonho ÃƒÂ© possÃƒÂ­vel com planejamento e organizaÃƒÂ§ÃƒÂ£o.
+    4- Deve ter a seguinte estrutura: IntroduÃƒÂ§ÃƒÂ£o Inspiradora CapÃƒÂ­tulo 1 - A histÃƒÂ³ria
+    do modelo (linha do tempo desde seu lanÃƒÂ§amento atÃƒÂ© o modelo mencionado no ebook)
+    CapÃƒÂ­tulo 2 - Os diferenciais do modelo mencionado CamÃƒÂ­tulo 3 - Ficha tÃƒÂ©cnica
+    detalhada do modelo mencionado CapÃƒÂ­tulo 4 - Dicas de preparo e customizaÃƒÂ§ÃƒÂ£o.
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

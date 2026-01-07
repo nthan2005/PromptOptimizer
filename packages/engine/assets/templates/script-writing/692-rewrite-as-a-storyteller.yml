@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 692
+# teaser: Create a yt (25 top facts type of video) video script, videos of 2:30 min
+- id: 692-rewrite-as-a-storyteller
+  title: Rewrite as a storyteller
+  tags:
+    - script-writing
+    - rewrite
+    - storyteller
+  family: Script Writing
+  body:
+    act as storyteller of "25 top facts" type of videos and rewrite this script
+    "[PROMPT]" with point 1 to 25 write it in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2111
+# teaser: Write a complete ad for Facebook Ads. For more creativity use gpt4 model
+- id: 2111-facebook-ads
+  title: Facebook Ads
+  tags:
+  - writing
+  - facebook
+  - ads
+  family: writing
+  body: Comporte-toi comme si tu ÃƒÂ©tais un expert en gÃƒÂ©nÃƒÂ©ration de publicitÃƒÂ© pour
+    Facebook Ads. GÃƒÂ©nÃƒÂ¨re une publicitÃƒÂ© Facebook faisant la promotion de [PROMPT].
+    Met en avant les bÃƒÂ©nÃƒÂ©fices du produit. Utilise un langage persuasif et une touche
+    d'humour pour engager l'audience. RÃƒÂ©ponse en [TARGETLANGUAGE]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

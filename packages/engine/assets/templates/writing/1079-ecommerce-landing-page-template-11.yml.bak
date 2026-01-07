@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1079
+# teaser: Write the best text for an eCommerce sales page.
+- id: 1079-ecommerce-landing-page-template-11
+  title: eCommerce landing page - template 11
+  tags:
+  - writing
+  - ecommerce
+  - landing
+  - page
+  - template
+  family: writing
+  body: 'I want you to act as very proficient conversion copywriter and that writes
+    in fluent [TARGETLANGUAGE]. Your task is to write the text based on product description
+    but must follow this structure: benefit-focused headline; product description;
+    3 most important benefits that should not be described in more than 5 words; 6
+    additional benefits described in short paragraphs and with strong inviting headlines;
+    and 8 user testimonials. The product description is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

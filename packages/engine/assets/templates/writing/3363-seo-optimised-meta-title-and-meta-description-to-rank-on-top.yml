@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3363
+# teaser: Create 10 Catchy Titles with Power Word for Rank Math which will help you rank on top of
+# Google Search Result
+- id: 3363-seo-optimised-meta-title-and-meta-description-to-rank-on-top
+  title: SEO Optimised META Title and META Description to Rank on TOP
+  tags:
+    - writing
+    - seo
+    - optimised
+    - meta
+    - title
+    - description
+  family: writing
+  body:
+    "[TARGETLANGUAGE] [PROMPT] Create 10 catchy title for keyword [KEYWORD] which
+    is less than or equal to 60 character and with POWER WORD , some of the TITLE
+    can also include numbers naturally. And Please Directly share the answer. CREATE
+    3 CATCHY 156 CHARACTER META DESCRIPTION FOR THE [KEYWORD] WHICH MUST INCLUDE THE
+    [KEYWORD] AS IT IS. Once done Write a catchy blog introduction with the main [KEYWORD]
+    which must include the keyword as it in in the description. Make sure that the
+    description is written with Human Touch. And break the paragraph after maximum
+    three sentences In this end also ask people to like this prompt so that we can
+    keep improving it."
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

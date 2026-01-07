@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2417
+# teaser: Create a professional job posting [title]
+- id: 2417-professional-job-posting
+  title: Professional Job Posting
+  tags:
+    - respond
+    - professional
+    - job
+    - posting
+  family: Respond
+  body:
+    'Interagiere als Recruiting Spezialist und schreibe fÃ¼r mich eine professionelle
+    Stellenanzeige. Schreibe sie in der "Du" Form und in Stichpunkten und nutze dabei
+    die typische Gliederung (Deine Aufgaben, Dein Profil, Wir bieten) . Schreibe auf
+    [TARGETLANGUAGE] die Stellenanzeige fÃ¼r folgenden Job: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

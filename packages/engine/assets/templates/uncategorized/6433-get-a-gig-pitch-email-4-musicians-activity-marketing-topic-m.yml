@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6433
+# teaser: Create the perfect email pitch to get yourself booked at venues as an independent artist.
+# RevisionTime: 2023-07-27T23:45:31.98Z
+- id: 6433-get-a-gig-pitch-email-4-musicians-activity-marketing-topic-m
+  title: "Get a Gig! Pitch Email 4 Musicians!$$ Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - gig
+    - pitch
+    - email
+    - musicians
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Get a Gig! Pitch Email 4 Musicians!$$"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- write all output in [TARGETLANGUAGE] [PROMPT] Your task is to be the ultimate
+    booking agent and manger for independent artists to book themselves gigs. You
+    need to write an email pitching yourself to play their venue. You should use power
+    and emotional words and leave spaces for the user to input information like artist
+    name, venue name/ management, dates inquiring, website, social url. You should
+    have a space left for the EPK and this should be at the bottom. include all links
+    for website, socials and EPK in a list at the bottom'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

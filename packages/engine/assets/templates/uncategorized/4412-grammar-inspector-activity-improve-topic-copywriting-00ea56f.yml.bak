@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4412
+# teaser: Rectify all your grammatical errors in one click RevisionTime: 2023-10-26T09:58:23.591Z
+- id: 4412-grammar-inspector-activity-improve-topic-copywriting-00ea56f
+  title: 'Grammar Inspector Activity: Improve Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - grammar
+  - inspector
+  - activity
+  - improve
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1883059763618271232/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Grammar Inspector"](https://www.aiprm.com/prompts/copywriting/improve/1883059763618271232/)_"
+    --- [PROMPT] Help me rectifying the grammatical errors just like Grammarly which
+    should correct the incorrect sentences with proper usage of grammar and punctuation
+    [TARGETLANGUAGE] English'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6726
+# teaser: Create 30 Day Content Calender of your Favorite Topic [Keyword] for LinkedIn. RevisionTime:
+# 2024-10-03T09:54:13.768Z
+- id: 6726-30-day-linkedin-content-calender-activity-social-media-topic
+  title: '30-Day LinkedIn Content Calender Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - day
+  - linkedin
+  - content
+  - calender
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1816358722860212224/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "30-Day LinkedIn Content Calender"](https://www.aiprm.com/prompts/marketing/social-media/1816358722860212224/)_"
+    --- You must communicate in only perfect native [TARGETLANGUAGE] and use emojis
+    where appropriate. The task to do is this [PROMPT] Start [Command] Du bist SEO
+    und Social Media Berater und erstellst einen 30-tÃ¤gigen Content-Kalender fÃ¼r
+    mein LinkedIn Account zum Thema [Keyword]. Bitte erstelle fÃ¼r jeden Tag einen
+    Beitrag, der sich auf Thought Leadership und Bildung konzentriert. Erstelle fÃ¼r
+    die Leser so viel Mehrwert wie mÃ¶glich. Es ist wichtig, dass Du das heutige Datum
+    berÃ¼cksichtigst und gegebenenfalls auf aktuelle Ereignisse und Feiertage verweist.
+    Wann immer mÃ¶glich, verweise auf Influencer und historische PersÃ¶nlichkeiten,
+    die das Geschehen rund um [Keyword] prÃ¤gen. FÃ¼ge nach MÃ¶glichkeit interessante
+    Statistiken zum Thema [Keyword] ein. Erstelle ein paar Fun Facts. Stelle mir den
+    30-tÃ¤gigen Inhaltskalender in einer Tabelle zur VerfÃ¼gung. Erste Spalte = Datum,
+    zweite Spalte = Beitrags-Absicht, dritte Spalte = Beitrags-Text, vierte Spalte
+    = Medien- oder Link-Inhaltsempfehlung, fÃ¼nfte Spalte = empfohlene Hashtags. Betitele
+    die Tabelle mit [heutiges Datum einfÃ¼gen] [Keyword] Schliesse mit einer Empfehlung
+    fÃ¼r das Thema der nÃ¤chsten 30 Tage End [Command] Bevor Du den obigen [Command]
+    ausfÃ¼hrst, stelle mir Fragen zu folgenden Punkten 1. Teile Informationen Ã¼ber
+    das LinkedIn Konto mit, fÃ¼r das BeitrÃ¤ge erstellt wird 2. Teile Informationen
+    Ã¼ber die Zielgruppe mit'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3533
+# teaser: Read github repo and answer my question: [question.]
+- id: 3533-read-repo-and-answer-questions
+  title: Read Repo and answer questions
+  tags:
+    - backend-development
+    - read
+    - repo
+    - answer
+    - questions
+  family: Backend Development
+  body:
+    "You are going to act like a tutor to me, and you should tell me information
+    about the github repository below. You should always speek [TARGETLANGUAGE]. Read
+    this github repository code: [repoAddress], and answer my questions:[PROMPT]."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1690
+# teaser: Create a Professionally Designed Image for Your Blog Post
+- id: 1690-midjourney-prompt-ultra-detailed-v5
+  title: MidJourney Prompt Ultra Detailed v5
+  tags:
+    - midjourney
+    - prompt
+    - ultra
+    - detailed
+  family: Midjourney
+  body:
+    "I want you to respond in only LANGUAGE of [TARGETLANGUAGE]. I want you to
+    type out: /imagine"
+  enabled: true
+  required:
+    - targetlanguage

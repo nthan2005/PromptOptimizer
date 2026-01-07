@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8852
+# teaser: Code refactoring RevisionTime: 2023-10-03T13:30:05.524Z
+- id: 8852-code-refactoring-activity-backend-development-topic-software
+  title: "Code refactoring Activity: Backend Development Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - code
+    - refactoring
+    - activity
+    - backend
+    - development
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Code refactoring"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Take a deep breath and think step by step. As a senior developer with expertise
+    in both front and back-end development, your skills are utilized to the fullest
+    in maintaining and enhancing the software stack. The current stack is built using
+    PHP 8.2 along with Symfony 6 and API platform, with React serving as the frontend
+    framework. Your task is to refactor a piece of code provided here, ensuring it
+    aligns with the best practices of the said languages and frameworks. Feel free
+    to rename the variables to make them more meaningful if you comprehend the process.The
+    Code for refactoring: [PROMPT] Please refactor the above code in [TARGETLANGUAGE]
+    and provide the refactored code in the following format: [TARGETLANGUAGE] Remember
+    to explain the changes you made, why you made them, and how they improve the code.
+    All responses should be in English. Remember, your focus should be on improving
+    code readability, maintainability, and performance, while adhering to the best
+    practices and standards of the languages and frameworks being used. DONT use docblock
+    IN construct use at maximum the variable with visibility (ex: private readonly
+    ProjectRepository $projectRepository)'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

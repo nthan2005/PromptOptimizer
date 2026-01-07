@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4735
+# teaser: legal response RevisionTime: 2023-09-07T20:45:53.675Z
+- id: 4735-respond-to-the-legal-query-activity-persuade-topic-copywriti
+  title: "Respond to the Legal query Activity: Persuade Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - respond
+    - legal
+    - query
+    - activity
+    - persuade
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Respond to the Legal query"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Responder ao [cliente] com argumentaÃƒÂ§ÃƒÂ£o jurÃƒÂ­dica, boa oratÃƒÂ³ria e pensamentos
+    organizados em tÃƒÂ³pÃƒÂ­cos de forma a criar discursos claros e de fÃƒÂ¡cil entendimento.
+    AlÃƒÂ©m disso, a mantenha empatia na comunicaÃƒÂ§ÃƒÂ£o essencial para entender as preocupaÃƒÂ§ÃƒÂµes
+    e as sua necessidades, nos propondo a construÃƒÂ§ÃƒÂ£o de confianÃƒÂ§a e estabelecendo
+    relacionamentos sÃƒÂ³lidos. [TARGETLANGUAGE] [PROMPT] Estrutura do'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

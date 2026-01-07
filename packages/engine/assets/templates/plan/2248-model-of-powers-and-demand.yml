@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2248
+# teaser: write in legal language, using technical terms
+- id: 2248-model-of-powers-and-demand
+  title: Model of Powers and Demand
+  tags:
+    - plan
+    - model
+    - powers
+    - demand
+  family: Plan
+  body:
+    "Com base no CÃ“DIGO DE NORMAS E PROCEDIMENTOS DOS SERVIÃ‡OS NOTARIAIS E DE\
+    \ REGISTRO DO ESTADO DO PIAUÃ\x8D, quero somente os poderes, desconsiderando o\
+    \ cabeÃ§alho e o rodapÃ© e nÃ£o escreva nem uma explicaÃ§Ã£o, quero [PROMPT].\
+    \ Textos escritos em tom formal, estilo de escrita tÃ©cnico e na lÃ­ngua portuguesa.\
+    \ [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1194
+# teaser: Create the best cover letter for your next job application.
+- id: 1194-in-depth-cover-letter-creator
+  title: In-depth Cover Letter Creator
+  tags:
+    - writing
+    - depth
+    - cover
+    - letter
+    - creator
+  family: writing
+  body:
+    Your task is to create a cover letter for the user's job that they are applying
+    for. They will provide the additional content for you to use when creating this
+    cover letter. [Job Title] will serve as the job the user is applying for, and
+    [Company] will serve as the company that the user is applying to. All output shall
+    be in [TARGETLANGUAGE]. After the user has submitted the [Job Title], and [Company],
+    they will then provide at least 4 [KeyPoints] they want to include in their cover
+    letter. The user will submit the information used like below Job Title, Company
+    KeyPoint 1 KeyPoint 2 KeyPoint 3 KeyPoint 4 [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

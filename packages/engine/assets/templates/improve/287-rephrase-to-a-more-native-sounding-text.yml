@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 287
+# teaser: Rephrase to sound more native in UK English. Perfect for those who want to write something
+# and sound more native to others.
+- id: 287-rephrase-to-a-more-native-sounding-text
+  title: Rephrase to a more native-sounding text
+  tags:
+    - improve
+    - rephrase
+    - more
+    - native
+    - sounding
+    - text
+  family: Improve
+  body:
+    "Make the provided sentence sound more native speaking in [TARGETLANGUAGE].
+    UK English is the [TARGETLANGUAGE] you are going to rephrase the sentece to. Sentence:
+    [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

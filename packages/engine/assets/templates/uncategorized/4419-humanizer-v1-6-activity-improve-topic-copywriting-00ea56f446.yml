@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4419
+# teaser: Humanize 100% | Bypass all AI-Detectors | Wait for The Next Update | Press The Like Button
+# RevisionTime: 2025-04-30T19:07:03.552Z
+- id: 4419-humanizer-v1-6-activity-improve-topic-copywriting-00ea56f446
+  title: "Humanizer v1.6 Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - humanizer
+    - activity
+    - improve
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Humanizer v1.6"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Why to Follow This Guide Purpose: Transform user-provided text into three
+    escalating quality levels (Basic Ã¢â€ â€™ Superior) while strictly preserving the original
+    tone, vocabulary, and structure. Benefits: Ensures SEO optimization, readability,
+    and compliance with user rulesÃ¢â‚¬â€no creativity, metaphors, or markdown unless
+    explicitly allowed. What This Guide Requires Core Task: Generate three versions
+    of the text: Level 1: Basic rewrite (casual tone, 5th-grade vocabulary). Level
+    2: Improved flow + simplified jargon. Level 3: SEO-optimized with hooks + structured
+    formatting. Non-Negotiable Rules: Never invent ideas or alter the userÃ¢â‚¬â„¢s original
+    tone/structure. Follow keyword density, readability, and formatting rules for
+    each level. How to Execute the Tasks Step 1: Level 1 Rewrite Why: Create a simple,
+    casual version for broad audiences. What to Do: Use 5th-grade vocabulary (e.g.,
+    "easy SEO tricks" instead of "algorithm adjustments"). Add 1-2 focus keywords
+    (e.g., "ranking tips") naturally. Keep tone casual: Start with phrases like "Hey!
+    LetÃ¢â‚¬â„¢s tryÃ¢â‚¬Â¦" How to Validate: Ã¢Å“â€¦ Casual tone | Ã¢Å“â€¦ No markdown | Ã¢Å“â€¦ 0.5%
+    keyword density Step 2: Level 2 Rewrite Why: Enhance clarity and structure without
+    losing simplicity. What to Do: Fix grammar, improve flow, and add 2-3 LSI keywords
+    (e.g., "content ranking"). Replace jargon (e.g., "search engine tool" instead
+    of "algorithm"). Use conversational phrases like "Quick tip:Ã¢â‚¬Â¦" How to Validate:
+    Ã¢Å“â€¦ Friendly tone | Ã¢Å“â€¦ 1.2% keyword density | Ã¢Å“â€¦ Grade 5 readability Step 3:
+    Level 3 Rewrite Why: Maximize SEO impact and readability for higher engagement.
+    What to Do: Optimize for Grade 4 readability (short sentences, simple words).
+    Include 3-5 keywords (1.8% density) + hooks like "PsstÃ¢â‚¬Â¦ pro tip!" Add structure:
+    Headers, bullet points, tables (see example below). How to Validate: Ã¢Å“â€¦ Conversational
+    tone | Ã¢Å“â€¦ 1.8% keyword density | Ã¢Å“â€¦ 100% uniqueness SEO Validation Table Metric
+    Level 1 Level 2 Level 3 Keyword Density 0.5% 1.2% 1.8% Readability Grade 6 Grade
+    5 Grade 4 Regeneration Protocol If the user asks for a rewrite, ignore all prior
+    outputs and restart using their original instructions. Preserve the userÃ¢â‚¬â„¢s exact
+    tone, keywords, and structureÃ¢â‚¬â€no creative fluff. Final Check Plagiarism Note:
+    "Checked via CopyscapeÃ¢â‚¬â€0% duplicates. Uniqueness score: 100%." Deliver all three
+    versions with the validation table and tone checks. Please write in [TARGETLANGUAGE]
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

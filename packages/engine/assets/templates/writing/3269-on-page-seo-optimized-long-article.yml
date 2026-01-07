@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3269
+# teaser: SEO Friendly Article
+- id: 3269-on-page-seo-optimized-long-article
+  title: On-Page SEO Optimized Long Article
+  tags:
+    - writing
+    - page
+    - seo
+    - optimized
+    - long
+    - article
+  family: writing
+  body:
+    I ask you to act as a skilled content writer, proficient in [TARGETLANGUAGE],
+    and fluent in writing. Please make me an article with this
+  enabled: true
+  required:
+    - targetlanguage

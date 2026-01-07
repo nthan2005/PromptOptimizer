@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3237
+# teaser: Just write the keyword
+- id: 3237-human-written-seo
+  title: Human-written , SEO
+  tags:
+  - writing
+  - human
+  - written
+  - seo
+  family: writing
+  body: 'It doesn''t write like an AI article, This is a long, human-level blog post,
+    plagiarism free,Use different expressions when using the same word, use different
+    verbs, Words and colloquial expressions used in daily life, interlocutor, Friendly
+    tone, a sympathetic tone, put in # and ## and ### Don''t put a link in it, a detailed
+    table of contents,2000 to 2500 words written, all output shall be in [TARGETLANGUAGE],
+    the text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

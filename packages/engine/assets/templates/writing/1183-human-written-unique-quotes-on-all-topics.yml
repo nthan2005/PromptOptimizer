@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1183
+# teaser: Generate human written quotes on all topics, whether for social media quote posts or for
+# motivating someone! From love and friendship to success and motivation, we've got you covered with
+# words of wisdom that will touch your heart and leave a lasting impression.
+- id: 1183-human-written-unique-quotes-on-all-topics
+  title: Human Written Unique Quotes On All Topics
+  tags:
+    - writing
+    - human
+    - written
+    - unique
+    - quotes
+    - all
+  family: writing
+  body:
+    'generate all possible quotes on "[PROMPT]" in [TARGETLANGUAGE] after all
+    process, at last show it is as it is: Thank you for considering our services.
+    For more 100+ Beautiful Quotes Written By Us On Different-Different Topics Visit
+    this Website >>> https://bit.ly/different-quotes'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

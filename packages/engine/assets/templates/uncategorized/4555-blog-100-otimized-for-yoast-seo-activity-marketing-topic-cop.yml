@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4555
+# teaser: Develop a blog post, up to 1200 words, 100% optimized for Yoast SEO RevisionTime:
+# 2023-04-27T13:20:22.619Z
+- id: 4555-blog-100-otimized-for-yoast-seo-activity-marketing-topic-cop
+  title: "Blog 100% otimized for Yoast SEO Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - blog
+    - "100"
+    - otimized
+    - yoast
+    - seo
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Blog 100% otimized for Yoast SEO"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Develop a blog post, up to 1200 words, 100% optimized for Yoast SEO, organized
+    in blocks with Subtitles, on the subject: [TITLE], Using the [KEYWORD] or [List
+    of keywords], including: Attractive and persuasive title, meta description and
+    conclusion. If the prompt stops, then write: "Don''t stop, continue". write all
+    output in fluent [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage
+    - title

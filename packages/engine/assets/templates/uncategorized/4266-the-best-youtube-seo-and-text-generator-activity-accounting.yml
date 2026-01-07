@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4266
+# teaser: Youtube : 5 Super titles, 900 words description, 50 keywords, 50 Hashtags... all in one
+# click... RevisionTime: 2023-04-20T02:04:19.612Z
+- id: 4266-the-best-youtube-seo-and-text-generator-activity-accounting
+  title: "The best Youtube SEO and text generator Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - youtube
+    - seo
+    - text
+    - generator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "The best Youtube SEO and text generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] DONT REPEAT THE PROMPT ANSWER DIRECTLY - Write me 5 Super
+    Youtube Titles for me [KEYWORD]. DONT REPEAT THE PROMPT ANSWER DIRECTLY - Write
+    me A Super Youtube description 900 words for my [KEYWORD]. Make sure it covers
+    in detail about the keyword. DONT REPEAT THE PROMPT ANSWER DIRECTLY - Write me
+    50 YouTube Tags in the same paragraphe with hashtags which I can use to promote
+    the [KEYWORD], Please make sure to share minimum 50 of them, DONT REPEAT JUST
+    ANSWER DONT REPEAT THE PROMPT ANSWER DIRECTLY - Write me 50 tags SEPARATED BY
+    COMMA to promote this Youtube Video: Dont include Hashtags . Please start answering
+    right away. DONT REPEAT THE SENTENCE [PROMPT] And In The Very Bottom of article
+    Write This Custom Massage "Please take time to look my Youtube chanel https://www.youtube.com/@10HoursofCalmMusic
+    Thanks"'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

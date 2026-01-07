@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8910
+# teaser: Php Englisher RevisionTime: 2023-03-22T02:29:54.287Z
+- id: 8910-php-englisher-activity-backend-development-topic-softwareeng
+  title: "Php Englisher Activity: Backend Development Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - php
+    - englisher
+    - activity
+    - backend
+    - development
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Php Englisher"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5417
+# teaser: Create keyword optimized FAQ for Product RevisionTime: 2023-04-15T05:52:28.456Z
+- id: 5417-create-seo-optimized-faq-for-product-activity-writing-topic
+  title: 'Create SEO optimized FAQ for Product Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - seo
+  - optimized
+  - faq
+  - product
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1812696712163364864/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create SEO optimized FAQ for Product"](https://www.aiprm.com/prompts/copywriting/writing/1812696712163364864/)_"
+    --- Write in [TARGETLANGUAGE]. Create [NUM] questions with answers for [PRODUCT].
+    Use each of keywords in exact form. [PROMPT]'
+  enabled: true
+  required:
+  - num
+  - product
+  - prompt
+  - targetlanguage

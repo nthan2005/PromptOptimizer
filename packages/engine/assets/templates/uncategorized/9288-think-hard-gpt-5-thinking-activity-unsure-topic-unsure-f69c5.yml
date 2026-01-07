@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9288
+# teaser: Deep reasoning for any task RevisionTime: 2025-08-11T08:58:55.649Z
+- id: 9288-think-hard-gpt-5-thinking-activity-unsure-topic-unsure-f69c5
+  title: "Think hard (GPT-5 Thinking) Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - think
+    - hard
+    - gpt
+    - thinking
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Think hard (GPT-5 Thinking)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- <task_description> [PROMPT] </task_description> <thinking_instruction> Think
+    hard about this task. Take time to thoroughly understand all aspects before responding.
+    Consider: - The core requirements and any implicit assumptions - Potential edge
+    cases or complexities - The most accurate and helpful approach </thinking_instruction>
+    <output_requirements> - Provide your response in [TARGETLANGUAGE] - Be clear,
+    accurate, and directly address the task - Use appropriate detail level based on
+    the complexity of the request - Structure your response for maximum clarity and
+    usefulness </output_requirements> <quality_standards> Before finalizing your response:
+    1. Verify factual accuracy 2. Ensure completeness without unnecessary verbosity
+    3. Confirm the response fully addresses the original request </quality_standards>'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

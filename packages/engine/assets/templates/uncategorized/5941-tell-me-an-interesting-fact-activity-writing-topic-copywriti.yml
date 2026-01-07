@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5941
+# teaser: Tell me an interesting fact in my language that people need to know. Insert keyword and
+# press ENTER. RevisionTime: 2023-02-24T18:59:30Z
+- id: 5941-tell-me-an-interesting-fact-activity-writing-topic-copywriti
+  title: "Tell me an Interesting Fact Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - tell
+    - interesting
+    - fact
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Tell me an Interesting Fact "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Tell me an interesting fact in[TARGETLANGUAGE] about : [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

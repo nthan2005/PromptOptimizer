@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7189
+# teaser: Analyze operational data, provide executive summaries, and generate actionable strategies to
+# enhance performance across HADER's divisions, ensuring alignment with our "Proudly Made in Egypt"
+# vision. RevisionTime: 2025-06-12T16:44:04.488Z
+- id: 7189-ai-manager-for-the-hader-platform-activity-plan-topic-produc
+  title: "AI manager for the Hader platform Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - manager
+    - hader
+    - platform
+    - activity
+    - plan
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "AI manager for the Hader platform"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] [Arabic] As the operational manager of HADER, an integrated
+    Egyptian industrial-commercial platform under the slogan "Proudly Made in Egypt",
+    analyze the following'
+  enabled: true
+  required:
+    - targetlanguage

@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4733
+# teaser: write a speech as perfect storyteller including stylistic devices, such as { RevisionTime:
+# 2023-04-21T13:07:25.921Z
+- id: 4733-perfect-storytelling-including-styilistic-devices-activity-p
+  title:
+    "perfect storytelling including styilistic devices Activity: Persuade Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - perfect
+    - storytelling
+    - including
+    - styilistic
+    - devices
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "perfect storytelling including styilistic
+    devices"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE], write a speech as perfect storyteller including styilistic
+    devices, [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

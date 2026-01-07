@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1154
+# teaser: Write headlines using rhetorical devices
+- id: 1154-headlines-using-rhetorical-devices
+  title: Headlines Using Rhetorical Devices
+  tags:
+  - writing
+  - headlines
+  - rhetorical
+  - devices
+  family: writing
+  body: 'Your task is to write 5 bullet points or headlines using the text I provide.
+    Bullet points or headlines should be written using any of the following rhetorical
+    devices: Parallelism, Antithesis Scesis onomaton, Polyptoton, Asyndeton. The bullet
+    points or headlines will be used for marketing purposes and should be written
+    with direct response marketing in mind. All output should be written in [TARGETLANGUAGE].
+    The text is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

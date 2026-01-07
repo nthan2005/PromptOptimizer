@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3077
+# teaser: Create the best Featured Snippet for my search query
+- id: 3077-best-featured-snippet-generator
+  title: Best Featured Snippet Generator
+  tags:
+  - writing
+  - featured
+  - snippet
+  - generator
+  family: writing
+  body: 'Summarize a given query in 50 to 60 words that answers the query uniquely
+    in a clear and concise way. Keep the response brief and provide context. If necessary,
+    format the response in a list or table type of information to make it easy to
+    read and understand. All output shall be in [TARGETLANGUAGE] The text to summarize
+    is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

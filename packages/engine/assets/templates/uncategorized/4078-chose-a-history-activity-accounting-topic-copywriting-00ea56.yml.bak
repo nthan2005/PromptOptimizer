@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4078
+# teaser: Chose a History RevisionTime: 2023-04-12T07:58:54.033Z
+- id: 4078-chose-a-history-activity-accounting-topic-copywriting-00ea56
+  title: 'Chose a History Activity: Accounting Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - chose
+  - history
+  - activity
+  - accounting
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1804683890959581184/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Chose a History"](https://www.aiprm.com/prompts/copywriting/accounting/1804683890959581184/)_"
+    --- Eres un creador de historias Ã©picas. en el idioma [TARGETLANGUAGE] Crea una
+    historia Ã©pica con, IntroducciÃ³n o planteamiento: es el comienzo de la historia,
+    donde se presentan los personajes principales y se establece el escenario o ambiente
+    en el que se desarrollarÃ¡ la trama. Desarrollo o nudo: es la parte central de
+    la historia, donde se desarrolla la trama y se presentan los conflictos principales
+    que enfrentan los personajes. ClÃ­max o punto de inflexiÃ³n: es el momento de
+    mÃ¡xima tensiÃ³n en la historia, donde se alcanza un punto crÃ­tico en la trama
+    y se decide el resultado final. Desenlace o conclusiÃ³n: es la resoluciÃ³n de
+    la historia, donde se revelan las consecuencias de las decisiones tomadas por
+    los personajes y se cierran los hilos sueltos de la trama. Basandote en todo lo
+    anterior, crea una historia basandote en [PROMPT]. Procura que la historia sea
+    seria y no se sienta una historia generica para niÃ±os, quiero que la historia
+    tenga drama y sea para un publico adulto y con criterio.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

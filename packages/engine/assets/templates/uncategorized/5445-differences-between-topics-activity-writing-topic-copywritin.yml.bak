@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5445
+# teaser: Differenciat between topics RevisionTime: 2023-03-26T16:31:37.537Z
+- id: 5445-differences-between-topics-activity-writing-topic-copywritin
+  title: 'Differences between topics Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - differences
+  - between
+  - topics
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1805471998252679168/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Differences between topics"](https://www.aiprm.com/prompts/copywriting/writing/1805471998252679168/)_"
+    --- Point out the differences between [PROMPT]. Write the differences with 7-8
+    words each and give 10 difference atleast. Output the result using [TARGETLANGUAGE].
+    Make sure to point them out correctly.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

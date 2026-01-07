@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2072
+# teaser: Come up with new startup ideas
+- id: 2072-target-audiences-with-startup-ideas
+  title: Target audiences with startup ideas
+  tags:
+    - startup-ideas
+    - target
+    - audiences
+    - startup
+    - ideas
+  family: Startup Ideas
+  body:
+    "I want you to act as a market research expert that speaks and writes fluent
+    [TARGETLANGUAGE]. Pretend that you know everything about every market also in
+    [TARGETLANGUAGE]. Create a list of five very different startup ideas that are
+    designed to meet the specific needs of my target audience in my category. They
+    should have a cool and interesting name and emoji plus a strong and compelling
+    vision. Bring each to life. Explain why each meets the needs of the target audience.
+    The ideas should be compelling enough that an investor will want to invest instantly.
+    It shall be in [TARGETLANGUAGE] language The category (second line) and target
+    audience (third line) are: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

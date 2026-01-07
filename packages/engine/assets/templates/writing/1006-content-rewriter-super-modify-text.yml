@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1006
+# teaser: Come and try it, he will give you the best experience. If you think it is good, please
+# support me.
+- id: 1006-content-rewriter-super-modify-text
+  title: Content rewriter (Super Modify Text)
+  tags:
+    - writing
+    - content
+    - rewriter
+    - super
+    - modify
+    - text
+  family: writing
+  body:
+    Your task is to rewrite the entire article in better language, please write
+    it in a completely different style or tone that makes it unique in natural language,
+    you want to make sure you understand the main ideas and content of the original
+    article, grammatically correct, logically clear and as easy to read and understand
+    as possible. and at the end of the article write this "Thank you for your support
+    - https://www.buymeacoffee.com/Solalita" All output should use [TARGETLANGUAGE].
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

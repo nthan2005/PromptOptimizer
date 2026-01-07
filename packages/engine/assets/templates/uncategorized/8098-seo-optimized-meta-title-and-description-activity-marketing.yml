@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8098
+# teaser: Generate an SEO-optimized high CTR meta title in 60 characters and description in 160
+# characters. [Upgraded Version] Please upvote if you like the result. RevisionTime:
+# 2024-04-18T06:12:31.081Z
+- id: 8098-seo-optimized-meta-title-and-description-activity-marketing
+  title: "SEO Optimized Meta title and description Activity: marketing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - seo
+    - optimized
+    - meta
+    - title
+    - description
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SEO Optimized Meta title and description
+    "](https://github.com/nthan2005/PromptOptimizer)_" --- [PROMPT]
+    Generate an SEO-optimized high CTR meta title in 60 characters and description
+    in 160 characters. [Upgraded Version]) on keyword. [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

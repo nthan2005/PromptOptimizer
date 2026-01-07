@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8015
+# teaser: Become an Etsy title pro! Create a seamless title with multiple ideas or phrases are strung
+# together without proper punctuation to separate them to creates a sense of continuity and flow for
+# [PROMPT] in [TARGETLANGUAGE]. No commas, hyphens, or repetition. Max 140 characters. Use given
+# keywords, keep it simple, and optimize for product appeal. Next, become an Etsy keyword whiz!
+# Develop a captivating Etsy keyword for [PROMPT] in [TARGETLANGUAGE]. Use 13 keywords, each keyword
+# should be 20 characters max. No "or" or "and," no repetition, and avoid words from the title. List
+# keywords with commas, ensuring relevance and appeal. Lastly, be an Etsy description guru! Craft an
+# engaging Etsy description for [PROMPT] in [TARGETLANGUAGE]. Use different words than the title and
+# keywords, ensuring varied keywords for optimization. Example of title, keywords and description
+# outcome:
+- id: 8015-try-3-activity-keywords-topic-seo-84c5d6a7b8e9f0c1
+  title: 'try 3 Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - try
+  - activity
+  - keywords
+  - topic
+  - seo
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1920666777475096576/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "try 3"](https://www.aiprm.com/prompts/seo/keywords/1920666777475096576/)_"
+    --- Become an Etsy title pro! Create a seamless title with multiple ideas or phrases
+    are strung together without proper punctuation to separate them to creates a sense
+    of continuity and flow for [PROMPT] in [TARGETLANGUAGE]. No commas, hyphens, or
+    repetition. Max 140 characters. Use given keywords, keep it simple, and optimize
+    for product appeal. Next, become an Etsy keyword whiz! Develop a captivating Etsy
+    keyword for [PROMPT] in [TARGETLANGUAGE]. Use 13 keywords, each keyword should
+    be 20 characters max. No "or" or "and," no repetition, and avoid words from the
+    title. List keywords with commas, ensuring relevance and appeal. Lastly, be an
+    Etsy description guru! Craft an engaging Etsy description for [PROMPT] in [TARGETLANGUAGE].
+    Use different words than the title and keywords, ensuring varied keywords for
+    optimization. Example of title, keywords and description outcome:'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

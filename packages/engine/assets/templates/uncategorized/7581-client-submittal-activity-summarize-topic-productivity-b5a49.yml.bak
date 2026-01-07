@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7581
+# teaser: For agency recruiters needing help writing client submittals. RevisionTime:
+# 2023-02-21T18:03:51Z
+- id: 7581-client-submittal-activity-summarize-topic-productivity-b5a49
+  title: 'Client Submittal Activity: Summarize Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - client
+  - submittal
+  - activity
+  - summarize
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1791203464563646464/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Client Submittal"](https://www.aiprm.com/prompts/productivity/summarize/1791203464563646464/)_"
+    --- Your task is to write a submittal to an engineering hiring manager from me
+    in the third person including an introductory statement, four bullet points highlighting
+    qualifications, including education, and achievements and a closing statement
+    [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

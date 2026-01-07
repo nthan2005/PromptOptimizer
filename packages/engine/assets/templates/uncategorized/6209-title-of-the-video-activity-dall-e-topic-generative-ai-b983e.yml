@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6209
+# teaser: Thumbnail Idea for your video by Mosvie Media RevisionTime: 2023-08-04T09:56:52.693Z
+- id: 6209-title-of-the-video-activity-dall-e-topic-generative-ai-b983e
+  title: "[Title of the Video] Activity: Dall-E Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - title
+    - video
+    - activity
+    - dall
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "[Title of the Video]"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task to give the best thumbnail ideas for youtube videos which would
+    be appealing for the audience. All output shall be in [TARGETLANGUAGE]. The title
+    of the youtube video is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

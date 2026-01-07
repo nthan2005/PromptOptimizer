@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1055
+# teaser: Get a Bible study, based on the topic you suggest
+- id: 1055-creating-my-bible-study-with-ease
+  title: Creating My Bible Study With Ease
+  tags:
+  - writing
+  - creating
+  - bible
+  - study
+  - ease
+  family: writing
+  body: 'I need you to present me a Bible study, with topics, biblical references,
+    biblical examples and practical application in life, on the following topic: [KEYWORD]
+    [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - keyword
+  - prompt
+  - targetlanguage

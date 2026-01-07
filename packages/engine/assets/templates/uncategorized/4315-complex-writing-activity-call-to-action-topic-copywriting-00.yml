@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4315
+# teaser: [Type of Writing Style] RevisionTime: 2023-10-10T06:37:03.699Z
+- id: 4315-complex-writing-activity-call-to-action-topic-copywriting-00
+  title: "Complex Writing Activity: call to action Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - complex
+    - writing
+    - activity
+    - call
+    - action
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Complex Writing"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- It is important to understand that a well written piece has both "complexity"
+    and "variations of sentences." Humans tend to write with greater variances in
+    sentences with some sentences being longer adjacent to shorter sentences and with
+    greater complexity. AI sentences tend to be more uniform and basic. I will be
+    asking you to create writing pieces for me, but I need it to have a good amount
+    of complexity and variations as if it were written by a human. Do you understand?
+    Using the concepts shared previously, rewrite the [PROMPT] with a high degree
+    of complexity and variations of sentences as if it were written by a human. Write
+    the prompt in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

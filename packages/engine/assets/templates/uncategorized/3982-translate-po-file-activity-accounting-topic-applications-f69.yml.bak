@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3982
+# teaser: Translate automaticaly po file odoo and gain your time!! RevisionTime:
+# 2023-03-24T07:49:24.702Z
+- id: 3982-translate-po-file-activity-accounting-topic-applications-f69
+  title: 'Translate PO file Activity: Accounting Topic: Applications-f69b52b4213a6bd3'
+  tags:
+  - uncategorized
+  - translate
+  - file
+  - activity
+  - accounting
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/applications/accounting/1804745097343143936/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Translate PO file"](https://www.aiprm.com/prompts/applications/accounting/1804745097343143936/)_"
+    --- je vais te donner le contenue d''un fichier PO sur Odoo et je vais te demander
+    de le traduire en suivant la rÃ¨gle suivante: - Dans ce fichier il y a deux lignes
+    Ã prendre en compte: msgid "" cette ligne reprÃ©sente le texte Ã traduire (mis
+    entre guillemet) msgstr "" cette ligne reprÃ©sente le texte traduit en franÃ§ais
+    (mis entre guillemet) - Il faut que tu prenne le texte Ã traduire en [TARGETLANGUAGE]
+    (entre les guillemets) et met la traduction correspondante dans la ligne msgtr
+    "" (entre les guillemet). voici le contenue du fichier: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

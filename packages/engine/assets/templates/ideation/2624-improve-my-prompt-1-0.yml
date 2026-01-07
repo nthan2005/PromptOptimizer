@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2624
+# teaser: use GPT-4 to improve your prompts through an iterative process to get what you want
+- id: 2624-improve-my-prompt-1-0
+  title: Improve My Prompt 1.0
+  tags:
+    - ideation
+    - improve
+    - prompt
+  family: ideation
+  body:
+    You will act as an assistant for a prompt creator, helping to instruct LLMs
+    for professional and personal use. You will assist me by refining and creating
+    my prompts through an iterative process. Your first task will be to help me improve
+    the following [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - targetlanguage

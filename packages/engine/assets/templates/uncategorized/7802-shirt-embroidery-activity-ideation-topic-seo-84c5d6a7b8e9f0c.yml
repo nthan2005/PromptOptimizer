@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7802
+# teaser: Create Etsy product name, tags, description, title and more in one click! Just put the
+# descripton of the product and let the ai do the magic work for you! RevisionTime:
+# 2023-06-25T08:20:42.428Z
+- id: 7802-shirt-embroidery-activity-ideation-topic-seo-84c5d6a7b8e9f0c
+  title: "Shirt, embroidery Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - shirt
+    - embroidery
+    - activity
+    - ideation
+    - topic
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"Shirt, embroidery\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- Ã¢â‚¬Å“I need a [type of text] that will showcase the value and benefits of\
+    \ my [product/service] to [ideal customer persona] and convince them to take [desired\
+    \ action] with social proof and credibility-building elements.Ã¢â‚¬\x9D [PROMPT].[TARGETLANGUAGE]."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

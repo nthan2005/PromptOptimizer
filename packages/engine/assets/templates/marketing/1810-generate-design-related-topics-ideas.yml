@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1810
+# teaser: Generate Topics Related Creative & Unique Design Ideas
+- id: 1810-generate-design-related-topics-ideas
+  title: Generate Design Related Topics Ideas
+  tags:
+    - marketing
+    - generate
+    - design
+    - related
+    - topics
+    - ideas
+  family: marketing
+  body:
+    "Generate Topics Related Creative & Unique Design Ideas #DesignGoals #Innovation
+    #CreativeIdeas #Unique #Creative [TARGETLANGUAGE] from give [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7616
+# teaser: Mind Map Usefull RevisionTime: 2023-03-12T04:23:50Z
+- id: 7616-mind-map-usefull-activity-summarize-topic-productivity-b5a49
+  title: 'Mind Map Usefull Activity: Summarize Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - mind
+  - map
+  - usefull
+  - activity
+  - summarize
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1800338065550729216/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Mind Map Usefull"](https://www.aiprm.com/prompts/productivity/summarize/1800338065550729216/)_"
+    --- Organize em sistema de identaÃ§Ã£o informaÃ§Ãµes sobre o seguinte tÃ³pico
+    [PROMPT]. Use 4 niveis de identaÃ§Ã£o. A resposta contÃ©m somete o sistema de
+    identaÃ§Ã£o. Escreva em [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

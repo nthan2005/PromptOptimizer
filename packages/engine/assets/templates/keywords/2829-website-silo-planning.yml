@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2829
+# teaser: Create a website silo outline using a keyword or phrase. This will give you new page ideas
+# for an existing website or how to plan a new one.
+- id: 2829-website-silo-planning
+  title: Website Silo Planning
+  tags:
+    - keywords
+    - website
+    - silo
+    - planning
+  family: keywords
+  body: create a silo structure for a website using [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

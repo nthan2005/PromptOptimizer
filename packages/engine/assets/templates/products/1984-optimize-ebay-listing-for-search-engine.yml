@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1984
+# teaser: Create a great title and description for ebay product
+- id: 1984-optimize-ebay-listing-for-search-engine
+  title: optimize Ebay listing for search engine
+  tags:
+    - products
+    - optimize
+    - ebay
+    - listing
+    - search
+    - engine
+  family: Products
+  body:
+    "[task] : optimize my Ebay listing for search engine visibility by following
+    these steps: [TARGETLANGUAGE]: English [PROMPT] : please Create a Traffic Grabbing
+    Title that adheres to the Ebay algorithm's relevancy, competition, and traffic
+    guidelines you can add some keywords fo it . Craft a keyword-rich description
+    must have at leaset 15 related keyword to the product and low competition make
+    the description more argumented and a mind catching use some slaes stratgy organise
+    the description with title and substile ."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

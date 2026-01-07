@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7967
+# teaser: Optimize title and meta descriptions based on URL and keyword inputs. RevisionTime:
+# 2023-03-20T19:13:31Z
+- id: 7967-metadata-optimizations-from-url-activity-keywords-topic-seo
+  title: 'Metadata Optimizations from URL Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - metadata
+  - optimizations
+  - url
+  - activity
+  - keywords
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1803475543585452032/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Metadata Optimizations from URL"](https://www.aiprm.com/prompts/seo/keywords/1803475543585452032/)_"
+    --- Create title, meta description around 150 characters for this page [URL] using
+    the keyword [KEYWORD], and the language must be [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+  - keyword
+  - prompt
+  - targetlanguage
+  - url

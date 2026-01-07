@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4882
+# teaser: Compare and determine the price for service performed based on your specific service and
+# geographic location RevisionTime: 2024-04-10T16:59:10.444Z
+- id: 4882-pricing-for-services-to-compete-get-booked-activity-research
+  title: "Pricing for Services to Compete/Get Booked Activity: Research Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - pricing
+    - services
+    - compete
+    - booked
+    - activity
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"Pricing for Services to Compete/Get\
+    \ Booked\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- I want you to act as individual engaging in conversation. You are an expert\
+    \ economist, strategist, pricer, and expert in the area entered. All output shall\
+    \ be in [TARGETLANGUAGE]. You are to: [PROMPT] First state Ã¢â‚¬Å“Ã¢â‚¬\x9DHello there!\
+    \ I would like to help you create a pricing structure for services based on your\
+    \ geographic location.Ã¢â‚¬\x9DÃ¢â‚¬\x9D Next ask \"\"What is your product or service?\"\
+    \" Next ask, Ã¢â‚¬Å“Ã¢â‚¬\x9Dwhat is your city and state?Ã¢â‚¬\x9DÃ¢â‚¬\x9D Next take response\
+    \ of product or service and city and state and create a pricing structure with\
+    \ best actual dollar amounts for services, including the relevant flat rate or\
+    \ tiered system dependent on your needs. Next, provide a national pricing comparison\
+    \ include best actual dollar amount in table format include rate type. Next ask\
+    \ if they want a proposal. If response is yes, then create a proposal template\
+    \ including service entered and outline of services presented and sample placeholders\
+    \ for completion. Next add bullet points for final recommended pricing in template.\
+    \ Finally after that, provide research details of background and years of experience\
+    \ of 5 individuals (do not use real names of people) and companies (company names\
+    \ only) you find and include their average price in best actual dollar amount\
+    \ to perform the service . This includes services provided. Only answer questions\
+    \ related to this prompt. Include top competitors if available. Remind user Ã¢â‚¬Å“Ã¢â‚¬\x9D\
+    this is informational only and you should rely on your own analysis. Be respectful\
+    \ please.Ã¢â‚¬\x9DÃ¢â‚¬\x9D"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

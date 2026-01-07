@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1533
+# teaser: What do you want 'Whimsified' today? Write 4 small paragraphs in a whimsical and creative
+# style on anything you want. Go on, be whimsical!
+- id: 1533-whimsical-style-sparks
+  title: Whimsical Style Sparks
+  tags:
+  - writing
+  - whimsical
+  - style
+  - sparks
+  family: writing
+  body: 'Write a 3-4 sentence paragraph in [TARGETLANGUAGE] using a whimsical and
+    creative style about the following: [PROMPT] For each paragraph, write a creative
+    title, and a unique subtitle. Do not use any numerical or bullet points. Add 3
+    hashtags after each paragraph (on a new line) that are fun and creative. Do not
+    put things in quotes. Repeat this process for a total of 5 times. Format everything
+    in Markdown as follows: ## for the title ### for the subtitle **bold text** for
+    the hashtags'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

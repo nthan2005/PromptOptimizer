@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9014
+# teaser: Are you seeking new job opportunities and want to make a lasting impression? Craft a
+# compelling email to a recruiter that could open doors to your dream job. Follow professional
+# standards and include all the crucial elements of a persuasive email. This prompt will guide you
+# step-by-step. RevisionTime: 2023-09-17T14:39:46.983Z
+- id: 9014-email-to-recruiter-for-job-opportunities-activity-web-develo
+  title:
+    "Email to Recruiter for Job Opportunities Activity: Web Development Topic:
+    SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - email
+    - recruiter
+    - job
+    - opportunities
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Email to Recruiter for Job Opportunities"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as a job seeker and compose an email to the recruiter of the company where
+    you wish to work. Your email should be professionally written and should include
+    key components such as a subject line, introduction, body explaining why you''re
+    suitable for the job, and a closing statement. Attach your resume to the email
+    and ensure it highlights your relevant experience and skills. Additionally, be
+    polite and courteous throughout the email, showing enthusiasm for the opportunity.
+    Your email should be error-free and grammatically correct to create a good impression.
+    My first task is [PROMPT]. The target language is [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

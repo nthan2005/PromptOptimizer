@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 121
+# teaser: Random Forest Classifier/Imbalanced Random Forest Classifier
+- id: 121-machine-learning-classification-algorithm
+  title: Machine learning classification algorithm
+  tags:
+    - accounting
+    - machine
+    - learning
+    - classification
+    - algorithm
+  family: Accounting
+  body:
+    "Use [TARGETLANGUAGE] to deploy a machine learning model , by standardizing
+    the numerical columns if they exist and encoding the categorical columns if they
+    exist. Then, apply a Random Forest classifier if the classes are balanced; otherwise,
+    apply an Imbalanced Random Forest classifier if they are imbalanced. Use this
+    : [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

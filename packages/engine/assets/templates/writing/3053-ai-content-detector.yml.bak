@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3053
+# teaser: Analyze any text and provide an AI detection score from 0 to 100
+- id: 3053-ai-content-detector
+  title: AI Content Detector
+  tags:
+  - writing
+  - content
+  - detector
+  family: writing
+  body: want you to analyze text provided and assign an AI detection score from 0
+    to 100, with 100 being the most likely to be written by an AI in [TARGETLANGUAGE]
+    the keywords to use in the analysis are [PROMPT] you will reply with an AI detection
+    score from 0 to 100 and a list of specific linguistic and stylistic features that
+    contribute to the score in [TARGETLANGUAGE] write all output in [TARGETLANGUAGE]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

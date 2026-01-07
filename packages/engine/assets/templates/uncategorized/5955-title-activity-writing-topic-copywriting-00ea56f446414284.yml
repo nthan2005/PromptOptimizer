@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5955
+# teaser: [Title] RevisionTime: 2023-05-17T12:09:20.986Z
+- id: 5955-title-activity-writing-topic-copywriting-00ea56f446414284
+  title: "Title Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - title
+    - activity
+    - writing
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Title"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Saya menginstruksikan anda bertindak seperti penulis berita indonesia yang
+    terkenal dan mahir dalam menulis artikel berita indonesia. Tulis ulang artikel
+    dengan judul ini [Title] [TARGETLANGUAGE] dengan informasi terbaru di tahun ini
+    yang dioptimalkan untuk SEO dengan 1. Isi seluruh artikle harus minimal 3000 kata.
+    2. gunakan minimal 10 judul dan subjudul. 3. expand setiap judul dan subjudul
+    menjadi 10 paragraf. 4. jadikan judul sebagai H1. 5. jangan tulis nomor judul.
+    6. Tulis informasi dengan kata-kata Anda sendiri, bukan menyalin dan menempel
+    dari sumber lain. 7. Periksa juga plagiarisme karena saya memerlukan konten unik
+    murni. 8. Tulis konten dengan gaya percakapan seolah-olah ditulis oleh manusia.
+    9. Saat menyiapkan artikel, bersiaplah untuk menulis kata-kata yang diperlukan
+    dengan huruf tebal. 10. Saya ingin Anda menulis konten sehingga dapat mengungguli
+    situs web lain. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

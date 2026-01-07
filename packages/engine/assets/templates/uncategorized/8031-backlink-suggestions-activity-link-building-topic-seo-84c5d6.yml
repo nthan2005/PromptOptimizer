@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8031
+# teaser: Create internal and external backlinks for your blog articles. Only for ChatGPT 3.5.
+# RevisionTime: 2023-03-16T15:18:07Z
+- id: 8031-backlink-suggestions-activity-link-building-topic-seo-84c5d6
+  title: "Backlink suggestions Activity: link building Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - backlink
+    - suggestions
+    - activity
+    - link
+    - building
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Backlink suggestions"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Google values outbound links. I''ll give you a link to a good blog. For this
+    blog, I want a table containing internal links, external deeplinks and in the
+    last column the anchor text. Here is the link: [PROMPT] Write the output in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

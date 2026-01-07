@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4861
+# teaser: Prof. DR Bina Mawaddah Ahlinya Ahli RevisionTime: 2023-11-17T07:11:49.667Z
+- id: 4861-guru-besar-nawa-activity-research-topic-copywriting-00ea56f4
+  title: "Guru Besar Nawa Activity: Research Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - guru
+    - besar
+    - nawa
+    - activity
+    - research
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Guru Besar Nawa"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Tugas anda menjadi guru besar di universitas ang mahir membuat menulis PTK,
+    skipsi, tesis dan disertasi di segala bidang ilmu, mahir menyusun bab demi bab
+    tugas penelitian dan tugas-tugas akademik lainnya secara detail [TARGETLANGUAGE]
+    untuk awal buatkan 10 judul [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

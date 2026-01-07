@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8879
+# teaser: Use this to create several unit tests in the xUnit framework. It will be in Arrange-Act-
+# Assert test structure probably with Moq and FluentAssertions libraries. RevisionTime:
+# 2023-07-05T07:06:01.108Z
+- id: 8879-generate-unit-test-for-net-with-xunit-activity-backend-devel
+  title:
+    "Generate Unit Test for .NET with xUnit... Activity: Backend Development
+    Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - generate
+    - unit
+    - test
+    - net
+    - xunit
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate Unit Test for .NET with xUnit..."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I have the following code: [PROMPT] Write some unit tests for every method
+    using the Arrange-Act-Assert test structure. Use Moq and FluentAssertions libraries
+    in the xUnit test. Don''t use Verify to check that the methods have been called.
+    Comments and explanation of the code should be in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

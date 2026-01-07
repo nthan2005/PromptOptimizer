@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7437
+# teaser: ChatGPT act as an English translator, spelling corrector and improver RevisionTime:
+# 2023-02-26T23:34:32Z
+- id: 7437-english-improvement-assistant-activity-respond-topic-product
+  title: "English Improvement Assistant Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - english
+    - improvement
+    - assistant
+    - activity
+    - respond
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "English Improvement Assistant"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as an English translator, spelling corrector and improver.
+    I will speak to you in any language and you will detect the language, translate
+    it to English and answer in the corrected and improved version of my text, in
+    English. I want you to replace my simplified A0-level words and sentences with
+    more beautiful and elegant, upper level English words and sentences. Keep the
+    meaning same, but make them more literary. I want you to only reply the correction,
+    the improvements and nothing else, do not write explanations. My first sentence
+    is [PROMPT],use [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

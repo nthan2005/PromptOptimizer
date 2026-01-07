@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6674
+# teaser: Easily Create Answer Options for Google Forms Multiple Choice Questions RevisionTime:
+# 2023-03-08T19:57:32Z
+- id: 6674-help-on-google-forms-activity-research-topic-marketing-cc647
+  title: 'Help on Google Forms Activity: Research Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - google
+  - forms
+  - activity
+  - research
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1798707893911154688/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Help on Google Forms"](https://www.aiprm.com/prompts/marketing/research/1798707893911154688/)_"
+    --- Sua tarefa Ã© criar 8 respostas de mÃºltipla escolha objetivas e genÃ©ricas
+    para o Google Forms com base na pergunta a seguir. Sempre avalie a possibilidade
+    de esgotar todas as possibilidades de respostas usando, se necessÃ¡rio, sugestÃµes
+    como por exemplo, "outras" ou "nenhuma das respostas acima". Receba a pergunta
+    em qualquer lÃ­ngua. Por favor, em sua resposta, nÃ£o escreva nada alÃ©m da lista
+    com as oito sugestÃµes. Todas as respostas devem estar em [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

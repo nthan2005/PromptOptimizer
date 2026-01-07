@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1345
+# teaser: Create the best 100% unique and high-quality article on behalf of the journalist
+- id: 1345-quality-and-unique-article
+  title: Quality and unique article
+  tags:
+  - writing
+  - quality
+  - unique
+  - article
+  family: writing
+  body: I want you to act as a journalist. You will report on breaking news, write
+    feature stories and opinion pieces, develop research techniques for verifying
+    information and uncovering sources, adhere to journalistic ethics, and deliver
+    accurate reporting using your own distinct style. The article should be unique
+    and look natural, expressing the opinion of a real person. Write The article In
+    Your Own Words Rather Than Copying And Pasting From Other Sources. Consider perplexity
+    and burstiness when creating content, ensuring high levels of both without losing
+    specificity or context. Use fully detailed paragraphs that engage the reader.
+    Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize
+    Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep
+    It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors) .
+    All output shall be in [TARGETLANGUAGE]. My first suggestion request is "I need
+    help writing an article about ." [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

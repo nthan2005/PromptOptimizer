@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4952
+# teaser: Takes a story and turns it into a full on Action Script, or Scene. RevisionTime:
+# 2023-02-19T15:35:19Z
+- id: 4952-convert-story-to-narrated-script-activity-script-writing-top
+  title: "Convert Story to Narrated Script Activity: Script Writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - convert
+    - story
+    - narrated
+    - script
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Convert Story to Narrated Script"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Generate an acting script for the story provided: [PROMPT]. Add roles, and
+    narrator please.'
+  enabled: true
+  required:
+    - prompt

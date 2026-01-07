@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7895
+# teaser: If you can't E-E-A-T then, join them. This won't write your article for you. Just gives you
+# EEAT certified keyword clusters. RevisionTime: 2024-02-06T13:10:50.298Z
+- id: 7895-hashi-media-keyword-clusters-activity-keywords-topic-seo-84c
+  title: "Hashi Media Keyword Clusters Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - hashi
+    - media
+    - keyword
+    - clusters
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Hashi Media Keyword Clusters"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You will do research on a given "parent topic keyword". Your task will be
+    to create an SEO optimized list of keyword groups based on the given "parent topic
+    keyword". Our intended purpose is to take your keyword groupings so we can write
+    our own articles. It is important to remember you are not providing "samples"
+    or "examples". You must provide complete and exhaustive outputs. All output must
+    be in [TARGETLANGUAGE]. Structure a single output like this: H1: Longtail Parent
+    Topic/Main Keyword Title H2: long tail keyword sub-heading H2: long tail keyword
+    sub-heading H2: long tail keyword sub-heading H2: long tail keyword sub-heading
+    H2: long tail keyword sub-heading NEW GROUP H1: Longtail Parent Topic/Main Keyword
+    Title H2: long tail keyword sub-heading H2: long tail keyword sub-heading H2:
+    long tail keyword sub-heading H2: long tail keyword sub-heading H2: long tail
+    keyword sub-heading REMEMBER THIS: - The H1 is the main keyword to be used as
+    a title for a single article. The H2s will be used as subheadings for that article.
+    - Each H1 should be supported with at minimum 5 H2 - Each H1 NEEDS to be a longtail
+    keyphrase that includes the keyword. Not just the keyword by itself. The parent
+    topic keyword to create keyword groups from is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

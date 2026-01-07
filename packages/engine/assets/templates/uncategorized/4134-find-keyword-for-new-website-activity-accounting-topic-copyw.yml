@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4134
+# teaser: Find low keyword difficulty and low search volume keywords for a new blog or a new affiliate
+# blog. RevisionTime: 2023-03-19T05:43:49Z
+- id: 4134-find-keyword-for-new-website-activity-accounting-topic-copyw
+  title: "Find keyword for new website Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - find
+    - keyword
+    - new
+    - website
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Find keyword for new website"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Give me a keyword for [PROMPT] with low keyword difficulty and low search
+    volume. This keyword must be best for a new website. [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

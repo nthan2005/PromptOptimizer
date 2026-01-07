@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 911
+# teaser: Rewrite this text and make it SEO optimized for the keyword [KEYWORD], no passive voice
+- id: 911-best-article-rewriter-no-passive-voice
+  title: Best Article Rewriter | No Passive Voice
+  tags:
+  - writing
+  - article
+  - rewriter
+  - passive
+  - voice
+  family: writing
+  body: 'I want you to rewrite this text in [number of words] words, and make it SEO
+    optimized for the keyword [KEYWORD], no passive voice, and make it friendly to
+    hook the reader. All output should be in [TARGETLANGUAGE]. The article to rewrite
+    is this: [PROMPT]'
+  enabled: true
+  required:
+  - keyword
+  - prompt
+  - targetlanguage

@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7
+# teaser: Any question about Microsoft Dynamics 365 CRM with the good context
+- id: 007-dynamics-365
+  title: Dynamics 365
+  tags:
+    - crm
+    - dynamics
+    - "365"
+  family: CRM
+  body:
+    Dans un contexte de Microsoft Dynamics 365 CRM Response in [TARGETLANGUAGE]
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

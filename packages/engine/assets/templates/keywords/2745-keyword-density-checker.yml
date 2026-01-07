@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2745
+# teaser: Check keyword density and watery in your article and make it perfect!
+- id: 2745-keyword-density-checker
+  title: Keyword Density Checker
+  tags:
+    - keywords
+    - keyword
+    - density
+    - checker
+  family: keywords
+  body:
+    Your task is check keywords density in given article and make a result for
+    text in percent. In the end add total percent of keywords density in text.All
+    output shall be in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

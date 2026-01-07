@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6373
+# teaser: Develop your Communication campaign RevisionTime: 2023-05-29T19:29:01.418Z
+- id: 6373-communication-campaign-activity-marketing-topic-marketing-cc
+  title: 'Communication Campaign Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - communication
+  - campaign
+  - activity
+  - marketing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1828834259805405184/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Communication Campaign"](https://www.aiprm.com/prompts/marketing/marketing/1828834259805405184/)_"
+    --- Apresente os resultados no idioma [TARGETLANGUAGE] eu quero que vocÃª apresente
+    uma campanha de comunicaÃ§Ã£o com sugestÃ£o de mote, justificativa detalhada da
+    campanha com conceito, essa campanha deve ser mais madura, inovadora e discutir
+    tabus. Gostaria da sugestÃ£o de seis canais sendo online e offline, interno e
+    externo Ã organizaÃ§Ã£o. Crie tambÃ©m um release com o tema e trÃªs textos para
+    instagram. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

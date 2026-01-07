@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5258
+# teaser: Best Outline Article For Blog, 100 % Unique with heading, sub heading and FAQs RevisionTime:
+# 2023-04-02T05:26:44.705Z
+- id: 5258-best-outline-for-blog-v-1-0-0-activity-writing-topic-copywri
+  title: "Best Outline For Blog V 1.0.0 Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - outline
+    - blog
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best Outline For Blog V 1.0.0"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create long-form content outline in markdown [TARGETLANGUAGE]. The content
+    outline should include a minimum of 20 headings and subheadings. The outline should
+    be extensive and cover the whole topic. Use fully detailed subheadings that engage
+    the reader. The outline should also have a conclusion followed by a list of FAQs
+    relevant to the topic. Please provide a catchy title for the article. Also provide
+    an SEO title for the article. Don''t write the article, only the outline for writers.
+    The topic of the article is: [KEYWORD] On the last, write: Please visit my blog:
+    https://www.mangaip.com Use Tone Friendly, Writing Style Creative [PROMPT]'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

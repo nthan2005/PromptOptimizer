@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5936
+# teaser: Synthese RevisionTime: 2024-01-12T21:43:50.211Z
+- id: 5936-synthese-cr-activity-writing-topic-copywriting-00ea56f446414
+  title: 'Synthese CR Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - synthese
+  - activity
+  - writing
+  - topic
+  - copywriting
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1875803107570237440/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Synthese CR \"](https://www.aiprm.com/prompts/copywriting/writing/1875803107570237440/)_\"\
+    \ --- [PROMPT] \"En utilisant les informations fournies dans le compte-rendu complet\
+    \ de la rÃ©union, crÃ©ez une synthÃ¨se claire et structurÃ©e pour amÃ©liorer la\
+    \ visibilitÃ© et la lisibilitÃ© des diffÃ©rentes sections. Identifiez et incluez\
+    \ les Ã©lÃ©ments suivants dans la synthÃ¨se, en utilisant des emojis pour faciliter\
+    \ la reconnaissance rapide des points et des sections : ### ðŸ\x8D\x81 SynthÃ¨se\
+    \ [Inclure le jour et la date de la rÃ©union ici] ðŸ”\x8D **TÃ¢ches Accomplies**\
+    \ : - Listez les tÃ¢ches accomplies en utilisant l'emoji âœ… et dÃ©crivez chaque\
+    \ tÃ¢che. ðŸ“Œ **ResponsabilitÃ©s et Ã‰chÃ©ances** : - Pour chaque personne mentionnÃ©e\
+    \ (par exemple, Thaaz Kiefer, Mcfly Separou), listez les responsabilitÃ©s qui\
+    \ leur sont attribuÃ©es. Utilisez des emojis pertinents pour dÃ©crire le type\
+    \ de chaque tÃ¢che. ðŸ’¡ **IdÃ©es et Points de Discussion** : - Identifiez et\
+    \ dÃ©crivez briÃ¨vement les idÃ©es principales et les points de discussion abordÃ©s\
+    \ lors de la rÃ©union. ðŸŽ¯ **PrioritÃ©s** : - DÃ©terminez et dÃ©crivez les prioritÃ©s\
+    \ Ã©tablies durant la rÃ©union, en utilisant des emojis appropriÃ©s pour chaque\
+    \ prioritÃ©. ðŸ”\x8D **Points Ã Clarifier** : - Identifiez et dÃ©crivez briÃ¨vement\
+    \ les points qui nÃ©cessitent des Ã©claircissements ou des discussions supplÃ©mentaires.\
+    \ Assurez-vous que la synthÃ¨se soit concise, en format bullet point, et n'inclue\
+    \ que les sections avec des informations pertinentes du compte-rendu de rÃ©union.\"\
+    \ [TARGETLANGUAGE] --- Ce prompt est conÃ§u pour guider la crÃ©ation d'une synthÃ¨se\
+    \ structurÃ©e et visuellement claire d'un compte-rendu de rÃ©union, en mettant\
+    \ l'accent sur l'identification et la prÃ©sentation claire des tÃ¢ches accomplies,\
+    \ responsabilitÃ©s, idÃ©es, prioritÃ©s et points Ã clarifier."
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

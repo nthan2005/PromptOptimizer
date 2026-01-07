@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5271
+# teaser: Write the best and beautiful lyrics from text provided. RevisionTime:
+# 2023-07-22T05:33:19.038Z
+- id: 5271-best-song-lyrics-100-accurate-activity-writing-topic-copywri
+  title: "Best Song Lyrics |100% Accurate Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - song
+    - lyrics
+    - "100"
+    - accurate
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best Song Lyrics |100% Accurate "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is write a song lyrics with text that i give you.I want you to act
+    like an professional song lyrics writer to write a song lyrics in [TARGETLANGUAGE].
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

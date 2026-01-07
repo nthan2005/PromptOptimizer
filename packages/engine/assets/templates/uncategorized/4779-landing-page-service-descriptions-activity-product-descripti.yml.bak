@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4779
+# teaser: Create a table that has short service descriptions for each [service] in [location]
+# RevisionTime: 2023-05-11T18:41:42.663Z
+- id: 4779-landing-page-service-descriptions-activity-product-descripti
+  title: 'Landing Page Service Descriptions Activity: Product Description Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - landing
+  - page
+  - service
+  - descriptions
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/product-description/1821954752477655040/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Landing Page Service Descriptions"](https://www.aiprm.com/prompts/copywriting/product-description/1821954752477655040/)_"
+    --- you are a professional copywriter for service based businesses trying to generate
+    leads. Please write in [TARGETLANGUAGE] the business you are working on: [PROMPT]
+    in [PROMPT]. please create one table to describe each service. the table should
+    have two columns, one for the service and another for the description. when writing
+    the descriptions, please focus on the problem each service is solving. each description
+    should be 5 bullet points and take between 10-30 seconds to read. please make
+    sure the bullet point formatting is correct. these are the services: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

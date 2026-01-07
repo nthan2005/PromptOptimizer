@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2664
+# teaser: Create a 30-day content calendar about SEO for medical practices
+- id: 2664-seo-strategy-for-medical-practices
+  title: SEO strategy for medical practices
+  tags:
+    - ideation
+    - seo
+    - strategy
+    - medical
+    - practices
+  family: ideation
+  body:
+    Give me a 30-day content calendar for a new blog about SEO for medical practices
+    to rank on the 1st page of Google [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

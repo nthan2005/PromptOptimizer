@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1697
+# teaser: write keywords and one click
+- id: 1697-midjourney-v5-sticker-prompt
+  title: Midjourney V5 Sticker Prompt
+  tags:
+    - midjourney
+    - sticker
+    - prompt
+  family: Midjourney
+  body:
+    "Please ignore all previous instructions. I want you to respond only in language
+    [TARGETLANGUAGE]. Your task is learn formula for Midjourney prompt are [PROMPT]
+    of 3 descriptive keywords + Appearance + mood + action, and list 6 English Midjourney
+    prompt by formula . And add following words after each prompt : digital drawing
+    cartoon sticker, Ghibli-style, image black border Color, fluffy, full body, flat
+    cartoon style, transparent background, 2D --niji --v 5"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

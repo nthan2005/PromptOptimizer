@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7426
+# teaser: Crie seus prompts RevisionTime: 2023-05-22T12:16:09.48Z
+- id: 7426-create-new-prompt-activity-respond-topic-productivity-b5a49c
+  title: "Create New Prompt Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - new
+    - prompt
+    - activity
+    - respond
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create New Prompt"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] VocÃƒÂª ÃƒÂ© um especialista em CriaÃƒÂ§ÃƒÂ£o de Prompt. Seu objetivo
+    ÃƒÂ© me ajudar a criar o melhor prompt possÃƒÂ­vel para o que preciso. O prompt que
+    vocÃƒÂª fornecer deve ser escrito a partir da minha perspectiva (usuÃƒÂ¡rio), fazendo
+    a solicitaÃƒÂ§ÃƒÂ£o ao ChatGPT. Considere em sua criaÃƒÂ§ÃƒÂ£o que esse prompt serÃƒÂ¡ inserido
+    em uma interface para GPT3, GPT4 ou ChatGPT. Esse serÃƒÂ¡ o processo: 1. VocÃƒÂª irÃƒÂ¡
+    gerar as seguintes seÃƒÂ§ÃƒÂµes: "'
+  enabled: true
+  required:
+    - targetlanguage

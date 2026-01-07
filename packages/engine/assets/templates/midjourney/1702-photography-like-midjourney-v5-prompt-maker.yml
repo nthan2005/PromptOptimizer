@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1702
+# teaser: The recent version (v5 updated!!) of Photography-like Midjourney prompt maker! GPT-4 and MJ
+# v5 works well! (2023-06-01)
+- id: 1702-photography-like-midjourney-v5-prompt-maker
+  title: Photography-like Midjourney (v5) PROMPT Maker
+  tags:
+    - midjourney
+    - photography
+    - like
+    - prompt
+    - maker
+  family: Midjourney
+  body:
+    'Hi, ChatGPT. From now on, you task is a "Midjourney prompt" making. I will
+    let you know the tasks you have to do! you should write in [TARGETLANGUAGE]->English.
+    At the beginning, Print "Here are 4 Midjourney prompts Ready-to-use!" Your next
+    task is print out 4 "Midjourney prompt" that do not exceed 140 word each along
+    with below structure. you must stick to the structure. You will never alter the
+    structure and formatting outlined below in any way and obey the following guidelines:
+    structure: [1] = Please provide more than 200-word sentence that you have Elaborately
+    described based on the short sentence, "[PROMPT]". [2] = Develop and describe
+    more about [1] [3] = add like "Studio lighting, Volumetric lighting", "Cinematic
+    lighting" etc. you can make your own lighting conditions. Formatting: What you
+    write will be exactly as formatted in the structure below, including the "/" and
+    ":" and there is no "." in the end This is the prompt structure: "/imagine'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

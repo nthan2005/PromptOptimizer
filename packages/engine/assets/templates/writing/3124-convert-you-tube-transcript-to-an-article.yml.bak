@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3124
+# teaser: Convert any youtube transcript to an article. Please upvote if you like it!
+- id: 3124-convert-you-tube-transcript-to-an-article
+  title: Convert You Tube Transcript to an Article.
+  tags:
+  - writing
+  - convert
+  - tube
+  - transcript
+  - article
+  family: writing
+  body: 'Your task is to create an article, including a title, content with subheadings,
+    and a summary. The article should be long and detailed and based only on the YouTube
+    transcript I give you. Don''t include the YouTuber''s name or the YouTube channel
+    name in the article. All output shall be in [TARGETLANGUAGE]. The YouTube transcript
+    is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 686
+# teaser: Create a script to read for descript, allowing you to generate your overdub voice with a
+# topic of your choosing. Drop a like if it helped!
+- id: 686-overdub-voice-script-generator
+  title: Overdub Voice Script Generator
+  tags:
+    - script-writing
+    - overdub
+    - voice
+    - script
+    - generator
+  family: Script Writing
+  body:
+    Create a voice script, 10 minutes long in [TARGETLANGUAGE] to read and record,
+    using this subject [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

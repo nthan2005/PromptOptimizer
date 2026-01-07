@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2645
+# teaser: Enhance the legibility of your article, let words, paragraphs, punctuation marks, grammer
+# used correctly, formally and propery.
+- id: 2645-polish-your-article
+  title: Polish your article
+  tags:
+    - ideation
+    - polish
+    - article
+  family: ideation
+  body:
+    'You are a professional SEO specialist & writer who write fluently in [TARGETLANGUAGE],
+    I want you to polish the article below, and respond in [TARGETLANGUAGE]. Your
+    polished article can outrank other website. As this is an article for a company''s
+    official website, so all the words, paragraphs, grammer and punctuation marks
+    should be use correctly, properly and formally. Here is the article: [PROMPT]
+    Please reply like this: This is your polished article: "Polished Article"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

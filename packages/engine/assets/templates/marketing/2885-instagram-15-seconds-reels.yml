@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2885
+# teaser: Script for Instagram reels | Type topic name
+- id: 2885-instagram-15-seconds-reels
+  title: Instagram 15 seconds reels
+  tags:
+    - marketing
+    - instagram
+    - seconds
+    - reels
+  family: marketing
+  body:
+    "your task is to generate a script of 70 words or maximum 100 characters and
+    5 high cpc hashtags according to the topic. All output shall be in [TARGETLANGUAGE].
+    The text to summarize is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2083
+# teaser: Get The Complete Vlog Script
+- id: 2083-100-humen-written-script-for-youtube-vlogs
+  title: 100% Humen Written Script For YouTube Vlogs
+  tags:
+  - writing
+  - '100'
+  - humen
+  - written
+  - script
+  - youtube
+  family: writing
+  body: 'Your task is to provide a video script of the text I give you in 750 words
+    within {Script Start} and {Script Stop} followed by If you want to watch such
+    videos just click on the link: https://www.youtube.com/@HalfTraveller All output
+    shall be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

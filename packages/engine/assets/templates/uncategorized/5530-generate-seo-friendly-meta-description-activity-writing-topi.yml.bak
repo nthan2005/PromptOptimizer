@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5530
+# teaser: Create SEO friendly Meta Description RevisionTime: 2023-02-19T15:35:19Z
+- id: 5530-generate-seo-friendly-meta-description-activity-writing-topi
+  title: 'Generate SEO Friendly Meta Description Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - generate
+  - seo
+  - friendly
+  - meta
+  - description
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1786347472478793728/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Generate SEO Friendly Meta Description
+    "](https://www.aiprm.com/prompts/copywriting/writing/1786347472478793728/)_" ---
+    Your task is to summarize the text I give you in 165 characters. All output shall
+    be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

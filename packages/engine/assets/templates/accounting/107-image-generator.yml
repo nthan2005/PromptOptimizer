@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 107
+# teaser: Create an awesome DALL-E prompt
+- id: 107-image-generator
+  title: Image generator
+  tags:
+    - accounting
+    - image
+    - generator
+  family: Accounting
+  body: Generate a DALLE prompt in [TARGETLANGUAGE] or a [KEYWORD] [PROMPT]
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

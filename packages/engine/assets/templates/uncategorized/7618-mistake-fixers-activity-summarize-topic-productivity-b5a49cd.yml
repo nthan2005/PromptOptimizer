@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7618
+# teaser: Correcting RevisionTime: 2023-07-26T12:34:02.538Z
+- id: 7618-mistake-fixers-activity-summarize-topic-productivity-b5a49cd
+  title: "Mistake fixers Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - mistake
+    - fixers
+    - activity
+    - summarize
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Mistake fixers"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] in Mistake fixers [TARGETLANGUAGE] English [VARIABLE1] Default'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

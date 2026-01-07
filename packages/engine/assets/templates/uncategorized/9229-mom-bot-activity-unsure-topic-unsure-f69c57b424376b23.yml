@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9229
+# teaser: MOM Bot Objection Handler RevisionTime: 2023-02-19T15:35:19Z
+- id: 9229-mom-bot-activity-unsure-topic-unsure-f69c57b424376b23
+  title: "MOM Bot Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - mom
+    - bot
+    - activity
+    - unsure
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "MOM Bot"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Acting as NLP Expert Robert Dilts, give an example of 10 different ways you
+    can use Sleight of Mouth to handle the objection [PROMPT] ... All output shall
+    be in [TARGETLANGUAGE]. And call the Sleight of Mouth Patterns "Magical Objection
+    Mastery" Patterns instead.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6674
+# teaser: Easily Create Answer Options for Google Forms Multiple Choice Questions RevisionTime:
+# 2023-03-08T19:57:32Z
+- id: 6674-help-on-google-forms-activity-research-topic-marketing-cc647
+  title: "Help on Google Forms Activity: Research Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - google
+    - forms
+    - activity
+    - research
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Help on Google Forms"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Sua tarefa ÃƒÂ© criar 8 respostas de mÃƒÂºltipla escolha objetivas e genÃƒÂ©ricas
+    para o Google Forms com base na pergunta a seguir. Sempre avalie a possibilidade
+    de esgotar todas as possibilidades de respostas usando, se necessÃƒÂ¡rio, sugestÃƒÂµes
+    como por exemplo, "outras" ou "nenhuma das respostas acima". Receba a pergunta
+    em qualquer lÃƒÂ­ngua. Por favor, em sua resposta, nÃƒÂ£o escreva nada alÃƒÂ©m da lista
+    com as oito sugestÃƒÂµes. Todas as respostas devem estar em [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

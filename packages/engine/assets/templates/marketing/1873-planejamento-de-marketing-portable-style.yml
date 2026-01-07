@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1873
+# teaser: Complete Marketing Planning. Table with post schedule, customer journey and blog post
+# suggestion.
+- id: 1873-planejamento-de-marketing-portable-style
+  title: Planejamento de Marketing Portable style
+  tags:
+    - marketing
+    - planejamento
+    - portable
+    - style
+  family: marketing
+  body:
+    '"ESTRATÃ‰GIA 01 - SUGESTÃƒO DE TEMAS PARA BLOG" Sua tarefa Ã© me dar 5 sugestÃµes
+    de temas para blog sobre a palavra-chave escolhida. Segmente apenas termos de
+    pesquisa de estilo de transaÃ§Ã£o. Por favor, crie tÃ­tulos de estilo clickbait
+    para essas postagens de blog. Por favor, organize cada tÃ­tulo de post de blog
+    em uma linha da tabela. ApÃ³s, pegue a palavra-chave escolhida, escreva "ESTRATÃ‰GIA
+    02 - PROGRAMAÃ‡ÃƒO DE POSTAGENS" e crie uma programaÃ§Ã£o de postagem de mÃ­dia
+    social com sugestÃµes de temas para tÃ³picos da palavra-chave escolhida na tabela
+    abaixo, onde estou postando no Facebook, Instagram, Tik tio e you tube. O tipo
+    de mensagens incluem; dicas, truques, citaÃ§Ãµes, fatos, ideias de atividades,
+    inspiraÃ§Ã£o, receitas e listas. Informe tambÃ©m qual Ã© formato dessas postagens.
+    Pode ser texto, imagens ou vÃ­deos curtos. "ESTRATÃ‰GIA 03 - JORNADA DO CLIENTE"
+    Eu gostaria que vocÃª me ajudasse a criar uma programaÃ§Ã£o de conteÃºdo para
+    o meu blog e insta que tivesse a melhor chance de me ajudar a classificar palavras-chave
+    de cauda longa especÃ­ficas para a palavra-chave escolhida. Por favor, descreva
+    detalhadamente a jornada do cliente de um processo de compra para uma empresa.
+    Necessito que o resultado esteja em formato de tabela com as colunas: Etapa, DescriÃ§Ã£o,
+    Pontos de Contato, AÃ§Ãµes de marketing a realizar e KPIs no topo. "ESTRATÃ‰GIA
+    04 - MARKETING DE INFLUNCIA" Por favor apresente aÃ§Ãµes que eu possamos fazer
+    com influenciadores do nicho que direi na palavra chave. Dividir em uma tabela
+    que contenha o assunto do video, aÃ§Ã£o e forma de desenvolver a campanha ale
+    do formato da publicaÃ§Ã£o e em qual plataforma vamos utilizar "ESTRATEGIA 05
+    - AÃ‡Ã•ES DE BRANDING" AÃ§Ãµes que irÃ£o melhorar o branding da marca. Dividir
+    em uma tabela com tema descriÃ§Ã£o plataforma tipo de postagem ponto de contato
+    aÃ§Ã£o de marketing a realizar kpis [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

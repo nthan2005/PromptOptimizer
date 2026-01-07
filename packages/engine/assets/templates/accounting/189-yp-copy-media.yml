@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 189
+# teaser: (YP) Copy media Use: Company name, market segment, focus of the message (Mother's day, for
+# example), differentials, objective
+- id: 189-yp-copy-media
+  title: (YP) Copy media
+  tags:
+    - accounting
+    - copy
+    - media
+  family: Accounting
+  body:
+    "Apresente o resultado no idioma [TARGETLANGUAGE] FaÃ§a um texto para anÃºncio
+    de uma empresa chamada ... A empresa Ã© do mercado de .... Quero que a comunicaÃ§Ã£o
+    seja focada em... Os principais diferenciais sÃ£o ... O foco da comunicaÃ§Ã£o
+    Ã© ... FaÃ§a 2 versÃµes ideiais para Facebook e Instagram, cada uma com nÃºmero
+    de caracteres entre 150 e 200. Faca uma versÃ£o para campanha de Performance Max
+    do Google Ads, contendo: 5 TÃ­tulos diferentes (Cada um com atÃ© 30 caracteres)
+    10 DescriÃ§Ãµes diferentes (Cada uma com atÃ© 90 caracteres) [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

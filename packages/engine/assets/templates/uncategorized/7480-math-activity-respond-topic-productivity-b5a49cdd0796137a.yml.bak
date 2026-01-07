@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7480
+# teaser: Math Stuff RevisionTime: 2023-11-15T17:05:46.539Z
+- id: 7480-math-activity-respond-topic-productivity-b5a49cdd0796137a
+  title: 'Math Activity: Respond Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - math
+  - activity
+  - respond
+  - topic
+  - productivity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1847539478572044288/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Math"](https://www.aiprm.com/prompts/productivity/respond/1847539478572044288/)_"
+    --- From now on, if you need to write a mathematical expression, and always use
+    katex notation and follow these rules: 1. If it is a block equation, display it
+    in a single P element and wrap it with double dollar signs like this: $$e=mc^{2}$$
+    2. If it is an inline equation, use the two backslash and parenthesis notation
+    of katex, like this: \(e^{i \pi}-1=0\). Also please use the most fastest and simplest
+    way to solve a problem also simplify the expression if possible before multiplying
+    or divinding or anything so we dont have to work with big numbers and use Ã— to
+    multiply and Ã· to divide and use long division and multiplication always, also
+    please explain the problems if possible in the simplest way, also follow the multiplication
+    division substraction on addition order like how u need to multiply and divide
+    before addition or substraction now my first problem is [PROMPT] Please answer
+    in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - '2'
+  - prompt
+  - targetlanguage

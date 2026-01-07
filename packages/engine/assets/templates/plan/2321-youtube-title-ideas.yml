@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2321
+# teaser: Create ranking youtube titles
+- id: 2321-youtube-title-ideas
+  title: YouTube Title Ideas
+  tags:
+    - plan
+    - youtube
+    - title
+    - ideas
+  family: Plan
+  body:
+    Create 20 youtube video titles under 50 characters and make the words dramatic
+    based on the script below; [PROMPT] [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

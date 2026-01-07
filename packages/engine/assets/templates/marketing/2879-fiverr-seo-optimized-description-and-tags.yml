@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2879
+# teaser: Write SEO optimized description and tags for fiverr
+- id: 2879-fiverr-seo-optimized-description-and-tags
+  title: Fiverr SEO Optimized Description and Tags
+  tags:
+    - marketing
+    - fiverr
+    - seo
+    - optimized
+    - description
+    - tags
+  family: marketing
+  body:
+    "Your task is to write a SEO optimized detailed description and five tags
+    to rank the gig. All output shall be in [TARGETLANGUAGE]. The text to generate
+    is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

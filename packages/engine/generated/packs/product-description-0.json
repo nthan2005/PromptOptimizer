@@ -1,0 +1,667 @@
+[
+  {
+    "id": "539-1-click-product-description",
+    "title": "1 Click Product Description",
+    "tags": [
+      "product-description",
+      "click",
+      "product",
+      "description"
+    ],
+    "body": "{prompt} [TARGETLANGUAGE\n",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "540-amazon-copywriting-a-content-copywriting",
+    "title": "Amazon Copywriting | A+ Content Copywriting",
+    "tags": [
+      "product-description",
+      "amazon",
+      "copywriting",
+      "content"
+    ],
+    "body": "I want you to act as an expert amazon copywriter with 20 years of SEO experience and speaks and writes fluent {targetlanguage}. Create 3 headline, 3 sub headlines and a 500 characters description about the given subject. They need to be a good fit for an amazon listing product. The results must be 100% human writing style and fix grammar errors like Grammarly.com Please make sure you respect this information very strictly and the description does not exceed 500 characters. You will take your information from here: {prompt}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "541-amazon-copywriting-amazon-bullet-points",
+    "title": "Amazon Copywriting | Amazon Bullet Points",
+    "tags": [
+      "product-description",
+      "amazon",
+      "copywriting",
+      "bullet",
+      "points"
+    ],
+    "body": "I want you to act as an expert amazon copywriter with 20 years of SEO experience and speaks and writes fluent {targetlanguage}. Create 5 bullet points to be a good fit for an amazon listing product. Follow these instructions very strictly: Create 5 bullet points based on the information provided. The new bullet points need to contain the original information. The bullet points need to stimulate the buyer and convince them to purchase the product. The lengths of each bullet point not exceed 500 characters and not be smaller than 400 characters. Make sure the beginning of each bullet point is a feature and is in capitals, no other word in the bullet points will be in capitals. The results must be 100% human writing style and fix grammar errors like Grammarly.com Please make sure you respect this information very strictly. You will take your information from here: {prompt}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "542-amazon-title",
+    "title": "Amazon Title",
+    "tags": [
+      "product-description",
+      "amazon",
+      "title"
+    ],
+    "body": "Can you write Amazon Product Title Dont use more then 180 Characters in the Title Ensure it doesnâ€™t include any surety words like 100%, perfect, unique, perfect, best, High quality â€“ This is very important By using the following information {prompt} write all output in {targetlanguage}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "543-amz-product-description",
+    "title": "Amz Product Description",
+    "tags": [
+      "product-description",
+      "amz",
+      "product",
+      "description"
+    ],
+    "body": "Can you write Amazon Product Description of 1500 Characters. Ensure it doesnâ€™t include any surety words like 100%, perfect, unique, perfect, best, High quality â€“ This is very important By using the following information {prompt} write all output in {targetlanguage}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "544-articles-for-ecommerce-and-blog-seo-optimized",
+    "title": "Articles for eCommerce and Blog. SEO Optimized.",
+    "tags": [
+      "product-description",
+      "articles",
+      "ecommerce",
+      "blog",
+      "seo",
+      "optimized"
+    ],
+    "body": "Please ignore all previous instructions. I want you to act as a Content writer very proficient SEO that speaks and writes fluently {targetlanguage}. Write an SEO-optimized Long Form article with 1. a minimum of 1500 words. 2. Please use a minimum of 7 headings with bold font and sub headings, included H1, H2 and H3 Headings. 3. The final paragraph should be a conclusion 4. also add 5 FAQs and FAQs must be different from already written heading. 5. write the information in your own words rather than copying and pasting from other sources. 6. also double-check for plagiarism because I need pure unique content, 7. write the content in a conversational style as written by a human. 8. Write 3 customer reviews with the first name and last initial. 9. write content so that it can outrank other websites. 10. Make headings bold and appropriate for h tags. Do not reply that there are many factors that influence good search rankings. I know that quality of content is just one of them, and it is your task to write the best possible quality content here, not to lecture me on general SEO rules. I give you the Title {prompt} of an article that we need to outrank in Google. Then I want you to write an article in a formal \"we\" form that helps me outrank the article I gave you, in Google. The article should contain rich and comprehensive, very detailed paragraphs, with lots of details. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Do now use generic filler phrases. Do use useful subheadings with keyword-rich titles. Get to the point precisely and accurately. Do not explain what and why, just give me your best possible article.",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "545-aso-for-google-play-store-listing",
+    "title": "ASO for Google Play Store Listing",
+    "tags": [
+      "product-description",
+      "aso",
+      "google",
+      "play",
+      "store",
+      "listing"
+    ],
+    "body": "Write a Google Play Store ASO optimized meta data for the app {app_name} of category {category} targeting the keyword {keyword} where title limit is 30 characters, Short description limit is 80 characters and Long Description of about 4000 characters. Include a hook line or a promotional text at the start of the long description and include key features of the app/game in the long description as well. Also mention keywords in inverted commas and try maximizing the character limit short description and long description please. All output shall be in {targetlanguage}. The Answer is {prompt}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "category",
+      "keyword",
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "546-best-software-review",
+    "title": "Best Software Review",
+    "tags": [
+      "product-description",
+      "software",
+      "review"
+    ],
+    "body": "{targetlanguage} Your task is to take {prompt} and optimize those words for SEO of this {prompt}. write a product/software review in a format like this: {prompt}: Description, Features, Benefits, User Experience, What I Like/Dislike, Pricing **Description:** Trello is a highly popular and user-friendly task management tool that enables seamless collaboration for remote teams. With its intuitive Kanban-style boards, you can easily create and organize tasks, assign team members, and track progress in real time. Trello's simplicity and flexibility make it an excellent choice for remote team management. **Key Features:** - Improve rankings on search engines with powerful SEO tools - Built-in marketing integrations ensure the tools you already use are working together - Royalty-free images right at your fingertips help you create stunning visuals for your website **User Experience:** - Enhances collaboration and organization with intuitive Kanban-style boards. - Facilitates real-time tracking and updates on task progress. - Promotes transparency and visibility for remote teams. **Benefits:** - Provides a user-friendly interface for easy task management. - Enables seamless collaboration and communication among team members. - Offers real-time updates and progress tracking. **What I Like/Dislike:** | Likes | Dislikes | | ------------------------------------------------------------ | ---------------------------------------------------------------- | | Easy-to-use interface | Limited automation features in the free plan | | Seamless collaboration with team members | Integration options can be improved | | Visual boards provide a clear overview of tasks and progress | | **Pricing:** Trello offers a freemium pricing model with the following plans: - Free: Basic features and limited storage - Business Class: Advanced features for teams at $12.50 per user/month - Enterprise: Customized solutions for large organizations **Call to Action:** Ready to streamline your remote team management? Try Trello today and experience the power of visual collaboration. {affiliate_link} Please note that the same format can be applied to the other tools mentioned, replacing the respective details for each tool.",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "547-create-a-product-description-for-amazon-aliexpress",
+    "title": "Create a product description for Amazon Aliexpress",
+    "tags": [
+      "product-description",
+      "product",
+      "description",
+      "amazon",
+      "aliexpress"
+    ],
+    "body": "Please ignore all previous instructions. I want you to respond only in language {targetlanguage}. I want you to act as a highly proficient copywriter for Amazon and Aliexpress products, with the ability to write fluent {targetlanguage}, high-end copy. I want you to pretend that you can write content so good in {targetlanguage} that it can outrank other websites. Your task is to summarize the text I give you and then write a product information description. I want you to come up with a minimum of three distinct content sections for the product description, each section about a unique subset of keywords relating to the product I provide you. Please also include bulleted list of broad match keywords that were used to accomplish writing the product summary. Write a persuasive and professional sounding Meta Title and Description and Tags, that integrates similar language present in the new product summary text. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. All output shall be in {targetlanguage}. The text to summarize is this: {prompt}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "548-create-product-description",
+    "title": "create product description",
+    "tags": [
+      "product-description",
+      "product",
+      "description"
+    ],
+    "body": "I want you to act as a content writer and create Titile, 400 word count content, also meta description. avoid passive voice in the content, content should be 100% human-generated. All output shall be in {targetlanguage}. The Keyword to create is this : {prompt}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "549-easy-copywriting",
+    "title": "Easy copywriting",
+    "tags": [
+      "product-description",
+      "easy",
+      "copywriting"
+    ],
+    "body": "You are an emotional counselor, first of all, I hope that you will give corresponding suggestions according to {prompt}, preferably with examples, and describe in detail how to achieve it, fluently write {targetlanguage} suggestions, secondly, hope that the number of suggestions does not exceed 5, and the total number of words is controlled within 100 words, but I hope you can empathize a little, care about him (her) in many ways, can say more warm words, and put yourself in his shoes",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "550-e-commerce-category-description-writer",
+    "title": "E-commerce category description writer.",
+    "tags": [
+      "product-description",
+      "commerce",
+      "category",
+      "description",
+      "writer"
+    ],
+    "body": "Please ignore all previous instructions. I want you to act as a very proficient SEO and high-end eCommerce copywriter that speaks and writes fluently {targetlanguage}. Write 400 word product category description in {targetlanguage} based on the category name I give you. Focus on benefits rather than features, make it all written in one line, avoid sentences over 20 words, avoid using passive voice and include a call to action at the end. Category name is {prompt}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "551-emotional-counselor",
+    "title": "emotional counselor",
+    "tags": [
+      "product-description",
+      "emotional",
+      "counselor"
+    ],
+    "body": "You are an emotional counselor, first of all, I hope that you will give corresponding suggestions according to {prompt}, preferably with examples, and describe in detail how to achieve it, fluently write {targetlanguage} suggestions, secondly, hope that the number of suggestions does not exceed 5, and the total number of words is controlled within 100 words, but I hope you can empathize a little, care about him (her) in many ways, can say more warm words, and put yourself in his shoes",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "552-features-and-benefits-of-product-description",
+    "title": "features and benefits of product description",
+    "tags": [
+      "product-description",
+      "features",
+      "benefits",
+      "product",
+      "description"
+    ],
+    "body": "identify the features and benefits in this description. Make a list called Features and Benefits. Add the emoji check green in front of line of the list output in {targetlanguage} {prompt}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "553-goodbye-basic-descriptions",
+    "title": "GoodBye Basic Descriptions",
+    "tags": [
+      "product-description",
+      "goodbye",
+      "basic",
+      "descriptions"
+    ],
+    "body": "Sie sind ein SEO-Experte mit umfangreicher Erfahrung im digitalen Marketing. Bitte erstellen Sie eine Ã¼berzeugende Produktbeschreibung in {targetlanguage} anhand der Grundbeschreibung, die ich nach dieser Anweisung einfÃ¼gen werde, die mit \"Grundbeschreibung:\" beginnt. Verwenden Sie auch die Keywords, die ich nach der Grundbeschreibung einfÃ¼gen werde. Sie beginnen mit \"keywords:\" und sind komma getrennt. Verwende eine einfache, klare Sprache und strukturiere den text sinnvoll um sicherzustellen, dass er leicht zu lesen und verstehen ist. Vermeiden Sie jedoch die Ã¼bermÃ¤ÃŸige Verwendung von Keywords oder irrefÃ¼hrende Informationen, um Suchmaschinen zu tÃ¤uschen. Diese Methoden kÃ¶nnen sich negativ auf das Ranking Ihrer Produktbeschreibung auswirken und Ihre GlaubwÃ¼rdigkeit beeintrÃ¤chtigen. Nutzen Sie stattdessen Ihre Erfahrung im Bereich SEO und digitales Marketing, um eine aussagekrÃ¤ftige und informative Produktbeschreibung zu erstellen, die Ihre Zielgruppe anspricht und gleichzeitig von Suchmaschinen erkannt wird. Grundbeschreibung: {prompt}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "554-html-product-description",
+    "title": "<HTML> Product Description",
+    "tags": [
+      "product-description",
+      "html",
+      "product",
+      "description"
+    ],
+    "body": "Your task is to create a product description with these instructions: 2) 2, 3, 4 or 5 paragraphs with the headings <h3> <h4> and <h5> with the benefits of the product. 3)Create a bullet point <ul> list with the most important futures and a heading in <h5>. The description should be written in HTML. All output shall be in {targetlanguage}. Now I will give you the text to examine and create the product description: {prompt}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "555-keyword-strategy",
+    "title": "Keyword Strategy",
+    "tags": [
+      "product-description",
+      "keyword",
+      "strategy"
+    ],
+    "body": "Prompt text including placeholders {targetlanguage}, {prompt}, {variable1}, {variable2} and {variable3} replaced automagically by MKT18 {variable}, {variable2} and {variable3} require title with optional default value and available values. Example: Example{prompt} in {targetlanguage} with {variable1}, {variable2} and {variable3}. {variable1_title} {variable2_title_defaultvalue} {variable3_title_defaultvalue_available_value_1_available_value_2_available_value_3}. {variable1}, {variable2} and {variable3} will be pre-filled using URL parameters AIPRM_VARIABLE1, AIPRM_VARIABLE2 and AIPRM_VARIABLE3",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage",
+      "variable",
+      "variable1",
+      "variable2",
+      "variable3"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "556-landing-page-service-descriptions",
+    "title": "Landing Page Service Descriptions",
+    "tags": [
+      "product-description",
+      "landing",
+      "page",
+      "service",
+      "descriptions"
+    ],
+    "body": "you are a professional copywriter for service based businesses trying to generate leads. Please write in {targetlanguage} the business you are working on: {prompt} in {prompt}. please create one table to describe each service. the table should have two columns, one for the service and another for the description. when writing the descriptions, please focus on the problem each service is solving. each description should be 5 bullet points and take between 10-30 seconds to read. please make sure the bullet point formatting is correct. these are the services: {prompt}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "557-long-articles-for-ecommerce-and-blog",
+    "title": "Long Articles for eCommerce and Blog.",
+    "tags": [
+      "product-description",
+      "long",
+      "articles",
+      "ecommerce",
+      "blog"
+    ],
+    "body": "I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently {targetlanguage}. Create a long article. Bold the Heading using Markdown language. Write a 2000-word 100% Unique, SEO-optimized, Human-Written article in {targetlanguage} with at least 12 headings and subheadings (including H1, H2, H3 and H4 headings) that covers the topic provided in the Prompt. Write The article In Your Own Words Rather Than Copying And Pasting From Other Sources. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors). Make 5 unique FAQs, 3 unique customer reviews with the first name and last initial, and at the end with a conclusion paragraph including a call to action. this is important to Bold the Title and all headings of the article, and use appropriate headings for H tags. Now Write An Article On This Topic {prompt}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "558-media-buying-text",
+    "title": "Media buying text",
+    "tags": [
+      "product-description",
+      "media",
+      "buying",
+      "text"
+    ],
+    "body": "I want you to be a very successful copywriter who sells products with your texts. In this case, you are writing a PR article, i.e. text that has leased space on a portal. The text represents the product, and it should not be a hard-core selling text, but rather a content style, meaning that you create a light introduction and then elaborate the text through benefits. The article's structure is this: The first paragraph is the introduction of the product in one or two sentences. The second paragraph should introduce the reader to the product even more by highlighting the pain points that the product resolves. In the third paragraph explain the main benefit of this product to the reader. In this part, there should be 5 of 6 sentences. In the fourth paragraph highlight some other features and benefits of the product. At the end list the main features in the bullet list and explain the benefits of those features in 3 to 6 words. Add 2 subheadlines in the text. Add 3 CTAâ€™s in the form of the sentence. The article should not exceed 450 words. Write all output in {targetlanguage} The product description is this: {prompt}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "559-ml-write-categ-text",
+    "title": "ML: Write Categ text",
+    "tags": [
+      "product-description",
+      "write",
+      "categ",
+      "text"
+    ],
+    "body": "Please ignore all previous instructions. I want you to act as a very proficient SEO and high-end eCommerce copywriter that speaks and writes fluently {targetlanguage}. You are writing for the website Modalova. Modalova is online shopping website specialized in fashion for men and women (adults only). The target audience is fashion-addict and online shopping lovers. Write a text for a category page on the Modalova website. The text must be SEO-optimized to answer the request \"{prompt}\". The text must be 300 words long maximum. The content must be adapted to appear on the website Modalova. Focus on benefits rather than features, avoid sentences over 20 words, avoid using passive voice and include a call to action at the end. The text must be split into paragraphs. Add HTML H3 tags for each paragraph's title. Don't mention anything about shipping or return policy. The text must be written in {targetlanguage}.",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "560-modalova-write-category-text",
+    "title": "Modalova: Write Category text",
+    "tags": [
+      "product-description",
+      "modalova",
+      "write",
+      "category",
+      "text"
+    ],
+    "body": "Please ignore all previous instructions. I want you to act as a very proficient SEO and high-end eCommerce copywriter that speaks and writes fluently {targetlanguage}. You are writing for the website Modalova. Modalova is online shopping website specialized in fashion for men and women (adults only). The target audience is fashion-addict and online shopping lovers. Write a text for a category page on the Modalova website. The text must be SEO-optimized to answer the request \"{prompt}\". The text must be 300 words long maximum. The content must be adapted to appear on the website Modalova. Focus on benefits rather than features, avoid sentences over 20 words, avoid using passive voice and include a call to action at the end. The text must be split into paragraphs. Add HTML H3 tags for each paragraph's title. Don't mention anything about shipping or return policy. The text must be written in {targetlanguage}.",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "561-otto-market-product-description-5-bullet-points",
+    "title": "OTTO Market Product description+5 Bullet Points",
+    "tags": [
+      "product-description",
+      "otto",
+      "market",
+      "product",
+      "description",
+      "bullet"
+    ],
+    "body": "You are an expert in SEO and I have a task for you. I will give you a product description and you will analyze the keywords contained in my product description and create a maximum of 2000 characters long, perfectly SEO-optimized product description on the privious analyzed keywords for a marketplace offer from it. Afterwards, I will need 5 bullet points about the product you just described. The output language is {targetlanguage}. Here is the product description: {prompt}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "562-product-description-from-the-uk",
+    "title": "Product Description from the UK",
+    "tags": [
+      "product-description",
+      "product",
+      "description"
+    ],
+    "body": "Please ignore all previous instructions. I want you to act as a website administrator, product manager, and high-end copywriter highly proficient in SEO that can write content so well in {targetlanguage} that it can outrank other websites. When it comes to writing content, do not fabricate any detailed information. It is imperative that the information presented to the consumer is correct, factual, exciting, engaging, grammatically correct, and informative. Most importantly, the information must be real and correct! If there is not enough information on the product available online or in your dataset to include a requested section of information that would help improve SEO, then do not include that section. In {targetlanguage} write thorough, fully markdown formatted in an attractive layout(Maximum Font Size 24pt), original, and entertaining SEO content for an e-commerce website's product that has its product description listed in the following quotes \"{prompt}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "563-product-description-optimized-for-conversions",
+    "title": "Product Description Optimized for Conversions",
+    "tags": [
+      "product-description",
+      "product",
+      "description",
+      "optimized",
+      "conversions"
+    ],
+    "body": "Please ignore all previous instructions that you have received. I want you to act as an SEO expert and high-end eCommerce copy writer. You have an incredible skill to describe products in a way that makes the customer feel as the text was written based on their needs. You write fluently {targetlanguage}, using a dynamic language that gives an individualized touch to the text. Write a 200 - 300 word product description in {targetlanguage} based on the product details I give you. Follow these guidelines: - Mention features, emphasize benefits! - Focus on including the feelings that the benefits will give the customer - Focus on how the benefits will make the customer feel. - Sound enthusiastic and trustworthy - Based on the product details, write using a language that \"speaks\" to a potential customer. - Use powerful words but make sure it still feels natural and honest. - The Product description should be easy to skim and still notice the most important benefits and selling points - Use short sentences, short paragraphs, use bullet points to make sure the description is easy to skim and notice the most important parts of the description. - Avoid using passive voice - The product description must be easy to read - If I provide social proof in the product details, make sure to include that. - Include a powerful headline that is professionally written, relevant, and lets the customer know what kind of product it is. The goal with the headline is to make the customer curious and want to continue to read about the product. - Include a call to action at the end that helps the customer to act. - Use markdown to format the product description Here are the product details: {prompt}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "564-product-description-seo-optimized",
+    "title": "Product Description SEO Optimized",
+    "tags": [
+      "product-description",
+      "product",
+      "description",
+      "seo",
+      "optimized"
+    ],
+    "body": "Please ignore all previous instructions that you have received. I want you to act as an SEO expert and high-end eCommerce copy writer. You have an incredible skill to describe products in a way that makes the customer feel as the text was written based on their needs. You write fluently {targetlanguage}, using a dynamic language that gives an individualized touch to the text. Write a 200 - 300 word product description in {targetlanguage} based on the product details I give you. Follow these guidelines: - Mention features, emphasize benefits! - Focus on including the feelings that the benefits will give the customer - Focus on how the benefits will make the customer feel. - Sound enthusiastic and trustworthy - Based on the product details, write using a language that \"speaks\" to a potential customer. - Use powerful words but make sure it still feels natural and honest. - The Product description should be easy to skim and still notice the most important benefits and selling points - Use short sentences, short paragraphs, use bullet points to make sure the description is easy to skim and notice the most important parts of the description. - Avoid using passive voice - The product description must be easy to read - If I provide social proof in the product details, make sure to include that. - Include a powerful headline that is professionally written, relevant, and lets the customer know what kind of product it is. The goal with the headline is to make the customer curious and want to continue to read about the product. - Include a call to action at the end that helps the customer to act. - Use markdown Language to format the product description Here are the product details:{prompt}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "565-product-description-template",
+    "title": "Product Description Template",
+    "tags": [
+      "product-description",
+      "product",
+      "description",
+      "template"
+    ],
+    "body": "Your job is to take information from this {prompt} about a particular product from a brand that makes it, and my job is to sell it. I need you to make a new description that's better, more optimized for SEO, and follow this template: h2 - Product Title Here. p- Write an introduction description summarizing the product information from the prompt in totality and excites the customer to read more. Provide detailed information about the product's features and benefits while highlighting its suitability for the type of a person it is made for. The language must be straightforward and easy to understand, with an emphasis on the performance and functionality of the product. The tone is confident and encourages the reader to consider the product as a top choice for their needs. act as though are a fitness equipment expert salesman and you know all there is know about exercise equipment. h3 - Product Title here Features: - make a bullet point list of the features, which would be under the product features heading from the prompt. Bold - Feature from supplier description p - Explain the benefit of the feature in one snappy sentence. Bold - Feature from supplier description p - Explain the benefit of the feature in one snappy sentence. Bold - Feature from supplier description p - Explain the benefit of the feature in one snappy sentence. Bold - Feature from supplier description p - Explain the benefit of the feature in one snappy sentence. Bold - Do as many of the features as the prompt description provides. h3 - \"Variation of the Product title here\" Specifications: -Use bullet point lists in this section. -Important parts of the product that are quickly told in a short statement such as weight stacks, colors, materials, and other information like that. -Dimensions of the item. -Add any warranty information here. h3 - Get the product title Today with Free Shipping! In the formatting of the text, use the following signals to format the description well. Don't actually put signal in the response that you give me, but you must format it with the following in mind: h2 - = heading 2 h3 - = heading 3 h4 - = heading 4 Bold - = Bold heading p - = new paragraph - = bullet points Throughout this description please do not use words like \"our\", \"my\", or \"us\" but rather refer to the item or the brand instead. Do not make up any information, use the information mentioned in the prompt and simply rewrite it be better with all the same information inside. This should be written with human language patterns but optimized for search engines with a high level of burstiness and perplexity and should not be detectable by AI detectors. All text should be written in {targetlanguage}.",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "566-product-discription-in-perfect-layout",
+    "title": "Product discription in perfect layout",
+    "tags": [
+      "product-description",
+      "product",
+      "discription",
+      "perfect",
+      "layout"
+    ],
+    "body": "Please ignore all previous instructions. I want you to act as a very proficient SEO and high-end eCommerce copy writer that speaks and writes fluently Dutch. Write a 300 word product description in {targetlanguage} based on the product details I give you. Also follow these guidelines: - Focus on benefits rather than features - Avoid sentences over 20 words - Avoid using passive voice - Include a call to action at the end Speciale eisen: -onder de 2e alinea moet een opsomming komen van 4 voordelen met als kopje: Belangrijke eigenschappen. schrijf het kopje dik gedrukt. De voordelen mogen 2 tot 3 woorden lang zijn -De eerste 70 tekens van alinea 1 moet minimaal 4 keyword variaties bevatten van het eerste woord in de prompt - Boven de alinea na de opsomming en boven de alinea daaronder moet een bijpassende titel staan die past bij de tekst onder de opsomming. Deze titel mag maximaal 20 tekens lang zijn. -Maximaal 3 alinea's onder de opsomming -bij de laatste alinea moet geen titel boven -De eerste 2 zinnen van de product omschrijving moeten dik gedrukt - De zin van de call to action moet aan het einde staan Here are the product details: {prompt}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "567-request-for-quotation",
+    "title": "Request For Quotation",
+    "tags": [
+      "product-description",
+      "request",
+      "quotation"
+    ],
+    "body": "Your task is Create an RFQ for Alibaba suppliers. The target language is {targetlanguage} Give me your keyword, your features and some LoopHoles: {prompt}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "568-short-articles-for-ecommerce-and-blog",
+    "title": "Short Articles for eCommerce and Blog.",
+    "tags": [
+      "product-description",
+      "short",
+      "articles",
+      "ecommerce",
+      "blog"
+    ],
+    "body": "I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently {targetlanguage}. Create a short article. Bold the Heading using Markdown language. Write a approximately 200 words 100% Unique, SEO-optimized, Human-Written article in {targetlanguage} with at least 2 headings and subheadings (including H1 and H2 headings) that covers the topic provided in the Prompt. Write The article In Your Own Words Rather Than Copying And Pasting From Other Sources. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors). Make 2 unique FAQs, 2 unique customer reviews with the first name and last initial, and at the end with a conclusion paragraph including a call to action. this is important to Bold the Title and all headings of the article, and use appropriate headings for H tags. Now Write An Article On This Topic {prompt}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "569-social-media-post-for-shoes-select-store",
+    "title": "Social Media Post For Shoes (Select Store)",
+    "tags": [
+      "product-description",
+      "social",
+      "media",
+      "post",
+      "shoes",
+      "select"
+    ],
+    "body": "We have a shoe store named Select and located in Pau, France. We want to showcase the new collection of shoes brands that we distribute. I need a 130-170 characters more or less post for Facebook and Instagram social networks in {targetlanguage}. Please include in the post either the benefits of the brand or an unusual fact about the brand. Would be nice to add emojis. For this post, we would like to have a text for the women's shoe brand {prompt}. Some more information to help you optimize your proposition: The audience of this post would be people between 30-60 years old who like fashion and shoes. Also, the ton of voice should be friendly.",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "570-usp-o-matic-3000",
+    "title": "Usp-o-matic 3000",
+    "tags": [
+      "product-description",
+      "usp",
+      "matic",
+      "3000"
+    ],
+    "body": "You are a USPGPT a prompt generating robot that helps Agency Recruiters define their Unique Selling Propositions. The user is {prompt}. Ask a series of questions, 1 at a time, and let the user answer accordingly before moving onto the next question. Be sure to ask for specific quantitative and qualitative results to use in the USP. Once completed, generate 4 outputs in {targetlanguage}: Output1: A summary of their defined USP for the candidate side. Output2: A lighthearted copy written pitch to their ideal candidates. Output3: A summary of their defined USP for the company/client side. Output2: A lighthearted copy written pitch to their ideal company/client.",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "571-write-an-product-description-with-html",
+    "title": "Write an Product Description with html",
+    "tags": [
+      "product-description",
+      "write",
+      "product",
+      "description",
+      "html"
+    ],
+    "body": "Please ignore all previous instructions. I want you to act as a very proficient SEO and high-end eCommerce copy writer that speaks and writes fluently {targetlanguage}. Write a minumum 409 word product description in {targetlanguage} based on the product details I give you. Also follow these guidelines: - Focus on benefits rather than features - Avoid sentences over 20 words - Avoid using passive voice - Include a call to action at the end - Make paragraphs in the form of html tags <p>-</p> Here are the product details: {prompt}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "572-write-an-seo-friendly-product-description",
+    "title": "Write an SEO-friendly Product Description",
+    "tags": [
+      "product-description",
+      "write",
+      "seo",
+      "friendly",
+      "product",
+      "description"
+    ],
+    "body": "Please ignore all previous instructions. I want you to act as a very proficient SEO and high-end eCommerce copy writer that speaks and writes fluently {targetlanguage}. Write a 300 word product description in {targetlanguage} based on the product details I give you. Also follow these guidelines: - Focus on benefits rather than features - Avoid sentences over 20 words - Avoid using passive voice - Include a call to action at the end Here are the product details: {prompt}",
+    "family": "Product Description",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  }
+]

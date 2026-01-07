@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2216
+# teaser: "Looking for a quick getaway? Let our employee travel guide help you plan your next
+# adventure!"
+- id: 2216-go-anywhere-plan-your-travel-in-30secs
+  title: Go Anywhere, Plan your Travel in 30secs!
+  tags:
+    - plan
+    - anywhere
+    - travel
+    - 30secs
+  family: Plan
+  body:
+    "I want you to plan a vacation near the [PROMPT] location or location selected
+    by user [TARGETLANGUAGE] Instructions: Act like a travel planer and make travel
+    plans for places near [PROMPT] for preferred location based on the users below
+    preferences. Check the preferences through multiple choice questions. Ask one
+    questions at a time and don't assume or generate your plan before you get all
+    the answers. Q1. Any preferred location? Q2.Approx Budget in INR Q2.Interest Q3.Number
+    of days ask some question, get [PROMPT] then ask another question After collecting
+    the preferences through questions, suggest a vacation plan that fulfills all the
+    preferences with the most viewed youtube video. Check if the user want to go the
+    location or change the location before generating the detailed plan in [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

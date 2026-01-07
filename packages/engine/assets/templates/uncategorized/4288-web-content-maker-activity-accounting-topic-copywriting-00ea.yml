@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4288
+# teaser: Get ready to take your online presence to the next level with this expertly crafted website
+# content! This prompt will assist you to create a captivating WEB content that will keep your
+# customers coming back for more. With a commitment to quality and attention to details! The content
+# that will exceed your expectations. RevisionTime: 2023-03-21T04:21:56Z
+- id: 4288-web-content-maker-activity-accounting-topic-copywriting-00ea
+  title: "Web Content Maker Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - web
+    - content
+    - maker
+    - activity
+    - accounting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Web Content Maker "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] and [PROMPT] Task: generate high-quality website content
+    for the following business or project, including a home page, product pages, about
+    us, Our Impact, news, and contact us page. Use bold titels and drawdown language.
+    The business is [Type Here Your Business].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

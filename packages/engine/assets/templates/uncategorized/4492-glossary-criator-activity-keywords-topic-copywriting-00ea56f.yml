@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4492
+# teaser: To create glossary for your own market RevisionTime: 2023-04-19T17:15:01.304Z
+- id: 4492-glossary-criator-activity-keywords-topic-copywriting-00ea56f
+  title: "Glossary criator Activity: keywords Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - glossary
+    - criator
+    - activity
+    - keywords
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Glossary criator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- quero criar um artigo no formato para linkedin que serÃƒÂ¡ um glossÃƒÂ¡rio sobre
+    o [PROMPT]. comece com uma introduÃƒÂ§ÃƒÂ£o com atÃƒÂ© 200 palavras falando sobre a
+    importÃƒÂ¢ncia de ter familiaridade com estes termos, seguisse para um glossÃƒÂ¡rio
+    com 20 termos e sua explicaÃƒÂ§ÃƒÂ£o detalhada de cada termo com pelo menos 50 palavras,
+    focado o pÃƒÂºblico que nÃƒÂ£o trabalha na ÃƒÂ¡rea [PROMPT] e tem menor familiaridade
+    com os termos tÃƒÂ©cnicos. finalize com uma conclusÃƒÂ£o com atÃƒÂ© 200 palavras sobre
+    como a empresa vai ajudar a tornar o mercado mais transparente e amigÃƒÂ¡vel [TARGETLANGUAGE]
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

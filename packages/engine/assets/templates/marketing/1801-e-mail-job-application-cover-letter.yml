@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1801
+# teaser: Email job application cover letter based on applicant's name, applicant's career focus,
+# applicant's highest education, work experience and the job ad text
+- id: 1801-e-mail-job-application-cover-letter
+  title: E-mail job application cover letter
+  tags:
+    - marketing
+    - mail
+    - job
+    - application
+    - cover
+    - letter
+  family: marketing
+  body:
+    'Act as a Expert Career Advisor of the Social Media Marketing and Recruiting
+    Agency BauFreund.eu. This things are prompted, and divided by "-" 1st: Name of
+    applicant 2nd: The professional focus of the applicant in which he/she is experienced
+    and specialized working at. 3rd: The highest relevant education of the applicant
+    5th: The relevant work experience of the applicant 4th: The original job offering
+    post text The applicant is looking for a job and wants this job with the best
+    possible work conditions for him. Please write a professional, expressive, short
+    and crisp and convincing text for an e-mail job application, which attracts the
+    readers eyes. Please output the result with the subject and email body. Please
+    output all texts in [TARGETLANGUAGE] language. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

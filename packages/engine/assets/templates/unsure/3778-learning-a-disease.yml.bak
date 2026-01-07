@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3778
+# teaser: MADE BY A MEDICAL STUDENT How to study a disease? Learn about normal and abnormal
+# parameters, common and special tests, laboratory findings, and treatments to relieve symptoms.
+# Deepen your disease studies right now!
+- id: 3778-learning-a-disease
+  title: Learning a disease
+  tags:
+  - unsure
+  - learning
+  - disease
+  family: UNSURE
+  body: "Escreva um conteÃƒÂºdo sobre uma doenÃƒÂ§a com parÃƒÂ¢metros normais e anormais\
+    \ de acordo com as caracterÃƒÂ­sticas clÃƒÂ­nicas padrÃƒÂ£o e os testes comuns, bem\
+    \ como testes especiais com achados laboratoriais. FaÃƒÂ§a pontos e parÃƒÂ¡grafos.\
+    \ Responda em [TARGETLANGUAGE] com a fluÃƒÂªncia de um nativo. ADOTE O SEGUINTE\
+    \ FORMATO AO APRESENTAR AS RESPECTIVAS INFORMAÃƒâ€¡Ãƒâ€¢ES: Aqui estÃƒÂ£o os parÃƒÂ¢metros\
+    \ normais e anormais associados a esta doenÃƒÂ§a: ParÃƒÂ¢metros Normais: - NÃƒÂ­veis\
+    \ normais de uma determinada substÃƒÂ¢ncia ou hormÃƒÂ´nio no sangue ou em outro fluido\
+    \ corporal. ParÃƒÂ¢metros Anormais: - NÃƒÂ­veis aumentados ou diminuÃƒÂ­dos de uma determinada\
+    \ substÃƒÂ¢ncia ou hormÃƒÂ´nio no sangue ou em outro fluido corporal. Testes comuns\
+    \ que sÃƒÂ£o realizados para diagnosticar e monitorar a doenÃƒÂ§a incluem: - Dosagem\
+    \ de uma determinada substÃƒÂ¢ncia ou hormÃƒÂ´nio no sangue ou em outro fluido corporal.\
+    \ Testes especiais podem ser realizados para investigar causas subjacentes da\
+    \ doenÃƒÂ§a, como: - Exames de imagem especÃƒÂ­ficos da regiÃƒÂ£o afetada pela doenÃƒÂ§a.\
+    \ Achados laboratoriais tÃƒÂ­picos da doenÃƒÂ§a incluem: - AlteraÃƒÂ§ÃƒÂµes especÃƒÂ­ficas\
+    \ em um ou mais parÃƒÂ¢metros sanguÃƒÂ­neos ou em outro fluido corporal. O tratamento\
+    \ da doenÃƒÂ§a geralmente envolve: - Tratamento especÃƒÂ­fico para a causa subjacente\
+    \ da doenÃƒÂ§a, se houver, e/ou - Tratamento sintomÃƒÂ¡tico para aliviar os sintomas\
+    \ associados Ãƒ doenÃƒÂ§a. AQUI ESTÃƒ\x81 A DOENÃƒâ€¡A: [PROMPT]"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1161
+# teaser: Market Research
+- id: 1161-hotseller-marketing-reasearch-tool
+  title: hotseller marketing reasearch tool
+  tags:
+  - writing
+  - hotseller
+  - marketing
+  - reasearch
+  - tool
+  family: writing
+  body: 'I want you to act as a market researcher who is very competent and writes
+    down detailed explanations. #Business Success Factors ## Key elements of success
+    - Why did you think so? - What are the consequences of doing this? ## The core
+    of the business is the "Gross Hacking Code." - Why did you think so? - What are
+    the consequences of doing this? ## How to attract new customers - Why did you
+    think so? - What are the consequences of doing this? ## the sales structure of
+    an industry - Why did you think so? ## a sales growth strategy - Why did you think
+    so? - What are the consequences of doing this? ## store management know-how -
+    Why did you think so? - What are the consequences of doing this? # Other industry-related
+    information Please fill out the information that matches the table of contents
+    above in detail using more than 5 bullet points per division for description in
+    the markdown format. At the bottom of the table of contents - Please write down
+    the contents of the table of contents corresponding to the letter at the back
+    of the mark. Please write down the reason why you wrote the content for each bullet
+    point in each classification, and also write down the results of the actions in
+    the content. And please write down the reason and the result for each bullet point,
+    not the table of contents of the text.[TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

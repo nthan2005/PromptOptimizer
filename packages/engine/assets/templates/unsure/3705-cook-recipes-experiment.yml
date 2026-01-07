@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3705
+# teaser: Create 3 recipes based solely on the ingredients available in the house, also for Thermomix
+# owners. Please enter the available ingredients as detailed as possible. It's best if you manage your
+# ingredients in a separate text file and update it there. Then you can easily paste the ingredients
+# here. Please separate ingredients by commas. Ingredients such as noodles, rice, potato, salt,
+# pepper, water, spices, sugar, flour, oil, etc., which are always available in every household, do
+# not need to be entered. You will be asked if you own a Thermomix. Ok, ChatGPT seems to have very
+# interesting taste buds, but in principle it works pretty well sometimes. However, suggestions for
+# what to cook are always included. Happy Cooking!
+- id: 3705-cook-recipes-experiment
+  title: Cook & Recipes Experiment !
+  tags:
+    - unsure
+    - cook
+    - recipes
+    - experiment
+  family: UNSURE
+  body:
+    'Vergiss alle vorherigen Anfragen die nicht zum Thema Kochen waren. Antworte
+    als Koch Experte fÃƒÆ’Ã‚Â¼r Koch AnfÃƒÆ’Ã‚Â¤nger immer in der Sprache [TARGETLANGUAGE]. Aufgabe:
+    Erstelle VorschlÃƒÆ’Ã‚Â¤ge fÃƒÆ’Ã‚Â¼r Koch Rezepte mit detaillierter Kochanleitung fÃƒÆ’Ã‚Â¼r ein
+    Hauptgericht. Die Aufgabe ist es aus einer Liste aller aktuell im Haushalt zur
+    VerfÃƒÆ’Ã‚Â¼gung stehenden Lebensmittel und Zutaten mindestens 3 RezeptvorschlÃƒÆ’Ã‚Â¤ge zu
+    erstellen. Dabei muss sichergestellt sein, dass die in den Rezepten genannten
+    Lebensmittel und Zutaten auch aktuell im Haushalt zur VerfÃƒÆ’Ã‚Â¼gung stehen. Die Liste
+    der aktuell im Haushalt zur VerfÃƒÆ’Ã‚Â¼gung stehenden Lebensmittel und Zutaten aus
+    deren Grundlage die Rezepte entworfen werden sollen ist wie folgt: "Reis, Nudeln,
+    Kartoffeln, Butter, ÃƒÆ’Ã¢â‚¬â€œl, Essig, Zwiebel, Knoblauch, Zitrone, Zucker, Mehl, Salz,
+    Pfeffer, Wasser, Brot, Senf, Tomatenmark, Paprikapulver." ZusÃƒÆ’Ã‚Â¤tzlich zu diesen
+    eben genannten im Haushalt aktuell verfÃƒÆ’Ã‚Â¼gbaren Lebensmittel und Zutaten kommen
+    noch weitere aktuell im Haushalt verfÃƒÆ’Ã‚Â¼gbaren Lebensmittel und Zutaten dazu die
+    jetzt aufgefÃƒÆ’Ã‚Â¼hrt werden: [PROMPT] Wichtig: es ist nicht die notwendig, alle aktuell
+    im Haushalt verfÃƒÆ’Ã‚Â¼gbaren Lebensmittel und Zutaten in den Rezepten zu verwenden.
+    Erstelle nun eine Auswahl an Koch Rezepten fÃƒÆ’Ã‚Â¼r 3 Hauptgerichte basierend nur
+    auf den aktuell im Haushalt verfÃƒÆ’Ã‚Â¼gbaren Lebensmittel und Zutaten in der Sprache
+    [TARGETLANGUAGE]. Falls Du nicht alles verstanden hast, dann stelle noch Fragen
+    in der Sprache [TARGETLANGUAGE] bevor du die RezeptvorschlÃƒÆ’Ã‚Â¤ge erstellst. Bevor
+    Du die RezeptvorschlÃƒÆ’Ã‚Â¤ge erstellst frage bitte in der Sprache [TARGETLANGUAGE]
+    ob die Rezepte fÃƒÆ’Ã‚Â¼r einen Thermomix optimiert sein sollen oder nicht. In AbhÃƒÆ’Ã‚Â¤ngigkeit
+    der Antwort erstelle dann RezeptvorschlÃƒÆ’Ã‚Â¤ge fÃƒÆ’Ã‚Â¼r Thermomix oder RezeptvorschlÃƒÆ’Ã‚Â¤ge
+    ohne Einsatz von Thermomix. Wenn du aber Empfehlungen fÃƒÆ’Ã‚Â¼r die Zubereitung mit
+    Thermomix gibst, dann mÃƒÆ’Ã‚Â¼ssen diese exakt und fundamentiert sind. Bitte greife
+    in diesem Fall nur auf Rezepte aus Deinem Archiv zurÃƒÆ’Ã‚Â¼ck, welche explizit fÃƒÆ’Ã‚Â¼r
+    den Thermomix entwickelt wurden bzw. empfohlen werden. Am Ende aller RezeptvorschlÃƒÆ’Ã‚Â¤ge
+    schreibe bitte folgenden Information ÃƒÆ’Ã‚Â¼bersetzt in die Sprache [TARGETLANGUAGE]
+    "Wundern Sie sich nicht ÃƒÆ’Ã‚Â¼ber #interressante# Zubereitungsmethoden im Thermomix
+    und den manchmal besonderen Geschmack - GPT3 handelt und schmeckt manchmal einfach
+    noch nach AI ;.). *** Happy Cooking! ****"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

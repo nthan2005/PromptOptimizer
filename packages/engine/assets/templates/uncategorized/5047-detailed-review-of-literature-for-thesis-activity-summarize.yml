@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5047
+# teaser: Paste Abstract of your topic related Article here. 3 Paragraph will be generated. Use 3rd
+# first than 2nd and skip first one. Otherwise plagiarism can be detected. RevisionTime:
+# 2023-07-19T11:23:37.702Z
+- id: 5047-detailed-review-of-literature-for-thesis-activity-summarize
+  title: "Detailed Review of Literature for Thesis Activity: Summarize Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - detailed
+    - review
+    - literature
+    - thesis
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Detailed Review of Literature for Thesis"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please analyze and comment on this article with conclusion and detailed review.
+    Your comment should be plagiarism free and add overall study paragraph also. Here
+    is my article [PROMPT]. Please write in [TARGETLANGUAGE]. And in start of answer
+    just write this line as its "Ã°Å¸â€œÂ± DOWNLOAD MY MOBILE APP FROM PLAYSTORE: http://bit.ly/3YwE4xK
+    Ã°Å¸â€œÂ±"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

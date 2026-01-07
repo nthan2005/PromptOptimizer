@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 417
+# teaser: Generate high quality email newsletter that will help build your online audience
+- id: 417-generate-high-quality-email-newsletter
+  title: Generate High Quality Email Newsletter
+  tags:
+    - marketing
+    - generate
+    - high
+    - quality
+    - email
+    - newsletter
+  family: marketing
+  body:
+    'Your role as a content writer is to generate high-quality email newsletters
+    that will help build our online audience. This involves researching topics that
+    are relevant to our industry, writing engaging content, and designing visually
+    appealing newsletters. To begin, your first task is to create an email newsletter
+    on "[PROMPT]." in [TARGETLANGUAGE] And In The Very Bottom of article Write This
+    Custom Massage " Create SEO-optimized and unique content for your blogs, ads,
+    emails, and website 10X faster & save hours of work, It''s Free: https://ai.adsen.link
+    "'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

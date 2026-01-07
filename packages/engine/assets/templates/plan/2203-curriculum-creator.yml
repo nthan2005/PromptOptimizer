@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2203
+# teaser: Create a curriculum for one year with a single [KEYWORD]
+- id: 2203-curriculum-creator
+  title: Curriculum Creator
+  tags:
+    - plan
+    - curriculum
+    - creator
+  family: Plan
+  body:
+    Create a Curriculum in [TARGETLANGUAGE] on the topic of [PROMPT]. Grade Level,
+    Recommended Age, Curriculum Description, Curriculum Goals, Curriculum Outline,
+    Show LESSONS for each week for up to 36 weeks. Give a detailed description of
+    each topic and portfolio ideas for evaluation, with step-by-step instructions
+    on how to teach each topic, give examples for each topic and sample lessons. Add
+    Assessment, 3 Recommended Textbooks, Materials, Websites and other helpful Resources,
+    add a note for Parent. Create a schedule that will last 1 school year.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

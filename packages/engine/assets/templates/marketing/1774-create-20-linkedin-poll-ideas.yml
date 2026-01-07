@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1774
+# teaser: Create amazing LinkedIn Poll ideas to engage your connections.
+- id: 1774-create-20-linkedin-poll-ideas
+  title: Create 20 Linkedin Poll Ideas
+  tags:
+    - marketing
+    - linkedin
+    - poll
+    - ideas
+  family: marketing
+  body:
+    Your Task is write me linkedin 20 poll ideas with answers in bullet points
+    and caption to be used with smiley and hashtags .Ask for the business or topic
+    on which the poll should be based after this submission and start writing the
+    table. Write after the table , Thank you for choosing the template with love emoji
+    Anzonian [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

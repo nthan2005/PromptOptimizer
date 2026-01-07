@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6946
+# teaser: Create a social media schedule for the [KEYWORD] of your choice RevisionTime:
+# 2024-10-03T09:54:12.234Z
+- id: 6946-social-media-schedule-activity-social-media-topic-marketing
+  title: 'Social Media Schedule Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - social
+  - media
+  - schedule
+  - activity
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1788962600164528128/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Social Media Schedule"](https://www.aiprm.com/prompts/marketing/social-media/1788962600164528128/)_"
+    --- Please create a social media post schedule for topics such as [PROMPT] in
+    the form of a table, where I am posting to Facebook, Instagram, Twitter, Pinterest,
+    Tik Tok, and YouTube. The type of posts include; tips, tricks, quotes, facts,
+    statistics, activity ideas, inspiration, lesson plan ideas, recipes, and lists.
+    The format of these posts can be text, images, short videos or long format videos.[TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4756
+# teaser: Create an outstanding product description in 1 click by just submitting your [Keyword or
+# Product Name] RevisionTime: 2023-10-17T07:21:17.827Z
+- id: 4756-1-click-product-description-activity-product-description-top
+  title: "1 Click Product Description Activity: Product Description Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - click
+    - product
+    - description
+    - activity
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "1 Click Product Description"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

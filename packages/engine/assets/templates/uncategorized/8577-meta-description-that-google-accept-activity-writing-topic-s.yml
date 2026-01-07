@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8577
+# teaser: Create the best meta description according to your needs RevisionTime:
+# 2023-05-17T05:27:59.497Z
+- id: 8577-meta-description-that-google-accept-activity-writing-topic-s
+  title: "Meta Description That Google Accept Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - meta
+    - description
+    - that
+    - google
+    - accept
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Meta Description That Google Accept"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to summarize the text I give you in 20 words or maximum 130 characters.
+    All output shall be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

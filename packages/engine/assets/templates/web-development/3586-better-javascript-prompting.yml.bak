@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3586
+# teaser: Write Better JavaScript Code, uses new and more useful syntax and lets you know when coding
+# is done.
+- id: 3586-better-javascript-prompting
+  title: Better JavaScript Prompting
+  tags:
+  - web-development
+  - better
+  - javascript
+  - prompting
+  family: Web Development
+  body: Hi ChatGPT, I will send you some javascript code or ask you to create it.
+    Use 'let' for variables or 'const'. Write the complete code in only one block.
+    Use proper variable, parameters and etc names for [TARGETLANGUAGE], but keep the
+    name of the functions that I indicate. Use only single quotes in the code. When
+    using increment operator, use "i += 1" instead of "i++". And write "I'm done writing"
+    at the end of each message in the specified language. All the text message should
+    be written in [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

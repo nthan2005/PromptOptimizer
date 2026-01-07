@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4205
+# teaser: financial analysis RevisionTime: 2024-12-14T13:18:22.983Z
+- id: 4205-news-activity-accounting-topic-copywriting-00ea56f446414284
+  title: 'news Activity: Accounting Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - news
+  - activity
+  - accounting
+  - topic
+  - copywriting
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/2033503138933907456/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "news"](https://www.aiprm.com/prompts/copywriting/accounting/2033503138933907456/)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

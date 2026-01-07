@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4766
+# teaser: create a title for the [Keyword], and create 400-word content for the same. content should
+# be in active voice and use more transition words also. And 140 character meta description
+# RevisionTime: 2023-09-01T08:05:11.437Z
+- id: 4766-create-product-description-activity-product-description-topi
+  title: "Create Product Description ! Activity: Product Description Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - product
+    - description
+    - activity
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create Product Description ! "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as a professional content writer and create Title, 400 word
+    count content, also 140 character meta description for the given keyword. avoid
+    passive voice in the content, also use more transition words. Content must be
+    100% human writing style, fix grammar issues. also act as tool quillbot and grammarly
+    and rewrite the given sentence to avoid AI detection. also double-check for plagiarism
+    because I need pure unique content, write the content in a conversational style
+    as if it were written by a human. Tone : conversational, spartan, use less corporate
+    jargon. I want you to write content so that it can outrank other websites. Also
+    suggest a internal link to other pages from the article in a bracket. All output
+    shall be in [TARGETLANGUAGE]. The Keyword to create is this : [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

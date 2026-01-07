@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4519
+# teaser: Write a long-form blog post, with subheadings and use emojis to emphasize key points
+# RevisionTime: 2023-06-16T10:33:53.166Z
+- id: 4519-write-long-form-blog-post-with-emojis-activity-keywords-topi
+  title: 'Write Long-form blog post with emojis Activity: keywords Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - write
+  - long
+  - form
+  - blog
+  - post
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/keywords/1835235579437789184/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Write Long-form blog post with emojis"](https://www.aiprm.com/prompts/copywriting/keywords/1835235579437789184/)_"
+    --- Youtr task is write a long-form blog post, 1000 words, with subheadings from
+    the topic. Use emojis to emphasize key points, must include a table where it is
+    needed, include important notes to where it is needed in quote, the output should
+    be in markdown styling. Write all output in [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

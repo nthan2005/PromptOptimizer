@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7380
+# teaser: Generate a comprehensive image description for WordPress. RevisionTime:
+# 2024-08-15T07:38:17.773Z
+- id: 7380-wordpress-image-description-generator-activity-plan-topic-pr
+  title: 'WordPress Image Description Generator Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - wordpress
+  - image
+  - description
+  - generator
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1989560405148307456/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "WordPress Image Description Generator"](https://www.aiprm.com/prompts/productivity/plan/1989560405148307456/)_"
+    --- Your task is to create a concise image description for content on a WordPress
+    page. The description should be in [TARGETLANGUAGE]. Please include the following
+    details: 1. Bildbeschreibung: Provide a brief summary of the content in 1 sentence.
+    2. Alt-Text: Create a short Alt-text in 1 sentence. 3.'
+  enabled: true
+  required:
+  - targetlanguage

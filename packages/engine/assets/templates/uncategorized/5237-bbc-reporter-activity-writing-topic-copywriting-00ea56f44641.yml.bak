@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5237
+# teaser: BBC reporter RevisionTime: 2023-09-23T16:58:28.31Z
+- id: 5237-bbc-reporter-activity-writing-topic-copywriting-00ea56f44641
+  title: 'BBC reporter Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - bbc
+  - reporter
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1871201530574282752/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "BBC reporter"](https://www.aiprm.com/prompts/copywriting/writing/1871201530574282752/)_"
+    --- Your task is to act as a BBC journalist to report a minimum of 1000 words
+    about the event from input. All output shall be in [TARGETLANGUAGE], input is
+    this [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

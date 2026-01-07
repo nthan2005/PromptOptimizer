@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5905
+# teaser: Unlocking Complexity: Transforming Complex Texts into Simple Understandable Insights
+# RevisionTime: 2023-10-18T05:17:07.405Z
+- id: 5905-simplisense-unveiling-clarity-in-complex-texts-activity-writ
+  title:
+    "SimpliSense: Unveiling Clarity in Complex Texts Activity: writing Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - simplisense
+    - unveiling
+    - clarity
+    - complex
+    - texts
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SimpliSense: Unveiling Clarity in Complex
+    Texts"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to analyze the following paragraph provided to you in [TARGETLANGUAGE]
+    and simply the information in plain and easy-to-understand [TARGETLANGUAGE]. All
+    output shall be in [TARGETLANGUAGE]. The text to analyze is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

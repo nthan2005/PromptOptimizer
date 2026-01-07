@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 435
+# teaser: Create Best LinkedIn Connection Note from AI, If you Like using it Please hit the Like
+# Button Thank You Ruchit Gandhi
+- id: 435-linkedin-connection-note
+  title: LinkedIn Connection Note
+  tags:
+    - marketing
+    - linkedin
+    - connection
+    - note
+  family: marketing
+  body:
+    Create a LinkedIn Connection note of minimum 20 & of maximum 300 characters
+    in [TARGETLANGUAGE] in which beautiful convincing content for the person position
+    in [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

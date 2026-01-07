@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7585
+# teaser: [Teaching] RevisionTime: 2023-03-24T15:17:37.736Z
+- id: 7585-create-educational-slides-activity-summarize-topic-productiv
+  title: 'Create educational slides Activity: Summarize Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - educational
+  - slides
+  - activity
+  - summarize
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1804866404948897792/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create educational slides"](https://www.aiprm.com/prompts/productivity/summarize/1804866404948897792/)_"
+    --- [As an educational expert, your task is to create a set of engaging and informative
+    lesson slides in English for a lesson on a specific topic. You will be creating
+    a lesson on the topic of Create a 10 rows tables with information about : [PROMPT]
+    As my table columns I want: Title, subtitle, short explanation and an long explanation.,
+    with the aim of providing a comprehensive overview of this topic to help students
+    better understand and retain the information. Your lesson slides must include
+    the following information, although you are not limited to these items: Lesson'
+  enabled: true
+  required:
+  - prompt

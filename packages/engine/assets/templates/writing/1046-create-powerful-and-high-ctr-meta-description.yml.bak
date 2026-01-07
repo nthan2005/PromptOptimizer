@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1046
+# teaser: Create a powerful and high ctr meta description for your web pages under 160 characters.
+- id: 1046-create-powerful-and-high-ctr-meta-description
+  title: Create Powerful and High CTR Meta Description
+  tags:
+  - writing
+  - powerful
+  - high
+  - ctr
+  - meta
+  - description
+  family: writing
+  body: 'AÃ…Å¸aÃ„Å¸Ã„Â±da ki keyword hakkÃ„Â±nda hedef kitleyi harekete geÃƒÂ§irecek ve 160
+    karakterden kÃ„Â±sa bir SEO uyumlu meta aÃƒÂ§Ã„Â±klama yazmanÃ„Â± istiyorum. Meta aÃƒÂ§Ã„Â±klama
+    ilgi ÃƒÂ§ekici olmalÃ„Â± ve kullanÃ„Â±cÃ„Â±larÃ„Â± harekete geÃƒÂ§irmeli. Gereksiz kelimeler
+    ve iÃ…Å¸aretleri kullanma. Sadece nokta ve virgÃƒÂ¼l kullanmanÃ„Â± istiyorum. YazdÃ„Â±Ã„Å¸Ã„Â±n
+    aÃƒÂ§Ã„Â±klamanÃ„Â±n kaÃƒÂ§ karakter olduÃ„Å¸unu parantez iÃƒÂ§inde belirt. Anadilin [TARGETLANGUAGE]
+    olacak Ã…Å¸ekilde %100 hatasÃ„Â±z ve akÃ„Â±cÃ„Â± bir Ã…Å¸ekilde yazmanÃ„Â± istiyorum. Keyword:
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

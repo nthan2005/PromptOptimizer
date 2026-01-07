@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2056
+# teaser: Provide a list of business ideas with pros & cons, action plan to validate the idea and
+# areas to study.
+- id: 2056-advanced-business-ideas-generation
+  title: Advanced Business Ideas Generation
+  tags:
+    - startup-ideas
+    - advanced
+    - business
+    - ideas
+    - generation
+  family: Startup Ideas
+  body:
+    "I want to generate startup or online business ideas from [PROMPT]. Write
+    all output in [TARGETLANGUAGE] This generator will help entrepreneurs to find
+    startup ideas based on different criteria. c. The response should provide: - a
+    list of ideas - the advantages and disadvantages of each idea - a 3-month action
+    plan for the mvp (minimal viable product) - a list of points to be explored to
+    validate the project - invite the user to bring more information to chatgpt on
+    a specific idea to deepen it Task: a. Explain clearly the task you expect from
+    ChatGPT. b. Create a startup idea generator that considers the following criteria:
+    potential market, competition, production costs, market demand, etc. b. For each
+    idea generated, provide a list of pros and cons. Here is an Example of what I
+    want: User"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

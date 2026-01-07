@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2437
+# teaser: Create PowerPoint slides via code VBA
+- id: 2437-slides-powerpoint
+  title: Slides PowerPoint
+  tags:
+    - respond
+    - slides
+    - powerpoint
+  family: Respond
+  body:
+    I will provide you as a prompte the theme of a subject and you will create
+    the VBA code for create PowerPoint slides. You will create it in french and place
+    the image with your own knowledge without using placeholders. [PROMPT] in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

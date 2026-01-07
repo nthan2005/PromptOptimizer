@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5498
+# teaser: Correct grammar mistakes and keep your tone and structure of writing intact. RevisionTime:
+# 2023-07-19T02:52:32.853Z
+- id: 5498-fix-the-grammar-activity-writing-topic-copywriting-00ea56f44
+  title: 'Fix the grammar Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - fix
+  - grammar
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1847078279355052032/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Fix the grammar"](https://www.aiprm.com/prompts/copywriting/writing/1847078279355052032/)_"
+    --- You are an expert [TARGETLANGUAGE] teacher. I want you to analyze my writing
+    style. Adapt to my tone and rewrite the below text in my style of writing keeping
+    the structure as it is. Just fix the grammar issues and rewrite everything in
+    active voice. Also, change the font to bold or italic based on the importance
+    of it. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

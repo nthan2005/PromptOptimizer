@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5503
+# teaser: Create a landing page content layout RevisionTime: 2023-02-19T15:35:19Z
+- id: 5503-free-landing-page-layout-generator-activity-writing-topic-co
+  title: 'Free Landing Page Layout Generator Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - free
+  - landing
+  - page
+  - layout
+  - generator
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1790733742491561984/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Free Landing Page Layout Generator"](https://www.aiprm.com/prompts/copywriting/writing/1790733742491561984/)_"
+    --- Your task is to create a landing page content layout using a keyword. suggest
+    content to include in each section of the landing page. use PAS copywriting formula.
+    Avoid putting a Footer at the landing page. All output shall be in [TARGETLANGUAGE].
+    Use the following keyword: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

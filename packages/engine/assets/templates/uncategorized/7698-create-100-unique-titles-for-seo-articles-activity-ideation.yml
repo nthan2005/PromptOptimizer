@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7698
+# teaser: Create 100 SEO Optimized Title for Best Article | Use Title on Our Promt "SEO Article Human
+# Writting Optimize 100% Unique" RevisionTime: 2023-03-14T13:43:15Z
+- id: 7698-create-100-unique-titles-for-seo-articles-activity-ideation
+  title: "Create 100 Unique Titles for SEO Articles Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - "100"
+    - unique
+    - titles
+    - seo
+    - articles
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create 100 Unique Titles for SEO Articles"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create 100 unique titles without copyright. All output shall be in [TARGETLANGUAGE].
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

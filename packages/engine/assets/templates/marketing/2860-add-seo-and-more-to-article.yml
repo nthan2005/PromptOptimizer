@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2860
+# teaser: Create a URL, Title, Keyword, Excerpt, Intro, Conclusion, Categories, Emojis, Summary for an
+# article.
+- id: 2860-add-seo-and-more-to-article
+  title: Add SEO and more to article
+  tags:
+    - marketing
+    - add
+    - seo
+    - more
+    - article
+  family: marketing
+  body:
+    "Create in [TARGETLANGUAGE] separated blocks: - URL: SEO-friendly short URL
+    or slug. - Keyword: SEO-friendly focus keyword with less than 3 words -"
+  enabled: true
+  required:
+    - targetlanguage

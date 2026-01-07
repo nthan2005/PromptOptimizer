@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 767
+# teaser: Write the text with grammar and spelling check
+- id: 767-grammar-spelling-correct-sentence
+  title: Grammar & Spelling Correct Sentence
+  tags:
+    - summarize
+    - grammar
+    - spelling
+    - correct
+    - sentence
+  family: Summarize
+  body:
+    "Your task is to check grammar and spelling, and fully proofread and edit
+    this text : [TARGETLANGUAGE] [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

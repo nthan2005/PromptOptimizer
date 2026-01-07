@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2718
+# teaser: Create tags for Youtube based on your video script
+- id: 2718-create-tags-for-youtube
+  title: Create tags for Youtube
+  tags:
+    - keywords
+    - tags
+    - youtube
+  family: keywords
+  body:
+    "Para as prÃ³ximas tarefas eu vou precisar que vocÃª atue como um especialista
+    em SEO para o Youtube e crie pelo menos 30 tags em [TARGETLANGUAGE] para vÃ­deos
+    do Youtube com base no [PROMPT] que eu vou te enviar. Separe as tags separadas
+    por ponto e vÃ­rgula e sem quebra de linha: [ROTEIRO]"
+  enabled: true
+  required:
+    - prompt
+    - roteiro
+    - targetlanguage

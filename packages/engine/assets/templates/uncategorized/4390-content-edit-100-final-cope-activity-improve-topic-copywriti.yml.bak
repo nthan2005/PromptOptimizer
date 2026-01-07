@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4390
+# teaser: You can improve the quality of your old content by proofreading, adding quality relevant
+# info and more 100% like human written. RevisionTime: 2023-10-03T02:57:42.193Z
+- id: 4390-content-edit-100-final-cope-activity-improve-topic-copywriti
+  title: 'Content Edit (100% Final Cope) Activity: Improve Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - content
+  - edit
+  - '100'
+  - final
+  - cope
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1801478370647863296/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Content Edit (100% Final Cope)"](https://www.aiprm.com/prompts/copywriting/improve/1801478370647863296/)_"
+    --- Act as an experienced writer. Review my content below, focusing on ensuring
+    verb tense consistency throughout the document. Examine the text for any instances
+    where verb tenses shift incorrectly, disrupting the flow and readability. Identify
+    these areas, mark them clearly, and suggest revisions to align the verb tenses
+    for a smoother, more coherent read. Provide an overview explaining the corrections
+    made and offer guidance for maintaining verb tense consistency in future writing.
+    All output will be [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

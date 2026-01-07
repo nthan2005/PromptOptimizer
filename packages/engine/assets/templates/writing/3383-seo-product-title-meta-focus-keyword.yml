@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3383
+# teaser: create a best title, meta description and focus keyword for your product
+- id: 3383-seo-product-title-meta-focus-keyword
+  title: SEO Product Title, Meta & Focus Keyword
+  tags:
+    - writing
+    - seo
+    - product
+    - title
+    - meta
+    - focus
+  family: writing
+  body:
+    Your task is to Provide me a title, meta description and product focus keyword.
+    Keep the title tag length under 60 characters & meta description length under
+    160 characters. Use focus keyword in first 10% of meta description. All output
+    should be in [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4161
+# teaser: Typical Food RevisionTime: 2023-12-06T06:29:42.604Z
+- id: 4161-indonesian-special-food-activity-accounting-topic-copywritin
+  title: 'Indonesian special food Activity: Accounting Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - indonesian
+  - special
+  - food
+  - activity
+  - accounting
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1897867231275646976/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Indonesian special food"](https://www.aiprm.com/prompts/copywriting/accounting/1897867231275646976/)_"
+    --- Indonesia has special food[TARGETLANGUAGE] Indonesian special food[PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 222
+# teaser: ChatGPT can help you write fun interactive elements like quizzes, trivia games or scavenger
+# hunts that will make your marketing campaigns more engaging.
+- id: 222-gamification-generator
+  title: Gamification Generator
+  tags:
+    - games
+    - gamification
+    - generator
+  family: Games
+  body: Write a set of trivia questions based on [PROMPT] in [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

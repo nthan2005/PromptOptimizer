@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 454
+# teaser: Generating posts for channel telegrams based on any article or blog
+- id: 454-post-for-channel-telegrams
+  title: Post for channel telegrams
+  tags:
+    - marketing
+    - post
+    - channel
+    - telegrams
+  family: marketing
+  body:
+    Write a post for the channel's telegrams and shorten the characters to 4096,
+    use all the necessary emojis. All output shall be in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

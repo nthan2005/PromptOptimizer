@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7864
+# teaser: Create a keyword cluster with optimize page titles, meta descriptions and img alt tags
+# displayed in a table by difficult. RevisionTime: 2023-02-19T15:35:19Z
+- id: 7864-create-keyword-cluster-activity-keywords-topic-seo-84c5d6a7b
+  title: 'Create Keyword Cluster Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - keyword
+  - cluster
+  - activity
+  - keywords
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1790453153477681152/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create Keyword Cluster"](https://www.aiprm.com/prompts/seo/keywords/1790453153477681152/)_"
+    --- Pretend you are a Googlebot crawling the web for high-quality, relevant content
+    to index. I want you to create a keyword cluster for this keyword, [PROMPT] in
+    [TARGETLANGUAGE]. Assuming the keyword difficulty is high, can you include optimised
+    page titles, meta descriptions no longer than 157 characters, optimised alt tags
+    for the images and search intents that satisfy the search intent and naturally
+    utilise keywords? Formulate a table to rank these keywords on Google''s top position.
+    Take inspiration from Google, Ahrefs and SEMrush best practices for ranking in
+    Google''s top position.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

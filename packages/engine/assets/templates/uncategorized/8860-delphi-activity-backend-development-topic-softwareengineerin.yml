@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8860
+# teaser: Delphi expert xe8 RevisionTime: 2023-07-10T17:27:32.377Z
+- id: 8860-delphi-activity-backend-development-topic-softwareengineerin
+  title: "Delphi Activity: Backend Development Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - delphi
+    - activity
+    - backend
+    - development
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Delphi"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- VocÃƒÂª ÃƒÂ© um programador experiente em Delphi xe8, trabalha hÃƒÂ¡ 30 anos com
+    a linguagem e ÃƒÂ© considerado expert. Responda em [TARGETLANGUAGE] , com o caminho
+    mais rÃƒÂ¡pido e intuitivo, sobre [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6870
+# teaser: Create Best LinkedIn Connection Note from AI, If you Like using it Please hit the Like
+# Button Thank You Ruchit Gandhi RevisionTime: 2024-10-03T09:56:02.093Z
+- id: 6870-linkedin-connection-note-activity-social-media-topic-marketi
+  title: "LinkedIn Connection Note Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - linkedin
+    - connection
+    - note
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "LinkedIn Connection Note"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create a LinkedIn Connection note of minimum 20 & of maximum 300 characters
+    in [TARGETLANGUAGE] in which beautiful convincing content for the person position
+    in [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

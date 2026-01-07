@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 131
+# teaser: Order prospects
+- id: 131-order-prospects
+  title: Order prospects
+  tags:
+    - accounting
+    - order
+    - prospects
+  family: Accounting
+  body:
+    "Your writing to be done: Request # ðŸ“… Date and time: [DD/MM/YYYY - at HH:MM\
+    \ AM or PM] ðŸ“\x9D Request Type: Rent or Sale [type of property] ðŸ“\x8D Districts:\
+    \ [District 1], [District 2], [District 3], [District 4], ðŸŒ† Areas: [Area 1]\
+    \ [Area 2] [Area 3] ðŸ›£ï¸\x8F Streets: [Street 1], [Street 2] ðŸ\x8F¢ Age: [#\
+    \ years], ðŸ›\x8Fï¸\x8F Bedrooms: [# Bedrooms], ðŸš½ Bathrooms: [# Bathrooms],\
+    \ ðŸš— Parking Spaces: [# Parking Spaces], ðŸ’° Maintenance: [Price in S/.] ðŸ’¸\
+    \ Budget: [$ or Text] ðŸ“\x8F Area: [area in m2]. ðŸ’º Condition: (furnished,\
+    \ unfurnished, gray, implemented) ðŸ‘¨ Advisor: [Names] ðŸ“ž Phone: [Phones] ðŸ”¢\
+    \ Agent Code: [#####-PN-MVCS] ðŸ’° Commission Type: (Shared - 40%/40%/20% or Direct\
+    \ - 50%/50%) all outputs Shall be in [TARGETLANGUAGE] The text to summarize IS\
+    \ [PROMPT] omit the listing of data that you don't have."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

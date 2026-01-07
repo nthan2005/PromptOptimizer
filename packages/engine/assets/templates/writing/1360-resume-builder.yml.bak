@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1360
+# teaser: paste your job posting here
+- id: 1360-resume-builder
+  title: Resume builder
+  tags:
+  - writing
+  - resume
+  - builder
+  family: writing
+  body: '[TARGETLANGUAGE] and [PROMPT] Please look at this information about Job postings
+    And write an ideal resume for this job posting with relevant skills and work experience
+    required like a professional resume writer to get this particular job. Do you
+    understand?'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

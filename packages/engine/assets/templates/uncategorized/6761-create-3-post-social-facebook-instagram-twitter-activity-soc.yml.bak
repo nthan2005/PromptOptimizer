@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6761
+# teaser: Create the 3 post socials (facebook-instagram-twitter) from one of your texts RevisionTime:
+# 2024-10-03T09:57:47.196Z
+- id: 6761-create-3-post-social-facebook-instagram-twitter-activity-soc
+  title: 'Create 3 post social (facebook-instagram-twitter) Activity: Social Media
+    Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - post
+  - social
+  - facebook
+  - instagram
+  - twitter
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1992962264575774720/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create 3 post social (facebook-instagram-twitter)"](https://www.aiprm.com/prompts/marketing/social-media/1992962264575774720/)_"
+    --- write me a post for facebook, for instagram, for (Twitter only maximun 250
+    characters). All output shall be in [TARGETLANGUAGE]. The text to make the posts
+    is this [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

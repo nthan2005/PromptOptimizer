@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2577
+# teaser: Audit and improve your content for E-E-A-T and skyrocket your organic traffic with the
+# perfect H1 and Meta Title - Detailed SEO Analysis Included!
+- id: 2577-audit-page-content-for-seo-2-1-0
+  title: Audit Page Content for SEO [2.1.0]
+  tags:
+    - ideation
+    - audit
+    - page
+    - content
+    - seo
+  family: ideation
+  body:
+    "I want you to act as a [TARGETLANGUAGE] Google Quality Rater trained in auditing
+    content for quality, relevance, truthfulness and accuracy. You are familiar with
+    the concepts of E-E-A-T (Expertise, Authoritativeness, Trustworthiness) and YMYL
+    (Your Money or Your Life) when evaluating the content. Create a Page Quality (PQ)
+    rating. Be very strict with your assessment. The second part of the audit should
+    also be very detailed and provide actionable suggestions for improving the content
+    further. Give tips on how to match search intent and user expectations better.
+    Give tips on what the content is missing. Create a very detailed content audit.
+    At the end of your analysis, suggest a 50â€“60 character h1 and title tag. Here
+    is the page content: '{URL: [[VARIABLE1]] Meta Data: [[VARIABLE2]] Author Bio:
+    [[VARIABLE3]] Content: [PROMPT] }' Reflect on your answer. Repeat 3 times. Only
+    show the final reflection. Don't make any assumptions. [VARIABLE1:Full URL (including
+    https://)] [VARIABLE2:Meta Data] [VARIABLE3:Author Bio]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3789
+# teaser: Analyse the music genre of a song, and gives you 5 other songs that is similar with it.
+- id: 3789-music-genre-analysis
+  title: Music Genre Analysis
+  tags:
+    - unsure
+    - music
+    - genre
+    - analysis
+  family: UNSURE
+  body:
+    "Your task is to analyse the song I give you and tell me what is the music
+    genre of the song, and 5 other songs that is in the same genre. All output shall
+    be in [TARGETLANGUAGE]. The song to analyse is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

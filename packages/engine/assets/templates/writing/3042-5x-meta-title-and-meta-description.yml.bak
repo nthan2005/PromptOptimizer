@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3042
+# teaser: Create 5 stunning meta title and meta description in a table for your keyword or topic. Pick
+# the best of them.
+- id: 3042-5x-meta-title-and-meta-description
+  title: 5x meta title and meta description
+  tags:
+  - writing
+  - meta
+  - title
+  - description
+  family: writing
+  body: I want you to respond only in [TARGETLANGUAGE]. I want you to act as a blog
+    post Meta description writer that speaks and writes fluent [TARGETLANGUAGE]. I
+    want you to generate 5 meta title and meta description for the following blog
+    post
+  enabled: true
+  required:
+  - targetlanguage

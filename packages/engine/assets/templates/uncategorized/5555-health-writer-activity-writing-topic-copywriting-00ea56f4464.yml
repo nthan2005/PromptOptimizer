@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5555
+# teaser: Write an SEO-friendly Article with H1,H2,H3,H4,H5 Headings on the topic. The article must
+# contain at least 1500 characters. RevisionTime: 2023-05-29T01:02:05.737Z
+- id: 5555-health-writer-activity-writing-topic-copywriting-00ea56f4464
+  title: "Health Writer Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - health
+    - writer
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Health Writer"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write an SEO-friendly Article with H1,H2,H3,H4,H5 Headings on the topic. [TARGETLANGUAGE]
+    The article must contain at least 1500 characters. To the end: Link the following
+    link to the text of Konya Nutrition Specialist Dietician SÃƒÂ¼meyye BozoÃ„Å¸lu: https://konyadiyadizi.com
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

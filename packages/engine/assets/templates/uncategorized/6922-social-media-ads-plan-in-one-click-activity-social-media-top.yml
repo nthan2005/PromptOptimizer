@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6922
+# teaser: Create an easy media plan for social media with just 3 parameters: objective, social network
+# and investment. ** Try it and vote if you like it ** RevisionTime: 2024-10-03T09:50:52.114Z
+- id: 6922-social-media-ads-plan-in-one-click-activity-social-media-top
+  title: "Social Media Ads Plan in ONE click Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - social
+    - media
+    - ads
+    - plan
+    - one
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Social Media Ads Plan in ONE click"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Want you to act as a digital media planner and in a table format responding
+    in [TARGETLANGUAGE], you will create a media plan for [PROMPT]. The campaigns
+    objectives are focused on [PROMPT] with a [PROMPT] buying type. Inside this plan,
+    divide the investment of [PROMPT] into the best performance formats knowing the
+    estimate results for [PROMPT].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

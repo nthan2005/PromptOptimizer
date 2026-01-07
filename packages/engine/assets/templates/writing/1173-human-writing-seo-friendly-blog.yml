@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1173
+# teaser: Human Writing Blog for your Website. SEO and User-Friendly Blog For your Website. 100%
+# Plagiarism Free Blogs.
+- id: 1173-human-writing-seo-friendly-blog
+  title: Human Writing | SEO Friendly Blog
+  tags:
+    - writing
+    - human
+    - seo
+    - friendly
+    - blog
+  family: writing
+  body:
+    "Your task is to write a blog of 900 words to 1200 words, First write a related
+    title, and meta descriptions Then write an SEO Optimized Blog. I Give you the
+    Title or Topic. Must be Content Pass natural language processing. All output shall
+    be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

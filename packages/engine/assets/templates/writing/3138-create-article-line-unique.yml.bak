@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3138
+# teaser: Create the best 100% unique article content
+- id: 3138-create-article-line-unique
+  title: Create Article Line Unique
+  tags:
+  - writing
+  - article
+  - line
+  - unique
+  family: writing
+  body: 'Write article line 100% unique all output shall be in [TARGETLANGUAGE]. The
+    text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

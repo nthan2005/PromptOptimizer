@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6169
+# teaser: Turn any python code into a working GUI, No explination! RevisionTime:
+# 2023-04-06T13:49:06.992Z
+- id: 6169-create-a-gui-for-any-python-code-activity-dall-e-topic-gener
+  title: "Create a GUI for any python code! Activity: Dall-E Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - gui
+    - any
+    - python
+    - code
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create a GUI for any python code!"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Take the python code and create a TKinter GUI for it. Do not explain it! If
+    you need to ask anything ask it in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

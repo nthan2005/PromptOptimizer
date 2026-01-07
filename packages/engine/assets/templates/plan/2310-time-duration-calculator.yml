@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2310
+# teaser: Would you like to determine the duration of your work on the to-do list in hours and
+# minutes? For instance, working from 10 AM to 11:15 AM would be calculated as 1 hour and 15 minutes.
+- id: 2310-time-duration-calculator
+  title: Time Duration Calculator
+  tags:
+    - plan
+    - time
+    - duration
+    - calculator
+  family: Plan
+  body: How many hours and minutes between [PROMPT] in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

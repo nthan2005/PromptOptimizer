@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7644
+# teaser: Summerise your text! RevisionTime: 2024-04-06T12:02:40.401Z
+- id: 7644-summary-provider-clone-activity-summarize-topic-productivity
+  title: 'Summary Provider - Clone Activity: Summarize Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - summary
+  - provider
+  - clone
+  - activity
+  - summarize
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1942162343832862720/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Summary Provider - Clone"](https://www.aiprm.com/prompts/productivity/summarize/1942162343832862720/)_"
+    --- Provide a summary of the [PROMPT] Provide a response in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

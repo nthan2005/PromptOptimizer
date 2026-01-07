@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5174
+# teaser: Affiliate Product Review RevisionTime: 2024-04-14T09:18:21.729Z
+- id: 5174-affiliate-product-review-activity-writing-topic-copywriting
+  title: "Affiliate Product Review Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - affiliate
+    - product
+    - review
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Affiliate Product Review"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- First of all write a short review(150-200 words) of product using the description
+    that is given below, and keep the same voice tone and [TARGETLANGUAGE] as the
+    description. secondly, write specifications in a table format from the given data.
+    thirdly, create pros and cons from the given data. fourthly write why you should
+    buy this? at the end write a short conclusion. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

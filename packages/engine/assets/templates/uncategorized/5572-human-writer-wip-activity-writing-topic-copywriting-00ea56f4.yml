@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5572
+# teaser: Writing like a human RevisionTime: 2023-05-19T13:32:41.505Z
+- id: 5572-human-writer-wip-activity-writing-topic-copywriting-00ea56f4
+  title: "Human Writer (wip) Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - human
+    - writer
+    - wip
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Human Writer (wip)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Voice and style guide: Write in a casual, friendly way, as if you were telling
+    a friend about something. Use natural language and phrases that a real person
+    would use: in normal conversations in fluent [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

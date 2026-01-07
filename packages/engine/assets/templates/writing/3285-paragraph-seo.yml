@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3285
+# teaser: Paragraph writing
+- id: 3285-paragraph-seo
+  title: Paragraph seo
+  tags:
+    - writing
+    - paragraph
+    - seo
+  family: writing
+  body:
+    "Ecris moi en [TARGETLANGUAGE] avec un langage trÃƒÆ’Ã‚Â¨s soutenu un paragraphe
+    optimisÃƒÆ’Ã‚Â© seo ÃƒÆ’ la maniÃƒÆ’Ã‚Â¨re d'un rÃƒÆ’Ã‚Â©dacteur SEO professionnel afin d'informer
+    le lecteur sur : [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

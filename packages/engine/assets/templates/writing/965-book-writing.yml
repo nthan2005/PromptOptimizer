@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 965
+# teaser: Write a 10 chapter summary for a book from book title
+- id: 965-book-writing
+  title: Book Writing
+  tags:
+    - writing
+    - book
+  family: writing
+  body:
+    "I'm a writer You are my assistant Write a 10 chapter summary for a book.
+    This is the title of the book: [PROMPT] You will write the summary in this language
+    [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

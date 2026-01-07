@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7010
+# teaser: Write Youtube Shorts Script With Your Keywords or Phrase RevisionTime:
+# 2024-10-03T09:56:00.674Z
+- id: 7010-youtube-shorts-script-activity-social-media-topic-marketing
+  title: "Youtube Shorts Script Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - youtube
+    - shorts
+    - script
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Youtube Shorts Script"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- write script for youtube shorts for [PROMPT] in [TARGETLANGUAGE] in 130 words
+    with a call to action to subscribe to the channel'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

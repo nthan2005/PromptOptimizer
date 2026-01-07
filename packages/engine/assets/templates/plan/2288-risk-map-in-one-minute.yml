@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2288
+# teaser: Create a Risk Map for hiring outsourced companies in one minute
+- id: 2288-risk-map-in-one-minute
+  title: Risk Map in One minute
+  tags:
+    - plan
+    - risk
+    - map
+    - one
+    - minute
+  family: Plan
+  body:
+    Apresente o resultado no idioma [TARGETLANGUAGE] Eu quero que vocÃª me apresente
+    o nome de 9 riscos para... Apresente cada risco criado de forma enumerada. Os
+    Riscos 1 a 3 devem estar associados Ã fase de Planejamento. Os Riscos 4 a 6 devem
+    estar associados Ã fase de SeleÃ§Ã£o do Fornecedor. Os Riscos 7 a 9 devem estar
+    associados Ã fase de GestÃ£o do Contrato. Depois disso me apresente a causa para
+    cada risco apresentado. Depois disso me apresente o impacto para cada risco apresentado.
+    Depois disso me apresente duas aÃ§Ãµes preventivas para cada risco apresentado.
+    Depois disso me apresente duas aÃ§Ãµes de contingÃªncias para cada risco apresentado.
+    Apresente as aÃ§Ãµes preventivas e aÃ§Ãµes de contingÃªncias em forma de marcadores.
+    FaÃ§a essa tarefa em 3 etapas. Primeiro faÃ§a os riscos de 1 a 3. Depois expere
+    meu comando. Depois faÃ§a os riscos de 4 a 6. Depois expere meu comando. Depois
+    faÃ§a riscos de 7 a 9. Depois expere meu comando. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

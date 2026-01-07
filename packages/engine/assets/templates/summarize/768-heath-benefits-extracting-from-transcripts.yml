@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 768
+# teaser: List all heath benefits from video/audio transcript, presented in bulletpoints.
+- id: 768-heath-benefits-extracting-from-transcripts
+  title: Heath benefits extracting from transcripts
+  tags:
+    - summarize
+    - heath
+    - benefits
+    - extracting
+    - transcripts
+  family: Summarize
+  body:
+    "Assume the role of a health and wellness expert with a focus on both physical
+    and mental well-being. Provide a detailed summary of all the health tips mentioned
+    by the doctor or expert in the video, elaborating on each point to explain their
+    benefits and connections to overall health. Present the information as bullet
+    points. At the end, mention if any dishes, recipes, or supplements were discussed
+    in the video for follow-up questions. Write all output in [TARGETLANGUAGE] and
+    proceed step-by-step. Here is part of the transcript: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

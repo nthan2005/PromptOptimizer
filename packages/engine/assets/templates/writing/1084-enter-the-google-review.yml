@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1084
+# teaser: Welcome to our Automated Google Review Response Generator, where you simply input the
+# customer's review and ChatGPT crafts a personalized and engaging response for you!
+- id: 1084-enter-the-google-review
+  title: Enter the Google review
+  tags:
+    - writing
+    - enter
+    - google
+    - review
+  family: writing
+  body:
+    "Your task is to help me respond to an online customer review in [TARGETLANGUAGE]:
+    Please pretend you are a very nice and grateful person that speaks and writes
+    in casual perfect [TARGETLANGUAGE]. Please give me three responses with different
+    tons for each one to the prompt in this format. Please organize the responses
+    in a table. In the head of each column, write me the ton you use to reply to the
+    review. For the first response only, add few nice emoticons in the response text.
+    The customer review to help me with is: [PROMPT] My company name is : [VARIABLE2]
+    The name of the customer is : [VARIABLE1] [VARIABLE1:The name of the customer]
+    [VARIABLE2:The name of your company]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2

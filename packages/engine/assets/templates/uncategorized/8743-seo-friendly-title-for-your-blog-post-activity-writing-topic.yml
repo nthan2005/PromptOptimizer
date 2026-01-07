@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8743
+# teaser: Develop an SEO-friendly title for your blog post. RevisionTime: 2023-03-15T21:12:13.572Z
+- id: 8743-seo-friendly-title-for-your-blog-post-activity-writing-topic
+  title: "SEO-friendly title for your blog post. Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - seo
+    - friendly
+    - title
+    - blog
+    - post
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SEO-friendly title for your blog post."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Imagine: You are an SEO expert and create fantastic catchy titles for blog
+    posts in the food scene. When creating these titles, you use 20 to 30% common
+    words, 10% uncommon words, 1 emotional word, 1 power word. Your titles create
+    a positive feeling that encourages clicking on the content. [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

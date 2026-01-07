@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3452
+# teaser: Write SEO Article for Indian Dramas Site.
+- id: 3452-write-drama-name-only
+  title: Write Drama Name Only
+  tags:
+    - writing
+    - write
+    - drama
+    - name
+    - only
+  family: writing
+  body:
+    Follow these all instruction strictly. write all output in [TARGETLANGUAGE]
+    [ENGLISH]. Your Task is write an unique and 100% plagiarism free long article
+    on Indian Dramas. I will provide you only drama name and You should add Introduction
+    of Drama, Story of drama, Actors of drama in points, Coclusion and FAQs. Article
+    should be Highly readable. [PROMPT]
+  enabled: true
+  required:
+    - english
+    - prompt
+    - targetlanguage

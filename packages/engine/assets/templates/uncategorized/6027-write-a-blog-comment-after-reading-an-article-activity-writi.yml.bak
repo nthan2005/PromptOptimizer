@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6027
+# teaser: Write a blog comment after reading an article RevisionTime: 2023-02-19T15:35:19Z
+- id: 6027-write-a-blog-comment-after-reading-an-article-activity-writi
+  title: 'Write a blog comment after reading an article Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - write
+  - blog
+  - comment
+  - after
+  - reading
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1790234105460559872/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Write a blog comment after reading
+    an article"](https://www.aiprm.com/prompts/copywriting/writing/1790234105460559872/)_"
+    --- Read the article from mentioned URL and write 2 paragraphs of 200 words long
+    blog comment. Be informal and greet the author. Write it in [TARGETLANGUAGE].
+    Personalize the comment to sound as if you are talking to the author.[PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6995
+# teaser: summarize this [PROMPT] into a storytelling way to hook the viewer RevisionTime:
+# 2024-10-03T09:56:06.028Z
+- id: 6995-youtube-hook-summary-activity-social-media-topic-marketing-c
+  title: "YouTube Hook Summary Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - youtube
+    - hook
+    - summary
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "YouTube Hook Summary"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- summarize this [PROMPT] into a storytelling way to hook the viewer into wanting
+    hear the full story, summarize in one paragraph. [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

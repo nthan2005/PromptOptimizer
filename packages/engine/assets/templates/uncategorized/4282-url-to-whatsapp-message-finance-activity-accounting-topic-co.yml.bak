@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4282
+# teaser: Create a Whatsapp message for link distribution on groups. RevisionTime:
+# 2023-05-12T15:17:18.989Z
+- id: 4282-url-to-whatsapp-message-finance-activity-accounting-topic-co
+  title: 'URL to WhatsApp message [finance] Activity: Accounting Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - url
+  - whatsapp
+  - message
+  - finance
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1822619455403061248/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "URL to WhatsApp message [finance]"](https://www.aiprm.com/prompts/copywriting/accounting/1822619455403061248/)_"
+    --- Create a WhatsApp message for financial market distribution groups from a
+    URL. The theme that should be promoted is in the URL slug. Create a short copy
+    from the AIDA framework. Use emojis and WhatsApp text formatting. Create five
+    options. Keep the url as it s, not linked inside text and in a new line. Important:
+    do not recommend any investiment. Don''t make it look like a recommendation of
+    any kind. Don''t make judgement s about the content. Just inform people about
+    the content. Don''t be too appealing. Don''t be sensationalist. This is the URL:
+    [PROMPT] The message should be in the following language: [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

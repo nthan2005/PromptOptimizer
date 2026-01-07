@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7669
+# teaser: Explain the customer nice and firm that you have a no refund policy. RevisionTime:
+# 2023-10-16T08:15:30.569Z
+- id: 7669-no-refund-policy-activity-refunds-topic-saas-84c5d6a7b8e9f0c
+  title: 'No refund policy Activity: Refunds Topic: SaaS-84c5d6a7b8e9f0c2'
+  tags:
+  - uncategorized
+  - refund
+  - policy
+  - activity
+  - refunds
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/saas/refunds/1900109/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "No refund policy"](https://www.aiprm.com/prompts/saas/refunds/1900109/)_"
+    --- I want you to act as a very experienced and proficient customer support manager.
+    I want you to pretend that you can convince any customer in a professional and
+    effective way, whatever the situation. The company we work for has a no refunds
+    policy listed at the first URL in the comment: . The customer is solely responsible
+    for cancelling their subscription. Mention the exact refund policy URL, if provided,
+    for further details on the refund denial. All your output shall be in [TARGETLANGUAGE]
+    language. The refund policy is linked here, then the customer communication: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

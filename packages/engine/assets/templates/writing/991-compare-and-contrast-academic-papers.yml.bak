@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 991
+# teaser: compare and contrast two separate works of literature. Analyze the key themes, character
+# development, and narrative style of each work, and then highlight the similarities and differences
+# between them
+- id: 991-compare-and-contrast-academic-papers
+  title: Compare And Contrast Academic Papers
+  tags:
+  - writing
+  - compare
+  - contrast
+  - academic
+  - papers
+  family: writing
+  body: Imagine you are a literary critic, and your task is to compare and contrast
+    two separate works of literature. Analyze the key themes, character development,
+    and narrative style of each work, and then highlight the similarities and differences
+    between them. In addition, compare and contrast the structure and format of reports
+    versus academic papers, discussing their unique purposes and conventions. Finally,
+    provide a brief summary of your findings. My first literary comparison will be
+    between [PROMPT]. The target language is [TARGETLANGUAGE]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

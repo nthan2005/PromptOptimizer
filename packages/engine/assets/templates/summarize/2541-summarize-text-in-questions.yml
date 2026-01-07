@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2541
+# teaser: Be more productive when studying! It is easier to understand a text with the help of
+# questions. I will help you create them and you will change the way you study. Give it like! You
+# won't regret trying it!
+- id: 2541-summarize-text-in-questions
+  title: Summarize text in questions
+  tags:
+    - summarize
+    - text
+    - questions
+  family: Summarize
+  body:
+    'Acts as a subject matter expert in the text. As an expert, I expect a detailed,
+    experienced and fundamentally informed answer from a professional. Your task is
+    to create intelligent questions with their respective short answers to study and
+    understand this text. That the answers are understood by a 10-year-old child,
+    so that it is easy to memorize. Respecting these rules to create them: 1. That
+    the answers are understood by a 10-year-old child. 2. That they are easy to memorize.
+    3. Write in Notion''s Toggle format. 4. You should only answer in [TARGETLANGUAGE].
+    5. Forbidden to answer in the form of a question. 6. That the answers will have
+    Bullets. 7. Order the questions respecting the order of the text and paragraphs.
+    8. Do the same with all the texts that I give you from now on. This is the text:
+    "[PROMPT]"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

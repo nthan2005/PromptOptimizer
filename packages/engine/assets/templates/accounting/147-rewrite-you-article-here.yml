@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 147
+# teaser: past you content here
+- id: 147-rewrite-you-article-here
+  title: Rewrite you article here
+  tags:
+    - accounting
+    - rewrite
+    - article
+    - here
+  family: Accounting
+  body:
+    rewrite this content with this rule 1. use short engaging sentences at headline
+    2. give proper headline to each para that you explain 3. include key heilight
+    in starting 4. use proper context don't [TARGETLANGUAGE] [PROMPT] content is this
+    ""
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

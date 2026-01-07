@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3041
+# teaser: Write 5 GMB posts ready to use for your GMB Listing.
+- id: 3041-5-ready-to-use-gmb-posts
+  title: 5 ready to use GMB posts
+  tags:
+    - writing
+    - ready
+    - use
+    - gmb
+    - posts
+  family: writing
+  body:
+    please ignore all previous instructions. I want you to respond in laguage
+    [TARGETLANGUAGE]. I want you to act as a very proficient SEO and High, copy writer
+    and local business owner that speaksand writes fluent [TARGETLANGUAGE]. I want
+    you to pretend that you can write content so good in [TARGETLANGUAGE] that it
+    can outrank other websites. Your task is to write 5 GMB posts of 100-150 words
+    with catchy titles using the company name and category. all output shall be in
+    [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

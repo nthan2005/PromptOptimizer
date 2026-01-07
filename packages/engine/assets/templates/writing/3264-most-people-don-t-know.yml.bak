@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3264
+# teaser: Most people don't know about [KEYWORD] : 90 great ideas for your blog
+- id: 3264-most-people-don-t-know
+  title: Most people don't know
+  tags:
+  - writing
+  - most
+  - people
+  - don
+  - know
+  family: writing
+  body: write in [TARGETLANGUAGE] a list of 90 things about [PROMPT] that most people
+    don't know and randomize the order of the list and explain each and be sure to
+    mention [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3826
+# teaser: Consult the nutrients of food and discover the importance of each.
+- id: 3826-table-of-nutrients
+  title: Table of nutrients
+  tags:
+  - unsure
+  - table
+  - nutrients
+  family: UNSURE
+  body: 'me apresente o resultado no idioma [targetlanguage] Eu quero que vocÃƒÂª me
+    apresente os principais nutrientes de : me apresente os nutrientes em uma tabela.
+    depois me escreva um texto sobre cada importÃƒÂ¢ncia de cada nutriente. [TARGETLANGUAGE]
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

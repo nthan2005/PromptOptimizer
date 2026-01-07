@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6581
+# teaser: Create a Youtube video description from the title RevisionTime: 2023-03-11T09:02:58Z
+- id: 6581-youtube-description-activity-marketing-topic-marketing-cc647
+  title: "Youtube description Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - youtube
+    - description
+    - activity
+    - marketing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Youtube description"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I am a youtuber You are my assistant To publish a video I need a description
+    You''re the one who will do it You have to be on first name basis Use a friendly
+    tone Make you want to watch the video And above all, include all the words in
+    the title at least 3 times and at least once by respecting the order of the words
+    in the title You can skip lines to structure the paragraphs The whole thing must
+    be written in [TARGETLANGUAGE] from the title of the video that is [PROMPT].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

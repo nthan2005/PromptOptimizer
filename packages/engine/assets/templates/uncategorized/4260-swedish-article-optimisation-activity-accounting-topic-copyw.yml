@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4260
+# teaser: Swedish Article Optimisation RevisionTime: 2023-09-19T12:38:56.186Z
+- id: 4260-swedish-article-optimisation-activity-accounting-topic-copyw
+  title: "Swedish Article Optimisation Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - swedish
+    - article
+    - optimisation
+    - activity
+    - accounting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Swedish Article Optimisation"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Imagina que eres un experto en SEO Y quieres mandar a un freelance una guia
+    de contenidos en sueco deberas traducirla del [TARGETLANGUAGE]. Con esta guÃƒÂ­a
+    el freelance tendrÃƒÂ¡ que optimizar el articulo que vamos a insertar en el [PROMPT].
+    Esta guÃƒÂ­a de contenidos que tienes que hacer se va a hacer en base a los siguientes
+    requisitos: Con toda esta informaciÃƒÂ³n: Keywords principales del artÃƒÂ­culo [VARIABLE1],
+    keywords secundarias del articulo [VARIABLE2], TÃƒÂ­tulo H1 del artÃƒÂ­culo [VARIABLE3],
+    mÃƒÂ¡ximo de palabras a usar en el artÃƒÂ­culo [VARIABLE4] y los enlaces internos
+    que queremos en el artÃƒÂ­culo [VARIABLE5]. Crea la guia de contenidos y genera
+    los H2 del artÃƒÂ­culo en orden de prioridad. [VARIABLE1:Keyword principales] [VARIABLE2:Keywords
+    secundarias] [VARIABLE3:tÃƒÂ­tulo H1] [VARIABLE4:MÃƒÂ¡ximo de palabras] [VARIABLE5:Internal
+    links]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3
+    - variable4
+    - variable5

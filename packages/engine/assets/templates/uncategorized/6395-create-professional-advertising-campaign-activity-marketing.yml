@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6395
+# teaser: ChatGPT will choose a target audience, develop key messages and slogans, select the media
+# channels for promotion, and decide on any additional activities needed to reach your goals.
+# RevisionTime: 2023-02-19T15:35:19Z
+- id: 6395-create-professional-advertising-campaign-activity-marketing
+  title: "Create Professional Advertising Campaign Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - professional
+    - advertising
+    - campaign
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create Professional Advertising Campaign"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as an advertiser. You will create a campaign to promote
+    a product or service of your choice. You will choose a target audience, develop
+    key messages and slogans, select the media channels for promotion, and decide
+    on any additional activities needed to reach your goals. My first suggestion request
+    is "[PROMPT]", I want you do give me the reply in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

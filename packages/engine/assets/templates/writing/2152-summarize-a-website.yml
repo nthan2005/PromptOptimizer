@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2152
+# teaser: Generate a summary of the website
+- id: 2152-summarize-a-website
+  title: Summarize a Website
+  tags:
+    - writing
+    - summarize
+    - website
+  family: writing
+  body:
+    "All output shall be in [TARGETLANGUAGE]. Your task is to identify what industry
+    the [PROMPT] is and summarize a website of what they do. Please summarize [PROMPT]
+    and recommend at least some IT solutions and IT appliance with specific product
+    name, brief description and a product link that we can sell to the website that
+    I provide to you. Your response should be in bullet like form style and should
+    translate all your response in Thai language every after sentence. The website
+    to summarize is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

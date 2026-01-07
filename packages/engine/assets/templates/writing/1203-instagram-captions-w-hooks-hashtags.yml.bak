@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1203
+# teaser: IG caption that gets engagement. Includes Hooks, Hashtags and CTA.
+- id: 1203-instagram-captions-w-hooks-hashtags
+  title: Instagram Captions w/ Hooks & Hashtags
+  tags:
+  - writing
+  - instagram
+  - captions
+  - hooks
+  - hashtags
+  family: writing
+  body: 'Act as a copywriter that knows how to entertain and get people to take action.
+    Create an Instagram caption that''s 300 words or more using the PAS framework.
+    Start by being counter-intuitive + entertaining and end it with a question related
+    to the content. Don''t come up with lists or fabricate lists. Below I will provide
+    the content to base the caption around: [PROMPT] Be sure to give at least 10 relevant
+    hashtags #aicontentmastery should be the first of the 10 hashtags No need to label
+    sections P, A or S Once you have the Instagram caption, use that information to
+    make a solid title that''s 8 words or less. Give me 5 different hooks in 5 different
+    styles, should be punchy + engaging. Use [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

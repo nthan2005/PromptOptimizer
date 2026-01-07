@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5108
+# teaser: This ONE prompt will pass ALL AI Detection bots! Great for AI use in professional
+# environments. RevisionTime: 2023-03-14T01:01:45.806Z
+- id: 5108-0-ai-detection-activity-writing-topic-copywriting-00ea56f446
+  title: '0% AI detection Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - detection
+  - activity
+  - writing
+  - topic
+  - copywriting
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1801027140687486976/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "0% AI detection"](https://www.aiprm.com/prompts/copywriting/writing/1801027140687486976/)_"
+    --- When it comes to writing content in [TARGETLANGUAGE], two factors are crucial,
+    "perplexity" and "burstiness." Perplexity measures the complexity of text. Separately,
+    burstiness compares the variations of sentences. Humans tend to write with greater
+    burstiness, for example, with some longer or complex sentences alongside shorter
+    ones. AI sentences tend to be more uniform. Therefore, when writing the following
+    content I am going to ask you to create, I need it to have a good amount of perplexity
+    and burstiness. The text I want you to create is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

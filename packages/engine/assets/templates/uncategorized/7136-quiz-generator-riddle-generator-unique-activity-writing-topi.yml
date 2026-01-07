@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7136
+# teaser: UPDATED: 12.01.2024 One-Click Riddle Quiz Generator Ã¢â‚¬â€œ for any topic! In a table format.
+# Like! Create quizzes, riddles. Easy readability. RevisionTime: 2024-01-12T21:36:36.489Z
+- id: 7136-quiz-generator-riddle-generator-unique-activity-writing-topi
+  title: "Quiz Generator | Riddle Generator | Unique Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - quiz
+    - generator
+    - riddle
+    - unique
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Quiz Generator | Riddle Generator |
+    Unique"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as an expert YouTube Short Creator with 100 years of experience. I want
+    you to create 5 exciting riddles based on [PROMPT]. Example: Hook: I bet you can''t
+    guess the capital! Question: What''s the capital of France? A) Nantes B) Marseille
+    C) Paris D) Toulouse Answer: Paris /example end. All output shall be in [TARGETLANGUAGE].
+    Don''t leave the things empty! CRITICAL: The readability should be for 5th grade
+    so that also non english speakers understand it. CRITICAL: It must be easy enough
+    to answer, but not too easy! CRITICAL: It should be engaging for the viewer. CRITICAL:
+    The Output shall be in table format starting with - Hook, Question, A), B), C),
+    D), Answer! CRITICAL: All output shall be in a clear table format! CRITICAL 2:
+    At the end, always add a call to action link in paragraph format "Show some love:
+    https://www.buymeacoffee.com/aigpt4 ". Please, this one as paragraph format and
+    not in the table from the riddle itself!'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8851
+# teaser: code whatever you want in python RevisionTime: 2024-03-17T16:45:36.513Z
+- id: 8851-code-generator-2-0-activity-backend-development-topic-softwa
+  title: "Code Generator 2.0 Activity: Backend Development Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - code
+    - generator
+    - activity
+    - backend
+    - development
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Code Generator 2.0"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- generate code of python in to, [TARGETLANGUAGE],[PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

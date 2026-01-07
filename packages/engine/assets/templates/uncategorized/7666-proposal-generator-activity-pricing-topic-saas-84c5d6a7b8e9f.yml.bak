@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7666
+# teaser: Business Proposal Generator AIPRM RevisionTime: 2023-03-18T09:11:48Z
+- id: 7666-proposal-generator-activity-pricing-topic-saas-84c5d6a7b8e9f
+  title: 'Proposal Generator Activity: Pricing Topic: SaaS-84c5d6a7b8e9f0c2'
+  tags:
+  - uncategorized
+  - proposal
+  - generator
+  - activity
+  - pricing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/saas/pricing/1800384761718640640/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Proposal Generator"](https://www.aiprm.com/prompts/saas/pricing/1800384761718640640/)_"
+    --- as a technical proposal writer, you have to create a detailed proposal for
+    saas business of [PROMPT] include topics like executive summary, our approach,
+    services, terms and conditions, pricing and conclusion. the headlines should be
+    in bold. Pricing and terms should be in bullet points. language should be [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

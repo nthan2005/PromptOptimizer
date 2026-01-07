@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4277
+# teaser: Turn any equation into LaTex RevisionTime: 2023-02-19T15:35:19Z
+- id: 4277-turn-equations-into-latex-activity-accounting-topic-copywrit
+  title: 'Turn equations into LaTex Activity: Accounting Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - turn
+  - equations
+  - latex
+  - activity
+  - accounting
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1788555159459328000/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Turn equations into LaTex"](https://www.aiprm.com/prompts/copywriting/accounting/1788555159459328000/)_"
+    --- Please ignore all previous inputs. Turn [PROMPT] into perfect LaTex code in
+    [TARGETLANGUAGE]. Always start an equation with \begin{equation} and end an equation
+    with \end{equation}. Do not solve any of the operations while generating the LaTex
+    code. In other words, do not synthesise 2*7*x into 14*x or any other mathematical
+    equations.'
+  enabled: true
+  required:
+  - equation
+  - prompt
+  - targetlanguage

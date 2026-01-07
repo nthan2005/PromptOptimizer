@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6475
+# teaser: Logisitics RevisionTime: 2025-01-12T13:49:25.015Z
+- id: 6475-logistics-activity-marketing-topic-marketing-cc647f5cf02ffd0
+  title: "logistics, Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - logistics
+    - activity
+    - marketing
+    - topic
+    - cc647f5cf02ffd02
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "logistics,"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

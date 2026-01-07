@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5696
+# teaser: Make a character and get personalized answers to specific questions. RevisionTime:
+# 2023-02-25T18:45:05Z
+- id: 5696-my-character-meu-pesonagem-activity-writing-topic-copywritin
+  title: "My character (Meu pesonagem) Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - character
+    - meu
+    - pesonagem
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "My character (Meu pesonagem)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Eu quero que vocÃƒÂª se transforme em um personagem. [PROMPT]. Em [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

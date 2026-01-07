@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 727
+# teaser: Write Youtube Shorts Script With Your Keywords or Phrase
+- id: 727-youtube-shorts-script
+  title: Youtube Shorts Script
+  tags:
+    - script-writing
+    - youtube
+    - shorts
+    - script
+  family: Script Writing
+  body:
+    write script for youtube shorts for [PROMPT] in [TARGETLANGUAGE] in 130 words
+    with a call to action to subscribe to the channel
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5476
+# teaser: This prompt allows you to write a unique and plagrism free essay by entering one word.
+# RevisionTime: 2023-03-13T16:25:00Z
+- id: 5476-essay-writing-activity-writing-topic-copywriting-00ea56f4464
+  title: "Essay Writing Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - essay
+    - writing
+    - activity
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Essay Writing"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as an essay writer. You will need to research a given topic,
+    formulate a thesis statement, and create a persuasive piece of work that is both
+    informative and engaging. My first suggestion request is [Type of Essay] [PROMPT].[TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

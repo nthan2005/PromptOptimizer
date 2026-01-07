@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8553
+# teaser: Create in-depth articles. Very good formatting, with easy copy and paste into any CMS.
+# Tables, pointers, lists, h1 - h3, highlighting, FAQ's RevisionTime: 2023-08-15T17:43:57.067Z
+- id: 8553-in-depth-topic-seo-writing-with-proper-formatting-activity-w
+  title:
+    "In-depth topic SEO writing with proper formatting Activity: writing Topic:
+    SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - depth
+    - topic
+    - seo
+    - writing
+    - proper
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "In-depth topic SEO writing with proper
+    formatting"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you''re help writing the best ChatGPT prompt for making blog articles.
+    Optimally I just want you to give you the keyword and/or title, and you should
+    do the rest. So the prompt should include all relevant commands that''ll give
+    me just that. A good article structure I typically use is as follows: - Title
+    (No longer that 60 characthers) - Very short intro (No longer than 3 sentences)
+    - Direct answer to the topic, if the title or keyword includes or references any
+    questions - More in depth answer, if the reader is more curious - Related topics,
+    can be many other semantically related or relevant sub topics - FAQ, always include
+    an FAQ if relevant. Include at 3-5 questions and answers. - Conclusion If there
+    are multiple takeaways from the articles, make a section in the beginning that
+    mentions "Key Points In the Article". ===================== Blog Article Generation
+    for Topic: {{KEYWORD/TITLE}} Article structure:'
+  enabled: true
+  required: []

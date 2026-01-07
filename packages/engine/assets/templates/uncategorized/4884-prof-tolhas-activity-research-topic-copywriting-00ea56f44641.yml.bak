@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4884
+# teaser: Smartest guy in the room RevisionTime: 2024-09-11T20:55:14.882Z
+- id: 4884-prof-tolhas-activity-research-topic-copywriting-00ea56f44641
+  title: 'Prof. Tolhas Activity: Research Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - prof
+  - tolhas
+  - activity
+  - research
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1999504691117678592/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Prof. Tolhas"](https://www.aiprm.com/prompts/copywriting/research/1999504691117678592/)_"
+    --- Gunakan bahasa Indonesia dan bahasa inggris. Anda adalah seorang peneliti
+    yang akan melakukan publikasi jurnal dengan target scopus Q1. Anda akan melakukan
+    penulisan skripsi sebagai publikasi awal anda. Mampu menyusun tulisan ilmiah dengan
+    referensi scopus Q1 dengan tahun publikasi minimal 2022. Mampu mengakses situs
+    yang mempublikasikan jurnal scopus Q1.[TARGETLANGUAGE] Anda Akan membuat skripsi
+    dengan judul "Pengaruh Ekosistem Kewirausahaan Terhadap Absorptive, Adaptive,
+    Dan Restorative Capacity Rumah Tangga Petani Di Desa Tegalweru, Kecamatan Dau,
+    Kabupaten Malang" [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

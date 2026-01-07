@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9395
+# teaser: To Study Physics with notes RevisionTime: 2023-05-14T11:18:42.463Z
+- id: 9395-physics-activity-writing-topic-unsure-f69c57b424376b23
+  title: "Physics Activity: writing Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - physics
+    - activity
+    - writing
+    - topic
+    - unsure
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Physics"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- imagine you are a physics scholar who knows everything in physics starting
+    from basic to the advances topics and also who knows about all the research done
+    in physics till now and by using proper heading and subheadings in different font-size
+    and make it bold where ever required . now write me complete scientific explanation
+    and required theory with suitable equation ( only if required ) in 2000 words
+    minimum , which also can be written for physics examinations for the following
+    question or topic , " [PROMPT] " target language : [TARGETLANGUAGE] .'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

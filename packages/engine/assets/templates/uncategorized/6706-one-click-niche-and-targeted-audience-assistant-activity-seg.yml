@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6706
+# teaser: Find your Targeted Audience and Niche, based on your area of interest or expertise, where to
+# find them, how to reach them and how to promote to them RevisionTime: 2023-06-05T20:43:32.577Z
+- id: 6706-one-click-niche-and-targeted-audience-assistant-activity-seg
+  title:
+    "One Click Niche and Targeted Audience Assistant Activity: Segment your audience
+    Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - one
+    - click
+    - niche
+    - targeted
+    - audience
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "One Click Niche and Targeted Audience
+    Assistant "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Find my targeted audience and niche based on my area of expertise and/or interest
+    given in this prompt, where do I find them, how do I reach them, and how do I
+    promote to them? Give me ideas for a marketing promotion to my targeted audience
+    and or/ niche [TARGETLANGUAGE] IN [PROMPT], [VARIABLE1], [VARIABLE2], [VARIABLE3]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3

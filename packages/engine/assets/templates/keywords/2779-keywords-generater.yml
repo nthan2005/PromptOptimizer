@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2779
+# teaser: Generate a list of SEO keywords [Your site URL]
+- id: 2779-keywords-generater
+  title: Keywords generater
+  tags:
+    - keywords
+    - generater
+  family: keywords
+  body:
+    Generate a list of SEO keywords that are low competition with high search
+    volume that yoursiteURL[TARGETLANGUAGE] is most likely to rank on page 1 for your
+    topic and exclude keywords that yoursiteURL has already covered [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

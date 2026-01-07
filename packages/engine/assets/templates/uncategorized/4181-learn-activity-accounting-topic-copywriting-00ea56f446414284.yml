@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4181
+# teaser: Impressionist painting RevisionTime: 2023-05-09T22:09:24.673Z
+- id: 4181-learn-activity-accounting-topic-copywriting-00ea56f446414284
+  title: "Learn Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - learn
+    - activity
+    - accounting
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Learn"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] EWrite a long article in [TARGETLANGUAGE] Spanish and English with
+    a minimum of 1500 words and at least 4 headings and subheadings, including HI,
+    H2, H3, H4 headings. Use the'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

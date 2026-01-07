@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3003
+# teaser: Write a few sentences and just like magic you'll have a book outline/table of contents
+# churned out for you with a lengthy introduction to get you started. Check it out for yourself and I
+# would love to hear any feedback to continuously improve this prompt for all!
+- id: 3003-10-chapter-book-outline-w-detailed-intro
+  title: 10 Chapter Book Outline w/ Detailed Intro
+  tags:
+    - writing
+    - chapter
+    - book
+    - outline
+    - detailed
+    - intro
+  family: writing
+  body:
+    Generate book title with provided keyword[TARGETLANGUAGE] [PROMPT] Generate
+    10 book chapters with the title provided and list them[TARGETLANGUAGE] [PROMPT]
+    Generate detailed book intro with the title provided and more then 1200 words[TARGETLANGUAGE]
+    [PROMPT] Write Chapter 1 with detailed information and more then 2000 words[TARGETLANGUAGE]
+    [PROMPT] Write Chapter 2 with detailed information and more then 3000 words[TARGETLANGUAGE]
+    [PROMPT] Write Chapter 3 with detailed information and more then 3000 words[TARGETLANGUAGE]
+    [PROMPT] Write Chapter 4 with detailed information and more then 2000 words[TARGETLANGUAGE]
+    [PROMPT] Write Chapter 5 with detailed information and more then 4000 words[TARGETLANGUAGE]
+    [PROMPT] Write Chapter 6 with detailed information and more then 2500 words[TARGETLANGUAGE]
+    [PROMPT] Write Chapter 7 with detailed information and more then 2000 words[TARGETLANGUAGE]
+    [PROMPT] Write Chapter 8 with detailed information and more then 3000 words[TARGETLANGUAGE]
+    [PROMPT] Write Chapter 9 with detailed information and more then 2000 words[TARGETLANGUAGE]
+    [PROMPT] Write Chapter 10 with detailed information and more then 3000 words[TARGETLANGUAGE]
+    [PROMPT] Generate detailed book conclusion with the title provided and more then
+    1000 words[TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

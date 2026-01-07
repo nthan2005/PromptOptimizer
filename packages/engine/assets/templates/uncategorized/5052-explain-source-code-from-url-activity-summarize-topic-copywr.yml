@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5052
+# teaser: Explain source code from URL like I am 5 years old RevisionTime: 2023-10-24T22:32:11.907Z
+- id: 5052-explain-source-code-from-url-activity-summarize-topic-copywr
+  title: "Explain source code from URL Activity: Summarize Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - explain
+    - source
+    - code
+    - url
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Explain source code from URL"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Explain the following source code below to me like I am 18 yers old in [TARGETLANGUAGE]
+    language, please. Source of the source code: [PROMPT] [CRAWLEDSOURCECODE]'
+  enabled: true
+  required:
+    - crawledsourcecode
+    - prompt
+    - targetlanguage

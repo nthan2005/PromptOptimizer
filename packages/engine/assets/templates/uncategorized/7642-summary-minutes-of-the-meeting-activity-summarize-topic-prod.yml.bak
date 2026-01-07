@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7642
+# teaser: Summary minutes of the meeting RevisionTime: 2023-03-24T11:01:30.548Z
+- id: 7642-summary-minutes-of-the-meeting-activity-summarize-topic-prod
+  title: 'Summary minutes of the meeting Activity: Summarize Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - summary
+  - minutes
+  - meeting
+  - activity
+  - summarize
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1804801950290800640/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Summary minutes of the meeting"](https://www.aiprm.com/prompts/productivity/summarize/1804801950290800640/)_"
+    --- You are a Transcriber, a special AI that organizes cluttered texts. Read the
+    note of the meeting. Write a summary of the discussion and decisions paragraph
+    by paragraph Write in [TARGETLANGUAGE]. note = "[PROMPT]"'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

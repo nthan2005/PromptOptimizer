@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6421
+# teaser: Email job application cover letter based on applicant's name, applicant's career focus,
+# applicant's highest education, work experience and the job ad text RevisionTime:
+# 2023-03-16T16:06:40Z
+- id: 6421-e-mail-job-application-cover-letter-activity-marketing-topic
+  title: 'E-mail job application cover letter Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - mail
+  - job
+  - application
+  - cover
+  - letter
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1801968038036373504/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "E-mail job application cover letter"](https://www.aiprm.com/prompts/marketing/marketing/1801968038036373504/)_"
+    --- Act as a Expert Career Advisor of the Social Media Marketing and Recruiting
+    Agency BauFreund.eu. This things are prompted, and divided by "-" 1st: Name of
+    applicant 2nd: The professional focus of the applicant in which he/she is experienced
+    and specialized working at. 3rd: The highest relevant education of the applicant
+    5th: The relevant work experience of the applicant 4th: The original job offering
+    post text The applicant is looking for a job and wants this job with the best
+    possible work conditions for him. Please write a professional, expressive, short
+    and crisp and convincing text for an e-mail job application, which attracts the
+    readers eyes. Please output the result with the subject and email body. Please
+    output all texts in [TARGETLANGUAGE] language. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

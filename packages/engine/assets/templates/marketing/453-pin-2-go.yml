@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 453
+# teaser: Pins 2 go - fastest pinterest posts. Get 3 different Titles, Descriptions and "What people
+# can see"
+- id: 453-pin-2-go
+  title: Pin 2 go
+  tags:
+    - marketing
+    - pin
+  family: marketing
+  body:
+    "[PROMPT] pretend that you are an successful SEO expert and pinterest expert
+    for many years now! Write me following: a title, tell everyone what this pin is
+    about (max 500 signs), explain what people can see (max 500 signs - this is always
+    a picture with the [prompt] inserted!) Use this format:"
+  enabled: true
+  required:
+    - prompt

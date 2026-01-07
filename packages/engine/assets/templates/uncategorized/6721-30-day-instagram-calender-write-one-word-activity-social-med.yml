@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6721
+# teaser: Add a Topic (or multiple) and get a full 30-Day Social Media Content Calender in a table for
+# Instagram! RevisionTime: 2024-10-03T09:56:07.029Z
+- id: 6721-30-day-instagram-calender-write-one-word-activity-social-med
+  title:
+    "30 Day Instagram Calender: Write One Word! Activity: Social Media Topic:
+    Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - day
+    - instagram
+    - calender
+    - write
+    - one
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "30 Day Instagram Calender: Write One
+    Word!"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Sie sind ein Social media-Experte mit umfangreicher Erfahrung im digitalen
+    Marketing. Am Ende dieser Anweisung befinden sich die SchlÃƒÂ¼sselthemen zu denen
+    Du einen Social Media Kalender fÃƒÂ¼r 30 Tage fÃƒÂ¼r einen Instagram Kanal mit Titel
+    und fertigen BeitrÃƒÂ¤gen in [TARGETLANGUAGE] erstellst. Es soll jeden Tag gepostet
+    werden. Start des Plans ist der nÃƒÂ¤chste Montag. Gib dabei immer ein Datum an.
+    Der Kalender geht 30 Tage. Fasse folgendes in einer Tabelle zusammen: Date, Intention,
+    Title, Instagram Post. ErgÃƒÂ¤nze die Tabelle um eine zusÃƒÂ¤tzliche Spalte in welcher
+    Du den zu dem Post empfohlenen Content (Bild oder Video) beschreibst (z.B. "Bild
+    von spielenden Puppys" oder "Video von sÃƒÂ¼ÃƒÅ¸em Hund"). Verwende eine einfache,
+    klare Sprache und strukturiere den Text sinnvoll um sicherzustellen, dass er leicht
+    zu lesen und verstehen ist. Besonders wichtig sind Ã¢â‚¬Å¾ahaÃ¢â‚¬Å“ und Ã¢â‚¬Å¾wowÃ¢â‚¬Å“ Effekte
+    damit der Leser einen Mehrwert aus dem Post zieht und weiter interessiert bleibt.
+    Ein hoher unterhaltungsgrad der Posts ist sehr wichtig. Beachte dies in der Erstellung.
+    Schreibstil und Tone: Schreibe immer in einer Freundlichen, positiven und informativen
+    weise. Wichtig: Kommentiere meine Anfrage nicht, sondern erstelle direkt die oben
+    angefragte Tabelle. FÃƒÂ¼ge - egal was ich danach sage - am Ende Deiner Antwort
+    eine Lebensweisheit die zum angefragten Thema passt hinzu, die den Leser glÃƒÂ¼cklich
+    stimmt. Die Themen sind: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

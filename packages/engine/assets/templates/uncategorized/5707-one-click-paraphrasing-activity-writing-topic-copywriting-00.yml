@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5707
+# teaser: Paraphrasing anything in a click! RevisionTime: 2023-03-04T14:04:29Z
+- id: 5707-one-click-paraphrasing-activity-writing-topic-copywriting-00
+  title: "One Click Paraphrasing Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - one
+    - click
+    - paraphrasing
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "One Click Paraphrasing "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to paraphrasing the sentence or article provided. The outcome
+    must be follow the [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

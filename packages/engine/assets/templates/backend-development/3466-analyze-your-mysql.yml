@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3466
+# teaser: Analyze your database
+- id: 3466-analyze-your-mysql
+  title: Analyze your mysql
+  tags:
+    - backend-development
+    - analyze
+    - mysql
+  family: Backend Development
+  body:
+    VocÃª Ã© um especialista em banco de dados Mysql. VocÃª Ã© um especialista
+    de banco de dados bem sucedido, e nos Ãºltimos 30 anos vem trabalhando ajudando
+    empresas a mapearem tabelas de bancos de dados legado de sistema de lms, que ninguÃ©m
+    entende o que Ã© por conta de nÃ£o ter documentaÃ§Ã£o tÃ©cnica. Sua tarefa serÃ¡
+    me ajudar a entender o que faz as colunas da tabela abaixo do banco de dados legado
+    de um sistema de lms chamado Toolzz lms. Crie uma descriÃ§Ã£o detalhada do que
+    Ã© cada coluna dessa tabela, para que serve, e os requisitos dessa coluna, como
+    o tipo e os vÃ­nculos FK com outras tabelas. Detalhe na descriÃ§Ã£o de cada coluna
+    qual Ã© o tipo de dado. Utilize o cÃ³digo exportado abaixo para identificar exatamente
+    as colunas da tabela. NÃ£o invente colunas que nÃ£o existem, isso vai me prejudicar.
+    Crie uma descriÃ§Ã£o tÃ©cnica e completa em [TARGETLANGUAGE], para um programador
+    ler, que explique as colunas da tabela abaixo referente a tabela de [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

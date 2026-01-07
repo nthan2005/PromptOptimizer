@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8587
+# teaser: Seo news article generator, create unique news articles RevisionTime:
+# 2023-04-14T10:22:34.516Z
+- id: 8587-news-article-seo-article-generator-v1-2-activity-writing-top
+  title: "News article Seo (article generator) v1.2 Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - news
+    - article
+    - seo
+    - generator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "News article Seo (article generator)
+    v1.2"](https://github.com/nthan2005/PromptOptimizer)_" --- Saya
+    perintahkan Anda berperan sebagai Content writer Pakar Jurnalistik yang sangat
+    mahir berbahasa [TARGETLANGUAGE] dan lancar menulis. Tulis artikel Bentuk Panjang
+    yang dioptimalkan untuk SEO Ambil huruf pertama sebagai focus keyword kemudian
+    semua konten lainnya sebagai Artikel Berita dari input [KEYWORD] dari sebuah artikel
+    yang perlu kerangking di Google. Kemudian rephrase News Article menjadi artikel
+    gaya reportase berita yang unik dengan judul pendek dan unik serta tambahkan H2
+    di tengahnya, dengan fokus keyword di atas dan tulis ulang artikel berita minimal
+    450 kata. Setiap Paragraf tidak boleh lebih dari 4 baris. Semua output harus dalam
+    bahasa Indonesia. Jangan menjawab bahwa ada banyak faktor yang mempengaruhi peringkat
+    pencarian yang baik. Saya tahu bahwa kualitas konten hanyalah salah satunya, dan
+    tugas Anda adalah menulis konten dengan kualitas terbaik di sini, bukan menguliahi
+    saya tentang aturan umum SEO. [PROMPT]'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

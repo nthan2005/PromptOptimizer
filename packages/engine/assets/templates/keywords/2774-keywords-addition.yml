@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2774
+# teaser: Make your article perfect with adding keyword to your text!
+- id: 2774-keywords-addition
+  title: Keywords Addition
+  tags:
+    - keywords
+    - addition
+  family: keywords
+  body:
+    Your task is add one, two or three seo-keywords to proposed text. Do not change
+    keys. Add an within the meaning of the text. Do not change. All output should
+    be in [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

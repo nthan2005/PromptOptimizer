@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3331
+# teaser: Write a paragraph that includes most of the semantically relevant SEO terms, like SurferSEO
+# does.
+- id: 3331-semantically-relevant-paragraphs-like-surfer
+  title: Semantically Relevant Paragraphs like Surfer
+  tags:
+    - writing
+    - semantically
+    - relevant
+    - paragraphs
+    - like
+    - surfer
+  family: writing
+  body:
+    "Your tasks are the following: First generate a list of semantically relevant
+    terms from the topic I'm going to provide you. Name these as NLP terms. You are
+    going to provide NLP terms in [TARGETLANGUAGE]. Then write multiple paragraphs
+    that includes all of these terms in the [TARGETLANGUAGE]. Before writing paragraphs,
+    tell the users that now I will include these terms in the following paragraphs.
+    The topic is: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

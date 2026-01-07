@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5529
+# teaser: Quickly generate text that can be used for https://ppt.sankki.com - text2PPT RevisionTime:
+# 2023-04-13T07:16:08.33Z
+- id: 5529-generate-ppt-template-with-one-click-activity-writing-topic
+  title: 'Generate PPT Template With One Click Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - generate
+  - ppt
+  - template
+  - one
+  - click
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1810922763922444288/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Generate PPT Template With One\
+    \ Click\"](https://www.aiprm.com/prompts/copywriting/writing/1810922763922444288/)_\"\
+    \ --- Help me make a PPT about [PROMPT], the requirements are as follows: A. All\
+    \ output shall be in [TARGETLANGUAGE] B. There are five page forms: cover, directory,\
+    \ transition, list, acknowledgments C. The contents page needs to outline the\
+    \ content D. According to the content outline, generate the corresponding PPT\
+    \ list page, and each listing page begins with \"=====åˆ—è¡¨=====\" E. The cover\
+    \ page format is as follows: =====å°\x81é\x9D¢===== # main heading ## sub heading\
+    \ by [VARIABLE1] F. The directory page format is as follows: =====ç›®å½•=====\
+    \ # ç›®å½• ## CONTENT 1ã€\x81content 2ã€\x81content G. The list page format is\
+    \ as follows: =====åˆ—è¡¨===== # main heading of page 1ã€\x81main point1 description\
+    \ of main point1 H. The main point description content in the list page is a detailed\
+    \ description of the main point, 10 words or more, 80 words or less I. The acknowledgments\
+    \ page format is as follows: =====è‡´è°¢===== J. After each outline is described,\
+    \ a transition page is inserted. The content of the transition page is the next\
+    \ outline title. The transition page format is as follows: =====è¿‡æ¸¡===== #\
+    \ next outline title Finally, please ensure to reply with the generated content\
+    \ using code blocks. [VARIABLE1: What's your name]"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - variable1

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6166
+# teaser: Create the Best Summary for my content RevisionTime: 2024-04-14T18:27:18.27Z
+- id: 6166-best-product-summarization-activity-dall-e-topic-generative
+  title: 'Best Product Summarization Activity: Dall-E Topic: Generative-AI-b983edfcaa490850'
+  tags:
+  - uncategorized
+  - product
+  - summarization
+  - activity
+  - dall
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1937985210801729536/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Best Product Summarization"](https://www.aiprm.com/prompts/generative/dalle/1937985210801729536/)_"
+    --- Your task is to summarize the I give you in 60 words or maximum 300 characters.
+    All output shall be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

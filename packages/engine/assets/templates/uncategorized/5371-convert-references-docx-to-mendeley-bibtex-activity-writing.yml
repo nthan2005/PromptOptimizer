@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5371
+# teaser: Type up to 6 references at a time. Insert reference list copied from a docx file and Convert
+# Word references (docx) to import in Mendeley (BibTeX) RevisionTime: 2023-05-29T21:36:38.784Z
+- id: 5371-convert-references-docx-to-mendeley-bibtex-activity-writing
+  title:
+    "Convert references (docx) to Mendeley (BibTeX) Activity: writing Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - convert
+    - references
+    - docx
+    - mendeley
+    - bibtex
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Convert references (docx) to Mendeley
+    (BibTeX)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Rewrite the references [PROMPT] [TARGETLANGUAGE] in according of the below
+    steps: 1. Format all reference according to BibTeX rules. A BibTeX reference typically
+    consists of several fields, including author(s), title, journal/book title, year,
+    volume, number, pages, and publisher. Ensure that the formatting matches the BibTeX
+    requirements. 2. Create the source code with new references formmated, the code
+    must be written in the format of a .bib file'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

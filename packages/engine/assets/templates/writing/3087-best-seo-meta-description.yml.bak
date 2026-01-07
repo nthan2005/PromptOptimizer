@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3087
+# teaser: Create Best Meta Description for Your Blog
+- id: 3087-best-seo-meta-description
+  title: Best SEO Meta Description
+  tags:
+  - writing
+  - seo
+  - meta
+  - description
+  family: writing
+  body: 'Your task is to write SEO optimized mta description for keyword I give you
+    in 100 or maximum 160 characters. All output shall be in [TARGETLANGUAGE]. The
+    keyword for meta descrition is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

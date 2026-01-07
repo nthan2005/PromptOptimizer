@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8029
+# teaser: Use this amazing prompt for rank on # 1 RevisionTime: 2023-06-15T02:48:13.954Z
+- id: 8029-amazing-blogging-posts-activity-link-building-topic-seo-84c5
+  title: 'Amazing Blogging Posts Activity: link building Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - amazing
+  - blogging
+  - posts
+  - activity
+  - link
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/link-building/1834752295649943552/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Amazing Blogging Posts\"](https://www.aiprm.com/prompts/seo/link-building/1834752295649943552/)_\"\
+    \ --- Create a blog post about what is in [PROMPT]. Write it in a â€œ{tone}â€\x9D\
+    \ tone. Use transition words. Use active voice. Write over 1000 words. The blog\
+    \ post should be in a [TARGETLANGUAGE]. Add title and subtitle for each section.\
+    \ It should have a minimum of 6 sections. Include the following keywords: â€œ{keywords}â€\x9D\
+    . Create a good slug for this post and a meta description with a maximum of 100\
+    \ words. and add it to the end of the blog post In the last put the link of my\
+    \ web syperquick.site and also write that support for your powerful and best backlinks"
+  enabled: true
+  required:
+  - keywords
+  - prompt
+  - targetlanguage
+  - tone

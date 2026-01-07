@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2753
+# teaser: Keyword List
+- id: 2753-keyword-list
+  title: Keyword List
+  tags:
+    - keywords
+    - keyword
+    - list
+  family: keywords
+  body:
+    Give Me Google And Bing 20 Keywords In low KD Around 15 And High Volume about[PROMPT]
+    Language [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

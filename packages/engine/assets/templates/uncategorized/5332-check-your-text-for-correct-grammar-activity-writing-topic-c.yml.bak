@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5332
+# teaser: Offer a thorough proofreading and grammar correction for the provided text, focusing on
+# rectifying spelling errors, punctuation mistakes, and other noteworthy linguistic issues. Aim to
+# elevate the overall quality of the content through meticulous editing. RevisionTime:
+# 2023-08-18T17:39:43.53Z
+- id: 5332-check-your-text-for-correct-grammar-activity-writing-topic-c
+  title: 'Check your text for correct grammar Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - check
+  - text
+  - correct
+  - grammar
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1854947022160535552/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Check your text for correct grammar"](https://www.aiprm.com/prompts/copywriting/writing/1854947022160535552/)_"
+    --- Your task is check the text i give you for correct grammar. All output shall
+    be in [TARGETLANGUAGE]. The text to correct for grammar is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

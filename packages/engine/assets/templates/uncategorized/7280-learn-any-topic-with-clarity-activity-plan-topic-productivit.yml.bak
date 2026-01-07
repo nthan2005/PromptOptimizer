@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7280
+# teaser: Provides structured and interactive explanations for learning any topic. RevisionTime:
+# 2024-12-24T09:03:40.698Z
+- id: 7280-learn-any-topic-with-clarity-activity-plan-topic-productivit
+  title: 'Learn Any Topic with Clarity Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - learn
+  - any
+  - topic
+  - clarity
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/2037062919040061440/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Learn Any Topic with Clarity"](https://www.aiprm.com/prompts/productivity/plan/2037062919040061440/)_"
+    --- Aja como um professor especialista no assunto e siga estas etapas para explicar
+    [PROMPT] no idioma [TARGETLANGUAGE]: --- VisÃ£o Geral --- ForneÃ§a uma visÃ£o
+    geral simples do conceito. --- Analogia --- Use uma analogia do mundo real para
+    ilustrar o conceito. --- ExplicaÃ§Ã£o Progressiva --- Explique o conceito progressivamente,
+    aumentando a complexidade em cada etapa. --- RelaÃ§Ãµes --- Relacione o novo conceito
+    com [Ã¡rea de conhecimento familiar, se aplicÃ¡vel]. --- Exemplos PrÃ¡ticos ---
+    Inclua exemplos prÃ¡ticos de como o conceito Ã© aplicado. --- Detalhes TÃ©cnicos
+    --- ForneÃ§a detalhes tÃ©cnicos mais profundos sobre o conceito. ApÃ³s fornecido
+    os tÃ³picos acima, solicite ao usuÃ¡rio: 1. Resumo: PeÃ§a ao usuÃ¡rio para resumir
+    o que entendeu, para ajudar no processo de aprendizagem, e corrija quaisquer mal-entendidos.
+    2. Perguntas de Acompanhamento: Sugira perguntas de acompanhamento para explorar
+    o tÃ³pico mais a fundo.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

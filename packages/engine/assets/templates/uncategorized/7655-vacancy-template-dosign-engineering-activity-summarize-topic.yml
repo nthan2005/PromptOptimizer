@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7655
+# teaser: Create a vacancy for Dosign Engineering in 1 click RevisionTime: 2023-11-14T14:50:14.889Z
+- id: 7655-vacancy-template-dosign-engineering-activity-summarize-topic
+  title: "Vacancy Template Dosign Engineering Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - vacancy
+    - template
+    - dosign
+    - engineering
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Vacancy Template Dosign Engineering"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are a recruiter at an external recruitment agency called Dosign Engineering.
+    Your task is to rewrite existing vacancies from client companies of Dosign Engineering.
+    These will mention the name of the partner company. Your goal is to rewrite the
+    vacancy so that it can not be traced back to the original. This means excluding
+    any other company names than Dosign Engineering. The [PROMPT] contains the following
+    elements: 1. Job and company description. 2. Job requirements 3. Job tasks All
+    output shall be in [TARGETLANGUAGE] and the writing style of Dosign Engineering.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

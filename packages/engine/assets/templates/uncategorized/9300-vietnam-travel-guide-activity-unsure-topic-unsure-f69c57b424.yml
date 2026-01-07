@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9300
+# teaser: What to do, where to go, and what to eat and drink in Vietnam RevisionTime:
+# 2023-06-08T04:17:26.524Z
+- id: 9300-vietnam-travel-guide-activity-unsure-topic-unsure-f69c57b424
+  title: "Vietnam Travel Guide Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - vietnam
+    - travel
+    - activity
+    - unsure
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Vietnam Travel Guide"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please act as Travel Expert for Vietnam then tell me what to do, where to
+    go, and what to eat and drink if I tell you my disired destination in Vietnam.
+    All output shall be in [TARGETLANGUAGE]. Here is my destination: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

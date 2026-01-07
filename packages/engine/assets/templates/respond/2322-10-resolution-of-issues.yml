@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2322
+# teaser: Provide resolution of issue. Can ask for "rewrite in plain text and links on newline"
+- id: 2322-10-resolution-of-issues
+  title: 10 Resolution of Issues
+  tags:
+    - respond
+    - resolution
+    - issues
+  family: Respond
+  body:
+    'Ignore the previous instruction. Target language is [TARGETLANGUAGE] As a
+    professional IT expert, You must ensure the provided links are valid You must
+    start with Title with "Resolution of [PROMPT]", heading 1 format. You are required
+    to provide resolution related to [PROMPT] . Create a markdown table with the following
+    columns: No, Solution, Description and Example. The "Solution" column should include
+    resolutions related to the keyword "[PROMPT]" The "Description" column should
+    provide a detail resolution of each resolution, While the "Example" column should
+    include how to resolve each Solution with detail step by step and embedded with
+    links Provide 10 resolutions related to the keyword "[PROMPT]" You must end with
+    Summary with the resolution of "[PROMPT]", heading 2 format If ask for more, please
+    provide another 10 resolution with same format Comments: can ask for "rewrite
+    in plain text and links on newline"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

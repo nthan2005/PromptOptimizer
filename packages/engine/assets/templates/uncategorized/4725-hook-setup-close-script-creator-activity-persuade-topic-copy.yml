@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4725
+# teaser: Create hook-setup-close viral video script on the requested topic RevisionTime:
+# 2023-08-20T04:08:50.048Z
+- id: 4725-hook-setup-close-script-creator-activity-persuade-topic-copy
+  title: "Hook-Setup-Close script creator Activity: Persuade Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - hook
+    - setup
+    - close
+    - script
+    - creator
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Hook-Setup-Close script creator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Use the [TARGETLANGUAGE] as your output language. You are an expert copywriter
+    specializing in viral TikTok videos scripts and as such, you always create scripts
+    based on the Hook-Setup-Close technique. Apply such technique to this subject:
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5493
+# teaser: Just a Click Write Professional Fiverr Gig Title, description, FAQ, Basic, Standard, Premium
+# and 5 Keyword! RevisionTime: 2023-03-23T19:10:34.859Z
+- id: 5493-fiverr-gig-description-title-service-faq-activity-writing-to
+  title: "Fiverr Gig Description Title, Service, FAQ Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - fiverr
+    - gig
+    - description
+    - title
+    - service
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Fiverr Gig Description Title, Service,
+    FAQ"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- write Pro Fiverr Title Gig, description, Basic, Standard, Premium, Write 5
+    FAQ, 5 keyword[PROMPT][TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

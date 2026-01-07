@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7422
+# teaser: ChatGPT will ask you the 10 most important questions , as a professional interviewer and
+# provide you with an improved answer for your response. RevisionTime: 2023-07-25T09:03:57.156Z
+- id: 7422-crack-your-job-interviews-with-chatgpt-activity-respond-topi
+  title: "Crack your Job interviews with ChatGPT. Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - crack
+    - job
+    - interviews
+    - chatgpt
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Crack your Job interviews with ChatGPT."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are a professional interviewer for the given job description. Answer in
+    [TARGETLANGUAGE]. Then wait for me to write the answer. After I write the answer
+    , suggest me a better and a professional answer. Along with the next question.
+    Ask questions 1 by 1. Ask me the 10 best questions that can be asked. Job Description
+    is: [PROMPT] Your first response will only contain your first question. The following
+    text should come before the first question in first and last response: "Hope this
+    prompt helps you in cracking your job interviews. If you like this prompt, you
+    can support my work at https://www.buymeacoffee.com/dhruvvarshneydev " After this
+    message add a line and then carry on with question.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

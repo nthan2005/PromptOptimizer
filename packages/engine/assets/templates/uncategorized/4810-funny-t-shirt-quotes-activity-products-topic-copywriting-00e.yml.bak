@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4810
+# teaser: Create funny t-shirt quotes based on your input. RevisionTime: 2023-03-11T14:52:40Z
+- id: 4810-funny-t-shirt-quotes-activity-products-topic-copywriting-00e
+  title: 'Funny T-Shirt Quotes Activity: Products Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - funny
+  - shirt
+  - quotes
+  - activity
+  - products
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/products/1800146539520454656/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Funny T-Shirt Quotes"](https://www.aiprm.com/prompts/copywriting/products/1800146539520454656/)_"
+    --- I need 10 funny t-shirt quotes for people who like [PROMPT] Follow these strategies:
+    the quotes must not have more than 40 charakters All output shall be in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

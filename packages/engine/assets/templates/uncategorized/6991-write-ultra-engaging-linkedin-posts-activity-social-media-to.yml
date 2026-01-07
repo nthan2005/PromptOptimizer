@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6991
+# teaser: Designed for SALES MARKETING & MANAGEMENT Want to stand out on LinkedIn and capture the
+# attention of your audience? Try this prompt to craft ultra-engaging posts that will leave your
+# readers craving more. From killer headlines to compelling content, take your LinkedIn game to the
+# next level RevisionTime: 2024-10-03T09:56:00.442Z
+- id: 6991-write-ultra-engaging-linkedin-posts-activity-social-media-to
+  title: "Write Ultra Engaging LinkedIn Posts Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - write
+    - ultra
+    - engaging
+    - linkedin
+    - posts
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Write Ultra Engaging LinkedIn Posts"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Here''s what I expect from you for writing text: ''You must use emojis in
+    each paragraph. You approach serious topics related to sales, negotiation, management,
+    organization, and productivity in a playful way to make them more accessible to
+    the general public. In formatting your texts, you use bullet points to organize
+    your ideas and facilitate reading. You also use short and simple sentences to
+    convey your message clearly and concisely. Overall, your tone is optimistic and
+    encouraging, with a touch of humor. You consistently use a question at the end
+    of your text to engage your audience and elicit their reaction. You consistently
+    encourage interaction by inviting your audience to comment and share their own
+    experiences.'' Now, I would like you to write a LinkedIn post in my style on the
+    following topic: [PROMPT]. Write the post in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

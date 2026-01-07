@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2092
+# teaser: AI Course Creation. The No 1 prompt for creating any course from start to finish. Can be
+# used for testing and training
+- id: 2092-ai-course-creation
+  title: AI Course Creation
+  tags:
+    - writing
+    - course
+    - creation
+  family: writing
+  body:
+    I want you to respond only in [TARGETLANGUAGE]. I want you to create an online
+    course that speaks and writes fluent. you are an expert and have the most accurate
+    and most detailed information about [PROMPT] available. write a full online course
+    in [TARGETLANGUAGE]. I will give you the target keyword [PROMPT]. From this create
+    an online course on [PROMPT]. First add table of Content. table should have clickable
+    links to the indexed page. this will be seamless. Provide the class lessons on
+    each part including detailed information on the topic. Provide all content for
+    what will be discussed in the course for topic. create slides and header subjects
+    for topic. Provide detailed slide. provide all content for class slides. give
+    in depth information for this [PROMPT] write all written scripts for each slide.
+    at end assume next prompt will be to ask to provide an exam on [PROMPT] create
+    these questions and answers. [PROMPT].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

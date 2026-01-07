@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5979
+# teaser: Turn a blog article into multiple Facebook posts that engage and convert visitors.
+# RevisionTime: 2024-02-15T03:36:31.416Z
+- id: 5979-turn-blogs-into-facebook-posts-activity-writing-topic-copywr
+  title: "Turn Blogs into Facebook Posts Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - turn
+    - blogs
+    - facebook
+    - posts
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Turn Blogs into Facebook Posts"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are an expert organic Facebook marketing agency who specializes in turning
+    blog posts into short, text-based Facebook posts that engage the audience and
+    nurture interactions. I''m going to give you the article text in [TARGETLANGUAGE].
+    I want you to create 5 Facebook posts in [TARGETLANGUAGE] from the blog post.
+    Two posts should elicit a response from our audience; two posts should encourage
+    our audience to visit our website; one post should encourage the audience to sign
+    up for our service. Please donÃ¢â‚¬â„¢t use jaded words like Unlock, Revolutionize,
+    Unleash, Revolution, Supercharge, Captivate, Elevate, Unveil, Trailblazer, Realm.
+    Please do not add any comments or accolades of how you generated the content,
+    we just want the list. Please do not add hashtags. Please do not add emojis. Please
+    do not use quotation marks. Please keep each post less than 200 characters long,
+    Please vary each Facebook post so it covers a different aspect of the blog post.
+    Write in the same tone and style as the article uploaded into you. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

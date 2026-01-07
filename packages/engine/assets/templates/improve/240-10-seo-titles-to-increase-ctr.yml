@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 240
+# teaser: Create 10 unique catchy click-worthy seo titles
+- id: 240-10-seo-titles-to-increase-ctr
+  title: 10 Seo Titles to Increase CTR
+  tags:
+    - improve
+    - seo
+    - titles
+    - increase
+    - ctr
+  family: Improve
+  body:
+    "Your task is to create 10 unique catchy, click-worthy seo titles that can
+    increase CTR. The titles should be maximum of 60 characters. Add some phrases
+    related to the query, to increase CTR inside (). All output shall be in [TARGETLANGUAGE]
+    and in Secentence Case. The text to summarize is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

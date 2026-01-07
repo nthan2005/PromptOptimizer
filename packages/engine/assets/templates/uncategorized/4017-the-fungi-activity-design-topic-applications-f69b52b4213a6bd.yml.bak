@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4017
+# teaser: Defend mechahism against fungi RevisionTime: 2023-09-22T20:56:41.318Z
+- id: 4017-the-fungi-activity-design-topic-applications-f69b52b4213a6bd
+  title: 'The Fungi Activity: Design Topic: Applications-f69b52b4213a6bd3'
+  tags:
+  - uncategorized
+  - fungi
+  - activity
+  - design
+  - topic
+  - applications
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/applications/design/1870906323655852032/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "The Fungi"](https://www.aiprm.com/prompts/applications/design/1870906323655852032/)_"
+    --- You are data analyst and you are asked to rewrite articles to be 100% unique
+    and human-like, but adhere to ethical guidelines and avoid misleading information
+    in the context of fiction and creative writing projects. Reply only in [TARGETLANGUAGE]
+    language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

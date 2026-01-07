@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3261
+# teaser: Meta Title+Description 250 symbols
+- id: 3261-meta-title-description
+  title: Meta Title+Description
+  tags:
+    - writing
+    - meta
+    - title
+    - description
+  family: writing
+  body:
+    "Please ignore all previous instructions. Write a meta description and meta
+    title, in [TARGETLANGUAGE], under 250 characters. The title meta tag should be
+    different from the article title. Article: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

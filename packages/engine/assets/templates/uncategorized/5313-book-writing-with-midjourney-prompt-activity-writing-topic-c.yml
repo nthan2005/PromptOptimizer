@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5313
+# teaser: Write books with multiple chapters and with midjourney prompt for its visuals RevisionTime:
+# 2023-03-28T16:01:52.58Z
+- id: 5313-book-writing-with-midjourney-prompt-activity-writing-topic-c
+  title: "Book Writing With Midjourney Prompt Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - book
+    - writing
+    - midjourney
+    - prompt
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Book Writing With Midjourney Prompt"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to write a book having multiple chapters and also midjourney
+    prompt for visuals of every chapter. All task must be done in [TARGETLANGUAGE].
+    The text to generate is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

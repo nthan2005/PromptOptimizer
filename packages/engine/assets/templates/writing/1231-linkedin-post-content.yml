@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1231
+# teaser: Write LinkedIn Post Content [KEYWORD]
+- id: 1231-linkedin-post-content
+  title: LinkedIn Post Content
+  tags:
+    - writing
+    - linkedin
+    - post
+    - content
+  family: writing
+  body: Generate LinkedIn Post [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

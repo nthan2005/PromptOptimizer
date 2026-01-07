@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1373
+# teaser: Enter the title you need to rewrite
+- id: 1373-rewrite-the-title-phi-ho
+  title: Rewrite the title | Phi Ho
+  tags:
+    - writing
+    - rewrite
+    - title
+    - phi
+  family: writing
+  body:
+    "Please help me rewrite the titles of articles about classic cars and classic
+    scooters in [TARGETLANGUAGE] to make them more interesting and interesting. And
+    explain in Vietnamese for free after the titles you have created: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

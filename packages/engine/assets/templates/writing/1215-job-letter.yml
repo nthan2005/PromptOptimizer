@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1215
+# teaser: Write A Job Letter [Job Letter]
+- id: 1215-job-letter
+  title: Job Letter
+  tags:
+    - writing
+    - job
+    - letter
+  family: writing
+  body: Ai Job Letter Writter [TARGETLANGUAGE] and [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

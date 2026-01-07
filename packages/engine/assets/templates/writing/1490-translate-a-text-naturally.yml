@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1490
+# teaser: Translate a text naturally into Portuguese.
+- id: 1490-translate-a-text-naturally
+  title: Translate a text naturally.
+  tags:
+    - writing
+    - translate
+    - text
+    - naturally
+  family: writing
+  body:
+    FaÃƒÆ’Ã‚Â§a a traduÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o do texto a seguir para o portuguÃƒÆ’Ã‚Âªs do brasil, deixando
+    com naturalidade e perfeito. [KEYWORD] [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

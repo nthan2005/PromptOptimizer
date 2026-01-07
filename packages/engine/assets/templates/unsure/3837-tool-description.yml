@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3837
+# teaser: Describe tools or packages
+- id: 3837-tool-description
+  title: Tool Description
+  tags:
+    - unsure
+    - tool
+    - description
+  family: UNSURE
+  body:
+    "I want you to act as a tool usage description for a set of tools. Describe
+    each tool in detail, which should contain: 1. Tool Name; 2. Print the real sample
+    as Input data [Table blocks]; 3. Code blocks: Scripts for handling the input data;
+    4. Print the output data [Table blocks]; 5. The explanation for all the arguments
+    [Table blocks]; 6. How to install this tool; 7. Common errors with the tool. Now
+    the tool name is [PROMPT]. It would be best if you used [TARGETLANGUAGE] to answer
+    it."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

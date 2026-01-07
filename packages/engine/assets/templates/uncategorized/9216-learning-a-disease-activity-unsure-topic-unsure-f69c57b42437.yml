@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9216
+# teaser: MADE BY A MEDICAL STUDENT How to study a disease? Learn about normal and abnormal
+# parameters, common and special tests, laboratory findings, and treatments to relieve symptoms.
+# Deepen your disease studies right now! RevisionTime: 2023-03-18T12:19:17.482Z
+- id: 9216-learning-a-disease-activity-unsure-topic-unsure-f69c57b42437
+  title: "Learning a disease Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - learning
+    - disease
+    - activity
+    - unsure
+    - topic
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"Learning a disease\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- Escreva um conteÃƒÂºdo sobre uma doenÃƒÂ§a com parÃƒÂ¢metros normais e anormais\
+    \ de acordo com as caracterÃƒÂ­sticas clÃƒÂ­nicas padrÃƒÂ£o e os testes comuns, bem\
+    \ como testes especiais com achados laboratoriais. FaÃƒÂ§a pontos e parÃƒÂ¡grafos.\
+    \ Responda em [TARGETLANGUAGE] com a fluÃƒÂªncia de um nativo. ADOTE O SEGUINTE\
+    \ FORMATO AO APRESENTAR AS RESPECTIVAS INFORMAÃƒâ€¡Ãƒâ€¢ES: Aqui estÃƒÂ£o os parÃƒÂ¢metros\
+    \ normais e anormais associados a esta doenÃƒÂ§a: ParÃƒÂ¢metros Normais: - NÃƒÂ­veis\
+    \ normais de uma determinada substÃƒÂ¢ncia ou hormÃƒÂ´nio no sangue ou em outro fluido\
+    \ corporal. ParÃƒÂ¢metros Anormais: - NÃƒÂ­veis aumentados ou diminuÃƒÂ­dos de uma determinada\
+    \ substÃƒÂ¢ncia ou hormÃƒÂ´nio no sangue ou em outro fluido corporal. Testes comuns\
+    \ que sÃƒÂ£o realizados para diagnosticar e monitorar a doenÃƒÂ§a incluem: - Dosagem\
+    \ de uma determinada substÃƒÂ¢ncia ou hormÃƒÂ´nio no sangue ou em outro fluido corporal.\
+    \ Testes especiais podem ser realizados para investigar causas subjacentes da\
+    \ doenÃƒÂ§a, como: - Exames de imagem especÃƒÂ­ficos da regiÃƒÂ£o afetada pela doenÃƒÂ§a.\
+    \ Achados laboratoriais tÃƒÂ­picos da doenÃƒÂ§a incluem: - AlteraÃƒÂ§ÃƒÂµes especÃƒÂ­ficas\
+    \ em um ou mais parÃƒÂ¢metros sanguÃƒÂ­neos ou em outro fluido corporal. O tratamento\
+    \ da doenÃƒÂ§a geralmente envolve: - Tratamento especÃƒÂ­fico para a causa subjacente\
+    \ da doenÃƒÂ§a, se houver, e/ou - Tratamento sintomÃƒÂ¡tico para aliviar os sintomas\
+    \ associados Ãƒ doenÃƒÂ§a. AQUI ESTÃƒ\x81 A DOENÃƒâ€¡A: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

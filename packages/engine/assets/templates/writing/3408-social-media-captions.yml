@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3408
+# teaser: Create a brief social media caption about [KEYWORD]
+- id: 3408-social-media-captions
+  title: Social Media Captions
+  tags:
+    - writing
+    - social
+    - media
+    - captions
+  family: writing
+  body:
+    Generate [TARGETLANGUAGE] post for social media about [PROMPT]. don't include
+    lists. have keyword be in first or second sentence. make post no more than 150
+    words. make positive and personable. add CTA to schedule an appointment at end
+    of the post with [CITY] and [PHONENUMBER]
+  enabled: true
+  required:
+    - city
+    - phonenumber
+    - prompt
+    - targetlanguage

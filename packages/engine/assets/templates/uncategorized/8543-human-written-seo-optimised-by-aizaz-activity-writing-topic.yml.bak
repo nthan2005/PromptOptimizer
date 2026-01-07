@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8543
+# teaser: ? Explore our latest article for expert insights, essential facts, and a comprehensive
+# analysis of the pros and cons. Written in an easy-to-understand style, this piece delivers valuable
+# information on. Don't miss out on becoming an expert in the fieldâ€”click now! RevisionTime:
+# 2023-12-30T21:59:16.468Z
+- id: 8543-human-written-seo-optimised-by-aizaz-activity-writing-topic
+  title: 'Human written Seo Optimised by Aizaz Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - human
+  - written
+  - seo
+  - optimised
+  - aizaz
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1894491367754436608/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Human written Seo Optimised by Aizaz"](https://www.aiprm.com/prompts/seo/writing/1894491367754436608/)_"
+    --- I need an seo-optimized and plagarism free blog post on this title or keyword
+    [PROMPT]. The focus keyword should be included at the beginning of the content
+    for SEO purposes. The writing should be in an active voice,and in human tone and
+    it should read as if it''s authored by an expert in the field. The content should
+    be straightforward, easy to read, and well-optimized for users, providing valuable
+    insights. Please include a table, facts, and figures in the list, as well as pros
+    and cons. The article should also have a conclusion, FAQs, and references if applicable.
+    Step 2: Answer the Following Questions In the article, please address the following
+    questions: [PROMPT] All output shall be in [TARGETLANGUAGE] you can also get structure
+    and data from this article [PROMPT] make sure get data from my given article but
+    dont write same as my given article.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

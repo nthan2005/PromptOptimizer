@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8059
+# teaser: Create a URL, Title, Keyword, Excerpt, Intro, Conclusion, Categories, Emojis, Summary for an
+# article. RevisionTime: 2023-10-04T22:02:15.532Z
+- id: 8059-add-seo-and-more-to-article-activity-marketing-topic-seo-84c
+  title: 'Add SEO and more to article Activity: marketing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - add
+  - seo
+  - more
+  - article
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/1793040720412798976/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Add SEO and more to article"](https://www.aiprm.com/prompts/seo/marketing/1793040720412798976/)_"
+    --- Create in [TARGETLANGUAGE] separated blocks an in 2 part, do part 1 first,
+    then wait for the order of part 2: Part one: - without changing the text, formait
+    it in markdown code. - URL: SEO-friendly short URL or slug. - Keyword: SEO-friendly
+    focus keywords with at least words, the most important first -'
+  enabled: true
+  required:
+  - targetlanguage

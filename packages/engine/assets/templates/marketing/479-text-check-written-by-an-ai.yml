@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 479
+# teaser: USE GPT4: On a scale of 0-10, evaluate the probability that the following text was written
+# by an AI or by OpenAI [TEXT or URL]. Write in [LANGUAGE] -- 0-1 human, 8-10 AI
+- id: 479-text-check-written-by-an-ai
+  title: "Text check: Written by an AI?"
+  tags:
+    - marketing
+    - text
+    - check
+    - written
+  family: marketing
+  body:
+    "[TARGETLANGUAGE] On a scale of 0-10, where 0-1 stands for a human author
+    and 8-10 stands for written by AI, evaluate the probability that the following
+    text was written by an AI or by OpenAI [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

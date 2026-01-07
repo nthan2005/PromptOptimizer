@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7472
+# teaser: Create a proposal for interior decorators/designers expressing an interest in partnering up
+# with them to elevate environments with Hedley's Interiors. RevisionTime: 2024-09-02T14:20:52.864Z
+- id: 7472-interior-decorators-designers-proposal-activity-respond-topi
+  title: "Interior Decorators/designers proposal Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - interior
+    - decorators
+    - designers
+    - proposal
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Interior Decorators/designers proposal"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create a proposal to Interior Decorators/designers expressing an interest
+    in partnering up with them to elevate environments with Hedley''s Interiors. All
+    outputs shall be in [TARGETLANGUAGE]. Use the below information: Hedley''s Interiors
+    manufactures High quality interior items like: 1. lounge suites 2. ottomans 3.
+    headboards, etc, Hedleys Interiors maintains a high standard in manufacturing
+    using high quality materials like: 1. solid pine wood 2. unique high density foam
+    (sourced from perfect climate manufacturing companies) 3. Superb quality material
+    with attention to detail in every masterpiece. Hedley''s Interirors also provides
+    upholstery and upholstery services to households, companies, lodges, and hotels
+    and has been recognised on the cover page of Visi Magerzine issue 132, through
+    Meg Ralph Spaces, an interior designer company dedicated to uplifting and elevating
+    environments. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

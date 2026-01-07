@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 488
+# teaser: Write a plagiarism-free web page section as a sales copy expert.
+- id: 488-webpage-section-w-call-to-action
+  title: Webpage Section w/ Call To Action
+  tags:
+    - marketing
+    - webpage
+    - section
+    - call
+    - action
+  family: marketing
+  body:
+    Write [TARGETLANGUAGE] a plagiarism-free web page section with hooks, headlines,
+    persuasive bullets, & call to action for [PROMPT]. Utalize scarcity, urgency,
+    or social profe to enroll readers to read more about keyword [PROMPT] as a sales
+    copy expert.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

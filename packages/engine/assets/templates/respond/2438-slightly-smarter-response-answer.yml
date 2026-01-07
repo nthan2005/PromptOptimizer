@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2438
+# teaser: Give better answer. Improve chatgpt reasoning accuracy by going step by step
+- id: 2438-slightly-smarter-response-answer
+  title: Slightly Smarter Response / Answer
+  tags:
+    - respond
+    - slightly
+    - smarter
+    - response
+    - answer
+  family: Respond
+  body:
+    "[PROMPT] Let's work this out in a step by step way to be sure we have the
+    right answer. Respond in [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

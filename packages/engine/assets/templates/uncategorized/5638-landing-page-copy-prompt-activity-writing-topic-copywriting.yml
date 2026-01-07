@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5638
+# teaser: Landing Page Copy RevisionTime: 2023-06-13T15:00:59.336Z
+- id: 5638-landing-page-copy-prompt-activity-writing-topic-copywriting
+  title: "Landing Page Copy Prompt Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - landing
+    - page
+    - copy
+    - prompt
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Landing Page Copy Prompt"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Assume the role of a landing page designer. Create a landing page concept
+    about the [PROMPT] Write a copy of the following: Header Section Introduction
+    Event Hihglights Schedule of events Call to action About the venue Testiomonials
+    Footer Write in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

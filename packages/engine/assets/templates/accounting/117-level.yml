@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 117
+# teaser: write [] like level of elementary school, middle school, high school, undergraduate school ,
+# graduate Schools
+- id: 117-level
+  title: level
+  tags:
+    - accounting
+    - level
+  family: Accounting
+  body:
+    you will recognize question and answer level [TARGETLANGUAGE] is help you
+    understand age and education level think [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

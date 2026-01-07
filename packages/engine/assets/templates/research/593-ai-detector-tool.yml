@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 593
+# teaser: It will put you in control of checking your contentâ€™s originality by identifying any
+# detecting if AI tools were used to create the content.
+- id: 593-ai-detector-tool
+  title: AI Detector Tool
+  tags:
+    - research
+    - detector
+    - tool
+  family: Research
+  body:
+    "When it comes to writing content, two factors are crucial, â€œperplexityâ€\x9D\
+    \ and â€œburstiness.â€\x9D Perplexity measures the complexity of text. Separately,\
+    \ burstiness compares the variations of sentences. Humans tend to write with greater\
+    \ burstiness, for example, with some longer or complex sentences alongside shorter\
+    \ ones. AI sentences tend to be more uniform. On a 1 to 100 scale, tell me whether\
+    \ the following text has been written by Ai or not, also tell me if you ever wrote\
+    \ that text or not. use only [TARGETLANGUAGE] [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

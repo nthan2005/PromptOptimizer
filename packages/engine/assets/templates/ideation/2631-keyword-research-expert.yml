@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2631
+# teaser: Read an article you specify below. Output all the information in table format. Find the Main
+# keyword for this article plus 2-word or a 3-word keywords.
+- id: 2631-keyword-research-expert
+  title: Keyword research expert
+  tags:
+    - ideation
+    - keyword
+    - research
+    - expert
+  family: ideation
+  body:
+    Pretend to be a keyword research expert. Read the article I have copy and
+    pasted below. Output all the information in table format. Find the Main keyword
+    for this article. It must be a 2-word or a 3-word keyword. Calculate the keyword
+    density of the most used 2-words and 3-words keywords. Each keyword should be
+    minimum 2 words. Just give me a list of top 5 keywords separated by comma. Ignore
+    1 word keywords. Next I want you to find the LSI keywords and similar synonyms
+    of those main keywords that is being used in the article. Give me a plain list
+    of 5 keywords separated by comma. Ignore 1 word keywords. Next I want you to combine
+    the main keyword and 2-words and 3-words keywords you found only in plain text,
+    and separate them with a comma. Ignore 1 word keywords. Language should be in
+    [TARGETLANGUAGE] . [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

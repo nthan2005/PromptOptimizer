@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1574
+# teaser: Write SEO Friendly Blog Article Of 4000 Words
+- id: 1574-write-seo-friendly-blog-article
+  title: Write SEO Friendly Blog Article
+  tags:
+  - writing
+  - write
+  - seo
+  - friendly
+  - blog
+  - article
+  family: writing
+  body: 'Your first task is to write a blog article of 4000 words with headings, subheadings,
+    and paragraphs, and include LSI keywords, tags, FAQs, a compelling title, and
+    meta description. The target language is English.[TARGETLANGUAGE] write a blog
+    article of 4000 words: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

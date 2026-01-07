@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8379
+# teaser: Supercharge your content production! Generate very detailed content outlines for your human
+# writers. Includes FAQs and attention-grabbing headings. RevisionTime: 2023-09-11T21:11:53.523Z
+- id: 8379-better-content-outlines-2-1-2-activity-writing-topic-seo-84c
+  title: "Better content outlines 2.1.2 Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - better
+    - content
+    - outlines
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Better content outlines 2.1.2"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Using the MECE Framework Develop a comprehensive [TARGETLANGUAGE] markdown
+    outline for a long-form article for the topic "[PROMPT]", featuring at least 20
+    engaging headings and subheadings that are detailed, mutually exclusive, collectively
+    exhaustive and cover the entire topic. Conclude with a summary and pertinent FAQs.
+    Provide a captivating title without writing the article itself.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

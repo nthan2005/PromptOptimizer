@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4042
+# teaser: 2 parts quote generator [PROMPT] RevisionTime: 2023-08-11T09:43:29.371Z
+- id: 4042-2-parts-quote-generator-activity-accounting-topic-copywritin
+  title: "2 parts Quote Generator Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - parts
+    - quote
+    - generator
+    - activity
+    - accounting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "2 parts Quote Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I Want you to came up with quote in [TARGETLANGUAGE] in the following style.
+    Quotes need to be in two parts. First part should make people intrigued to know
+    second part. For example: First Part: If you really love someone Second Part:
+    You should let it go. write 30 quotes on [PROMPT]. Format it into table form with
+    first column Theme, second column Quote first part and third column Quote second
+    part. My target audience are teens and early 20es, so use language accordingly.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

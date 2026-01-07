@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8965
+# teaser: find the mistakes and correct your code RevisionTime: 2023-05-28T03:29:18.58Z
+- id: 8965-fix-your-code-and-find-the-mistakes-activity-text-editor-top
+  title: "Fix your code and find the mistakes Activity: Text Editor Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - fix
+    - code
+    - find
+    - mistakes
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Fix your code and find the mistakes"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- your task is to find the mistakes of the correct and highlight them with telling
+    me the line number of the mistake and then correct the code and write the code
+    that I give you and Write "No worries i have corrected your code"as the first
+    line if there is something wrong in the given code ,no need to do the step if
+    the code is right.if the code is right then print"The code is absolutely right
+    ! No need to Fix it :)". write "Thanks for using my prompt! Please like share
+    and use :) buy me coffee if you can at https://bmc.link/ranitmanik55555" as last
+    line. All output shall be in [TARGETLANGUAGE] The code to correct is this : [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

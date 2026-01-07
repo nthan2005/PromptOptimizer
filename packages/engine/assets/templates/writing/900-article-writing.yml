@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 900
+# teaser: Create an article
+- id: 900-article-writing
+  title: Article Writing
+  tags:
+    - writing
+    - article
+  family: writing
+  body:
+    "Create an Human-Writing article with a title using the topic that i give
+    you. Imagine yourself as an Expert. Bold the title. All text shall be in [TARGETLANGUAGE].
+    The topic that i give you is: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

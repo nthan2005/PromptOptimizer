@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6314
+# teaser: Write RevisionTime: 2023-09-27T01:58:55.97Z
+- id: 6314-niche-ai-english-activity-stable-diffusion-topic-generative
+  title: "Niche AI English Activity: Stable Diffusion Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - niche
+    - english
+    - activity
+    - stable
+    - diffusion
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Niche AI English "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Give a productive Niche that goes viral on YouTube channel and get viewers
+    engaged in so they subscribe to the chanel [PROMPT] [TARGETLANGUAGE] Niche AI'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3070
+# teaser: Generate Your 100% Unique Creative Article | 100% SEO Optimized | 100 % Plagiarism Free |
+# Including FAQ's | 100% Rank On google 1st Page | Rich- Content | Pass Ai-Detection | Just in One
+# Click
+- id: 3070-article-writer-rankmath-pro
+  title: Article Writer RankMath PRO
+  tags:
+    - writing
+    - article
+    - writer
+    - rankmath
+    - pro
+  family: writing
+  body:
+    "All output should be in [TARGETLANGUAGE]. [PROMPT] OUTPUT : Markdown format
+    with with #Headings, ##H2, ###H3, +bullet points, -sub-bullet points"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

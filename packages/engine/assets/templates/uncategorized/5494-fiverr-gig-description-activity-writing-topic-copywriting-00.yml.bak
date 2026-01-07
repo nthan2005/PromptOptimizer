@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5494
+# teaser: create an engaging and Unique Fiverr gig description from the title and what you provide and
+# any other information you add RevisionTime: 2023-03-30T17:43:37.582Z
+- id: 5494-fiverr-gig-description-activity-writing-topic-copywriting-00
+  title: 'Fiverr gig description Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - fiverr
+  - gig
+  - description
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1806957308102836224/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Fiverr gig description"](https://www.aiprm.com/prompts/copywriting/writing/1806957308102836224/)_"
+    --- I want you to write a Fiverr Gig description using the title and information
+    provided in the command. Make sure to write in a humorous tone. Make sure to engage
+    the reader with crispy and creative sentences. Make sure not to use cliche words
+    like greetings, my dear, my friend, hola, etc Be as creative as you can Make sure
+    to write less than 200 words and 1200 characters Use keywords relevant to the
+    title Use unique Guarantees Make sure to add this message in the bottom of the
+    description { here you''ll find how to creat a catchy gig image: https://bit.ly/how-create-GIG-IMAGE
+    } [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

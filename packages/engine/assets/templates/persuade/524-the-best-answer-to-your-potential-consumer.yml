@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 524
+# teaser: Create the best answer to convince your potential consumer to buy your product
+- id: 524-the-best-answer-to-your-potential-consumer
+  title: The Best Answer to Your Potential Consumer
+  tags:
+    - persuade
+    - answer
+    - potential
+    - consumer
+  family: Persuade
+  body:
+    "You must give me a good objection-breaking answer to convince a potential
+    customer to buy my product. All output shall be in [TARGETLANGUAGE]. You should
+    give me this answer based on the following information: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

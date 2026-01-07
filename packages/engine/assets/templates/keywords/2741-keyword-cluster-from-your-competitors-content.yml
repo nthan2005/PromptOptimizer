@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2741
+# teaser: Get the best keyword cluster FROM YOUR COMPETITOR content
+- id: 2741-keyword-cluster-from-your-competitors-content
+  title: Keyword Cluster From your competitors Content
+  tags:
+    - keywords
+    - keyword
+    - cluster
+    - competitors
+    - content
+  family: keywords
+  body:
+    "Your task is create Keyword Cluster From this content. Give me a list of
+    keyword cluster from this content with a outline. All output shall be in [TARGETLANGUAGE].
+    The text to keyword cluster in this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1854
+# teaser: Get a list of marketing emails you should send for your business type
+- id: 1854-marketing-emails-for-any-business-types
+  title: Marketing Emails For Any Business Types
+  tags:
+    - marketing
+    - emails
+    - any
+    - business
+    - types
+  family: marketing
+  body:
+    "Please ignore all previous instructions. I want you to respond only in [TARGETLANGUAGE].
+    I want you to act as an experienced email marketing manager. I want you to pretend
+    you are advising a business on what type of marketing emails they should send.
+    Your task is to provide a list of marketing emails that a business should send
+    base don their industry. The question you will answer is: What type of marketing
+    emails should a [industry, business type] send] [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

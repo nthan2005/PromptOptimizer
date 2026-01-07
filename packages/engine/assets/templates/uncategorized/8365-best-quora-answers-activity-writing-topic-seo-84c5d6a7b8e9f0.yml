@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8365
+# teaser: Write Best Like Human Written Answer based on your Given Question RevisionTime:
+# 2023-10-17T07:42:28.752Z
+- id: 8365-best-quora-answers-activity-writing-topic-seo-84c5d6a7b8e9f0
+  title: "Best Quora Answers Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - quora
+    - answers
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best Quora Answers"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Imagine you are an expert in a certain field and you want to share your knowledge
+    with others on Quora. Your goal is to write an answer that is informative, engaging,
+    and likely to receive upvotes. Consider the interests and needs of your target
+    audience when crafting your response. Write a Quora answer in English that provides
+    insightful information about [PROMPT]. Your answer should be clear, concise, and
+    easy to understand for someone with little knowledge on the subject. Make sure
+    to provide examples and use bullet points. My first task is to write a Quora answer
+    about [PROMPT]. The [TARGETLANGUAGE] is English.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1652
+# teaser: Create a MidJourney Prompt That Makes Awesome & Useable Ultra Detailed Photo Style AI Images
+# for Instagram
+- id: 1652-ai-photo-art-on-first-attempt-midjourney-prompt-generator
+  title: AI Photo Art on First Attempt - MidJourney Prompt Generator
+  tags:
+    - midjourney
+    - photo
+    - art
+    - first
+    - attempt
+    - prompt
+  family: Midjourney
+  body:
+    "I want you to respond in only LANGUAGE of [TARGETLANGUAGE]. I want you to
+    type out: /imagine"
+  enabled: true
+  required:
+    - targetlanguage

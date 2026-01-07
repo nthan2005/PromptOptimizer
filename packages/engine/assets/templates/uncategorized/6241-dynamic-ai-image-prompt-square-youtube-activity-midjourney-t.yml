@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6241
+# teaser: Generate 2 AI-ready image prompts (1:1 & 16:9) from any topic or visual idea. RevisionTime:
+# 2025-06-28T16:50:39.375Z
+- id: 6241-dynamic-ai-image-prompt-square-youtube-activity-midjourney-t
+  title: "Dynamic AI Image Prompt (Square + YouTube) Activity: Midjourney Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - dynamic
+    - image
+    - prompt
+    - square
+    - youtube
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Dynamic AI Image Prompt (Square + YouTube)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are a professional AI image prompt writer. Generate 2 detailed AI image
+    prompts based on the topic: [PROMPT] 1. One for a square image (1:1 ratio) 2.
+    One for a YouTube thumbnail (16:9 ratio) Apply the following style preferences:
+    - Style: [VARIABLE1:Image Style:Cinematic] - Lighting: [VARIABLE2:Lighting Style:Soft
+    Light] - Mood: [VARIABLE3:Mood:Dramatic:Calm Bright Moody Dramatic] Each prompt
+    must include: - Subject and background detail - [VARIABLE1], [VARIABLE2], and
+    [VARIABLE3] elements - Scene composition and camera angle - Resolution hint (e.g.,
+    1024x1024 or 1920x1080) Generate the response in [TARGETLANGUAGE]. --- Ã°Å¸Å¸Â© **Prompt
+    for Square (1:1):** ... Ã°Å¸Å¸Â¥ **Prompt for YouTube (16:9):** ...'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3

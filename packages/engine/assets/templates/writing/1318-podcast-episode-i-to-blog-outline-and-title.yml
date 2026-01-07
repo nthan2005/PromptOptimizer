@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1318
+# teaser: Podcast Episode ÃƒÂ¯Ã‚Â¸Ã‚ÂTO BLOG Outline and Title >> Instant Detailed and Long Blog Post!
+- id: 1318-podcast-episode-i-to-blog-outline-and-title
+  title: "Podcast Episode ÃƒÂ¯Ã‚Â¸\x8FTO Blog Outline and Title"
+  tags:
+    - writing
+    - podcast
+    - episode
+    - blog
+    - outline
+    - title
+  family: writing
+  body:
+    "Please respond in [TARGETLANGUAGE]. I would like you to complete 3 tasks\
+    \ for me in your response and divide these tasks into 3 different sections. First:\
+    \ I would like you to use this podcast episode transcript ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ[PROMPT]ÃƒÂ¢Ã¢â€šÂ¬\x9D to\
+    \ create a short podcast episode summary. Title this section of your response\
+    \ ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œÃƒÂ°Ã…Â¸Ã…Â½Ã‚Â§ÃƒÂ°Ã…Â¸Ã¢â‚¬Å“\x9DÃƒÂ°Ã…Â¸Ã…Â½Ã¢â€žÂ¢ÃƒÂ¯Ã‚Â¸\x8FEpisode SummaryÃƒÂ¢Ã¢â€šÂ¬\x9D. Second: Now use the episode summary\
+    \ you created to come up with 5 ideas for catchy blog article titles and title\
+    \ this section ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œÃƒÂ°Ã…Â¸Ã¢â‚¬â„¢Ã‚Â¡ÃƒÂ°Ã…Â¸Ã¢â‚¬Å“\x9DÃƒÂ°Ã…Â¸Ã¢â‚¬Å“Ã…Â¡Catchy Blog Article TitlesÃƒÂ¢Ã¢â€šÂ¬\x9D. Third: Now\
+    \ I would like you to use the podcast episode summary you created and the transcript\
+    \ information to create a full Blog Post Outline. Use headers and bullet points.\
+    \ Be very detailed and informative. Tiitle this section of your response ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œÃƒÂ°Ã…Â¸Ã¢â‚¬Å“\x9D\
+    ÃƒÂ°Ã…Â¸Ã¢â‚¬Â\x8DÃƒÂ°Ã…Â¸Ã¢â‚¬â€Ã¢â‚¬Å¡ÃƒÂ¯Ã‚Â¸\x8FBlog Post OutlineÃƒÂ¢Ã¢â€šÂ¬\x9D. At the end of your response include\
+    \ a line break and then write this exactly ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œUse the information above to write\
+    \ a complete and detailed blog post. Include a title, headings, and bullet points.\
+    \ Be creative, conversational, and very descriptive. Elaborate on each of the\
+    \ bullet points with relevant and informative sentences. ÃƒÂ°Ã…Â¸Ã¢â‚¬ËœÃ¢â‚¬Â ÃƒÂ°Ã…Â¸Ã¢â‚¬ËœÃ¢â‚¬Â ÃƒÂ°Ã…Â¸Ã¢â‚¬ËœÃ¢â‚¬Â ÃƒÂ°Ã…Â¸Ã¢â‚¬ËœÃ¢â‚¬Â  COPY\
+    \ the entire response above the fingers and PASTE it into a new chat.ÃƒÂ¢Ã¢â€šÂ¬\x9D"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

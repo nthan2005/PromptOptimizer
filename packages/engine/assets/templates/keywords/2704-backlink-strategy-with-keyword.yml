@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2704
+# teaser: [KEYWORD]
+- id: 2704-backlink-strategy-with-keyword
+  title: Backlink Strategy with Keyword
+  tags:
+    - keywords
+    - backlink
+    - strategy
+    - keyword
+  family: keywords
+  body:
+    Please ignore all previous instructions. I want you to respond only in language
+    [TARGETLANGUAGE].Write a list of initiatives to follow for backlink strategy to
+    rank the keyword [PROMPT] on the first page of Google. Also, how many backlinks
+    should I build? Write a list of relevant websites to reach out.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

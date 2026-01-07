@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4892
+# teaser: Just type the desired extension name and and with a space below the list of keywords or
+# domains. This prompt will replace the new provided extension with the previous domain extension from
+# all the provided domain names. RevisionTime: 2023-08-26T09:44:08.354Z
+- id: 4892-replace-domain-extension-activity-research-topic-copywriting
+  title: "Replace Domain Extension Activity: Research Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - replace
+    - domain
+    - extension
+    - activity
+    - research
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Replace Domain Extension"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] Please write in English [PROMPT] Act as a domain extension
+    transformer and replace the current extension of each domain name with the new
+    extension which is on the top row of the list and provide output with the remaining
+    keywords. Always Provide in the list form Note: Clear whitespace if any Note:
+    Output should only be in the list format Note: You have to clear previous extension
+    and then replace the new one'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

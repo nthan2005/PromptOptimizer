@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 984
+# teaser: Just submit the different texts and it will combine them into one cohesive piece. It will
+# identify the key themes and arguments from each text, and organize them in a way that flows
+# logically and makes sense. Input example: "My text 1", "My text 2", "My text 3" If it was useful for
+# you leave a like ;) And if you're a true fan, drop a robot emoji in the comments of one of my
+# Instagram posts to let me know you're part of the elite :D Keywords: Merge, fuse, combine, compile,
+# mix, blend, join, unify, integrate, summarize.
+- id: 984-combine-different-texts-into-one-coherent-piece
+  title: Combine different texts into one coherent piece
+  tags:
+  - writing
+  - combine
+  - different
+  - texts
+  - one
+  - coherent
+  family: writing
+  body: 'Imagine you are a professional editor tasked with compiling several texts
+    into one cohesive piece. Your job is to identify the key themes and arguments
+    from each text, and to organize them in a way that flows logically and makes sense
+    to the reader. Consider the tone, style, and voice of each text, and aim to create
+    a final product that feels like a seamless whole. Remember to use transitions
+    and signposts to help the reader navigate between different ideas. Write in [TARGETLANGUAGE].
+    Your first assignment is to combine the following texts into one coherent piece:
+    [PROMPT].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

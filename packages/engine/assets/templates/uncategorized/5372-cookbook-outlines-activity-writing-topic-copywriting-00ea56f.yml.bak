@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5372
+# teaser: Cookbook Outlines RevisionTime: 2023-04-20T08:27:47.159Z
+- id: 5372-cookbook-outlines-activity-writing-topic-copywriting-00ea56f
+  title: 'Cookbook Outlines Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - cookbook
+  - outlines
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1793529080877154304/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Cookbook Outlines"](https://www.aiprm.com/prompts/copywriting/writing/1793529080877154304/)_"
+    --- based on title generate 12 or more categories each category minimum 10 recipes
+    list [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

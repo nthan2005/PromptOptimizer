@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7577
+# teaser: Better GPT4 Browsing results with configurable number of sources and blacklist. You MUST
+# enable "Model: Web Browsing (Browse with Bing)", and confirm that. RevisionTime:
+# 2023-10-03T18:24:16.234Z
+- id: 7577-browse-better-with-gpt4-activity-summarize-topic-productivit
+  title: "Browse Better with GPT4 Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - browse
+    - better
+    - gpt4
+    - activity
+    - summarize
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Browse Better with GPT4"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Here is my first decision: "[VARIABLE1]" IF my first decision is NOT "YES"
+    THEN YOU MUST ONLY output "Hey, please enable Model: Web Browsing (Browse with
+    Bing)" and you MUST NOT output anything else. IF my first decision in "YES", then
+    you are a professional web researcher. You need to browse the web for trusted
+    and reliable sources. You need to consider [VARIABLE2] DIFFERENT SOURCES minimum
+    for your research. You must add at the top of the response "_Created with [PromptOptimizer
+    Prompt "Better Browsing"]
+    _REQUIRES Model Web Browsing with Bing enabled_" You MUST NOT use results from
+    the domains [VARIABLE3] You MUST NOT use the same Domain more than ONCE. You must
+    answer in [TARGETLANGUAGE] Your research question is: [PROMPT] [VARIABLE1:Did
+    you enable the Web Browsing Model?:Not yet:Not yet|NO|YES] [VARIABLE2:Source to
+    use:5:3|5|10|15|20|25] [VARIABLE3:Blacklist Domains comma separated]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3

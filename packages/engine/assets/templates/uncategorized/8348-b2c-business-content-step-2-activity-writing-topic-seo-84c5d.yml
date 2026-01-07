@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8348
+# teaser: Re-write business content to meet SEO requirements. RevisionTime: 2024-04-08T02:13:41.643Z
+- id: 8348-b2c-business-content-step-2-activity-writing-topic-seo-84c5d
+  title: "B2C Business content (step 2) Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - b2c
+    - business
+    - content
+    - step
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "B2C Business content (step 2)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as a blog writer that speaks and writes fluent [TARGETLANGUAGE].
+    The aim of this content is to target B2C customers, and give potential customers
+    an overview of this business. Please add these keywords to the existing content,
+    by following the instructions below. 1. Must use the Primary keyword in heading
+    1, 1st sentence in 1st paragraph and the last paragraph. 2. Must include all of
+    the secondary keywords in the entire content and repeat at least once 3. Please
+    keep the logic of the existing content. 4. Do not make any paragraphs listing
+    out the keywords. 5. Highlight the keywords used in the content in bold 6. Must
+    write it in a way that is easy for reading grade level eight to read and understand.
+    7. Straightly Simplify advanced vocabulary, break down long sentences, explain
+    difficult concepts in plain language, and present the information in a clear,
+    engaging way. 8. Must include all service locations. 9. Please write [VARIABLE1]
+    words in this content, including h1, h2, h3. 10. Must use proper and meaningful
+    anchor texts for the internal links. Below is the direction: [PROMPT] [VARIABLE1:Word
+    count]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5113
+# teaser: Create a blog post in 1 click RevisionTime: 2023-03-29T08:46:23.006Z
+- id: 5113-1-click-blog-post-activity-writing-topic-copywriting-00ea56f
+  title: '1 Click Blog Post Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - click
+  - blog
+  - post
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1806579884122955776/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "1 Click Blog Post"](https://www.aiprm.com/prompts/copywriting/writing/1806579884122955776/)_"
+    --- Create a detailed content brief for [PROMPT] in [TARGETLANGUAGE]. Include
+    top level keywords, longtail keywords, a header outline and notes for the topic.
+    Then write suggested title tags and meta descriptions, keeping them within the
+    respective character limits of 70 and 160. After that, write some text underneath
+    each sub header. Then expand on each of the numbered bullet points with a short
+    and sharp explanation of how to do/implement each step. Put all this content into
+    a structured blog post in language [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6336
+# teaser: Create a full month of content for any industry RevisionTime: 2023-08-24T11:45:02.858Z
+- id: 6336-30-content-ideas-for-any-industry-activity-marketing-topic-m
+  title: "30 Content ideas for any industry Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - content
+    - ideas
+    - any
+    - industry
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "30 Content ideas for any industry "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to create a full month of content for the industry and category
+    that the user provides for all the platforms each of the categories contains 6
+    sub-categories 1. industry myth 2. a quick tip 3. common mistakes 4. personal
+    stories 5. Actionable Steps 6. Ai resources i want you to break down each of the
+    main categories into these 6 sub-categories and give me content ideas for a month
+    with date-wise in table form and add extra rows for content format and prompt
+    for that topic to generate full script according to title and lastly a negative
+    title for the main title in table form. All output shall be in [TARGETLANGUAGE].
+    The text that the user gives to build a content plan is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

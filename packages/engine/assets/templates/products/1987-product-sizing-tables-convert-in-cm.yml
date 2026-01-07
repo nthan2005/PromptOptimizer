@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1987
+# teaser: Product Sizing Tables in a FLASH! Do you need to convert sizing tables to (inches)? to (cm)?
+# or BOTH? Simply paste your sizing table below to get your sizing conversions! Works with
+# [TARGETLANGUAGE]
+- id: 1987-product-sizing-tables-convert-in-cm
+  title: Product Sizing Tables - convert IN~CM
+  tags:
+    - products
+    - product
+    - sizing
+    - tables
+    - convert
+  family: Products
+  body:
+    I want you to analyse this product sizing table [PROMPT]. First, begin with
+    the table heading (BOLD) "Sizing (International - cm)", create a new table with
+    cm. Second, begin with the table heading (BOLD) "Sizing (USA - inches)", create
+    a new table with in. Third, begin with the table heading (BOLD) "Sizing International
+    (cm) and US (inches)", create a table with all cm and in. Do not tell me what
+    you are doing, simply create the headings and tables. write all output in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

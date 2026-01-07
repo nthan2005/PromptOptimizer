@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7478
+# teaser: Make Any Kind Of Application RevisionTime: 2023-03-24T09:32:22.047Z
+- id: 7478-make-application-activity-respond-topic-productivity-b5a49cd
+  title: 'Make application Activity: Respond Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - application
+  - activity
+  - respond
+  - topic
+  - productivity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1804779517051666432/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Make application"](https://www.aiprm.com/prompts/productivity/respond/1804779517051666432/)_"
+    --- [TARGETLANGUAGE]. Generate Application For [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

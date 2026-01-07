@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3318
+# teaser: Create title, meta description, keywords, headings, and coclusion with fully optimized SEO,
+# human written with 100% unique rewrite article.
+- id: 3318-rewrite-article-with-fully-optimized-seo
+  title: Rewrite Article with Fully Optimized SEO
+  tags:
+    - writing
+    - rewrite
+    - article
+    - fully
+    - optimized
+    - seo
+  family: writing
+  body:
+    Create 1500 word include title, keywords, meta descriptions, introductions,
+    heading (H1 or H2 or H3), sub heading, and conclusions from existing article with
+    [TARGETLANGUAGE] language from url [PROMPT]. rewrite article as though it were
+    made by people and check grammar and spelling correction so that it becomes a
+    blog article that complies with SEO provisions. Pay attention to against how words
+    are used to avoid having your articles flagged as plagiarized. always explain
+    headings (H1 or H2 or H3).If you receive the instruction "Continue writing please",
+    please continue rewrite article from the last sentence.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

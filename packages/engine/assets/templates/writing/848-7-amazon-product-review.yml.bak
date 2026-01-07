@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 848
+# teaser: Create the best 7 product review of amzone
+- id: 848-7-amazon-product-review
+  title: 7 Amazon Product Review
+  tags:
+  - writing
+  - amazon
+  - product
+  - review
+  family: writing
+  body: 'Your task is to write seven product reviews for a specific category products.
+    Each review should include a brief product description, followed by a list of
+    features in bullet points. Additionally, each review should answer two key questions:
+    why people should consider buying the product, and why they may want to avoid
+    it. The Word count should be around 8000 to 12000 words .All output should be
+    in [TARGETLANGUAGE] .The Text which you have to make a long article is this [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

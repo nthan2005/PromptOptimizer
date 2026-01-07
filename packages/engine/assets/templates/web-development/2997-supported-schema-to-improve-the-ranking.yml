@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2997
+# teaser: This Schema Markup will help you to rank the website and make rich snippet.
+- id: 2997-supported-schema-to-improve-the-ranking
+  title: Supported Schema to Improve the Ranking
+  tags:
+    - web-development
+    - supported
+    - schema
+    - improve
+    - ranking
+  family: Web Development
+  body:
+    Write schema markup for this url [PROMPT]. The Schema Markup should be Google
+    Friendly and validate through schema.org [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

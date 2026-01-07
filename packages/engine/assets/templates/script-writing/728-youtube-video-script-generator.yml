@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 728
+# teaser: Pro Youtube Long Video Script Writer: Just a Click Write Professional Long Video Script for
+# Your Youtube Video! Video description generator, Video title generator, Video ranking, Amazon
+# Article Writer, Product Description Writing, Informational Article Writer, Facebook Add video,
+# tiktok, twitter, linkdin, fiverr, SEO, backlink H Tag, and Best to rank #1 on Google youtube,seo
+# Meta-Title & Description + Content rewriter
+- id: 728-youtube-video-script-generator
+  title: Youtube Video Script generator
+  tags:
+    - script-writing
+    - youtube
+    - video
+    - script
+    - generator
+  family: Script Writing
+  body:
+    Act as a Professional writer and Write Professional Script for Youtube Video
+    or Products using the keyword [TARGETLANGUAGE]. The text [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

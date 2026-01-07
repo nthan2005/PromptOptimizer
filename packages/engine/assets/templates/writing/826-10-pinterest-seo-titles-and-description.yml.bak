@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 826
+# teaser: Create 10 pinterest titles using blog link and a great seo description for the pins in one
+# go
+- id: 826-10-pinterest-seo-titles-and-description
+  title: 10 Pinterest SEO Titles and Description
+  tags:
+  - writing
+  - pinterest
+  - seo
+  - titles
+  - description
+  family: writing
+  body: As a proficient content write and experienced SEO writer Fluent in [TARGETLANGUAGE]
+    . Help me create 10 pintrest titles and a general description of not more then
+    450 characters that will attract traffic and engagement from this article; [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3535
+# teaser: refactory Nodejs code ecmascript 6
+- id: 3535-refactory-nodejs-code-ecmascript-6
+  title: Refactory Nodejs code ecmascript 6
+  tags:
+    - backend-development
+    - refactory
+    - nodejs
+    - code
+    - ecmascript
+  family: Backend Development
+  body:
+    "Refactor use best pratic, ecmascript 6 , rename variable in [TARGETLANGUAGE]
+    and add bugfix. do this changed in this nodejs javascript code reply me in formatted
+    as code: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

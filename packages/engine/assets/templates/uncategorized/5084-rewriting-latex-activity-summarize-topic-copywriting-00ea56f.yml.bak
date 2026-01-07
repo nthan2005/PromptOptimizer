@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5084
+# teaser: Correct my spelling and grammar. RevisionTime: 2023-05-25T13:43:54.877Z
+- id: 5084-rewriting-latex-activity-summarize-topic-copywriting-00ea56f
+  title: 'Rewriting latex Activity: Summarize Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - rewriting
+  - latex
+  - activity
+  - summarize
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1827300486123098112/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Rewriting latex"](https://www.aiprm.com/prompts/copywriting/summarize/1827300486123098112/)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE]. Corrigir minha ortografia
+    e gramatica [TARGETLANGUAGE]. Coloque o autor nas chaves de \citeonline{} [TARGETLANGUAGE].
+    Reescreva em linguagem tÃ©cnica e use a voz ativa [TARGETLANGUAGE]. Marque os
+    erros de concordÃ¢ncia, ortogrÃ¡fico e gramatical em negrito [TARGETLANGUAGE].
+    O texto para resumir Ã© este: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

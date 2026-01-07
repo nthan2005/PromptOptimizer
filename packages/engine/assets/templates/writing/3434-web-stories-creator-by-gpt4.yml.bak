@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3434
+# teaser: Create Your SEO Optimized Web stories in just One click. Rank One Google Web Stories and Get
+# Traffic.
+- id: 3434-web-stories-creator-by-gpt4
+  title: web stories creator by GPT4
+  tags:
+  - writing
+  - web
+  - stories
+  - creator
+  - gpt4
+  family: writing
+  body: Your task is Create a SEO optimised Web Stories with [TITLE] and [Meta Description]
+    and the minimum 12 points Include no more than 200 characters Use a page attachment
+    breaking up the text into multiple screens; or Keep the total number of text-heavy
+    pages under 10% of total number of story pages. All output should be in [TARGETLANGUAGE]
+    [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - title

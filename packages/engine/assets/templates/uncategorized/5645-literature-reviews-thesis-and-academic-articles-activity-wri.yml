@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5645
+# teaser: Write Literature Reviews Best 100% Quality RevisionTime: 2023-06-15T01:03:41.892Z
+- id: 5645-literature-reviews-thesis-and-academic-articles-activity-wri
+  title:
+    "Literature Reviews thesis and academic articles Activity: writing Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - literature
+    - reviews
+    - thesis
+    - academic
+    - articles
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Literature Reviews thesis and academic
+    articles"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] [PROMPT] write literature review 5 paragraphs with updated
+    not over 10 years and cited with in-text APA citations and references for this
+    topic:'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

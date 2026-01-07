@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7794
+# teaser: Helpful ready to Conduct Sentiment Analysis On Customer Reviews For Any website
+# RevisionTime: 2024-02-21T06:40:17.96Z
+- id: 7794-seo-optimized-positive-reviews-activity-ideation-topic-seo-8
+  title: "Seo Optimized - Positive reviews Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - seo
+    - optimized
+    - positive
+    - reviews
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Seo Optimized - Positive reviews"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are SEO specialist and you are asked to conduct sentiment analysis on
+    customer reviews, but adhere to SEO best practices and guidelines in the context
+    of content marketing and SEO strategy. Reply only in [TARGETLANGUAGE] language.
+    Your task is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

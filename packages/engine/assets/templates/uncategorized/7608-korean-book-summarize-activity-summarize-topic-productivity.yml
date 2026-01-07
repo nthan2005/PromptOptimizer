@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7608
+# teaser: This prompt summarizes your Korean books. RevisionTime: 2023-12-16T17:33:45.531Z
+- id: 7608-korean-book-summarize-activity-summarize-topic-productivity
+  title: "Korean book summarize Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - korean
+    - book
+    - summarize
+    - activity
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Korean book summarize"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- * I will tell you the contents of the book * Compress short to one paragraph
+    unconditionally * Please reduce the contents of the book in the given text * Please
+    write it in [TARGETLANGUAGE] * Output in the following format : "Title: Content:
+    " * The content of a book is [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

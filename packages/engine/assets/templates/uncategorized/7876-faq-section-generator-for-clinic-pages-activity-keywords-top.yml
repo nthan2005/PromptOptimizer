@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7876
+# teaser: faq generator RevisionTime: 2023-08-09T19:18:44.246Z
+- id: 7876-faq-section-generator-for-clinic-pages-activity-keywords-top
+  title: "FAQ Section Generator for clinic pages Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - faq
+    - section
+    - generator
+    - clinic
+    - pages
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "FAQ Section Generator for clinic pages"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] [TARGETLANGUAGE] Please make me an SEO optimized faq section for
+    a Clinical page, only give me the headers for the faqs, the page is about'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2229
+# teaser: Intermittent Fasting 16:8 plan
+- id: 2229-intermittent-fasting-weight-loss-plan
+  title: Intermittent Fasting Weight Loss Plan
+  tags:
+    - plan
+    - intermittent
+    - fasting
+    - weight
+    - loss
+  family: Plan
+  body:
+    "Your task is to create an Intermittent Fasting beginner 16:8 weight loss
+    plan. All output shall be in [TARGETLANGUAGE]. Include a definition of 16:8. Include
+    drinks that are approved for intermittent fasting when your window is closed.
+    Include meal ideas and shopping list. Include contraindications. Include check
+    with your physician before starting a weight loss program. The text to summarize
+    is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

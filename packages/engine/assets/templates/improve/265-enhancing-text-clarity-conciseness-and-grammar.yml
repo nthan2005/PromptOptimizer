@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 265
+# teaser: Transforming Text: Enhancing Clarity, Conciseness, and Grammar for Better Communication 1.2
+- id: 265-enhancing-text-clarity-conciseness-and-grammar
+  title: Enhancing Text Clarity, Conciseness, and Grammar.
+  tags:
+    - improve
+    - enhancing
+    - text
+    - clarity
+    - conciseness
+    - grammar
+  family: Improve
+  body:
+    'Please revise and improve the following text in [TARGETLANGUAGE]: "[PROMPT]"
+    Your revised text should be clearer, more concise, and grammatically correct in
+    [TARGETLANGUAGE]: Please ensure that your revision maintains the original meaning
+    of the message while improving overall readability. Your response should include
+    a revised version of the original text that is easy to understand and free of
+    errors or ambiguities in [TARGETLANGUAGE]. You may also suggest ways to further
+    improve the clarity and effectiveness of the message in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

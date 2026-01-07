@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5085
+# teaser: Explains everything in a straightforward way. Optionally with sarcasm - just for fun.
+# RevisionTime: 2023-04-25T10:45:17.472Z
+- id: 5085-rockochamp-s-explain-like-i-m-five-years-old-activity-summar
+  title:
+    "Rockochamp's: Explain Like I'm Five Years Old Activity: Summarize Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - rockochamp
+    - explain
+    - like
+    - five
+    - years
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Rockochamp''s: Explain Like I''m Five
+    Years Old"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Target output language: [TARGETLANGUAGE] Output should contain sarcasm: [VARIABLE1]
+    Instruction: Explain "[PROMPT]" like I''m five years old, including a brief history,
+    some examples, and an interesting fact. [VARIABLE1:Sarcasm:Off:Off|On]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

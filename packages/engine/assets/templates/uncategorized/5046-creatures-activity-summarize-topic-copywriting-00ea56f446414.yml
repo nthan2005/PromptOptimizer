@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5046
+# teaser: Creatures RevisionTime: 2023-07-22T22:44:30.55Z
+- id: 5046-creatures-activity-summarize-topic-copywriting-00ea56f446414
+  title: "Creatures Activity: Summarize Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - creatures
+    - activity
+    - summarize
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Creatures"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- name of any creatures in [TARGETLANGUAGE], [PROMPT], [VARIABLE1], [VARAIABLE2],
+    [VARIABLE3]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - varaiable2
+    - variable1
+    - variable3

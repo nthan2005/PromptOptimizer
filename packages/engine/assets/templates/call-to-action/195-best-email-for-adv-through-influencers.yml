@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 195
+# teaser: Write email messages to bloggers and influencers using description provided.
+- id: 195-best-email-for-adv-through-influencers
+  title: Best email for adv through influencers
+  tags:
+    - call-to-action
+    - email
+    - adv
+    - through
+    - influencers
+  family: call to action
+  body:
+    I need to do PR for my hackathon [TARGET LANGUAGE] and have bloggers [TARGETLANGUAGE]
+    talk about it on their social media platforms. In return, I offer [TARGET LANGUAGE]
+    They can be speakers at the events and advertise their product and project (we
+    have [TARGETLANGUAGE] 2K people at the streams). [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2694
+# teaser: 50 PPC keywords
+- id: 2694-50-ppc-keywords
+  title: 50 PPC keywords
+  tags:
+    - keywords
+    - ppc
+  family: keywords
+  body:
+    Give me 50 PPC keywords that could be used for "[PROMPT]" and created a table
+    with the avg. monthly searches, and top to lowest page bid with competition ranging
+    from (Low, Medium, high) [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

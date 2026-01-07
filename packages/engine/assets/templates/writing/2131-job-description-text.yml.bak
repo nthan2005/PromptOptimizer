@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2131
+# teaser: Create your job description for hiring new applicants
+- id: 2131-job-description-text
+  title: Job Description Text
+  tags:
+  - writing
+  - job
+  - description
+  - text
+  family: writing
+  body: 'Create a job description for this job[JOBTITLE] in the [TARGETLANGUAGE] by
+    using the [VARIABLE1] for an intro and write a list for Job Responsibilities from
+    the data of [VARIABLE2] and Applicant Requirements / Qualifications from the data
+    of [VARIABLE3]. Write a motivating closing sentence for the application. [VARIABLE1]
+    [VARIABLE1:Company About us] [VARIABLE2] [VARIABLE2:Job Responsibilities] [VARIABLE3]
+    [VARIABLE3: Applicant Requirements / Qualifications] [PROMPT]'
+  enabled: true
+  required:
+  - jobtitle
+  - prompt
+  - targetlanguage
+  - variable1
+  - variable2
+  - variable3

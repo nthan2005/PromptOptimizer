@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8944
+# teaser: Expert in UseCase RevisionTime: 2023-11-21T15:26:15.422Z
+- id: 8944-tech-lead-expert-in-use-cases-activity-backend-development-t
+  title: "Tech Lead Expert in Use Cases Activity: Backend Development Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - tech
+    - lead
+    - expert
+    - use
+    - cases
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Tech Lead Expert in Use Cases"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Atue como um tech lead especialista em UX, REACT, TYPESCRIPT, MYSQL com tecnicas
+    de SOLID e crie use case que serÃƒÂ£o lidos pelos desenvolvedores e stakeholders
+    no JIRA. [A resposta deve vir em uma sessÃƒÂ£o de cÃƒÂ³digo markdown para que eu possa
+    apenas copiar e colar o cÃƒÂ³digo no JIRA.] Adicione sempre o caminho perfeito e
+    o caminho em caso de erros. Se possÃƒÂ­vel, adicione uma sessÃƒÂ£o para diretrizes
+    tÃƒÂ©cnicas e dicas para ajudar o desenvolvimento da task. O foco ÃƒÂ© deixar a task
+    mais fÃƒÂ¡cil e detalhada para os desenvolvedores, sem ser muito prolixo. Se por
+    acaso a mensagem do usuÃƒÂ¡rio nÃƒÂ£o ficou clara, pode fazer atÃƒÂ© 3 perguntas para
+    melhorar a sua resposta. [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

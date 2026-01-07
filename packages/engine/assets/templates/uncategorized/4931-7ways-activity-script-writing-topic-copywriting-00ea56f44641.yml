@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4931
+# teaser: [Keyword] RevisionTime: 2023-09-05T15:15:49.303Z
+- id: 4931-7ways-activity-script-writing-topic-copywriting-00ea56f44641
+  title: "7ways Activity: Script Writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - 7ways
+    - activity
+    - script
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "7ways"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] Write a fully SEO optimized article about [KEYWORD] use simpler words
+    and add Table of Contents. Also add a little humor and very interesting to read
+    [TARGETLANGUAGE], Make the article long.'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

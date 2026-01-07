@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 940
+# teaser: Literal and spiritual meaning (allegorical, moral, and anagogical) of a passage from the
+# Bible / Old and New Testament interpretation.
+- id: 940-bible-meanings-and-interpretations
+  title: "BIBLE : Meanings and Interpretations"
+  tags:
+    - writing
+    - bible
+    - meanings
+    - interpretations
+  family: writing
+  body:
+    "Write each response in the output language: [TARGETLANGUAGE]. Generate the
+    literal and spiritual interpretations (allegorical, moral, and anagogical) of
+    the passage from the Bible of Jerusalem : [PROMPT] Generate the Old Testament
+    interpretations found in the living tradition of the Church from the early centuries
+    to the present day, providing as many references and citations as possible for
+    clarification. Generate the New Testament interpretations found in the living
+    tradition of the Church from the early centuries to the present day, providing
+    as many references and citations as possible for clarification If the character
+    limit is reached, stop! and continue in the next response."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

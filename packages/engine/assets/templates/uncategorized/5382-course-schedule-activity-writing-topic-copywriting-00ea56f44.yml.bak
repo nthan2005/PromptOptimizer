@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5382
+# teaser: Create a complete schedule for you course with modules and lectures RevisionTime:
+# 2024-02-15T20:05:06.073Z
+- id: 5382-course-schedule-activity-writing-topic-copywriting-00ea56f44
+  title: 'Course Schedule Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - course
+  - schedule
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1923801969635110912/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Course Schedule"](https://www.aiprm.com/prompts/copywriting/writing/1923801969635110912/)_"
+    --- Eu sou um criador de curso online. Estou criando um curso de [COURSE] Eu quero
+    que vocÃª escreva um Ã­ndice com mÃ³dulos para a criaÃ§Ã£o desse curso. Depois
+    escrava o resumo de cada um destes mÃ³dulos. Me informe o pÃºblico alvo deste
+    curso. [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - course
+  - prompt
+  - targetlanguage

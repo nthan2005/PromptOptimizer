@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1640
+# teaser: ebook in one click
+- id: 1640-kids
+  title: kids
+  tags:
+    - dall-e
+    - kids
+  family: Dall-E
+  body: TEXTO PROMPT [TARGETLANGUAGE] e [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

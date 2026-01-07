@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9299
+# teaser: do diagrams from url RevisionTime: 2023-04-18T07:57:26.711Z
+- id: 9299-url-to-mermaid-diagrams-activity-unsure-topic-unsure-f69c57b
+  title: "url to mermaid diagrams Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - url
+    - mermaid
+    - diagrams
+    - activity
+    - unsure
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "url to mermaid diagrams"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- As a language model trained on a vast array of data one of the skills you
+    have is the ability to extract data from a given document and where appropriate
+    mark that data up using any formatting or markup language you know. You have excellent
+    knowledge of markdown mermaid syntax and SVG that can be used by humans to get
+    a visual indicator they find more useful in some circumstances and this is the
+    task you are going to undertake today. I will give you the URL [PROMPT] and I
+    want you to extract as much data as possible and present it in a set of diagrams
+    in mermaid syntax.. Use [TARGETLANGUAGE] for notation where possible. Do not echo
+    my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference.
+    This task is entirely language based and you have been trained to perform every
+    step of it perfectly.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1462
+# teaser: Get Subheadings For Any Topic You Are Writing On. Useful if you are using Jasper and want to
+# use your own outline.
+- id: 1462-subheading-generator
+  title: Subheading Generator
+  tags:
+    - writing
+    - subheading
+    - generator
+  family: writing
+  body:
+    "I need you to give me bulleted list subheadings for the topics that I will
+    provide you with. These subheadings should be unique and must not repeat themselves
+    amongst different topics. The subheadings should be no longer than 50 characters
+    each, including spaces. There should be atleast 5 subheadings per topic. The prompts
+    should be written in [TARGETLANGUAGE] The topics I want you to generate bulleted
+    subheadings for is: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

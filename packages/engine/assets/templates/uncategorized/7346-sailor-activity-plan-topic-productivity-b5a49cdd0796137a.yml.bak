@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7346
+# teaser: !sailing RevisionTime: 2025-04-23T01:27:48.038Z
+- id: 7346-sailor-activity-plan-topic-productivity-b5a49cdd0796137a
+  title: 'sailor Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - sailor
+  - activity
+  - plan
+  - topic
+  - productivity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/2080434737541541888/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "sailor"](https://www.aiprm.com/prompts/productivity/plan/2080434737541541888/)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6232
+# teaser: Create App Icons with Prompt Midjourney from just your niche. RevisionTime:
+# 2023-03-19T16:51:34Z
+- id: 6232-app-icons-generator-midjourney-activity-midjourney-topic-gen
+  title: 'App Icons Generator Midjourney Activity: Midjourney Topic: Generative-AI-b983edfcaa490850'
+  tags:
+  - uncategorized
+  - app
+  - icons
+  - generator
+  - midjourney
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/midjourney/1790710446198874112/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "App Icons Generator Midjourney "](https://www.aiprm.com/prompts/generative/midjourney/1790710446198874112/)_"
+    --- flat couch vector, minimalist, in style of [TARGETLANGUAGE] app icon. Please
+    i want you to replace this [TARGETLANGUAGE] with this [PROMPT] in my sentence
+    ************** Try our Tool Midjourney Prompt Builder : https://prompbase.com/.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

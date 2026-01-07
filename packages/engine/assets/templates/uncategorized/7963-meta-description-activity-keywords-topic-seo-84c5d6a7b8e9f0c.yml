@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7963
+# teaser: create a meta description with maximum of 160 characters and use exact keyword RevisionTime:
+# 2024-02-19T08:51:02.375Z
+- id: 7963-meta-description-activity-keywords-topic-seo-84c5d6a7b8e9f0c
+  title: "meta description Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - meta
+    - description
+    - activity
+    - keywords
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "meta description"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- create a meta description with maximum of 160 characters using exact keyword
+    about the given keyword. Remove ". Use a call to action at the end. The given
+    keyword is [PROMPT] Use [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

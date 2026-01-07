@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7516
+# teaser: rewrite concisely RevisionTime: 2023-03-12T01:44:47.514Z
+- id: 7516-rewrite-activity-respond-topic-productivity-b5a49cdd0796137a
+  title: "rewrite Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - rewrite
+    - activity
+    - respond
+    - topic
+    - productivity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "rewrite"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- rewrite the following concisely in [TARGETLANGUAGE]:[PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

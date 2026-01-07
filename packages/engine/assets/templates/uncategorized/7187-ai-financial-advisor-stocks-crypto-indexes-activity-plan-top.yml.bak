@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7187
+# teaser: Crypto, DeFi, Bitcoin RevisionTime: 2023-06-19T07:15:08.765Z
+- id: 7187-ai-financial-advisor-stocks-crypto-indexes-activity-plan-top
+  title: 'AI Financial Advisor- Stocks, Crypto, Indexes Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - financial
+  - advisor
+  - stocks
+  - crypto
+  - indexes
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1836266104214528000/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "AI Financial Advisor- Stocks, Crypto,
+    Indexes"](https://www.aiprm.com/prompts/productivity/plan/1836266104214528000/)_"
+    --- create a powerful prompt including placeholders acting as an financial advisor
+    in stocks, indexes, cash and crypto in [TARGETLANGUAGE] English . [PROMPT] First
+    question is , whats the users risk profile and then construct a weight adjusted
+    portfolio .'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

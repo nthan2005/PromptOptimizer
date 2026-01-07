@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7260
+# teaser: Create the best way to grow indoors with LEDs RevisionTime: 2023-04-02T18:19:16.372Z
+- id: 7260-grow-indoors-leds-with-john-activity-plan-topic-productivity
+  title: "Grow Indoors LEDs with John Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - grow
+    - indoors
+    - leds
+    - john
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Grow Indoors LEDs with John "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your tasks is to Describe and teach how and List the Steps to Grow Medical
+    Cannabis and organic food and herbs with LEDs light recipes and living soils indoors.
+    All output shall be in [TARGETLANGUAGE] . THE TEXT TO SUMMARIZE AND DESCRIBE BEST
+    PRACTICES Innovative technologies have led to new growing terms . What Is Spectrum?
+    Why LEDs? New LED lights today . Describe and teach how - Pressure - Deficit (VPD)
+    .So, when growing with LEDs, you should consider three particularly important
+    variables: Ã¢â‚¬Â¢ Spectrum Ã¢â‚¬Â¢ Coverage Ã¢â‚¬Â¢ Yields IS THIS: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

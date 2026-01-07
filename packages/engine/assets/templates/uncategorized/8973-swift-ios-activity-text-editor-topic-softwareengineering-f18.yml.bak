@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8973
+# teaser: Help your development with swift. RevisionTime: 2023-04-10T04:32:52.789Z
+- id: 8973-swift-ios-activity-text-editor-topic-softwareengineering-f18
+  title: 'Swift ios Activity: Text Editor Topic: SoftwareEngineering-f1858b980c341d28'
+  tags:
+  - uncategorized
+  - swift
+  - ios
+  - activity
+  - text
+  - editor
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/text-editor/1810800217994563584/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Swift ios"](https://www.aiprm.com/prompts/softwareengineering/text-editor/1810800217994563584/)_"
+    --- Help me with IOS developing with Swift and Xcode MY CODE: [PROMPT] My expectation
+    about this problem: [VARIABLE1]â€¨ My error: [VARIABLE2] My goal: [VARIABLE3]
+    â€¨All output should be in [TARGETLANGUAGE] [VARIABLE1:My problem:none] [VARIABLE2:Error
+    you got:none] [VARIABLE3:Goal to achive:none]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - variable1
+  - variable2
+  - variable3

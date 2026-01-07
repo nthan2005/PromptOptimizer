@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7475
+# teaser: Learn Any Language in ChatGPT Way! No one can teach you better. Easy to understand and
+# Practice. Hit like if you love it!! RevisionTime: 2023-03-25T11:13:11.908Z
+- id: 7475-learn-any-language-activity-respond-topic-productivity-b5a49
+  title: 'Learn Any Language Activity: Respond Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - learn
+  - any
+  - language
+  - activity
+  - respond
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1799395514194849792/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Learn Any Language"](https://www.aiprm.com/prompts/productivity/respond/1799395514194849792/)_"
+    --- Teach me [PROMPT] language in the easiest way in an ebook format, start with
+    basic, and Present the ebook in modules. Total 8 modules with 5 lessons. In the
+    end, ask - which module and lesson would you like to start with? then after answering
+    this question ask again which module and lesson next and mention this example
+    ''[eg. Module 1 Lesson 2]''. Keep it short and provide valuable information as
+    possible Please write in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

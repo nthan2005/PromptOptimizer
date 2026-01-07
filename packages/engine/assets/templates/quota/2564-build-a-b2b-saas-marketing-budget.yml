@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2564
+# teaser: Build a B2B SaaS marketing budget based on your revenue goals in one click
+- id: 2564-build-a-b2b-saas-marketing-budget
+  title: Build a B2B SaaS marketing budget
+  tags:
+    - quota
+    - build
+    - b2b
+    - saas
+    - marketing
+    - budget
+  family: Quota
+  body:
+    "Pretend you are an expert in B2B SaaS marketing and budgeting and finance
+    for B2B SaaS companies. Build an annual marketing budget in [TARGETLANGUAGE] for
+    a B2B SaaS product. Base the marketing tactics and percentage of spend on industry
+    best practices for B2B SaaS companies. Include a link to your source for this
+    spend breakdown. Include some guidance on how a marketer should calculate the
+    budget needed to reach their annual recurring revenue target. Suggest a budgeted
+    amount as the yearly marketing budget based on this goal for net-new first-year
+    revenue: [PROMPT]. Format the data in a table."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

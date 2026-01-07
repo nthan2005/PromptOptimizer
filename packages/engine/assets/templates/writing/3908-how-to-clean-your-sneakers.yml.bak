@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3908
+# teaser: Get instructions on how to clean your sneakers.
+- id: 3908-how-to-clean-your-sneakers
+  title: How to clean your Sneakers
+  tags:
+  - writing
+  - clean
+  - sneakers
+  family: writing
+  body: 'Your task is to write the steps needed to clean the type of sneaker based
+    on the keyword. You will provide a list of all the tools and products needed before
+    the instructions in a bullet point format. You will add the following link at
+    the end of the product list: https://sneakky.com/shop/. All output shall be in:
+    [TARGETLANGUAGE]. The key words that you will use is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

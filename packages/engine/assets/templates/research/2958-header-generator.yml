@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2958
+# teaser: Takes competetors headers and create a unique headers that covers all aspects of your
+# Article
+- id: 2958-header-generator
+  title: Header Generator
+  tags:
+    - research
+    - header
+    - generator
+  family: Research
+  body:
+    based on these headers [PROMPT], give me a list of the most essential header
+    for the article so that it gives the best value to the reader and covers the subject
+    on many aspects. output must be in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3866
+# teaser: Amateur community and Big7 Spam or Caption
+- id: 3866-amateur-community-and-big7-spam-or-caption
+  title: Amateur community and Big7 Spam or Caption
+  tags:
+  - writing
+  - amateur
+  - community
+  - big7
+  - spam
+  - caption
+  family: writing
+  body: Your task is to create a spam message or a social media caption to my fans
+    in Big7 or Amateur community. Make it daring, flirty, and sexy and asking how
+    is he doing or what do they think about me. [TARGETLANGUAGE]. [PROMPT] make it
+    a minimum of 150 characters for a spam message and 250 minimum characters of a
+    social media caption. Add a call to action at the last message that will trigger
+    the customer to engage more. Make sure that it is bubbly, daring, sexy and flirty.
+    Add emojis to the respective places. After you gave an English spam message with
+    call to action translate it to the German Language. Compiling the response and
+    the call to action. Make sure the German translation is in good grammar. Make
+    sure that the overall context will focus on both men and women. Basically, just
+    use YOU. Make sure the overall tone of this is more human.
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

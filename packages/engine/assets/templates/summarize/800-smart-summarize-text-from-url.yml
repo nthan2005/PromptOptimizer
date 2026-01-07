@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 800
+# teaser: Summarize text from provided URL, with subheadings, bulletpoints and a summary for speed
+# readers
+- id: 800-smart-summarize-text-from-url
+  title: Smart summarize text from URL
+  tags:
+    - summarize
+    - smart
+    - text
+    - url
+  family: Summarize
+  body:
+    "Summarize Text in [TARGETLANGUAGE]. In the first step, start with a headline
+    that arouses curiosity. The second step is to generate a 2-liner summary for speed
+    readers and bulletpoints of the most important facts. In the last step, generate
+    the summary article. The article must be 200 to 500 words. Create an appropriate
+    subheading for the most important facts. Source URL: [PROMPT] [CRAWLEDTEXT]"
+  enabled: true
+  required:
+    - crawledtext
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4659
+# teaser: Rewrite Sentence Prompt, Unique, SEO-optimized RevisionTime: 2024-02-02T11:52:36.647Z
+- id: 4659-rewrite-sentence-prompt-activity-marketing-topic-copywriting
+  title: "Rewrite Sentence Prompt Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - rewrite
+    - sentence
+    - prompt
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Rewrite Sentence Prompt"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I Want You To Act As A Content Writer who writes fluently in [TARGETLANGUAGE]
+    as a native speaker would do and is Very Proficient in SEO. Your task is to rewrite
+    [PROMPT] to create a unique text version. Use easy to understand sentences which
+    are not too complex, engage the reader and improve the overall writing style where
+    possible. Now rewrite [PROMPT].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

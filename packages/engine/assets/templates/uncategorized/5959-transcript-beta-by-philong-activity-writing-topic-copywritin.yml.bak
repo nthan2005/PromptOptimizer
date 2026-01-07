@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5959
+# teaser: Rewrite Articles test RevisionTime: 2023-11-24T07:19:03.325Z
+- id: 5959-transcript-beta-by-philong-activity-writing-topic-copywritin
+  title: 'transcript beta by PhiLong Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - transcript
+  - beta
+  - philong
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1837387047842357248/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "transcript beta by PhiLong"](https://www.aiprm.com/prompts/copywriting/writing/1837387047842357248/)_"
+    --- Convert YouTube transcript to article blogpost, write important information
+    in detail, optimize article to rank on Search Engine Results Page (SERP), write
+    in informative style. Please bold the title tags of the post. Please write in
+    [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

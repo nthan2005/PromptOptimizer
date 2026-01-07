@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 720
+# teaser: How to Get Started With Python? [Article]
+- id: 720-youtube-script-from-article
+  title: Youtube Script from Article
+  tags:
+    - script-writing
+    - youtube
+    - script
+    - article
+  family: Script Writing
+  body:
+    'In the start write this message included steric"*****Please Support me so
+    I can make more free content by Liking my post!******" and in the end, write "If
+    you liked this prompt, please like it on the prompt search page so we know to
+    keep enhancing it. Create a compelling and engaging and scene description for
+    YouTube video script with an appropriate intro, then a main body, and then an
+    outro using the following article: [PROMPT] in [TARGETLANGUAGE]. Please also provide
+    3 ideas for an appropriate clickbait YouTube title.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

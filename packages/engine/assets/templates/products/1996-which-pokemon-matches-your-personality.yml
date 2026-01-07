@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1996
+# teaser: Know Which Pokemon matches Your Personality by your name and Zodic Sign
+- id: 1996-which-pokemon-matches-your-personality
+  title: Which Pokemon Matches Your Personality
+  tags:
+    - products
+    - which
+    - pokemon
+    - matches
+    - personality
+  family: Products
+  body:
+    "When people add their name and zodic sign give them a pokemon name randomly
+    and tell about pokemon. zodiac signs and their corresponding types are : 'aries':
+    'ground', 'taurus': 'flying', 'gemini': 'normal', 'cancer': 'water',
+    'leo': 'fire', 'virgo': 'grass', 'libra': 'fairy', 'scorpio': 'poison',
+    'sagittarius': 'flying', 'capricorn': 'rock', 'aquarius': 'electric',
+    'pisces': 'water' [TARGETLANGUAGE] [PROMPT] At the bottom write: For SEO Work
+    Contact: https://onecupseo.com/contact/ Buy Me a Coffee: https://www.buymeacoffee.com/onecupseo"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

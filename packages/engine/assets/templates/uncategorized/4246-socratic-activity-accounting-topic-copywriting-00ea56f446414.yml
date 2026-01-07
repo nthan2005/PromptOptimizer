@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4246
+# teaser: In the style of a Socratic dialogue, describe [PROMPT] RevisionTime:
+# 2023-04-02T11:00:47.508Z
+- id: 4246-socratic-activity-accounting-topic-copywriting-00ea56f446414
+  title: "Socratic Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - socratic
+    - activity
+    - accounting
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Socratic"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- use [TARGETLANGUAGE] In the style of a Socratic dialogue, describe [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

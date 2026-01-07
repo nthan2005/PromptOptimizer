@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3839
+# teaser: Translate accurately and effectively, without losing the original meaning of the text.
+- id: 3839-translate-effectively
+  title: Translate Effectively.
+  tags:
+  - unsure
+  - translate
+  - effectively
+  family: UNSURE
+  body: 'Translate the following text to [TARGETLANGUAGE] in such a way that there
+    are no syntax errors or awkward phrases, it is easily readable, but without losing
+    the true meaning of the words and phrases: "[PROMPT]"'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

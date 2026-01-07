@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6185
+# teaser: [Excel], [function], [formulas do Excel], [Function of Excel] RevisionTime:
+# 2023-05-20T18:15:47.715Z
+- id: 6185-function-of-excel-activity-dall-e-topic-generative-ai-b983ed
+  title: "Function of Excel Activity: Dall-E Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - function
+    - excel
+    - activity
+    - dall
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Function of Excel"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write all Excel functions Usando o formato de Tabela, para cada linha uma
+    funÃƒÂ§ÃƒÂ£o em portuguÃƒÂªs e InglÃƒÂªs, a primeira coluna a funÃƒÂ§ÃƒÂ£o em portugues e
+    segunda coluna com a descriÃƒÂ§ÃƒÂ£o da funÃƒÂ§ÃƒÂ£o e terceira coluna, com exemplo em
+    portuques. Na quarta coluna em inglÃƒÂªs, na quinta coluna a descriÃƒÂ§ÃƒÂ£o da funÃƒÂ§ÃƒÂ£o
+    em inglÃƒÂªs e na sexta coluna exemplo da funÃƒÂ§ÃƒÂ£o em inglÃƒÂªs. Use para esta tabela,
+    funÃƒÂ§ÃƒÂµes como : calculos matemÃƒÂ¡ticos, procura, engenharia e investimentos financeiros.
+    [TARGETLANGUAGE] Write all Excel functions [PROMPT] Excel, Function [KEYWORD]'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

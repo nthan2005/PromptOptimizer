@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7979
+# teaser: Creat a comparison chart for Products RevisionTime: 2025-02-05T16:47:30.41Z
+- id: 7979-product-comparison-chart-of-4-countries-activity-keywords-to
+  title: "Product Comparison Chart of 4 Countries Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - product
+    - comparison
+    - chart
+    - countries
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Product Comparison Chart of 4 Countries"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create a detailed comparison chart for the keywords will be provided. Include
+    information on the world''s top 4 countries (mention the country names) producing
+    or manufacturing the above-mentioned product. Gather data from reputable sources
+    on the internet. Each chart should consist of a minimum of 20 specifications for
+    the specified product. Ensure that the information is presented in the English
+    language. ''Your task is [PROMPT]. The [TARGETLANGUAGE] is [ENGLISG]'''
+  enabled: true
+  required:
+    - englisg
+    - prompt
+    - targetlanguage

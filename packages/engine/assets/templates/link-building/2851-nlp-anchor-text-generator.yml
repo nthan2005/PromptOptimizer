@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2851
+# teaser: Create a list of NLP-friendly anchor texts for "[KEYWORD]".
+- id: 2851-nlp-anchor-text-generator
+  title: NLP Anchor Text Generator
+  tags:
+    - link-building
+    - nlp
+    - anchor
+    - text
+    - generator
+  family: link building
+  body:
+    In [TARGETLANGUAGE], generate a list of NLP-friendly anchor texts for the
+    article â€œ[PROMPT]â€œ. Ensure that the anchor texts suggested are clear, precise,
+    contextually relevant, and concise. Use lowercase letters, and make sure anchor
+    texts have between 3 and 7 words. The suggested anchor texts must be extremely
+    relevant to the title of my article. Lastly, avoid generic keywords like check
+    out, read, click here, guide, etc.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

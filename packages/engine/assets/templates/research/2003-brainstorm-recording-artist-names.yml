@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2003
+# teaser: Brainstorm recording artist names based upon a given keyword.
+- id: 2003-brainstorm-recording-artist-names
+  title: Brainstorm Recording Artist Names
+  tags:
+    - research
+    - brainstorm
+    - recording
+    - artist
+    - names
+  family: Research
+  body:
+    I'm a new music artist and I want you to help me brainstorm artist names based
+    upon the keyword [PROMPT] Make sure the artist names are not already taken, and
+    make sure that their handles are available on Instagram, Youtube and Spotify.
+    I want you to write only in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

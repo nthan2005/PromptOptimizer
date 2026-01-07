@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6488
+# teaser: Complete Marketing Planning for 360Ã‚Âº campaigns. Table with motto suggestions, posting
+# schedule, customer journey and post suggestions. RevisionTime: 2023-09-14T19:24:41.217Z
+- id: 6488-marketing-planner-theme-generator-for-campaigns-activity-mar
+  title:
+    "Marketing planner + theme generator for campaigns Activity: marketing Topic:
+    Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - marketing
+    - planner
+    - theme
+    - generator
+    - campaigns
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Marketing planner + theme generator
+    for campaigns"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- A palavra-chave ÃƒÂ© [KEYWORD] "ESTRATÃƒâ€°GIA 01 - SUGESTÃƒÆ’O DE MOTES PARA CAMPANHA"
+    Sua tarefa ÃƒÂ© me dar 5 sugestÃƒÂµes de temas/motes para uma campanha completa de
+    marketing abrangendo canais online (como instagram, facebook, whatsapp, tiktok,
+    youtube e google) quanto canais offline (outdoors, panfletos, rÃƒÂ¡dio e tv) sobre
+    a palavra-chave escolhida. Segmente apenas termos de pesquisa de estilo de transaÃƒÂ§ÃƒÂ£o.
+    Por favor, seja o mais criativo, original e humanizado. Por favor, organize cada
+    sugestÃƒÂ£o de tema/mote em uma linha da tabela. ApÃƒÂ³s, pegue a palavra-chave escolhida,
+    escreva "ESTRATÃƒâ€°GIA 02 - PROGRAMAÃƒâ€¡ÃƒÆ’O DE POSTAGENS" e crie uma programaÃƒÂ§ÃƒÂ£o
+    de postagem de mÃƒÂ­dia social com sugestÃƒÂµes de temas para tÃƒÂ³picos da palavra-chave
+    escolhida na tabela abaixo, onde estou postando no Facebook, Instagram, Whatsapp
+    e TikTok. O tipo de mensagens incluem; dicas, truques, fatos, ideias de atividades,
+    inspiraÃƒÂ§ÃƒÂ£o, receitas, reviews de produtos e listas. Informe tambÃƒÂ©m qual ÃƒÂ©
+    formato dessas postagens. Pode ser texto, imagens ou vÃƒÂ­deos curtos. "ESTRATÃƒâ€°GIA
+    03 - JORNADA DO CLIENTE" Eu gostaria que vocÃƒÂª me ajudasse a criar uma programaÃƒÂ§ÃƒÂ£o
+    de conteÃƒÂºdo para minhas redes sociais que tivesse a melhor chance de me ajudar
+    a classificar palavras-chave de cauda longa especÃƒÂ­ficas para a palavra-chave
+    escolhida. Por favor, descreva detalhadamente a jornada do cliente de um processo
+    de compra para uma empresa. Necessito que o resultado esteja em formato de tabela
+    com as colunas: Etapa, DescriÃƒÂ§ÃƒÂ£o, Pontos de Contato, AÃƒÂ§ÃƒÂµes de marketing a
+    realizar e KPIs no topo. [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

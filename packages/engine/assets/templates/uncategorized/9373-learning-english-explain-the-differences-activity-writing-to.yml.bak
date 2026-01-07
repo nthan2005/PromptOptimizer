@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9373
+# teaser: explain the differences RevisionTime: 2023-05-22T13:30:51.893Z
+- id: 9373-learning-english-explain-the-differences-activity-writing-to
+  title: '[Learning English] explain the differences Activity: writing Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - learning
+  - english
+  - explain
+  - differences
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1826218145631961088/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "[Learning English] explain the differences"](https://www.aiprm.com/prompts/unsure/writing/1826218145631961088/)_"
+    --- Please explain the differences between the following two. All outpot shall
+    be in [TARGETLANGUAGE] with example sentences. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

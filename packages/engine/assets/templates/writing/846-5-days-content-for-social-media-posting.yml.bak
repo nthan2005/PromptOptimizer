@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 846
+# teaser: Create a content idea and copywriting for 5 days social media post.
+- id: 846-5-days-content-for-social-media-posting
+  title: 5 Days Content For Social Media Posting
+  tags:
+  - writing
+  - days
+  - content
+  - social
+  - media
+  - posting
+  family: writing
+  body: I want you to act as copywriter, create a content idea for 5 days social media
+    post [PROMPT]. The output must include posting Date, Title and Content Copywriting.
+    The Content Copywriting must be atleast 100 to 120 words including hashtag. Please
+    create a table for the Date, Title and Content Copywriting. The output must be
+    in [TARGETLANGUAGE].
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

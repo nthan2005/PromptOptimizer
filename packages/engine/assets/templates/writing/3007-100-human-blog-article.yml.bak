@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3007
+# teaser: Your blog/article to convert to 100% human. Tested on: Ã¯Â¸Â https://writer.com/ai-content-
+# detector/ Ã¯Â¸Â https://contentatscale.ai/ai-content-detector/
+- id: 3007-100-human-blog-article
+  title: 100% Human blog/article!
+  tags:
+  - writing
+  - '100'
+  - human
+  - blog
+  - article
+  family: writing
+  body: 'When it comes to writing content in [TARGETLANGUAGE], two factors are crucial,
+    "perplexity" and "burstiness." Perplexity measures the complexity of text. Separately,
+    burstiness compares the variations of sentences. Humans tend to write with greater
+    burstiness, for example, with some longer or complex sentences alongside shorter
+    ones. AI sentences tend to be more uniform. Therefore, when writing the following
+    content I am going to ask you to create, I need it to have a good amount of perplexity
+    and burstiness. Use this to rewrite like a normal human, with a super high amount
+    of perplexity and burstines: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

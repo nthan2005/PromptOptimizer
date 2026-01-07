@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8081
+# teaser: Create two FAQs from your Content and matching JSON-LD Markup. RevisionTime:
+# 2023-02-23T18:20:27Z
+- id: 8081-faq-markup-generator-schema-markup-activity-marketing-topic
+  title: 'FAQ Markup Generator + Schema Markup Activity: marketing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - faq
+  - markup
+  - generator
+  - schema
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/1781755088919060480/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt " FAQ Markup Generator + Schema Markup
+    "](https://www.aiprm.com/prompts/seo/marketing/1781755088919060480/)_" --- Create
+    two Questions and matching answers in [TARGETLANGUAGE] based on [PROMPT] and matching
+    FAQ-Schema Markup and format it as JSON-LD.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

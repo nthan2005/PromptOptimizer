@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7759
+# teaser: create meta title and descriptions from 1 keyword or title RevisionTime:
+# 2024-01-23T06:29:25.62Z
+- id: 7759-meta-title-writing-activity-ideation-topic-seo-84c5d6a7b8e9f
+  title: "Meta Title Writing Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - meta
+    - title
+    - writing
+    - activity
+    - ideation
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Meta Title Writing"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- My SEO focus keyword IS [PROMPT] My blog post'
+  enabled: true
+  required:
+    - prompt

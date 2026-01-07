@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9381
+# teaser: metal budget RevisionTime: 2023-07-18T13:47:41.394Z
+- id: 9381-metal-budget-activity-writing-topic-unsure-f69c57b424376b23
+  title: 'metal budget Activity: writing Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - metal
+  - budget
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1846880763460206592/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "metal budget"](https://www.aiprm.com/prompts/unsure/writing/1846880763460206592/)_"
+    --- apresenta o resultado do idioma [TARGETLANGUAGE] [PROMPT] ,eu quero vocÃª
+    vira um orÃ§amentista metÃ¡lico explica como funciona um orÃ§amento de prestaÃ§Ã£o
+    de serviÃ§o de fabricaÃ§Ã£o e montagem faz um e-book explicando tudo sobre orÃ§amentos
+    de estrutura metÃ¡lica com calculo tÃ©cnica planilha explicaÃ§Ãµes como funciona
+    cada detalhe do orÃ§amento com vÃ¡rios tÃ³picos me apresenta um e-book bem organizado'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1188
+# teaser: The ultimate content calendar
+- id: 1188-hyper-contentcalender
+  title: Hyper Contentcalender
+  tags:
+  - writing
+  - hyper
+  - contentcalender
+  family: writing
+  body: 'Maak een contentkalender met 3 acties per week in [TARGETLANGUAGE] vanuit
+    het bedrijf Mazars. Deel de kalender op in losse dagen en losse weken. Geef de
+    tabel overzichtelijk weer in een tabel. De content is hyperpersoonlijk en maakt
+    gebruik van een pakkende titel. Maak de content voor de volgende persona: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

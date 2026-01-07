@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3861
+# teaser: Create 10 trivia questions on given topic, including wrong and correct answers to each.
+- id: 3861-10-trivia-questions-with-answers
+  title: 10 Trivia Questions with Answers
+  tags:
+  - writing
+  - trivia
+  - questions
+  - answers
+  family: writing
+  body: Write a set of 10 trivia questions based on [PROMPT] in [TARGETLANGUAGE].
+    Please include 3 wrong answers (each one must be unique and not repeated) and
+    1 correct answer. Try to avoid really easy questions.
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3856
+# teaser: 7 chapters for 10 min video
+- id: 3856-youtube-chapter-generator
+  title: Youtube Chapter Generator
+  tags:
+  - unsure
+  - youtube
+  - chapter
+  - generator
+  family: UNSURE
+  body: "Your task is to create 7 chapter timestamps for a video transcript that has\
+    \ been imported into Adobe Premiere Pro. Avoid using the terms \"Speaker\" or\
+    \ \"Speaker 1\". The timestamps should be formatted as \"minutes:seconds\" without\
+    \ leading zeros and limited to a maximum of 7 timestamps. The timestamps must\
+    \ cover the entire duration of the video and should be evenly spaced out throughout\
+    \ the timeframe. The format of the timestamp should be as follows: Ã¢â‚¬Å“00:14:10\
+    \ - The Purpose of God for HumanityÃ¢â‚¬\x9D\". Only the starting time should be\
+    \ displayed, and the duration should not be shown. Avoid including any additional\
+    \ descriptions for each chapter. Output shall be in [TARGETLANGUAGE]: [PROMPT]"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7464
+# teaser: what RevisionTime: 2023-07-04T13:26:43.963Z
+- id: 7464-hasil-activity-respond-topic-productivity-b5a49cdd0796137a
+  title: "Hasil Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - hasil
+    - activity
+    - respond
+    - topic
+    - productivity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Hasil"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Apa yang kamu ketahui tentang [PROMPT] dalam [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

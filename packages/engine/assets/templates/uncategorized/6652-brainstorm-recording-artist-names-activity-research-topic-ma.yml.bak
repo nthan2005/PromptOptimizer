@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6652
+# teaser: Brainstorm recording artist names based upon a given keyword. RevisionTime:
+# 2023-02-27T08:42:29.544Z
+- id: 6652-brainstorm-recording-artist-names-activity-research-topic-ma
+  title: 'Brainstorm Recording Artist Names Activity: Research Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - brainstorm
+  - recording
+  - artist
+  - names
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1795707268944363520/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Brainstorm Recording Artist Names"](https://www.aiprm.com/prompts/marketing/research/1795707268944363520/)_"
+    --- I''m a new music artist and I want you to help me brainstorm artist names
+    based upon the keyword [PROMPT] Make sure the artist names are not already taken,
+    and make sure that their handles are available on Instagram, Youtube and Spotify.
+    I want you to write only in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

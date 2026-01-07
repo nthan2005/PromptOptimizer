@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8190
+# teaser: Create Instagram Hashtags About My Topic RevisionTime: 2023-02-19T15:35:19Z
+- id: 8190-instagram-hashtags-generator-with-keyword-activity-research
+  title: "Instagram Hashtags Generator With Keyword Activity: Research Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - instagram
+    - hashtags
+    - generator
+    - keyword
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Instagram Hashtags Generator With Keyword"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create 20 Instagram trending hashtags Targeting an LSI Keyword with some search
+    volume for the following Topic: [PROMPT]. No tags, separate keywords by space.
+    Only capitalize proper nouns. [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

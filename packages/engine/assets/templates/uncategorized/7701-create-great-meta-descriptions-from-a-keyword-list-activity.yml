@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7701
+# teaser: Let the AI create some killer, high conversion meta descriptions to use with blog posts.
+# RevisionTime: 2023-02-19T15:35:19Z
+- id: 7701-create-great-meta-descriptions-from-a-keyword-list-activity
+  title:
+    "Create great meta descriptions from a keyword list Activity: ideation Topic:
+    SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - great
+    - meta
+    - descriptions
+    - keyword
+    - list
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create great meta descriptions from
+    a keyword list"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Target Language is [TARGETLANGUAGE] Turn each of the following keywords into
+    a compelling 2nd person meta description. Includes the keyword, exactly as it''s
+    written in the list below, near the beginning of the meta description. The entire
+    description must be at least 130 characters in length, but no longer than 160
+    characters in length: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

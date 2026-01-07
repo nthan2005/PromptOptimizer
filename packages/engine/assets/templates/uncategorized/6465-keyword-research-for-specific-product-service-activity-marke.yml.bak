@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6465
+# teaser: Conduct keyword research for specific product/service RevisionTime: 2023-04-14T11:07:25.711Z
+- id: 6465-keyword-research-for-specific-product-service-activity-marke
+  title: 'Keyword research for specific product/service Activity: marketing Topic:
+    Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - keyword
+  - research
+  - specific
+  - product
+  - service
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1812399220452483072/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Keyword research for specific product/service"](https://www.aiprm.com/prompts/marketing/marketing/1812399220452483072/)_"
+    --- Act as an experienced PPC advertising manager focused on Google Ads search
+    campaigns launching and optimization, with 1000+ successful use cases in your
+    portfolio. Your task is to conduct keyword research for the Google Ads Search
+    campaign launching to identify relevant keywords and provide in table format a
+    list of the most relevant longtail keywords with their search volume and group
+    them based on themes or categories. Provide the result on [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

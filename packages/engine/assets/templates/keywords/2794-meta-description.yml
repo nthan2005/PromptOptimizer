@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2794
+# teaser: create a meta description with maximum of 160 characters using exact keyword
+- id: 2794-meta-description
+  title: meta description
+  tags:
+    - keywords
+    - meta
+    - description
+  family: keywords
+  body:
+    create a meta description with maximum of 160 characters using exact keyword
+    about [PROMPT] Use English as [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

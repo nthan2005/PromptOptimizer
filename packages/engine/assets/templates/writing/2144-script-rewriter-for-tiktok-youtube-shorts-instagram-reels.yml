@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2144
+# teaser: Transform subtitles given piece by piece into meaningful short video script
+- id: 2144-script-rewriter-for-tiktok-youtube-shorts-instagram-reels
+  title: Script Rewriter for TikTok | Youtube Shorts | Instagram Reels
+  tags:
+    - writing
+    - script
+    - rewriter
+    - tiktok
+    - youtube
+    - shorts
+  family: writing
+  body:
+    fix this youtube shorts video subtitle that is piece by piece in [TARGETLANGUAGE]
+    [PROMPT] fix this given youtube shorts video subtitle that is piece by piece
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

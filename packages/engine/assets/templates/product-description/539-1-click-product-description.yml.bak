@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 539
+# teaser: Create an outstanding product description in 1 click by just submitting your [Keyword or
+# Product Name]
+- id: 539-1-click-product-description
+  title: 1 Click Product Description
+  tags:
+    - product-description
+    - click
+    - product
+    - description
+  family: Product Description
+  body: "[PROMPT] [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

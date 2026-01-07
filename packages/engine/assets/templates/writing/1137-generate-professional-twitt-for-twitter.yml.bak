@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1137
+# teaser: Generate Professional Twitt for Twitter
+- id: 1137-generate-professional-twitt-for-twitter
+  title: Generate Professional Twitt for Twitter
+  tags:
+  - writing
+  - generate
+  - professional
+  - twitt
+  - twitter
+  family: writing
+  body: Generate Professional Twitt for Twitter in [TARGETLANGUAGE] from given [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

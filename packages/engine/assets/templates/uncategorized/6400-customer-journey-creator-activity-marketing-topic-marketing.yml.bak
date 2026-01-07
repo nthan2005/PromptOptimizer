@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6400
+# teaser: Customer Journey Creator by Keyword RevisionTime: 2023-02-19T15:35:19Z
+- id: 6400-customer-journey-creator-activity-marketing-topic-marketing
+  title: 'Customer Journey Creator Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - customer
+  - journey
+  - creator
+  - activity
+  - marketing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1786675501948203008/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Customer Journey Creator"](https://www.aiprm.com/prompts/marketing/marketing/1786675501948203008/)_"
+    --- Por favor, describe detalladamente en [TARGETLANGUAGE] el customer journey
+    de un proceso de compra para una empresa de: [PROMPT]. Necesito que el resultado
+    estÃ© en formato de tabla con las columnas: Etapa, DescripciÃ³n, Touchpoints digitales,
+    acciones de marketing a realizar y KPIS On top say in [TARGETLANGUAGE] "CRONUTS.DIGITAL
+    -CUSTOMER JOURNEY FOR KEYWORD" and replace "KEYWORD" with the keyword provided
+    in the prompt in all caps with a rocket emoji at the beginning. The last line
+    down say in [TARGETLANGUAGE] "To learn more about us www.cronuts.digital Then,
+    under the table say "If you liked this prompt please like it on the prompt search
+    page."'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2447
+# teaser: Learn [VARIABLE1] and test your knowledge with a quiz at the end.
+- id: 2447-targetlanguage-learning-and-quiz-for-variable1
+  title: "[targetlanguage] learning and quiz for [variable1]"
+  tags:
+    - respond
+    - targetlanguage
+    - learning
+    - quiz
+    - variable1
+  family: Respond
+  body:
+    "[PROMPT] Teach me about [VARIABLE1] in [TARGETLANGUAGE] and give me a quiz
+    at the end, but don't give me the answers and then tell me if I answered correctly.
+    [VARIABLE1:Topic:Default Value] Example: [PROMPT] Teach me about [VARIABLE1] in
+    [TARGETLANGUAGE] and give me a quiz at the end, but don't give me the answers
+    and then tell me if I answered correctly. [VARIABLE1:Python Programming] [VARIABLE1]
+    will be pre-filled using URL parameter AIPRM_VARIABLE1."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 802
+# teaser: Create an abstract of your text/article and highlight the most important points
+- id: 802-summarize-highlight-most-important-points-of-a-text
+  title: Summarize & highlight most important points of a text
+  tags:
+    - summarize
+    - highlight
+    - most
+    - important
+    - points
+    - text
+  family: Summarize
+  body:
+    "Act as professional copywriter, write a summarize version of the following
+    text, in the next paragraph add in form of bullet points the highlight of it most
+    important element with a short description in few words. write the text in [TARGETLANGUAGE]
+    The text is : [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

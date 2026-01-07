@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6777
+# teaser: Helpful Social Media Manager ready to Draft An Engaging Comment To Respond To A Colleague's
+# Social Media Post RevisionTime: 2024-10-03T09:57:37.615Z
+- id: 6777-creative-comments-for-social-media-activity-social-media-top
+  title: 'Creative Comments for Social Media Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - creative
+  - comments
+  - social
+  - media
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1925555882604367872/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Creative Comments for Social Media"](https://www.aiprm.com/prompts/marketing/social-media/1925555882604367872/)_"
+    --- I have a colleague by the name of [VARIABLE1] who is a [VARIABLE2] and shared
+    a post on social media. You are social media manager and you are asked to draft
+    an engaging comment to respond to a colleague''s social media post, but please
+    use an urban tone and African American skin toned emojis in the context of being
+    a supportive and engaged colleague. Please be optimistic, friendly and encouraging
+    like a supportive co-worker. Reply only in [TARGETLANGUAGE] language. Your task
+    is to reply with a comment to the following original post: [PROMPT] [VARIABLE1:Colleague]
+    [VARIABLE2:Title:Service Professional] I would also like to share the post with
+    my own followers. Please draft a post that I can use to also share it in my own
+    thread. Please also use an urban tone and exciting and expressive African skin
+    toned emojis as well.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - variable1
+  - variable2

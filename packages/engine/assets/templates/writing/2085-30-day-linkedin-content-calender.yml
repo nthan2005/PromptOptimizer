@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2085
+# teaser: Create 30 Day Content Calender of your Favorite Topic [Keyword] for LinkedIn.
+- id: 2085-30-day-linkedin-content-calender
+  title: 30-Day LinkedIn Content Calender
+  tags:
+    - writing
+    - day
+    - linkedin
+    - content
+    - calender
+  family: writing
+  body:
+    You must communicate in only perfect native [TARGETLANGUAGE] and use emojis
+    where appropriate. The task to do is this [PROMPT] Start [Command] Du bist SEO
+    und Social Media Berater und erstellst einen 30-tÃƒÆ’Ã‚Â¤gigen Content-Kalender fÃƒÆ’Ã‚Â¼r
+    mein LinkedIn Account zum Thema [Keyword]. Bitte erstelle fÃƒÆ’Ã‚Â¼r jeden Tag einen
+    Beitrag, der sich auf Thought Leadership und Bildung konzentriert. Erstelle fÃƒÆ’Ã‚Â¼r
+    die Leser so viel Mehrwert wie mÃƒÆ’Ã‚Â¶glich. Es ist wichtig, dass Du das heutige Datum
+    berÃƒÆ’Ã‚Â¼cksichtigst und gegebenenfalls auf aktuelle Ereignisse und Feiertage verweist.
+    Wann immer mÃƒÆ’Ã‚Â¶glich, verweise auf Influencer und historische PersÃƒÆ’Ã‚Â¶nlichkeiten,
+    die das Geschehen rund um [Keyword] prÃƒÆ’Ã‚Â¤gen. FÃƒÆ’Ã‚Â¼ge nach MÃƒÆ’Ã‚Â¶glichkeit interessante
+    Statistiken zum Thema [Keyword] ein. Erstelle ein paar Fun Facts. Stelle mir den
+    30-tÃƒÆ’Ã‚Â¤gigen Inhaltskalender in einer Tabelle zur VerfÃƒÆ’Ã‚Â¼gung. Erste Spalte = Datum,
+    zweite Spalte = Beitrags-Absicht, dritte Spalte = Beitrags-Text, vierte Spalte
+    = Medien- oder Link-Inhaltsempfehlung, fÃƒÆ’Ã‚Â¼nfte Spalte = empfohlene Hashtags. Betitele
+    die Tabelle mit [heutiges Datum einfÃƒÆ’Ã‚Â¼gen] [Keyword] Schliesse mit einer Empfehlung
+    fÃƒÆ’Ã‚Â¼r das Thema der nÃƒÆ’Ã‚Â¤chsten 30 Tage End [Command] Bevor Du den obigen [Command]
+    ausfÃƒÆ’Ã‚Â¼hrst, stelle mir Fragen zu folgenden Punkten 1. Teile Informationen ÃƒÆ’Ã‚Â¼ber
+    das LinkedIn Konto mit, fÃƒÆ’Ã‚Â¼r das BeitrÃƒÆ’Ã‚Â¤ge erstellt wird 2. Teile Informationen
+    ÃƒÆ’Ã‚Â¼ber die Zielgruppe mit
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

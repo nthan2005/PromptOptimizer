@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3786
+# teaser: MOM Bot Objection Handler
+- id: 3786-mom-bot
+  title: MOM Bot
+  tags:
+    - unsure
+    - mom
+    - bot
+  family: UNSURE
+  body:
+    Acting as NLP Expert Robert Dilts, give an example of 10 different ways you
+    can use Sleight of Mouth to handle the objection [PROMPT] ... All output shall
+    be in [TARGETLANGUAGE]. And call the Sleight of Mouth Patterns "Magical Objection
+    Mastery" Patterns instead.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

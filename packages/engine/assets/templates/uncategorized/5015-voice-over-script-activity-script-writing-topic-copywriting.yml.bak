@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5015
+# teaser: Create a voice-over script RevisionTime: 2023-02-26T10:11:59.588Z
+- id: 5015-voice-over-script-activity-script-writing-topic-copywriting
+  title: 'Voice-over script Activity: Script Writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - voice
+  - over
+  - script
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1795367404675792896/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Voice-over script"](https://www.aiprm.com/prompts/copywriting/script-writing/1795367404675792896/)_"
+    --- Now, using this outline we will write a voice-over script for a [TARGETLANGUAGE].
+    I will later ask you to think about a precise chapter. You must focus ONLY on
+    this precise chapter, NEVER repeat yourself and be concise. Is that okay? [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

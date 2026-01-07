@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5430
+# teaser: Through this prompt you can become a professional poetry writer with 1-click. Please leave a
+# Thumbs-up. RevisionTime: 2023-10-21T11:35:30.527Z
+- id: 5430-creative-poem-writer-activity-writing-topic-copywriting-00ea
+  title: 'Creative Poem Writer Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - creative
+  - poem
+  - writer
+  - activity
+  - writing
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1875852987588141056/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Creative Poem Writer\"](https://www.aiprm.com/prompts/copywriting/writing/1875852987588141056/)_\"\
+    \ --- Act as a motivational speaker. I want you to write a long rhyming motivational\
+    \ speech, like a poem, to use in the video. Please do not use, Ladies and Gentlemen,\
+    \ as an introduction, and do not use the term â€œmy friend, my dear friend or\
+    \ my fellowâ€\x9D or anything related to these terms in this poem. The topic is:\
+    \ Reply only in [TARGETLANGUAGE] language. Your task is: [PROMPT] Please write\
+    \ in a Confident tone and Poetic writing style."
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

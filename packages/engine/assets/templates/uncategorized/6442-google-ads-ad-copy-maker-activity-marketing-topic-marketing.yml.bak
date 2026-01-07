@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6442
+# teaser: Create attention grabbing headlines and descriptions for your Google Campaign Ad Copy
+# related to your niche or keywords RevisionTime: 2024-01-04T22:11:33.254Z
+- id: 6442-google-ads-ad-copy-maker-activity-marketing-topic-marketing
+  title: 'Google Ads Ad-Copy Maker Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - google
+  - ads
+  - copy
+  - maker
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1806030227089129472/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Google Ads Ad-Copy Maker"](https://www.aiprm.com/prompts/marketing/marketing/1806030227089129472/)_"
+    --- Give 20 attention grabbing headlines and 10 attention grabbing descriptions
+    for google ads ad copy in [TARGETLANGUAGE] language and related to [PROMPT] niche
+    or keyword in table format separately. description and headline should follow
+    the rules of google ad copy. Include promotional discount in at least 2 headlines.
+    Avoid the word "academic" in both headlines and descriptions.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

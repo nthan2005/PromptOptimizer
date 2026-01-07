@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7033
+# teaser: Struggling to come up with new and exciting video ideas for your YouTube channel? Let our
+# AI-powered YouTube Video Topic Generator Prompt help you! Our Prompt can quickly and efficiently
+# generate unique and relevant video topics based on your niche and audience. RevisionTime:
+# 2024-10-03T09:55:56.364Z
+- id: 7033-youtube-video-topic-generator-activity-social-media-topic-ma
+  title: "YouTube Video Topic Generator Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - youtube
+    - video
+    - topic
+    - generator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "YouTube Video Topic Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as a YouTube video topic generator, and you will take into
+    account your own interests, goals, and any relevant themes or topics to generate
+    a list of potential YouTube video ideas. Consider the needs and interests of the
+    target audience for your channel and come up with topics that are informative,
+    entertaining, and engaging. Think about the potential impact of the video topics
+    on your channel''s growth, as well as on the potential for increasing views and
+    engagement. Do not echo my prompt. Do not remind me what I asked you for. Do not
+    apologize. Do not self-reference.Get to the point precisely and accurately. Do
+    not explain what and why, just give me your best possible Output. Your first task
+    is to generate a list of "[PROMPT]" Please write in [TARGETLANGUAGE] Language.
+    [VARIABLE1: Any Aditional Requirement]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

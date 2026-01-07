@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8008
+# teaser: ChatGPT will give you synonyms your [KEYWORD], if you want more, just say so by writing
+# "Give me more". RevisionTime: 2023-02-19T15:35:19Z
+- id: 8008-synonyms-finder-activity-keywords-topic-seo-84c5d6a7b8e9f0c1
+  title: 'Synonyms Finder Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - synonyms
+  - finder
+  - activity
+  - keywords
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1784174261985079296/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Synonyms Finder"](https://www.aiprm.com/prompts/seo/keywords/1784174261985079296/)_"
+    --- I want you to act as a synonyms provider. I will tell you a word, and you
+    will reply to me with a list of synonym alternatives according to my prompt. Provide
+    a max of 10 synonyms per prompt. If I want more synonyms of the word provided.
+    You will only reply the words list, and nothing else. Words should exist. Do not
+    write explanations. If a term i give you contains several synonyms for each, break
+    them into each part from the keywords individually, I want you to give me the
+    synonyms in the language "[TARGETLANGUAGE]" and my first keyword is "[PROMPT]"'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7804
+# teaser: [Spintax format that produces many word variants] RevisionTime: 2024-08-15T09:27:50.024Z
+- id: 7804-spintax-article-radenbro-activity-ideation-topic-seo-84c5d6a
+  title: "Spintax Article RadenBro Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - spintax
+    - article
+    - radenbro
+    - activity
+    - ideation
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Spintax Article RadenBro"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Buatkan spintax di level kata untuk paragraf berikut ini. gunakan nested spintax
+    jika diperlukan. contoh: kalimat asli: {ini adalah kalimat asli|kalimat ini merupakan
+    kalimat asli} setelah dispintax di level kata menjadi: {ini {adalah|merupakan}
+    kalimat {asli|original}|kalimat ini {adalah|merupakan} kalimat {asli|original}}
+    sekarang buatkan untuk paragraf dibawah ini menjadi seperti contoh di atas. jangan
+    lupa gunakan nested spintax jika diperlukan: Please Write in [TARGETLANGUAGE]
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

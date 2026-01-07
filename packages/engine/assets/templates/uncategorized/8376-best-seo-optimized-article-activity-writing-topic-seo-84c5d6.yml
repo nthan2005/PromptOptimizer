@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8376
+# teaser: Helpful Writer ready to Write A Unique, Seo Optimized Article RevisionTime:
+# 2023-09-25T13:15:12.285Z
+- id: 8376-best-seo-optimized-article-activity-writing-topic-seo-84c5d6
+  title: "Best SEO Optimized Article Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - seo
+    - optimized
+    - article
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best SEO Optimized Article"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are writer and you are asked to write a unique, SEO optimized article,
+    but content must be 100% unique and pass plagiarism checks in the context of e-commerce
+    product descriptions. Also, use synonym and other related keywords in content.
+    Reply only in [TARGETLANGUAGE] language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

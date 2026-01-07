@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5943
+# teaser: Create a 3-part content for Instagram text info carousels from an exact title RevisionTime:
+# 2023-03-25T12:33:27.912Z
+- id: 5943-text-for-informative-carousel-activity-writing-topic-copywri
+  title: "Text for Informative Carousel Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - text
+    - informative
+    - carousel
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Text for Informative Carousel"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create a cohesive 3-part essay each part 100 words [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

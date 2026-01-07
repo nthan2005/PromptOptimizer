@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3309
+# teaser: Proofreading for your blog posts - Enter the content and I will proofread and provide you
+# the best content.
+- id: 3309-proofreading-for-your-blog-posts
+  title: Proofreading For Your Blog Posts.
+  tags:
+    - writing
+    - proofreading
+    - blog
+    - posts
+  family: writing
+  body:
+    Please clear all the previous instructions and your new task is to proofread
+    the following content for a blogpost in [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

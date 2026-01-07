@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5452
+# teaser: Duplciate RevisionTime: 2024-04-03T16:21:48.793Z
+- id: 5452-duplciate-activity-writing-topic-copywriting-00ea56f44641428
+  title: "Duplciate Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - duplciate
+    - activity
+    - writing
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Duplciate"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I have a list of questions, and I would like to identify if you found any
+    duplicate questions for the list of questions by carefully going through all the
+    questions one by one. The duplicates don''t need to be similar in the same number
+    of words, but mark them as duplicates if two sentences make the same scene. For
+    example, these two questions are not the same in words and characters but make
+    the same sense Mark them as duplicates and show output Duplicate: 1 and 5 1. Is
+    it possible for you to dislike an actor so much that it ruins that actor''s movies?
+    5. Is it possible to dislike an actor so much that you won''t watch their films,
+    even if they''re good? After you find the duplicate question, replace it with
+    replacement questions, keep the tone of the replaced question the same. Bold the
+    replaced question After you replace write them again Content: [PROMPT] All output
+    shall be in [TARGETLANGUAGE]. These words are: [PROMPT] , [PROMPT] , [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

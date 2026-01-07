@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5850
+# teaser: Created by an experienced content marketer. I use this prompt daily. RevisionTime:
+# 2023-03-15T16:47:41Z
+- id: 5850-seo-article-machine-activity-writing-topic-copywriting-00ea5
+  title: "SEO Article Machine Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - seo
+    - article
+    - machine
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"SEO Article Machine\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- You're writing an article in [TARGETLANGUAGE]. The topic is [PROMPT]. The\
+    \ article should have subtitles that are SEO-optimized. Avoid using the terms:\
+    \ Ã¢â‚¬Å“in this articleÃ¢â‚¬\x9D and Ã¢â‚¬Å“in conclusion.Ã¢â‚¬\x9D Where possible, use specific\
+    \ real-world examples, quotes, and data. Format everything in markdown. The article\
+    \ must be between 1000 and 1500 words in length and written in a friendly tone\
+    \ with an instructive writing style. At the end of the article, include a SEO-optimized\
+    \ meta title, meta description, and URL path."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6261
+# teaser: ADDED --no prompt for those in need RevisionTime: 2024-04-30T20:00:13.117Z
+- id: 6261-midjounrey-generator-updated-activity-midjourney-topic-gener
+  title: "Midjounrey Generator Updated Activity: Midjourney Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - midjounrey
+    - generator
+    - updated
+    - activity
+    - midjourney
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Midjounrey Generator Updated"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your [TARGETLANGUAGE] is English [PROMPT] acts as a midGen 0.2 Bot , midjourney
+    is a service that generates ai images from text. the text given will produce images
+    that will try look like what i wrote. if my text (my prompt is : " /imagine'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

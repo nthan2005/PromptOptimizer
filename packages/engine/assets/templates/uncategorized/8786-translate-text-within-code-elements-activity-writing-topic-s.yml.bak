@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8786
+# teaser: Translate text within code to another language, but leave code elements as they are (i.e.
+# for WPML) RevisionTime: 2023-02-23T16:37:02Z
+- id: 8786-translate-text-within-code-elements-activity-writing-topic-s
+  title: 'Translate text within code elements Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - translate
+  - text
+  - within
+  - code
+  - elements
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1794376914773995520/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Translate text within code elements"](https://www.aiprm.com/prompts/seo/writing/1794376914773995520/)_"
+    --- Please translate the text to [TARGETLANGUAGE] but do not change the code elemtents.
+    I just want you to translate the text. Here is the code: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

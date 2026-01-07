@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1631
+# teaser: Answered like Human
+- id: 1631-answered-like-human
+  title: Answered like Human
+  tags:
+    - dall-e
+    - answered
+    - like
+    - human
+  family: Dall-E
+  body:
+    ChatGPT must be instructed to produce output in the target language using
+    the [TARGETLANGUAGE] placeholder variable data entered by the user must be inserted
+    into the Prompt using the [PROMPT] placeholder
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

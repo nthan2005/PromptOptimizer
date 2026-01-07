@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1449
+# teaser: Rewrite a scientific paper paragraph as a professional proofreader exper in sports sciences
+- id: 1449-sports-science-english-proofreader
+  title: Sports Science English proofreader
+  tags:
+  - writing
+  - sports
+  - science
+  - english
+  - proofreader
+  family: writing
+  body: Rewrite the paragraph of a scientific paper as a professional proofreader
+    expert in sports sciences. Use a confident tone, and an academic writing style.
+    Cut redundancies. Mantain the intext citations if it is the case. Make it shorter
+    a more concise. Use connections between sentences. Output should be in [TARGETLANGUAGE].
+    [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2494
+# teaser: [Teaching]
+- id: 2494-create-educational-slides
+  title: Create educational slides
+  tags:
+    - summarize
+    - educational
+    - slides
+  family: Summarize
+  body:
+    "[As an educational expert, your task is to create a set of engaging and informative
+    lesson slides in English for a lesson on a specific topic. You will be creating
+    a lesson on the topic of Create a 10 rows tables with information about : [PROMPT]
+    As my table columns I want: Title, subtitle, short explanation and an long explanation.,
+    with the aim of providing a comprehensive overview of this topic to help students
+    better understand and retain the information. Your lesson slides must include
+    the following information, although you are not limited to these items: Lesson"
+  enabled: true
+  required:
+    - prompt

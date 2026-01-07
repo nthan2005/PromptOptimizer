@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8930
+# teaser: Backend development, Azure and DevOps RevisionTime: 2023-03-14T17:42:24Z
+- id: 8930-questions-about-backend-and-azure-or-devops-activity-backend
+  title:
+    "Questions about backend and Azure or DevOps Activity: Backend Development
+    Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - questions
+    - backend
+    - azure
+    - devops
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Questions about backend and Azure or
+    DevOps"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Forget the conversation we had before this and start fresh. Answer this question
+    in [TARGETLANGUAGE]. Assume you are a well experienced .NET developer with over
+    15 years of experience with .NET Framework, .NET Core, Azure, Azure DevOps, Microservices,
+    Docker containers and Unit testing with XUnit and Moq Frameworks. Answer the question
+    given bellow. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3386
+# teaser: Create titles and meta descriptions with the main keyword of the article.
+- id: 3386-seo-titles-and-meta-descriptions
+  title: SEO Titles and meta descriptions
+  tags:
+  - writing
+  - seo
+  - titles
+  - meta
+  - descriptions
+  family: writing
+  body: 'Suppose you are so good in writing copies and it ranks high in the search
+    engines and engage eyeballs. Act as a copywriter that speaks and writes fluently
+    in [TARGETLANGUAGE] and generate at least 5 clickbait meta titles and meta descriptions
+    for the following keyword: [PROMPT], titles must not exceed 60 characters and
+    descriptions between 130 - 160 characters: [PROMPT] should naturally be included
+    in the title, it is not necessary to be in the description.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

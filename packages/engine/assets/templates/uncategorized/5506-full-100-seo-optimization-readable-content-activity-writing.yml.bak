@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5506
+# teaser: Create the best and SEO Friendly Long Blog Content RevisionTime: 2023-03-21T12:11:29Z
+- id: 5506-full-100-seo-optimization-readable-content-activity-writing
+  title: 'Full 100% SEO Optimization Readable Content Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - full
+  - '100'
+  - seo
+  - optimization
+  - readable
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1803671963135381504/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Full 100% SEO Optimization Readable
+    Content"](https://www.aiprm.com/prompts/copywriting/writing/1803671963135381504/)_"
+    --- Write a unique and 100% Human-readable blog Long content minimum of 1050 words
+    or a maximum of 5000 words. Include SEO Friendly Bold Title. Use H1, H2, H3, H4,
+    H5 blod text. Include FAQ for the blog, Meta Title, Meta Description, Focus Keywords,
+    and Tags. All output will be in [TARGETLANGUAGE] The text to summarize is this:
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

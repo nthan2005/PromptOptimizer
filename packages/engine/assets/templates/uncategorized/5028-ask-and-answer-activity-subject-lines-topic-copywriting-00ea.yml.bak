@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5028
+# teaser: Ask questions and answer to them RevisionTime: 2023-12-20T01:30:13.274Z
+- id: 5028-ask-and-answer-activity-subject-lines-topic-copywriting-00ea
+  title: 'Ask and answer Activity: Subject Lines Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - answer
+  - activity
+  - subject
+  - lines
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/subject-lines/1799504025813782528/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Ask and answer"](https://www.aiprm.com/prompts/copywriting/subject-lines/1799504025813782528/)_"
+    --- Ask me 15 questions and answer to them about this text in [TARGETLANGUAGE].
+    Put your answers into a excel table with "Questions" on the left and "Answers"
+    on the right: "[PROMPT]" Use only provided informations'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

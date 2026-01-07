@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7026
+# teaser: Get 50 youtube video ideas about given topic RevisionTime: 2024-10-03T09:54:14.349Z
+- id: 7026-youtube-video-ideas-activity-social-media-topic-marketing-cc
+  title: "Youtube video ideas Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - youtube
+    - video
+    - ideas
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Youtube video ideas"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Hey ChatGPT, can you give me 50 video ideas about this topic - [PROMPT] in
+    [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

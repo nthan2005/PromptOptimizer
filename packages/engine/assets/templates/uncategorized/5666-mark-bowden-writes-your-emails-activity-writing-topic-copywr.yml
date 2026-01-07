@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5666
+# teaser: Mark Bowden writes an email for you the only way he knows how, or almost! Just input [your
+# recipient's name, what you're emailing about] RevisionTime: 2023-02-22T04:12:45Z
+- id: 5666-mark-bowden-writes-your-emails-activity-writing-topic-copywr
+  title: "Mark Bowden Writes Your Emails Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - mark
+    - bowden
+    - writes
+    - emails
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Mark Bowden Writes Your Emails"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to write a friendly professional email including all typical
+    elements, writing to the recipient:[PROMPT]. You shall write regarding or about
+    the subject:[PROMPT]. All output shall be in the writing style of human behavior
+    expert Mark Bowden. All output shall not mention Mark Bowden''s expertise or behavioral
+    analysis explicitly in the email. All output shall be in [TARGETLANGUAGE] formatted
+    for standard email clients.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

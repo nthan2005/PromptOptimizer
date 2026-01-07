@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8277
+# teaser: Create fully SEO optimized Press Release with Just an one keyword RevisionTime:
+# 2023-03-18T07:49:22Z
+- id: 8277-100-human-written-seo-optimized-press-release-activity-writi
+  title:
+    "100% Human Written |SEO Optimized Press Release Activity: writing Topic:
+    SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - "100"
+    - human
+    - written
+    - seo
+    - optimized
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"100% Human Written |SEO Optimized\
+    \ Press Release\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- I want you to respond only in [TARGETLANGUAGE] and in the style of an expert\
+    \ press release content writer. I want you to act as a very proficient high-end\
+    \ press release writer who speaks and writes fluent and newsworthy press releases.\
+    \ Write the text as detailed as possible, min 800 words. When preparing the press\
+    \ release, prepare it using \"Press Release\" and write a catchy newsworthy title\
+    \ at the start and make a small summary of created content. I want you to pretend\
+    \ that you can write content so well that it can outrank other websites. Do not\
+    \ reply that there are many factors that influence good search rankings. I know\
+    \ that quality of content is just one of them, and it is your task to write the\
+    \ best possible quality content here, not to lecture me on general rules. HereÃ¢â‚¬â„¢s\
+    \ a keyword written on it: [PROMPT] In the end add Thanks \"Kashyap RathodÃ¢â‚¬\x9D\
+    ."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

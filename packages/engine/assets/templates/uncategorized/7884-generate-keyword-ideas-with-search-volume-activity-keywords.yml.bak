@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7884
+# teaser: Generate keyword ideas and show CPC and search volume at the same time. RevisionTime:
+# 2023-06-05T14:51:37.45Z
+- id: 7884-generate-keyword-ideas-with-search-volume-activity-keywords
+  title: 'Generate keyword ideas with search volume Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - generate
+  - keyword
+  - ideas
+  - search
+  - volume
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1831309175960109056/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Generate keyword ideas with search
+    volume"](https://www.aiprm.com/prompts/seo/keywords/1831309175960109056/)_" ---
+    generate a table for 10 related keywords 2-5 words with cpc , difficulty, and
+    volume on the basis of user search intent by country which i given on the following
+    primary keyword: also write source of cpc [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

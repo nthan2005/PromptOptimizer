@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7061
+# teaser: Create a summarize of Insoft4 Portals RevisionTime: 2024-04-29T17:24:42.416Z
+- id: 7061-tell-me-more-about-insoft4-activity-unmet-category-related-n
+  title:
+    "Tell me more about Insoft4 Activity: Unmet Category-Related Needs Topic:
+    Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - tell
+    - more
+    - insoft4
+    - activity
+    - unmet
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Tell me more about Insoft4"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to summarize the website Insoft4.com.br in a paragraph or larger
+    text. All output must be in [TARGETLANGUAGE]. The site to summarize is this: https://www.insoft4.com.br
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3300
+# teaser: Blog like pro! Create 100% SEO Optimized Blog Post > 1 Click magic fully optimized blog post
+# , just add your focus keyword and > Voila > try it NOW
+- id: 3300-pro-blogger-v1-5-updated
+  title: Pro Blogger V1.5 "Updated"
+  tags:
+    - writing
+    - pro
+    - blogger
+    - updated
+  family: writing
+  body: |
+    act as professional writer who's expert in SEO, all the output shall be
+        in [TARGETLANGUAGE], make deep research based on the targeted keyword in the prompt
+        and generate at least 2000 words article based on the following: - blog post optimized
+        title - make outlines strategy with focus related keywords and add long paragraph
+        for each outline but don't list the outlines , just add each outline separate
+        with content and explanation - use markdown format with h2 ,h3 and list points
+        -make sure to include in the middle of the content some useful table -add at least
+        3 quotes related from authority websites related to the topic with embed link
+        back to the source - make the blog post very helpful and engaging - give accurate
+        information that makes the content an authority in the field -don't copy from
+        other sites make the content unique - add 5 faq with answers - give at least 5
+        examples , solutions and help for the readers [PROMPT]"
+
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

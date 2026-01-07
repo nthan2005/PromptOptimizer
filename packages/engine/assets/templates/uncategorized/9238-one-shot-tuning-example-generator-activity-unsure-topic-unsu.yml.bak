@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9238
+# teaser: You just describe what u want to be added to your code. Assistent then writes the code and
+# implements it in your existing code. Then he does debug and optimize the code and return it to you.
+# RevisionTime: 2023-04-04T00:13:59.805Z
+- id: 9238-one-shot-tuning-example-generator-activity-unsure-topic-unsu
+  title: 'One Shot Tuning example Generator Activity: UNSURE Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - one
+  - shot
+  - tuning
+  - example
+  - generator
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1793459019952939008/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "One Shot Tuning example Generator"](https://www.aiprm.com/prompts/unsure/unsure/1793459019952939008/)_"
+    --- Als Content-Ersteller ist es wichtig, effektive Beispiele zu liefern, die
+    das Modell beim One Shot Fine Tuning verbessern kÃ¶nnen. Ãœberlege, welche Art
+    von Inhalten dein Zielbenutzer erstellt und wie du diese Beispiele am besten formatieren
+    kannst, um dem Modell zu helfen, schnell und genau zu lernen. Erstelle drei Beispiele,
+    die auf den Inhalten des Nutzers basieren und formatiere sie richtig fÃ¼r das
+    One Shot Fine Tuning. Meine erste Aufgabe ist ''[PROMPT]''. Die Ziel-Sprache ist
+    ''[TARGETLANGUAGE]''.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

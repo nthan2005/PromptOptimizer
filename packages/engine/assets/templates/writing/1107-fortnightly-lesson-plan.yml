@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1107
+# teaser: With just one click, you can generate a bi-weekly lesson plan, including learning
+# verification questions. Save time and focus on what really matters: preparing amazing lessons for
+# your students!
+- id: 1107-fortnightly-lesson-plan
+  title: Fortnightly Lesson Plan
+  tags:
+    - writing
+    - fortnightly
+    - lesson
+    - plan
+  family: writing
+  body:
+    'InstruÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Âµes: Construir um plano de aula contendo o conteÃƒÆ’Ã‚Âºdo programÃƒÆ’Ã‚Â¡tico
+    [KEYWORD]. Deve conter as expectativas de aprendizagem que sÃƒÆ’Ã‚Â£o da bncc para o
+    ensino mÃƒÆ’Ã‚Â©dio, onde as expectativas devem ser precedidas das siglas (para essa
+    parte utilize o que estÃƒÆ’Ã‚Â¡ no documento do link: "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf");
+    a estratÃƒÆ’Ã‚Â©gia de ensino (utilize como exemplo o seguinte: Aula com exposiÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o
+    do conteÃƒÆ’Ã‚Âºdo com auxÃƒÆ’Ã‚Â­lio de data show. ApresentaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o de situaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Âµes problemas
+    para resoluÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o e consolidaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o dos conhecimentos.); o material utilizado (sala
+    de aula, data show, formulÃƒÆ’Ã‚Â¡rios, impressÃƒÆ’Ã‚Âµes, google colab, chromebooks,). Crie
+    uma situaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o problema sobre [KEYWORD], para avaliar os conhecimentos dos alunos
+    sobre o conteÃƒÆ’Ã‚Âºdo inserido. Inserir 5 questÃƒÆ’Ã‚Âµes do ENEM ou estilo ENEM, sobre
+    o [KEYWORD] com as respostas. O formato da resposta serÃƒÆ’Ã‚Â¡ assim: TÃƒÆ’Ã‚Â­tulo: Plano
+    de aula semanal para Ensino MÃƒÆ’Ã‚Â©dio Data: [insira a data atual do sistema ] atÃƒÆ’Ã‚Â©
+    [data inicial do sistema mais 7 dias] ConteÃƒÆ’Ã‚Âºdo programÃƒÆ’Ã‚Â¡tico: [KEYWORD] Expectativa
+    de Aprendizagem EstratÃƒÆ’Ã‚Â©gia de Ensino Material Utilizado Toda a saÃƒÆ’Ã‚Â­da deve estar
+    em [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

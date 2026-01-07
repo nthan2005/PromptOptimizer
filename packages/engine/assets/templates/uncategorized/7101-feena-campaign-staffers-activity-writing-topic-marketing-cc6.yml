@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7101
+# teaser: Feena Campaign Staffers RevisionTime: 2024-03-08T13:52:20.595Z
+- id: 7101-feena-campaign-staffers-activity-writing-topic-marketing-cc6
+  title: "Feena Campaign Staffers Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - feena
+    - campaign
+    - staffers
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Feena Campaign Staffers"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a person for this position [TARGETLANGUAGE] [PROMPT], They are a Libertarian
+    and are working on the Feena Bonoan for US Senate in the state of Florida. Write
+    in [TARGET LANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

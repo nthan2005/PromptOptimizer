@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3272
+# teaser: Optimized and Write your Web Image Title, Description, Caption, and Alternative text in One
+# Click!
+- id: 3272-optimized-your-web-image-in-one-click
+  title: Optimized your Web Image in One Click!
+  tags:
+  - writing
+  - optimized
+  - web
+  - image
+  - one
+  - click
+  family: writing
+  body: Take on the persona of an expert SEO writer. Your tasks is to write an optimized
+    image title, description, caption, and alternative text of the image description
+    I give you. write all output in [TARGETLANGUAGE]. The goal of this is to optimized
+    web images faster in one click. [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

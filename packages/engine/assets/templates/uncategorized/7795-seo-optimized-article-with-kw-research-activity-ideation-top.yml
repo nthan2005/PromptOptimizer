@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7795
+# teaser: SEO Optimized Article with KW Research RevisionTime: 2023-05-05T10:48:10.84Z
+- id: 7795-seo-optimized-article-with-kw-research-activity-ideation-top
+  title: "SEO Optimized Article with KW Research Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - seo
+    - optimized
+    - article
+    - research
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SEO Optimized Article with KW Research"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Based on the SERPs, do a keyword research on [PROMPT]. Using those keywords,
+    write a 100% unique & creative article of 1600 words using ## heading ## and #
+    subheadings #. Writing style should be authoritative and conversational. Use fully
+    detailed paragraphs that engage the reader. Break down long paragraphs for better
+    readability. Add bullet points or numbered list (if needed). The article should
+    inclide a creative title (can be in a form of listicle, how-to or personal experience
+    or other engaging forms of title), meta description, # Introduction #. Make sure
+    thearticle is plagiarism free. Try to use [PROMPT] 2-3 times in the article, long-tail
+    keywords of [PROMPT], and keyword variations of [PROMPT] in the article. In the
+    very bottom of the article, give 5 sources. All output shall be in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

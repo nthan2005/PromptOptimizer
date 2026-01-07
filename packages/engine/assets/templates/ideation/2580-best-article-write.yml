@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2580
+# teaser: Write SEO Optimized 100% Unique Long Form Article For Your Blog. With FAQ.
+- id: 2580-best-article-write
+  title: Best Article Write
+  tags:
+    - ideation
+    - article
+    - write
+  family: ideation
+  body:
+    Write 2000-2500 Words Blog post Article with a in-depth outline and 5 FAQ(Frequently
+    Ask Questions). And Explain each outline with 300-400 words in 2 paragraph in
+    [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

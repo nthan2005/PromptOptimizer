@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2490
+# teaser: For agency recruiters needing help writing client submittals.
+- id: 2490-client-submittal
+  title: Client Submittal
+  tags:
+    - summarize
+    - client
+    - submittal
+  family: Summarize
+  body:
+    Your task is to write a submittal to an engineering hiring manager from me
+    in the third person including an introductory statement, four bullet points highlighting
+    qualifications, including education, and achievements and a closing statement
+    [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

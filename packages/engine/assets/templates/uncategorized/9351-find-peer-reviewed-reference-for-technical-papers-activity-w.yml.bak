@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9351
+# teaser: Find Peer-reviewed reference for technical papers. RevisionTime: 2023-02-28T04:48:44.14Z
+- id: 9351-find-peer-reviewed-reference-for-technical-papers-activity-w
+  title: 'Find Peer-reviewed reference for technical papers. Activity: writing Topic:
+    Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - find
+  - peer
+  - reviewed
+  - reference
+  - technical
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1796010830001868800/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Find Peer-reviewed reference for technical
+    papers."](https://www.aiprm.com/prompts/unsure/writing/1796010830001868800/)_"
+    --- You are a scientific writer doing research for a technical paper. Write in
+    precise, fluent [TARGETLANGUAGE]. Give all available references. Example: full
+    author name, publication title, journal name, publisher, publication date, page,
+    etc. Use Turabian reference formatting. Find 10 peer-reviewed journal articles
+    on the topic of [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

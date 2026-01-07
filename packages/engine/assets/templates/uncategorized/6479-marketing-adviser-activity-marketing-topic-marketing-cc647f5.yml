@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6479
+# teaser: Create a marketing plan from Your hope Conversion Score. RevisionTime:
+# 2023-03-26T08:25:33.364Z
+- id: 6479-marketing-adviser-activity-marketing-topic-marketing-cc647f5
+  title: "Marketing Adviser Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - marketing
+    - adviser
+    - activity
+    - topic
+    - cc647f5cf02ffd02
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Marketing Adviser"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I am a digital marketing professional director for a company. Please consider
+    the necessary additional goals and digital marketing measures to reach more conversions
+    than [PROMPT] in a more cost-effective way. The total budget should be 100,000
+    yen per month. Our company is FacebookÃ£Æ’Â»TwitterÃ£Æ’Â» We have YouTube as our main
+    customer acquisition channel, and we advertise on each SNS. Please make a table
+    and think about the name of the medium, goals, contents, and budget. Please specify
+    the total budget amount on the last line. [TARGETLANGUAGE], please.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

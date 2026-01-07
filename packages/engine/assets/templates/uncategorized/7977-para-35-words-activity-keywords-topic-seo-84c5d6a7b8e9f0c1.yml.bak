@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7977
+# teaser: write a simple paraghraph RevisionTime: 2024-01-13T07:14:32.724Z
+- id: 7977-para-35-words-activity-keywords-topic-seo-84c5d6a7b8e9f0c1
+  title: 'para 35 words Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - para
+  - words
+  - activity
+  - keywords
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1901581087584043008/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "para 35 words"](https://www.aiprm.com/prompts/seo/keywords/1901581087584043008/)_"
+    --- write a short paragraph of 35 words describing word [keyword] and second [keyword]
+    and make it is easy to understand with 10 % human readable score. [TARGETLANGUAGE]
+    and [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

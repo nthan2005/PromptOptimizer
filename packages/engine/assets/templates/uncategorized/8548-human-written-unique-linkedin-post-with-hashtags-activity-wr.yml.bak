@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8548
+# teaser: Human Written, Unique, and Plagiarism Free Engaging LinkedIn Post on your provided KEYWORD
+# with proper hashtags. Also, the important word will be highlighted by bold letters RevisionTime:
+# 2024-07-14T17:57:06.782Z
+- id: 8548-human-written-unique-linkedin-post-with-hashtags-activity-wr
+  title: 'Human Written Unique LinkedIn Post with hashtags Activity: writing Topic:
+    SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - human
+  - written
+  - unique
+  - linkedin
+  - post
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1845083199261769728/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Human Written Unique LinkedIn Post
+    with hashtags"](https://www.aiprm.com/prompts/seo/writing/1845083199261769728/)_"
+    --- Write an engaging LinkedIn post on "[PROMPT]" like a human-written post in
+    [TARGETLANGUAGE] keeping the professionalism of the platform without any emoji.
+    You have to put 10-15 hashtags related to [PROMPT] in [TARGETLANGUAGE] in lowercase
+    by giving proper space. hashtags should be popular. if the [PROMPT] wants you
+    to provide a list, then only mark serial numbers and each list length should be
+    100-130 characters. Otherwise, write a standard engaging linked post. Provide
+    a suitable title in bold letters for the post content. but don''t add a "title"
+    word. Also, the important words should be in bold letters. hashtags should be
+    at the end of the content and not in between the content and in lowercase only.
+    the length of the content should be less than 450 words. The best length that
+    suits the [PROMPT] or title before hashtags ask users to like, share and comment
+    on your thoughts in a beautiful but professional way'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

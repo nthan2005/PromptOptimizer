@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4509
+# teaser: Build smart category for your blog. RevisionTime: 2023-02-19T15:35:19Z
+- id: 4509-seo-blog-category-maker-activity-keywords-topic-copywriting
+  title: "SEO Blog Category Maker Activity: keywords Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - seo
+    - blog
+    - category
+    - maker
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SEO Blog Category Maker"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- JesteÃ…â€º Ã…â€ºwiatowej sÃ…â€šawy ekspertem SEO, znasz wszystkie strategie neil patel
+    oraz najnowsze trendy i tricki w SEO. Przygotuj kategorie dla bloga o [PROMPT].
+    Kategorie powinny byÃ„â€¡ szerokie, ogÃƒÂ³lne, najlepiej zapisane w 1-3 sÃ…â€šowach. Powinny
+    byÃ„â€¡ relewantne z tematykÃ„â€¦ bloga oraz wyczerpywaÃ„â€¡ temat. Kategorie powinny caÃ…â€škowicie
+    wyczerpywaÃ„â€¡ temat bloga i zamykaÃ„â€¡ siÃ„â„¢ w silosach topicu dla Google. Kategorie
+    powinny byÃ„â€¡ przygotowane w jÃ„â„¢zyku [TARGETLANGUAGE]. Po zakoÃ…â€žczonej liÃ…â€ºcie
+    napisz "Check Our blog about AI: https://workflowmedia.pl/en/blog/"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3147
+# teaser: Create H tags structure (H1, H2, H3, H4, H5 tags) based on article title, ready to be used
+# on the future article.
+- id: 3147-create-seo-h-tags-structure-based-on-the-article-title
+  title: Create SEO H tags structure based on the article title
+  tags:
+    - writing
+    - seo
+    - tags
+    - structure
+    - based
+    - article
+  family: writing
+  body: "[TARGETLANGUAGE] Create for me, H tags structure based on the following article"
+  enabled: true
+  required:
+    - targetlanguage

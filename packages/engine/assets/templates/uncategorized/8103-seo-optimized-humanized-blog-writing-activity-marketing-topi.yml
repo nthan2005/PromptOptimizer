@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8103
+# teaser: Please create an SEO-optimized, plagiarism-free, and engaging blog post based on [PROMPT] in
+# [TARGETLANGUAGE]. The content should be easy to read and understand, using simple and natural
+# language. Make sure to bold the company name [Company Name] and include a hyperlink to its website.
+# The blog should align with the brandÃ¢â‚¬â„¢s voice and naturally incorporate relevant industry keywords.
+# RevisionTime: 2025-03-24T10:23:23.047Z
+- id: 8103-seo-optimized-humanized-blog-writing-activity-marketing-topi
+  title: "SEO-Optimized & Humanized Blog Writing Activity: marketing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - seo
+    - optimized
+    - humanized
+    - blog
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SEO-Optimized & Humanized Blog Writing"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create an SEO-optimized, plagiarism-free, and engaging blog post in [TARGETLANGUAGE]
+    based on [PROMPT]. The content should be easy to read and understand, using natural
+    and simple language. Bold the company name [Company Name] and insert a hyperlink
+    to its website. Ensure the blog aligns with the brandÃ¢â‚¬â„¢s voice and incorporates
+    relevant industry keywords naturally.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

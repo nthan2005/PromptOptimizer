@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5318
+# teaser: Enter questions in bulk to get responses in FAQ format. RevisionTime: 2024-02-28T04:57:37.1Z
+- id: 5318-bulk-generate-answers-activity-writing-topic-copywriting-00e
+  title: 'Bulk Generate Answers Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - bulk
+  - generate
+  - answers
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1870324752397889536/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Bulk Generate Answers "](https://www.aiprm.com/prompts/copywriting/writing/1870324752397889536/)_"
+    --- create short answers for these questions: [PROMPT] write in FAQ style in [TARGETLANGUAGE].
+    Explain in a simple language and a friendly tone. Optimise for SEO.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

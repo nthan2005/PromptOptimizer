@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1947
+# teaser: Social Media Posting Planner
+- id: 1947-social-media-posting-planner
+  title: Social Media Posting Planner
+  tags:
+    - places-media-channels
+    - social
+    - media
+    - posting
+    - planner
+  family: Places (Media Channels)
+  body:
+    Create an table of facebook posts content planner for one month with all necessary
+    requirements for provided services. [PROMPT] and [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

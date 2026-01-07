@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7744
+# teaser: Group the keywords by context to understand what people are searching for and in what part
+# of their journey you can improve your content RevisionTime: 2023-09-29T10:29:44.038Z
+- id: 7744-keyword-context-activity-ideation-topic-seo-84c5d6a7b8e9f0c1
+  title: 'Keyword context Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - keyword
+  - context
+  - activity
+  - ideation
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1873285260407214080/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Keyword context"](https://www.aiprm.com/prompts/seo/ideation/1873285260407214080/)_"
+    --- If i give you a list with keywords, can you remove the brands in this list?
+    The remaining keywords can you group keywords based on context? Please write in
+    [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

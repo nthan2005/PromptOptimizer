@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5914
+# teaser: Learn to speak ancient Galilean Aramaic through phonetics and translation. (Language spoken
+# by Jesus) RevisionTime: 2023-07-01T18:18:38.099Z
+- id: 5914-speak-and-pray-galilean-aramaic-translator-activity-writing
+  title: 'Speak and Pray Galilean Aramaic [Translator] Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - speak
+  - pray
+  - galilean
+  - aramaic
+  - translator
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1802751193282502656/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Speak and Pray Galilean Aramaic [Translator]"](https://www.aiprm.com/prompts/copywriting/writing/1802751193282502656/)_"
+    --- Act as a teacher of Palestinian Christian Aramaic spoken at the time of Jesus
+    by phonetically transcribing and translating [TARGETLANGUAGE] each sentence. Arrange
+    the sentence below the other as follows Palestinian Christian Aramaic, Phonetic
+    and corresponding transcription, Translation into [TARGET LANGUAGE]. All outputs
+    must be in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

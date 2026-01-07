@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6911
+# teaser: Transform subtitles given piece by piece into meaningful short video script RevisionTime:
+# 2024-10-03T09:54:05.955Z
+- id: 6911-script-rewriter-for-tiktok-youtube-shorts-instagram-reels-ac
+  title:
+    "Script Rewriter for TikTok | Youtube Shorts | Instagram Reels Activity:
+    Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - script
+    - rewriter
+    - tiktok
+    - youtube
+    - shorts
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Script Rewriter for TikTok | Youtube
+    Shorts | Instagram Reels"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- fix this youtube shorts video subtitle that is piece by piece in [TARGETLANGUAGE]
+    [PROMPT] fix this given youtube shorts video subtitle that is piece by piece'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1017
+# teaser: Correct spellings and grammar and add emojis
+- id: 1017-correct-spellings-grammar-and-add-emojis
+  title: Correct spellings, grammar and add emojis
+  tags:
+  - writing
+  - correct
+  - spellings
+  - grammar
+  - add
+  - emojis
+  family: writing
+  body: Korrigere die Rechtschreibfehler und Grammatikfehler in dem folgenden Text.
+    FÃƒÂ¼ge dann Emojis hinzu. [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

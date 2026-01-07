@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6848
+# teaser: Easy create an Instagram Reel or Post Caption and Hashtag strategy with your [KEYWORDS] V3:
+# Choose Reel or Post in the first keyword! RevisionTime: 2024-10-03T09:54:06.354Z
+- id: 6848-instagram-reel-post-caption-hashtags-v3-activity-social-medi
+  title: 'Instagram Reel|Post Caption & Hashtags V3 Activity: Social Media Topic:
+    Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - instagram
+  - reel
+  - post
+  - caption
+  - hashtags
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1788567061262503936/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Instagram Reel|Post Caption & Hashtags\
+    \ V3\"](https://www.aiprm.com/prompts/marketing/social-media/1788567061262503936/)_\"\
+    \ --- Write a caption for a reel or a post of my Instagram page. If my first keyword\
+    \ is \"reel\" please do the following for a reel. If my first Keyword is â€œpostâ€\x9D\
+    \ please please do the following only for a post. This particular reel or post\
+    \ contains a video with the following keywords: [PROMPT]. Add 22 Hashtags and\
+    \ no more. The first 16 Hashtags of the 22 should be low competitive. The first\
+    \ 5 of this 16 should be related to the keywords and low competitive. After this\
+    \ you add 4 medium competitive Hashtags and 2 high competitive Hashtags. Do not\
+    \ tell which hashtags are what, just add them, so I can copy it perfectly for\
+    \ Instagram. Write the Caption in [TARGETLANGUAGE] and use a friendly â€œyouâ€\x9D\
+    \ form. The reel should go viral and people should follow the page after reading\
+    \ this caption."
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

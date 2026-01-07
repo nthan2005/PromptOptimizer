@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5758
+# teaser: Create PR Headlines or Titles RevisionTime: 2023-06-16T07:05:44.499Z
+- id: 5758-pr-headline-generator-activity-writing-topic-copywriting-00e
+  title: "PR Headline Generator Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - headline
+    - generator
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "PR Headline Generator "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to create catchy titles from the text I give you in 100 characters.
+    All Output should be in the [TARGETLANGUAGE]. The text to create headlines is
+    this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 943
+# teaser: Create Tweet with one topic
+- id: 943-bikin-tweet-viral-sesuai-topik
+  title: Bikin Tweet Viral sesuai Topik
+  tags:
+  - writing
+  - bikin
+  - tweet
+  - viral
+  - sesuai
+  - topik
+  family: writing
+  body: Buatlah 10 tweet yang kreatif dan menarik perhatian sehingga kemungkinan besar
+    akan menjadi viral. Pertimbangkan topik yang sedang trending, keadaan dunia atau
+    [TARGETLANGUAGE] saat ini, dan minat dari audience ketika merancang tweet. Ciptakan
+    sesuatu yang kreatif, cerdas, dan menarik yang akan menarik perhatian orang dan
+    membuat mereka ingin membaca dan membagikannya. Gunakan aturan perplexity rendah
+    and burstiness (jika bagus). Pikirkan juga elemen-elemen tweet yang kemungkinan
+    besar akan menarik perhatian khalayak yang luas dan menghasilkan banyak like,
+    retweet, dan share. Topik pertama saya adalah [PROMPT]. My first task is [PROMPT].
+    The target language is [TARGETLANGUAGE].
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

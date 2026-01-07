@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5844
+# teaser: This prompt will allow you to write a paragraph of a few lines introducing yourself. Enter
+# your information such as your name, your job, or your career, etc... It will then create a paragraph
+# for you from all this information. RevisionTime: 2023-02-20T20:41:26.302Z
+- id: 5844-self-presentation-paragraph-generator-activity-writing-topic
+  title: "Self-presentation paragraph generator. Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - self
+    - presentation
+    - paragraph
+    - generator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Self-presentation paragraph generator."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write me a paragraph introducing a person, using the following information:
+    [PROMPT] I want the paragraph to be in the language: [TARGETLANGUAGE], and to
+    be attractive, concise, and simple. Do not hesitate to make it unique by formulating
+    some sentences differently.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

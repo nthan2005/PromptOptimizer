@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5018
+# teaser: Write a unique, SEO-optimized article RevisionTime: 2025-04-28T00:26:36.233Z
+- id: 5018-write-a-unique-seo-optimized-article-activity-script-writing
+  title: "Write A Unique, Seo Optimized Article Activity: Script Writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - write
+    - unique
+    - seo
+    - optimized
+    - article
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Write A Unique, Seo Optimized Article"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are a blogger and need a prompt or article that is SEO optimized but follows
+    SEO best practices and guidelines in the context of research and academic writing.
+    Reply only in [TARGETLANGUAGE] language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

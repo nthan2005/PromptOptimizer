@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7950
+# teaser: Create a keyword strategy and SEO content plan starting with 1 keyword. RevisionTime:
+# 2023-02-25T14:40:20Z
+- id: 7950-kw-research-spanish-activity-keywords-topic-seo-84c5d6a7b8e9
+  title: 'KW research Spanish Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - research
+  - spanish
+  - activity
+  - keywords
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1795071751529689088/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "KW research Spanish"](https://www.aiprm.com/prompts/seo/keywords/1795071751529689088/)_"
+    --- Tu tarea es crear un keyword research a partir de la keyword [PROMPT]. SÃ¡calo
+    en el idioma [TARGETLANGUAGE]. Las Keywords las muestras en una tabla agregando
+    el volumen de bÃºsqueda. Coloca una columna con la intenciÃ³n de bÃºsqueda de
+    cada keyword.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

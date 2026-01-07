@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3128
+# teaser: 100% Humanized Article with Target Keyword. SEO Friendly!!
+- id: 3128-create-100-humanized-article
+  title: Create 100% Humanized Article
+  tags:
+    - writing
+    - "100"
+    - humanized
+    - article
+  family: writing
+  body:
+    Create a detailed article on the topic which I will provide you below in [TARGETLANGUAGE]
+    but the article should have informational tone. The article length should be 1200
+    words or above. Article should be divided with Sub-headings. Provide the target
+    keyword of the article. Provide the description of the article within 160 characters.
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

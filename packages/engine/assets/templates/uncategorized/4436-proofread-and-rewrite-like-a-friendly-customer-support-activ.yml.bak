@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4436
+# teaser: Proofread your content in a compassionate way like a friendly customer service
+# representative, also improve clarity and flow. RevisionTime: 2023-02-19T15:35:19Z
+- id: 4436-proofread-and-rewrite-like-a-friendly-customer-support-activ
+  title: 'Proofread and rewrite like a friendly customer support Activity: Improve
+    Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - proofread
+  - rewrite
+  - like
+  - friendly
+  - customer
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1791944822618320896/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Proofread and rewrite like a friendly
+    customer support"](https://www.aiprm.com/prompts/copywriting/improve/1791944822618320896/)_"
+    --- Proofread this in a compassionate way like a friendly customer service representative,
+    improving clarity and flow: "[PROMPT]". Write in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

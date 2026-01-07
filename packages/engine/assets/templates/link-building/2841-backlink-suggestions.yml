@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2841
+# teaser: Create internal and external backlinks for your blog articles. Only for ChatGPT 3.5.
+- id: 2841-backlink-suggestions
+  title: Backlink suggestions
+  tags:
+    - link-building
+    - backlink
+    - suggestions
+  family: link building
+  body:
+    "Google values outbound links. I'll give you a link to a good blog. For this
+    blog, I want a table containing internal links, external deeplinks and in the
+    last column the anchor text. Here is the link: [PROMPT] Write the output in [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

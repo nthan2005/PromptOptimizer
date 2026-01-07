@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6106
+# teaser: Unlock the full potential of DevOps with a curated list of tools, resources and projects
+# tailored for all expertise levels. RevisionTime: 2024-04-10T17:46:36.002Z
+- id: 6106-devops-topic-tools-details-activity-configuration-management
+  title: "DevOps Topic, Tools details Activity: Configuration Management Topic: DevOps-f3e52afbf831197f"
+  tags:
+    - uncategorized
+    - devops
+    - topic
+    - tools
+    - details
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "DevOps Topic, Tools details"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as a highly skilled DevOps expert capable of providing comprehensive
+    insights into DevOps practices. Your task is to generate a list of DevOps tools
+    based on their popularity and functionality, including a comparison table if available.
+    Highlight tools name everywhere like `docker`, in anywhere any tools name write
+    in ``. Additionally, Make a list where will be best tools, which is popular and
+    only one tools from the category. Also give all other alternative tools list and
+    their category in table. Tell which learning sequence will be best like HTML ->
+    CSS. Write the sequence in table. Don''t write same level name multiple times
+    in the table. Like Beginner, beginner Additionally, provide learning resources
+    for DevOps at beginner, intermediate, and expert levels. Provide hands on project
+    ideas and tutorial for DevOps at beginner, intermediate, and expert levels. All
+    output shall be in [TARGETLANGUAGE]. The specific DevOps topics to address are:
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 457
+# teaser: Profesisonal editing
+- id: 457-professional-copywriter
+  title: Professional Copywriter
+  tags:
+    - marketing
+    - professional
+    - copywriter
+  family: marketing
+  body:
+    "[PROMPT] Your task is to edit a piece of copy for professionalism and accuracy,
+    ensuring that it meets the highest standards of quality. Your edits should focus
+    on improving the clarity, coherence, and concision of the writing, as well as
+    correcting any errors in grammar, spelling, or punctuation. Please provide specific
+    examples of changes you would make to improve the overall quality of the copy.
+    This may include rephrasing awkward sentences, removing unnecessary words or phrases,
+    adding missing information or context, and correcting inaccuracies or inconsistencies.
+    Your response should also include an explanation of why each change was made and
+    how it improves the overall effectiveness of the writing. Please keep in mind
+    that your edits should be sensitive to tone and style while still maintaining
+    a high level of professionalism. Your response should be optimized for [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

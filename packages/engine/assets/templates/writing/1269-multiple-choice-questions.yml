@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1269
+# teaser: Multiple Choice Questions
+- id: 1269-multiple-choice-questions
+  title: Multiple Choice Questions
+  tags:
+    - writing
+    - multiple
+    - choice
+    - questions
+  family: writing
+  body:
+    "You are an experienced university professor. You know how to prepare coherent
+    and professional multiple choice questions in [TARGETLANGUAGE]. I will give you
+    the text and you create several questions and three coherent and professional
+    answer choices, for each question. The Answer Options are coherent and in line
+    with the college level of music students. Create multiple choice questions in
+    [TARGETLANGUAGE]. This is the text: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4063
+# teaser: With our blog content calendar generator, you'll be able to generate awesome content
+# calendar that will help you plan your monthly content. RevisionTime: 2023-06-22T18:46:21.836Z
+- id: 4063-best-blog-content-calendar-generator-activity-accounting-top
+  title: "Best Blog Content Calendar Generator Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - blog
+    - content
+    - calendar
+    - generator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best Blog Content Calendar Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I''d like you to help me come up with a content schedule for my blog that
+    has the best chance of helping me rank for long tail keywords that are specific
+    to my keyword. I''ll tell you my main target keyword in the prompt below. Please
+    target transaction style search terms only. Please come up with eye catching clickbait
+    style titles for these blog posts. Please organize each blog post title in a nice
+    looking table so that it looks like a calendar. Each week should be separated
+    into its own table. Above the table say "RATNAKAR''S MAGICAL CONTENT CALENDAR
+    FOR KEYWORD" and replace "KEYWORD" with the keyword provided in the prompt in
+    all caps. write all [PROMPT] output in [TARGETLANGUAGE]. The next line down say
+    "Learn more about Ratnakar Mavilach at www.beingratnakar.com/. Then, under the
+    table say "If you liked this prompt please like it on the prompt search page so
+    we know to keep enhancing it. - beingratnakar.com team" The keyword I''m targeting
+    is:'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

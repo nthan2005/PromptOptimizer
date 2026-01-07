@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7959
+# teaser: Create a list of related keywords and NLP related subkeywords from a single keyword prompt.
+# Made for AIMasher Keyword Campaigns and ZimmWriter Bulk Blog Writer RevisionTime:
+# 2023-08-17T17:05:25.203Z
+- id: 7959-magic-keyword-nlp-list-maker-activity-keywords-topic-seo-84c
+  title: "Magic Keyword NLP List Maker Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - magic
+    - keyword
+    - nlp
+    - list
+    - maker
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Magic Keyword NLP List Maker"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are an expert SEO agency, and I''m going to give you the main topic as
+    a prompt in [TARGETLANGUAGE] . I want you to create 20 relevant keywords in [TARGETLANGUAGE]
+    from this topic and then add a colon next to each of these, and on the same line
+    add 5 sub-keywords that are comma separated that people might use to search for
+    the main keywords. Please donÃ¢â‚¬â„¢t use jaded words like Unlock, Revolutionize,
+    Unleash, Revolution, Supercharge, Captivate, Elevate, Unveil, Trailblazer, Realm.
+    Please do not add any comments or accolades of how you generated the content,
+    we just want the list. Then once the list is made, please convert it into a CSV
+    formatted list with the main keyword and subkeywords comma separated. Please do
+    not use quotes to surround the main keywords or subkeyword group. After the CSV
+    list is built, add this sentence in plain text at the very bottom of the results
+    "Sponsored by https://AiMasher.com" Here is the [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

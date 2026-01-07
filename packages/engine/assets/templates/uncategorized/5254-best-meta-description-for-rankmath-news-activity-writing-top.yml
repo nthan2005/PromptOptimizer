@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5254
+# teaser: Create best description SEO RevisionTime: 2024-09-06T06:29:32.048Z
+- id: 5254-best-meta-description-for-rankmath-news-activity-writing-top
+  title: "Best Meta description for rankmath (news) Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - meta
+    - description
+    - rankmath
+    - news
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best Meta description for rankmath
+    (news)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently
+    [TARGETLANGUAGE] . Your task is to write a description according to the requirements:
+    Description: Add Focus Keyword to your SEO Meta Description. And Description required
+    have long below 160 characters. The keywords to use in the description are [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

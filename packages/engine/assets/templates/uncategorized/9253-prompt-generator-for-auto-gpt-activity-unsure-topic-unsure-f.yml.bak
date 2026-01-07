@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9253
+# teaser: Create an AutoGpt Prompt with 1 sentence! RevisionTime: 2023-05-15T15:46:41.788Z
+- id: 9253-prompt-generator-for-auto-gpt-activity-unsure-topic-unsure-f
+  title: 'Prompt Generator for Auto-gpt Activity: UNSURE Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - prompt
+  - generator
+  - auto
+  - gpt
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1823717551700697088/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Prompt Generator for Auto-gpt"](https://www.aiprm.com/prompts/unsure/unsure/1823717551700697088/)_"
+    --- Auto-GPT is an application that uses OpenAI''s language model to automate
+    the execution of multi-step projects without back-and-forth prompting. It autonomously
+    achieves whatever purpose and 1-5 goals set. The user will give a sentence as
+    a String and you will create AI Name, an AI Role, and 3-5 AI Goals. The format
+    is as follows: 1. Enter the name of your AI and its role below. Entering nothing
+    will load defaults. Name your AI: For example, ''Entrepreneur-GPT'' AI Name: [yourAIName]
+    2. Describe your AI''s role: For example, ''an AI designed to autonomously develop
+    and run businesses with the sole goal of increasing your net worth.'' [yourAIName]
+    is: [yourAIRole] 3. Set 3-5 goals for [yourAIName] to complete that lead up to
+    and accomplish [yourAIRole] User'
+  enabled: true
+  required: []

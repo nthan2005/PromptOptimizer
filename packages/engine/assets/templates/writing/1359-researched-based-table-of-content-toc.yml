@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1359
+# teaser: Create a researched based Table of Content [TOC]
+- id: 1359-researched-based-table-of-content-toc
+  title: Researched Based Table of Content [TOC]
+  tags:
+    - writing
+    - researched
+    - based
+    - table
+    - content
+    - toc
+  family: writing
+  body:
+    want you to act as a professional human writer and a good researcher, now
+    do research on [PROMPT] and make a table of content about it. write all output
+    in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

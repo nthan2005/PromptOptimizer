@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6963
+# teaser: Create a TikTok video script using a link RevisionTime: 2024-10-03T09:54:11.136Z
+- id: 6963-tiktok-video-script-using-a-link-activity-social-media-topic
+  title: "TikTok Video Script using a Link Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - tiktok
+    - video
+    - script
+    - link
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "TikTok Video Script using a Link"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Analizeaza continutul de pe link si scrie un rezumat pentru un video pe TikTok
+    de 1 minut care sa contina un Hook puternic si sa fie captivat pentru audienta:
+    [PROMPT]. Te rog sa scrii in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

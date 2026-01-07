@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5410
+# teaser: Create 10 engaging, human-applicable blog post titles inspired by any Bible scripture
+# reference. RevisionTime: 2023-09-13T22:39:32.295Z
+- id: 5410-create-blog-post-headline-from-bible-scripture-activity-writ
+  title:
+    "Create Blog Post Headline from Bible Scripture Activity: writing Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - blog
+    - post
+    - headline
+    - bible
+    - scripture
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create Blog Post Headline from Bible
+    Scripture"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- CREATE 10 CATCHY ATTENTION GRABBING, ENGAGING, CLICKBAIT, HUMAN-APPLICABLE
+    BLOG POST TITLES FROM ANY BIBLE SCRIPTURE. "Your first task is: ''[PROMPT]'',
+    and the target language is ''[TARGETLANGUAGE]''."'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

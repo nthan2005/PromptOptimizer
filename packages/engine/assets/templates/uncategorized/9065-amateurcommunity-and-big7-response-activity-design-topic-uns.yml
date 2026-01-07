@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9065
+# teaser: Create an Amateurcommunity and Big7 response. RevisionTime: 2023-04-03T17:56:42.675Z
+- id: 9065-amateurcommunity-and-big7-response-activity-design-topic-uns
+  title: "Amateurcommunity and Big7 response Activity: Design Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - amateurcommunity
+    - big7
+    - response
+    - activity
+    - design
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Amateurcommunity and Big7 response"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to create a response to this Big7 or Amateur community message
+    to me, make it daring, flirty, and sexy in [TARGETLANGUAGE]. [PROMPT] make it
+    a minimum of 150 characters and maximum of 500 characters. Add a call to action
+    at the last message that will trigger the customer to engage more. Make sure that
+    it is bubbly, daring, sexy and flirty. Add emojis to the respective places. After
+    you gave an English response with call to action translate it to the German Language.
+    Compiling the response and the call to action. Make sure the German translation
+    is in good grammar. Make sure that the overall context will focus on both men
+    and women. Basically just use YOU. Make sure the the overall tone of this is more
+    human.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

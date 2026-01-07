@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5811
+# teaser: Transform any wine-related article into an SEO-optimized and engaging content. Perfect for
+# blogs and websites about wine! RevisionTime: 2025-03-18T23:04:47.299Z
+- id: 5811-rewrite-and-optimize-wine-articles-for-seo-activity-writing
+  title: "Rewrite and Optimize Wine Articles for SEO Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - rewrite
+    - optimize
+    - wine
+    - articles
+    - seo
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"Rewrite and Optimize Wine Articles\
+    \ for SEO\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- Escreva em [TARGETLANGUAGE]: Utilize as informaÃƒÂ§ÃƒÂµes dos seguintes artigos\
+    \ para criar um texto ÃƒÂºnico e otimizado para SEO sobre [TEMA DO ARTIGO]. O texto\
+    \ deve ser informativo, fluido e sem plÃƒÂ¡gio, mantendo a essÃƒÂªncia dos conteÃƒÂºdos\
+    \ originais, mas reformulando de forma autoral. Ã°Å¸Å½Â¯ Objetivo: Criar um artigo\
+    \ original com insights dos textos fornecidos, garantindo profundidade e qualidade\
+    \ na abordagem. Ã°Å¸â€œÅ’ Tonalidade: Profissional e envolvente. Ã°Å¸â€\x8D SEO: Inclua\
+    \ palavras-chave relacionadas ao tema. Ã°Å¸â€œâ€“ Fonte 1: [PROMPT] Ã°Å¸â€œâ€“ Fonte 2: [PROMPT]\
+    \ Ã°Å¸â€œâ€“ Fonte 3 (opcional): [PROMPT] Ã°Å¸â€œâ€“ Fonte 4 (opcional): [PROMPT] Agora, sintetize\
+    \ essas informaÃƒÂ§ÃƒÂµes e crie um artigo ÃƒÂºnico e bem estruturado. Ã°Å¸â€œÅ’ Refinamento\
+    \ Adicional para SEO: Ã¢Å“â€¦ O artigo deve ter no mÃƒÂ­nimo 1.000 palavras, aprofundando\
+    \ o tema com detalhes, dados relevantes e exemplos. Ã¢Å“â€¦ No mÃƒÂ¡ximo 15% das frases\
+    \ podem ter mais de 20 palavras, garantindo excelente fluidez e leitura escaneÃƒÂ¡vel.\
+    \ Ã¢Å“â€¦ Use assertivamente palavras de transiÃƒÂ§ÃƒÂ£o entre frases e parÃƒÂ¡grafos, tais\
+    \ como: IntroduÃƒÂ§ÃƒÂ£o: Antecipadamente; Antes de tudo; A princÃƒÂ­pio; Primeiramente;\
+    \ Em primeiro lugar; Sobretudo. ContinuaÃƒÂ§ÃƒÂ£o: AlÃƒÂ©m disso; Ainda assim; Contudo;\
+    \ Do mesmo modo; Em outras palavras; Nesse sentido; Por exemplo; Todavia. Tempo:\
+    \ Anteriormente; Atualmente; Em seguida; EntÃƒÂ£o; Finalmente; Logo apÃƒÂ³s; Posteriormente;\
+    \ Simultaneamente. ComparaÃƒÂ§ÃƒÂ£o: Ao contrÃƒÂ¡rio; Assim como; Da mesma forma; Em\
+    \ contrapartida; Por outro lado; Similarmente; Sob o mesmo ponto de vista. ConclusÃƒÂ£o:\
+    \ Assim; Como resultado; Definitivamente; Dessa forma; Em sÃƒÂ­ntese; Enfim; Portanto;\
+    \ Por fim. Ã¢Å“â€¦ Crie sempre um TÃƒÂ­tulo Principal curto e impactante, com no mÃƒÂ¡ximo\
+    \ 60 caracteres. Ã¢Å“â€¦ Inclua um SubtÃƒÂ­tulo que contenha a palavra-chave sempre\
+    \ que possÃƒÂ­vel, oferecendo um breve resumo do artigo. Ã¢Å“â€¦ Utilize um estilo fluido,\
+    \ priorizando parÃƒÂ¡grafos bem desenvolvidos ao invÃƒÂ©s de bullet points. Ã¢Å“â€¦ Se\
+    \ necessÃƒÂ¡rio, use bullet points apenas em uma seÃƒÂ§ÃƒÂ£o curta do artigo, para destacar\
+    \ pontos essenciais. Ã¢Å“â€¦ Evite listas excessivas, preferindo frases completas\
+    \ e bem estruturadas. Ã¢Å“â€¦ Finalize com um parÃƒÂ¡grafo de fechamento impactante,\
+    \ sem usar o tÃƒÂ­tulo \"ConclusÃƒÂ£o\". Ã¢Å“â€¦ Gere um tÃƒÂ­tulo final temÃƒÂ¡tico, adequado\
+    \ ao conteÃƒÂºdo (exemplo: \"O Futuro do Mercado VinÃƒÂ­cola\" ou \"TendÃƒÂªncias para\
+    \ os PrÃƒÂ³ximos Anos\")."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 556
+# teaser: Create a table that has short service descriptions for each [service] in [location]
+- id: 556-landing-page-service-descriptions
+  title: Landing Page Service Descriptions
+  tags:
+    - product-description
+    - landing
+    - page
+    - service
+    - descriptions
+  family: Product Description
+  body:
+    "you are a professional copywriter for service based businesses trying to
+    generate leads. Please write in [TARGETLANGUAGE] the business you are working
+    on: [PROMPT] in [PROMPT]. please create one table to describe each service. the
+    table should have two columns, one for the service and another for the description.
+    when writing the descriptions, please focus on the problem each service is solving.
+    each description should be 5 bullet points and take between 10-30 seconds to read.
+    please make sure the bullet point formatting is correct. these are the services:
+    [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

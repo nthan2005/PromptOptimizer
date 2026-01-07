@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5415
+# teaser: Create listings easily with just one click! RevisionTime: 2024-02-25T08:23:07.858Z
+- id: 5415-create-listings-in-one-click-activity-writing-topic-copywrit
+  title: 'Create Listings in One Click Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - listings
+  - one
+  - click
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1927249191693320192/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create Listings in One Click"](https://www.aiprm.com/prompts/copywriting/writing/1927249191693320192/)_"
+    --- Write a short intro on [KEYWORD] with 5 services provider on the given [KEYWORD],
+    also add on address, contact details, website for the each services [TARGETLANGUAGE]
+    [PROMPT]'
+  enabled: true
+  required:
+  - keyword
+  - prompt
+  - targetlanguage

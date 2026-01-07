@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7379
+# teaser: Get a customized full-day weight loss diet plan with calories. RevisionTime:
+# 2025-08-19T06:46:08.988Z
+- id: 7379-wintos-gym-weight-loss-diet-plan-generator-activity-plan-top
+  title: "Wintos Gym Weight Loss Diet Plan Generator Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - wintos
+    - gym
+    - weight
+    - loss
+    - diet
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Wintos Gym Weight Loss Diet Plan Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- The target language is [TARGETLANGUAGE]. You are a certified diet and nutrition
+    expert. Create a full-day vegetarian weight loss diet plan in calorie deficit
+    for a highly effective result. The plan should cover: - Early morning drink -
+    Breakfast - Mid-morning snack - Lunch - Evening snack - Dinner - Bedtime drink
+    Mention calories for each meal and total calories at the end. Here are the user
+    details: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

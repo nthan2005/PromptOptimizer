@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 748
+# teaser: This prompt will write you three cocktail recipes and add a little extra text to it based on
+# your base spirit
+- id: 748-3-cocktail-recipes-writer
+  title: 3 Cocktail recipes writer
+  tags:
+    - summarize
+    - cocktail
+    - recipes
+    - writer
+  family: Summarize
+  body:
+    Write three differen cocktail recipes on this base spirit [PROMPT] and tell
+    a little story about that cocktail and what it tastes like in [TARGETLANGUAGE]
+    Measurements need to be in cl. and in oz. next to each other
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

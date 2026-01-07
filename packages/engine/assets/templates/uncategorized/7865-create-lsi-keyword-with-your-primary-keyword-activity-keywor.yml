@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7865
+# teaser: Create an LSI keyword with your primary keyword and add these LSI keywords into your content
+# to rank better in search engines RevisionTime: 2023-07-10T07:38:52.176Z
+- id: 7865-create-lsi-keyword-with-your-primary-keyword-activity-keywor
+  title: "Create LSI keyword with your primary keyword Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - lsi
+    - keyword
+    - primary
+    - activity
+    - keywords
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create LSI keyword with your primary
+    keyword"](https://github.com/nthan2005/PromptOptimizer)_" ---
+    Generate LSI Keyword on [KEYWORD] in [TARGETLANGUAGE]. Make sure keywords are
+    not repeating. And also create them in tabular form like (LSI KEYWORDS, KEYWORD
+    INTENT) in [TARGETLANGUAGE]. Use only 4 types of keyword intent: Informational
+    Keyword, Navigational Keyword, Commercial Keyword, and Transactional Keyword.
+    All output in [TARGETLANGUAGE] [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

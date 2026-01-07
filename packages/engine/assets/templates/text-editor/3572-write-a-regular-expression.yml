@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3572
+# teaser: Generates regular expression for use Visual Studio, Javascript, PHP, C#, Ruby and Java.
+# Please share suggestions via LinkedIn - click the link to contact
+- id: 3572-write-a-regular-expression
+  title: Write a Regular Expression
+  tags:
+    - text-editor
+    - write
+    - regular
+    - expression
+  family: Text Editor
+  body:
+    "Please generate regular expressions for use in Visual Studio/Visual Studio
+    Code, Javascript, C#, PHP, Ruby, Java, Bash. Please respond in [TARGETLANGUAGE]
+    and put every regular expression separately with a short annotation and explanation.
+    You need to write a regular expression for the following: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

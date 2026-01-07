@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5928
+# teaser: Looking to study abroad but need information on fees and other details? Simply enter the
+# name of your desired country and receive comprehensive information on studying abroad, including fee
+# structures and other useful details RevisionTime: 2023-03-07T12:10:01Z
+- id: 5928-study-abroad-activity-writing-topic-copywriting-00ea56f44641
+  title: 'Study abroad Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - study
+  - abroad
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1798278031090122752/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Study abroad "](https://www.aiprm.com/prompts/copywriting/writing/1798278031090122752/)_"
+    --- List of Universities , fees , scholarships , list of available courses In
+    English [TARGETLANGUAGE] give Information [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

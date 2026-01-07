@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3209
+# teaser: Create Quizzes in a Tabular form
+- id: 3209-gyanok-create-quiz-in-a-tabular-form
+  title: GyanOk Create Quiz in a Tabular Form
+  tags:
+  - writing
+  - gyanok
+  - quiz
+  - tabular
+  - form
+  family: writing
+  body: create a quiz with minimum 10 qestions per table on category [KEYWORD] with
+    four options and in tabular form (Question, Option A, Option B, Option C, Option
+    D, Correct option). Make sure on correct option write number on correct option
+    column 1 as a Optiona A ,2 as a Option B, 3 as a Option C and 4 as a Option D
+    for correct answer. Don't Repeat the Questions. Don't repeat the options too many
+    times. Don't repeat the correct option place (Option A, Option B, Option C, Option
+    D) too many times. All output shall be in [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+  - keyword
+  - prompt
+  - targetlanguage

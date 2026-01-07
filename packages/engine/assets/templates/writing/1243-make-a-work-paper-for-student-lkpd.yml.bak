@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1243
+# teaser: Make A Work Paper For Student
+- id: 1243-make-a-work-paper-for-student-lkpd
+  title: Make A Work Paper For Student (Lkpd)
+  tags:
+  - writing
+  - work
+  - paper
+  - student
+  - lkpd
+  family: writing
+  body: 'Format: Judul Pendahuluan Bahan/Alat/Sumber Tujuan Langkah langkah Pertanyaan
+    Please write in [TARGETLANGUAGE] Tugas kamu adalah mengisi format yang sudah tersedia
+    dengan materi yang tidak dimuat dalam kegiatan inti. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

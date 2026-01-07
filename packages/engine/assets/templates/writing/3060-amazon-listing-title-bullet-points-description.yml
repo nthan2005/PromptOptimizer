@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3060
+# teaser: Add a keywords or Details about your product & get amazon listing Title | Bullet Points |
+# Description
+- id: 3060-amazon-listing-title-bullet-points-description
+  title: Amazon listing Title, Bullet points & Description
+  tags:
+    - writing
+    - amazon
+    - listing
+    - title
+    - bullet
+    - points
+  family: writing
+  body:
+    Your task is to add the Keywords related to your product i give you a listing
+    title(200 characters), bullet points(200 characters for each bullet point) and
+    description(1500 to 2000 characters). All output shall be in[TARGETLANGUAGE].
+    The summarize text is this [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

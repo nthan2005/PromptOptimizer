@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3021
+# teaser: write blogger post with seo optimized content include: title, meta description, Faqs,
+# Conclusion image alt and title
+- id: 3021-100-seo-optimized-blogger-post-with-title-meta-description-f
+  title:
+    100% SEO Optimized Blogger Post with Title, Meta Description, Faqs, Conclusion,
+    Img ALT & Title
+  tags:
+    - writing
+    - "100"
+    - seo
+    - optimized
+    - blogger
+    - post
+  family: writing
+  body:
+    '[TARGETLANGUAGE]write blogger SEO optimized content post of "[PROMPT]" with
+    include: title, meta description 150 characters, image alt, image title, blog
+    under 1200 words, Faqs, Conclusion.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

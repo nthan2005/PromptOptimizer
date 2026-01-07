@@ -1,0 +1,24 @@
+<!-- public/popup.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AutoPrompt Popup</title>
+    <style>
+        body { width: 250px; padding: 10px; font-family: sans-serif; }
+        h4 { margin-top: 0; }
+    </style>
+</head>
+<body>
+    <h4>💡 AutoPrompt Optimizer</h4>
+    <p>Extension is running. Optimization is active on supported sites.</p>
+    <div id="stats-view">
+        <p><strong>Status:</strong> <span id="engine-status">Checking...</span></p>
+        <p><strong>Templates Loaded:</strong> <span id="template-count">N/A</span></p>
+    </div>
+    <hr>
+    <button id="open-options">Settings (Options Page)</button>
+    <script src="/src/popup.ts" type="module"></script>
+</body>
+</html>

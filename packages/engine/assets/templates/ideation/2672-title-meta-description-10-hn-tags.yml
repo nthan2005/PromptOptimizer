@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2672
+# teaser: Create an SEO optimized plan with a Title, a meta description and several Hn ideas to have a
+# solid starting point in the creation of your blog posts.
+- id: 2672-title-meta-description-10-hn-tags
+  title: Title + Meta description + 10 Hn tags
+  tags:
+    - ideation
+    - title
+    - meta
+    - description
+    - tags
+  family: ideation
+  body:
+    Tu es un expert du SEO. Pour le mot-clÃ© [PROMPT], Ã©cris moi un Title optimisÃ©,
+    une mÃ©ta-description courte et qui donne envie de cliquer (page de contenu, pas
+    e-commerce), ainsi qu'un plan de 10 balises H2 ou H3 structurÃ©s. Tout doit Ãªtre
+    en [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

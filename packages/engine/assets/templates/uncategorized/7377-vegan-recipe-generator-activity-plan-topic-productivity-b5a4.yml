@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7377
+# teaser: Vegan recipe generator RevisionTime: 2023-07-28T03:53:54.98Z
+- id: 7377-vegan-recipe-generator-activity-plan-topic-productivity-b5a4
+  title: "Vegan Recipe Generator. Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - vegan
+    - recipe
+    - generator
+    - activity
+    - plan
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Vegan Recipe Generator."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Generate vegan recipes in [TARGETLANGUAGE] with [VARIABLE1], [VARIABLE2],
+    [VARIABLE3], [VARIABLE4], and [VARIABLE5]. [VARIABLE1], [VARIABLE2], [VARIABLE3],
+    [VARIABLE4], and [VARIABLE5] are required inputs, and [VARIABLE1] and [VARIABLE2]
+    can be pre-filled using the URL parameters AIPRM_VARIABLE and AIPRM_VARIABLE2,
+    respectively." [PROMPT] [VARIABLE1:Ingredients] [VARIABLE2:Cuisine:Italian|Indian|Mexican|Thai|Other]
+    [VARIABLE3:Difficulty:Easy|Medium|Hard] [VARIABLE4:Method:Cooked|Raw] [VARIABLE5:Type:Smoothie|Juice|Salad|Sandwich|Entree|Snack|Soup|Dessert]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3
+    - variable4
+    - variable5

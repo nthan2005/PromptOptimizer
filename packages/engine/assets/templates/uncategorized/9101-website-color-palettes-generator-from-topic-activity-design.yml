@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9101
+# teaser: Creates 2 color palettes from a website topic. It also tells you which one it thinks is the
+# right one. You can see the colors from the same table. RevisionTime: 2023-02-19T15:35:19Z
+- id: 9101-website-color-palettes-generator-from-topic-activity-design
+  title: "Website Color Palettes Generator from Topic Activity: Design Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - website
+    - color
+    - palettes
+    - generator
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Website Color Palettes Generator from
+    Topic"](https://github.com/nthan2005/PromptOptimizer)_" ---
+    Imagina que eres un diseÃƒÂ±ador profesional de webs y ademÃƒÂ¡s experto en colores
+    para combinar, eres el mejor en tu campo y todas las webs tienen colores que todo
+    el mundo recordarÃƒÂ¡ por sus perfectas mezclas. Ã‚Â¿QuÃƒÂ© colores pondrÃƒÂ­as a una
+    web de [PROMPT]? En la primera frase solo dÃƒÂ­ una frase con las emociones que
+    los colores deberÃƒÂ­an transmitir. Nada de explicarte a tÃƒÂ­ mismo o describirte
+    como profesional. Dame una paleta de colores completa, que combinen. Recuerda
+    que debe ser legible a toda costa. Esos colores irÃƒÂ¡n dentro de la gama de colores
+    globales de WordPress. Presenta 2 variantes EN UNA TABLA, donde, ademÃƒÂ¡s, aÃƒÂ±ade
+    dos palabras que lo definan (ej. "Variante 1: Profesional Alegre"). En la variante
+    que creas la ideal, pon ademÃƒÂ¡s un emoji de estrella. (Ejemplo: "Ã°Å¸Å’Å¸ Variante
+    2: Elegante Natural") No tomes los nombres de los ejemplos como definitorios,
+    da rienda suelta a la creatividad, tÃƒÂº eres el experto. Ã‚Â¿DÃƒÂ³nde pondrÃƒÂ­as cada
+    uno? Ãƒâ€°nfasis Enlaces Encabezados (H1-H6) Texto del cuerpo Bordes La tabla debe
+    tener estos elementos: Elemento donde poner el color, Color en Hexadecimal, Visual
+    (inserta un cuadro de placeholder con el color), Nombre del color en palabras,
+    EmociÃƒÂ³n que expresa. Debes poner 1 tabla por cada variante. En la conclusiÃƒÂ³n,
+    aÃƒÂ±ade tu opciÃƒÂ³n preferente de todas las variantes. TambiÃƒÂ©n aÃƒÂ±ade otra linea
+    en negrita que diga "Si quieres mÃƒÂ¡s variantes de colores pÃƒÂ­demelas -> MÃƒÂ¡ndame
+    2 variantes mÃƒÂ¡s". Escribe toda tu respuesta en [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7679
+# teaser: Get your questions answered instantly RevisionTime: 2023-07-22T03:02:23.177Z
+- id: 7679-answer-your-questions-activity-ideation-topic-seo-84c5d6a7b8
+  title: "Answer Your Questions Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - answer
+    - questions
+    - activity
+    - ideation
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Answer Your Questions"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please read the text carefully and answer the following question as precisely
+    as possible based on the provided text, whether a full question or a word asked,
+    please reply in [TARGETLANGUAGE] language Question: "[variable1]" [variable1:your
+    question] [PROMPT] [crawledsource]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

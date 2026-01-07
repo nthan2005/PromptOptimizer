@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7586
+# teaser: Create mind map in markdown format from a single [Subject or Article] RevisionTime:
+# 2023-07-14T02:17:43.476Z
+- id: 7586-create-mindmap-in-markdown-format-activity-summarize-topic-p
+  title: "Create Mindmap in markdown format Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - mindmap
+    - markdown
+    - format
+    - activity
+    - summarize
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"Create Mindmap in markdown format\"\
+    ](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- [PROMPT] Ã¤Â½ Ã¦ËœÂ¯Ã¥Â¿Æ’Ã¦â„¢ÂºÃ¥Å“â€“Ã¦â€¢Â´Ã§\x90â€ Ã©Â«ËœÃ¦â€°â€¹Ã¯Â¼Å’Ã¨Â«â€¹Ã¦â€¢Â´Ã§\x90â€ Ã¤Â¸Å Ã©\x9DÂ¢Ã¦â€“â€¡Ã§Â« Ã¦Ë†â€“Ã¤Â¸Â»Ã©Â¡Å’Ã¯Â¼Å’Ã¥Å’â€¦Ã¥\x90\
+    Â«Ã¥Â¤Å¡Ã¥Â±Â¤Ã¦Â¬Â¡Ã§Å¡â€žÃ¦Â¨â„¢Ã©Â¡Å’Ã¤Â»Â¥Ã¥\x8FÅ Ã¥Â­\x90Ã© â€¦Ã§â€ºÂ®Ã¯Â¼Å’Ã¦Â¯\x8FÃ¥â‚¬â€¹Ã¦Â¨â„¢Ã©Â¡Å’Ã¤Â¸\x8DÃ¨Â¶â€¦Ã©\x81Å½30Ã¥â‚¬â€¹Ã¥Â­â€”Ã£â‚¬â€šÃ§ÂµÂ¦Ã¦Ë†â€˜MarkdownÃ¤Â»Â£Ã§Â¢Â¼Ã¯Â¼Å’Ã¤Â¸Â¦Ã¥Å’â€¦Ã¨Â¦â€ Ã¥Å“Â¨Ã¤Â»Â£Ã§Â¢Â¼Ã¥\x8D\
+    â‚¬Ã¥Â¡Å Ã¤Â¸Â­Ã£â‚¬â€šÃ¨Â«â€¹Ã¤Â»Â¥[TARGETLANGUAGE]Ã¨Â¼Â¸Ã¥â€¡Âº"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

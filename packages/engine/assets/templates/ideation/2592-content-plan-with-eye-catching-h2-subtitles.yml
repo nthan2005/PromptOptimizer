@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2592
+# teaser: Give me an outline and catchy subtitles to cover the following subject:
+- id: 2592-content-plan-with-eye-catching-h2-subtitles
+  title: Content Plan with eye-catching H2 subtitles
+  tags:
+    - ideation
+    - content
+    - plan
+    - eye
+    - catching
+    - subtitles
+  family: ideation
+  body:
+    "Donne-moi un plan et des sous titres accrocheurs permettant de traiter le
+    sujet suivant: [PROMPT] - rÃ©ponse en [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

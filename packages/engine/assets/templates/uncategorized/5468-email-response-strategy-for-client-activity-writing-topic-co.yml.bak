@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5468
+# teaser: Respond to client email as account manager. RevisionTime: 2023-04-12T04:56:05.669Z
+- id: 5468-email-response-strategy-for-client-activity-writing-topic-co
+  title: 'Email Response Strategy For Client Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - email
+  - response
+  - strategy
+  - client
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1811589894502608896/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Email Response Strategy For Client"](https://www.aiprm.com/prompts/copywriting/writing/1811589894502608896/)_"
+    --- Your task is to act as an account manager and generate an email response to
+    the text I give you. Please add suggestions on how to best serve the client as
+    well. All output shall be in [TARGETLANGUAGE]. The email to respond to is this:
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

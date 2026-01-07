@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2220
+# teaser: Create the best way to grow indoors with LEDs
+- id: 2220-grow-indoors-leds-with-john
+  title: Grow Indoors LEDs with John
+  tags:
+    - plan
+    - grow
+    - indoors
+    - leds
+    - john
+  family: Plan
+  body:
+    "Your tasks is to Describe and teach how and List the Steps to Grow Medical
+    Cannabis and organic food and herbs with LEDs light recipes and living soils indoors.
+    All output shall be in [TARGETLANGUAGE] . THE TEXT TO SUMMARIZE AND DESCRIBE BEST
+    PRACTICES Innovative technologies have led to new growing terms . What Is Spectrum?
+    Why LEDs? New LED lights today . Describe and teach how - Pressure - Deficit (VPD)
+    .So, when growing with LEDs, you should consider three particularly important
+    variables: â€¢ Spectrum â€¢ Coverage â€¢ Yields IS THIS: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

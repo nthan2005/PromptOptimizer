@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2298
+# teaser: expert advisor in projects and private ventures
+- id: 2298-star-you-own-big-goal
+  title: star you own big goal!
+  tags:
+    - plan
+    - star
+    - own
+    - big
+    - goal
+  family: Plan
+  body:
+    in [TARGETLANGUAGE] as if you were an expert in the area of â€‹â€‹developing
+    winning projects with high competition in the market focused on innovation and
+    sustainability explained in a practical way including primary and secondary tasks
+    tips advice advice [PROMPT] planning gantt chart [PROMPT] ] project management
+    schedule [PROMPT] kanban board [PROMPT] scrum board [PROMPT] flowchart project
+    checklist accounting and cash reports [PROMPT] always as an expert you must always
+    offer me the best tool always oriented in productivity
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7904
+# teaser: Add keywords under each other RevisionTime: 2023-02-19T15:35:19Z
+- id: 7904-keyword-clustering-based-on-long-tail-keywords-activity-keyw
+  title: 'Keyword Clustering based on Long Tail Keywords Activity: keywords Topic:
+    SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - keyword
+  - clustering
+  - based
+  - long
+  - tail
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1789740601458290688/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Keyword Clustering based on Long Tail
+    Keywords"](https://www.aiprm.com/prompts/seo/keywords/1789740601458290688/)_"
+    --- I want you to act as a keyword research expert that speaks and writes fluent
+    [TARGETLANGUAGE]. Classify each of the keywords by the search intent, whether
+    Services, or Articles pages. Then cluster the keywords into groups based on their
+    semantic relevance. Then I want a list in [TARGETLANGUAGE] as a markdown table,
+    with the following columns: cluster, keyword, the search intent and sort the table
+    based on the keyword order Please use keywords: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3410
+# teaser: Create a table for your required app.
+- id: 3410-table-generator-for-apk
+  title: Table Generator for APK
+  tags:
+  - writing
+  - table
+  - generator
+  - apk
+  family: writing
+  body: 'Your task is to create a table for and apk including app name, latest version,
+    release date, publisher name, genre, Requirements, and file size. All the output
+    should be in [TARGETLANGUAGE] and two column format. The APK name is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

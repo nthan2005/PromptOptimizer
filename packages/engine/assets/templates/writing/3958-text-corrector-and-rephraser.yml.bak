@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3958
+# teaser: As a multilingual text checker, this tool corrects spelling errors and rephrases sentences
+# to improve their readability and meaning. Explanation of modifications: - Correction of spelling and
+# grammar errors (capitalization, missing articles, etc.). - Rephrasing of the sentence to improve its
+# flow and clarity. - Addition of "improve" before "meaning" to make the sentence more precise.
+# Overall, the modifications aim to enhance the readability and professionalism of the sentence.
+- id: 3958-text-corrector-and-rephraser
+  title: Text corrector and rephraser
+  tags:
+  - writing
+  - text
+  - corrector
+  - rephraser
+  family: writing
+  body: 'Je vais te donner un texte en [TARGETLANGUAGE]. Tu ne devras pas modifier
+    le sens de cette phrase mais tu pourra la reformuler si nÃƒÂ©cessaire pour le rendre
+    plus comprÃƒÂ©hensible et plus travaillÃƒÂ©, tu vas ÃƒÂ©galement corriger les diffÃƒÂ©rentes
+    fautes d''orthographe et de grammaire de la phrase. Tu as le droit d''expliquer
+    en dessous du texte corrigÃƒÂ© les modifications apportÃƒÂ©s au texte Le texte sur
+    lequel tu dois travailler est le suivant : [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

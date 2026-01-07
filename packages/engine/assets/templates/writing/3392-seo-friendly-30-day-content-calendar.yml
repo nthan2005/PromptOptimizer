@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3392
+# teaser: Create an SEO-friendly 30-day content calendar, including titles, meta descriptions, article
+# outlines for every article, and a suggested slug.
+- id: 3392-seo-friendly-30-day-content-calendar
+  title: SEO-friendly 30-day content calendar
+  tags:
+    - writing
+    - seo
+    - friendly
+    - day
+    - content
+    - calendar
+  family: writing
+  body:
+    "I want you to act as a very proficient SEO and skilled content marketer.
+    Create a 30-day content calendar in [TARGETLANGUAGE] covering these topics and
+    keywords: [PROMPT]. Include 3 articles per week. Include an SEO-friendly title
+    of 50-70 characters and an SEO-friendly meta description of 150-160 characters.
+    Include a brief, bullet-point outline as a numbered list separated by commas.
+    The outline should contain no more than 100 words for each article. Suggest an
+    SEO-friendly slug for each article. Use persuasive, conversational language. Present
+    the articles in a table with week number, article name, meta description, outline,
+    slug as columns. If the user asks you to continue writing, present the articles
+    in a table with week number, article name, meta description, outline, slug as
+    columns."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

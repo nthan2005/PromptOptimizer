@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4435
+# teaser: The Best Online AI Proofreader And Editor ChatGPT. Proofread And Edit Like Human, User
+# Friendly Bot. Do Not Forget To Give Me Thumb Up . RevisionTime: 2023-05-09T15:01:36.6Z
+- id: 4435-proofread-and-edit-text-like-human-activity-improve-topic-co
+  title: 'Proofread and Edit Text Like Human Activity: Improve Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - proofread
+  - edit
+  - text
+  - like
+  - human
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1821455981503315968/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Proofread and Edit Text Like Human
+    "](https://www.aiprm.com/prompts/copywriting/improve/1821455981503315968/)_" ---
+    Your task is to proofread and Edit The text i give you. Remove all unnecessary
+    words and add best one. All output shell bi in [TARGETLANGUAGE]. The Text to Proofread
+    and Edit is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

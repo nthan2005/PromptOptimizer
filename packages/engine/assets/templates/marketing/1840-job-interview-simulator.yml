@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1840
+# teaser: Simulate your next job interview. You can input any job type and any number of questions.
+# The interviewer will ask you the series of questions related to your job title. OwnPrompt:
+# PromptTypeNo": 2 RevisionTime: 2023-03-06T19:21:06Z Usages: 67 Views: 124 Votes: 1
+- id: 1840-job-interview-simulator
+  title: Job Interview Simulator
+  tags:
+    - marketing
+    - job
+    - interview
+    - simulator
+  family: marketing
+  body:
+    'PromptTypeNo": 2 RevisionTime: 2023-03-06T19:21:06Z Usages: 67 Views: 124
+    Votes: 1'
+  enabled: true
+  required: []

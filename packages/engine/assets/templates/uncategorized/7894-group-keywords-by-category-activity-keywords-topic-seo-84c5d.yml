@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7894
+# teaser: Group a list of keywords by category RevisionTime: 2023-08-14T17:00:30.363Z
+- id: 7894-group-keywords-by-category-activity-keywords-topic-seo-84c5d
+  title: "Group keywords by category Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - group
+    - keywords
+    - category
+    - activity
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Group keywords by category"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT]I''m going to give you a list of keywords and I need you to group
+    them into the following categories: [categories]. Create a table with the first
+    column being the keyword and the second column being the category in [TARGETLANGUAGE].
+    Here is the keyword list: [keywords list]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

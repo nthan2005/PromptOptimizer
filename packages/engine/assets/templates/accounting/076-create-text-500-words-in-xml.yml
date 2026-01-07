@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 76
+# teaser: Create a long, creative, different text, with 80 words, talking about a specific animal per
+# paragraph, in XML-based
+- id: 076-create-text-500-words-in-xml
+  title: Create text, 500 words in XML
+  tags:
+    - accounting
+    - text
+    - "500"
+    - words
+    - xml
+  family: Accounting
+  body:
+    Apresente o resultado no idioma [TARGETLANGUAGE] Criar um texto longo, criativo,
+    diferente, com 80 palavras, falando de um .... especifico por parÃ¡grafo. que
+    tenha 10 parÃ¡grafos. Na linguagem de marcaÃ§Ã£o baseada em XML, usando somente
+    os parÃ¢metros, <speak>, <break time> e <p>, nÃ£o usar o ParÃ¢metro <audio>, com
+    intervalos de 20 segundos entre cada parÃ¡grafo. serÃ¡ um video para um canal
+    do youtube, que fala sobre os [KEYWORD] [PROMPT]
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

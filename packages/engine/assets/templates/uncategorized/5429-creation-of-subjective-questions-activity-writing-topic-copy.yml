@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5429
+# teaser: Creation of subjective questions RevisionTime: 2023-06-19T04:43:46.325Z
+- id: 5429-creation-of-subjective-questions-activity-writing-topic-copy
+  title: "Creation of subjective questions Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - creation
+    - subjective
+    - questions
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt " Creation of subjective questions"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] Crie um enunciado; Elabore
+    questÃƒÂµes subjetivas com 4 opÃƒÂ§ÃƒÂµes A, B, C, D; Apenas uma questÃƒÂ£o por vez; QuestÃƒÂµes
+    diferenciadas; Use lacunas quando necessÃƒÂ¡rio. Apenas uma questÃƒÂ£o verdadeira;
+    Informe a resposta correta; Quando possÃƒÂ­vel use tabela, grÃƒÂ¡fico ou imagem. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

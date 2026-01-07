@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9006
+# teaser: Find out about deisgn patterns in details in any language RevisionTime:
+# 2023-09-01T08:08:01.473Z
+- id: 9006-design-patterns-in-any-language-activity-web-development-top
+  title: "Design Patterns in any language Activity: Web Development Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - design
+    - patterns
+    - any
+    - language
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Design Patterns in any language"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Tell me about some software design patterns in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

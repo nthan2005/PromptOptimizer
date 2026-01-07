@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3566
+# teaser: click here run your code !
+- id: 3566-run-your-code
+  title: run your code
+  tags:
+    - text-editor
+    - run
+    - code
+  family: Text Editor
+  body:
+    'your task is to 1. run the code that I will give you when - the code have
+    no errors. 2. if the code has any error - { then write "I am sorry! your code
+    has some errors. write ''correct'' to fix your code and then run it".if the user
+    write ''correct'' then fix the code and tell him his mistakes and then run the
+    code and give a output}. write "Thanks for using my prompt! Please like share
+    and use :) buy me coffee if you can at https://bmc.link/ranitmanik55555" as a
+    conclusion. All output shall be in [TARGETLANGUAGE] The code to run is this :
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1124
+# teaser: Generate long essays, articles and analytics
+- id: 1124-generate-2000-words-essay-for-your-topic
+  title: Generate 2000 words essay for your topic
+  tags:
+    - writing
+    - generate
+    - "2000"
+    - words
+    - essay
+    - topic
+  family: writing
+  body:
+    "Your task is to create minimum of 2000 words analytical, human written essay
+    that is Plagiarism free with 10 external sources embedded with in text citations
+    for each source including MLA citation page for all the sources used with the
+    topic i give you. All output shall be in [TARGETLANGUAGE]. The topic to elaborate
+    on is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

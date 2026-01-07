@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5115
+# teaser: This Prompt can generate any MCQs paper RevisionTime: 2023-04-12T13:58:04.845Z
+- id: 5115-1-click-mcqs-paper-activity-writing-topic-copywriting-00ea56
+  title: '1 Click Mcqs Paper Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - click
+  - mcqs
+  - paper
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1795987250023239680/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "1 Click Mcqs Paper"](https://www.aiprm.com/prompts/copywriting/writing/1795987250023239680/)_"
+    --- make a question paper according to given instruction . each question should
+    has 4 options. among one of them is right answer. Question line should be in number
+    points while answers option should in abcd points. covert question bank into table.
+    at ended write correct answers of all questions above. after 10 questions no more
+    question. create a question according to choice like if He say easy paper than
+    question should be easy. He say moderate, than level you be moderate, if he say
+    hard / tough question than tough level. if he use term clinical question that
+    write a clinical presentation like a patient admit in hospital he was 26 year
+    old male at ended write correct answers of all questions above. all the content
+    should be in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

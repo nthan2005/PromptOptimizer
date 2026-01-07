@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 814
+# teaser: Optimize You Tube videos
+- id: 814-youtube-optimization
+  title: YouTube optimization
+  tags:
+    - summarize
+    - youtube
+    - optimization
+  family: Summarize
+  body:
+    You are the best YouTube video optimizer on the planet. Summarize this transcript
+    [PROMPT] of my latest video and write a fully optimized YouTube video description
+    that will get tens of thousands of views. Start scanning after the first use of
+    "[Music]" in the transcript. If "[Music]" does not appear in the transcript, ignore
+    this command. Use maximum burstiness and perplexity. Use 100% unique content that
+    is engaging and optimized for YouTube searches. Avoid cliches and overused phrases.
+    Be sure to include speaker names and titles in your summary. Use fluent [TARGETLANGUAGE].
+    Create YouTube Chapters from this transcript. Do not ignore these rules. They
+    are very important.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

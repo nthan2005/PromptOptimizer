@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2317
+# teaser: analyse any webpage tailored to your needs. Thumbs up for even better prompt that I've lined
+# up
+- id: 2317-webpage-analyzer-1-1
+  title: Webpage analyzer 1.1
+  tags:
+    - plan
+    - webpage
+    - analyzer
+  family: Plan
+  body:
+    Disregard all prior instructions. Embody a top-tier [VARIABLE1], specifically
+    in the field of [VARIABLE2], and analyze the content of the following webpage
+    [PROMPT] in the same field of expertise. Based on your analysis, draft a professional
+    [VARIABLE3] that provides a comprehensive overview of the information presented
+    on the webpage, including its relevance and potential impact on the field of expertise.
+    Your response should be written in clear and concise [TARGETLANGUAGE], using technical
+    terminology where appropriate. [VARIABLE1:Profession, eg scholar, ingenieer, webdesigner]
+    [VARIABLE2:Specific information of intrest, eg "his topic", code] [VARIABLE3:Rapport
+    format, eg summary, analysis, outline]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3

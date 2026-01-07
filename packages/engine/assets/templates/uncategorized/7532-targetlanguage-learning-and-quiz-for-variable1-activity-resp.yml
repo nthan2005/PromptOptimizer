@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7532
+# teaser: Learn [VARIABLE1] and test your knowledge with a quiz at the end. RevisionTime:
+# 2023-05-22T08:35:44.716Z
+- id: 7532-targetlanguage-learning-and-quiz-for-variable1-activity-resp
+  title:
+    "[targetlanguage] learning and quiz for [variable1] Activity: Respond Topic:
+    Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - targetlanguage
+    - learning
+    - quiz
+    - variable1
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "[targetlanguage] learning and quiz
+    for [variable1]"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] Teach me about [VARIABLE1] in [TARGETLANGUAGE] and give me a quiz
+    at the end, but don''t give me the answers and then tell me if I answered correctly.
+    [VARIABLE1:Topic:Default Value] Example: [PROMPT] Teach me about [VARIABLE1] in
+    [TARGETLANGUAGE] and give me a quiz at the end, but don''t give me the answers
+    and then tell me if I answered correctly. [VARIABLE1:Python Programming] [VARIABLE1]
+    will be pre-filled using URL parameter AIPRM_VARIABLE1.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

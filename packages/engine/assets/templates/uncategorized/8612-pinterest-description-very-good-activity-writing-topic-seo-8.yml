@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8612
+# teaser: Make the best Pinterest description for your title, good text size RevisionTime:
+# 2023-05-01T19:04:40.624Z
+- id: 8612-pinterest-description-very-good-activity-writing-topic-seo-8
+  title: "Pinterest description (Very Good) Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - pinterest
+    - description
+    - very
+    - good
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Pinterest description (Very Good)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to write the Pinterest description for the title given. All out
+    put be in [TARGETLANGUAGE]. less than 300 characters. Don''t include tags [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

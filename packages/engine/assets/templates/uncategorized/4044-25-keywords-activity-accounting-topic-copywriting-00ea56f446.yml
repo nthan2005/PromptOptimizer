@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4044
+# teaser: Discover a fascinating list of 25 words related to your favorite brand or product. Explore
+# their world and immerse yourself in their unique essence with these keywords that capture their
+# unique essence! Go ahead, unveil the magic that surrounds [INTRODUCE LA MARCA O PRODUCTO AQUÃƒÂ]!
+# RevisionTime: 2023-09-27T08:17:05.162Z
+- id: 4044-25-keywords-activity-accounting-topic-copywriting-00ea56f446
+  title: "25 keywords Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - keywords
+    - activity
+    - accounting
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"25 keywords\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- [PROMPT] Genera un pÃƒÂ¡rrafo de 25 palabras relacionadas con la marca o producto\
+    \ [INTRODUCE LA MARCA O PRODUCTO AQUÃƒ\x8D], sin viÃƒÂ±etas y separadas por comas.\
+    \ Intenta que las 25 palabras sean cortas y no estÃƒÂ©n compuestas por varias palabras.\
+    \ AsegÃƒÂºrate de incluir 5 productos populares de la marca en la lista. Incluir\
+    \ 5 palabras que definan de forma genÃƒÂ©rica los productos o el sector. Importante:\
+    \ no aÃƒÂ±adas ningÃƒÂºn texto mÃƒÂ¡s allÃƒÂ¡ de las 25 palabras. EscrÃƒÂ­belo en [TARGETLANGUAGE].\
+    \ Recuerda reemplazar \"[INTRODUCE LA MARCA O PRODUCTO AQUÃƒ\x8D]\" con el nombre\
+    \ de la marca o producto especÃƒÂ­fico del que deseas obtener palabras relacionadas.\"\
+    \ Por favor, asegÃƒÂºrate de reemplazar \"[INTRODUCE LA MARCA O PRODUCTO AQUÃƒ\x8D\
+    ]\" con el nombre de la marca o producto especÃƒÂ­fico al usar este template."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

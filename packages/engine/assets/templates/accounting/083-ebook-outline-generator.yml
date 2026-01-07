@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 83
+# teaser: Create the best ebook Outline. Enter your title and let the AI do the Work
+- id: 083-ebook-outline-generator
+  title: eBook Outline Generator
+  tags:
+    - accounting
+    - ebook
+    - outline
+    - generator
+  family: Accounting
+  body: Create best Ebook Outline on [PROMPT]. All output shall be in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

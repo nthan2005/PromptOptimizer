@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1773
+# teaser: Highlight A Blog or page Of your website on 4 different Social Media Sites
+- id: 1773-content-syndication-for-website-traffic-boost
+  title: Content Syndication for website traffic boost
+  tags:
+    - marketing
+    - content
+    - syndication
+    - website
+    - traffic
+    - boost
+  family: marketing
+  body:
+    in perfect english [TARGETLANGUAGE]As an expert persuader / salesperson, write
+    4 different social media posts, 1 for linkedin, 1 for facebook, 1 for google my
+    business and 1 tweet all optimized seo to the fullest and rich in keywords summarizing
+    and leading back excellently to this blog post linked here [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

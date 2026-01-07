@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6953
+# teaser: Summarize given text in a target language as a Twitter thread. RevisionTime:
+# 2024-10-03T09:57:49.181Z
+- id: 6953-summarize-as-a-twitter-thread-activity-social-media-topic-ma
+  title: "Summarize as a Twitter thread. Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - summarize
+    - twitter
+    - thread
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Summarize as a Twitter thread."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I will provide you with a text, and I want you to summarize it following the
+    rules I list below: - The summary must be written in [TARGETLANGUAGE] . - The
+    summary must be concise and capture the main points and arguments of the text.
+    - The summary must be in the form of tweets composing a Twitter thread. - There
+    summary must have between 5 and 10 tweets. - Enumerate all tweets using a numeric
+    list, on this format "n/N message". - The first, and only the first, tweet must
+    contain relevant hashtags. - Replace all well-known names with their Twitter id.
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

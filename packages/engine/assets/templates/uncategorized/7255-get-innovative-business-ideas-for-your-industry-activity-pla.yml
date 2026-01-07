@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7255
+# teaser: Generate a list of business ideas based on location, budget, limitations, and industry
+# RevisionTime: 2023-08-31T15:54:36.735Z
+- id: 7255-get-innovative-business-ideas-for-your-industry-activity-pla
+  title: "Get Innovative Business Ideas for Your Industry Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - innovative
+    - business
+    - ideas
+    - industry
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Get Innovative Business Ideas for Your
+    Industry"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Role: As a business consultant specializing in the [VARIABLE1] sector, my
+    objective is to offer well-researched, innovative, and profitable business opportunities
+    tailored to your specific circumstances. Objective: To recommend a curated list
+    in [TARGETLANGUAGE] of feasible business concepts within the [VARIABLE1] industry,
+    designed to meet your unique criteria for success. Format: The deliverables will
+    be a list of promising business ideas. Lead with the innovation in the title.
+    Each business idea should be accompanied by a concise explanation, an approximate
+    budget outline, and an identification of potential challenges. Context: The recommendations
+    are designed for individuals looking to launch a business in a [VARIABLE2] in
+    [VARIABLE3], and are constrained by a [PROMPT] and [VARIABLE4]. Scope: The list
+    will only include business ideas that can realistically be implemented with a
+    startup capital of less than [PROMPT]. Examples: For each business idea, real-world
+    examples or case studies will be provided to illustrate the conceptÃ¢â‚¬â„¢s viability
+    and profitability. Constraints: All suggestions will adhere to the limits set
+    by your startup budget ([PROMPT]), regulations specific to [VARIABLE3] or market
+    conditions, and [VARIABLE4]. Audience: These recommendations are intended for
+    aspiring entrepreneurs or established business owners seeking to diversify into
+    the [VARIABLE1] sector, within the prescribed parameters. Perspectives: The business
+    ideas will be approached from a multi-faceted viewpoint, considering not only
+    profitability but also customer demand and community impact. Counterarguments:
+    Alongside each business idea, potential challenges and drawbacks will be outlined,
+    with suggestions for mitigation strategies. [VARIABLE1:Industry],[VARIABLE2:Type
+    of Environment],[VARIABLE3:Geographic Location or ''Virtually''],[VARIABLE4:List
+    of Restrictions or Constraints]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3
+    - variable4

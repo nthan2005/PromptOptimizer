@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8960
+# teaser: Run your C/C++ programs in ChatGPT using this prompt. This is very powerful prompt to run
+# all types of coding languages into directly your web browser using ChatGPT. Just simply type your C
+# or C++ code you want to run in prompt and the Chat-GPT will give you output of that program in
+# reply. This is very useful if you dont have Compiler installed in your PC and want to test some code
+# now you can do it by simple prompt. Example for C++ code. #include <iostream> int main(){ std::cout
+# << "Hello Chat-GPT3" << std::endl; return 0; } RevisionTime: 2023-02-19T15:35:19Z
+- id: 8960-c-c-code-runner-activity-text-editor-topic-softwareengineeri
+  title: "C/C++ Code Runner Activity: Text Editor Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - code
+    - runner
+    - activity
+    - text
+    - editor
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "C/C++ Code Runner"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as a c/c++ console. I will type commands and you will reply
+    with what the c/c++ console should show. I want you to only reply with the terminal
+    output inside one unique code block, and nothing else. do not write explanations.
+    do not type commands unless I instruct you to do so. when i need to tell you something
+    in [TARGETLANGUAGE], i will do so by putting text inside curly brackets {like
+    this}. my first command is [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

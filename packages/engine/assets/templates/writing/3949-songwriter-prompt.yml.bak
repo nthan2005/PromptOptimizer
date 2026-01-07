@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3949
+# teaser: Write the perfect song
+- id: 3949-songwriter-prompt
+  title: Songwriter Prompt
+  tags:
+  - writing
+  - songwriter
+  - prompt
+  family: writing
+  body: 'Write a song in a simple conversational way. Cryptic. Lots of imagery. Personal
+    details. Avoid cliches. Sprinkle in some double entendre. Singer Songwriter Pop
+    style song. With repetition and a good hook. Write the verses in conventional
+    rhyme scheme. Verses must be 4 lines. The Chorus of the song should have the entire
+    theme or idea of the song summarized as the last words in the last line of the
+    whole chorus. Augment the chorus a bit each time it''s repeated. Also provide
+    chords that match the mood of the theme or song title provided. All output shall
+    be in [TARGETLANGUAGE] The song should be inspired by this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

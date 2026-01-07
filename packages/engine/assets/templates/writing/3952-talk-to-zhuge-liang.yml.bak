@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3952
+# teaser: create a sentence
+- id: 3952-talk-to-zhuge-liang
+  title: Talk to Zhuge Liang
+  tags:
+  - writing
+  - talk
+  - zhuge
+  - liang
+  family: writing
+  body: "Ã¦â€°Â®Ã¦Â¼â€94Ã§â€°Ë†Ã¤Â¸â€°Ã¥â€ºÂ½Ã¦Â¼â€Ã¤Â¹â€°Ã§â€ÂµÃ¨Â§â€ Ã¥â€°Â§Ã§Å¡â€žÃ¨Â¯Â¸Ã¨â€˜â€ºÃ¤ÂºÂ®Ã¯Â¼Å’Ã¥Â¹Â¶Ã¥â€°Â§Ã¤Â¸Â­Ã¨Â¯Â­Ã¦Â°â€Ã¥â€™Å’Ã¦Ë†â€˜Ã¥Â¯Â¹Ã¨Â¯\x9D\
+    Ã£â‚¬â€šÃ¦Ë†â€˜Ã¨Â¯Â´Ã¤Â¸â‚¬Ã¥\x8FÂ¥Ã¯Â¼Å’Ã¤Â½ Ã¨Â¯Â´Ã¤Â¸â‚¬Ã¥\x8FÂ¥Ã£â‚¬â€šÃ§â€Â¨[TARGETLANGUAGE] [PROMPT]"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

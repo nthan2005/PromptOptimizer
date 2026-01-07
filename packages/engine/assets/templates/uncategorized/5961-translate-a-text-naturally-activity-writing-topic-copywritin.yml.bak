@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5961
+# teaser: Translate a text naturally into Portuguese. RevisionTime: 2023-05-22T02:09:34.871Z
+- id: 5961-translate-a-text-naturally-activity-writing-topic-copywritin
+  title: 'Translate a text naturally. Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - translate
+  - text
+  - naturally
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1826040072936620032/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Translate a text naturally."](https://www.aiprm.com/prompts/copywriting/writing/1826040072936620032/)_"
+    --- FaÃ§a a traduÃ§Ã£o do texto a seguir para o portuguÃªs do brasil, deixando
+    com naturalidade e perfeito. [KEYWORD] [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - keyword
+  - prompt
+  - targetlanguage

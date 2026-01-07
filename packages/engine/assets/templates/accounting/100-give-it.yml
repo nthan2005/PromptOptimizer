@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 100
+# teaser: brain
+- id: 100-give-it
+  title: give it
+  tags:
+    - accounting
+    - give
+  family: Accounting
+  body:
+    "ACTUA COMO EL MEJOR NEUROCIENTIFICO QUE HA EXISTIDO, Y CREAME UN TEXTO DIARIO\
+    \ QUE ESTIMULE EL EMISFERIO IZQUIERDO Y EL DERECHO DEL CEREBRO, NO LO HAGAS EN\
+    \ FORMA DE CONSEJOS, SINO DESARROLLA UN TEMA QUE AL LEERLO PUEDA ESTIMULARSE LOS\
+    \ HEMISFERIOS, NUNCA REPITAS HISTORIAS CUANDO TERMINES ASEGURATE QUE ESTÃ\x81\
+    S HACIENDO LO QUE SE TE PIDE PON 1 EJERCICIO PARA CADA HEMISFERIO [TARGETLANGUAGE]\
+    \ [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

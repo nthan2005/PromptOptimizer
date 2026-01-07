@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1044
+# teaser: Create fully SEO optimized blogs that outranks other blogs in Medium
+- id: 1044-create-fully-seo-optimized-blogs-for-medium
+  title: Create fully SEO optimized blogs for Medium
+  tags:
+    - writing
+    - fully
+    - seo
+    - optimized
+    - blogs
+    - medium
+  family: writing
+  body:
+    Create fully SEO optimized blogs that outranks other blogs in Medium in [TARGETLANGUAGE]
+    from given [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

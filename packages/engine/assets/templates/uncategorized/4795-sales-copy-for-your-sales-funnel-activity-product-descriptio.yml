@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4795
+# teaser: Create the perfect sales copy for you sales funnel RevisionTime: 2023-09-28T15:09:22.279Z
+- id: 4795-sales-copy-for-your-sales-funnel-activity-product-descriptio
+  title: "Sales Copy for your Sales Funnel Activity: Product Description Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - sales
+    - copy
+    - funnel
+    - activity
+    - product
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Sales Copy for your Sales Funnel "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I need you to ne a onilne marketer. I need you to help me make the sales copy
+    for my sales funnel [PROMPT] Create a 1200-word WWAD-style sales copy that I can
+    use for my [Product/Serivce] sales page of my sales funnel. I need your to witre
+    it for [Target Audience] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

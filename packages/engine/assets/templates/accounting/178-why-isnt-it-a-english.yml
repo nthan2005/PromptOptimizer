@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 178
+# teaser: it's english
+- id: 178-why-isnt-it-a-english
+  title: Why isnt it A english
+  tags:
+    - accounting
+    - why
+    - isnt
+    - english
+  family: Accounting
+  body:
+    "[TARGETLANGUAGE] is English. [PROMPT] I am going to type 2 word [word1][word2].
+    Make a sentence using this two words. Make the first word positive and the other
+    negative."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

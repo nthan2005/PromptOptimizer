@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5936
+# teaser: Synthese RevisionTime: 2024-01-12T21:43:50.211Z
+- id: 5936-synthese-cr-activity-writing-topic-copywriting-00ea56f446414
+  title: "Synthese CR Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - synthese
+    - activity
+    - writing
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"Synthese CR \"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- [PROMPT] \"En utilisant les informations fournies dans le compte-rendu complet\
+    \ de la rÃƒÂ©union, crÃƒÂ©ez une synthÃƒÂ¨se claire et structurÃƒÂ©e pour amÃƒÂ©liorer la\
+    \ visibilitÃƒÂ© et la lisibilitÃƒÂ© des diffÃƒÂ©rentes sections. Identifiez et incluez\
+    \ les ÃƒÂ©lÃƒÂ©ments suivants dans la synthÃƒÂ¨se, en utilisant des emojis pour faciliter\
+    \ la reconnaissance rapide des points et des sections : ### Ã°Å¸\x8D\x81 SynthÃƒÂ¨se\
+    \ [Inclure le jour et la date de la rÃƒÂ©union ici] Ã°Å¸â€\x8D **TÃƒÂ¢ches Accomplies**\
+    \ : - Listez les tÃƒÂ¢ches accomplies en utilisant l'emoji Ã¢Å“â€¦ et dÃƒÂ©crivez chaque\
+    \ tÃƒÂ¢che. Ã°Å¸â€œÅ’ **ResponsabilitÃƒÂ©s et Ãƒâ€°chÃƒÂ©ances** : - Pour chaque personne mentionnÃƒÂ©e\
+    \ (par exemple, Thaaz Kiefer, Mcfly Separou), listez les responsabilitÃƒÂ©s qui\
+    \ leur sont attribuÃƒÂ©es. Utilisez des emojis pertinents pour dÃƒÂ©crire le type\
+    \ de chaque tÃƒÂ¢che. Ã°Å¸â€™Â¡ **IdÃƒÂ©es et Points de Discussion** : - Identifiez et\
+    \ dÃƒÂ©crivez briÃƒÂ¨vement les idÃƒÂ©es principales et les points de discussion abordÃƒÂ©s\
+    \ lors de la rÃƒÂ©union. Ã°Å¸Å½Â¯ **PrioritÃƒÂ©s** : - DÃƒÂ©terminez et dÃƒÂ©crivez les prioritÃƒÂ©s\
+    \ ÃƒÂ©tablies durant la rÃƒÂ©union, en utilisant des emojis appropriÃƒÂ©s pour chaque\
+    \ prioritÃƒÂ©. Ã°Å¸â€\x8D **Points Ãƒ Clarifier** : - Identifiez et dÃƒÂ©crivez briÃƒÂ¨vement\
+    \ les points qui nÃƒÂ©cessitent des ÃƒÂ©claircissements ou des discussions supplÃƒÂ©mentaires.\
+    \ Assurez-vous que la synthÃƒÂ¨se soit concise, en format bullet point, et n'inclue\
+    \ que les sections avec des informations pertinentes du compte-rendu de rÃƒÂ©union.\"\
+    \ [TARGETLANGUAGE] --- Ce prompt est conÃƒÂ§u pour guider la crÃƒÂ©ation d'une synthÃƒÂ¨se\
+    \ structurÃƒÂ©e et visuellement claire d'un compte-rendu de rÃƒÂ©union, en mettant\
+    \ l'accent sur l'identification et la prÃƒÂ©sentation claire des tÃƒÂ¢ches accomplies,\
+    \ responsabilitÃƒÂ©s, idÃƒÂ©es, prioritÃƒÂ©s et points Ãƒ clarifier."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

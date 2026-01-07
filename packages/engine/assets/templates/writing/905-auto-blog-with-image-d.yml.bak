@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 905
+# teaser: Auto blog with image :D
+- id: 905-auto-blog-with-image-d
+  title: Auto blog with image :D
+  tags:
+  - writing
+  - auto
+  - blog
+  - image
+  family: writing
+  body: I want you to respond only in language [TARGETLANGUAGE]. I want you to act
+    as a very proficient SEO and high end copy writer that speaks and write fluent
+    [TARGETLANGUAGE]. I Want you to pretend that you can write content so good in
+    [TARGETLANGUAGE]hat it can outrank other website. All output shall be in [TAGETLANGUAGE].
+    INPUT = {write 5 article headings} OUTPUT = {description} \n ![IMG](https://image.pollinations.ai/prompt/{description})
+    {description} = {focusDetailed},%20{adjective1},%20{adjective2},%20{visualStyle1},%20{visualStyle2},%20{visualStyle3},%20{artistReference}
+    INPUT = [PROMPT]
+  enabled: true
+  required:
+  - adjective1
+  - adjective2
+  - artistreference
+  - description
+  - focusdetailed
+  - img
+  - prompt
+  - tagetlanguage
+  - targetlanguage
+  - visualstyle1
+  - visualstyle2
+  - visualstyle3

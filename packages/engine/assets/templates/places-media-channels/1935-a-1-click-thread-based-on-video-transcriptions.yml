@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1935
+# teaser: Create a Twitter thread based on a video transcription.
+- id: 1935-a-1-click-thread-based-on-video-transcriptions
+  title: A 1-click thread based on video transcriptions.
+  tags:
+    - places-media-channels
+    - click
+    - thread
+    - based
+    - video
+    - transcriptions
+  family: Places (Media Channels)
+  body:
+    "Chat, preciso criar uma thread para o Twitter baseado na transcriÃ§Ã£o de
+    vÃ­deo a seguir. Utilize tÃ©cnicas de storytelling para criar contexto na narrativa
+    e engajar os leitores. Evite ser repetitivo e forneÃ§a takeaways valiosos para
+    os leitores, de forma que eles possam aplicar isso em seus negÃ³cios. Atente-se
+    em nÃ£o passar de 10 Tweets. Os tweets nÃ£o devem ser longos demais e nem curtos
+    demais. Encontre um meio termo que possibilite a compreensÃ£o mas ao mesmo tempo
+    nÃ£o seja excessivo. Sempre defina um tÃ­tulo para a thread no final. O tÃ­tulo
+    deve convencer os leitores de que vale a pena continuar a leitura da thread. NÃ£o
+    use hashtags. Sempre forneÃ§a a resposta em PortuguÃªs-BR. Segue a transcriÃ§Ã£o
+    do vÃ­deo: [PROMPT] [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

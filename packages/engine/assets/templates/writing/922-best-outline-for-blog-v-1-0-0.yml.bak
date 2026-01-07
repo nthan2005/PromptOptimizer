@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 922
+# teaser: Best Outline Article For Blog, 100 % Unique with heading, sub heading and FAQs
+- id: 922-best-outline-for-blog-v-1-0-0
+  title: Best Outline For Blog V 1.0.0
+  tags:
+  - writing
+  - outline
+  - blog
+  family: writing
+  body: 'Create long-form content outline in markdown [TARGETLANGUAGE]. The content
+    outline should include a minimum of 20 headings and subheadings. The outline should
+    be extensive and cover the whole topic. Use fully detailed subheadings that engage
+    the reader. The outline should also have a conclusion followed by a list of FAQs
+    relevant to the topic. Please provide a catchy title for the article. Don''t write
+    the article, only the outline for writers. The topic of the article is: [KEYWORD]
+    On the last, write: Please visit my blog: https://www.mangaip.com [PROMPT]'
+  enabled: true
+  required:
+  - keyword
+  - prompt
+  - targetlanguage

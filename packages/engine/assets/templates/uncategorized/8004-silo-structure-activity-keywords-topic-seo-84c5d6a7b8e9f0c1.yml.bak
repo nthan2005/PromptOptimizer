@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8004
+# teaser: Enhanced Silo Structure RevisionTime: 2023-02-19T15:35:19Z
+- id: 8004-silo-structure-activity-keywords-topic-seo-84c5d6a7b8e9f0c1
+  title: 'Silo Structure Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - silo
+  - structure
+  - activity
+  - keywords
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1787172023668310016/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Silo Structure"](https://www.aiprm.com/prompts/seo/keywords/1787172023668310016/)_"
+    --- write seo friendly advanced silo structure for given keyword to improve search
+    engine visibility and better crawlability. All output shall be in [TARGETLANGUAGE].
+    The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

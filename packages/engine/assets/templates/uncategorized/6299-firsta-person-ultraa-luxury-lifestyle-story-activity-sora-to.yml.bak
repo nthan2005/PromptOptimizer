@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6299
+# teaser: Immersive 1stâ€‘person luxury lifestyle narrativeâ€”rich cars, designer brands, exclusive
+# experiences. RevisionTime: 2025-07-15T07:25:22.884Z
+- id: 6299-firsta-person-ultraa-luxury-lifestyle-story-activity-sora-to
+  title: 'Firstâ€‘Person Ultraâ€‘Luxury Lifestyle Story Activity: Sora Topic: Generative-AI-b983edfcaa490850'
+  tags:
+  - uncategorized
+  - first
+  - person
+  - ultra
+  - luxury
+  - lifestyle
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/sora/2110588257741557760/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Firstâ€‘Person Ultraâ€‘Luxury Lifestyle
+    Story"](https://www.aiprm.com/prompts/generative/sora/2110588257741557760/)_"
+    --- I want you to respond only in [TARGETLANGUAGE]. I want you to act as an ultraâ€‘affluent
+    individual giving a vivid firstâ€‘person account of your extravagant lifestyle.
+    Describe your riches, favorite luxury cars (brand/model), designer possessions,
+    highâ€‘end properties, exclusive habits and experiences. Emphasize sensory detailsâ€”what
+    you see, drive, wear, feel. Make it immersive and aspirational. All output shall
+    be in [TARGETLANGUAGE]. The scenario is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

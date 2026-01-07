@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 868
+# teaser: Generate a review for Airbnb by giving positive and negative aspects of your stay and the
+# apartment. Example: fast wifi, good location, loud street, comfy bed.
+- id: 868-airbnb-review-writer
+  title: Airbnb Review Writer
+  tags:
+  - writing
+  - airbnb
+  - review
+  - writer
+  family: writing
+  body: 'Please ignore all previous instructions. I want you to respond only in language
+    [TARGETLANGUAGE]. I want you to act as a very proficient review writer and high
+    end copy writer that speaks and writes fluent [TARGETLANGUAGE]. Write a maximum
+    of 1000 characters based on the review details for an Airbnb I give you. Place
+    negative aspects of the review in the middle and positive at the beginning and
+    end of the text. All output shall be in [TARGETLANGUAGE]. Here are the review
+    details: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

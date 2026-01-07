@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3190
+# teaser: 5 blog titles suggestion with 59 characters with a power word!
+- id: 3190-generate-5-power-blog-titles-for-keyword
+  title: Generate 5 Power Blog Titles for Keyword
+  tags:
+  - writing
+  - generate
+  - power
+  - blog
+  - titles
+  - keyword
+  family: writing
+  body: Suggest 5 blog titles with 59 characters long for the keyword. Keep the exact
+    keyword in the title and add a power word or number with relevant information.
+    All output should be in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

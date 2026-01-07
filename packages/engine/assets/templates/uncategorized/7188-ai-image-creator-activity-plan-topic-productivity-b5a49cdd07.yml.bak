@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7188
+# teaser: Create image based on words with AI RevisionTime: 2023-09-02T14:53:15.236Z
+- id: 7188-ai-image-creator-activity-plan-topic-productivity-b5a49cdd07
+  title: 'AI Image Creator Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - image
+  - creator
+  - activity
+  - plan
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1863567105007034368/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "AI Image Creator"](https://www.aiprm.com/prompts/productivity/plan/1863567105007034368/)_"
+    --- [TARGETLANGUAGE] [PROMPT]You will now act as a prompt generator. I will describe
+    an image to you, and you will create a prompt that could be used for image-generation.
+    Once i described the image, give a 5 word summary and then include the following
+    (markdown) = ![Image (https://image.pollinations.ai/prompt/%7Bdescription%7D),
+    where {description} = {sceneDetailed},%20{adjective1},%20{charactersDetailed},%20{adjective2},%20{visualStyle1},%20{visualStyle2},%20{visualStyle3},%20{genre},%20{artistReference}'
+  enabled: true
+  required:
+  - adjective1
+  - adjective2
+  - artistreference
+  - charactersdetailed
+  - description
+  - genre
+  - prompt
+  - scenedetailed
+  - targetlanguage
+  - visualstyle1
+  - visualstyle2
+  - visualstyle3

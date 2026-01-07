@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2368
+# teaser: explain like you are 5
+- id: 2368-explain-like-you-are-5
+  title: explain like you are 5
+  tags:
+    - respond
+    - explain
+    - like
+  family: Respond
+  body: explain like im 5 [PROMPT] in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

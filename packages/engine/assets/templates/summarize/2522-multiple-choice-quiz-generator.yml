@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2522
+# teaser: Generates one multiple choice quiz question with four answers based on your topic or
+# question.
+- id: 2522-multiple-choice-quiz-generator
+  title: Multiple Choice Quiz Generator
+  tags:
+    - summarize
+    - multiple
+    - choice
+    - quiz
+    - generator
+  family: Summarize
+  body:
+    "I'd like you to write one quiz question based on my topic. All output should
+    be in [TARGETLANGUAGE] Please also include four possible answers, but only one
+    of the answers can be correct. Please display the correct answer below the answers.
+    My topic is: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

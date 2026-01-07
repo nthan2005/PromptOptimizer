@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8822
+# teaser: Articles that follow Google Helpful content Guidelines. RevisionTime: 2023-03-01T05:06:02Z
+- id: 8822-write-content-according-to-helpful-content-update-activity-w
+  title:
+    "Write content according to helpful content update. Activity: writing Topic:
+    SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - write
+    - content
+    - according
+    - helpful
+    - update
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Write content according to helpful
+    content update."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to Create the article on a given topic by considering the following
+    Guidelines by Google. All the output result must be in [TARGETLANGUAGE]. I want
+    you to write the content in [TARGETLANGUAGE] that provides a satisfying experience
+    for visitors. I want you to create the content in [TARGETLANGUAGE] that outranks
+    other articles. Create the content for the audience while incorporating SEO best
+    practices. I want you to Create content that targets audience, demonstrate expertise,
+    have a primary purpose or focus, provide value, and ensure a satisfying experience
+    for readers. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7835
+# teaser: Create 10 SEO-titel suggestions based on a given keyword RevisionTime:
+# 2023-06-05T10:30:41.69Z
+- id: 7835-yo-10-seo-titel-with-one-keyword-activity-ideation-topic-seo
+  title: 'YO | 10 SEO-titel with one keyword Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - seo
+  - titel
+  - one
+  - keyword
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1831248509807091712/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "YO | 10 SEO-titel with one keyword"](https://www.aiprm.com/prompts/seo/ideation/1831248509807091712/)_"
+    --- We are YoungOnes, an online platform that brings companies and freelancers
+    together. Companies can post jobs on our platform and freelancers can take these
+    jobs. We do not own freelancers, we just connect them with companies. The target
+    audience for this prompt are companies that are looking for freelancers (B2B).
+    Make 10 SEO title suggestions for web pages based on [PROMPT] that includes the
+    given prompt. The title has a maximum of 57 characters that includes "| YoungOnes"
+    at the end of every title suggestion. the results are put out in the [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

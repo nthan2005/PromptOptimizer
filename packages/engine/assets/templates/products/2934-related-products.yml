@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2934
+# teaser: Etner the products links in each line and it will generate html tags with anchor text.
+- id: 2934-related-products
+  title: Related Products
+  tags:
+    - products
+    - related
+  family: Products
+  body:
+    'Generate HTML anchor tags for the following products with the anchor of the
+    product name, exctract the product name after the / of domain name. don''t add
+    "-" in the anchor text. Capatalise the product name and Add each link in different
+    line. : [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

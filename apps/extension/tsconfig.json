@@ -1,0 +1,16 @@
+// packages/extension/tsconfig.json
+
+{
+  "compilerOptions": {
+    "moduleResolution": "bundler", 
+    "module": "esnext",
+    "target": "es2020",
+    "outDir": "dist/js",
+    "types": [
+      "vite/client",
+      "node",
+      "chrome" 
+    ]
+  },
+  "include": ["src/**/*.ts", "src/**/*.d.ts", "../../packages/engine/src/**/*.ts"]
+}

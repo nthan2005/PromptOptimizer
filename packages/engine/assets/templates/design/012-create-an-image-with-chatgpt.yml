@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 12
+# teaser: Create an image from the chatGPT prompt!
+- id: 012-create-an-image-with-chatgpt
+  title: Create an image with ChatGPT
+  tags:
+    - design
+    - image
+    - chatgpt
+  family: Design
+  body:
+    '[TARGETLANGUAGE] INPUT = {focus} OUTPUT = {description}\n ![MG](http://image.pollinations.ai/prompt/{description}){description}
+    = {focuseDetailed},%20{adjective1},%20{adjective2},%20{visualStyle1},%20{visualStyle2},%20{visualStyle3},%20{artistreference}
+    INPUT = [ [PROMPT] ]'
+  enabled: true
+  required:
+    - adjective1
+    - adjective2
+    - artistreference
+    - description
+    - focus
+    - focusedetailed
+    - mg
+    - prompt
+    - targetlanguage
+    - visualstyle1
+    - visualstyle2
+    - visualstyle3

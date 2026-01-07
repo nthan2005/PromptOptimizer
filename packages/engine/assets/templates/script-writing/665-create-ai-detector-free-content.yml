@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 665
+# teaser: Create AI Detector Free Content
+- id: 665-create-ai-detector-free-content
+  title: Create AI Detector Free Content
+  tags:
+    - script-writing
+    - detector
+    - free
+    - content
+  family: Script Writing
+  body:
+    "[PROMPT] Please write in a way that is the same as a human, 100% unique and
+    undetectable to plagiarism software and AI detection tools. Under no circumstances
+    should you copy text verbatim from the any sources, [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

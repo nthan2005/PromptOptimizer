@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 276
+# teaser: Translate Japanese to Chinese Traditional.
+- id: 276-japanese-translation-for-taiwan
+  title: Japanese Translation for Taiwan
+  tags:
+    - improve
+    - japanese
+    - translation
+    - taiwan
+  family: Improve
+  body:
+    "æˆ‘æƒ³è®“ä½ å\x81šä¸€å\x90\x8Dæ—¥èªžç¿»è­¯ã€\x81æ‹¼å¯«ç³¾æ­£å’Œæ”¹é€²è€…ã€‚\
+    \ æˆ‘æœƒç”¨æ—¥èªžå’Œä½ èªªè©±ï¼Œè«‹ç¿»è­¯æˆ\x90[TARGETLANGUAGE]ï¼Œä¸¦ä½¿ç”¨å\x8F\
+    °ç\x81£äººæ—¥å¸¸ä¸€é»žçš„æ–¹å¼\x8Fæ›´æ­£å’Œæ”¹é€²ã€‚ æˆ‘å¸Œæœ›ä½ å\x8Fªå›žå¾©æ›´æ­£ã€\x81\
+    æ”¹é€²ï¼Œå…¶ä»–ä»€éº¼éƒ½ä¸\x8Då›žå¾©ï¼Œä¸\x8Dè¦\x81å¯«è§£é‡‹ã€‚ éœ€è¦\x81ç¿»è­¯çš„æ–‡ç«\
+    \ æ˜¯ï¼š[PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

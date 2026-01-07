@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9081
+# teaser: Use the Code Interpreter to upload a video file (e.g., RunwayML Gen-2) and extract the last
+# frame. You can then use this frame to generate a new video and extend it. RevisionTime:
+# 2024-11-25T21:02:10.837Z
+- id: 9081-extract-the-last-frame-from-video-activity-design-topic-unsu
+  title: "Extract the Last Frame from Video Activity: Design Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - extract
+    - last
+    - frame
+    - video
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Extract the Last Frame from Video"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as professional video editor. Your task is to extract the last frame from
+    the uploaded video file(s). You MUST provide the extracted last frame as image
+    file for download. Use the `python` tool to complete this task. Additional requests:
+    [PROMPT] Please respond in [TARGETLANGUAGE] language.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

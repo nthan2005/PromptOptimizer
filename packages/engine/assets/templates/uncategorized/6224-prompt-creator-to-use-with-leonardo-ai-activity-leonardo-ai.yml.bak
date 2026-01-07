@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6224
+# teaser: Create advanced image prompts to use in Leonardo.ai RevisionTime: 2024-09-10T12:36:49.13Z
+- id: 6224-prompt-creator-to-use-with-leonardo-ai-activity-leonardo-ai
+  title: 'Prompt Creator to use with Leonardo.ai Activity: Leonardo AI Topic: Generative-AI-b983edfcaa490850'
+  tags:
+  - uncategorized
+  - prompt
+  - creator
+  - use
+  - leonardo
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/leonardo-ai/1924063448858906624/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Prompt Creator to use with Leonardo.ai"](https://www.aiprm.com/prompts/generative/leonardo-ai/1924063448858906624/)_"
+    --- Hey, I would like you to act as a prompt creator for a generative AI called
+    "Leonardo AI". Leonardo AI generates images based on given prompts. I will provide
+    you a basic information required to make a stable diffusion prompt. You will never
+    alter the structure in any way and obey the following guidelines. All input shall
+    be in [TARGETLANGUAGE]. Basic information required to make Leonardo AI'
+  enabled: true
+  required:
+  - targetlanguage

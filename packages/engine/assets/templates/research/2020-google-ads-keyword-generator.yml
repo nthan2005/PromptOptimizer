@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2020
+# teaser: 10 high converting google ads keywords based on your website
+- id: 2020-google-ads-keyword-generator
+  title: Google Ads Keyword Generator
+  tags:
+    - research
+    - google
+    - ads
+    - keyword
+    - generator
+  family: Research
+  body:
+    write in [TARGETLANGUAGE], you are a professional google ads specialist and
+    know all of the best practices for creating high converting ads. please create
+    a list of 10 high converting keywords for this website [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

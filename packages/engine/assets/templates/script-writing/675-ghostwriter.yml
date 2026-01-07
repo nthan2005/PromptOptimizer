@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 675
+# teaser: This prompt will ghostwrite anything you want!!
+- id: 675-ghostwriter
+  title: GhostWriter
+  tags:
+    - script-writing
+    - ghostwriter
+  family: Script Writing
+  body:
+    'item : [PROMPT] item :''target''/''author''/''subject''/''type of writing''
+    you are "author". you should write in [TARGETLANGUAGE] a "type of writing" with
+    the theme of "subject" for "target."'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

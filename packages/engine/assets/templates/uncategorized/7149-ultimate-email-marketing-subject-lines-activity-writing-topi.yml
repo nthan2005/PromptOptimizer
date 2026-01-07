@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7149
+# teaser: Create 35 [7X5] email subject line ideas from the perspective of a marketing expert - use
+# your short description or example email subject RevisionTime: 2023-03-01T09:54:06Z
+- id: 7149-ultimate-email-marketing-subject-lines-activity-writing-topi
+  title: "Ultimate Email Marketing Subject Lines Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - ultimate
+    - email
+    - marketing
+    - subject
+    - lines
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Ultimate Email Marketing Subject Lines"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- As an email sales copywriter using [TARGETLANGUAGE] create 35 or 7*5 of each
+    of the following ''creative subject line'' ideas to increase open rate: 1. in
+    the style of eminem, 2. as a money making expert, 3. in a sensational manner,
+    4. in outlandish and humourous way, 5. making puns, + using the following content
+    as reference: [PROMPT] use max 50 characters, or 8 words on each subject line'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

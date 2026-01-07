@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6727
+# teaser: Create a keyword strategy and SEO-optimized 30-day social media content plan for [KEYWORD].
+# Includes engaging posts with local SEO keywords, call-to-actions, and suggested visuals.
+# RevisionTime: 2025-01-09T19:32:47.274Z
+- id: 6727-30-day-local-social-media-plan-activity-social-media-topic-m
+  title: "30-Day Local Social Media Plan Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - day
+    - local
+    - social
+    - media
+    - plan
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "30-Day Local Social Media Plan"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE]: English [PROMPT]: Create 30 engaging, SEO-optimized social
+    media posts for a bounce house and party rental business. Each post must: 1. Highlight
+    services (e.g., bounce houses, water slides, corporate events). 2. Use local keywords
+    (e.g., York, PA; Harrisburg, PA; Maryland). 3. Include call-to-actions (e.g.,
+    "Book Now" or "Call for a Free Quote"). 4. Be 5 sentences or longer with 5 relevant
+    keywords. 5. Avoid mentioning discounts or new products. **Presentation Format:**
+    Present posts in a table with 5 columns: 1. Post # 2. Post Content 3. Suggested
+    Image 4. Hashtags 5. Suggested Page Link'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

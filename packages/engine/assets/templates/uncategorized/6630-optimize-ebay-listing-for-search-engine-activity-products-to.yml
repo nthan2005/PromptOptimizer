@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6630
+# teaser: Create a great title and description for ebay product RevisionTime: 2023-04-10T17:11:22.964Z
+- id: 6630-optimize-ebay-listing-for-search-engine-activity-products-to
+  title: "optimize Ebay listing for search engine Activity: Products Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - optimize
+    - ebay
+    - listing
+    - search
+    - engine
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "optimize Ebay listing for search engine"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [task] : optimize my Ebay listing for search engine visibility by following
+    these steps: [TARGETLANGUAGE]: English [PROMPT] : please Create a Traffic Grabbing
+    Title that adheres to the Ebay algorithm''s relevancy, competition, and traffic
+    guidelines you can add some keywords fo it . Craft a keyword-rich description
+    must have at leaset 15 related keyword to the product and low competition make
+    the description more argumented and a mind catching use some slaes stratgy organise
+    the description with title and substile .'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

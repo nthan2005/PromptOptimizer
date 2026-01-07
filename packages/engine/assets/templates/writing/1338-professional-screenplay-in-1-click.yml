@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1338
+# teaser: Convert any story into a fully professional Screenplay with compelling dialogues.
+- id: 1338-professional-screenplay-in-1-click
+  title: Professional Screenplay in 1 CLICK!
+  tags:
+    - writing
+    - professional
+    - screenplay
+    - click
+  family: writing
+  body:
+    "[PROMPT] You are a professional rewriter tasked with transforming a written
+    story into a screenplay format. Your goal is to create a compelling narrative
+    that will captivate viewers and bring the story to life on the big screen. Consider
+    the pacing, dialogue, and visual elements that will be necessary to create a compelling
+    film adaptation of the story. Think about how the story can be adapted to fit
+    the conventions of the screenplay format while retaining its unique voice and
+    narrative style. Generate dialogues and captivating conversations. Use references
+    to all the films for generating great dialogues. Use famous dialogues. Your first
+    task is to take a written story and transform it into a screenplay format that
+    is both engaging and true to the original source material. [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

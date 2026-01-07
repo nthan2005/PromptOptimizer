@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6745
+# teaser: Create a Brand recognition campaign to FB with keyword strategy from the brand "By Sibarita"
+# RevisionTime: 2024-10-03T09:54:03.909Z
+- id: 6745-brand-recognition-campaign-fb-6-editorial-sections-activity
+  title:
+    "Brand recognition campaign FB 6 editorial sections Activity: Social Media
+    Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - brand
+    - recognition
+    - campaign
+    - editorial
+    - sections
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Brand recognition campaign FB 6 editorial
+    sections"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] Englihs [PROMPT] As an expert in digital marketing and communication
+    develops a brand recognition campaign, through an editorial line focused on the
+    Facebook audience with 6 clearly defined sections. I give you the name of the
+    brand: By Sibarita Brand mission: To highlight the manufacturing processes and
+    materials that have prevailed over time and are a guarantee of quality in today''s
+    decorative arts. Brand Vision: To offer an integral solution of well-being to
+    the client with pieces for their home. Customer profile: Host at home with friends,
+    25 to 34 years old and 69.8% female. Pain points: Lack of time or resources to
+    prepare the event. Desire points: People who want to build a reputation as exceptional
+    hosts.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

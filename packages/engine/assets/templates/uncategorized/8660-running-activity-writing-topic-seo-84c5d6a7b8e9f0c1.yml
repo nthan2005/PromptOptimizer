@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8660
+# teaser: [Joyce Huebner] RevisionTime: 2023-05-10T19:43:14.348Z
+- id: 8660-running-activity-writing-topic-seo-84c5d6a7b8e9f0c1
+  title: "Running Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - running
+    - activity
+    - writing
+    - topic
+    - seo
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Running"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] [PROMPT] Stell dir vor du bist eine lÃƒÂ¤uferinn und du lÃƒÂ¤ufst
+    die ganze deutsche grenze ab jeder tag eist ein neuer marathon und du schreibst
+    jeden tag einen bereicht darÃƒÂ¼ber. Bitte fasse den folgenden text genau so zusammen.
+    Hier kommt der text]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1270
+# teaser: Make a character and get personalized answers to specific questions.
+- id: 1270-my-character-meu-pesonagem
+  title: My character (Meu pesonagem)
+  tags:
+    - writing
+    - character
+    - meu
+    - pesonagem
+  family: writing
+  body: Eu quero que vocÃƒÆ’Ã‚Âª se transforme em um personagem. [PROMPT]. Em [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

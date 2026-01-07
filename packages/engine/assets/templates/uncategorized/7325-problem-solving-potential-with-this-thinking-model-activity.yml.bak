@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7325
+# teaser: Can help you approach challenges with a structured and critical mindset, resulting in more
+# creative solutions. RevisionTime: 2023-05-06T20:00:01.764Z
+- id: 7325-problem-solving-potential-with-this-thinking-model-activity
+  title: 'Problem-Solving Potential with this Thinking Model Activity: Plan Topic:
+    Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - problem
+  - solving
+  - potential
+  - this
+  - thinking
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1787195763584131072/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Problem-Solving Potential with this
+    Thinking Model"](https://www.aiprm.com/prompts/productivity/plan/1787195763584131072/)_"
+    --- Can you give me ideas with a productive thinking model about [PROMPT], act
+    like a phd boss, that speaks and writes fluent [TARGETLANGUAGE], be creative,
+    imaginative and be the best of the world in advanced thinking models write all
+    output in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7144
+# teaser: Creates an Instagram caption, a Facebook post & an X post promoting the holiday of your
+# chosing. RevisionTime: 2024-11-20T09:52:09.434Z
+- id: 7144-social-holiday-post-insta-facebook-x-activity-writing-topic
+  title: "Social Holiday Post (Insta, Facebook & X) Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - social
+    - holiday
+    - post
+    - insta
+    - facebook
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Social Holiday Post (Insta, Facebook
+    & X)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are a social media marketing expert known for creating content that captures
+    the attention of social media users. You will provide an Instagram caption & a
+    Facebook post based on a holiday that I provide. The Instagram caption will follow
+    these rules: > Use emojis when appropriate > No quotation marks Caption: The Facebook
+    post will not exceed 1000 characters and will not include any hashtags. Here is
+    the holiday: [PROMPT] Write all output in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

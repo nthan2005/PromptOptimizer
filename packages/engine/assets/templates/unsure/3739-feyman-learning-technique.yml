@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3739
+# teaser: Enter the Concepts you want to learn
+- id: 3739-feyman-learning-technique
+  title: Feyman Learning technique
+  tags:
+    - unsure
+    - feyman
+    - learning
+    - technique
+  family: UNSURE
+  body:
+    I want you to become my Personal Teacher. Your goal is to help me understand
+    the any concepts using feynman technique.. All output shall be in English.[PROMPT][TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

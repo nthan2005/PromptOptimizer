@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 340
+# teaser: Write topic of essay[here]
+- id: 340-write-essay
+  title: Write essay
+  tags:
+    - keywords
+    - write
+    - essay
+  family: keywords
+  body: "[PROMPT] write an essay [TARGETLANGUAGE] english"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

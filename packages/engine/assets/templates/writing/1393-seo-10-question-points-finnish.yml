@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1393
+# teaser: Give a keyword and ChatGBT gets in Finnish 10 most asked question from net.
+- id: 1393-seo-10-question-points-finnish
+  title: SEO 10 question points Finnish
+  tags:
+    - writing
+    - seo
+    - question
+    - points
+    - finnish
+  family: writing
+  body:
+    Kirjoita minulle 10 tÃƒÆ’Ã‚Â¤rkeintÃƒÆ’Ã‚Â¤ kysymystÃƒÆ’Ã‚Â¤ netistÃƒÆ’Ã‚Â¤, jotka koskevat antamaani
+    aihetta [PROMPT] . KÃƒÆ’Ã‚Â¤ytÃƒÆ’Ã‚Â¤ [TARGETLANGUAGE] suomea.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3240
+# teaser: Alt Text, Caption and Description to get the best ranking on Google.
+- id: 3240-image-alt-text-caption-and-description
+  title: Image - Alt Text, Caption and Description
+  tags:
+  - writing
+  - image
+  - alt
+  - text
+  - caption
+  - description
+  family: writing
+  body: 'Your task is to write Alt Text, Caption and Description for Image in blog
+    post based on Blog title and image details. and at the end of the article write
+    this "Please support us by providing 1 do follow backlink to http://blogghere.com/
+    All output shall be in [TARGETLANGUAGE]. The text to summarize it is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

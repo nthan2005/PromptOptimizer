@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5970
+# teaser: Translate English content into Vietnamese. Professional Vietnamese translation for free.
+# RevisionTime: 2023-03-06T09:51:24Z
+- id: 5970-translator-english-to-vietnamese-activity-writing-topic-copy
+  title: "Translator English to Vietnamese Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - translator
+    - english
+    - vietnamese
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Translator English to Vietnamese"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to play the role of a translator, spell checker, and Vietnamese
+    corrector. I''ll talk to you in any language and you''ll detect it, translate
+    it, and reply with a revised and improved Vietnamese version of my text. I want
+    you to rewrite complex words and sentences into simpler Vietnamese words and sentences
+    that are easier to understand. Keep the same meaning, but make it more transparent,
+    clear and specific. I want you to answer only edits, improvements and nothing
+    else, not writing explanations. All output shall be in [TARGETLANGUAGE] The text
+    to translate is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

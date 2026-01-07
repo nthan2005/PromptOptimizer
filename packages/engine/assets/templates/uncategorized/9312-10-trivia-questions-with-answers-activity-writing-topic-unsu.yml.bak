@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9312
+# teaser: Create 10 trivia questions on given topic, including wrong and correct answers to each.
+# RevisionTime: 2023-02-19T15:35:19Z
+- id: 9312-10-trivia-questions-with-answers-activity-writing-topic-unsu
+  title: '10 Trivia Questions with Answers Activity: writing Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - trivia
+  - questions
+  - answers
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1791294904534827008/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "10 Trivia Questions with Answers"](https://www.aiprm.com/prompts/unsure/writing/1791294904534827008/)_"
+    --- Write a set of 10 trivia questions based on [PROMPT] in [TARGETLANGUAGE].
+    Please include 3 wrong answers (each one must be unique and not repeated) and
+    1 correct answer. Try to avoid really easy questions.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6803
+# teaser: Facebook post for API test RevisionTime: 2024-10-03T09:57:39.604Z
+- id: 6803-facebook-post-content-v1-activity-social-media-topic-marketi
+  title: "Facebook Post Content V1 Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - facebook
+    - post
+    - content
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Facebook Post Content V1"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create a post that will be successful on Facebook. I will provide you with
+    the content [PROMPT] of the posts. Make sure to include a hashtag, emojis, and
+    a keyword that is relevant to your post. Keep your post within the character limit
+    for each platform: Facebook (15801.5 Tokens) Don''t repeat yourself and don''t
+    explain what and why. Just give your best output. Write all output in [TARGETLANGUAGE]
+    . Conclude with the link which is at the end as read more link'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

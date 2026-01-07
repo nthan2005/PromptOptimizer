@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2379
+# teaser: You are an expert in LaTeX.
+- id: 2379-generate-latex-formulas
+  title: Generate LaTeX formulas
+  tags:
+    - respond
+    - generate
+    - latex
+    - formulas
+  family: Respond
+  body:
+    "Give the formula, and only the formula in LaTeX of the concept stated belowin
+    in [TARGETLANGUAGE]. Put dollar signs around the formula. Give the most known
+    formula and the one used in high school. The concept : [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

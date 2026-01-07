@@ -1,0 +1,59 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5262
+# teaser: Create the best meta description for my content RevisionTime: 2023-09-21T15:42:17.307Z
+- id: 5262-best-product-review-total-activity-writing-topic-copywriting
+  title: "Best Product Review Total Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - product
+    - review
+    - total
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"Best Product Review Total\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- Write a product review in [TARGETLANGUAGE] with [PROMPT]. Primary Keyword:Ã¢â‚¬Â¨[KEYWORD]Ã¢â‚¬Â¨\
+    \ Product Specs:Ã¢â‚¬Â¨[PASTE AS MANY PRODUCT SPECS FROM AMAZON AS POSSIBLE]Ã¢â‚¬Â¨ Tone\
+    \ of voice:Ã¢â‚¬Â¨Use a friendly and conversational tone, presenting a problem and\
+    \ solution, highlighting benefits, providing informative details, persuading the\
+    \ reader, and using a call to action while showcasing expertise. Use a fun and\
+    \ informative buzzfeed style tone of voice. Focus on optimizing the content for\
+    \ SEO, making it easy to search and rank higher.Ã¢â‚¬Â¨ Headline:Ã¢â‚¬Â¨Write an engaging\
+    \ and persuasive Ã¢â‚¬Å“Buzzfeed StyleÃ¢â‚¬\x9D headline for this product review article..\
+    \ Ã¢â‚¬Â¨Excerpt:Ã¢â‚¬Â¨Write a 1 sentence excerpt for the headline above.Ã¢â‚¬Â¨Ã¢â‚¬Â¨ IntroductionÃ¢â‚¬Â¨Give\
+    \ a brief overview of the product. Use AIDA. Then explain the purpose of this\
+    \ product review. Do not repeat any of the information you previously wrote above\
+    \ in this article.Ã¢â‚¬Â¨ Product SpecsÃ¢â‚¬Â¨Write a detailed section about the product\
+    \ specifications. Do not repeat any of the information you previously wrote above\
+    \ in this article.Ã¢â‚¬Â¨ Product QualityÃ¢â‚¬Â¨Write a detailed section covering the\
+    \ quality of this product. Do not repeat any of the information you previously\
+    \ wrote above in this article.Ã¢â‚¬Â¨Ã¢â‚¬Â¨ Features & BenefitsÃ¢â‚¬Â¨Write a detailed section\
+    \ covering the features and benefits. Do not repeat any of the information you\
+    \ previously wrote above in this article.Ã¢â‚¬Â¨ ProsÃ¢â‚¬Â¨Write a detailed section covering\
+    \ the pros of this product. Do not repeat any of the information you previously\
+    \ wrote above in this article.Ã¢â‚¬Â¨ConsÃ¢â‚¬Â¨Write a detailed section covering the\
+    \ pros of this product. Do not repeat any of the information you previously wrote\
+    \ above in this article.Ã¢â‚¬Â¨Ã¢â‚¬Â¨What you need to know: What youÃ¢â‚¬â„¢ll love: What\
+    \ you should consider: Where to buy:Ã‚ Shop now PricingÃ¢â‚¬Â¨Write a detailed section\
+    \ explaining the pricing and to also get the reader excited that they can get\
+    \ it on Amazon Prime so that they can get free 2 day shipping.Ã¢â‚¬Â¨ ComparisonsÃ¢â‚¬Â¨Write\
+    \ a detailed section comparing this product with its top competitors, highlighting\
+    \ key differences. Do not repeat any of the information you previously wrote above\
+    \ in this article.Ã¢â‚¬Â¨ Customer ExperiencesÃ¢â‚¬Â¨Write a detailed section sharing\
+    \ customer experiences with the product. Do not repeat any of the information\
+    \ you previously wrote above in this article. Ã¢â‚¬Â¨FAQsÃ¢â‚¬Â¨Write a list of the most\
+    \ common frequently asked questions about this product.Ã‚ Answer each question\
+    \ with one paragraph each. Ã¢â‚¬Â¨ConclusionÃ¢â‚¬Â¨Recap the product review and give a\
+    \ final verdict and recommendation. Do not repeat any of the information you previously\
+    \ wrote above in this article.Ã¢â‚¬Â¨Ã¢â‚¬Â¨ Call to ActionÃ¢â‚¬Â¨Encourage readers to leave\
+    \ a comment, share the review, or purchase the product on Amazon by tapping the\
+    \ button below. Do not repeat any of the information you previously wrote above\
+    \ in this article."
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

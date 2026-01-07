@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3050
+# teaser: article seo checklist[PROMPT]
+- id: 3050-african-giant-article-optimizer-prompt
+  title: African Giant Article Optimizer[PROMPT]
+  tags:
+    - writing
+    - african
+    - giant
+    - article
+    - optimizer
+    - prompt
+  family: writing
+  body: English[TARGETLANGUAGE]SEO checklist[PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

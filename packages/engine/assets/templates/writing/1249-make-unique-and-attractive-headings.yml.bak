@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1249
+# teaser: Make Attractive Headings [PROMPT] keyword
+- id: 1249-make-unique-and-attractive-headings
+  title: Make Unique and Attractive Headings
+  tags:
+  - writing
+  - unique
+  - attractive
+  - headings
+  family: writing
+  body: Make Attractive Headings[TARGETLANGUAGE] By Using this [PROMPT] Keyword
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

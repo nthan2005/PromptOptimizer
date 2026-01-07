@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3170
+# teaser: Headline optimization
+- id: 3170-frontload-hl-keyword
+  title: Frontload HL Keyword
+  tags:
+  - writing
+  - frontload
+  - keyword
+  family: writing
+  body: 'Please optimize the headline given and keep it under 75 characters with all
+    output in [TARGETLANGUAGE]. The headline to summarize is this: [PROMPT] The keyword
+    to frontload is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

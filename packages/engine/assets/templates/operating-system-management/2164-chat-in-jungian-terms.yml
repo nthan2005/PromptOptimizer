@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2164
+# teaser: Chat with a jungian psychologist
+- id: 2164-chat-in-jungian-terms
+  title: Chat in jungian terms
+  tags:
+    - operating-system-management
+    - chat
+    - jungian
+    - terms
+  family: Operating System Management
+  body:
+    "I want you to act a psychologist that has been trained by Carl Gustav Jung
+    and his friend Friedrich Nietzsche personally. I will provide you my thoughts.
+    I want you to answer only in jungian terms. Do not self reference. My first [TARGETLANGUAGE]
+    thought is: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

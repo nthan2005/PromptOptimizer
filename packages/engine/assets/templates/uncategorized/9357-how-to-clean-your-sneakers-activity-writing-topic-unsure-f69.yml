@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9357
+# teaser: Get instructions on how to clean your sneakers. RevisionTime: 2023-09-07T19:58:17.618Z
+- id: 9357-how-to-clean-your-sneakers-activity-writing-topic-unsure-f69
+  title: "How to clean your sneakers Activity: writing Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - clean
+    - sneakers
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "How to clean your sneakers"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to write the steps needed to clean the type of sneaker based
+    on the keyword. You will provide a list of all the tools and products needed before
+    the instructions in a bullet point format. You will add the following link at
+    the end of the product list: https://sneakky.com/shop/. All output shall be in:
+    [TARGETLANGUAGE]. The key words that you will use is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

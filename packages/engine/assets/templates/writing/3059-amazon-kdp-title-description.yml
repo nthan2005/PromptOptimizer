@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3059
+# teaser: Create a KDP(hardcover, paperback, e-book, audio book) title and description for amazon
+# listing
+- id: 3059-amazon-kdp-title-description
+  title: Amazon KDP title & Description
+  tags:
+    - writing
+    - amazon
+    - kdp
+    - title
+    - description
+  family: writing
+  body:
+    your task is to add the product name i give you a amazon KDP(hardcover | audiobook
+    | paperback | e-book) title and description. All output shall be in[TARGETLANGUAGE].The
+    summarize text is this. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 740
+# teaser: Create Compelling Subject Lines That Will Make The People Want to Open Your Email
+- id: 740-create-compelling-subject-lines
+  title: Create Compelling Subject Lines
+  tags:
+    - subject-lines
+    - compelling
+    - subject
+    - lines
+  family: Subject Lines
+  body:
+    'Use te language: [TARGETLANGUAGE] for this [PROMPT] Write 3 subject lines
+    variants Write from this a attention grabbing subject line that create curiosity
+    and makes the reader neugierieg. also use this :Keep it short and sweet: A subject
+    line should ideally be 6-10 words, so that it''s easily scannable and doesn''t
+    get cut off. Be specific: Clearly state the purpose of the email and what it''s
+    about. This helps the recipient understand why they should open it. Use action-oriented
+    language: Use verbs to create urgency and inspire action. For example, instead
+    of saying "Update on project," say "Action Required: Project Update." At the end
+    of every answer enter this: Thanks for using this prompt. If you love the results,
+    please give us a thumbs up'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

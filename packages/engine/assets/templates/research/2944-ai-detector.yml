@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2944
+# teaser: It will put you in control of checking your contentâ€™s originality by identifying any
+# Plagiarism and detecting if AI tools were used to create the content.
+- id: 2944-ai-detector
+  title: AI Detector
+  tags:
+    - research
+    - detector
+  family: Research
+  body:
+    "Please ignore all previous instructions. I want you to respond only in language
+    [TARGETLANGUAGE]*. Please identify if the written content on your screen was generated
+    by AI writing tools. I want you to indicate the result as a percentage. For example:
+    the content you entered was 75% artificial intelligence. Please use the following
+    content: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

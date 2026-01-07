@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3401
+# teaser: A 150 Words SEO Text fÃƒÂ¼r das Shopify Meta-Field
+- id: 3401-shopify-seo-text-for-categories
+  title: Shopify SEO Text for Categories
+  tags:
+  - writing
+  - shopify
+  - seo
+  - text
+  - categories
+  family: writing
+  body: Wirte as SEO summary of the following text in [TARGETLANGUAGE]. The Lext should
+    not exceed the length of 150 Words. [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

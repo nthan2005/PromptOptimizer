@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6201
+# teaser: Learn anything & answer to questions about the same! RevisionTime: 2023-05-08T13:18:41.936Z
+- id: 6201-learn-about-anything-and-answer-mcqs-activity-dall-e-topic-g
+  title: 'Learn about anything & and answer MCQs Activity: Dall-E Topic: Generative-AI-b983edfcaa490850'
+  tags:
+  - uncategorized
+  - learn
+  - anything
+  - answer
+  - mcqs
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1820072757631913984/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Learn about anything & and answer MCQs"](https://www.aiprm.com/prompts/generative/dalle/1820072757631913984/)_"
+    --- I want to learn everything about [PROMPT] break down the topic into multiple
+    sub topics, explain each sub topic one-by-one in the most simplest form using
+    examples and anecdotes Ask me questions both subjective and MCQ''s to test my
+    understanding. Once I submit my answer, identify the mistake and give feedback.
+    Then again continue the same with the next sub topic in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

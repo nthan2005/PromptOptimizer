@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3598
+# teaser: Deobfuscate JS code
+- id: 3598-deobfuscate-js-code
+  title: Deobfuscate JS code
+  tags:
+    - web-development
+    - deobfuscate
+    - code
+  family: Web Development
+  body: "[TARGETLANGUAGE]] deobfuscate kode javascript di bawah ini: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

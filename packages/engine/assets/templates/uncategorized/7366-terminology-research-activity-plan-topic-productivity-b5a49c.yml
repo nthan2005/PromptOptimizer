@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7366
+# teaser: Create a list of terminology about a [TOPIC] in English and its translation in your
+# [LANGUAGE]. Very useful for translator or interpreter who wants to prepare for upcoming
+# Interpretation/Translation event. RevisionTime: 2023-03-16T15:05:00Z
+- id: 7366-terminology-research-activity-plan-topic-productivity-b5a49c
+  title: "Terminology Research Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - terminology
+    - research
+    - activity
+    - plan
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Terminology Research"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your Task is to Create a list of 50 terms and its brief definition on [PROMPT]
+    and display it in a table of four columns where the first column is the term in
+    English and the second column contains the definition in English, the third column
+    is the translation in [TARGETLANGUAGE] and the fourth column is the definition
+    in [TARGETLANGUAGE]. The list will be sorted by the popularity of use.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8319
+# teaser: Simply paste your content at the top and paste your keywords at the bottom of the text.
+# Enclose the keyword list in [ ] and let the magic happen. RevisionTime: 2023-02-19T15:35:19Z
+- id: 8319-add-a-list-of-keywords-to-your-existing-content-activity-wri
+  title:
+    "Add a List of Keywords to Your Existing Content Activity: writing Topic:
+    SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - add
+    - list
+    - keywords
+    - existing
+    - content
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Add a List of Keywords to Your Existing
+    Content "](https://github.com/nthan2005/PromptOptimizer)_" ---
+    You have to follow every instruction very seriously and do not miss anything.
+    The goal is to add keywords into the text naturally, without changing much of
+    what''s already written. VERY IMPORTANT: DO NOT MISS ANY KEYWORD! ADD ALL PROVIDED
+    KEYWORDS. All added keywords should be in BOLD. I want you to add some keywords
+    to the text. You will find the keywords at the end of the text enclosed in [].
+    All output shall be in [TARGETLANGUAGE] Here are the text and keywords at the
+    end: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

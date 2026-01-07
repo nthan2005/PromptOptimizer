@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9275
+# teaser: Stream Conversation Topic Gnerator RevisionTime: 2023-06-09T22:25:16.454Z
+- id: 9275-stream-discussion-topic-generator-activity-unsure-topic-unsu
+  title: "Stream Discussion/Topic Generator Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - stream
+    - discussion
+    - topic
+    - generator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Stream Discussion/Topic Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- ''Act as a live stream host and engage with your audience by discussing a
+    topic that encourages them to share their perspectives. Develop a short topic
+    question that is conversational, friendly, and respectful. The prompt should generate
+    a topic question that meets these requirements. The topic prompt is: "[PROMPT]"
+    The target language is [TARGETLANGUAGE]'''
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

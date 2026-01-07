@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3556
+# teaser: Create a NFT cooking strategy for a specific dish
+- id: 3556-dishes
+  title: Dishes
+  tags:
+    - text-editor
+    - dishes
+  family: Text Editor
+  body:
+    Please provide a list of smart contracts for [PROMPT] that could be used in
+    a cooking game that involves the creation, such as the steps of boiling or frying,
+    preparing, chopping, sautÃ©ing, combining, mashing, shaping, frying, serving and
+    any other cooking method needed for that dish, and the exchange of NFTs. Please
+    provide the smart contracts for each step and their input and output NFTs without
+    going into too much detail of what is happening. Please answer in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

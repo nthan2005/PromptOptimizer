@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6951
+# teaser: Use this storytelling prompt to level up your LinkedIn post engagement. Create a LinkenIn
+# post that will capture attention and stop scrolling using the "slippery slide" copywriting concept.
+# RevisionTime: 2024-10-03T09:57:40.531Z
+- id: 6951-storytelling-linkedin-post-caption-activity-social-media-top
+  title: "Storytelling LinkedIn post caption Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - storytelling
+    - linkedin
+    - post
+    - caption
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Storytelling LinkedIn post caption"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] Write a storytelling LinkedIn post caption from 200 to 400 character
+    limit. Start the caption with a question or highlighting the most important part
+    of the information using the slippery slide concept. Then highlight how it''s
+    done and what results it brought. Make it casual reading style and friendly tone
+    of voice. All output should be in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

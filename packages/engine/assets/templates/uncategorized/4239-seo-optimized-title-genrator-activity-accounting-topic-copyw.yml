@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4239
+# teaser: [keyword] [keyword2] [keyword]3 RevisionTime: 2023-06-14T10:47:35.607Z
+- id: 4239-seo-optimized-title-genrator-activity-accounting-topic-copyw
+  title: "SEO Optimized Title Genrator Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - seo
+    - optimized
+    - title
+    - genrator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SEO Optimized Title Genrator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Suggest 10 SEO Optimized Titles for Following keyword [TARGETLANGUAGE] and
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1046
+# teaser: Create a powerful and high ctr meta description for your web pages under 160 characters.
+- id: 1046-create-powerful-and-high-ctr-meta-description
+  title: Create Powerful and High CTR Meta Description
+  tags:
+    - writing
+    - powerful
+    - high
+    - ctr
+    - meta
+    - description
+  family: writing
+  body:
+    "AÃƒâ€¦Ã…Â¸aÃƒâ€žÃ…Â¸Ãƒâ€žÃ‚Â±da ki keyword hakkÃƒâ€žÃ‚Â±nda hedef kitleyi harekete geÃƒÆ’Ã‚Â§irecek ve 160
+    karakterden kÃƒâ€žÃ‚Â±sa bir SEO uyumlu meta aÃƒÆ’Ã‚Â§Ãƒâ€žÃ‚Â±klama yazmanÃƒâ€žÃ‚Â± istiyorum. Meta aÃƒÆ’Ã‚Â§Ãƒâ€žÃ‚Â±klama
+    ilgi ÃƒÆ’Ã‚Â§ekici olmalÃƒâ€žÃ‚Â± ve kullanÃƒâ€žÃ‚Â±cÃƒâ€žÃ‚Â±larÃƒâ€žÃ‚Â± harekete geÃƒÆ’Ã‚Â§irmeli. Gereksiz kelimeler
+    ve iÃƒâ€¦Ã…Â¸aretleri kullanma. Sadece nokta ve virgÃƒÆ’Ã‚Â¼l kullanmanÃƒâ€žÃ‚Â± istiyorum. YazdÃƒâ€žÃ‚Â±Ãƒâ€žÃ…Â¸Ãƒâ€žÃ‚Â±n
+    aÃƒÆ’Ã‚Â§Ãƒâ€žÃ‚Â±klamanÃƒâ€žÃ‚Â±n kaÃƒÆ’Ã‚Â§ karakter olduÃƒâ€žÃ…Â¸unu parantez iÃƒÆ’Ã‚Â§inde belirt. Anadilin [TARGETLANGUAGE]
+    olacak Ãƒâ€¦Ã…Â¸ekilde %100 hatasÃƒâ€žÃ‚Â±z ve akÃƒâ€žÃ‚Â±cÃƒâ€žÃ‚Â± bir Ãƒâ€¦Ã…Â¸ekilde yazmanÃƒâ€žÃ‚Â± istiyorum. Keyword:
+    [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

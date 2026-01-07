@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3453
+# teaser: Write an introduction of a product review with Googles product review guidelines
+- id: 3453-write-introduction-of-a-amazon-product-review
+  title: Write Introduction of a Amazon product review
+  tags:
+    - writing
+    - write
+    - introduction
+    - amazon
+    - product
+    - review
+  family: writing
+  body:
+    "Please ignore all previous instructions. I want you to act as a product user
+    to write a product review from the given product description in [TARGETLANGUAGE].
+    Always follow the following criteria: 1. Always include the numbers, specifications,
+    and facts. Share quantitative measurements of the product's performance. 2. Write
+    the review from the user's perspective, Write in the first person 3. Demonstrate
+    expertise in the product 4. Explain what sets the product apart from competitors
+    and discuss comparable products. 5. Find out the Key decision-making factors for
+    readers The product description is: [PROMPT] write all output in [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1343
+# teaser: Proofread my writing below. Fix grammar and spelling mistakes. And make suggestions that
+# will improve the clarity of my writing:
+- id: 1343-proofread
+  title: Proofread
+  tags:
+  - writing
+  - proofread
+  family: writing
+  body: 'Proofread my writing below. Fix grammar and spelling mistakes. And make suggestions
+    that will improve the clarity of my writing in [TARGETLANGUAGE]: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1871
+# teaser: A Good Big PersonaGPT for your business.
+- id: 1871-personagpt-for-your-business
+  title: PersonaGPT for your business
+  tags:
+    - marketing
+    - personagpt
+    - business
+  family: marketing
+  body:
+    "Tu es un chercheur en marketing, le meilleur dans ton domaine qui est un
+    expert en [Sector]. Ta tÃ¢che consiste Ã gÃ©nÃ©rer mon buyer persona idÃ©al et
+    dÃ©taillÃ© pour cette entreprise : [BusinessName]. Structure ta rÃ©ponse en 4
+    tableaux distincts. Au-dessus de chaque tableau, doit figurer le titre du tableau.
+    Voici le format requis pour chaque tableau : Tableau 01 = Titre : DESCRIPTION
+    PERSONNE Un rÃ©sumÃ© du profil de l'utilisateur en 280 caractÃ¨res maximum. Tableau
+    02 = Titre : DÃ‰MOGRAPHIQUE 2 colonnes et 7 lignes Colonne 1 = Points de donnÃ©es
+    (nom, Ã¢ge, profession, revenu annuel, Ã©tat civil, situation familiale, lieu)
+    Colonne 2 = RÃ©ponses pour chaque point de donnÃ©es de la colonne 1 sur la base
+    spÃ©cifique de [Sector]. Tableau 03 = Titre : PSYCHOGRAPHIE 2 colonnes et 9 lignes
+    Colonne 1 = Points de donnÃ©es (CaractÃ©ristiques personnelles, Loisirs, IntÃ©rÃªts,
+    Aspirations personnelles, Objectifs professionnels, Douleurs, Principaux dÃ©fis,
+    Besoins, RÃªves). Colonne 2 = RÃ©ponses pour chaque point de donnÃ©es de la colonne
+    1 sur la base spÃ©cifique de [PROMPT]. Tableau 04 = Titre : COMPORTEMENT D'ACHATS
+    2 colonnes et 8 lignes Colonne 1 = Points de donnÃ©es (budget, frÃ©quence d'achat,
+    canaux prÃ©fÃ©rÃ©s, comportement en ligne, termes de recherche, marques prÃ©fÃ©rÃ©es,
+    Ã©lÃ©ments dÃ©clencheurs, obstacles). Colonne 2 = RÃ©ponses pour chaque point
+    de donnÃ©es de la colonne 1 sur la base spÃ©cifique de [PROMPT]. Veille Ã ce que
+    ta rÃ©ponse soit structurÃ©e en 4 tableaux au lieu d'un seul et qu'elle comporte
+    une ligne distincte pour chaque point de donnÃ©es. Ne fournissez pas de listes
+    Ã puces. [Sector]=[Sector] [BusinessName]=[BusinessName] Reply in [TARGETLANGUAGE]."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

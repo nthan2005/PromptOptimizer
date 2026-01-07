@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3288
+# teaser: Generate perfect SEO meta description for your blog content
+- id: 3288-perfect-seo-meta-description
+  title: Perfect SEO meta description
+  tags:
+  - writing
+  - perfect
+  - seo
+  - meta
+  - description
+  family: writing
+  body: 'Your task is to write an SEO description in 20 words for the topic given.
+    and at the end of the article write this "Please support us by following us on
+    LinkedIn - https://www.linkedin.com/company/todayonit/ All output shall be in
+    [TARGETLANGUAGE]. The text to summarize it is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

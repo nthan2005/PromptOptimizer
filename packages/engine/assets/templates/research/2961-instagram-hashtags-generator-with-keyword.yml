@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2961
+# teaser: Create Instagram Hashtags About My Topic
+- id: 2961-instagram-hashtags-generator-with-keyword
+  title: Instagram Hashtags Generator With Keyword
+  tags:
+    - research
+    - instagram
+    - hashtags
+    - generator
+    - keyword
+  family: Research
+  body:
+    "Create 20 Instagram trending hashtags Targeting an LSI Keyword with some
+    search volume for the following Topic: [PROMPT]. No tags, separate keywords by
+    space. Only capitalize proper nouns. [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

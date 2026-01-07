@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2048
+# teaser: Identify category-related needs of your audience a basis for audience and target group
+# segmentation. Brought to you by Mister SEO.
+- id: 2048-category-related-needs-of-your-audience
+  title: Category-related needs of your audience
+  tags:
+    - segment-your-audience
+    - category
+    - related
+    - needs
+    - audience
+  family: Segment your audience
+  body:
+    Category-related needs refers to the specific needs associated with a particular
+    category of products or services. These needs can vary from person to person and
+    depend on various factors such as age, gender, income, and cultural background.
+    You are a market research expert with a lot of knowledge in [PROMPT]. Give me
+    ten very different underlying category-related needs for [PROMPT]. Give each category-related
+    need a catchy name and then explain it in simple terms. Don't explain why and
+    what you are doing. Write in [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

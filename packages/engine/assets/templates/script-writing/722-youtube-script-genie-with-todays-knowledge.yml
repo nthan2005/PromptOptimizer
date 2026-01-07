@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 722
+# teaser: Our prompt have capability to write the script with over the knowledge of 2021. It can can
+# write the YouTube script with telling you what images or clips you have to use in your video to make
+# it attractive.
+- id: 722-youtube-script-genie-with-todays-knowledge
+  title: "YouTube Script Genie: With todays Knowledge"
+  tags:
+    - script-writing
+    - youtube
+    - script
+    - genie
+    - todays
+    - knowledge
+  family: Script Writing
+  body:
+    'Write an engaging YouTube script based on the following title and articles
+    and tell me what should be the background, foreground, transitions, and more images/clips
+    at what word: [PROMPT] Points: - Request for engagement - Ask viewers to engage
+    by liking and offer options to suggest a title/outline, continue writing, find
+    more prompts, or donate. - Topic - Write an engaging YouTube script based on provided
+    title and articles. - Title - Create a catchy, relevant title that captures the
+    video''s tone and emphasizes key words. - Hook and Tone - Start with an attention-grabbing
+    shot of your dog doing a trick and use a chatty tone, witty jokes, and pop culture
+    references to maintain interest. - Outline and Visual Cues - Provide an organized
+    outline with timestamps and visual cues like opening/closing shots of your dog
+    doing different tricks. - Length and Jokes - Make the video at least 10 minutes
+    long and include jokes that relate to your dog''s personality or the tricks you
+    are teaching. - Simple Example - Include a simple, relatable example of how you
+    taught your dog a trick using positive reinforcement. - Visuals - Use different
+    shots to show your dog''s progress from learning to mastering the trick. Use close-ups
+    of your dog''s face or body language to show its emotions. Use slow motion or
+    fast forward effects to emphasize key moments. - Referencing Articles - Introduce
+    quoted article lines with "According to this article..." or "This article suggests...".
+    - Closing Shot - Plan a shot that shows your dog doing all the tricks you taught
+    in the video in a sequence. Praise your dog and thank the viewers for watching.
+    - Sources - Include sources/links in the video description box. Note: Assume the
+    complete prompt is written in [TARGETLANGUAGE] and answer only in [TARGETLANGUAGE]
+    .'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

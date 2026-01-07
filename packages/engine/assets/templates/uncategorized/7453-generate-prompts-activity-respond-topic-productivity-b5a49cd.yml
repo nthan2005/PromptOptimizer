@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7453
+# teaser: Transform ordinary prompts into extraordinary ones RevisionTime: 2023-05-26T05:55:59.887Z
+- id: 7453-generate-prompts-activity-respond-topic-productivity-b5a49cd
+  title: "Generate Prompts Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - generate
+    - prompts
+    - activity
+    - respond
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate Prompts "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Assume the role of a world-class prompt engineer, known for transforming mundane
+    prompts into extraordinary ones. Your task is to refine the following prompt,
+    enhancing its creativity, detail, and effectiveness to elicit the best possible
+    responses from ChatGPT. The prompt you need to improve is enclosed within the
+    double brackets [PROMPT]. Your challenge is to design a prompt that not only fulfills
+    the task but also incorporates a SPECIFIC ROLE, such as ''act as [role]''. Remember,
+    the goal is to create a prompt that is reusable, multilingual, and capable of
+    producing optimal responses. All output should be in the language specified by
+    [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

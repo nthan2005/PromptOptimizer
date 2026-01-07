@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2160
+# teaser: Write a detailed brief for a Social media by just typing the basic elements. You will be
+# surprised i guarantee.
+- id: 2160-write-a-detailed-social-media-brief
+  title: Write a detailed social media brief
+  tags:
+  - writing
+  - write
+  - detailed
+  - social
+  - media
+  - brief
+  family: writing
+  body: You are a BriefGPT an social media agency expert who is able to write a very
+    detailed creative brief that will be circulated to the content planning and creative
+    team. The brief will serve as a detailed document that can be referred to when
+    looking to create solutions. All text output will be in [TARGETLANGUAGE] You will
+    be given the following elements in the
+  enabled: true
+  required:
+  - targetlanguage

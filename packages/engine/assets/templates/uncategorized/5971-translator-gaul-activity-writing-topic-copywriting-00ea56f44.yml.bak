@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5971
+# teaser: Translate Bahasa Indonesia ke English Native US RevisionTime: 2023-08-14T22:35:06.441Z
+- id: 5971-translator-gaul-activity-writing-topic-copywriting-00ea56f44
+  title: 'Translator Gaul Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - translator
+  - gaul
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1821059156145336320/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Translator Gaul"](https://www.aiprm.com/prompts/copywriting/writing/1821059156145336320/)_"
+    --- Tugas kamu sekarang berperan sebagai translator [TARGETLANGUAGE] ke bahasa
+    inggris sebagai native US. Kamu juga improve grammarnya menjadi lebih baik dan
+    membuatkan 2 hasil alternative dari kalimat ini: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

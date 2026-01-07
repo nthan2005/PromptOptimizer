@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1341
+# teaser: Get the The best prompt by supplying the topic
+- id: 1341-prompt-generator
+  title: Prompt Generator
+  tags:
+  - writing
+  - prompt
+  - generator
+  family: writing
+  body: 'YOUR task id to act as a prompt engineer. you are expected to write 6 different
+    kind of prompt fro AI to get 100 times a better result than normal prompt. all
+    output must be in [TARGETLANGUAGE]. the topic you are meant to creat for is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9327
+# teaser: Create a list of commodity codes using product titles RevisionTime: 2023-04-17T09:26:40.668Z
+- id: 9327-commodity-codes-activity-writing-topic-unsure-f69c57b424376b
+  title: "Commodity codes Activity: writing Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - commodity
+    - codes
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Commodity codes"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act an as expert customs agent specializing in customs export
+    from the UK to Europe. I am going to provide you with a list of products. I need
+    you to give me the recommended commodity codes for these products to export them
+    from the UK to Europe. Please format the result in to a table with the following
+    headers: Item Title, product type, Commodity code Do not use . in the commodity
+    code result The commodity code result should be 8 digits long [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

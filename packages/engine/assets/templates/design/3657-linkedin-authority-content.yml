@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3657
+# teaser: Create Authority Content for LinkedIn Post
+- id: 3657-linkedin-authority-content
+  title: LinkedIn Authority Content
+  tags:
+    - design
+    - linkedin
+    - authority
+    - content
+  family: Design
+  body:
+    Write unique authority content for LinkedIn posts in [TARGETLANGUAGE] for
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

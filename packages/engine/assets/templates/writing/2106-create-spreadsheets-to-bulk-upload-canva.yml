@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2106
+# teaser: Create spreadsheets to Bulk upload Canva about a Subject
+- id: 2106-create-spreadsheets-to-bulk-upload-canva
+  title: Create spreadsheets to Bulk upload Canva
+  tags:
+    - writing
+    - spreadsheets
+    - bulk
+    - upload
+    - canva
+  family: writing
+  body:
+    "My output will be in [TARGETLANGUAGE] Create a 10 rows tables with information
+    about [PROMPT]. As my table columns I want: Title, subtitle, short explanation
+    and an long explanation."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

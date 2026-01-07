@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 950
+# teaser: Create a monthly plan for blogs
+- id: 950-blog-idea-about-ui-ux-ai
+  title: Blog idea about UI/UX & ai
+  tags:
+    - writing
+    - blog
+    - idea
+  family: writing
+  body:
+    Your task is to create a 30 days plan of blog writing for medium [TARGETLANGUAGE].
+    to create ideas for the monthly plan [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

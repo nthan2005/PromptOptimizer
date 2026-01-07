@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2263
+# teaser: paretto learning
+- id: 2263-paretto-s-principle-20-80-learning
+  title: Paretto's principle 20/80 learning
+  tags:
+    - plan
+    - paretto
+    - principle
+    - learning
+  family: Plan
+  body:
+    Identifique os 20% de [PROMPT] que produzirÃ£o 80% dos resultados desejados
+    e forneÃ§a um plano de aprendizado focado para dominÃ¡-lo em [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

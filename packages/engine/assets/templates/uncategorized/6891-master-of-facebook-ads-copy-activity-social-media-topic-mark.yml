@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6891
+# teaser: create a Facebook ads copy for digital marketing agency RevisionTime:
+# 2024-10-03T09:54:09.539Z
+- id: 6891-master-of-facebook-ads-copy-activity-social-media-topic-mark
+  title: "Master of facebook ads copy Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - master
+    - facebook
+    - ads
+    - copy
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Master of facebook ads copy"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I need and effective Facebook ads copy that will promote our [YOURPRODUCTNAME]
+    and explain why it''s the best choice of [TARGETAUDIENCE] a write output on [TARGETLANGUAGE]
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetaudience
+    - targetlanguage
+    - yourproductname

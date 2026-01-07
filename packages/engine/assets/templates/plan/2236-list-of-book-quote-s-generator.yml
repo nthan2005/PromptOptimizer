@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2236
+# teaser: List of Book Quote's Generator
+- id: 2236-list-of-book-quote-s-generator
+  title: List of Book Quote's Generator
+  tags:
+    - plan
+    - list
+    - book
+    - quote
+    - generator
+  family: Plan
+  body:
+    Write a bulleted list consisting of 15 quotes with varying lengths (some short
+    quotes while others quotes are longer) from [PROMPT] in [TARGETLANGUAGE]. Ensure
+    that the quotes from the book are important and meaningful. Also, ensure to write
+    which character said the quote.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7875
+# teaser: It is not stealing if this is public RevisionTime: 2023-09-06T13:24:42.363Z
+- id: 7875-extract-keywords-from-your-competitor-activity-keywords-topi
+  title: 'Extract keywords from your competitor Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - extract
+  - keywords
+  - competitor
+  - activity
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1864994372664942592/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Extract keywords from your competitor"](https://www.aiprm.com/prompts/seo/keywords/1864994372664942592/)_"
+    --- You''re an SEO expert. You want to outrank your competitors on their keywords.
+    To do this, you''re going to analyze the article [PROMPT]: title, description,
+    headings, alt image, content and internal linking to extract the keywords on which
+    they''re positioned and the associated semantic fields. Your answer will be in
+    the form of a table with Major keywords and associated semantic fields [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

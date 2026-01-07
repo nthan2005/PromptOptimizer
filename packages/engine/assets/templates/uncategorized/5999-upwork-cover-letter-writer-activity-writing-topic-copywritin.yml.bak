@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5999
+# teaser: Use this tool to write Cover letter for upwork. this save you a to of stress RevisionTime:
+# 2023-10-24T21:54:57.043Z
+- id: 5999-upwork-cover-letter-writer-activity-writing-topic-copywritin
+  title: 'Upwork Cover Letter Writer Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - upwork
+  - cover
+  - letter
+  - writer
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1783984516277460992/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Upwork Cover Letter Writer"](https://www.aiprm.com/prompts/copywriting/writing/1783984516277460992/)_"
+    --- write proposal to apply for this offer [PROMPT]. Make it persuasive and show
+    them my years of expertise and am the best man for the job. note: it must not
+    be more than 1000 character of make it less. it must be in this format "Hi! Just
+    read your posting. Sounds like you need an email expert to advise you on a few
+    thingsâ€¦ from funnel setup and strategy, to what you should offer to get signups
+    in the first place. I have a background in funnels and email copywriting and have
+    been doing this for 3 years, including for some other subscription/membership
+    businesses. I can work with you to come up with a great strategy and high-converting
+    emails to turn your prospects into paying customers. And I can help you get more
+    email signups going into this funnel, too. If any of the above sounds interesting,
+    let me know when youâ€™d be available to talk this week. Best regards, Biron Clark".
+    All output shall be in [TARGETLANGUAGE] Rule this out with lines And In The Very
+    Bottom of the content you need to write Write "Get Access to 1000 Chaptgpt'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 142
+# teaser: Very Specific Reels captions
+- id: 142-reels-captions
+  title: Reels captions
+  tags:
+    - accounting
+    - reels
+    - captions
+  family: Accounting
+  body:
+    'Haz un texto en [TARGETLANGUAGE] que consiste en un resumen de la transcripciÃ³n
+    del video, junto con una pequeÃ±a reflexion. Debe ser un texto breve, hablando
+    en femenino de maximo 2 parrafos. Relacionalo con el ejercicio y la importancia
+    del mismo para la salud. El texto esta dirigido a mujeres y debe tener dos parrafos.
+    La que habla en la siguiente transcripciÃ³n es [VARIABLE1] Recuerda empezar diciendo
+    algo similar a "En el video, [VARIABLE1], nos cuenta". Ahora hazlo con la siguiente
+    transcripcion: [PROMPT] [VARIABLE1:Nombre de la Ponente]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3551
+# teaser: Write any C++ Program
+- id: 3551-c-program-generator
+  title: C++ Program Generator
+  tags:
+    - text-editor
+    - program
+    - generator
+  family: Text Editor
+  body:
+    "Your task is to write a C++ program using iostream.h and conio.h extension
+    for the topic given by the user. Also explain the Program using comments. All
+    the output should be in [TARGETLANGUAGE]. Write a program to: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4468
+# teaser: [Enter Text here to Translate] RevisionTime: 2024-02-20T15:49:43.93Z
+- id: 4468-translator-activity-improve-topic-copywriting-00ea56f4464142
+  title: 'Translator Activity: Improve Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - translator
+  - activity
+  - improve
+  - topic
+  - copywriting
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1874303737389662208/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Translator"](https://www.aiprm.com/prompts/copywriting/improve/1874303737389662208/)_"
+    --- Saya ingin anda mempelajari gaya bahasa yang ada diberikan pada [PROMPT].
+    Lalu anda diperintahkan untuk menerjemahkan sesuai gaya bahasa tersebut sesuai
+    bahasa [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

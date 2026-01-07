@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7657
+# teaser: I will give you an outline, can you create a blog post from it? RevisionTime:
+# 2023-07-10T09:01:31.353Z
+- id: 7657-create-a-blog-post-from-outline-activity-cancel-topic-saas-8
+  title: "Create a blog post from outline Activity: Cancel Topic: SaaS-84c5d6a7b8e9f0c2"
+  tags:
+    - uncategorized
+    - blog
+    - post
+    - outline
+    - activity
+    - cancel
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create a blog post from outline"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I will give you an outline, can you create a [TARGETLANGUAGE] blog post from
+    it? [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

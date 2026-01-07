@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4710
+# teaser: Revolutionize Your outreach email with Our Proven Solutions! Discover How. RevisionTime:
+# 2023-11-28T10:46:31.354Z
+- id: 4710-outreach-email-strategy-activity-outreach-topic-copywriting
+  title: "outreach email Strategy Activity: Outreach Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - outreach
+    - email
+    - strategy
+    - activity
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "outreach email Strategy"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as an outreach email writer. I will provide you with an
+    email address and you will reply to the email with your email address, subject
+    line, and subject line. You should only reply with the email address provided,
+    and nothing else. My first request is[TARGETLANGUAGE] Also [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

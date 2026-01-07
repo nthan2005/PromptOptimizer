@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 98
+# teaser: Generate more than 100 keywords just in 1 click for your blog
+- id: 098-generate-more-than-100-keywords-just-in-1-click
+  title: Generate more than 100 keywords just in 1 click
+  tags:
+    - accounting
+    - generate
+    - more
+    - than
+    - "100"
+    - keywords
+  family: Accounting
+  body:
+    I will provide you a product name. I need most related informative video title
+    idea that starts with 'WH" questions. Also you can add Fixing ,error,not working
+    related keywords too. Provide more than 100. [TARGETLANGUAGE] Give me keywords
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

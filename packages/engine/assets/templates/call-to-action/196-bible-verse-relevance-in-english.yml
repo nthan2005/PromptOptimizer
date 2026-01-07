@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 196
+# teaser: Uncover the significance of a specific Bible verse in your life by analyzing its context,
+# application, and interpretation.
+- id: 196-bible-verse-relevance-in-english
+  title: Bible Verse Relevance in English
+  tags:
+    - call-to-action
+    - bible
+    - verse
+    - relevance
+    - english
+  family: call to action
+  body:
+    All output shall be in [TARGETLANGUAGE]. Why is this Bible verse [PROMPT]
+    relevant?
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

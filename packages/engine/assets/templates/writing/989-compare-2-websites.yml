@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 989
+# teaser: Write [URL1] and [URL2] to be compared
+- id: 989-compare-2-websites
+  title: Compare 2 Websites
+  tags:
+    - writing
+    - compare
+    - websites
+  family: writing
+  body:
+    "[TARGETLANGUAGE] Compare 2 URLs from the same niche and specify the pros
+    and cons of each one, as well as a final conclusion about which one is better
+    taking into account positioning, SEO, search intention... In conclusion which
+    is better for the engine. [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

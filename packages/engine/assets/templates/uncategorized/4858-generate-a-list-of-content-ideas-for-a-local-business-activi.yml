@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4858
+# teaser: Simply enter the [Service Type] and [Service Location] to generate a list of content ideas
+# that you can publish on the blog. Eg; [Service Type] - Plumbing [Service Location] - Houston
+# RevisionTime: 2023-02-19T15:35:19Z
+- id: 4858-generate-a-list-of-content-ideas-for-a-local-business-activi
+  title:
+    "Generate a List of Content Ideas for a Local Business Activity: Research
+    Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - generate
+    - list
+    - content
+    - ideas
+    - local
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate a List of Content Ideas for
+    a Local Business"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I will provide a service type and I want you to create a list of 25 content
+    ideas in [TARGETLANGUAGE] that I can publish on the blog. Include a mix of guides,
+    tutorials, success stories, evergreen content, explainers, unpopular opinions,
+    comparisons, and listicles. Categorize each of these ideas into these content
+    types in a table format. Begin the output with "LME''s AI list of Content Ideas
+    for a [PROMPT]". Visit https://localmarketingempire.com for more content on local
+    marketing." My first request is for a [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

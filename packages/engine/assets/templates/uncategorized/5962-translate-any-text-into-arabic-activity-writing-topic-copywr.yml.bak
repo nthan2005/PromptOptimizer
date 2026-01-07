@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5962
+# teaser: Get your text in Arabic Language RevisionTime: 2023-08-05T20:53:45.989Z
+- id: 5962-translate-any-text-into-arabic-activity-writing-topic-copywr
+  title: 'Translate any text into Arabic Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - translate
+  - any
+  - text
+  - arabic
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1853505206068449280/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Translate any text into Arabic"](https://www.aiprm.com/prompts/copywriting/writing/1853505206068449280/)_"
+    --- Translate the following text into Arabic!, but pay attention to the following
+    points: * write only the translation and not write: "Ø¨Ø§Ù„Ø·Ø¨Ø¹ØŒ Ø³Ø£ÙƒØªØ¨
+    Ù„Ùƒ Ø¨Ø§Ù„Ù„ØºØ© Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©:" or something else!!! * try to structure long
+    texts well and work well with headings! * and try to use blod fonts! All output
+    should be in [TARGETLANGUAGE]. The text to be translated is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

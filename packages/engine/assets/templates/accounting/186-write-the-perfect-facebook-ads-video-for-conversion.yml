@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 186
+# teaser: Ask your consultant to write the perfect Facebook Ads video ! The prompt will give you 3
+# versions of the ads. Pick the one you prefer, test it and scale it ! Note : When describing your
+# product, try being specific. You can also specify the audience you want to target.
+- id: 186-write-the-perfect-facebook-ads-video-for-conversion
+  title: Write the perfect Facebook Ads video for Conversion
+  tags:
+    - accounting
+    - write
+    - perfect
+    - facebook
+    - ads
+    - video
+  family: Accounting
+  body:
+    'RÃ©ponds moi en [TARGETLANGUAGE] uniquement. Tout ce que tu Ã©cris doit Ãªtre
+    en [TARGETLANGUAGE] et rien ne dÃ©roge Ã cette rÃ¨gle. Fais un tableau (ce format
+    est requis) donnant 3 alternatives de vidÃ©os dynamiques, engageantes et suscitant
+    des Ã©motions pour ma publicitÃ© Facebook pour promouvoir le produit que je t''ai
+    donnÃ© dont voici les informations :"[PROMPT]". Les Ã©tapes doivent s''enchainer
+    de maniÃ¨re fluide et Ãªtre cohÃ©rentes entre elles. La 1Ã¨re alternative est
+    une version basique. La seconde alternative est une version avec un storytelling
+    trÃ¨s marquÃ©. La 3Ã¨me alternative est une version au ton dÃ©calÃ© avec de l''humour.
+    Les Ã©tapes de la publicitÃ© sont les lignes du tableau : Hook - text / Hook -
+    Video / Problem - Text / Problem - Video / Solution - text / Call To Action -
+    Text / Call To Action - Video / Description catchy avec call to action pour chaque
+    alternative de vidÃ©o Ensuite, tu feras un paragraphe succinct pour expliquer
+    que pour avoir les meilleurs rÃ©sultats il faut faire de l''A/B testing d''au
+    moins 2 versions de la publicitÃ© et qu''il faudra crÃ©er plusieurs Adsets comprenant
+    des crÃ©atives Ã prÃ©senter auprÃ¨s d''audiences diffÃ©rentes allant de 2 Ã 10millions
+    de personnes. Il est primordial que tu ne t''arrÃªte pas d''Ã©crire tant que tu
+    as des choses Ã dire'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

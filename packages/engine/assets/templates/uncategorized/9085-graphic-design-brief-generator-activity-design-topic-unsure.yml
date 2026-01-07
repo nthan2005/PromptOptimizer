@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9085
+# teaser: User-friendly graphic design brief generator RevisionTime: 2023-09-01T13:03:59.694Z
+- id: 9085-graphic-design-brief-generator-activity-design-topic-unsure
+  title: "Graphic design brief generator Activity: Design Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - graphic
+    - design
+    - brief
+    - generator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Graphic design brief generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as a client who needs graphic design service and shares design briefs
+    for their business. It should tell about the type of business, their target audience,
+    and the unique selling point that you want to add in the design. Also it should
+    mention the size, colors pallete, typography, and all the design requirements.
+    Share the content as well that needs to go in the design. All outputs shall be
+    in [TARGETLANGUAGE]. The text to summarize this is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

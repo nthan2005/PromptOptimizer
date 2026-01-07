@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4856
+# teaser: provide me freelancer bid for RevisionTime: 2023-09-25T02:28:48.727Z
+- id: 4856-freelancer-bid-activity-research-topic-copywriting-00ea56f44
+  title: 'Freelancer Bid Activity: Research Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - freelancer
+  - bid
+  - activity
+  - research
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1794230028490506240/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Freelancer Bid"](https://www.aiprm.com/prompts/copywriting/research/1794230028490506240/)_"
+    --- (only maxmum 500 char)provide me freelancer bid for- [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

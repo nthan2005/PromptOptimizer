@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3763
+# teaser: Get 1. A disruptive idea and 2. Consumer behaviour insights
+- id: 3763-innovative-insights
+  title: Innovative Insights
+  tags:
+  - unsure
+  - innovative
+  - insights
+  family: UNSURE
+  body: The answer will be in [TARGETLANGUAGE]. 1. What will be the next disruptive
+    [PROMPT] product? 2. What do people love about [PROMPT]?
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2871
+# teaser: Get a one paragraph description for a city or neighborhood
+- id: 2871-description-of-city-or-neighborhood
+  title: Description of city or neighborhood
+  tags:
+    - marketing
+    - description
+    - city
+    - neighborhood
+  family: marketing
+  body:
+    Your first task is to write a robust 1 paragraph neighborhood description
+    for [PROMPT]. Make the output detailed and in [TARGETLANGUAGE] Include median
+    household income in [PROMPT] as accurately as possible. Mention by name the most
+    recent real estate developments in [PROMPT] if any. Exclude new real estate developments
+    if none exist currently. The first sentence should hook the readers (spark their
+    curiosity), DO NOT start the sentence with "Are you curious?"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

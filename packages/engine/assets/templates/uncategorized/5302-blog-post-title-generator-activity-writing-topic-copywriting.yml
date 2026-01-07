@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5302
+# teaser: Get 10 Different Blog Post Title Idea Just in 1 Click RevisionTime: 2023-03-29T09:14:46.307Z
+- id: 5302-blog-post-title-generator-activity-writing-topic-copywriting
+  title: "Blog Post Title Generator Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - blog
+    - post
+    - title
+    - generator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Blog Post Title Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please use English for all responses. Act as a skilled blog post title writer
+    with fluency in English. I will provide a keyword or keywords separated by commas,
+    and your task is to generate 10 blog post titles that include the keyword(s) at
+    the beginning and have high potential for going viral on social media. Ensure
+    all titles are under 58 characters and 570px. Now, please generate 10 titles based
+    on the keyword(s) [PROMPT] in [TARGETLANGUAGE], keeping the keyword(s) at the
+    beginning of each title.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

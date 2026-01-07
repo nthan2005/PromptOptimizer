@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4920
+# teaser: Create a first draft text for your seminar paper on your topic on a chapter from your
+# seminar paper. Use documented statements from real sources. Use this template for best results: Main
+# topic: [TOPIC]. Chapter: [CHAPTER]. Text length: [NUMBER OF WORDS] words. Statement 1: [STATEMENT] -
+# [SOURCE], Statement 2: [STATEMENT] - [SOURCE], Statement #: ... RevisionTime:
+# 2023-08-13T09:30:13.897Z
+- id: 4920-v1-7-essay-and-thesis-writer-study-university-activity-resea
+  title:
+    "v1.7 essay and thesis writer (study/university) Activity: Research Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - essay
+    - thesis
+    - writer
+    - study
+    - university
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "v1.7 essay and thesis writer (study/university)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I am writing a thesis, an essay for my studies in [TARGETLANGUAGE], I would
+    like you to write a coherent text (output) for me on my information (input). The
+    information will be provided in an outline. For each of my statements you will
+    get a real source reference: [PROMPT] Set of rules you must follow: - Do NOT write
+    an introductory sentence, a summary, or a concluding sentence. - Do NOT explain
+    the basics of my main topic. Use the main topic only to understand the context
+    of the chapter. - Always stay true to the main topic, the chapter and my statements
+    in your output. - NEVER copy the statements to avoid accusations of plagiarism.
+    - Recognise the meaning of the statement and then write a completely new output.
+    - Your output must NOT resemble my input in sentence order and structure. Rearrange
+    the sentences of the statements. - Write the output in the given word length.
+    - Write the output academically, conservatively and soberly. - Do not use the
+    most common words, vary your sentence structure in length. Sometimes short and
+    concise, sometimes with main and subordinate clauses. - Use dashes next to commas
+    in rare exceptions. - Use my sources to cite them within the text. - NEVER use
+    the subjunctive. - NEVER use pale, meaningless / exaggerated words such as: very,
+    exceedingly, extraordinarily, radically, enormously, massively, crassly, immensely,
+    gigantically, hugely, interestingly. - NEVER use affirmative filler words such
+    as: of course, natural. - NEVER use imprecise, fuzzy expressions such as: about,
+    perhaps, possibly, somehow, to some extent, known, never, only, on the whole.
+    - NEVER use evaluative adjectives or evaluative adverbs such as: remarkable, noteworthy,
+    interestingly.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

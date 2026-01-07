@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7050
+# teaser: Helpful Writer ready to Make Prep Meals RevisionTime: 2023-11-01T18:07:27.887Z
+- id: 7050-make-prep-meals-activity-startup-ideas-topic-marketing-cc647
+  title: "Make Prep Meals Activity: Startup Ideas Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - prep
+    - meals
+    - activity
+    - startup
+    - ideas
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt " Make Prep Meals"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are writer and you are asked to make prep meals, but content must be 100%
+    unique and pass plagiarism checks in the context of fiction and creative writing
+    projects. Reply only in [TARGETLANGUAGE] language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

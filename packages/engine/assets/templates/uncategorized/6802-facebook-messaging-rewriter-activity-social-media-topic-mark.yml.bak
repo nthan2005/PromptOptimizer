@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6802
+# teaser: Rewrite your Facebook messaging segments to avoid account restriction. Simply paste your
+# message and this prompt will rewrite it in 3 different variations. Each variation can be used in
+# your segments with Elmessenger Pro, Genius CRM or any other Facebook Messaging automation tool.
+# RevisionTime: 2024-10-03T09:54:12.609Z
+- id: 6802-facebook-messaging-rewriter-activity-social-media-topic-mark
+  title: 'Facebook Messaging Rewriter Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - facebook
+  - messaging
+  - rewriter
+  - activity
+  - social
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1796571606487920640/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Facebook Messaging Rewriter"](https://www.aiprm.com/prompts/marketing/social-media/1796571606487920640/)_"
+    --- Using [PROMPT], rewrite 3 variations using 100% human [TARGETLANGUAGE] with
+    less than 150 characters. Make each response start with the tag [name] Once complete,
+    copy this text and paste at the end: Create a free account of Elmessenger to start
+    automating your Facebook marketing today ðŸ‘‰https://myvisionagency.com/elmessenger'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

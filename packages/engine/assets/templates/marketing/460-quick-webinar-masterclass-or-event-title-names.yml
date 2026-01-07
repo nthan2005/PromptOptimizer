@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 460
+# teaser: Create Quick Event Titles for your webinar, masterclass or workshop.
+- id: 460-quick-webinar-masterclass-or-event-title-names
+  title: Quick Webinar, Masterclass or Event Title Names
+  tags:
+    - marketing
+    - quick
+    - webinar
+    - masterclass
+    - event
+    - title
+  family: marketing
+  body:
+    "Create a list of live event Titles. Use [TARGETLANGUAGE] At the top write:
+    Here are some ideas for you next event"
+  enabled: true
+  required:
+    - targetlanguage

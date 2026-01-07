@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4264
+# teaser: this is the teaser area RevisionTime: 2023-03-11T22:29:46.679Z
+- id: 4264-test-prompt-save-activity-accounting-topic-copywriting-00ea5
+  title: "test prompt save Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - test
+    - prompt
+    - save
+    - activity
+    - accounting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "test prompt save"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] Please write in clinical tone, informative writing style, [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4956
+# teaser: Create The Best Storyboard and Script For Your Commercial | Film | Content RevisionTime:
+# 2023-03-17T09:43:35Z
+- id: 4956-creative-content-creator-activity-script-writing-topic-copyw
+  title: "Creative Content Creator Activity: Script Writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - creative
+    - content
+    - creator
+    - activity
+    - script
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Creative Content Creator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as the best director and screenwriter all output shall be
+    in [TARGETLANGUAGE]. You will develop an engaging and creative storyboard and
+    script for commercial, film, content. Start with coming up with interesting characters,
+    the setting of the story, dialogues between the characters etc. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1664
+# teaser: Hyper realistic Mid-Journey Prompts, works well for portraits
+- id: 1664-hyper-realistic-midjourney-prompts
+  title: Hyper Realistic MidJourney Prompts
+  tags:
+    - midjourney
+    - hyper
+    - realistic
+    - prompts
+  family: Midjourney
+  body:
+    Your task is to generate 4 different midjourney Generative AI related prompts
+    read from <input text> provided. Start each prompt with "/Imagine
+  enabled: true
+  required: []

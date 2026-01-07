@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7641
+# teaser: Get a summary of any paywalled article or book RevisionTime: 2023-03-22T03:38:19.913Z
+- id: 7641-summary-for-paywall-publications-activity-summarize-topic-pr
+  title: 'Summary for paywall publications Activity: Summarize Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - summary
+  - paywall
+  - publications
+  - activity
+  - summarize
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1803965019453657088/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Summary for paywall publications"](https://www.aiprm.com/prompts/productivity/summarize/1803965019453657088/)_"
+    --- all output shall be in [TARGETLANGUAGE]. can you write me an essay on the
+    themes in the following publication: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

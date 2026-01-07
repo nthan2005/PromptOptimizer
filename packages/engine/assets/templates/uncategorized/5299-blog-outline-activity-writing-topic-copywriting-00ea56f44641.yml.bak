@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5299
+# teaser: Create a blog outline from a blog title RevisionTime: 2023-02-19T15:35:19Z
+- id: 5299-blog-outline-activity-writing-topic-copywriting-00ea56f44641
+  title: 'Blog Outline Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - blog
+  - outline
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1786077212940959744/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Blog Outline"](https://www.aiprm.com/prompts/copywriting/writing/1786077212940959744/)_"
+    --- You are a SEO expert and content writer who speaks fluent [TARGETLANGUAGE].
+    I will give you a blog title. You will develop an big blog outline with all the
+    details that are needed [PROMPT]. at the end add create a keyword list.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

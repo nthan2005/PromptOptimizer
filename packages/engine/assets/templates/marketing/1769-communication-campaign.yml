@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1769
+# teaser: Develop your Communication campaign
+- id: 1769-communication-campaign
+  title: Communication Campaign
+  tags:
+    - marketing
+    - communication
+    - campaign
+  family: marketing
+  body:
+    Apresente os resultados no idioma [TARGETLANGUAGE] eu quero que vocÃª apresente
+    uma campanha de comunicaÃ§Ã£o com sugestÃ£o de mote, justificativa detalhada da
+    campanha com conceito, essa campanha deve ser mais madura, inovadora e discutir
+    tabus. Gostaria da sugestÃ£o de seis canais sendo online e offline, interno e
+    externo Ã organizaÃ§Ã£o. Crie tambÃ©m um release com o tema e trÃªs textos para
+    instagram. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

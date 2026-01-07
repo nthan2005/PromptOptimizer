@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4310
+# teaser: Uncover the significance of a specific Bible verse in your life by analyzing its context,
+# application, and interpretation. RevisionTime: 2023-04-24T23:56:59.067Z
+- id: 4310-bible-verse-relevance-in-english-activity-call-to-action-top
+  title: 'Bible Verse Relevance in English Activity: call to action Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - bible
+  - verse
+  - relevance
+  - english
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/call-to-action/1816228515352412160/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Bible Verse Relevance in English"](https://www.aiprm.com/prompts/copywriting/call-to-action/1816228515352412160/)_"
+    --- All output shall be in [TARGETLANGUAGE]. Why is this Bible verse [PROMPT]
+    relevant?'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2772
+# teaser: Turn a list of keywords into a list of meaningful phrases that you can use for a title.
+- id: 2772-keyword-to-phrase-with-semantic-sense
+  title: Keyword to phrase with semantic sense
+  tags:
+    - keywords
+    - keyword
+    - phrase
+    - semantic
+    - sense
+  family: keywords
+  body:
+    'Escribe la respuesta en [TARGETLANGUAGE] Te pasarÃ© una lista de frases,
+    algunas con sentido y otras sin sentido. Necesito que identifiques las que no
+    tienen sentido y que reordenes las palabras de esa frase para que formen una frase
+    con sentido. Puedes agregarle algÃºn artÃ­culo entre palabras, por ejemplo "precio
+    motores fueraborda" se transformarÃ­a en "precio de motores fueraborda". Trata
+    de no agregar artÃ­culos al inicio de la frase. Otro ejemplo: "consumo motores
+    fueraborda" quearÃ­a "consumo de motores fueraborda". "Motor fueraborda" quedarÃ­a
+    igual ya que Motor fueraborda es un objeto en si mismo, entonces tiene sentido..
+    Devuelve una tabla donde en la primera columna estÃ¡ la frase original y en la
+    segunda la frase con sentido. AquÃ­ la lista: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

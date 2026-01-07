@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1395
+# teaser: Created by an experienced content marketer. I use this prompt daily.
+- id: 1395-seo-article-machine
+  title: SEO Article Machine
+  tags:
+    - writing
+    - seo
+    - article
+    - machine
+  family: writing
+  body:
+    "You're writing an article in [TARGETLANGUAGE]. The topic is [PROMPT]. The\
+    \ article should have subtitles that are SEO-optimized. Avoid using the terms:\
+    \ ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œin this articleÃƒÂ¢Ã¢â€šÂ¬\x9D and ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œin conclusion.ÃƒÂ¢Ã¢â€šÂ¬\x9D Where possible, use specific\
+    \ real-world examples, quotes, and data. Format everything in markdown. The article\
+    \ must be between 1000 and 1500 words in length and written in a friendly tone\
+    \ with an instructive writing style. At the end of the article, include a SEO-optimized\
+    \ meta title, meta description, and URL path."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

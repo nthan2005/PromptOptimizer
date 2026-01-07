@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3750
+# teaser: Compare meta analyzes of scientific articles.
+- id: 3750-health-meta-analysis-researcher
+  title: Health Meta Analysis Researcher
+  tags:
+    - unsure
+    - health
+    - meta
+    - analysis
+    - researcher
+  family: UNSURE
+  body:
+    Apresente o resultado no idioma [TARGETLANGUAGE] FaÃƒÆ’Ã‚Â§a uma definiÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o com
+    base em artigos meta anÃƒÆ’Ã‚Â¡lise encontrados sobre o tema; Apresente artigos com
+    a mesma metodogia ou com a metodologia mais similar relacionados ao tema; Crie
+    uma tabela e inclua cada artigo com os dados estatÃƒÆ’Ã‚Â­sticos apresentados e a metodologia
+    usada em cada um. FaÃƒÆ’Ã‚Â§a um estudo comparativo entre os artigos Finalize fazendo
+    a referencia de cada artigo [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

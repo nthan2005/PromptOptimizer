@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 877
+# teaser: Write a product review after reading description
+- id: 877-amazon-product-review-writer
+  title: Amazon Product Review Writer
+  tags:
+  - writing
+  - amazon
+  - product
+  - review
+  - writer
+  family: writing
+  body: Read the below-mentioned product description and write a review within 3 paragraphs
+    of 200 words. Write it in [TARGETLANGUAGE]. Be informative and use various sentences.
+    Sentence length should be short with enough transition words. Write as 3rd person.
+    [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

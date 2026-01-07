@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7527
+# teaser: Create a list of words with the sound pattern [IE] RevisionTime: 2023-03-17T10:46:57.353Z
+- id: 7527-sound-pattern-01-activity-respond-topic-productivity-b5a49cd
+  title: "Sound pattern #01 Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - sound
+    - pattern
+    - activity
+    - respond
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Sound pattern #01"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] a list of [TARGETLANGUAGE] words bilt with: "consonant", "i", "consonant"
+    and "e".'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

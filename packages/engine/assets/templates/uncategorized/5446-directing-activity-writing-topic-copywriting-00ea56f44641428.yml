@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5446
+# teaser: Generate best scripts for films, TV series and TV shows RevisionTime:
+# 2023-09-08T23:52:02.464Z
+- id: 5446-directing-activity-writing-topic-copywriting-00ea56f44641428
+  title: "Directing Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - directing
+    - activity
+    - writing
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Directing"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I am a director and you are my scriptwriter and my 1 assistant director. You''ll
+    imagine and write scripts for films and series, and you''ll help me with technical
+    cutting, sequencing and even directing. [TARGETLANGUAGE] you have to use : [PROMPT]
+    the goal is to write quality scripts and make beautiful cinematographic productions
+    for my projects. You''ll be inspired by great films and series, and even by great
+    directors and their know-how. Utiliser le franÃƒÂ§ais comme langue'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

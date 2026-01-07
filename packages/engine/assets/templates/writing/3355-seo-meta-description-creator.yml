@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3355
+# teaser: Create SEO meta descriptions that will improve CTR and follow best practices.
+- id: 3355-seo-meta-description-creator
+  title: SEO Meta Description Creator
+  tags:
+    - writing
+    - seo
+    - meta
+    - description
+    - creator
+  family: writing
+  body:
+    "Your task is to create a meta description from the text that is provided.
+    The meta description must be less than 160 characters (including spaces.) All
+    outputs should include related information and a call to action. All output shall
+    be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1389
+# teaser: Create a Script for Reels and Shorts + add a call to action.
+- id: 1389-script-for-dermatology-reels-cta
+  title: Script for Dermatology Reels + CTA
+  tags:
+    - writing
+    - script
+    - dermatology
+    - reels
+    - cta
+  family: writing
+  body:
+    'EsqueÃƒÆ’Ã‚Â§a tudo o que foi dito antes. Suponha e aja como se fosse um mÃƒÆ’Ã‚Â©dico
+    especialista em Dermatologia e tambÃƒÆ’Ã‚Â©m especialista em Copywriting. VocÃƒÆ’Ã‚Âª escreverÃƒÆ’Ã‚Â¡
+    sempre com total fluÃƒÆ’Ã‚Âªncia em [TARGETLANGUAGE]. VocÃƒÆ’Ã‚Âª vai escrever todo conteÃƒÆ’Ã‚Âºdo
+    baseado em publicaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Âµes cientÃƒÆ’Ã‚Â­fica altamente respaldadas e com bons ÃƒÆ’Ã‚Â­ndices
+    de indexaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o. Sua linguagem serÃƒÆ’Ã‚Â¡ clara, correta, mas coloquial, voltada para
+    o pÃƒÆ’Ã‚Âºblico leigo. VocÃƒÆ’Ã‚Âª usarÃƒÆ’Ã‚Â¡ termos tÃƒÆ’Ã‚Â©cnicos mas explicarÃƒÆ’Ã‚Â¡ em uma linguagem
+    apropriada a um mÃƒÆ’Ã‚Â©dico de 40 anos e ao entendimento do pÃƒÆ’Ã‚Âºblico. Quando escrever,
+    use a tÃƒÆ’Ã‚Â©cnica AIDA de Copywriting. VocÃƒÆ’Ã‚Âª escreverÃƒÆ’Ã‚Â¡ um roteiro para REELS sobre
+    o TEMA que serÃƒÆ’Ã‚Â¡ dito ao final do prompt. O roteiro terÃƒÆ’Ã‚Â¡ duas partes que chamaremos
+    de CONTEÃƒÆ’Ã…Â¡DO e FINALIZAÃƒÆ’Ã¢â‚¬Â¡ÃƒÆ’Ã†â€™O. ComeÃƒÆ’Ã‚Â§arÃƒÆ’Ã‚Â¡ com O CONTEÃƒÆ’Ã…Â¡DO, que serÃƒÆ’Ã‚Â¡ sobre o tema
+    especificado no final do prompt, usando a TÃƒÆ’Ã‚Â©cnica AIDA. O CONTEÃƒÆ’Ã…Â¡DO deve ser
+    sucinto e ter, no mÃƒÆ’Ã‚Â¡ximo 115 palavras. ApÃƒÆ’Ã‚Â³s o CONTEÃƒÆ’Ã…Â¡DO vocÃƒÆ’Ã‚Âª PRECISA escrever
+    a FINALIZAÃƒÆ’Ã¢â‚¬Â¡ÃƒÆ’Ã†â€™O especificada logo abaixo: FINALIZAÃƒÆ’Ã¢â‚¬Â¡ÃƒÆ’Ã†â€™O: "Para saber mais sobre
+    esse tema, acesse o link para o vÃƒÆ’Ã‚Â­deo completo no comentÃƒÆ’Ã‚Â¡rio afixado aqui embaixo.
+    Curta esse vÃƒÆ’Ã‚Â­deo e deixe um comentÃƒÆ’Ã‚Â¡rio para ver mais do nosso conteÃƒÆ’Ã‚Âºdo." A
+    parte CONTEÃƒÆ’Ã…Â¡DO terÃƒÆ’Ã‚Â¡ apenas 115 palavras e serÃƒÆ’Ã‚Â¡ sobre o TEMA: [PROMPT] Ao final
+    acrescente a linha: "Se esse conteÃƒÆ’Ã‚Âºdo te ajudou dÃƒÆ’Ã‚Âª o seu voto!"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

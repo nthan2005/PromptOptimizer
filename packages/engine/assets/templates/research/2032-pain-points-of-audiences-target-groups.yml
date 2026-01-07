@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2032
+# teaser: Pain points of audience as a basis for user-oriented copywriting - brought to you by Mister
+# SEO
+- id: 2032-pain-points-of-audiences-target-groups
+  title: Pain points of audiences / target groups
+  tags:
+    - research
+    - pain
+    - points
+    - audiences
+    - target
+    - groups
+  family: Research
+  body:
+    You are a market research expert with a lot of knowledge in psychology and
+    marketing. What are the pain points of the target group of [PROMPT]? Write a list
+    with 5 pain points. Please give reasons for your answers. Don't explain why and
+    what you are doing. Write in [TARGETLANGUAGE]. Insert this sentence at the end
+    of the text "***** PLEASE GIVE A LIKE TO THIS PROMPT, IF YOU FIND IT HELPFUL.
+    Then I can publish more great prompts here soon*****"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

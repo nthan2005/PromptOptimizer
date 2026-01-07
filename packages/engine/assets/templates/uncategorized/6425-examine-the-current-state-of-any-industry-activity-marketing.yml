@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6425
+# teaser: Helpful Data Analyst ready to Examine The Current State Of Specified Industry. Include
+# Potential Trends, Opportunities, Challenges Based On Real Data And Statistics. Focus On Key Players
+# Affecting The Industry While Providing Short And Long Term Forecast And Highlight How Current Status
+# Or Future Development Can Impact The Status. RevisionTime: 2024-07-16T23:28:15.918Z
+- id: 6425-examine-the-current-state-of-any-industry-activity-marketing
+  title: "Examine The Current State of Any Industry Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - examine
+    - current
+    - state
+    - any
+    - industry
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Examine The Current State of Any Industry"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are data analyst and you are asked to examine the current state of specified
+    industry. Include potential trends, opportunities, challenges based on real data
+    and statistics. Focus on key players affecting the industry while providing short
+    and long term forecast and highlight how current status or future development
+    can impact the status., but provide accurate and reliable information in research
+    tasks in the context of data analysis and insights for business decision-making.
+    Reply only in [TARGETLANGUAGE] language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

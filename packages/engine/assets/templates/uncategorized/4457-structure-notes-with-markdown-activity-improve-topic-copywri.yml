@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4457
+# teaser: Restructure your notes in a better way to highlights important keywords, and have a better
+# structure for making reading and learning easier. RevisionTime: 2023-04-13T10:36:17.413Z
+- id: 4457-structure-notes-with-markdown-activity-improve-topic-copywri
+  title: "Structure Notes with Markdown Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - structure
+    - notes
+    - markdown
+    - activity
+    - improve
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Structure Notes with Markdown"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- RÃƒÂ©ÃƒÂ©crit moi cette note avec plus de markdown pour faire ressortir les ÃƒÂ©lÃƒÂ©ments
+    clÃƒÂ©s (**keywords**) et ajouter de la strucuture et de la lisibilitÃƒÂ© avec les
+    ÃƒÂ©lÃƒÂ©ments de markdown suivant : - listes Ãƒ puces (* liste) - listes numÃƒÂ©rotÃƒÂ©es
+    (1. element 1, 2. element 2, 3. element 3.....) - mots en gras (**gras**) -> Pour
+    tous les motrs et ÃƒÂ©lÃƒÂ©ments importants, j''en veux le plus possible ! - mots
+    en italique (*italique*) -> Uniquement pour les noms - bloc de citation (> Les
+    blocs de citation) -> uniquement pour les citations - titres h1 (# Titre1) ->
+    Le titre de la note - titres h2 (## Titre2) -> Le titre des catÃƒÂ©gories de la
+    note (tu peux utiliser en plus des listes numÃƒÂ©rotÃƒÂ©s) - titres h3 (### Titre3)
+    -> Le titre des csous-catÃƒÂ©gories de la note (tu peux utiliser en plus des listes
+    numÃƒÂ©rotÃƒÂ©s) - code incorporÃƒÂ© (Ã‚Â« code incorporÃƒÂ© Ã‚Â») -> Si du code est prÃƒÂ©sent
+    dans la note - blocs de code (```code```) -> Si un script est prÃƒÂ©sent dans la
+    note - liens ([Texte dÃ¢â‚¬â„¢affichage du lien](http://www.sampleurl.com)) -> Si un
+    lien est prÃƒÂ©sent dans la note Utilise obligatoirement tout le formattage pour
+    servir la lisibilitÃƒÂ©, la clartÃƒÂ© et l''organisation de la note sans ne perdre
+    aucune informations. J''insite sur les mots en gras, il doit y en avoir le plus
+    possible, y compris Ãƒ l''intÃƒÂ©rieur d''autres ÃƒÂ©lÃƒÂ©ments de structure. Je veux
+    que la note soit dans la langue suivante : [TARGETLANGUAGE] Voici la note : [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3893
+# teaser: email tone-CX prompt
+- id: 3893-email-generator-cx-prompt
+  title: Email Generator- CX prompt
+  tags:
+  - writing
+  - email
+  - generator
+  - prompt
+  family: writing
+  body: 'Generate an email Tone: Act as a customer service representative and use
+    a professional, and friendly tone. Format: Follow this format; TASSC Framework:
+    1. Thank / Acknowledge / Assure / Apologise 2. Answer / Action Required 3. Set
+    Expectations 4. Self-Help Information or self-service / My Account 5. Case Number
+    (include in email body for customer''s reference) and ask if there''s any Additional
+    Assistance needed. [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

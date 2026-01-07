@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5234
+# teaser: Process+ document +AWS + Managed services RevisionTime: 2023-08-29T06:24:35.471Z
+- id: 5234-aws-managed-service-documentation-activity-writing-topic-cop
+  title: 'AWS Managed Service documentation Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - aws
+  - managed
+  - service
+  - documentation
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1861989544372211712/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "AWS Managed Service documentation"](https://www.aiprm.com/prompts/copywriting/writing/1861989544372211712/)_"
+    --- All out put shall be in [TARGETLANGUAGE] Text to summarize is this : [PROMPT]
+    1. Introduction to AWS Managed Services: 2. Getting Started: â€¢ Account Setup:
+    â€¢ Service Engagement. 3. Assessment: â€¢ Requirement Gathering: â€¢ Architecture
+    Review: 4. Migration: â€¢ Environment Setup: â€¢ Data Migration: 5. Operations:
+    â€¢ Monitoring and Incident Management: â€¢ Patch and Update Management: â€¢ Backup
+    and Disaster Recovery: â€¢ Security and Compliance: 6. Optimization: â€¢ Cost
+    Management: â€¢ Performance Optimization: 7. Reporting: â€¢ Regular Reports: .
+    8. Scaling: â€¢ Resource Scaling: 9. Support: â€¢ 24/7 Support: 10. Training:
+    â€¢ Knowledge Transfer: 11. Continuous Improvement: â€¢ Feedback Loop: 12. Termination
+    or Transition: â€¢ End of Engagement: 13. Additional Resources: â€¢ AWS Documentation:'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

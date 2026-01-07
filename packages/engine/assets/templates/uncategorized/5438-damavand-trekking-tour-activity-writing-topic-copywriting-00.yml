@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5438
+# teaser: Mount Damavand Hiking and Trekking Tour Guide RevisionTime: 2023-07-02T16:53:33.197Z
+- id: 5438-damavand-trekking-tour-activity-writing-topic-copywriting-00
+  title: "Damavand Trekking Tour Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - damavand
+    - trekking
+    - tour
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Damavand Trekking Tour"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] [English] [PROMPT] Mount Damavand Hiking and Trekking Tour
+    Guide'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

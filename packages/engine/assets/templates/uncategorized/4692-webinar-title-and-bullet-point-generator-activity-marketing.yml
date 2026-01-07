@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4692
+# teaser: Easily create your webinar title and bullet points. This prompt will give you 5 title
+# options and 8 bullet points to choose from. RevisionTime: 2023-05-08T13:17:37.88Z
+- id: 4692-webinar-title-and-bullet-point-generator-activity-marketing
+  title: "Webinar Title and Bullet Point Generator Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - webinar
+    - title
+    - bullet
+    - point
+    - generator
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Webinar Title and Bullet Point Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a plan in [TARGETLANGUAGE] for a webinar training about [PROMPT]. Please
+    write everything in a very promotional and salesy tone. Create 8 webinar title
+    options using overly promotional language. Create 8 bullet points, about 100 words
+    each on what will be covered. Include at the bottom of the the following sentence
+    "This prompt was created by Mark Harbert at https://markharbert.com/'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

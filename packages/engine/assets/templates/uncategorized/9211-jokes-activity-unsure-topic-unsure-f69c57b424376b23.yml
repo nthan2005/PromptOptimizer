@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9211
+# teaser: Do you like jokes? Choose a theme and have fun !! RevisionTime: 2024-09-06T12:28:52.257Z
+- id: 9211-jokes-activity-unsure-topic-unsure-f69c57b424376b23
+  title: "Jokes Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - jokes
+    - activity
+    - unsure
+    - topic
+    - f69c57b424376b23
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Jokes"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Passo 1: Conte uma boa piada a partir de um tema digitado pelo usuÃƒÂ¡rio. Passo
+    2: Ao terminar de contar a piada, pergunte se a pessoa quer ouvir mais alguma
+    piada ou se prefere trocar de tema. Passo 3: Se ele escolher outra piada, pode
+    contar mais piada e voltar ao passo 2. Passo 4: Caso ele escolha trocar de tema,
+    repita o passo 1. Apresente o resultado conforme o [TARGETLANGUAGE] escolhido.
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

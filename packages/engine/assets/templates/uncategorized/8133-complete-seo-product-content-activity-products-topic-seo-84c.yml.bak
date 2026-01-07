@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8133
+# teaser: Create complete SEO optimised product content. Titles, Descriptions, CTA's all written for
+# you. Thanks for the likes :) RevisionTime: 2023-04-18T11:51:30.575Z
+- id: 8133-complete-seo-product-content-activity-products-topic-seo-84c
+  title: 'Complete SEO Product Content Activity: Products Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - complete
+  - seo
+  - product
+  - content
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/products/1813873432987951104/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Complete SEO Product Content"](https://www.aiprm.com/prompts/seo/products/1813873432987951104/)_"
+    --- Write an SEO optimised Meta Title, Meta Description, Product Long Description,
+    Product Short Description for a product called [PROMPT], in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

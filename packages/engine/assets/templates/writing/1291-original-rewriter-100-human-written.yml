@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1291
+# teaser: Rewrite perfectly with a better flow. 100% human written
+- id: 1291-original-rewriter-100-human-written
+  title: Original Rewriter | 100% human written
+  tags:
+    - writing
+    - original
+    - rewriter
+    - "100"
+    - human
+    - written
+  family: writing
+  body:
+    "All output shall be in [TARGETLANGUAGE] Now, Remake this to flow better [PROMPT]
+    Note: don't change too much of my words as it would change the delivery, I just
+    need it to flow better with more of my original words and a few words added or
+    removed for better delivery. please make it 100% human written | original"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

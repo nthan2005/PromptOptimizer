@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7723
+# teaser: Create a blog ideas [Keyword 1], [Keyword 2], [Keyword 3] RevisionTime:
+# 2023-05-10T00:34:41.582Z
+- id: 7723-generate-blog-ideas-activity-ideation-topic-seo-84c5d6a7b8e9
+  title: "Generate Blog Ideas Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - generate
+    - blog
+    - ideas
+    - activity
+    - ideation
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate Blog Ideas"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Generate three blog ideas for the following keywords and all should be in
+    [TARGETLANGUAGE]: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

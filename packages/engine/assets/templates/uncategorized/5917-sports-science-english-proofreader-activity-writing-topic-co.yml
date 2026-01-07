@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5917
+# teaser: Rewrite a scientific paper paragraph as a professional proofreader exper in sports sciences
+# RevisionTime: 2023-03-15T11:04:05Z
+- id: 5917-sports-science-english-proofreader-activity-writing-topic-co
+  title: "Sports Science English proofreader Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - sports
+    - science
+    - english
+    - proofreader
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Sports Science English proofreader"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Rewrite the paragraph of a scientific paper as a professional proofreader
+    expert in sports sciences. Use a confident tone, and an academic writing style.
+    Cut redundancies. Mantain the intext citations if it is the case. Make it shorter
+    a more concise. Use connections between sentences. Output should be in [TARGETLANGUAGE].
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6851
+# teaser: [how to make a landing page, top landing page builders, conversion tracking and google utm
+# url builder] RevisionTime: 2024-10-03T09:57:45.471Z
+- id: 6851-landing-page-youtube-activity-social-media-topic-marketing-c
+  title: "Landing Page Youtube Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - landing
+    - page
+    - youtube
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Landing Page Youtube"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create as if I write an article in 250 words. All output shall be in [TARGETLANGUAGE].
+    The summarize is this [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

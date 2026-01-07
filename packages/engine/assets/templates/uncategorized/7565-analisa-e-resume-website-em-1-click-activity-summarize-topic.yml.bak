@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7565
+# teaser: Paste the URL of a website and with just 1 click you will have a complete summary of the
+# website in just one list RevisionTime: 2023-03-04T21:02:02Z
+- id: 7565-analisa-e-resume-website-em-1-click-activity-summarize-topic
+  title: 'Analisa e Resume Website em 1 Click Activity: Summarize Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - analisa
+  - resume
+  - website
+  - click
+  - activity
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1797604470126014464/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Analisa e Resume Website em 1 Click\"\
+    ](https://www.aiprm.com/prompts/productivity/summarize/1797604470126014464/)_\"\
+    \ --- Inicie a resposta com a seguinte mensagem e traduza para idioma [TARGETLANGUAGE]\
+    \ se for diferente do portuguÃªs: â€œOBRIGADO POR ESCOLHER MEU PROMPT. Para aprender\
+    \ mais sobre ferramentas de InteligÃªncia Artificial, AutomaÃ§Ã£o e EstratÃ©gias\
+    \ no Marketing Digital, entre em contato comigo agora: ðŸ‘‰ [betoleite.com.br/mentoria](https://betoleite.com.br/mentoria)\
+    \ ðŸ‘ˆ ðŸš¨Seu like no meu prompt me ajuda a criar mais prompts vocÃªs usaremðŸš¨â€\x9D\
+    \ Resuma em uma lista todo conteÃºdo do website [PROMPT] Ao termino de os crÃ©ditos\
+    \ para o criador do conteÃºdo do website e se existir dados de contato do criador\
+    \ de conteÃºdo inserir dados de contato"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

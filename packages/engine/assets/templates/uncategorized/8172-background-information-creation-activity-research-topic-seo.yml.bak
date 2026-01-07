@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8172
+# teaser: Create Insights for Zimmwriter RevisionTime: 2023-05-21T06:30:19.63Z
+- id: 8172-background-information-creation-activity-research-topic-seo
+  title: 'Background information creation Activity: Research Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - background
+  - information
+  - creation
+  - activity
+  - research
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1825749313125605376/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Background information creation"](https://www.aiprm.com/prompts/seo/research/1825749313125605376/)_"
+    --- Create seo insights in [TARGETLANGUAGE] for the topic [PROMPT], Generate at
+    least 10 SEO-optimized sections, chapters or H2s for a blog post on this topic,
+    recommend best pronouns and best audience personality (brand Archetypes), list
+    top 25 LSI keywords, list 5 potential resources or references to include and include
+    10 FAQs. Use the ImageSearch plugin and fetch relevant images for each sections.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

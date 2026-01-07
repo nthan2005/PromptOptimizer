@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5987
+# teaser: Creates better content optimized and undetectable by AI RevisionTime:
+# 2023-11-30T20:25:32.257Z
+- id: 5987-undetectable-ai-generated-content-activity-writing-topic-cop
+  title: 'Undetectable AI-generated content Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - undetectable
+  - generated
+  - content
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1852078550883028992/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Undetectable AI-generated content "](https://www.aiprm.com/prompts/copywriting/writing/1852078550883028992/)_"
+    --- Your task is to write a 1000-word article that will be well-optimized as human
+    writing and that will be undetectable by AI detection tools [TARGETLANGUAGE] The
+    article to write is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

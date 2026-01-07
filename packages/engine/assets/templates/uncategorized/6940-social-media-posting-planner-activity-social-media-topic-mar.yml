@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6940
+# teaser: Social Media Posting Planner RevisionTime: 2024-10-03T09:50:52.373Z
+- id: 6940-social-media-posting-planner-activity-social-media-topic-mar
+  title: "Social Media Posting Planner Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - social
+    - media
+    - posting
+    - planner
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Social Media Posting Planner"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create an table of facebook posts content planner for one month with all necessary
+    requirements for provided services. [PROMPT] and [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1623
+# teaser: Create a model with the table name [tableName]
+- id: 1623-generate-database-model-with-prisma
+  title: Generate database model with PRISMA
+  tags:
+    - database-administration
+    - generate
+    - database
+    - model
+    - prisma
+  family: Database Administration
+  body:
+    PRISMA database model simulator with my question in language [TARGETLANGUAGE]
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

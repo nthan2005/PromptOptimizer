@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 813
+# teaser: Write Written Updates
+- id: 813-written-update-maker
+  title: Written Update Maker
+  tags:
+    - summarize
+    - written
+    - update
+    - maker
+  family: Summarize
+  body:
+    "[TARGETLANGUAGE] [PROMPT] Rewrite above article using friendly tone in a
+    way that it shouldnt be looked like it copied from somewhere, add subheadings.
+    remember dont make any imaginary story just rewrite the given article, basically
+    its just a written update of todays episode of the particular tv show which was
+    aired today so you have to rewrite that article using a friendly tone in a way
+    that it shouldn't be looked like it was copied from somewhere and use 2-3 subheadings.
+    make sure to use storytelling techniques. (note: don't make any imaginary story).
+    Don't skip any of the details. dont write conclusion."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

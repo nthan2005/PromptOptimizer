@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8202
+# teaser: This Prompt will generates 5 keyword and 10 related keyword variations, along with 5 unique
+# SEO-optimized titles and meta descriptions and 3 feature images ideas. RevisionTime:
+# 2023-03-12T14:29:52Z
+- id: 8202-onpage-seo-in-just-one-click-activity-research-topic-seo-84c
+  title: 'Onpage SEO in just One Click Activity: Research Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - onpage
+  - seo
+  - just
+  - one
+  - click
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1797274092194488320/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Onpage SEO in just One Click"](https://www.aiprm.com/prompts/seo/research/1797274092194488320/)_"
+    --- I want you to act as an SEO expert. I will give you a keyword, title, or content.
+    You will understand it properly and give me, 10 keyword variations (change keyword
+    position or keyword pattern), 10 related keywords (change keyword position or
+    keyword pattern), the latest ranking SEO Optimized 5 title variations, and 5 unique,
+    SEO-optimized meta descriptions for search engine results. The meta description
+    should be 150 to 160 characters, not longer. Also, give me 3 feature image ideas.
+    Do Not Echo My Prompt. Do Not Self-Reference. Get To The Point Precisely And Accurately.
+    Do Not Explain What And respond only in [TARGETLANGUAGE]. so my first request
+    is "[PROMPT]"'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

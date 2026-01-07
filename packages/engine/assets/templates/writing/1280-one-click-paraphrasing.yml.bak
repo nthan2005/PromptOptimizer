@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1280
+# teaser: Paraphrasing anything in a click!
+- id: 1280-one-click-paraphrasing
+  title: One Click Paraphrasing
+  tags:
+  - writing
+  - one
+  - click
+  - paraphrasing
+  family: writing
+  body: Your task is to paraphrasing the sentence or article provided. The outcome
+    must be follow the [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

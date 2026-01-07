@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 609
+# teaser: [Brutal Criticizer and Writing Suggester]
+- id: 609-criticize
+  title: Criticize
+  tags:
+    - research
+    - criticize
+  family: Research
+  body:
+    "[TARGETLANGUAGE] Act as a harsh critic and provide brutally honest feedback
+    about this [Keyword]. Convince me why its bad . Act as an expert on the fiel of
+    the topic of [Keyword] and sugggest improvements on [Keyword]. [PROMPT] Let's
+    think step by step. At the end add a summarization of the answer with some bullet
+    points."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2601
+# teaser: Paste your full article/page here to evaluate your content for SEO on a scale of 1 to 10,
+# and to know the main keywords of this page
+- id: 2601-evaluate-seo-content
+  title: Evaluate SEO Content
+  tags:
+    - ideation
+    - evaluate
+    - seo
+    - content
+  family: ideation
+  body:
+    "Ã©taillÃ© distinct pour chaque produit recommandÃ©. Les avis sur les produits
+    utilisent souvent des liens d'affiliation vers des produits rÃ©pertoriÃ©s sur
+    un site d'e-commerce. Par consÃ©quent, si un internaute trouve un avis utile
+    et suit le lien fourni pour acheter le produit, le crÃ©ateur de l'avis est rÃ©compensÃ©
+    par le vendeur. Consultez Ã©galement l'article Position de Google concernant
+    les programmes d'affiliation. Les avis sur les produits peuvent Ãªtre d'une
+    aide prÃ©cieuse pour permettre aux internautes de choisir le produit qu'ils souhaitent
+    acheter. Lors de leur rÃ©daction, concentrez-vous sur leur qualitÃ© et leur authenticitÃ©,
+    et non sur leur longueur, en suivant autant de bonnes pratiques que possible.
+    Cette approche est sans conteste la plus bÃ©nÃ©fique pour les internautes qui
+    lisent vos avis. AprÃ¨s avoir determinÃ© les 5 points principaux, evalue moi cette
+    article selon ces 5 critÃ¨res et donne moi un note sur 10 pour chacun d'entre
+    eux et donne moi les mots clÃ©s principales pour l'article complet. Repond moi
+    en [TARGETLANGUAGE], voici l'article : [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

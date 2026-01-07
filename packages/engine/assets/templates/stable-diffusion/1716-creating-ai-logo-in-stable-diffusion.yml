@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1716
+# teaser: A detailed description for creating a logo on the specified theme [KEYWORD]
+- id: 1716-creating-ai-logo-in-stable-diffusion
+  title: Creating AI logo in Stable Diffusion
+  tags:
+    - stable-diffusion
+    - creating
+    - logo
+    - stable
+    - diffusion
+  family: Stable Diffusion
+  body:
+    'You should act as designer. Write a detailed description for an AI image
+    generation request on the subject: [KEYWORD] At the end, write one line (in raw
+    format) of the final query in [TARGETLANGUAGE] of specified format: "/imagine'
+  enabled: true
+  required:
+    - keyword
+    - targetlanguage

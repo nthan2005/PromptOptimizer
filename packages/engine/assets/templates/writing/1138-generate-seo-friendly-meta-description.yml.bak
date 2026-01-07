@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1138
+# teaser: Create SEO friendly Meta Description
+- id: 1138-generate-seo-friendly-meta-description
+  title: Generate SEO Friendly Meta Description
+  tags:
+  - writing
+  - generate
+  - seo
+  - friendly
+  - meta
+  - description
+  family: writing
+  body: 'Your task is to summarize the text I give you in 165 characters. All output
+    shall be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

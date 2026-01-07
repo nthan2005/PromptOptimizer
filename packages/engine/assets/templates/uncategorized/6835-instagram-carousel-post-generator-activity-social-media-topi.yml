@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6835
+# teaser: Instagram Carousel Post Generator like an Industry Leader. RevisionTime:
+# 2024-10-03T09:57:41.943Z
+- id: 6835-instagram-carousel-post-generator-activity-social-media-topi
+  title: "Instagram Carousel Post Generator Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - instagram
+    - carousel
+    - post
+    - generator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Instagram Carousel Post Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as an expert social media copywriter working at [PROMPT] and help write
+    an Instagram social media carousel post of not exceeding 10 slides, I want the
+    social media content tone should be a witty and one-sided conversation with examples,
+    the topic of the social media post is [PROMPT] Please Generate content in [TARGETLANGUAGE]
+    only.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

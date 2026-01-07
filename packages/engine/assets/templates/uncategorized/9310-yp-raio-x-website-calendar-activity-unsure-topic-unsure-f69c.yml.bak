@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9310
+# teaser: (YP) Raio-x website + calendar RevisionTime: 2023-05-05T21:10:30.842Z
+- id: 9310-yp-raio-x-website-calendar-activity-unsure-topic-unsure-f69c
+  title: '(YP) Raio-x website + calendar Activity: UNSURE Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - raio
+  - website
+  - calendar
+  - activity
+  - unsure
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1806010094580920320/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "(YP) Raio-x website + calendar"](https://www.aiprm.com/prompts/unsure/unsure/1806010094580920320/)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] FaÃ§a um raio-X do site ...
+    e traga um checklist se ele tem ou nÃ£o os itens abaixo: - Grade de produtos sem
+    ruptura - Imagens dos produtos - PreÃ§o com desconto destacado - Existe uma boa
+    descriÃ§Ã£o dos produtos? - Quais sÃ£o as formas de pagamento trabalhadas no site
+    - Existe uma boa variedade de produtos no site? - Nomes e tÃ­tulos dos produtos
+    Ã© bem escrito? Traga tambÃ©m detalhado por mÃªs do ano um calendÃ¡rio das principais
+    datas sazonais para um ecommerce de ... [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

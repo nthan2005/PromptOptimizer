@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6165
+# teaser: Craft best meta descriptions effortlessly RevisionTime: 2024-01-03T12:04:28.284Z
+- id: 6165-best-meta-description-activity-dall-e-topic-generative-ai-b9
+  title: 'Best Meta Description Activity: Dall-E Topic: Generative-AI-b983edfcaa490850'
+  tags:
+  - uncategorized
+  - meta
+  - description
+  - activity
+  - dall
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1908098336960413696/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Best Meta Description "](https://www.aiprm.com/prompts/generative/dalle/1908098336960413696/)_"
+    --- Your task is to summarise the text I give you in 50 words or maximum 150 characters.
+    All output should be in [TARGETLANGUAGE]. The text to summarize in this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

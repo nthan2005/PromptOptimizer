@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3313
+# teaser: MPI report creator
+- id: 3313-review-mpi-report
+  title: Review mpi report
+  tags:
+    - writing
+    - review
+    - mpi
+    - report
+  family: writing
+  body:
+    "Crie um relatorio de aÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Âµes SEO com as seguintes pautas Faca uma IntroduÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o.
+    Estrutura do site: coloque que foram revisados as regras de W3C html e CSS, alt
+    e title das imagens, se possui link externo ou interno, serch console, sitemap,
+    analytics, que foi revisado tambÃƒÆ’Ã‚Â©m se as URLS das MPIS estavam amigÃƒÆ’Ã‚Â¡veis, se
+    existia conteÃƒÆ’Ã‚Âºdo duplicado. Linkagens internas: [KEYWORD] Coloque que geramos
+    as linkagens internas das palavras e Explique o porque a linkagen interna ÃƒÆ’Ã‚Â© importante
+    coloque as linkagens em formato de tabela. Linkagens exeternas: [KEYWORD] Coloque
+    em formato de tabela realizadas as linkagens externas pelo nosso time de assessoria.
+    CriaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o de conteudo: [KEYWORD] Coloque em formato de tabela que a adiÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o de
+    novos textos mais ricos. Posicionamento atual do Cliente:[KEYWORD] Coloque em
+    formato de tabela as palavras-chave e posicÃƒÆ’Ã‚Â£o do cliente no momento da execuÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o:
+    [TARGETLANGUAGE] [PROMPT]"
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

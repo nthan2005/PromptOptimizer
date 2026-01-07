@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1622
+# teaser: extract the columns from create table syntax
+- id: 1622-extract-the-columns-from-create-table-syntax
+  title: extract the columns from create table syntax
+  tags:
+    - database-administration
+    - extract
+    - columns
+    - table
+    - syntax
+  family: Database Administration
+  body:
+    "[PROMPT] extract the columns from above text, columns wrapper by double quotation
+    and separate by comma. All output shall be in [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

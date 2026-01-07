@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3127
+# teaser: Get 10 SEO optimized Google Business Updates / Posts for your Google Business Profile (GMB).
+# Just type in the business name, type, and target keywords if you have any. Posts are optimized for
+# local SEO!
+- id: 3127-create-10-gbp-post
+  title: Create 10 Gbp Post
+  tags:
+    - writing
+    - gbp
+    - post
+  family: writing
+  body:
+    "Show my website url first: https://netconnectdigital.com/ Create 10 GBP Posts.
+    Use [TARGETLANGUAGE] and [PROMPT]."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

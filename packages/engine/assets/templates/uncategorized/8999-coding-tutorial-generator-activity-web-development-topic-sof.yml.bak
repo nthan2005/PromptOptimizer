@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8999
+# teaser: Create a complete tutorial with easy, medium and hard examples based on any coding language
+# and a concept. For example, arrays in java. RevisionTime: 2023-07-07T06:19:16.469Z
+- id: 8999-coding-tutorial-generator-activity-web-development-topic-sof
+  title: 'Coding Tutorial Generator Activity: Web Development Topic: SoftwareEngineering-f1858b980c341d28'
+  tags:
+  - uncategorized
+  - coding
+  - tutorial
+  - generator
+  - activity
+  - web
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1842779736461025280/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Coding Tutorial Generator"](https://www.aiprm.com/prompts/softwareengineering/web-development/1842779736461025280/)_"
+    --- Act as a computer science teacher; Create a detailed tutorial for me to learn
+    the basics of programming; The programming language should be [LANGUAGE] and the
+    output should be in [TARGETLANGUAGE]; The topic is [SUBJECT]; Create 3 sample
+    codes each (easy, medium, hard) including the appropriate output for each; Describe
+    the snippets in step-by-step instructions. Address each topic with a detailed
+    explanation. [LANGUAGE, SUBJECT] = [PROMPT]'
+  enabled: true
+  required:
+  - language
+  - prompt
+  - subject
+  - targetlanguage

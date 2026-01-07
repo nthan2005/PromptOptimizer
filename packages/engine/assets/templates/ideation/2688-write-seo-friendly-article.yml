@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2688
+# teaser: [Giving Your Article]
+- id: 2688-write-seo-friendly-article
+  title: write SEO friendly Article
+  tags:
+    - ideation
+    - write
+    - seo
+    - friendly
+    - article
+  family: ideation
+  body: Giving to 1000 words for Articles [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

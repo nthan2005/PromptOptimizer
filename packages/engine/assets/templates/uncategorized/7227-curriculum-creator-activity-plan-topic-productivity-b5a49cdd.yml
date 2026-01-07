@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7227
+# teaser: Create a curriculum for one year with a single [KEYWORD] RevisionTime:
+# 2023-04-10T14:20:57.801Z
+- id: 7227-curriculum-creator-activity-plan-topic-productivity-b5a49cdd
+  title: "Curriculum Creator Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - curriculum
+    - creator
+    - activity
+    - plan
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Curriculum Creator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create a Curriculum in [TARGETLANGUAGE] on the topic of [PROMPT]. Grade Level,
+    Recommended Age, Curriculum Description, Curriculum Goals, Curriculum Outline,
+    Show LESSONS for each week for up to 36 weeks. Give a detailed description of
+    each topic and portfolio ideas for evaluation, with step-by-step instructions
+    on how to teach each topic, give examples for each topic and sample lessons. Add
+    Assessment, 3 Recommended Textbooks, Materials, Websites and other helpful Resources,
+    add a note for Parent. Create a schedule that will last 1 school year.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

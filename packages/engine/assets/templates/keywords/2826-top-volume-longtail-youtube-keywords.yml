@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2826
+# teaser: Long tail High Volume Youtube Keywords
+- id: 2826-top-volume-longtail-youtube-keywords
+  title: Top Volume Longtail YouTube Keywords
+  tags:
+    - keywords
+    - top
+    - volume
+    - longtail
+    - youtube
+  family: keywords
+  body:
+    "Create table having columns Keyword , volume , difficulty , must 2 to 4 words
+    15 keywords [TARGETLANGUAGE] for YouTube video with traffic which have over 5000
+    searches in YouTube on : [TARGETLANGUAGE] [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

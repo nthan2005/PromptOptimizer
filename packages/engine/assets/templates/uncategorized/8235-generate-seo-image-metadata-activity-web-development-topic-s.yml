@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8235
+# teaser: Get SEO-friendly metadata for your images to improve your website's ranking on Google. Just
+# upload your images and enter your website URL. RevisionTime: 2024-09-11T18:53:44.569Z
+- id: 8235-generate-seo-image-metadata-activity-web-development-topic-s
+  title: "Generate SEO Image Metadata Activity: Web Development Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - generate
+    - seo
+    - image
+    - metadata
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate SEO Image Metadata"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I will provide you with several images, and I need you to write SEO-friendly
+    metadata for them (title, description, alt text, caption, etc.). The goal is to
+    help rank my website higher in Google search results, considering recent updates
+    to Google''s algorithms. Use the following website URL: [PROMPT], and apply the
+    metadata to the images: [IMAGES]. Write everything in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - images
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4166
+# teaser: [Generate Intro paragraph of Jobs] RevisionTime: 2023-04-01T18:16:48.505Z
+- id: 4166-jobs-intro-paragraph-by-ahmed-naeem-activity-accounting-topi
+  title: 'Jobs Intro Paragraph by Ahmed Naeem Activity: Accounting Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - jobs
+  - intro
+  - paragraph
+  - ahmed
+  - naeem
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1807808126737702912/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Jobs Intro Paragraph by Ahmed Naeem"](https://www.aiprm.com/prompts/copywriting/accounting/1807808126737702912/)_"
+    --- Write an short Intro Paragraph in very simple easy to read English of this
+    Title [PROMPT] also include these words and sentences In this article discuss
+    Eligibility Criteria, Job Benefits, and How to Apply. [TARGETLANGUAGE] .'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

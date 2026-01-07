@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1265
+# teaser: Create a monthly social media content calendar with 10 posts for your business niche
+# category.
+- id: 1265-monthly-social-calendar-for-your-business
+  title: Monthly Social Calendar for your business
+  tags:
+    - writing
+    - monthly
+    - social
+    - calendar
+    - business
+  family: writing
+  body:
+    Please create a social media content posting table in [TARGETLANGUAGE] that
+    includes the following for my [PROMPT]. Column 1 for the date of posts for 10
+    posts in the current month. Column 2 for the social media posts, including relevant
+    emojis and something useful, helpful, relatable, motivational, and a pleasure
+    to read on social media, in around 100 words. Don't include hashtags here. Column
+    3 for the relevant and popular hashtags that could help attract people to the
+    post. Column 4 for describing an ideal image that could be used for the post.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

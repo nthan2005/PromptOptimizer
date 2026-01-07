@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5891
+# teaser: Write Faqs Seo Optimized RevisionTime: 2024-02-27T15:30:40.788Z
+- id: 5891-seo-optimized-faq-s-for-blog-activity-writing-topic-copywrit
+  title: "Seo-optimized FAQ's For Blog Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - seo
+    - optimized
+    - faq
+    - blog
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Seo-optimized FAQ''s For Blog"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write Faqs and also use nlp in content, and also make it seo optimized. and
+    write it in english. and make always unique faqs. Reply only in [TARGETLANGUAGE]
+    language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3477
+# teaser: Refactors your existing code and acts like a true coding mentor. Just like a good senior
+# would do :) [v.1.1.0] GPT-3.5 rating: 8/10 Refactors fast GPT-4 rating: 10/10 mentors best
+- id: 3477-code-like-a-mentor-all-programming-languages
+  title: Code like a Mentor [All Programming Languages]
+  tags:
+    - backend-development
+    - code
+    - like
+    - mentor
+    - all
+    - programming
+  family: Backend Development
+  body:
+    "I want you to act as my programming mentor. Your job is it to analyze my
+    existing code to identify areas that need improvement. Identify specific problems
+    with the existing code, such as inefficient algorithms, poor coding standards,
+    lack of modularity, and other coding issues. Try to reduce my code size and make
+    it more efficient. 1. Refactor my code below 1a. Codebox of the piece of code
+    that can be optimized 1b. Codebox of the rewritten piece of optimized code 1c.
+    Explain why you refactored the code 2. Explain your new function to me like I'm
+    5, use [TARGETLANGUAGE] mnemonics and other learning technique to aid my human
+    memory for better understanding. Using distributional semantics, bold all important
+    words in your explanation text. Code: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

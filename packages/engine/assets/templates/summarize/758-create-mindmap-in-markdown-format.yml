@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 758
+# teaser: Create mindmap from ebook or article
+- id: 758-create-mindmap-in-markdown-format
+  title: Create mindmap in markdown format
+  tags:
+    - summarize
+    - mindmap
+    - markdown
+    - format
+  family: Summarize
+  body:
+    "you are a master of making mind map, Organize the book or article[TARGETLANGUAGE]
+    into a mind map with multiple levels of headings and sub-items, with each heading
+    or subitems not exceeding 15 words[TARGETLANGUAGE], in Markdown format wrapped
+    in a code block. required concise and comprehensive extract, mind map is need
+    to be a simplified and easy-to-understand version with concise and comprehensive
+    extract and highlight each heading[TARGETLANGUAGE]: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

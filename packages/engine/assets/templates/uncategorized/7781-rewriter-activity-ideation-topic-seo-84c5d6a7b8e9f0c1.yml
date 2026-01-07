@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7781
+# teaser: Create a Unique paragraph with humanily written qualities RevisionTime:
+# 2023-03-02T14:29:49.087Z
+- id: 7781-rewriter-activity-ideation-topic-seo-84c5d6a7b8e9f0c1
+  title: "Rewriter Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - rewriter
+    - activity
+    - ideation
+    - topic
+    - seo
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Rewriter"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Rewrite in [TARGETLANGUAGE] in such a way to ignore any kind of plagirism
+    without changing the meaning, adding content, or changing words with synonums
+    or formating of the paragraph: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

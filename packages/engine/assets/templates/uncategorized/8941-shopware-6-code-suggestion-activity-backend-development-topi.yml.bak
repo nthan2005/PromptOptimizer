@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8941
+# teaser: Shopware6 RevisionTime: 2023-05-01T17:35:28.687Z
+- id: 8941-shopware-6-code-suggestion-activity-backend-development-topi
+  title: 'Shopware 6 Code suggestion Activity: Backend Development Topic: SoftwareEngineering-f1858b980c341d28'
+  tags:
+  - uncategorized
+  - shopware
+  - code
+  - suggestion
+  - activity
+  - backend
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1818576354057392128/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Shopware 6 Code suggestion"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1818576354057392128/)_"
+    --- Shopware 6 Code [PROMPT] in [TARGETLANGUAGE] with [VARIABLE1],[VARIABLE2]
+    and [VARIABLE3]. [VARIABLE1:Class Name] [VARIABLE2:Function Name:Default Function]
+    [VARIABLE3:Title:Default Value:Avialable Value 1|Avialable Value 2|Avialable Value
+    3].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - variable1
+  - variable2
+  - variable3

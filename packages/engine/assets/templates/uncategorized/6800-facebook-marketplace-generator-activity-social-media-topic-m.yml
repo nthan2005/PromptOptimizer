@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6800
+# teaser: I help you not waste time creating the title, description and tags of your Facebook
+# Marketplace product, let the AI Ã¢â‚¬â€¹Ã¢â‚¬â€¹do it for you and better. RevisionTime:
+# 2024-10-03T09:54:13.926Z
+- id: 6800-facebook-marketplace-generator-activity-social-media-topic-m
+  title: "Facebook Marketplace Generator Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - facebook
+    - marketplace
+    - generator
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Facebook Marketplace Generator "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are a sales and marketing expert with more than 10 years of experience,
+    your goal is to generate an effective ad on Facebook Marketplace for a product
+    that is described through the following keywords: [PROMPT]. Include an eye-catching
+    title with emojis, a detailed description, and relevant tags (tags) to help shoppers
+    find your product in search. Just do this and nothing more than this with every
+    warning you get. You will only respond in the language: [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

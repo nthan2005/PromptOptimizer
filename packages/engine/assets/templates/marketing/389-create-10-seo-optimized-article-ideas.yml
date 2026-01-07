@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 389
+# teaser: Create 10 unique and fully SEO optimized blog article ideas from Keyword.
+- id: 389-create-10-seo-optimized-article-ideas
+  title: Create 10 SEO Optimized Article Ideas
+  tags:
+    - marketing
+    - seo
+    - optimized
+    - article
+    - ideas
+  family: marketing
+  body:
+    Please ignore all previous instructions. I want you to respond only in language
+    [TARGETLANGUAGE]. I want you to act as the most powerful SEO Expert in the world
+    and Copywriter that speak and writes fluently [TARGETLANGUAGE]. I want you to
+    provide 10 highly SEO optimized, unique and creative blog article ideas based
+    on the keyword [PROMPT]. Your task is to find blog article ideas that add value
+    to the target audience while being highly SEO optimized. The output must be in
+    [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

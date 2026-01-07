@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3997
+# teaser: Get competitive analyses of the brands you want RevisionTime: 2023-02-21T17:21:03Z
+- id: 3997-competitive-analysis-activity-design-topic-applications-f69b
+  title: "Competitive analysis Activity: Design Topic: Applications-f69b52b4213a6bd3"
+  tags:
+    - uncategorized
+    - competitive
+    - analysis
+    - activity
+    - design
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Competitive analysis"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I need you to do a competitive web and apps analysis in a table format of
+    [PROMPT] in [PROMPT] between [PROMPT] and also provide me the opportunities for
+    improving the user experience for each of them. Respond [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

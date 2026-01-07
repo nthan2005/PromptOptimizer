@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9117
+# teaser: Get a list of 5 places you might want to try out RevisionTime: 2023-03-13T17:35:28Z
+- id: 9117-bar-restaurant-recommender-activity-unsure-topic-unsure-f69c
+  title: "Bar/Restaurant Recommender Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - bar
+    - restaurant
+    - recommender
+    - activity
+    - unsure
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Bar/Restaurant Recommender"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to come up with a list of 5 real bars and/or restaurants that
+    have been reviewed or can be found in Google maps. The list should be based on
+    the location and preference information included in the [PROMPT] in the [TARGETLANGUAGE].
+    The [PROMPT] will be formatted like this: [Location - type of place or characteristic
+    that is preferred] Include a global caveat/disclosure of the dates you have available
+    to you for data so people can understand if they get outdated results. Also include
+    the address for each item in the list.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

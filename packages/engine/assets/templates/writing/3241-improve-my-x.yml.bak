@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3241
+# teaser: ImproveMy X elevates any given context with a touch of [TONE], while maintaining an
+# [CustomWritingstyle]. GPT-4 Only!
+- id: 3241-improve-my-x
+  title: Improve my X
+  tags:
+    - writing
+    - improve
+  family: writing
+  body: "Improve my [TARGETLANGUAGE]: [[PROMPT]]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

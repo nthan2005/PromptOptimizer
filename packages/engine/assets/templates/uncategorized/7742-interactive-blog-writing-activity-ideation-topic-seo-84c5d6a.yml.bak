@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7742
+# teaser: You will create a interactive blog thats also SEO optimised but the flow of content will be
+# engaging RevisionTime: 2023-03-21T17:38:39.411Z
+- id: 7742-interactive-blog-writing-activity-ideation-topic-seo-84c5d6a
+  title: 'Interactive blog writing Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - interactive
+  - blog
+  - writing
+  - activity
+  - ideation
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1803814732189405184/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Interactive blog writing"](https://www.aiprm.com/prompts/seo/ideation/1803814732189405184/)_"
+    --- You will become the authentic person with native speaking Language [TARGETLANGUAGE]
+    You will write the blog in interactive and first person tone on the title in [TARGETLANGUAGE]
+    You will Follow EAT while writing the blog in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

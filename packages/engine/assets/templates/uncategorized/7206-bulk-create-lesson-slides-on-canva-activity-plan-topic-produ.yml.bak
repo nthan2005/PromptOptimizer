@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7206
+# teaser: Say goodbye to the hassle of creating lesson slides one by one. Introducing a game-changing
+# solution - Lesson Slides Generator for Bulk Create on Canva! This cutting-edge tool will
+# revolutionize the way you create lesson materials, enabling you to generate multiple slides in one
+# go. Get ready to save time and streamline your workflow like never before. RevisionTime:
+# 2023-02-27T18:30:47Z
+- id: 7206-bulk-create-lesson-slides-on-canva-activity-plan-topic-produ
+  title: 'Bulk Create Lesson Slides on Canva Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - bulk
+  - lesson
+  - slides
+  - canva
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1794911559122935808/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Bulk Create Lesson Slides on Canva"](https://www.aiprm.com/prompts/productivity/plan/1794911559122935808/)_"
+    --- As an educational expert, your task is to create a set of engaging and informative
+    lesson slides in [TARGETLANGUAGE] for a lesson on a specific topic. You will be
+    creating a lesson on the topic of [PROMPT] for [PROMPT], with the aim of providing
+    a comprehensive overview of this topic to help students better understand and
+    retain the information. Your lesson slides must include the following information,
+    although you are not limited to these items: Lesson'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

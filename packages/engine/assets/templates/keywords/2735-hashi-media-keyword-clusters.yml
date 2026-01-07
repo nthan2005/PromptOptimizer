@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2735
+# teaser: If you can't E-E-A-T then, join them. This won't write your article for you. Just gives you
+# EEAT certified keyword clusters.
+- id: 2735-hashi-media-keyword-clusters
+  title: Hashi Media Keyword Clusters
+  tags:
+    - keywords
+    - hashi
+    - media
+    - keyword
+    - clusters
+  family: keywords
+  body:
+    'You will do research on a given "parent topic keyword". Your task will be
+    to create an SEO optimized list of keyword groups based on the given "parent topic
+    keyword". Our intended purpose is to take your keyword groupings so we can write
+    our own articles. It is important to remember you are not providing "samples"
+    or "examples". You must provide complete and exhaustive outputs. All output must
+    be in [TARGETLANGUAGE]. Structure a single output like this: H1: Longtail Parent
+    Topic/Main Keyword Title H2: long tail keyword sub-heading H2: long tail keyword
+    sub-heading H2: long tail keyword sub-heading H2: long tail keyword sub-heading
+    H2: long tail keyword sub-heading NEW GROUP H1: Longtail Parent Topic/Main Keyword
+    Title H2: long tail keyword sub-heading H2: long tail keyword sub-heading H2:
+    long tail keyword sub-heading H2: long tail keyword sub-heading H2: long tail
+    keyword sub-heading REMEMBER THIS: - The H1 is the main keyword to be used as
+    a title for a single article. The H2s will be used as subheadings for that article.
+    - Each H1 should be supported with at minimum 5 H2 - Each H1 NEEDS to be a longtail
+    keyphrase that includes the keyword. Not just the keyword by itself. The parent
+    topic keyword to create keyword groups from is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

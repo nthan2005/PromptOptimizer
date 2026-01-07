@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 212
+# teaser: Write the description of an Android game
+- id: 212-android-game
+  title: Android Game
+  tags:
+    - games
+    - android
+    - game
+  family: Games
+  body:
+    Write in [TARGETLANGUAGE] what the Android game [PROMPT] is about, in a text
+    of about 100-130 words. Be sure to speak in the second person, without greetings,
+    without reducing adjectives, and in the present simple.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

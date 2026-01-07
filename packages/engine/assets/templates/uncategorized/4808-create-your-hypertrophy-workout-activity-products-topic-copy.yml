@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4808
+# teaser: The personal trainer create your hypertrophy workout and suggested playlist. RevisionTime:
+# 2023-04-14T01:26:21.255Z
+- id: 4808-create-your-hypertrophy-workout-activity-products-topic-copy
+  title: "Create your hypertrophy workout Activity: Products Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - hypertrophy
+    - workout
+    - activity
+    - products
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create your hypertrophy workout"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create a balanced physical training with a hypertrophy objective. ABC type
+    training. 8 to 10 exercises for each day. Apply 3 or 4 series for each exercise.
+    Present the training in 3 tables. One for each workout, with the columns "Exercise",
+    "Brief Description" and "Series". Include a previous heating time (5, 10 or 15
+    minutes, depending on intensity): [PROMPT] Answer in language [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

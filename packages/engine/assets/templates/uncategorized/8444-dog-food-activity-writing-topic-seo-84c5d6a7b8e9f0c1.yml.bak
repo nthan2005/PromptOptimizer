@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8444
+# teaser: Dog Food RevisionTime: 2024-08-17T15:26:20.663Z
+- id: 8444-dog-food-activity-writing-topic-seo-84c5d6a7b8e9f0c1
+  title: 'Dog Food Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - dog
+  - food
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1990411185451442176/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Dog Food"](https://www.aiprm.com/prompts/seo/writing/1990411185451442176/)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

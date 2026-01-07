@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3444
+# teaser: Write an SEO article Not less than 1000 words
+- id: 3444-write-an-seo-article-not-less-than-1000-words-v-2
+  title: Write an SEO article Not less than 1000 words V.2
+  tags:
+  - writing
+  - write
+  - seo
+  - article
+  - not
+  - less
+  family: writing
+  body: Write an SEO article Not less than 1000 words on [PROMPT] with a Hook, introduction
+    and bold the H1, H2 and H3, with the Conclusion . All output shall be in [TARGETLANGUAGE]
+    For more information about us, visit our site at --> https://playgames-id.blogspot.com"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 140
+# teaser: You will get Optimized Title, Category and subcategory, Optimized Tags, 3 Great Gig Package,
+# Optimized Gig description and FAQ, Gig requirement and Gig image Idea Use This Now ! By a Top Rated
+# Pro Seller. If you enjoy this, kindly upvote please, to support to create more enticing Products
+# like these
+- id: 140-ranking-fiverr-gig
+  title: Ranking Fiverr Gig.
+  tags:
+    - accounting
+    - ranking
+    - fiverr
+    - gig
+  family: Accounting
+  body:
+    EN[TARGETLANGUAGE] Write a complete Fiverr Gig for the keyword Provided starting
+    from fiverr Gig
+  enabled: true
+  required:
+    - targetlanguage

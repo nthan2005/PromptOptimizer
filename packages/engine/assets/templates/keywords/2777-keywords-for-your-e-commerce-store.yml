@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2777
+# teaser: Create a keywords list with volume, competition, and related keywords.
+- id: 2777-keywords-for-your-e-commerce-store
+  title: Keywords for your e-commerce store
+  tags:
+    - keywords
+    - commerce
+    - store
+  family: keywords
+  body:
+    Identify the top keywords related to e-commerce that will drive the most relevant
+    traffic to our website [PROMPT] and increase search engine visibility. Gather
+    data on search volume, competition, and related keywords. The keywords should
+    be relevant to our target audience and align with our content marketing strategy.
+    All output shall be in [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

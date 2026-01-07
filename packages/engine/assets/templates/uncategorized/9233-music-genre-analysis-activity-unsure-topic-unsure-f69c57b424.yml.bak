@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9233
+# teaser: Analyse the music genre of a song, and gives you 5 other songs that is similar with it.
+# RevisionTime: 2023-03-08T16:02:16Z
+- id: 9233-music-genre-analysis-activity-unsure-topic-unsure-f69c57b424
+  title: 'Music Genre Analysis Activity: UNSURE Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - music
+  - genre
+  - analysis
+  - activity
+  - unsure
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1798736153344741376/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Music Genre Analysis"](https://www.aiprm.com/prompts/unsure/unsure/1798736153344741376/)_"
+    --- Your task is to analyse the song I give you and tell me what is the music
+    genre of the song, and 5 other songs that is in the same genre. All output shall
+    be in [TARGETLANGUAGE]. The song to analyse is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

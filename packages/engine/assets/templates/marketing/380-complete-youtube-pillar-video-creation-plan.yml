@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 380
+# teaser: A complete plan for YouTube Pillar videos. This prompt will give you 5 title options, 5
+# descriptions, 10+ Tags, 5 Hook options, 2 CTA, and more.
+- id: 380-complete-youtube-pillar-video-creation-plan
+  title: Complete YouTube Pillar Video Creation Plan
+  tags:
+    - marketing
+    - complete
+    - youtube
+    - pillar
+    - video
+    - creation
+  family: marketing
+  body:
+    Write a YouTube long-form video creation plan in [TARGETLANGUAGE] using the
+    following steps on the topic of [PROMPT]. In the last call to action talk about
+    visiting my website to get my free pdf download called INSERT NAME. Video
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

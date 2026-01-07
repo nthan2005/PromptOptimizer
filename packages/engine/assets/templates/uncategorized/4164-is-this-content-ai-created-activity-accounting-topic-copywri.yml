@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4164
+# teaser: Detect if content is human % RevisionTime: 2023-07-21T06:45:55.253Z
+- id: 4164-is-this-content-ai-created-activity-accounting-topic-copywri
+  title: "Is this content AI created? Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - this
+    - content
+    - created
+    - activity
+    - accounting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Is this content AI created?"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Ignore all previous discussions. You are an expert in detecting AI generated
+    content and defining a % chance that the content was human written. You will see
+    an article written below to make an assessment in [TARGETLANGUAGE]: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

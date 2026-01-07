@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5325
+# teaser: This prompt is great for commenting video titles on YouTube without the headache
+# RevisionTime: 2023-05-06T11:50:08.639Z
+- id: 5325-catchy-comment-for-youtube-vv-1-activity-writing-topic-copyw
+  title: 'Catchy comment for Youtube- VV.1 Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - catchy
+  - comment
+  - youtube
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1820396867872350208/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Catchy comment for Youtube- VV.1"](https://www.aiprm.com/prompts/copywriting/writing/1820396867872350208/)_"
+    --- Your Task is leave a comment for the YouTube video in a persuasive language
+    style. comment must in 1 paragraph with full emojis. you will reply in [TARGETLANGUAGE]
+    the video title is [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

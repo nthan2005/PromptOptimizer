@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6860
+# teaser: Write Linkedin Carousel Posts about the topic RevisionTime: 2024-10-03T09:54:09.916Z
+- id: 6860-linkedin-carousel-post-activity-social-media-topic-marketing
+  title: "Linkedin Carousel post Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - linkedin
+    - carousel
+    - post
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Linkedin Carousel post"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write me a LinkedIn carousel post About [TOPIC]. Also, Write slide by slide
+    with titles. Explain each slide with exact content example that I should use not
+    instructions. Only write me actionable text that I can copy and Paste.you will
+    reply with blog post titles in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - topic

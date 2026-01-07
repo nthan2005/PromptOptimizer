@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2268
+# teaser: Don't waste any more time creating and scheduling content for your YouTube playlist! Get a
+# content planner and simplify the process, create an effective schedule, and save time to focus on
+# other activities. Start seeing the results you desire!
+- id: 2268-playlist-planner-content-for-youtube-channel
+  title: Playlist planner content for Youtube Channel
+  tags:
+    - plan
+    - playlist
+    - planner
+    - content
+    - youtube
+    - channel
+  family: Plan
+  body:
+    A partir de ahora vas a pensar como un Youtuber que busca la viralizaciÃ³n.
+    TambiÃ©n vas a escribir todo como un copywritter persuasivo que busca aumentar
+    el CTR en cada video del canal. Con todo esto en mente vas a crear una playlist
+    que funcionarÃ¡ como serie dentro de tu canal. Vas a darme el tÃ­tulo de la playlist
+    y un listado de 12 tÃ­tulos de los videos que contendrÃ¡ esta serie. Todo esto
+    lo harÃ¡s tomando en cuenta que la serie tratarÃ¡ de [PROMPT] para un canal en
+    [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

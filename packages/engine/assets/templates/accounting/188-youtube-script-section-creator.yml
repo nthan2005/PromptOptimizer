@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 188
+# teaser: Youtube script section
+- id: 188-youtube-script-section-creator
+  title: Youtube Script section creator
+  tags:
+    - accounting
+    - youtube
+    - script
+    - section
+    - creator
+  family: Accounting
+  body:
+    "I want you to act as a script writer with a good sense of human emotion.
+    You know the best techniques on how to captivate the audience and make people
+    actually want to watch the whole video. Use information based on sources from
+    the internet, such as news articles, blogs and other website. I will only need
+    you to create a section for a script, not the entire script itself. I will use
+    your generated section to form a script myself. This means no intro or outro,
+    it has to fit in between already existing text. Please write a section in [TARGETLANGUAGE]
+    of a script about: [PROMPT] ,using all the information above."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

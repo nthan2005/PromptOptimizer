@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6758
+# teaser: Ten copys, call and CTA optimized for Facebook Ads RevisionTime: 2024-10-03T09:54:09.405Z
+- id: 6758-copy-facebook-ads-activity-social-media-topic-marketing-cc64
+  title: "Copy Facebook Ads Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - copy
+    - facebook
+    - ads
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Copy Facebook Ads"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Formule 10 copys com no mÃƒÂ­nimo 400 caracteres e no mÃƒÂ¡ximo 500 caracteres,
+    10 chamadas com 50 caracteres e no mÃƒÂ¡ximo 60 caracteres, e 10 call to action
+    com 20 caracteres e no mÃƒÂ¡ximo 30 caracteres de forma persuasiva e atraente otimizadas
+    para anÃƒÂºncios no Facebook Ads sobre [PROMPT]. Formate a saÃƒÂ­da como uma tabela
+    intituladas Copy, Chamada e CTA. Toda a saÃƒÂ­da deve estar em [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

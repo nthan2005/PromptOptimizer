@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1316
+# teaser: Create the curriculum plan by subject, grade, and period.
+- id: 1316-plan-of-studies
+  title: Plan of Studies
+  tags:
+  - writing
+  - plan
+  - studies
+  family: writing
+  body: Actua como un profesor segun la asignatura. Tu tarea es crear el plan de estudios
+    en idioma espaÃƒÂ±ol asi [TARGETLANGUAGE], Escribir en negrita el titulo del plan
+    de estudios. crear una tabla que tiene como titulo el periodo correspondiente
+    en mayÃƒÂºsculas y negrita, | ASIGNATURA | GRADO | INTENSIDAD HORARIA| Crear una
+    meta abarcadora [META ABARCADORA] segÃƒÂºn el modelo de educaciÃƒÂ³n para la comprensiÃƒÂ³n
+    correspondiente al periodo indicado Y DE ACUERDO A Los nÃƒÂºcleos temÃƒÂ¡ticos suministrados
+    de no mas de 250 caracteres. Crea otra tabla con las columnas, | metas de comprensiÃƒÂ³n
+    (crear mÃƒÂ¡ximo 3 metas muy elaboradas donde se evidencie la palabra comprensiÃƒÂ³n
+    y para que sera util esta comprension) | nÃƒÂºcleos temÃƒÂ¡ticos | desempeÃƒÂ±os de
+    comprensiÃƒÂ³n | las metas deben decir para que se comprende o cual es el fin, deben
+    ir numeradas y escritas segÃƒÂºn el modelo de educaciÃƒÂ³n para la comprensiÃƒÂ³n y
+    los derechos bÃƒÂ¡sicos de aprendizaje para Colombia, segÃƒÂºn los nÃƒÂºcleos temÃƒÂ¡ticos
+    suministrados, la asignatura, el curso y el periodo indicado. Adicionalmente se
+    debe crear la metodologÃƒÂ­a, la evaluacion, y los recursos utilizados . Tambien
+    debes crear ajustes razonables para estudiantes de inclusion. [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

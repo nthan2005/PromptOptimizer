@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1988
+# teaser: Shopify winning product research to find the next big eCommerce brand. Enter your niche and
+# get unique, non saturated products for your next big eCommerce brand. Use specific categories to get
+# the best results. Ex: nail, petcare, bottle, massage
+- id: 1988-shopify-dropshipping-winning-product-generator
+  title: "Shopify Dropshipping: Winning Product Generator"
+  tags:
+    - products
+    - shopify
+    - dropshipping
+    - winning
+    - product
+    - generator
+  family: Products
+  body:
+    As a Product Research Specialist with proficient product and market research
+    skills and fluent in [TARGETLANGUAGE], I need you to gather data on unique and
+    attractive products that are not yet available in the market or have the potential
+    to make an impact in people's lives. These products should useful, unique, or
+    have potential for everyday life, and have a low cost of manufacturing, and be
+    able to generate higher margins through dropshipping. Do not use general or common
+    products for this research. To begin, Write a Heading
+  enabled: true
+  required:
+    - targetlanguage

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 625
+# teaser: Create a list of problems that are most often linked to the product.
+- id: 625-pain-points-researcher
+  title: Pain Points Researcher
+  tags:
+    - research
+    - pain
+    - points
+    - researcher
+  family: Research
+  body:
+    "Act as researcher and make me a bullet list in [TARGETLANGUAGE] about main
+    pain points, angles and problems that people associate certain product or service.
+    Product or service is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

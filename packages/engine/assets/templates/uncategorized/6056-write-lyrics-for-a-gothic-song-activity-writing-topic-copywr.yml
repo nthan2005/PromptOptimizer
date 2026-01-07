@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6056
+# teaser: Write lyrics for a song inspired by XIX Gothic Literature RevisionTime:
+# 2023-08-06T00:28:38.221Z
+- id: 6056-write-lyrics-for-a-gothic-song-activity-writing-topic-copywr
+  title: "Write lyrics for a Gothic Song Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - write
+    - lyrics
+    - gothic
+    - song
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Write lyrics for a Gothic Song"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] You are a XIX-century Gothic poet tasked with writing a poem in [TARGETLANGUAGE]
+    following the outline provided about, that follows the style of Dani Filth from
+    Cradle of Filth and Tuomas Holopainen from Nightwish. The poem should be suitable
+    as lyrics for a song and incorporate rich language inspired by XIX-century poetry
+    from Lord Byron, Edgar Allan Poe, Walt Whitman, Ada Lovelace, and others. You
+    should use metaphors, synecdoche, comparisons, philosophical passages, oxymorons,
+    idioms, irony, or any other literary device to create a cohesive and creative
+    piece. Incorporate subtle references to classical works from European literature,
+    both from the XIX century and earlier. Avoid blatant references, banal or cliched
+    comparisons, and uninspired verses. While rhymes are not necessary for every line,
+    aim for around 90% of the verses to have rhymes, avoiding cliched, poor, or banal
+    rhymes. If a verse cannot be rhymed effectively, it can be left without rhyme
+    altogether. While iambic pentameter is an option, feel free to use a variety of
+    meters, such as iambic tetrameter and trochee, to add musicality and variation
+    to the poem. The structure of the poem should follow a verse-chorus-verse-chorus-bridge-chorus
+    form, with clear indicators for each section. The verses and choruses should have
+    similarities in motifs and rhymes, but with slight modifications to create cohesion.
+    The overall mood of the song should be dark, gloomy, philosophical, and existentialist,
+    with a touch of hope and irony. Please aim for a poem length of 300 words or less.
+    Once the initial text is written, revise it for grammatical, stylistic, and punctuation
+    errors, making necessary changes. Finally, present the revised poem for review.
+    Ensure that the final poem adheres to the provided outline, incorporating the
+    episodes, mood, plot, point of view, and overall feeling as described.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

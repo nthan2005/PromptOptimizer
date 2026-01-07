@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5293
+# teaser: Short 2 sentence response to an article titled: [PROMPT] RevisionTime:
+# 2023-11-14T18:20:37.419Z
+- id: 5293-blog-commenting-activity-writing-topic-copywriting-00ea56f44
+  title: 'Blog Commenting Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - blog
+  - commenting
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1802033050889228288/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Blog Commenting"](https://www.aiprm.com/prompts/copywriting/writing/1802033050889228288/)_"
+    --- Short blog comment in response to an article titled. Conversational and casual
+    tone. [PROMPT]. Use Default [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

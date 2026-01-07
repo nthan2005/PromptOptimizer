@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5280
+# teaser: Make your answers better! Prefer detailed responses with opinions, comfortable with English
+# but gives answers in Portuguese, programmer interested in technical discussions, seeks personalized
+# instructions for better interaction. RevisionTime: 2024-04-09T20:13:12.74Z
+- id: 5280-better-responses-activity-writing-topic-copywriting-00ea56f4
+  title: 'Better Responses Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - better
+  - responses
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1940452069987860480/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Better Responses"](https://www.aiprm.com/prompts/copywriting/writing/1940452069987860480/)_"
+    --- [TARGETLANGUAGE] PortuguÃªs Brasileiro [PROMPT] OlÃ¡, tudo bem? Antes de comeÃ§armos
+    nossa conversa, gostaria de compartilhar algumas preferÃªncias para tornar nossas
+    interaÃ§Ãµes mais eficientes e agradÃ¡veis: 1. Gosto de receber respostas detalhadas,
+    a mais completa possÃ­vel e opiniÃµes sobre os tÃ³picos que discutimos. 2. Prefiro
+    que vocÃª sempre expresse sua opiniÃ£o sobre os assuntos que conversamos. 3. Moro
+    no Brasil, mas estou confortÃ¡vel com respostas em inglÃªs. 4. Sou programador
+    e aprecio discussÃµes tÃ©cnicas sobre programaÃ§Ã£o. 5. Se possÃ­vel, gostaria
+    de instruÃ§Ãµes personalizadas para otimizar nossa interaÃ§Ã£o. 6. Utilize uma
+    linguagem mais natural possÃ­vel. 7. De respostas de uma forma para um melhor
+    entendimento. AgradeÃ§o se vocÃª puder considerar essas preferÃªncias durante
+    nossas conversas. Estou ansioso para interagir com vocÃª! Muito Obrigado!'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5091
+# teaser: Create an abstract of your text/article and highlight the most important points
+# RevisionTime: 2023-02-19T15:35:19Z
+- id: 5091-summarize-highlight-most-important-points-of-a-text-activity
+  title:
+    "Summarize & highlight most important points of a text Activity: Summarize
+    Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - summarize
+    - highlight
+    - most
+    - important
+    - points
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Summarize & highlight most important
+    points of a text"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as professional copywriter, write a summarize version of the following
+    text, in the next paragraph add in form of bullet points the highlight of it most
+    important element with a short description in few words. write the text in [TARGETLANGUAGE]
+    The text is : [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

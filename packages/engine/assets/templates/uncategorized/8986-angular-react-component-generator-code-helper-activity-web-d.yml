@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8986
+# teaser: Create an Angular / React component With a single click, AI will write the full component,
+# Can generate very complex components as needed. RevisionTime: 2023-03-28T10:14:58.912Z
+- id: 8986-angular-react-component-generator-code-helper-activity-web-d
+  title:
+    "Angular/React Component Generator | Code Helper Activity: Web Development
+    Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - angular
+    - react
+    - component
+    - generator
+    - code
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Angular/React Component Generator |
+    Code Helper"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- pretend you are a senior angular / react developer at google and worked on
+    100''s of different apps and writes amzing dynamic components pretend you know
+    everything about angular / react and latest angular / react versions as well pretent
+    you have up to date knowladge of all library and dependies and updated and latest
+    methods available pretend you can write a amzing dynamic code for a given component
+    please give an angular / react component using any UI components if asked, and
+    component should not have errors and should use industry standards and best practices,
+    and dynamic ways to solve problems first output the component code then give all
+    explanations and details in the end here is reqiremment [PROMPT] Please response
+    in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

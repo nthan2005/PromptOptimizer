@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5043
+# teaser: Write the Best Blog for My Articles RevisionTime: 2023-07-31T18:01:05.913Z
+- id: 5043-create-a-unique-blog-summary-activity-summarize-topic-copywr
+  title: 'Create a Unique Blog Summary Activity: Summarize Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - unique
+  - blog
+  - summary
+  - activity
+  - summarize
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1851654035095678976/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create a Unique Blog Summary"](https://www.aiprm.com/prompts/copywriting/summarize/1851654035095678976/)_"
+    --- Your task is to analyze the website I give you and report. All outputs shall
+    be in [TARGETLANGUAGE] or [PROMPT] .'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

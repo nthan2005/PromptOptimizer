@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2099
+# teaser: Get a persuasive headline and description for your case study in just 1 click.
+- id: 2099-case-description
+  title: Case Description
+  tags:
+    - writing
+    - case
+    - description
+  family: writing
+  body:
+    "Create a catchy title and a compelling description for a freelancer's portfolio
+    work example. Include the type of work completed in the title, and end with a
+    call-to-action prompting potential clients to contact you. Make sure to divide
+    the text into paragraphs and bullet points: [PROMPT] .[TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

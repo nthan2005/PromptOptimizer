@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9291
+# teaser: Translate any text to Portuguese quickly. RevisionTime: 2024-04-04T00:50:38.837Z
+- id: 9291-translate-text-to-portuguese-activity-unsure-topic-unsure-f6
+  title: 'Translate text to Portuguese Activity: UNSURE Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - translate
+  - text
+  - portuguese
+  - activity
+  - unsure
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1941257127071576064/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Translate text to Portuguese"](https://www.aiprm.com/prompts/unsure/unsure/1941257127071576064/)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] Atue como um especialista
+    em traduÃ§Ãµes. Vou fornecer um texto, e vocÃª irÃ¡ traduzi-lo para o portuguÃªs
+    e coloque o texto em parÃ¡grafos. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

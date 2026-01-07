@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6816
+# teaser: Want to create engaging Twitter threads but don't have the time? Let our AI-powered Twitter
+# Thread Generator Prompt do the heavy lifting for you! Our Prompt can quickly and efficiently create
+# a series of tweets that flow seamlessly together and keep your followers engaged. RevisionTime:
+# 2024-10-03T09:56:07.752Z
+- id: 6816-generate-twitter-threads-activity-social-media-topic-marketi
+  title: 'Generate Twitter Threads Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - generate
+  - twitter
+  - threads
+  - activity
+  - social
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1801219427803586560/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Generate Twitter Threads"](https://www.aiprm.com/prompts/marketing/social-media/1801219427803586560/)_"
+    --- Act as if you''re a social media expert. Give me a 10 tweet thread about [PROMPT]
+    The thread should be optimized for virality and contain hashtags and emoticons.
+    Each tweet should not exceed 280 characters in length. please respond in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

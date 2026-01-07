@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5652
+# teaser: Create Love Note For your partner RevisionTime: 2023-03-25T10:47:54.818Z
+- id: 5652-love-letter-generator-activity-writing-topic-copywriting-00e
+  title: "Love Letter Generator Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - love
+    - letter
+    - generator
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Love Letter Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE]. Generate a Love Letter with this name [PROMPT] [PROMPT]
+    less than 60 words'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

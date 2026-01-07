@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2776
+# teaser: Keywords Clustering Based on Your Keywords List.
+- id: 2776-keywords-clustering
+  title: Keywords Clustering
+  tags:
+    - keywords
+    - clustering
+  family: keywords
+  body:
+    "[PROMPT][TARGETLANGUAGE] act as keyword clustering tool. i will provide you
+    a list of keywords. You need to analyze and cluster them in relevant groups."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

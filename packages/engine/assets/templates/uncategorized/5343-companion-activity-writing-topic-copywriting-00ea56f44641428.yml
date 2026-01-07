@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5343
+# teaser: Companion RevisionTime: 2023-12-08T10:28:28.785Z
+- id: 5343-companion-activity-writing-topic-copywriting-00ea56f44641428
+  title: "Companion Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - companion
+    - activity
+    - writing
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Companion "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] [TARGETLANGUAGE] Write a detailed summary of chapter in the book
+    "the Obstacle Is the Way" By Ryan holiday don''t put the book title in the write
+    up'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

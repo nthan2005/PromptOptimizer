@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5079
+# teaser: mega answers, translation of detail pages, speed reading RevisionTime: 2023-03-01T22:31:28Z
+- id: 5079-quick-reading-of-any-book-or-article-activity-summarize-topi
+  title: "Quick reading of any book or article. Activity: Summarize Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - quick
+    - reading
+    - any
+    - book
+    - article
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Quick reading of any book or article."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- En [TARGETLANGUAGE], explica de modo claro y exhaustivo lo siguiente; a partir
+    del texto proporcionado y lo que creas necesario para complementar. ademÃƒÂ¡s asegÃƒÂºrate
+    de que tu lenguaje sea lo mas directo y comprensible por todos: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

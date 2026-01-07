@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2678
+# teaser: Create Unique Meta Description for Local SEO
+- id: 2678-unique-meta-description-for-local-seo
+  title: Unique Meta Description for Local SEO
+  tags:
+    - ideation
+    - unique
+    - meta
+    - description
+    - local
+    - seo
+  family: ideation
+  body:
+    'Start with Greetings in [TARGETLANGUAGE]. then I want you to act as an SEO
+    Expert that speaks and writes fluently in [TARGETLANGUAGE]. At end of the Each
+    description, Provide characters count. Each Description is within 150 -160 Characters
+    in [TARGETLANGUAGE]. [PROMPT]"Generate 10 unique meta description in (maximum
+    of 150 characters) for the keyword phrase: "KEYWORD" (make sure you include the
+    exact keyword phrase)"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

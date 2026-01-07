@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 119
+# teaser: Give the best Long Articles Outline (SEO)
+- id: 119-long-articles-outlines-seo-with-title-tag
+  title: Long Articles Outlines (SEO) with Title Tag
+  tags:
+    - accounting
+    - long
+    - articles
+    - outlines
+    - seo
+    - title
+  family: Accounting
+  body:
+    'Develop a comprehensive English markdown outline for a long-form article
+    for the topic "[PROMPT]", featuring at least 8 engaging "Headings" and "Subheadings",
+    that are detailed, mutually exclusive, collectively exhaustive and cover the entire
+    topic. Conclude with a summary and pertinent FAQs. Provide a captivating Bold
+    Font title without writing the article itself. Step 1: Please provide the output
+    in the following format: Title Tag: Meta Description: Title Summary: 1: 2: 3:
+    The target language is [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

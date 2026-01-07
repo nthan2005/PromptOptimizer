@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7667
+# teaser: Build a B2B SaaS marketing budget based on your revenue goals in one click RevisionTime:
+# 2023-07-18T00:37:12.237Z
+- id: 7667-build-a-b2b-saas-marketing-budget-activity-quota-topic-saas
+  title: 'Build a B2B SaaS marketing budget Activity: Quota Topic: SaaS-84c5d6a7b8e9f0c2'
+  tags:
+  - uncategorized
+  - build
+  - b2b
+  - saas
+  - marketing
+  - budget
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/saas/quota/1819104229072297984/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Build a B2B SaaS marketing budget\"\
+    ](https://www.aiprm.com/prompts/saas/quota/1819104229072297984/)_\" --- Pretend\
+    \ you are an expert in B2B SaaS marketing and budgeting and finance for B2B SaaS\
+    \ companies. Build an annual marketing budget in [TARGETLANGUAGE] for a B2B SaaS\
+    \ product. Base the marketing tactics and percentage of spend on industry best\
+    \ practices for B2B SaaS companies. Include a link to your source for this spend\
+    \ breakdown. Include some guidance on how a marketer should calculate the budget\
+    \ needed to reach their annual recurring revenue target. Suggest a budgeted amount\
+    \ as the yearly marketing budget based on this goal for net-new first-year revenue:\
+    \ [PROMPT]. Format the data in a table. At the end of your response, please include\
+    \ this text: Was this prompt helpful? If so, please give it a thumbs up! ðŸ‘\x8D\
+    \ Thank you so much!"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

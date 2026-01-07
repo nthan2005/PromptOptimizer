@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2765
+# teaser: Keyword research with Search volume, CPC, Competing Products, KD, Suggested, minimum and
+# maximum bid for SEO optimization. Get better ideas of keywords.
+- id: 2765-keyword-research-search-volume-cpc-kd-bid
+  title: Keyword Research| Search Volume| CPC| KD| bid
+  tags:
+    - keywords
+    - keyword
+    - research
+    - search
+    - volume
+    - cpc
+  family: keywords
+  body:
+    you task is to add the Keyword i give you a 100+ keyword ideas with synonyms
+    of keywords, search volume and CPC, KD, competing products, suggested bid, Max
+    and min bid in table format for SEO . All output shall be in [TARGETLANGUAGE].The
+    keywords to summarize is this. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

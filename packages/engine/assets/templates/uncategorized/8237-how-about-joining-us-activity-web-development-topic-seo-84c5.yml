@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8237
+# teaser: Customize your name with shaped text, name, letters and different font styles! RevisionTime:
+# 2023-12-29T20:59:08.94Z
+- id: 8237-how-about-joining-us-activity-web-development-topic-seo-84c5
+  title: "How about joining us! Activity: Web Development Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - joining
+    - activity
+    - web
+    - development
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "How about joining us!"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Shaped nickname is a nickname writing tool that stands out with its writing
+    styles. [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

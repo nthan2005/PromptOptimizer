@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1229
+# teaser: Comment on a LinkedIn-Post in german
+- id: 1229-linkedin-comment-in-german
+  title: LinkedIn comment in german
+  tags:
+  - writing
+  - linkedin
+  - comment
+  - german
+  family: writing
+  body: 'Your task is to comment on a LinkedIn-Post in 3 sentences and with 2 hashtags.
+    Use a sympathetic and friendly tone with a direct approach. All output shall be
+    in [TARGETLANGUAGE]. Please do not use a salutation at the beginnung of your comment.
+    Following the text to comment: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6713
+# teaser: Get The Complete Vlog Script RevisionTime: 2024-10-03T09:54:11.506Z
+- id: 6713-100-humen-written-script-for-youtube-vlogs-activity-social-m
+  title:
+    "100% Humen Written Script For YouTube Vlogs Activity: Social Media Topic:
+    Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - "100"
+    - humen
+    - written
+    - script
+    - youtube
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "100% Humen Written Script For YouTube
+    Vlogs"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to provide a video script of the text I give you in 750 words
+    within {Script Start} and {Script Stop} followed by If you want to watch such
+    videos just click on the link: https://www.youtube.com/@HalfTraveller All output
+    shall be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

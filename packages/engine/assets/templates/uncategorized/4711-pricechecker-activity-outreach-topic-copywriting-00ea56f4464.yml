@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4711
+# teaser: create a email template: Start with hello (Name) and Start I'm Joanna foyle I am from
+# pricechecker.ai team ( and discuss about the website and blog) and mention the specific blog and
+# then tell pricechecker.ai its give real time insgiths and real price montering and the end you could
+# say like I like your blog its relevant our pricechecker.ai I want to contribute your blogs/ articles
+# RevisionTime: 2025-01-11T10:13:03.994Z
+- id: 4711-pricechecker-activity-outreach-topic-copywriting-00ea56f4464
+  title: "pricechecker Activity: Outreach Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - pricechecker
+    - activity
+    - outreach
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "pricechecker"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

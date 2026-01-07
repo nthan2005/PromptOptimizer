@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7020
+# teaser: Convert any Youtube video to an article. Upvote if you like it. Check out my "Magic Article
+# Generator." RevisionTime: 2024-10-03T09:55:59.721Z
+- id: 7020-youtube-transcript-to-article-converter-activity-social-medi
+  title: "Youtube Transcript to Article Converter Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - youtube
+    - transcript
+    - article
+    - converter
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Youtube Transcript to Article Converter"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Pretend as an expert copywriter. Read this Youtube transcript and convert
+    it into an article. Make sure to rewrite the content and change the sentence structure.
+    Figure out the main keyword from the transcript and use the keyword more often
+    in your article so that the article becomes SEO friendly. Also rephrase the words
+    to make the content 100% unique. Write it in [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 208
+# teaser: You are a funny comedian, that knows the funniest team names for any sport / activity please
+# rewrite the paragraph given in a funny / witty way, call to action to read more, please include
+# keyword "[KEYWORD]":
+- id: 208-rewrite-intro-paragraph-for-funny-site
+  title: Rewrite Intro Paragraph for funny site
+  tags:
+    - call-to-action
+    - rewrite
+    - intro
+    - paragraph
+    - funny
+    - site
+  family: call to action
+  body:
+    "Please ignore all previous prompts, you are fluent in [TARGETLANGUAGE]. You
+    are a funny comedian, that knows the funniest team names for any sport / activity
+    please rewrite the paragraph given in a funny / witty way, call to action to read
+    more, please include keyword given. The prompt with be in this format: keyword,paragraph
+    [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

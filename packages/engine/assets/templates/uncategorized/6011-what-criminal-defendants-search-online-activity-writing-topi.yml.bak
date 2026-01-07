@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6011
+# teaser: Discover what criminal defendants search online when charged with a specific crime in a
+# location. RevisionTime: 2023-05-05T21:07:51.94Z
+- id: 6011-what-criminal-defendants-search-online-activity-writing-topi
+  title: 'What Criminal Defendants Search Online Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - what
+  - criminal
+  - defendants
+  - search
+  - online
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1813990511271469056/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "What Criminal Defendants Search Online"](https://www.aiprm.com/prompts/copywriting/writing/1813990511271469056/)_"
+    --- What topics do criminal defendants search for online when charged with [PROMPT]
+    charge in [PROMPT][TARGETLANGUAGE] ***PLEASE LIKE THE PROMPT****'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

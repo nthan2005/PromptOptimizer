@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2285
+# teaser: Create an awesome Table for Research with the most appropriate attributes as columns.
+- id: 2285-research-table
+  title: Research Table
+  tags:
+    - plan
+    - research
+    - table
+  family: Plan
+  body:
+    "[Return only the main response. Remove pre-text and post-text.] List the
+    following in a good formatted table with a minimum of 5 rows and if useful a maximum
+    of 20 rows in an appropriate order, giving the table an appropriate caption. The
+    table contains a minimum of 5 columns in german with appropriate attributes: [PROMPT]
+    [Output Language: [TARGETLANGUAGE]]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6098
+# teaser: ceasedsadasd RevisionTime: 2023-06-13T07:02:52.48Z
+- id: 6098-ceshi-test-activity-configuration-management-topic-devops-f3
+  title: "ceshi-test Activity: Configuration Management Topic: DevOps-f3e52afbf831197f"
+  tags:
+    - uncategorized
+    - ceshi
+    - test
+    - activity
+    - configuration
+    - management
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "ceshi-test"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

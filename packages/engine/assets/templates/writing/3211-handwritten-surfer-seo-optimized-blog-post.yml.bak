@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3211
+# teaser: Generate An SEO Optimized Hand written Blog Post by giving your [word count] [ title]
+# [outline] [ Surfer SEO suggested keywords]
+- id: 3211-handwritten-surfer-seo-optimized-blog-post
+  title: Handwritten & Surfer SEO optimized Blog Post
+  tags:
+  - writing
+  - handwritten
+  - surfer
+  - seo
+  - optimized
+  - blog
+  family: writing
+  body: '[PROMPT] Create a well-structured and SEO-optimized blog post with a minimum
+    word count of [ desrired word count] on the topic of [Title of the article]. The
+    objective is to provide informative, engaging, and fun content that covers the
+    following outline: [ outline ] Here is the list of keywords with their minimum
+    and maximum usage, use all the keywords following the usage [ keywords]. Generate
+    a meta description using main seed keyword Use a writing style and tone that aligns
+    with an informational, fun, and engaging approach. Ensure a good level of complexity
+    and avoid making the content appear as AI-generated. Make proper use of bold headings
+    (H1, H2, H3, etc.) with different sizes, and always use transition words when
+    starting a paragraph. Before diving into subheadings, write an introductory sentence
+    under each heading that connects it to the previous section. Additionally, incorporate
+    bullet points and numbered lists where appropriate to improveÃ‚ readability. [TARGETLANGUAGE]
+    ENGLISH'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

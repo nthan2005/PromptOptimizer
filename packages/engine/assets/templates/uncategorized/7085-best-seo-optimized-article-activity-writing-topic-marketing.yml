@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7085
+# teaser: Create the best SEO- optimized article RevisionTime: 2023-07-30T17:02:15.14Z
+- id: 7085-best-seo-optimized-article-activity-writing-topic-marketing
+  title: "Best SEO-Optimized Article Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - seo
+    - optimized
+    - article
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best SEO-Optimized Article "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your Task is to write the text i give you in at least 120 words or more .The
+    text should be seo optimized with google search engin. All Outputs shall be in
+    [TARGETLANGUAGE]. The text to write is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

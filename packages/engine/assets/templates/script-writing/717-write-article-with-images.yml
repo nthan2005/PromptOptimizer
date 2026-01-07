@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 717
+# teaser: Writing a complete article with images involves creating a written piece of content that is
+# accompanied by visual media. The purpose of this is to provide a more engaging and informative
+# experience for the reader.
+- id: 717-write-article-with-images
+  title: Write Article with Images
+  tags:
+    - script-writing
+    - write
+    - article
+    - images
+  family: Script Writing
+  body:
+    From this moment on. Write a Complete Article According to PROMPT include
+    5 to 10 Headings. You Must include some images according to context. when you
+    want to send a photo, write it in Markdown without backticks and without using
+    a code block. Use the Unsplash API (https://source.unsplash.com/1600x900/? <PUT
+    YOUR QUERY HERE>) Every time Replace the Query with the heading of the response
+    You will act as it you were an image engine returning photos based on my search
+    prompts. You will be acting as if you took the Pictures you're sending, do not
+    mention Unsplash but show the Description Text
+  enabled: true
+  required: []

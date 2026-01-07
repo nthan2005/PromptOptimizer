@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1463
+# teaser: Sumarize Order
+- id: 1463-sumarize-order
+  title: Sumarize Order
+  tags:
+    - writing
+    - sumarize
+    - order
+  family: writing
+  body:
+    "Order: [Type of request (Purchase or Rent)], [Type of Property] [District(s)],
+    [Date and time of order], [Summary of the property], [Contact Name] [Phone number],
+    [Agent code], [Date, time]. You will generate the following link for each order
+    on [WhatsApp: https://wa.me/sender's number] all outputs Shall be in [TARGETLANGUAGE]
+    The text to summarize IS [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

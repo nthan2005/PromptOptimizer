@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2941
+# teaser: Save your time! write sales engaging product descriptions, headings & subheadings, related
+# target keywords, Meta title & descriptions, possible FAQs and Answers...
+- id: 2941-your-full-seo-product-description-with-faqs
+  title: Your Full SEO Product Description with FAQs
+  tags:
+    - products
+    - full
+    - seo
+    - product
+    - description
+    - faqs
+  family: Products
+  body:
+    I want my product "[PROMPT]" to outrank competition. Using [TARGETLANGUAGE]
+    as the writing language, your generate a well detailed product post with Headline,
+    Introduction, Subheadings with Descriptions, also suggest at least 3 possible
+    titles, suggest at least 10 Target Keywords, Generate Meta Title and Meta Description
+    then Finally, also generate possible FAQs and answers
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

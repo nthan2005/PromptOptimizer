@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1755
+# teaser: Use this to generate a great starting point for your Spotify bio.
+- id: 1755-bio-generator-for-spotify-artists-bands-labels
+  title: Bio Generator for Spotify Artists/Bands/Labels
+  tags:
+    - marketing
+    - bio
+    - generator
+    - spotify
+    - artists
+    - bands
+  family: marketing
+  body:
+    "Your task is to write a bio for an artist, band, or label from the text I\
+    \ give you in a concise, exciting, and detailed way in 5 sentences or a maximum\
+    \ of 5 paragraphs. All output should be given in [TARGETLANGUAGE]. The text to\
+    \ summarize is this: [PROMPT] At the end of your response, add these 2 sentences:\
+    \ ðŸ‘\x8DThank you for using this prompt. -Tonal Domination Studio"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

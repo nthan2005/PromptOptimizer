@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5730
+# teaser: Paraphrasing Poem Lines RevisionTime: 2023-04-28T20:06:55.48Z
+- id: 5730-paraphrasing-poem-lines-activity-writing-topic-copywriting-0
+  title: "Paraphrasing Poem Lines Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - paraphrasing
+    - poem
+    - lines
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Paraphrasing Poem Lines"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- your task is to paraphrase any poem in in long paragraph .all ouputs shall
+    be in [TARGETLANGUAGE]. This text is paraphrase is here: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

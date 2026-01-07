@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9034
+# teaser: Python Bug Fix Prompt. #coding #programming #dev #developer #software #python #tensorflow
+# #pytorch #keras RevisionTime: 2023-07-05T14:30:08.507Z
+- id: 9034-python-bug-fix-prompt-activity-web-development-topic-softwar
+  title: 'Python Bug Fix Prompt Activity: Web Development Topic: SoftwareEngineering-f1858b980c341d28'
+  tags:
+  - uncategorized
+  - python
+  - bug
+  - fix
+  - prompt
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1842175845008662528/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Python Bug Fix Prompt"](https://www.aiprm.com/prompts/softwareengineering/web-development/1842175845008662528/)_"
+    --- [Bug Fix] I''d like you to be a Python coding expert and fix the code for
+    me. The following error occurred in the code you provided. Please Identify any
+    logic errors and fix them. Error description: [PROMPT]. Please write all output
+    in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

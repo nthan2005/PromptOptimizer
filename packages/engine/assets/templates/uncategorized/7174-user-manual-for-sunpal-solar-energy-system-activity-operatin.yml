@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7174
+# teaser: Sunpal User Manual RevisionTime: 2025-08-24T22:10:25.066Z
+- id: 7174-user-manual-for-sunpal-solar-energy-system-activity-operatin
+  title:
+    "User Manual for Sunpal Solar Energy System Activity: Operating System Management
+    Topic: OperatingSystems-8a5ca60d957fe707"
+  tags:
+    - uncategorized
+    - user
+    - manual
+    - sunpal
+    - solar
+    - energy
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "User Manual for Sunpal Solar Energy
+    System"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

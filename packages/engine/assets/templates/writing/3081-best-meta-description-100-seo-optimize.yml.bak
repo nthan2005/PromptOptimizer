@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3081
+# teaser: Perfect Meta Description Length Counter For Your Page
+- id: 3081-best-meta-description-100-seo-optimize
+  title: Best Meta Description | 100% SEO Optimize
+  tags:
+  - writing
+  - meta
+  - description
+  - '100'
+  - seo
+  - optimize
+  family: writing
+  body: Your Task Is to summarize my given text perfectly under between 150-160 characters
+    meta description. You output will be in all [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

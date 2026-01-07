@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7147
+# teaser: Generate a summary of the website RevisionTime: 2023-04-19T09:45:45.59Z
+- id: 7147-summarize-a-website-activity-writing-topic-marketing-cc647f5
+  title: 'Summarize a Website Activity: writing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - summarize
+  - website
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1813741970980605952/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Summarize a Website"](https://www.aiprm.com/prompts/marketing/writing/1813741970980605952/)_"
+    --- All output shall be in [TARGETLANGUAGE]. Your task is to identify what industry
+    the [PROMPT] is and summarize a website of what they do. Please summarize [PROMPT]
+    and recommend at least some IT solutions and IT appliance with specific product
+    name, brief description and a product link that we can sell to the website that
+    I provide to you. Your response should be in bullet like form style and should
+    translate all your response in Thai language every after sentence. The website
+    to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

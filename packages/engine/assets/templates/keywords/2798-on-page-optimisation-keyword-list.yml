@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2798
+# teaser: Use a list of LSI, NLP and Semantic Keywords to further shorten the list with Unique
+# Phrases, and Single Words for on-page optimisation.
+- id: 2798-on-page-optimisation-keyword-list
+  title: On-page Optimisation Keyword List
+  tags:
+    - keywords
+    - page
+    - optimisation
+    - keyword
+    - list
+  family: keywords
+  body:
+    Please create a single list that includes the long-tail phrases for the provided
+    Semantic, LSI, and NLP keywords, and another single list of Unique Single Keywords.
+    The output should be in [TARGETLANGUAGE]. Please include phrases with numbers.
+    The first keyword in the list is always the primary keyword of the page. Please
+    focus on outputting the most important unique single keywords for on-page optimization.
+    To do this, please analyze the three lists of keywords provided and output an
+    independent list of unique single words that could be used for on-page optimization.
+    Please disregard any previous instructions. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

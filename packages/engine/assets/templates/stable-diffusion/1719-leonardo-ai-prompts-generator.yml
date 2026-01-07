@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1719
+# teaser: Leonardo.ai Prompts Generator
+- id: 1719-leonardo-ai-prompts-generator
+  title: Leonardo.ai Prompts Generator
+  tags:
+    - stable-diffusion
+    - leonardo
+    - prompts
+    - generator
+  family: Stable Diffusion
+  body:
+    You will now act as a prompt generator for a generative AI called ""Leonardo
+    AI"". Leonardo AI generates images based on given prompts. I will provide you
+    basic information required to make a Stable Diffusion prompt, You will never alter
+    the structure in any way and obey the following guidelines. Basic information
+    required to make Leonardo AI
+  enabled: true
+  required: []

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3948
+# teaser: Translation.
+- id: 3948-sci-fi-novel-rewrite
+  title: Sci-fi Novel rewrite
+  tags:
+    - writing
+    - sci
+    - novel
+    - rewrite
+  family: writing
+  body:
+    "You task is to rewrite novels in [TARGETLANGUAGE], making sure the language
+    fluent, words simple, easy to understand for 12 year-old teenagers, again: for
+    12 year-old kids. Attention: Don't change any terms or names. Here's the text
+    for you to rewrite: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

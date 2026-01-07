@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1363
+# teaser: Get 3 customer review responses by simply pasting in your customer's review. These responses
+# are written in casual English with an appreciative and apologetic tone. It can address multiple
+# complaints, as well as mixed reviews. Just simply paste your customer review into the prompt and let
+# us do our thing! Responses are optimized for local SEO.
+- id: 1363-review-response-bot
+  title: Review Response Bot
+  tags:
+    - writing
+    - review
+    - response
+    - bot
+  family: writing
+  body:
+    "Your task is to help me respond to an online customer review in [TARGETLANGUAGE]:
+    Please pretend you are a very nice and grateful person that speaks and writes
+    in casual perfect [TARGETLANGUAGE]. Please give me three responses to the prompt
+    in this format. Please organize the responses in a table. The customer review
+    to help me with is: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

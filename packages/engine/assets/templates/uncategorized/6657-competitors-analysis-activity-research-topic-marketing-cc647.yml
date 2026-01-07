@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6657
+# teaser: Create a one-click competitor analysis RevisionTime: 2023-02-19T15:35:19Z
+- id: 6657-competitors-analysis-activity-research-topic-marketing-cc647
+  title: "Competitors Analysis Activity: Research Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - competitors
+    - analysis
+    - activity
+    - research
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Competitors Analysis"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Por favor necesito que organices en una tabla 6 empresas que se dedican a
+    [PROMPT] con las columnas: Nombre de la empresa, pagina web, tag line, canales
+    de captaciÃƒÂ³n y redes sociales. Por favor no me digas que no puedes acceder a
+    la informaciÃƒÂ³n actualizada y usa los datos que estÃƒÂ©n a tu alcance. On top say
+    in [TARGETLANGUAGE] "CRONUTS.DIGITAL - COMPETIROR ANALYSIS FOR KEYWORD" and replace
+    "KEYWORD" with the keyword provided in the prompt in all caps with a rocket emoji
+    at the beginning. The last line down say in [TARGETLANGUAGE] "To learn more about
+    us www.cronuts.digital Then, under the table say "If you liked this prompt please
+    like it on the prompt search page."'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

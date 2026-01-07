@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 262
+# teaser: Create a concise, professional email title based on this input [PROMPT]
+- id: 262-email-title
+  title: Email Title
+  tags:
+    - improve
+    - email
+    - title
+  family: Improve
+  body:
+    Create a concise, professional email title in [TARGETLANGUAGE] based on this
+    input [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

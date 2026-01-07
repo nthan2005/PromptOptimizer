@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2729
+# teaser: Generate Keyword With Keywords difficulty, on your niche, which keyword is best to rank on
+# google & For more upvote
+- id: 2729-generate-keyword
+  title: Generate Keyword
+  tags:
+    - keywords
+    - generate
+    - keyword
+  family: keywords
+  body:
+    Your task is to generate keyword based on google ranking chance, keywords
+    difficulty, based on specific niche, Show keyword difficulty level, Google Ranking
+    chance percentage out of 10, Only suggest keyword which has high ranking chance
+    on google, show keywords difficulty below 25%, Which is already ranked on google
+    with low DA, PA below 25 based on location on Moz tools, based on my product/services.
+    Show them in markdown table and categories them [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

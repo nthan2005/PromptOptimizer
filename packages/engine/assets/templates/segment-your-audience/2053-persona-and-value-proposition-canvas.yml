@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2053
+# teaser: Create a Buyer Persona and let the Value Proposition Canvas Model run over that.
+- id: 2053-persona-and-value-proposition-canvas
+  title: Persona and Value Proposition Canvas
+  tags:
+    - segment-your-audience
+    - persona
+    - value
+    - proposition
+    - canvas
+  family: Segment your audience
+  body:
+    Create a descriptive and optimistic buyer persona for a [Business or Industry]
+    offering [Product or Service]. The target market consists of [Target Market],
+    and the key selling points include [Key Selling Points]. The main competitors
+    in this space are [Competitors], and the primary goals or challenges for this
+    business are [Goals or Challenges]. Please provide a brief description of the
+    persona, including demographics and hard facts, in 100-120 words. Next, describe
+    the persona's personality and psychological profile in 100-120 words. Finally,
+    outline the persona's interests, hobbies, passions, sports, flaws, and other relevant
+    information that can help marketers offer their services to this persona, in 100-120
+    words. After creating the buyer persona, apply the Value Proposition Canvas to
+    analyze the alignment of the [Product or Service] with the persona's needs, desires,
+    and preferences. Describe the Customer Jobs, Gains, and Pains for this persona,
+    as well as the Products and Services, Gain Creators, and Pain Relievers offered
+    by the business. All output shall be in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

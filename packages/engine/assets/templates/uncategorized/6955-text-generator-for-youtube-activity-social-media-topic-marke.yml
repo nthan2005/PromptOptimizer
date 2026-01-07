@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6955
+# teaser: Text Generator for YouTube RevisionTime: 2024-10-03T09:57:48.667Z
+- id: 6955-text-generator-for-youtube-activity-social-media-topic-marke
+  title: "Text Generator for YouTube Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - text
+    - generator
+    - youtube
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Text Generator for YouTube"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a text with at least 2500 words about the title written below. Don''t
+    be repetitive, avoid redundancies and be as natural as possible. Write in an exciting
+    and enthusiastic way, be extremely creative and optimistic. This text will become
+    a video for YouTube, so ask them to subscribe to the channel, leave a like and
+    share it on social networks. Ask them to leave a comment about what kind of videos
+    they would like to see on our channel. Always end the text by relating God and
+    the subject of the text. Don''t remind me what I asked you for. Do not apologize.
+    Do not self-reference. Write all output in [TARGETLANGUAGE] Use the following'
+  enabled: true
+  required:
+    - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 452
+# teaser: Create a persuasive landing page. If you like it, please upvote it.
+- id: 452-persuasive-landing-page-with-3-5-sub-services
+  title: Persuasive Landing Page with 3-5 Sub-services
+  tags:
+    - marketing
+    - persuasive
+    - landing
+    - page
+    - sub
+    - services
+  family: marketing
+  body:
+    "Write a landing page for [PROMPT] Write 3 headline options using pain-agitate-solve
+    formula. Use the following structure for the paragraphs: - Explain the problem
+    - 1 short paragraphs - Explain why the problem exists - 3-4 short paragraphs or
+    reasons - Explain what is possible - 1 paragraph - Services: Llist 3-5 services
+    for we help the reader overcome the problem. Explain persuasively each service.
+    End with a strong call to action. [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1887
+# teaser: Rewrite and Summarize the article
+- id: 1887-rewrite-and-summarize-the-article
+  title: Rewrite and Summarize the article
+  tags:
+    - marketing
+    - rewrite
+    - summarize
+    - article
+  family: marketing
+  body:
+    "Your task is to rewrite and summarize the given article within 300 words.
+    All output shall be in [TARGETLANGUAGE]. The text to rewrite and summarize is
+    this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8173
+# teaser: Give me topic ideas RevisionTime: 2024-11-29T09:48:00.817Z
+- id: 8173-blog-post-topic-generator-activity-research-topic-seo-84c5d6
+  title: "Blog Post Topic Generator Activity: Research Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - blog
+    - post
+    - topic
+    - generator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Blog Post Topic Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are an SEO with 10 Years of Experience. Give me 20 semantically relevant
+    but unique topics in [TARGETLANGUAGE] under the main category of [topic] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

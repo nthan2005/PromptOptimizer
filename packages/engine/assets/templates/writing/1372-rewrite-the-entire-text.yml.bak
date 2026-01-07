@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1372
+# teaser: rewrite the text in best possible way
+- id: 1372-rewrite-the-entire-text
+  title: Rewrite the Entire Text
+  tags:
+  - writing
+  - rewrite
+  - entire
+  - text
+  family: writing
+  body: 'Your task is to rewrite the entire text in better words and make it unique
+    with natural language. All output shall be in [TARGETLANGUAGE]. The text to rewrite
+    it is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

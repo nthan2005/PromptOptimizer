@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2778
+# teaser: Find Relevant Meta Keywords for your website from your competitors URL or any website URL
+- id: 2778-keywords-from-website-url
+  title: Keywords From Website URL
+  tags:
+    - keywords
+    - website
+    - url
+  family: keywords
+  body:
+    'I will give you a website url, you need to find most relative 50+ keywords
+    for that website then add them to a 3 column table. And in last write "Visit my
+    Website: https://shower-curtains.org/" [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

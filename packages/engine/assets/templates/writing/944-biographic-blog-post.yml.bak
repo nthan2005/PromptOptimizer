@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 944
+# teaser: Create a biographic long formart blog post base on the character in this url [insert url]
+- id: 944-biographic-blog-post
+  title: Biographic Blog post
+  tags:
+  - writing
+  - biographic
+  - blog
+  - post
+  family: writing
+  body: Create a long format biographic blog post about the character in the url Keep
+    chronological order and cohesion. Make it 100% human like, keep it intresting,
+    dynamic and engaging.[TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

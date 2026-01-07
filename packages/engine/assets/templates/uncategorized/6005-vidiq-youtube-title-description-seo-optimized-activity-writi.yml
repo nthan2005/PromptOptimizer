@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6005
+# teaser: Create Seo-Optimized Title and Description For your Youtube Reels with Hasgtags & Tags. Rank
+# on Youtube, Followed by Vidiq & Youtube Algorithm. RevisionTime: 2024-10-19T16:42:37.646Z
+- id: 6005-vidiq-youtube-title-description-seo-optimized-activity-writi
+  title:
+    "Vidiq: Youtube Title & Description |SEO-Optimized Activity: writing Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - vidiq
+    - youtube
+    - title
+    - description
+    - seo
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Vidiq: Youtube Title & Description
+    |SEO-Optimized"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT] Please write a reel script for me
+    based on the following transcript. I want the title, description, hashtags, timestamps,
+    middle text, and tags for YouTube reels. Add one Best hashtag in Title. Use simple,
+    easily understandable language, write like an intermediate student and apply your
+    knowledge of YouTube algorithms and vidIQ to optimize it for better results. The
+    content should be structured for a general audience, and focus on creating curiosity
+    and engagement. Do not use Corporate Jargons. Make Title and Description Very
+    much creative and simple also better than normal ones used by Most of The people.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

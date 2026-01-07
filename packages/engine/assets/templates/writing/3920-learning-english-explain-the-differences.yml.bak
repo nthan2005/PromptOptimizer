@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3920
+# teaser: explain the differences
+- id: 3920-learning-english-explain-the-differences
+  title: '[Learning English] explain the differences'
+  tags:
+  - writing
+  - learning
+  - english
+  - explain
+  - differences
+  family: writing
+  body: Please explain the differences between the following two. All outpot shall
+    be in [TARGETLANGUAGE] with example sentences. [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4285
+# teaser: storytelling marketing with a humor framework RevisionTime: 2023-06-28T08:25:27.832Z
+- id: 4285-video-script-story-with-a-humor-activity-accounting-topic-co
+  title: "Video script story with a humor Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - video
+    - script
+    - story
+    - humor
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Video script story with a humor"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- acts like an expert storytelling [TARGETLANGUAGE] Write a video script 500
+    word using: create a humor story about the misfortune, folly, or incompetence
+    of others [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

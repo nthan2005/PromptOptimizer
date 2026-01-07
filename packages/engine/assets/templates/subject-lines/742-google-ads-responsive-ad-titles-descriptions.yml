@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 742
+# teaser: Type the product or service you want to print the advertisement text for.
+- id: 742-google-ads-responsive-ad-titles-descriptions
+  title: Google Ads Responsive Ad Titles & Descriptions
+  tags:
+    - subject-lines
+    - google
+    - ads
+    - responsive
+    - titles
+    - descriptions
+  family: Subject Lines
+  body:
+    "You are an expert copywriter who is an expert at writing Google Ads descriptions.
+    You speak [TARGETLANGUAGE] Konumuz : [PROMPT] 20 adet Google Ads iÃ§in reklam
+    baÅŸlÄ±ÄŸÄ± yaz (Toplam uzunluk 30 karakter) 10 adet Google Ads iÃ§in reklam aÃ§Ä±klamasÄ±
+    yaz (Toplam uzunluk 90 karakter)"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

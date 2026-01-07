@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4846
+# teaser: make the description RevisionTime: 2023-08-19T01:47:34.141Z
+- id: 4846-description-of-instagram-acoun-activity-research-topic-copyw
+  title: "description of instagram acoun Activity: Research Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - description
+    - instagram
+    - acoun
+    - activity
+    - research
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "description of instagram acoun"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] Eres un especialista en marketing y quiero que analices esta paginahttps://www.instagram.com/mariamendez_fotografa/
+    y me digas que estilo tiene [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

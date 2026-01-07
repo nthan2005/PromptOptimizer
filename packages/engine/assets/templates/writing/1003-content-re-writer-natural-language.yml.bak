@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1003
+# teaser: Content Rewriter using natural language. Pass Ai-Detection
+- id: 1003-content-re-writer-natural-language
+  title: Content Re-Writer Natural Language
+  tags:
+  - writing
+  - content
+  - writer
+  - natural
+  - language
+  family: writing
+  body: 'Act as Content Writer Your task is to rewrite the entire text in better words
+    and make it unique with natural language All output shall be in [TARGETLANGUAGE].
+    The text to rewrite it is this: [PROMPT] And at the end of the article In the
+    Next Line write this "Please support us Buy Me a Coffee - https://www.buymeacoffee.com/founderdeepak
+    Visit Our Website: https://bestgrd.com/" All output shall be in [TARGETLANGUAGE].
+    The text to rewrite it is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

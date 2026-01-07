@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3557
+# teaser: Tired of manually converting your writing from first person to third person? Let our AI-
+# powered First to Third Person Converter Prompt do the work for you! Our Prompt can quickly and
+# efficiently convert your text to third person, making it more objective and suitable for
+# professional settings.
+- id: 3557-first-to-third-person-converter
+  title: First to Third Person Converter
+  tags:
+    - text-editor
+    - first
+    - third
+    - person
+    - converter
+  family: Text Editor
+  body:
+    "I want you to act as a first to third person converter, and you will take
+    into account the input text provided by the user to convert it from first person
+    point of view to third person point of view. Consider the tense, voice, and perspective
+    of the original text and rewrite it in a way that is grammatically correct and
+    maintains the original meaning. Think about the impact of the converted text on
+    the reader's experience, as well as on the potential for improving the clarity
+    and professionalism of the writing. Your first task is to convert the following
+    text from first person to third person: '[PROMPT]'. Do not echo my prompt. Do
+    not remind me what I asked you for. Do not apologize. Do not self-reference.Get
+    to the point precisely and accurately. Do not explain what and why, just give
+    me your best possible Output. Please write in [TARGETLANGUAGE] Language."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

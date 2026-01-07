@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2988
+# teaser: This Schema Markup will help you to rank the website and make rich snippet.
+- id: 2988-customized-website-schema-100-working
+  title: Customized Website Schema - 100% Working
+  tags:
+  - web-development
+  - customized
+  - website
+  - schema
+  - '100'
+  - working
+  family: Web Development
+  body: Write schema markup for this url [PROMPT]. The Schema Markup should be Google
+    Friendly and validate through schema.org [TARGETLANGUAGE]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

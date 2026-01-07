@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4459
+# teaser: Rewrite AI generated input into human-like output. RevisionTime: 2023-06-19T22:11:25.903Z
+- id: 4459-super-ai-to-human-like-converter-activity-improve-topic-copy
+  title: "Super AI to Human-like Converter Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - super
+    - human
+    - like
+    - converter
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Super AI to Human-like Converter "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to rewrite an AI generated input into a human-like output in
+    [TARGETLANGUAGE]. The output should resemble human writing while maintaining standard
+    grammar and accessible vocabulary. You should also add some perplexity and burstiness
+    when appropriate to make it resemble human writing. Rewrite input with this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

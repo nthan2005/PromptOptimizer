@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8335
+# teaser: article creator RevisionTime: 2023-03-24T21:52:57.611Z
+- id: 8335-article-creator-activity-writing-topic-seo-84c5d6a7b8e9f0c1
+  title: "article creator Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - article
+    - creator
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "article creator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Saya ingin membuat sebuah artikel untuk tujuan SEO dan peringkat di mesin
+    pencari Google. Tulislah sebuah artikel tentang "[PROMPT]" dalam bahasa [TARGETLANGUAGE]
+    yang santai. Artikel tersebut terdiri dari minimal 20 paragraf. Setiap paragraf
+    harus memiliki 300 kata. Sapa pembaca dengan ''Halo'' dengan nama audiens ''Sobat''
+    pada paragraf pertama bukan di dalam judul!. Tulislah artikel dalam format HTML
+    tanpa tag html dan body. Judul utama: <h1>. Sub judul: <h2>. Judul kesimpulan:
+    <h3>. Paragraf: <p>. dan di akhir artikel ucapkan sampai jumpa kembali di artikel
+    menarik lainnya.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

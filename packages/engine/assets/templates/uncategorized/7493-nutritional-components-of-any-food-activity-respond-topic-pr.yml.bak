@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7493
+# teaser: Nutritional components of any food RevisionTime: 2023-02-19T15:35:19Z
+- id: 7493-nutritional-components-of-any-food-activity-respond-topic-pr
+  title: 'Nutritional Components Of Any Food Activity: Respond Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - nutritional
+  - components
+  - any
+  - food
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1787200898985099264/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Nutritional Components Of Any Food"](https://www.aiprm.com/prompts/productivity/respond/1787200898985099264/)_"
+    --- Your task is to write all the nutritional components of a certain food. Write
+    it in bullet points format and add explanation on each bullet point in detail.
+    Each nutritional component should be in bold. All output shall be in [TARGETLANGUAGE].
+    The food is the following: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

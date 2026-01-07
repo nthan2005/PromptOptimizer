@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2204
+# teaser: Create a curriculum for one year with a single [KEYWORD]
+- id: 2204-curriculum-for-homeschool
+  title: Curriculum for Homeschool
+  tags:
+    - plan
+    - curriculum
+    - homeschool
+  family: Plan
+  body:
+    Create a Curriculum in [TARGETLANGUAGE] on the topic of [PROMPT]. Grade Level,
+    Recommended Age, Course Description, Course Goals, Course Outline, Show lessons
+    1 week at a time, give a detailed description of each topic and portfolio ideas
+    for evaluation, then step-by-step instructions on how to teach each of the topics
+    for the class, give examples for each topic and sample lessons. Add Assessment,
+    3 Recommended Textbooks, Materials, Resources, a note for Parent. Create a schedule
+    that will last 1 school year.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

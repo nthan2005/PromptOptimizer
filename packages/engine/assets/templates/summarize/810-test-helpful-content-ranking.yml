@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 810
+# teaser: TEST helpful content ranking
+- id: 810-test-helpful-content-ranking
+  title: TEST helpful content ranking
+  tags:
+    - summarize
+    - test
+    - helpful
+    - content
+    - ranking
+  family: Summarize
+  body:
+    "Use the following criteria to rank this article on a numerical scale of 1-10,
+    with a score for each of the criteria: 1: Target audience: Does your business
+    or site have a specific audience that will find your content useful? 2: Demonstrated
+    expertise: Does your content showcase first-hand knowledge and expertise? 3: Primary
+    focus: Does your site have a clear primary purpose or focus? 4: Educational value:
+    Will readers leave feeling they have learned enough to achieve their goals? 5:
+    User satisfaction: Will readers feel satisfied with their experience on your site?
+    6: Guidelines: Are you following guidelines for core updates and product reviews?
+    [PROMPT] Write all output in [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

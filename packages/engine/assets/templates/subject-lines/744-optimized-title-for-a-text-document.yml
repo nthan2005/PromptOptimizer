@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 744
+# teaser: Title a text file so that it is easily searchable in Mac OS Finder
+- id: 744-optimized-title-for-a-text-document
+  title: Optimized title for a text document
+  tags:
+    - subject-lines
+    - optimized
+    - title
+    - text
+    - document
+  family: Subject Lines
+  body:
+    "Can you come up with a title that would make it easy to find the following
+    text in a Finder (Mac OS) search: [PROMPT] [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

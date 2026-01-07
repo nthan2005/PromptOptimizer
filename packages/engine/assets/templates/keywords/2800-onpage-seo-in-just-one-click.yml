@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2800
+# teaser: This Prompt will generates 5 keyword and 10 related keyword variations, along with 5 unique
+# SEO-optimized titles and meta descriptions and 3 feature images ideas.
+- id: 2800-onpage-seo-in-just-one-click
+  title: Onpage SEO in just One Click
+  tags:
+    - keywords
+    - onpage
+    - seo
+    - just
+    - one
+    - click
+  family: keywords
+  body:
+    I want you to act as an SEO expert. I will give you a keyword, title, or content.
+    You will understand it properly and give me, 10 keyword variations (change keyword
+    position or keyword pattern), 10 related keywords (change keyword position or
+    keyword pattern), the latest ranking SEO Optimized 5 title variations, and 5 unique,
+    SEO-optimized meta descriptions for search engine results. The meta description
+    should be 150 to 160 characters, not longer. Also, give me 3 feature image ideas.
+    Do Not Echo My Prompt. Do Not Self-Reference. Get To The Point Precisely And Accurately.
+    Do Not Explain What And respond only in [TARGETLANGUAGE]. so my first request
+    is "[PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

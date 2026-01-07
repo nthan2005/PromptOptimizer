@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3760
+# teaser: Man is going to the moon
+- id: 3760-how-to-cook-as-a-man
+  title: How to cook as a man
+  tags:
+  - unsure
+  - cook
+  - man
+  family: UNSURE
+  body: How to cook [TARGETLANGUAGE] and [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

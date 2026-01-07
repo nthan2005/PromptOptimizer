@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5648
+# teaser: Write an article for my blog on the suggested title with 1500 words long, with a meta-
+# description, structured in sections and fully optimized for SEO, as if it were written by humans,
+# unique, plagiarism free. RevisionTime: 2023-02-24T20:14:52Z
+- id: 5648-long-blog-post-fully-optimized-for-seo-activity-writing-topi
+  title: 'Long blog post fully optimized for SEO Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - long
+  - blog
+  - post
+  - fully
+  - optimized
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1794790590832181248/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Long blog post fully optimized for
+    SEO"](https://www.aiprm.com/prompts/copywriting/writing/1794790590832181248/)_"
+    --- Write an article for my blog on the suggested title with 1500 words long,
+    with a meta-description, structured in sections and fully optimized for SEO, as
+    if it were written by humans, unique, plagiarism free. All output shall be in
+    [TARGETLANGUAGE]. The suggested title for the article is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

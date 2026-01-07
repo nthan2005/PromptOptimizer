@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 812
+# teaser: Write a unique 250 words description from text provided
+- id: 812-unique-description-maker
+  title: Unique Description Maker
+  tags:
+    - summarize
+    - unique
+    - description
+    - maker
+  family: Summarize
+  body: Write 250 words unique description in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

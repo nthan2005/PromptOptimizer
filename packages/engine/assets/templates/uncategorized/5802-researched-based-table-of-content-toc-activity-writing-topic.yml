@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5802
+# teaser: Create a researched based Table of Content [TOC] RevisionTime: 2023-03-09T12:22:58Z
+- id: 5802-researched-based-table-of-content-toc-activity-writing-topic
+  title: "Researched Based Table of Content [TOC] Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - researched
+    - based
+    - table
+    - content
+    - toc
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Researched Based Table of Content [TOC]"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- want you to act as a professional human writer and a good researcher, now
+    do research on [PROMPT] and make a table of content about it. write all output
+    in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - toc

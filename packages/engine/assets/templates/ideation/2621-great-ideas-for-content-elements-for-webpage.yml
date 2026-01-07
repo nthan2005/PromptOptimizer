@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2621
+# teaser: Get ideas for content elements like videos, images, infographics of a webpage with a short
+# description. Brought to you by Mister SEO.
+- id: 2621-great-ideas-for-content-elements-for-webpage
+  title: Great Ideas for content elements for Webpage.
+  tags:
+    - ideation
+    - great
+    - ideas
+    - content
+    - elements
+    - webpage
+  family: ideation
+  body:
+    You are a content marketing expert. What content elements like images, videos,
+    infographics...could you add to a text about [PROMPT]? Describe the possible content
+    of the respective content element in a maximum of three sentences. Consider the
+    information needs of the target group. Don't explain why and what you are doing.
+    Write in [TARGETLANGUAGE]. ***** PLEASE GIVE A LIKE TO THIS PROMPT, IF YOU FIND
+    IT HELPFUL. Then I can publish more great prompts here soon*****
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

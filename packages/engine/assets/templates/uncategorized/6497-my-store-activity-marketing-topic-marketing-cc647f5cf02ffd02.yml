@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6497
+# teaser: adverstising 1 RevisionTime: 2023-06-11T01:08:43.598Z
+- id: 6497-my-store-activity-marketing-topic-marketing-cc647f5cf02ffd02
+  title: "my store Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - store
+    - activity
+    - marketing
+    - topic
+    - cc647f5cf02ffd02
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "my store"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Prompt Template Prompt text including placeholders [TARGETLANGUAGE], [PROMPT],
+    [VARIABLE1], [VARIABLE2] and [VARIABLE3] replaced automagically by PromptOptimizer. [VARIABLE1],
+    [VARIABLE2] and [VARIABLE3] require title with optional default value and available
+    values. Example: Example [PROMPT] in [TARGETLANGUAGE] with [VARIABLE1], [VARIABLE2]
+    and [VARIABLE3]. [VARIABLE1:Title] [VARIABLE2:Title:Default Value] [VARIABLE3:Title:Default
+    Value:Available Value 1|Available Value 2|Available Value 3]. [VARIABLE1], [VARIABLE2]
+    and [VARIABLE3] will be pre-filled using URL parameters AIPRM_VARIABLE1, AIPRM_VARIABLE2
+    and AIPRM_VARIABLE3. Teaser adverstising 1 Prompt Hint product Title my store'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3

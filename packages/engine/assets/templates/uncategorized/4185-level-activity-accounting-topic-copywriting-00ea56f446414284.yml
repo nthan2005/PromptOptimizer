@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4185
+# teaser: write [] like level of elementary school, middle school, high school, undergraduate school ,
+# graduate Schools RevisionTime: 2023-02-25T13:52:32Z
+- id: 4185-level-activity-accounting-topic-copywriting-00ea56f446414284
+  title: "level Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - level
+    - activity
+    - accounting
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "level"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- you will recognize question and answer level [TARGETLANGUAGE] is help you
+    understand age and education level think [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

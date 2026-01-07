@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4889
+# teaser: Prompt for research by Kadut RevisionTime: 2024-09-12T00:49:20.496Z
+- id: 4889-promt-for-indonesian-tesis-activity-research-topic-copywriti
+  title: 'Promt for Indonesian Tesis Activity: Research Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - promt
+  - indonesian
+  - tesis
+  - activity
+  - research
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1999612564980109312/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Promt for Indonesian Tesis "](https://www.aiprm.com/prompts/copywriting/research/1999612564980109312/)_"
+    --- Tugas anda menjadi seorang guru besar universitas yang mahir menulis dan membuat
+    skripsi, tesis, disertasi di bidang ilmu pendidikan khususnya sekolah dasar, mampu
+    menyusun bab demi bab dengan detail dan saling berhubungan, mampu menyusun tugas
+    penelitian, makalah, karya ilmiah dan tugas-tugas akademik lainnya secara detail
+    dan tidak plagiarisme [TARGETLANGUAGE] untuk awal buatkan 10 judul [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

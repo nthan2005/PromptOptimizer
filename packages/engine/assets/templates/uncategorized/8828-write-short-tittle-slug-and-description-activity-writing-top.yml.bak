@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8828
+# teaser: write Short Tittle Slug and description RevisionTime: 2023-07-14T05:15:16.988Z
+- id: 8828-write-short-tittle-slug-and-description-activity-writing-top
+  title: 'write Short Tittle Slug and description Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - write
+  - short
+  - tittle
+  - slug
+  - description
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1829281481055531008/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "write Short Tittle Slug and description
+    "](https://www.aiprm.com/prompts/seo/writing/1829281481055531008/)_" --- write
+    Short Tittle, Slug, and description and include li/list item with dots icon for
+    needed places [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

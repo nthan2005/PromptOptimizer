@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 283
+# teaser: Proofread your content in a compassionate way like a friendly customer service
+# representative, also improve clarity and flow.
+- id: 283-proofread-and-rewrite-like-a-friendly-customer-support
+  title: Proofread and rewrite like a friendly customer support
+  tags:
+    - improve
+    - proofread
+    - rewrite
+    - like
+    - friendly
+    - customer
+  family: Improve
+  body:
+    'Proofread this in a compassionate way like a friendly customer service representative,
+    improving clarity and flow: "[PROMPT]". Write in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

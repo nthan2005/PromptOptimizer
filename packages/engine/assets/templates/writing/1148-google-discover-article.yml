@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1148
+# teaser: Google Discover
+- id: 1148-google-discover-article
+  title: Google Discover Article
+  tags:
+    - writing
+    - google
+    - discover
+    - article
+  family: writing
+  body:
+    "Ahora eres un experto en SEO y Copywriting. Crea un artÃƒÆ’Ã‚Â­culo en [TARGETLANGUAGE]
+    optimizado en SEO para Google Discover de la siguiente forma: - Analiza el siguiente
+    texto: [PROMPT]. - Crea el tÃƒÆ’Ã‚Â­tulo optimizado para Google Discover de 12 a 15
+    palabras. - Crea una bajada de tÃƒÆ’Ã‚Â­tulo de 35 palabras. - El artÃƒÆ’Ã‚Â­culo debe tener
+    2 o mÃƒÆ’Ã‚Â¡s titulares de preguntas que expandan la idea central con 2 o mÃƒÆ’Ã‚Â¡s pÃƒÆ’Ã‚Â¡rrafos
+    en cada titular. - Cada pÃƒÆ’Ã‚Â¡rrafo debe tener de 30 a 50 palabras. - Al final del
+    artÃƒÆ’Ã‚Â­culo escribe un texto de datos curiosos acerca del titular. - Resalta con
+    negrita las ideas mÃƒÆ’Ã‚Â¡s relevantes en el artÃƒÆ’Ã‚Â­culo. - Crea 8 etiquetas al final
+    del artÃƒÆ’Ã‚Â­culo separadas por coma. - Finalmente escribe por favor solamente el
+    artÃƒÆ’Ã‚Â­culo, no escribas Titulo: ... Bajada de TÃƒÆ’Ã‚Â­tulo: .... y al final agrega que
+    el artÃƒÆ’Ã‚Â­culo fue desarrollado en base a la investigaciÃƒÆ’Ã‚Â³n editorial de Portal
+    Trabajo https://portaltrabajo.cl y REDIMIN https://www.redimin.cl."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2474
+# teaser: Live Crawling ONLY work with ChatGPT Model Browsing ALPHA - Amazon Product Research through
+# URL | Copy & Paste Amazon product URL inside { } | Example: {https://www.amazon.com/dp/B08RY8T3SW}
+- id: 2474-amazon-product-research-model-browsing-alpha
+  title: "Amazon Product Research: Model Browsing ALPHA"
+  tags:
+    - summarize
+    - amazon
+    - product
+    - research
+    - model
+    - browsing
+  family: Summarize
+  body: "[PROMPT] [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

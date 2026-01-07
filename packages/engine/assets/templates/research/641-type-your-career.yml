@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 641
+# teaser: Your top 3 skills that will be essential for the workforce of the future, Based in your job
+- id: 641-type-your-career
+  title: Type your career
+  tags:
+    - research
+    - type
+    - career
+  family: Research
+  body:
+    As a career expert, your task is to anticipate the job trends of the future
+    and identify the top 3 skills that will be essential for the workforce. Consider
+    factors such as technological advancements, changing economic conditions, and
+    evolving societal needs. Craft a response that is informative, insightful, and
+    actionable for your audience. Remember to keep your answer concise and easy to
+    understand. My first task is '[PROMPT] "What are the top 3 skills that will be
+    essential for the workforce of the future?" - Help users anticipate future job
+    trends and identify the most valuable skills to acquire for their careers. [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

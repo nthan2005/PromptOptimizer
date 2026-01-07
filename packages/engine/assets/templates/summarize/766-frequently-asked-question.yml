@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 766
+# teaser: Frequently asked question generator
+- id: 766-frequently-asked-question
+  title: Frequently asked question
+  tags:
+    - summarize
+    - frequently
+    - asked
+    - question
+  family: Summarize
+  body:
+    Your task is to make a FAQ with both questions and answers. All text shall
+    be in [TARGETLANGUAGE] the topic is [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4103
+# teaser: Create a long, creative, different text, with 80 words, talking about a specific animal per
+# paragraph, in XML-based RevisionTime: 2023-04-13T14:41:40.994Z
+- id: 4103-create-text-500-words-in-xml-activity-accounting-topic-copyw
+  title: 'Create text, 500 words in XML Activity: Accounting Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - text
+  - '500'
+  - words
+  - xml
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1812073569342189568/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create text, 500 words in XML"](https://www.aiprm.com/prompts/copywriting/accounting/1812073569342189568/)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] Criar um texto longo, criativo,
+    diferente, com 80 palavras, falando de um .... especifico por parÃ¡grafo. que
+    tenha 10 parÃ¡grafos. Na linguagem de marcaÃ§Ã£o baseada em XML, usando somente
+    os parÃ¢metros, <speak>, <break time> e <p>, nÃ£o usar o ParÃ¢metro <audio>, com
+    intervalos de 20 segundos entre cada parÃ¡grafo. serÃ¡ um video para um canal
+    do youtube, que fala sobre os [KEYWORD] [PROMPT]'
+  enabled: true
+  required:
+  - keyword
+  - prompt
+  - targetlanguage

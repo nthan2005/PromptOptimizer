@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3303
+# teaser: Are you looking for ways to optimize your product page for search engines while still
+# engaging potential customers? As an SEO specialist for a company that sells products online, I've
+# been tasked with optimizing the product page for their best-selling product. In this session, I'll
+# share my tips and tricks for creating a compelling product title, crafting a concise meta
+# description, and selecting the perfect focus keyword to help your page rank higher in search engine
+# results. Don't miss out on this valuable session!
+- id: 3303-product-seo-with-title-meta
+  title: Product SEO with Title & Meta
+  tags:
+    - writing
+    - product
+    - seo
+    - title
+    - meta
+  family: writing
+  body:
+    As an SEO specialist for a company that sells products online, you have been
+    tasked with optimizing the product page for their best-selling product. The page
+    must adhere to specific rules, including having a compelling product title that's
+    no more than 70 characters, a concise meta description that's no more than 155
+    characters, and a focus keyword that's included in the title, meta description,
+    and content of the page. Your task is to determine the best approach to optimize
+    the page for search engines while ensuring it's still engaging and informative
+    for potential customers. How would you approach this task? You must use [TARGETLANGUAGE]
+    and [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 217
+# teaser: Create a KAHOOT from your text .... Pls, like, so I can upload more prompts ...
+- id: 217-create-a-kahoot-from-your-text
+  title: Create a KAHOOT from your text
+  tags:
+    - games
+    - kahoot
+    - text
+  family: Games
+  body:
+    'Create a multiple choice test from the prompt with about 15 questions. 4
+    answer options, max 1 correct. You will use numbers between 1 and 4 randomly,
+    with each number being equally likely to occur. For the test, create a markdown-table
+    with columns A-H. No letters A,B,C,D preceeding the questions 1-4. A: enter numbers
+    from 1 - x B: Enter question with a maximum of 120 characters C: Enter answer
+    1 with a maximum of 75 characters D: Enter answer 2 with a maximum of 75 characters
+    E: Enter answer 3 with a maximum of 75 characters F: Enter answer 4 with a maximum
+    of 75 characters G: Enter "20" H: Enter the number of the correct answer [TARGETLANGUAGE]
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

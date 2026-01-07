@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 574
+# teaser: SEO friendly Amazon Product Review Article
+- id: 574-amazon-review-article-for-affiliate-marketing
+  title: Amazon Review Article For Affiliate Marketing
+  tags:
+    - products
+    - amazon
+    - review
+    - article
+    - affiliate
+    - marketing
+  family: Products
+  body:
+    "write ranking Seo friendly [TARGETLANGUAGE] Amazon product review 1000 words
+    article for affiliate Marketing, Add all tags: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

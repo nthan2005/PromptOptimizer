@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7573
+# teaser: Output a table of word analysis data, central tendency and dispersion measures, and
+# deviation metrics [STEP 1] RevisionTime: 2023-03-31T18:39:59.242Z
+- id: 7573-best-text-analysis-step-1-activity-summarize-topic-productiv
+  title: "Best Text Analysis - [Step 1] Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - text
+    - analysis
+    - step
+    - activity
+    - summarize
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best Text Analysis - [Step 1]"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to output the modes of each part of speech in the text I give
+    you. Specifically, you are to output the following data from the input text: List
+    items: 1. [Verb mode] Top 10 must frequently used verbs in the input text, or
+    maximum if less than 10. Do not output any verbs shorter than 3 characters. Include
+    all gerunds and present participle variations of the same verb as one entry; for
+    example, include "clean", and "cleaning" in one table entry. 2. [Adjective mode]
+    Top 10 most frequently used adjectives in the input text, or maximum if less than
+    10. Include all words that are in a different tense. For example, include "interesting"
+    and "interested" in one table entry. 3. [Noun mode] Top 10 most frequently used
+    nouns in the input text, or maximum if less than 10. 4. [Capitalized words mode]
+    Top 10 most frequently used capitalized words or phrases in the input text, or
+    maximum if less than 10. 5. [Preposition mode] Top 10 most frequently used prepositions
+    in the input text, or maximum if less than 10. 6. [Numeral mode] Top 10 most frequently
+    used numerals in the input text, or maximum if less than 10. 7. [Numbers mode]
+    Top 10 must frequently used integers in the input text, or maximum if less than
+    10. 8. [Symbols mode] Top 10 most frequently used symbols in the input text, or
+    maximum if less than 10. Output all data in table format and print the corresponding
+    number and title of each list item before the table. All output should be in [TARGETLANGUAGE].
+    The text to analyze is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

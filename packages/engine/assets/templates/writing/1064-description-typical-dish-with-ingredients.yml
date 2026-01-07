@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1064
+# teaser: Description typical dish with ingredients
+- id: 1064-description-typical-dish-with-ingredients
+  title: Description typical dish with ingredients
+  tags:
+    - writing
+    - description
+    - typical
+    - dish
+    - ingredients
+  family: writing
+  body:
+    "Maintaining a fun and relaxed writing style, magazine style, you are going
+    to create the review, the information on this dish was taken from the official
+    website, so it is important that it be a completely original text, without resembling
+    the description that I give you. The structure of the article must be in the form
+    of a list with the name of the dish in an H2, followed by a description of the
+    dish, its origin, then the recipe of the dish with the ingredients. Dish and description
+    of it: [PROMPT] [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

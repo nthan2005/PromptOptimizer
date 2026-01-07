@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 181
+# teaser: Escreva uma lista com 100 frases [KEYWORD]
+- id: 181-write-100-sentences-of-300-characters
+  title: Write 100 sentences of 300 characters
+  tags:
+    - accounting
+    - write
+    - "100"
+    - sentences
+    - "300"
+    - characters
+  family: Accounting
+  body:
+    Elabore uma coleÃ§Ã£o de 100 citaÃ§Ãµes envolventes sobre [PROMPT]. Cada frase
+    deve ter um mÃ¡ximo de 300 caracteres, perfeita para compartilhar nas redes sociais.
+    As citaÃ§Ãµes devem inspirar e motivar, transmitindo energia positiva e sabedoria.
+    O idioma alvo Ã© [TARGETLANGUAGE]. Por favor, escreva em portuguÃªs.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

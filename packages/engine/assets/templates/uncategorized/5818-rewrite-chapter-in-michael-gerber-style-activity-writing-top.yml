@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5818
+# teaser: Rewrite chapter in Michael Gerber style RevisionTime: 2023-07-13T17:51:39.012Z
+- id: 5818-rewrite-chapter-in-michael-gerber-style-activity-writing-top
+  title: "Rewrite chapter in Michael Gerber style Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - rewrite
+    - chapter
+    - michael
+    - gerber
+    - style
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Rewrite chapter in Michael Gerber style"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to behave like a writer who has the same writing style as Michael
+    E. Gerber and rewrite the following text in the [TARGETLANGUAGE] language with
+    a minimum of 50,000 characters, as if it were a chapter from a book, including
+    sub-topics. Here''s the text to be rewritten: [PROMPT].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

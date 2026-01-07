@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1759
+# teaser: Extract the business name and phone number from raw data (Google Maps copy & paste) Outputs
+# in Table format
+- id: 1759-business-list-data-extractor
+  title: Business List Data Extractor
+  tags:
+    - marketing
+    - business
+    - list
+    - data
+    - extractor
+  family: marketing
+  body:
+    "Extract business names and phone number from the following data, if there
+    is no phone number put 'n/a' after the business name so they keep proper order,
+    output phone numbers to '000-000-0000' format, output in table format, in the
+    [TARGETLANGUAGE] language: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

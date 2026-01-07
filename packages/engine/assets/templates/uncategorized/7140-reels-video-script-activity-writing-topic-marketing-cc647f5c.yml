@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7140
+# teaser: Create a full organization for a instagram reels video, including hashtags, description,
+# headlines, etc. RevisionTime: 2023-02-19T15:35:19Z
+- id: 7140-reels-video-script-activity-writing-topic-marketing-cc647f5c
+  title: "Reels video Script Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - reels
+    - video
+    - script
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Reels video Script"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Como fazer um video curto para redes sociais que ira reter a atenÃƒÂ§ÃƒÂ£o do
+    seguidor e serÃƒÂ¡ bem persuasivo sobre o tema "[PROMPT]", me diga quais imagens
+    e vÃƒÂ­deos de fundo usar, descreva como dever ser as ediÃƒÂ§ÃƒÂµes, headlines, CTA,
+    boas mÃƒÂºsicas para usar de fundo, e tudo mais para se ter um vÃƒÂ­deo viral. Me
+    gere uma descriÃƒÂ§ÃƒÂ£o completa para o post e tambÃƒÂ©m as melhores 25 hashtags para
+    a postagem. tudo isso na linguagem [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

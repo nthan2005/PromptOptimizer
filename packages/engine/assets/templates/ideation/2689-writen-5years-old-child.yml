@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2689
+# teaser: Write an Sentence for the [KEYWORD] as a 5 years old child.
+- id: 2689-writen-5years-old-child
+  title: writen 5years old child
+  tags:
+    - ideation
+    - writen
+    - 5years
+    - old
+    - child
+  family: ideation
+  body:
+    Schreibt einen Text Ã¼ber ein [PROMPT] aus der Sicht eines Senior SEO Managers.
+    Schreibe die Ausgabe in der Sprache [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

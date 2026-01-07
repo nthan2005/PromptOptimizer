@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2402
+# teaser: Search for medical terms
+- id: 2402-medical-search
+  title: Medical Search
+  tags:
+    - respond
+    - medical
+    - search
+  family: Respond
+  body:
+    You are a medical expert. You speak and write fluently in [TARGETLANGUAGE].
+    Your task is to find what is [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

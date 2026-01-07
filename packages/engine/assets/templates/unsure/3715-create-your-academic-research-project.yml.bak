@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3715
+# teaser: The elaboration of a research project indicates to the researcher (or to the institutions to
+# which the project is directed) what are the aspects and questions established in relation to the
+# investigation of a certain theme.
+- id: 3715-create-your-academic-research-project
+  title: Create your academic research project
+  tags:
+  - unsure
+  - academic
+  - research
+  - project
+  family: UNSURE
+  body: 'Apresente o resultado no idioma [TARGETLANGUAGE] Eu quero que vocÃƒÂª crie
+    um projeto de pesquisa acadÃƒÂªmica completo. Escreva um texto corrido contendo
+    os seguintes elementos bÃƒÂ¡sicos: 1Ã‚Âº, 2Ã‚Âºe 3Ã‚Âº parÃƒÂ¡grafo: apresente o tema dentro
+    de um contexto histÃƒÂ³rico. 4Ã‚Âº parÃƒÂ¡grafo: delimitaÃƒÂ§ÃƒÂ£o do tema, apresentando
+    uma questÃƒÂ£o norteadora de pesquisa. 5Ã‚Âº parÃƒÂ¡grafo: apresente possÃƒÂ­veis respostas
+    para o problema de pesquisa levantado, ou seja, as hipÃƒÂ³teses. 6Ã‚Âº parÃƒÂ¡grafo:
+    em poucas palavras, fale sobre o objetivo geral do trabalho e tambÃƒÂ©m trÃƒÂªs especÃƒÂ­ficos.
+    7Ã‚Âº parÃƒÂ¡grafo: apresente a relevÃƒÂ¢ncia do trabalho acadÃƒÂªmico, identificando
+    a importÃƒÂ¢ncia dele para a sociedade ou comunidade cientÃƒÂ­fica. Isso ÃƒÂ© o que
+    chamamos de justificativa. 8Ã‚Âº parÃƒÂ¡grafo: descreva, em poucas palavras qual metodologia
+    serÃƒÂ¡ utilizada na pesquisa. O tipo e o carÃƒÂ¡ter investigativo, os sujeitos e
+    o lÃƒÂ³cus, as aÃƒÂ§ÃƒÂµes previstas, os instrumentos de coletas a serem utilizados,
+    bem como, a forma como os dados serÃƒÂ£o analisados SerÃƒÂ¡ uma pesquisa bibliogrÃƒÂ¡fica
+    ou de campo? A abordagem ÃƒÂ© qualitativa ou quantitativa? VocÃƒÂª deve especificar
+    o procedimento de forma concisa. [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

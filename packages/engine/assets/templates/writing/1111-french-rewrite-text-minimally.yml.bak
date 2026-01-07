@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1111
+# teaser: Please rewrite the following text for me. The rewritten text should have more words than the
+# text I sent you. This is very important, so be sure to use more words than I have given you. And
+# please use the French language.
+- id: 1111-french-rewrite-text-minimally
+  title: French - rewrite text minimally
+  tags:
+  - writing
+  - french
+  - rewrite
+  - text
+  - minimally
+  family: writing
+  body: Please rewrite the following text for me. The rewritten text should have more
+    words than the text I sent you. This is very important, so be sure to use more
+    words than I have given you. And please use the language [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

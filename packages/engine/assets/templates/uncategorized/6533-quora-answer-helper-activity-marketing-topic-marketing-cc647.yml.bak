@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6533
+# teaser: Free Quora Answer Generator RevisionTime: 2023-05-31T21:10:34.779Z
+- id: 6533-quora-answer-helper-activity-marketing-topic-marketing-cc647
+  title: 'Quora Answer Helper Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - quora
+  - answer
+  - helper
+  - activity
+  - marketing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1828555321141104640/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Quora Answer Helper"](https://www.aiprm.com/prompts/marketing/marketing/1828555321141104640/)_"
+    --- Imagine that you are Quora respondent. Now your task is provide credible,
+    reliable and accurate answers with facts to Quora questions based on the [PROMPT].
+    Implement markdown language such as bold text, listing e.t.c. Your writing style
+    and tone should be a mix of professionalism, conversational, formal, and informal
+    tones. Be creative and write in your own words using simple and understandable
+    grammar. Write in [TARGETLANGUAGE] on the [PROMPT].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

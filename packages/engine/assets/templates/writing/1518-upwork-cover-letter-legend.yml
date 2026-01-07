@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1518
+# teaser: Craft a convincing cover letter (proposal) on Upwork for a higher response rate from Client.
+# Thumbs up if you like.
+- id: 1518-upwork-cover-letter-legend
+  title: Upwork Cover Letter Legend
+  tags:
+    - writing
+    - upwork
+    - cover
+    - letter
+    - legend
+  family: writing
+  body:
+    'Your objective is to identify the pain points of the job''s description and
+    use an informal tone to create a compelling cover letter that is no more than
+    150 words. Additionally, include a link to portfolio in the proposal and conclude
+    with a call to action. Avoid beginning your proposal with "Dear," "Dear Michael,"
+    or "Dear Hiring Manager." Instead, start with "Hi," "Hello," or "Hello There."
+    All content must be written in [TARGETLANGUAGE]. Here is the Job''s Description:
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8510
+# teaser: Generate the best H1 tag *only* for your Content related to your Focus Keyword.
+# RevisionTime: 2024-05-08T08:22:51.778Z
+- id: 8510-h1-tag-related-to-your-focus-keyword-activity-writing-topic
+  title: 'H1 tag related to your focus Keyword Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - tag
+  - related
+  - focus
+  - keyword
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1953687750843289600/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "H1 tag related to your focus Keyword"](https://www.aiprm.com/prompts/seo/writing/1953687750843289600/)_"
+    --- Write all output in [TARGETLANGUAGE]. write h1 tag in 12 words only, related
+    to my focus keyword [PROMPT] do not change my focus keyword write as it is same
+    to same in h1 tag, do not write <h1> </h1> when you are giving me the result only
+    write simple text in 1 line line. and also not write within double quotes.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

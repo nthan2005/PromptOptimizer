@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1317
+# teaser: This is a generator prompts for PlayGround AI
+- id: 1317-playgroundai-prompt-generator
+  title: PlaygroundAI - Prompt Generator
+  tags:
+    - writing
+    - playgroundai
+    - prompt
+    - generator
+  family: writing
+  body:
+    "[PROMPT] The H.R. Gieger art style features futuristic, photorealistic landscapes
+    and structures with sharp focus and attention to detail. Elements like smoke,
+    rain, artillery, sparks, and electronics are incorporated into the art. These
+    pieces often have high resolution, such as 4K or 8K, and use advanced rendering
+    techniques such as octane render and dynamic lighting to create a hyperrealistic
+    look. [TARGETLANGUAGE] Artists like Chris Voss, Greg Rutkowski, Charlie Bowater,
+    Beeple, and Amanda Sage are known for creating works in this style. The art form
+    is popular on platforms like Artstation and can include concept art, matte painting,
+    and digital photography."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

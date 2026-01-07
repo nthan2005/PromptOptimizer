@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7732
+# teaser: This Task Is For Revising And Improving Website Heading Tags (H1, H2, H3, Etc.) To Ensure
+# Clarity, Professionalism, And Alignment With Seo Best Practices. The Goal Is To Create Concise,
+# Informative, And Keyword-rich Headings That Improve Readability And Search Engine Performance.
+# RevisionTime: 2024-12-10T04:34:32.679Z
+- id: 7732-heading-tags-optimization-activity-ideation-topic-seo-84c5d6
+  title: "Heading Tags Optimization Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - heading
+    - tags
+    - optimization
+    - activity
+    - ideation
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Heading Tags Optimization"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Improve these heading tags for the webpage linked below without adding new
+    headings. Ensure they remain relevant, clear, and professional while following
+    the specified hierarchy. Avoid using colons unless required and make the language
+    user-friendly and SEO-aligned. Always Include Procedure or Keyword. Output should
+    be the same format with Input. Input Template: Improve these heading tags for
+    this page: [URL] <H1> [Original H1 text] <H2> [Original H2 text] <H2> [Original
+    H2 text] <H3> [Original H3 text] Output Template: <H1> [Revised H1 text] <H2>
+    [Revised H2 text] <H2> [Revised H2 text] <H3> [Revised H3 text] [TARGETLANGUAGE]
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - url

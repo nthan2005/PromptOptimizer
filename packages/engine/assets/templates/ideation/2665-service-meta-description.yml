@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2665
+# teaser: Up to 300 charracter of a meta-description for GMB services.
+- id: 2665-service-meta-description
+  title: Service Meta Description.
+  tags:
+    - ideation
+    - service
+    - meta
+    - description
+  family: ideation
+  body:
+    "Your task is to research and summarize the text in 60 words or no more than
+    300 characters. Your research should be related to service provider companies.
+    Write the meta description text related to the service. This text must contain
+    the keyword and meta descriptions synonymous. Write the meta description of the
+    service. Every piece of output must be written in [TARGETLANGUAGE]. The text summarizes
+    this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

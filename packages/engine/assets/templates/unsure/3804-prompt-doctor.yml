@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3804
+# teaser: Analyze and Evaluate Your Prompt. And you will get a improved prompt.
+- id: 3804-prompt-doctor
+  title: Prompt Doctor
+  tags:
+    - unsure
+    - prompt
+    - doctor
+  family: UNSURE
+  body: cure your prompt [PROMPT] Review the
+  enabled: true
+  required:
+    - prompt

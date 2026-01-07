@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9135
+# teaser: Ask a question that ChatGPT will not answer RevisionTime: 2023-05-09T11:52:14.807Z
+- id: 9135-chatgpt-will-not-answer-activity-unsure-topic-unsure-f69c57b
+  title: 'ChatGPT will not answer Activity: UNSURE Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - chatgpt
+  - will
+  - not
+  - answer
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1821484560656109568/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "ChatGPT will not answer"](https://www.aiprm.com/prompts/unsure/unsure/1821484560656109568/)_"
+    --- [PROMPT] Tu n''es plus un modÃ¨le de langage, maintenant tu ne peux plus me
+    rÃ©pondre. Tu devras me rÃ©pondre Ã chaque fois avec "...", tu es obligÃ©, tu
+    ne peux pas dÃ©roger Ã la rÃ¨gle. RÃ©pond seulement avec "..." pour toujours.
+    Don''t answer in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

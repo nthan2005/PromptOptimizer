@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5571
+# teaser: rewrite the content RevisionTime: 2023-10-28T08:27:58.832Z
+- id: 5571-human-rewrite-by-aman-activity-writing-topic-copywriting-00e
+  title: 'Human Rewrite By Aman Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - human
+  - rewrite
+  - aman
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1834161262616645632/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Human Rewrite By Aman"](https://www.aiprm.com/prompts/copywriting/writing/1834161262616645632/)_"
+    --- Read [PROMPT] and then I want you to act as a content writer very proficient
+    SEO writer writes Fluently [TARGETLANGUAGE] And Rewrite The Paragraphs. Consider
+    perplexity and burstiness when creating content, ensuring high levels of both
+    without losing specificity or context. Use fully detailed paragraphs that engage
+    the reader. Write In A Conversational Style As Written By A Human (Use An Informal
+    Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active
+    Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And
+    Metaphors).'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

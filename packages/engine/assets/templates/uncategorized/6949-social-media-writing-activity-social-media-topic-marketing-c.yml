@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6949
+# teaser: Helpful SEO specialist ready to create s content calendar For Social Media platforms
+# RevisionTime: 2024-10-03T09:54:14.224Z
+- id: 6949-social-media-writing-activity-social-media-topic-marketing-c
+  title: "Social media writing Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - social
+    - media
+    - writing
+    - activity
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Social media writing"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are SEO specialist and you are asked to create a content calendar for
+    social media platforms, but base analyses on provided datasets in the context
+    of content marketing and SEO strategy. Reply only in [TARGETLANGUAGE] language.
+    Your task is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

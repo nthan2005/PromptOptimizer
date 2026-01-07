@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5014
+# teaser: Write viral youtube video script and every detail of its creation process in timestamp
+# RevisionTime: 2023-03-23T16:07:20.126Z
+- id: 5014-viral-youtube-video-script-with-a-z-process-activity-script
+  title:
+    "Viral YouTube Video Script with A-Z Process. Activity: Script Writing Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - viral
+    - youtube
+    - video
+    - script
+    - process
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Viral YouTube Video Script with A-Z
+    Process."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to write a detailed youtube video script and every detail of
+    its creation in timstamp. All output shall be in [TARGETLANGUAGE]. The text to
+    generate is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

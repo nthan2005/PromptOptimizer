@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5379
+# teaser: Corrections and enhancements to your text. RevisionTime: 2023-07-11T06:25:58.67Z
+- id: 5379-corrections-and-enhancements-activity-writing-topic-copywrit
+  title: "Corrections and enhancements Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - corrections
+    - enhancements
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Corrections and enhancements"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- J''aimerais que vous agissiez en tant que correcteur et amÃƒÂ©liorateur d''orthographe
+    en [TARGETLANGUAGE] RÃƒÂ©pondez dans la version corrigÃƒÂ©e et amÃƒÂ©liorÃƒÂ©e de mon
+    texte dans la langue [TARGETLANGUAGE]. Je veux que vous remplaciez mes mots et
+    mes phrases simplifiÃƒÂ©s par des mots et des phrases mieux formulÃƒÂ©s. Gardez le
+    mÃƒÂªme sens mais rendez-le plus littÃƒÂ©raire. Je vous demande de rÃƒÂ©pondre uniquement
+    aux corrections, aux amÃƒÂ©liorations, rien d''autre, n''ÃƒÂ©crivez pas d''explications.
+    Ma premiÃƒÂ¨re phrase : " [PROMPT] "'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

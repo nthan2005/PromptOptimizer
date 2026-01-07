@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 405
+# teaser: Rewrite a text for a post in Linkedn
+- id: 405-engaging-post-for-linkedin
+  title: Engaging post for LinkedIn
+  tags:
+    - marketing
+    - engaging
+    - post
+    - linkedin
+  family: marketing
+  body:
+    Rewrite this [PROMPT] for a post in Linkedin, it should be engaging yet professional,
+    shouldn't have repetitions and the language should be natural. All output shall
+    be in [TARGETLANGUAGE] The post won't be longer than 100 words. Also give me 10
+    hashtags that go well with the text.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

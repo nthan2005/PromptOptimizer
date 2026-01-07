@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4317
+# teaser: Pesky blog post summary paragraphs take too much time... Not anymore! Just paste your
+# content and receive the perfect summary. RevisionTime: 2023-03-21T14:41:48Z
+- id: 4317-create-cta-summary-paragraphs-for-your-content-activity-call
+  title:
+    "Create CTA Summary Paragraphs for Your Content! Activity: call to action
+    Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - cta
+    - summary
+    - paragraphs
+    - content
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create CTA Summary Paragraphs for Your
+    Content!"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create a summary paragraph of the following content that I will tell you about.
+    Provide a call-to-action that is inspiring, hopeful, and based on the content
+    I will tell you about. Do not repeat verbatim all of the main points from the
+    content. Try to incorporate a sense of playful humor, but make the humor sound
+    natural and connected to the content I will tell you about. Please make sure to
+    respond in [TARGETLANGUAGE] The content for you to write a summary paragraph of
+    is the following: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

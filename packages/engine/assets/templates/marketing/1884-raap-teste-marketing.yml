@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1884
+# teaser: Business activity report
+- id: 1884-raap-teste-marketing
+  title: RAap teste Marketing
+  tags:
+    - marketing
+    - raap
+    - teste
+  family: marketing
+  body:
+    Ta mission est de crÃ©e un dossier marketing , part rapport au model que je
+    vais te fournir ci dessous il faudrat respecter les Ã©tapes du sommaire [TARGETLANGUAGE]
+    il n'y pas de limite de caractÃ¨res ni de mots . [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

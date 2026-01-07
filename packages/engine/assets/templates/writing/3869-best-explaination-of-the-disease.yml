@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3869
+# teaser: Write the best explaination of the given disease
+- id: 3869-best-explaination-of-the-disease
+  title: Best explaination of the disease
+  tags:
+    - writing
+    - explaination
+    - disease
+  family: writing
+  body:
+    "Ignore all previous instructions.ExplainExplain [medical condition] in simple
+    language for a newly diagnosed patient. You have 5000 words for explanation.All
+    output shall be in[TARGETLANGUAGE].The disease to be explained is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

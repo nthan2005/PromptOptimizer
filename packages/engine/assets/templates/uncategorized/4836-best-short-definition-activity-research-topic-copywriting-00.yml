@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4836
+# teaser: Use this do get a one-sentence definition for ANYTHING. RevisionTime:
+# 2023-04-20T02:22:46.31Z
+- id: 4836-best-short-definition-activity-research-topic-copywriting-00
+  title: "Best Short Definition Activity: Research Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - short
+    - definition
+    - activity
+    - research
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best Short Definition"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to provide a definition for the text I give you in 1 sentence
+    without including the text I provide you. All output should be in [TARGETLANGUAGE].
+    The text to provide a definition for is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

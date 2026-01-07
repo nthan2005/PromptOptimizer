@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5782
+# teaser: description prompt RevisionTime: 2023-11-22T07:15:58.403Z
+- id: 5782-put-keywrds-and-links-activity-writing-topic-copywriting-00e
+  title: '[put keywrds and links] Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - put
+  - keywrds
+  - links
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1892802803861819392/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "[put keywrds and links]"](https://www.aiprm.com/prompts/copywriting/writing/1892802803861819392/)_"
+    --- write descriptions for provided keywords upto 50-60 words and language should
+    be in [TARGETLANGUAGE]. also apply hyperlink on the provided keywords only if
+    I provide the links for keywords, keywords should be as it is in description and
+    link apply on it, content should be in human tone or human friendly [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

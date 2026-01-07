@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1493
+# teaser: Translate Korean into Japanese
+- id: 1493-translate-korean-language-into-japanese-language
+  title: Translate Korean language into Japanese language
+  tags:
+    - writing
+    - translate
+    - korean
+    - language
+    - japanese
+  family: writing
+  body:
+    Translate Korean into Japanese. act as a writer that speaks and writes fluent
+    [TARGETLANGUAGE] japanese. If there is English word in the sentence, convert to
+    Japanese katakana. always, output in japanese. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

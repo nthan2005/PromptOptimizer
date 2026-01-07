@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6797
+# teaser: Create best Facebook ads Primary text, Headline, Description for a landing page. If you like
+# please up vote it. Otherwise I can not create more.Thanks. RevisionTime: 2024-10-03T09:55:56.711Z
+- id: 6797-facebook-ads-primary-text-headline-description-activity-soci
+  title: 'Facebook ads Primary text, Headline, Description Activity: Social Media
+    Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - facebook
+  - ads
+  - primary
+  - text
+  - headline
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1802314300917018624/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Facebook ads Primary text, Headline,
+    Description"](https://www.aiprm.com/prompts/marketing/social-media/1802314300917018624/)_"
+    --- Your task is to Write 10 Primary text, Headline, Description for Facebook
+    ads. Try to give 3 column have 125 characters for the Primary text field, 40 characters
+    for the Headline field and 155 characters for the Description field for promoting
+    this post, and list it into a table. All outputs will be in [TARGETLANGUAGE].
+    The task is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

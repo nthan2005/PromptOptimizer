@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4320
+# teaser: Diversity[Keyword] RevisionTime: 2023-07-23T15:36:26.69Z
+- id: 4320-diversity-activity-call-to-action-topic-copywriting-00ea56f4
+  title: "Diversity Activity: call to action Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - diversity
+    - activity
+    - call
+    - action
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Diversity"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Diversity Matters [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

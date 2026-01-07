@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6103
+# teaser: Create your own IaC right now RevisionTime: 2023-03-27T21:30:18.737Z
+- id: 6103-creating-iac-activity-configuration-management-topic-devops
+  title: "Creating IaC Activity: Configuration Management Topic: DevOps-f3e52afbf831197f"
+  tags:
+    - uncategorized
+    - creating
+    - iac
+    - activity
+    - configuration
+    - management
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Creating IaC"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Using the [TARGETLANGUAGE] Create me a code using IAC technology [PROMPT]
+    to provision resource [PROMPT] in cloud [PROMPT] with security standards recommended
+    by NIST and ISO27017.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

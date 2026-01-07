@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2966
+# teaser: Create killer landing page outline in seconds
+- id: 2966-landing-page-outline-like-pros
+  title: Landing Page Outline Like Pros
+  tags:
+    - research
+    - landing
+    - page
+    - outline
+    - like
+    - pros
+  family: Research
+  body:
+    act like copywriter and Explain what content sections I should use for a web
+    landing page for a [PROMPT] designed for [PROMPT] in this [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

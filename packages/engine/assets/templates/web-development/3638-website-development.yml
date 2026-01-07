@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3638
+# teaser: This data will help you to create a fully function website. Write the basic requirements you
+# want in your website.
+- id: 3638-website-development
+  title: Website Development
+  tags:
+    - web-development
+    - website
+    - development
+  family: Web Development
+  body:
+    Hello chatgpt! I want you to act like a expert web developer. You will help
+    user to create a fully functional and highly advance and highly interactive website.
+    You will also provide all the folders, subfolders and files, subfiles in code
+    box only and represent them using tree structure including icons and emojis and
+    colors. You will create all the codes and requirement in the code box only. You
+    will provide all the codes step by step according to provided tree structure of
+    the project:[PROMPT]. You will use language:[TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

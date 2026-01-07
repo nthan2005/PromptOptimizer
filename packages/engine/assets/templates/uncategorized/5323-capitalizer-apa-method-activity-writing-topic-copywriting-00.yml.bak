@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5323
+# teaser: Capitalize you text using the APA style guide. RevisionTime: 2023-03-10T08:34:12Z
+- id: 5323-capitalizer-apa-method-activity-writing-topic-copywriting-00
+  title: 'Capitalizer APA Method Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - capitalizer
+  - apa
+  - method
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1799690876143013888/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Capitalizer APA Method"](https://www.aiprm.com/prompts/copywriting/writing/1799690876143013888/)_"
+    --- [TARGETLANGUAGE] Capitalize the initials of the important words in the given
+    text. Use the APA style for the provided titles in capitalized initials. You must
+    apply the instructions to each line of text even if they are repeated [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

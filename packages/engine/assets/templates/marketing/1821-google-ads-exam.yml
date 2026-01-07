@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1821
+# teaser: Prompt for google ads certification
+- id: 1821-google-ads-exam
+  title: Google ads Exam
+  tags:
+    - marketing
+    - google
+    - ads
+    - exam
+  family: marketing
+  body:
+    Soy un experto en google ads y estoy haciendo un examen sobre la certificaciÃ³n
+    sobre mis conocimientos. Necesito seleccionar solo [PROMPT] respuesta correcta
+    para la siguiente pregunta[TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

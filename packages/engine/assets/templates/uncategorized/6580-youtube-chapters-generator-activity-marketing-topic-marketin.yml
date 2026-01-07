@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6580
+# teaser: Paste the transcript into this prompt for perfect chapters! This works best for videos less
+# than 10 minutes. (Chat GPT won't allow more text entered into the prompt) RevisionTime:
+# 2023-05-19T13:26:21.888Z
+- id: 6580-youtube-chapters-generator-activity-marketing-topic-marketin
+  title: "Youtube Chapters Generator Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - youtube
+    - chapters
+    - generator
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Youtube Chapters Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- In [TARGETLANGUAGE] create a list of key moments with their coordinating time
+    stamps where it was discussed in the video. Use this as an example for the timestamps
+    09:23 Transcript: [PROMPT] When completed, ask for any remaining transcript for
+    the video and then combine all parts of the transcript into 1 list of time stamps
+    and key moments.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7259
+# teaser: Grammar checker RevisionTime: 2023-11-09T09:21:37.049Z
+- id: 7259-grammar-checker-activity-plan-topic-productivity-b5a49cdd079
+  title: "Grammar Checker Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - grammar
+    - checker
+    - activity
+    - plan
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Grammar Checker"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Hey GPT! Starting now, if I insert text between three backticks, it means
+    I want you to check [TARGETLANGUAGE]grammar and write the only correct sentence
+    without any double quotes and extra sentences like "I made few adjustments", or
+    "I rewrote it", etc. Just simply output the correct sentences without any other
+    words. Do you understand? [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

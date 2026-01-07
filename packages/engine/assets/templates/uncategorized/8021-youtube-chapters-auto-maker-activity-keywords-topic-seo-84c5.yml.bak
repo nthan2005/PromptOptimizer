@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8021
+# teaser: Create Youtube chapters from a transcript with timestamps RevisionTime:
+# 2023-08-05T15:05:49.312Z
+- id: 8021-youtube-chapters-auto-maker-activity-keywords-topic-seo-84c5
+  title: 'YouTube Chapters Auto Maker Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - youtube
+  - chapters
+  - auto
+  - maker
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1852520585428221952/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "YouTube Chapters Auto Maker"](https://www.aiprm.com/prompts/seo/keywords/1852520585428221952/)_"
+    --- Given the following YouTube transcript with timestamps, please identify the
+    8 most significant points and create corresponding YouTube chapters. Here is the
+    Transcript: [PROMPT] Instructions: Review the provided transcript carefully. Identify
+    the 8 most significant or key points in the video based on the content of the
+    transcript. For each key point, provide a timestamp from the transcript and a
+    brief title that accurately represents the content at that point in the video.
+    The chapters should be logically ordered according to their occurrence in the
+    video. Desired Output: [Timestamp] - [Title] [Timestamp] - [Title] [Timestamp]
+    - [Title] [Timestamp] - [Title] [Timestamp] - [Title] [Timestamp] - [Title] [Timestamp]
+    - [Title] [Timestamp] - [Title] Please replace "[Timestamp]" and "[Title]" with
+    the actual timestamp and title for each chapter. The output language is [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

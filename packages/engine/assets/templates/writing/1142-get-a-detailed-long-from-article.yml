@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1142
+# teaser: Create Long Form Content In 60 Secs
+- id: 1142-get-a-detailed-long-from-article
+  title: Get A Detailed Long From Article
+  tags:
+    - writing
+    - detailed
+    - long
+    - article
+  family: writing
+  body:
+    I want you to properly understand the target keyword first, then look for
+    other related keywords, then provide a detailed blog outline for the target keyword,
+    and finally write the full long-form blog article and properly structure it with
+    header tags [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

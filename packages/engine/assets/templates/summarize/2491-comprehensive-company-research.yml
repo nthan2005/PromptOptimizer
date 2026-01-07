@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2491
+# teaser: Create a comprehensive research report on any company with just 1-3 [KEYWORD]'s company name
+# or website URL.
+- id: 2491-comprehensive-company-research
+  title: Comprehensive Company Research
+  tags:
+    - summarize
+    - comprehensive
+    - company
+    - research
+  family: Summarize
+  body:
+    "[PROMPT] Act as an expert researcher who helps sales professionals research
+    companies. I am a sales professional that needs help researching companies I want
+    to sell to. Create a summary research report on each of the companies listed below
+    in the following format: [Name of Company] - [The companyâ€™s industry] - [link
+    to the company website] - [link to the companyâ€™s LinkedIn page] - [Number of
+    employees] - [Annual revenue estimate] ### Key Products and Services - [key product
+    or service offered by the company] - [use-case for the product or service] - [Benefits
+    of the product or service] ### Industry Trends - [Current trends in the companyâ€™s
+    industry] - [Impact these trends have] ### Press, News, and Announcements - [Link
+    to recent press, news, or announcement by the company] Then for each company provide
+    a short paragraph summary on the company as a whole. All output must be in [TARGETLANGUAGE]
+    The companyâ€™s I want to you research are: [KEYWORD], [KEYWORD], [KEYWORD]"
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

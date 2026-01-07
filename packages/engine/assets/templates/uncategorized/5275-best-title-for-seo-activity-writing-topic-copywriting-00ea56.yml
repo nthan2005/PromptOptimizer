@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5275
+# teaser: Create best title for seo RevisionTime: 2023-03-22T17:30:36.679Z
+- id: 5275-best-title-for-seo-activity-writing-topic-copywriting-00ea56
+  title: "Best Title for Seo Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - title
+    - seo
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best Title for Seo"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to create an engaging headline about the word I give you, with
+    a maximum width of 580 pixels. All output shall be in [TARGETLANGUAGE]. You will
+    see the word here: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

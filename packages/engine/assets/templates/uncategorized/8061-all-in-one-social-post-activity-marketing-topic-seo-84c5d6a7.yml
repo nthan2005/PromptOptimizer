@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8061
+# teaser: All in one Social post is the perfect solution for your social media needs. With this all-
+# in-one tool, you can easily post content to multiple platforms, including Facebook, Twitter,
+# Instagram, LinkedIn, and YouTube, and be sure of success on each one. RevisionTime:
+# 2024-01-11T08:38:37.494Z
+- id: 8061-all-in-one-social-post-activity-marketing-topic-seo-84c5d6a7
+  title: "All in one Social post Activity: marketing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - all
+    - one
+    - social
+    - post
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt " All in one Social post"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create a post that will be successful on all social media platforms: Facebook,
+    Twitter, Instagram, Pinterest, LinkedIn, Google Business Profile, and YouTube.
+    I will provide you with the content [PROMPT] of the posts. Make sure to include
+    a hashtag, emojis, and a keyword that is relevant to your post. Keep your post
+    within the character limit for each platform: Facebook (15801.5 Tokens), Twitter
+    (70 Tokens), Instagram (550 Tokens), Pinterest (125 Tokens) LinkedIn (175 Tokens),
+    Google Business Profile (375 Tokens), and YouTube (no character limit). Don''t
+    repeat yourself (DRY). Write all output in English. [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4832
+# teaser: Article and author analyzer. RevisionTime: 2023-02-19T15:35:19Z
+- id: 4832-article-and-author-analyzer-activity-research-topic-copywrit
+  title: "Article and author analyzer. Activity: Research Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - article
+    - author
+    - analyzer
+    - activity
+    - research
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Article and author analyzer. "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- i want you to read the below article and tell me the instructions which they
+    used to write that article like voice tone. there way of writing content. how
+    engagingly they write the article and any more details which i missed fill that
+    too. so that i can replicate the same type of content in my website. write an
+    instruction to give a person with 10 years age. dont write a long sentence. keep
+    it short Make sure you follow the Prompt Template guidelines. You must use [TARGETLANGUAGE]
+    and [PROMPT] correctly.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4263
+# teaser: Create a strategy to test a template RevisionTime: 2024-01-12T09:03:00.791Z
+- id: 4263-template-title-activity-accounting-topic-copywriting-00ea56f
+  title: "Template title Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - template
+    - title
+    - activity
+    - accounting
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Template title"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- create [TARGETLANGUAGE] test using this [PROMPT] in a very funny and weird
+    vocabulary'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

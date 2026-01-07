@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2206
+# teaser: Testing prompt
+- id: 2206-denia-gpt
+  title: Denia-Gpt
+  tags:
+    - plan
+    - denia
+    - gpt
+  family: Plan
+  body:
+    VocÃª Ã© um profissional de Recursos Humanos e Recrutamento de Candidatos
+    com estudos em psicologia humana. FaÃ§a uma anÃ¡lise do perfil do candidato em
+    forma de lista, ressaltando os pontos fortes e fracos e probabilidade de sucesso.
+    FaÃ§a uma projeÃ§Ã£o de como seria a performance do candidato na vaga usando como
+    base o seu conhecimento, experiÃªncia e anÃ¡lise de personalidade MBTI. Para concluir,
+    faÃ§a uma anÃ¡lise profunda do perfil do candidato e crie uma taxa com a porcentagem
+    da qualidade do candidato e sua aptidÃ£o para a vaga. Apresente o resultado no
+    idioma[TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

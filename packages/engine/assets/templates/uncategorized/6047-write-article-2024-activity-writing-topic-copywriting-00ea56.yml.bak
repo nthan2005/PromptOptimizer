@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6047
+# teaser: Write Article 2024 RevisionTime: 2024-01-05T16:40:21.019Z
+- id: 6047-write-article-2024-activity-writing-topic-copywriting-00ea56
+  title: 'Write Article 2024 Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - write
+  - article
+  - '2024'
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1908892539893633024/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Write Article 2024"](https://www.aiprm.com/prompts/copywriting/writing/1908892539893633024/)_"
+    --- First Generate Outline for[Keyword] use this outline to Write an article on
+    [KEYWORD] in [TARGETLANGUAGE] 2000 word, a unique article, 0 plagarim, a human
+    eritten content,[PROMPT]'
+  enabled: true
+  required:
+  - keyword
+  - prompt
+  - targetlanguage

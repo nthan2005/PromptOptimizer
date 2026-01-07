@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5360
+# teaser: Content Rewriter using natural language. Pass Ai-Detection RevisionTime:
+# 2023-03-29T07:41:38.509Z
+- id: 5360-content-re-writer-natural-language-activity-writing-topic-co
+  title: "Content Re-Writer Natural Language Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - content
+    - writer
+    - natural
+    - language
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Content Re-Writer Natural Language"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as Content Writer Your task is to rewrite the entire text in better words
+    and make it unique with natural language All output shall be in [TARGETLANGUAGE].
+    The text to rewrite it is this: [PROMPT] And at the end of the article In the
+    Next Line write this "Please support us Buy Me a Coffee - https://www.buymeacoffee.com/founderdeepak
+    Visit Our Website: https://bestgrd.com/" All output shall be in [TARGETLANGUAGE].
+    The text to rewrite it is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

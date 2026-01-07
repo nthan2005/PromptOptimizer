@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4786
+# teaser: Shopify ,Amazon Fba ,Product, SEO RevisionTime: 2023-11-01T14:07:33.464Z
+- id: 4786-product-description-for-shopify-activity-product-description
+  title: "Product Description For Shopify Activity: Product Description Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - product
+    - description
+    - shopify
+    - activity
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Product Description For Shopify "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- all out put shall be in [TARGETLANGUAGE], "Provide comprehensive information
+    about the following aspects of the topic: Description, Details, FAQ, Genre, Themes,
+    and a Conclusion. Additionally, include 11 essential SEO key phrases, a well-optimized
+    Meta Description, SEO Title, and a selection of 25 relevant tags. Please aim to
+    present all this information in a single response. If any section appears too
+    brief, simply request additional details by saying something like, "Add more details
+    to the Genre section." Remember, the more information you provide, the more accurate
+    and informative your response will be." [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

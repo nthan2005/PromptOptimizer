@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1589
+# teaser: Create a title, hashtags, TAGs and description for your Youtube video with SEO techniques.
+# (Biffi)
+- id: 1589-youtube-title-hashtag-tags-and-description-seo
+  title: Youtube Title, Hashtag, TAGs and Description SEO
+  tags:
+    - writing
+    - youtube
+    - title
+    - hashtag
+    - tags
+    - description
+  family: writing
+  body:
+    "VocÃƒÆ’Ã‚Âª ÃƒÆ’Ã‚Â© um Youtuber. Eu quero que vocÃƒÆ’Ã‚Âª escreva 5 sugestÃƒÆ’Ã‚Âµes de tÃƒÆ’Ã‚Â­tulos
+    utilizando a palavra-chave. Escreva os tÃƒÆ’Ã‚Â­tulos com uma linguagem persuasiva e
+    chamativa. Escreva esses tÃƒÆ’Ã‚Â­tulos em uma lista. Informe qual tÃƒÆ’Ã‚Â­tulo vocÃƒÆ’Ã‚Âª recomenda
+    e dÃƒÆ’Ã‚Âª seus motivos. FaÃƒÆ’Ã‚Â§a uma descriÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o de 500 palavras para o vÃƒÆ’Ã‚Â­deo com o
+    tÃƒÆ’Ã‚Â­tulo sugerido utilizando tÃƒÆ’Ã‚Â©cnicas de SEO para a palavra-chave informada. Repita
+    a palavra-chave 5 vezes. Escreva esse texto corrido, sem listas. Convide o espectador
+    para assistir os outros vÃƒÆ’Ã‚Â­deos do canal. Me dÃƒÆ’Ã‚Âª 3 sugestÃƒÆ’Ã‚Âµes de hashtags. Me
+    dÃƒÆ’Ã‚Âª 15 sugestÃƒÆ’Ã‚Âµes de tag separadas por vÃƒÆ’Ã‚Â­rgula. NÃƒÆ’Ã‚Â£o acrescente nenhuma introduÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o
+    antes dos textos. Escreva apenas o que foi solicitado sem tÃƒÆ’Ã‚Â­tulos. Inicie o prompt
+    com a seguinte frase: OlÃƒÆ’Ã‚Â¡! Esse ÃƒÆ’Ã‚Â© mais um pprompt do Biffi! Veja aqui os dados
+    que vocÃƒÆ’Ã‚Âª precisa para publicar um vÃƒÆ’Ã‚Â­deo incrÃƒÆ’Ã‚Â­vel no Youtube! A palavra-chave
+    ÃƒÆ’Ã‚Â© [PROMPT] Escreva o texto em [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

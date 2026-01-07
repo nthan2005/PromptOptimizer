@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3260
+# teaser: meta title and description
+- id: 3260-meta-title-and-description
+  title: meta title and description
+  tags:
+    - writing
+    - meta
+    - title
+    - description
+  family: writing
+  body: "[PROMPT] Meta"
+  enabled: true
+  required:
+    - prompt

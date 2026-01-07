@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5278
+# teaser: Portfolio Description: Showcase your work in your portfolio. RevisionTime:
+# 2023-06-26T22:01:43.76Z
+- id: 5278-best-video-editing-portfolio-description-activity-writing-to
+  title: 'Best Video Editing Portfolio Description Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - video
+  - editing
+  - portfolio
+  - description
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1838306898622554112/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Best Video Editing Portfolio Description"](https://www.aiprm.com/prompts/copywriting/writing/1838306898622554112/)_"
+    --- I''m a video editor and going to add a video that I did for my client to my
+    Fiverr portfolio so I need a project description. All output shalle be in [TARGETLANGUAGE].
+    The title of the video for the description is this : [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6589
+# teaser: Place an emoji for each phrase of my content RevisionTime: 2023-03-21T17:06:53Z
+- id: 6589-emoji-placed-for-your-text-activity-places-media-channels-to
+  title: "Emoji placed for your text Activity: Places (Media Channels) Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - emoji
+    - placed
+    - text
+    - activity
+    - places
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Emoji placed for your text"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to place a corresponding emoji at the end of each phrase of the
+    [TARGETLANGUAGE] The text to have emoji is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4866
+# teaser: If you are mass applying for a lot of jobs, to companies you've never heard of before, this
+# may be a helpful first stop when researching the company, the job position, and why it might be an
+# exciting place to work. RevisionTime: 2023-04-13T16:31:11.424Z
+- id: 4866-initial-research-on-companies-while-job-searching-activity-r
+  title: 'Initial Research on Companies while Job Searching Activity: Research Topic:
+    Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - initial
+  - research
+  - companies
+  - while
+  - job
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1812132674610135040/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Initial Research on Companies while
+    Job Searching"](https://www.aiprm.com/prompts/copywriting/research/1812132674610135040/)_"
+    --- In [TARGETLANGUAGE], can you tell me about [Company Name] and what they do?
+    I''m interested in applying for the [Job Role] position, what would my responsibilities
+    be? And finally, what are some exciting things about working for [Company Name]
+    that would make it a great place to work? [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

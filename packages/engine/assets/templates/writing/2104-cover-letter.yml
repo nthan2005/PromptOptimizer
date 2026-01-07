@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2104
+# teaser: Create a professional cover letter from Job Description and Resume.
+- id: 2104-cover-letter
+  title: Cover Letter
+  tags:
+    - writing
+    - cover
+    - letter
+  family: writing
+  body:
+    write me a professionally written cover letter based on the Job description
+    and my resume in [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1362
+# teaser: Break down barriers and find new solutions with reverse engineering. Stay ahead of the game
+# by decoding your competitors' strategies by the decoding the competition textx. [reverse
+# engineering] [copywritting] [writting] [reasearch]
+- id: 1362-reverse-engineering-decoding-the-competition
+  title: "Reverse Engineering: Decoding the Competition"
+  tags:
+    - writing
+    - reverse
+    - engineering
+    - decoding
+    - competition
+  family: writing
+  body:
+    "Na podstawie wklejonego tekstu okreÃƒâ€¦Ã¢â‚¬Âºl: 1. target publicznoÃƒâ€¦Ã¢â‚¬Âºci wynikajÃƒâ€žÃ¢â‚¬Â¦cy
+    z treÃƒâ€¦Ã¢â‚¬Âºci, 2. ton wypowiedzi, 3. Struktura tekstu i jego podziaÃƒâ€¦Ã¢â‚¬Å¡ na sekcje oraz
+    dÃƒâ€¦Ã¢â‚¬Å¡ugoÃƒâ€¦Ã¢â‚¬ÂºÃƒâ€žÃ¢â‚¬Â¡ tekstu w znakach (Ãƒâ€¦Ã¢â‚¬Å¡Ãƒâ€žÃ¢â‚¬Â¦cznie ze spacjami) 4. SÃƒâ€¦Ã¢â‚¬Å¡ownictwo i styl 5. rodzaj
+    jÃƒâ€žÃ¢â€žÂ¢zyka i skÃƒâ€¦Ã¢â‚¬Å¡adni 6. narracja 7. StopieÃƒâ€¦Ã¢â‚¬Å¾ czytelnoÃƒâ€¦Ã¢â‚¬Âºci i atrakcyjnoÃƒâ€¦Ã¢â‚¬Âºci tekstu
+    okreÃƒâ€¦Ã¢â‚¬Âºlony w procentach (%) 8. Stosowane przykÃƒâ€¦Ã¢â‚¬Å¡ady i czÃƒâ€žÃ¢â€žÂ¢stotliwoÃƒâ€¦Ã¢â‚¬ÂºÃƒâ€žÃ¢â‚¬Â¡ odwoÃƒâ€¦Ã¢â‚¬Å¡ywania
+    siÃƒâ€žÃ¢â€žÂ¢ do Ãƒâ€¦Ã‚ÂºrÃƒÆ’Ã‚Â³deÃƒâ€¦Ã¢â‚¬Å¡ 9. Zastosowane techniki pisarskie 10. OdpowiedÃƒâ€¦Ã‚Âº na potrzeby
+    czytelnikÃƒÆ’Ã‚Â³w i ocena atrakcyjnoÃƒâ€¦Ã¢â‚¬Âºci dla czytelnika (w procentach) 11. Jakie jeszcze
+    echniczne charakterystyki proponujesz do gÃƒâ€¦Ã¢â‚¬Å¡ebszego zbadania tesktu pod wzglÃƒâ€žÃ¢â€žÂ¢dem
+    techniki pisania. Wymien po przecinku, tylko elementy techniczne bez opisÃƒÆ’Ã‚Â³w (max
+    5). 12. Zaproponuj 10 hashtagÃƒÆ’Ã‚Â³w wynikajÃƒâ€žÃ¢â‚¬Â¦cych z treÃƒâ€¦Ã¢â‚¬Âºci i skoreluj je z najpopularniejszymi
+    hashtagami w sieci link do tekstu: [PROMPT] UÃƒâ€¦Ã‚Â¼ywaj jÃƒâ€žÃ¢â€žÂ¢zyka: [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

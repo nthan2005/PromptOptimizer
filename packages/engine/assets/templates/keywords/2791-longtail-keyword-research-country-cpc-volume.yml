@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2791
+# teaser: longtail keyword research (Country) with CPC, difficulty, and volume
+- id: 2791-longtail-keyword-research-country-cpc-volume
+  title: Longtail Keyword Research Country, CPC , Volume
+  tags:
+    - keywords
+    - longtail
+    - keyword
+    - research
+    - country
+    - cpc
+  family: keywords
+  body:
+    "generate a table for 40 long tail related keywords 2-5 words with cpc , difficulty,
+    and volume on the basis of user search intent by country which i given on the
+    following primary keyword: also write source of cpc [TARGETLANGUAGE] [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

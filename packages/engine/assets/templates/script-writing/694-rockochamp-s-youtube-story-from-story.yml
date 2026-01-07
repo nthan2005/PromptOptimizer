@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 694
+# teaser: Find a cool story on YouTube, copy the transcript, and boom!
+- id: 694-rockochamp-s-youtube-story-from-story
+  title: "Rockochamp's: YouTube Story From Story"
+  tags:
+    - script-writing
+    - rockochamp
+    - youtube
+    - story
+  family: Script Writing
+  body:
+    'All in [TARGETLANGUAGE] "Rewrite the following YouTube transcript as a story
+    told in the third person of the protagonist (named: â€˜the protagonistâ€™), with
+    added sarcasm and a little humor, also use at least one curse word for dramatic
+    storytelling. Begin with something like: ''Today we''re looking at the protagonist
+    as he...''" Transcript: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

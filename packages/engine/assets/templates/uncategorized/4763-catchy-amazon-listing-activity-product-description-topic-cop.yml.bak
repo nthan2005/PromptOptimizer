@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4763
+# teaser: Writes witty and captivating Amazon lisitngs including title, 5 bullets, and description
+# RevisionTime: 2023-06-24T09:29:25.72Z
+- id: 4763-catchy-amazon-listing-activity-product-description-topic-cop
+  title: 'Catchy Amazon Listing Activity: Product Description Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - catchy
+  - amazon
+  - listing
+  - activity
+  - product
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/product-description/1824771598490796032/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Catchy Amazon Listing "](https://www.aiprm.com/prompts/copywriting/product-description/1824771598490796032/)_"
+    --- I need help creating a witty and compelling amazon listing for a product I
+    want to sell on amazon. As part of the task, you will be required to generate
+    a title, 5 bullet points with a minimum of 230 characters and maximum of 300 characters
+    each, and a product description of no less than 300 words. To start, please ensure
+    that the product title is keyword optimized, accurately describes the product''s
+    functionality, and is between 150 and 200 characters long. Include 5 keywords
+    and highlight the benefits of the product to potential customers. The 5 bullet
+    points should be witty and succinctly describe the product''s features and benefits
+    and should include high ranking keywords. Each bullet must be a minimum of 230
+    characters and a maximum of 300 characters each. Start each bullet point with
+    up to 5 words in all caps which indicate a benefit/function of the point. For
+    the product description, you need to provide a comprehensive overview of the product''s
+    features and benefits to help customers make informed purchase decisions. The
+    description should have 3 sections. The first section should have a title followed
+    by two paragraphs that explain the strongest features or benefits. The second
+    section should have a title and 1 paragraph. The last section is a bulleted list
+    of statements explaining why potential buyers will love the product. The section
+    should have an appropriate title. Finally finish with a single sentence call to
+    action. This is the format to use for the description... Section 1: TITLE IN ALL
+    CAPS paragraph 1 paragraph 2 section 2: subtitle paragraph section 3 subtitle
+    - bulleted item 1 - bulleted item 2 - bulleted item 3 - bulleted item 4 call to
+    action All output shall be in [TARGETLANGUAGE]. The text you need to consider
+    is [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

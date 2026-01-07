@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6925
+# teaser: Social Media Post Generator - Based on Your Brief RevisionTime: 2024-10-03T09:56:03.273Z
+- id: 6925-social-media-caption-copywriting-activity-social-media-topic
+  title: "Social Media Caption Copywriting Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - social
+    - media
+    - caption
+    - copywriting
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Social Media Caption Copywriting"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to write a social media post in [TARGETLANGUAGE]. The brief to
+    use as reference for the social media post is the following: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

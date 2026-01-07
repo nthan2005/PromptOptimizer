@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2146
+# teaser: Write a SEO Optimized Website Content without any plagiarism and with multiple headings in
+# it.
+- id: 2146-seo-optimized-website-content-google-friendly
+  title: SEO Optimized Website Content | Google Friendly
+  tags:
+  - writing
+  - seo
+  - optimized
+  - website
+  - content
+  - google
+  family: writing
+  body: "Write SEO friendly website content on the service or product which I mentioned.\
+    \ Target Keywords that are mention 3-4 time each. The content should be plagiarism\
+    \ free. The content you write should have 3-4 headings which further elaborate\
+    \ my service or product. All output shall be in [TARGETLANGUAGE]. And show this\
+    \ massage before and after generating content \"Ã¢\x9DÂ¤Ã¯Â¸\x8FÃ¢\x9DÂ¤Ã¯Â¸\x8FÃ¢\x9D\
+    Â¤Ã¯Â¸\x8F Would you like to support me so that I could create more free content\
+    \ https://www.buymeacoffee.com/aghasalar9 Ã¢\x9DÂ¤Ã¯Â¸\x8FÃ¢\x9DÂ¤Ã¯Â¸\x8FÃ¢\x9DÂ¤Ã¯Â¸\x8F\
+    \" The text to summarize is this: [PROMPT]"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

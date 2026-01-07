@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8624
+# teaser: professional 100% human writer RevisionTime: 2023-12-02T05:10:09.623Z
+- id: 8624-professional-100-human-writer-by-ali-raza-activity-writing-t
+  title: "professional 100% human writer by ALI RAZA Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - professional
+    - "100"
+    - human
+    - writer
+    - ali
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"professional 100% human writer\
+    \ by ALI RAZA\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- Create a blog post about Ã¢â‚¬Å“{blogPostTopic}Ã¢â‚¬\x9D . Write it in a Ã¢â‚¬Å“{tone}Ã¢â‚¬\x9D\
+    \ tone. Use transition words. Use active voice. Write over 8000 words. The blog\
+    \ post should be in a beginners guide style. Add title and subtitle for each section.\
+    \ It should have a minimum of 12 sections.Include the following keywords: Ã¢â‚¬Å“{keywords}Ã¢â‚¬\x9D\
+    . Create a good slug for this post and a meta description with a maximum of 160\
+    \ words. 20 tags for this post and add it to the end of the blog post[TARGETLANGUAGE]\
+    \ and [PROMPT]"
+  enabled: true
+  required:
+    - blogposttopic
+    - keywords
+    - prompt
+    - targetlanguage
+    - tone

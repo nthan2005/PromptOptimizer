@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6671
+# teaser: Get Book names with Chapters for the topic you want to Write a Book. RevisionTime:
+# 2024-01-04T18:20:27.085Z
+- id: 6671-get-attractive-book-names-with-chapters-activity-research-to
+  title: "Get Attractive Book Names with Chapters Activity: Research Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - attractive
+    - book
+    - names
+    - chapters
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Get Attractive Book Names with Chapters
+    "](https://github.com/nthan2005/PromptOptimizer)_" ---
+    Suggest 50 book names and give 10 chapters in each book. Bold The Book Name [TARGETLANGUAGE]
+    on given [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

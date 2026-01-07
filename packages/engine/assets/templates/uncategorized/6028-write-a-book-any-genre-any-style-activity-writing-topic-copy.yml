@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6028
+# teaser: Write a 15-chapter book in the genre, language, and topic of your choice. RevisionTime:
+# 2023-08-12T19:02:17.188Z
+- id: 6028-write-a-book-any-genre-any-style-activity-writing-topic-copy
+  title: "Write a Book, Any Genre, Any Style Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - write
+    - book
+    - any
+    - genre
+    - style
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Write a Book, Any Genre, Any Style"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Generate [VARIABLE1] book title with provided topic: [PROMPT] in the style
+    of [VARIABLE2] in [TARGETLANGUAGE]. Generate 15 book chapters with the title provided
+    and outline each one in less than 100 words Generate detailed book intro with
+    the title provided and more than 500 words Write Chapter 1 with detailed information
+    and more than 1000 words Write Chapter 2 with detailed information and more than
+    1000 words Write Chapter 3 with detailed information and more than 1000 words
+    Write Chapter 4 with detailed information and more than 1000 words Write Chapter
+    5 with detailed information and more than 1000 words Write Chapter 6 with detailed
+    information and more than 1000 words Write Chapter 7 with detailed information
+    and more than 1000 words Write Chapter 8 with detailed information and more than
+    1000 words Write Chapter 9 with detailed information and more than 1000 words
+    Write Chapter 10 with detailed information and more than 1000 words Write Chapter
+    11 with detailed information and more than 1000 words Write Chapter 12 with detailed
+    information and more than 1000 words Write Chapter 13 with detailed information
+    and more than 1000 words Write Chapter 14 with detailed information and more than
+    1000 words Write Chapter 15 with detailed information and more than 1000 words
+    [VARIABLE1: Book genre] [VARIABLE2: Comparison authors]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5517
+# teaser: generate a paragraph with keywords RevisionTime: 2023-02-23T12:53:35.85Z
+- id: 5517-generate-a-paragraph-with-keywords-activity-writing-topic-co
+  title: 'generate a paragraph with keywords Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - generate
+  - paragraph
+  - keywords
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1794320910149484544/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "generate a paragraph with keywords"](https://www.aiprm.com/prompts/copywriting/writing/1794320910149484544/)_"
+    --- Peux tu me gÃ©nÃ©rer en [TARGETLANGUAGE] un paragraphe avec les mots clÃ©s
+    suivant [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

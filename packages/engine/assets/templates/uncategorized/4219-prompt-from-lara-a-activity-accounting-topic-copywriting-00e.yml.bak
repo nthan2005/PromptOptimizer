@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4219
+# teaser: Review the attached calendar for my upcoming schedule. Ask me clarifying questions to
+# identify meetings or tasks that are less critical or low-priority, and suggest alternative times
+# when these could be rescheduled or delegated, so I can prioritize maintaining blocks of time for
+# high-value work and strategic planning. Additionally, flag any commitments that may no longer be
+# necessary or beneficial. Every time I send an updated calendar, ensure I consistently focus on the
+# most impactful tasks and responsibilities RevisionTime: 2025-02-19T04:44:20.918Z
+- id: 4219-prompt-from-lara-a-activity-accounting-topic-copywriting-00e
+  title: 'Prompt from Lara A Activity: Accounting Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - prompt
+  - lara
+  - activity
+  - accounting
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/2057653764932513792/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Prompt from Lara A"](https://www.aiprm.com/prompts/copywriting/accounting/2057653764932513792/)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

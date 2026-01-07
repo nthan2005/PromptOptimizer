@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9123
+# teaser: Bodybuilding training RevisionTime: 2023-08-03T12:26:07.538Z
+- id: 9123-bodybuilding-exercises-tips-activity-unsure-topic-unsure-f69
+  title: 'Bodybuilding exercises tips Activity: UNSURE Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - bodybuilding
+  - exercises
+  - tips
+  - activity
+  - unsure
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1852657461929721856/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Bodybuilding exercises tips"](https://www.aiprm.com/prompts/unsure/unsure/1852657461929721856/)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] Gostaria que me apresenta-se
+    5 exercÃ­cios de musculaÃ§Ã£o para fazer na academia em uma tabela que atenda
+    esse mÃºsculo do corpo com exemplos e nome Aqui, preciso de um passo a passo para
+    fazer esses exercicios citados acima da academia de musculaÃ§Ã£o Abaixo da tabela
+    preciso da opiniÃ£o dos especialistas em educaÃ§Ã£o fÃ­sica de como fazer esses
+    exercicios Agora, preciso de uma tabela com as top 5 produtos saudÃ¡veis para
+    melhorar a saÃºde detalhando na tabela. Agora, deixe um passo a passo para ajudar
+    os usuÃ¡rios a melhorar a sua perfromance na academia Pra finalizar, deixe uma
+    tabela com os exercicios semanal por dia e cada musculo detalhado com um desafio
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

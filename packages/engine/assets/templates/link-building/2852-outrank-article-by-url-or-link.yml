@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2852
+# teaser: Outrank Article fully SEO Optimized based on [your competitor URL or link ].
+- id: 2852-outrank-article-by-url-or-link
+  title: Outrank Article by url or link
+  tags:
+    - link-building
+    - outrank
+    - article
+    - url
+    - link
+  family: link building
+  body:
+    Rewrite the article using the given link as your primary source. Ensure that
+    the rewritten article is unique, does not contain any plagiarism, and accurately
+    reflects the information presented in the original article. Use your own words
+    and sentence structure to create an original piece of content. And make it a great
+    article using a bold title and Meta Description, format the article with 10 subtitles,
+    write a 700 words SEO optimized article for each subtitle that is not detected
+    by AI and write 10 FAQs with answers [TARGETLANGUAGE]. The text [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

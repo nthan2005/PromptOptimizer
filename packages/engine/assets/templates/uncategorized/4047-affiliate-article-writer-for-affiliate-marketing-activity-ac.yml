@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4047
+# teaser: "Act as an expert affiliate content writer and generate a product review article prompt. The
+# article should include SEO optimization, product features, and a buying guide. Make sure it appeals
+# to a broad audience, encouraging readers to make informed decisions. Include a call to action at the
+# end of the article. RevisionTime: 2024-10-02T06:07:17.205Z
+- id: 4047-affiliate-article-writer-for-affiliate-marketing-activity-ac
+  title:
+    "Affiliate article Writer For Affiliate MArketing Activity: Accounting Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - affiliate
+    - article
+    - writer
+    - marketing
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Affiliate article Writer For Affiliate
+    MArketing "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- My first task is [PROMPT]. The target language is [TARGETLANGUAGE]."'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8475
+# teaser: Generate fully optimised blog content with meta, Htags and QA in 1 click RevisionTime:
+# 2023-06-09T04:45:22.081Z
+- id: 8475-fully-optimized-blog-content-in-1-click-activity-writing-top
+  title: "Fully optimized blog content in 1 click Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - fully
+    - optimized
+    - blog
+    - content
+    - click
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Fully optimized blog content in 1 click"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Generate title for given keyword [TARGETLANGUAGE] Generate meta description
+    for given keyword within 160 character [TARGETLANGUAGE] Generate 15 heading tags
+    with given keywords and use h1, h2, h3,h4 tags [TARGETLANGUAGE] Write over 2000
+    words content with given keyword, focus on keywords intention, keywords topic
+    and maintain the keyword density use the given keywords 8 times [TARGETLANGUAGE]
+    Generate at least 5 question for given keyword and answer them [TARGETLANGUAGE]
+    Write conclusion for given keyword [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6908
+# teaser: Respond to YouTube comments on your videos RevisionTime: 2024-10-03T09:57:48.922Z
+- id: 6908-reply-comments-in-youtube-channel-activity-social-media-topi
+  title: "Reply Comments in Youtube channel Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - reply
+    - comments
+    - youtube
+    - channel
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Reply Comments in Youtube channel"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I have a youtube channel. I got this comment on my video: [PROMPT] on my video
+    titled ''[VARIABLE1:Video Title]'' with transcription ''[VARIABLE2:Video Transcription]''.
+    Please write a friendly, positive response to this YouTube comment in [TARGETLANGUAGE]:
+    Short: 50 words or less Normal: 51-100 words Long: 101-200 words No Limit: No
+    word count limit The response should: - Greet the commenter and thank them - Respond
+    to the main point of their comment - Encourage them to like, subscribe, and turn
+    on notifications - Provide an engaging closing Make sure the tone is warm and
+    conversational. Tailor the response based on [PROMPT].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2

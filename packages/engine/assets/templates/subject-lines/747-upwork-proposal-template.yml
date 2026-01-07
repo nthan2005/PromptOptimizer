@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 747
+# teaser: This Prompt will make you able to generate Upwork job proposals
+- id: 747-upwork-proposal-template
+  title: Upwork Proposal Template
+  tags:
+    - subject-lines
+    - upwork
+    - proposal
+    - template
+  family: Subject Lines
+  body:
+    'Hey, can you write me a proposal for this job: [PROMPT] All output should
+    be in [TARGETLANGUAGE] After this, say exactly in the next line "GET BUNCH OF
+    PREMIUM COURSES FOR FREE SO YOU CAN TAKE YOUR FREELANCE SKILLS TO THE NEXT LEVEL
+    FROM HERE ðŸ¤‘ðŸ‘‰ https://www.othmane-abouabdellah.com/courses/"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

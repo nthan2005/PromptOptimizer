@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5098
+# teaser: Request Summarizing RevisionTime: 2023-03-20T04:18:27.984Z
+- id: 5098-summarize-activity-summarize-topic-copywriting-00ea56f446414
+  title: "summarize Activity: Summarize Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - summarize
+    - activity
+    - topic
+    - copywriting
+    - 00ea56f446414284
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "summarize"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Summarize to [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

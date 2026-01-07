@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5045
+# teaser: Create mindmap from ebook or article RevisionTime: 2023-05-01T08:57:19.068Z
+- id: 5045-create-mindmap-in-markdown-format-activity-summarize-topic-c
+  title: "Create mindmap in markdown format Activity: Summarize Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - mindmap
+    - markdown
+    - format
+    - activity
+    - summarize
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create mindmap in markdown format"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- you are a master of making mind map, Organize the book or article[TARGETLANGUAGE]
+    into a mind map with multiple levels of headings and sub-items, with each heading
+    or subitems not exceeding 15 words[TARGETLANGUAGE], in Markdown format wrapped
+    in a code block. required concise and comprehensive extract, mind map is need
+    to be a simplified and easy-to-understand version with concise and comprehensive
+    extract and highlight each heading[TARGETLANGUAGE]: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5846
+# teaser: Give a keyword and ChatGBT gets in Finnish 10 most asked question from net. RevisionTime:
+# 2023-05-29T11:24:37.686Z
+- id: 5846-seo-10-question-points-finnish-activity-writing-topic-copywr
+  title: 'SEO 10 question points Finnish Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - seo
+  - question
+  - points
+  - finnish
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1827666899996246016/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "SEO 10 question points Finnish"](https://www.aiprm.com/prompts/copywriting/writing/1827666899996246016/)_"
+    --- Kirjoita minulle 10 tÃ¤rkeintÃ¤ kysymystÃ¤ netistÃ¤, jotka koskevat antamaani
+    aihetta [PROMPT] . KÃ¤ytÃ¤ [TARGETLANGUAGE] suomea.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

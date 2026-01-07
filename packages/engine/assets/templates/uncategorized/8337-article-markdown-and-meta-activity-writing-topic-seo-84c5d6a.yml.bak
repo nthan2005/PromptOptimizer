@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8337
+# teaser: Use markdown and give Title | Description | Tags | URL RevisionTime: 2023-03-06T21:03:08Z
+- id: 8337-article-markdown-and-meta-activity-writing-topic-seo-84c5d6a
+  title: 'Article Markdown and Meta Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - article
+  - markdown
+  - meta
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1796204929283780608/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Article Markdown and Meta"](https://www.aiprm.com/prompts/seo/writing/1796204929283780608/)_"
+    --- [TARGETLANGUAGE] You are an expert in using Markdown to make articles visually
+    pleasing. Format this content in full by using Markdown without changing any of
+    the content. After that become an SEO expert give me a table with: High CTR Title,
+    140-170 character meta description, tags, short and friendly URL suggestion for
+    this content. "[PROMPT]"'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

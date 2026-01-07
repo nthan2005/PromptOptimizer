@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5659
+# teaser: Make Blog Title (SEO Friendly, Eye Catching and More Clickable) RevisionTime:
+# 2023-07-07T04:09:06.336Z
+- id: 5659-make-blog-title-more-clickable-title-activity-writing-topic
+  title: "Make Blog Title (More Clickable Title) Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - blog
+    - title
+    - more
+    - clickable
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Make Blog Title (More Clickable Title)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write 10 SEO Friendly Blog Title [PROMPT] [TARGETLANGUAGE] [Under 80 characters]
+    [Tone: Friendly] [Writing Style: Informative] [Eye Catching] [More Clickable]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

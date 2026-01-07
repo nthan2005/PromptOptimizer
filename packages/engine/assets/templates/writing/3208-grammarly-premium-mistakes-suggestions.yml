@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3208
+# teaser: Act Like Grammarly.com | Spelling | Sentences | Punctuation | Conciseness | Tone Detection |
+# Conciseness | Engagement and Suggestions
+- id: 3208-grammarly-premium-mistakes-suggestions
+  title: Grammarly Premium | Mistakes | Suggestions
+  tags:
+    - writing
+    - grammarly
+    - premium
+    - mistakes
+    - suggestions
+  family: writing
+  body:
+    Please Act as Grammarly.com in [TARGETLANGUAGE] and Complete analysis this
+    Article Read this Article and Give Result in this Structure 1 Show Spelling Mistakes
+    in Digit 2 Show Sentences Mistakes in Digit 3 Show Punctuation Mistakes in Digit
+    4 Show Conciseness Mistakes in Digit 5 Show Tone Detection 6 Make a excel Sheet
+    Show Incorrect Words in Left and Correct in Right 7 Show Incorrect Sentence and
+    then Suggest me Right Sentence 8 Suggest Correct Conciseness 9 Engagement and
+    Suggest best Words for Article My Article is [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

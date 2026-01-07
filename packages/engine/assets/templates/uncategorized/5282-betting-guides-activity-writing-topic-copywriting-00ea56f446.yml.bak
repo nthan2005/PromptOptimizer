@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5282
+# teaser: Create a betting guide from [TOPIC] [URL] [URL] [focuskeyphrase] [keyword] [keyword]
+# [keyword] in a minute. RevisionTime: 2024-02-02T16:01:21.016Z
+- id: 5282-betting-guides-activity-writing-topic-copywriting-00ea56f446
+  title: 'Betting Guides Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - betting
+  - guides
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1919029585447219200/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Betting Guides"](https://www.aiprm.com/prompts/copywriting/writing/1919029585447219200/)_"
+    --- Give me a text of 1800 words long. Make a professional and educational piece
+    about the next topic and, using 2 reference links, also use the following focus
+    keyphrase. I wil give the info like this: "topic", "URL1", "URL2", "Keyphrase",
+    "keyword","keyword", "keyword" Include please a meta description 22 words long
+    and 6 FAQs with answers after create the betting guide. I want you to try it with
+    these: [PROMPT]. Make it user-friendly separating the content sections in headings
+    and use SEO best practices using keywords relevant for the topic, and including
+    the focus keyword as the Yoast plugin parameters would demand. Return the text
+    in perfect [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

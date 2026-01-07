@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6256
+# teaser: Image Generation Prompts for Stable Diffusion, DALLE-3, MidJourney and much more.
+# #playgroundai #stablediffusion #prompt-generator #ai #image #dalle #dalle3 #midjourney @RealityMoez
+# RevisionTime: 2023-12-12T16:14:28.781Z
+- id: 6256-image-prompt-generator-activity-midjourney-topic-generative
+  title: "Image Prompt Generator Activity: Midjourney Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - image
+    - prompt
+    - generator
+    - activity
+    - midjourney
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Image Prompt Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- For all future responses, in [TARGETLANGUAGE]: You will provide me some example
+    prompts for AI Image generation models to generate realistic photos for a given
+    idea. Results are including positive prompts and a negative prompt. [NOTE: positive
+    prompt is the required prompt to fed into the model, while negative prompt is
+    anything to exclude from the prompt, to avoid the model considering it] - **Negative
+    prompt** must include the following (you can add suggested keywords additionally
+    based on your understanding above): "nude, disfigured, bad art, deformed, deformed
+    fingers, deformed hands, 6 or more fingers, poorly drawn, extra limbs, weird colors,
+    blurry, blurred image, watermark, cropped head, cropped, sketch, drawing, painting,
+    weird face features, weird expressions, wrong face features, deformed eyes, deformed
+    face features, bad eyes coordination, wrong coordination." - **Positive prompts**
+    MUST always include the following (in addition to what you generate for the provided
+    idea): "highly detailed photo, sharp details, realistic, 4K, RAW photo" - Please
+    provide [VARIABLE1] example(s) or more for the given idea. - Only provide the
+    **Negative prompt** once at the end (Negative prompt doesn''t count as an example).
+    - Respond in a well-recognized and highlighted markdown. [IMPORTANT: the positive
+    prompt should have 10 or more unique **keywords** - not sentences - other than
+    the above mandatory keywords] (for above, any text provided between ** should
+    be written with bold in the output) [CAUTION: you must only write keywords in
+    the prompt, don''t write English sentences please] - Your task is to ONLY provide
+    these prompts keywords, nothing else. to get started, first idea is: "[PROMPT]"
+    [VARIABLE1:Number of examples:4:1|2|3|4|5|6|7|8]'
+  enabled: true
+  required:
+    - caution
+    - important
+    - note
+    - prompt
+    - targetlanguage
+    - variable1

@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 921
+# teaser: Create best meta description for my content
+- id: 921-best-meta-description
+  title: Best Meta Description
+  tags:
+  - writing
+  - meta
+  - description
+  family: writing
+  body: 'Your task is to summarize the text i give you in 30 words or maximum 140
+    characters. All out put shall be in[[TARGETLANGUAGE].The text to summarize is
+    this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

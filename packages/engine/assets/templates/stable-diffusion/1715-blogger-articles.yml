@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1715
+# teaser: Write an article for blogger articles, That have 4000 Words in your Category > if ChatGpt
+# Stop Writing Click Continue
+- id: 1715-blogger-articles
+  title: Blogger Articles
+  tags:
+    - stable-diffusion
+    - blogger
+    - articles
+  family: Stable Diffusion
+  body:
+    "Write an article for blogger articles, That have 4,000 long Words in This
+    Category [PROMPT], Writein This Language [TARGETLANGUAGE], ,With SEO optimized
+    content Include : Title, Meta,description,Label picture and title, add SEO [KEYWORDS]
+    at the end of article,and count number of words,Continue Writing At the End"
+  enabled: true
+  required:
+    - keywords
+    - prompt
+    - targetlanguage

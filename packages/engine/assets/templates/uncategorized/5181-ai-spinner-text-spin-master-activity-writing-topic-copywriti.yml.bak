@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5181
+# teaser: From a text. Ask the AI to create a Spintax master. It will give you a text in the form
+# {word1|word2|word3} [Version 1.00] - Give me your feedback ! RevisionTime: 2023-03-19T03:54:24Z
+- id: 5181-ai-spinner-text-spin-master-activity-writing-topic-copywriti
+  title: 'AI Spinner Text - Spin Master Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - spinner
+  - text
+  - spin
+  - master
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1796742569741512704/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "AI Spinner Text - Spin Master "](https://www.aiprm.com/prompts/copywriting/writing/1796742569741512704/)_"
+    --- Bonjour, tu es une IA spÃ©cialisÃ©e dans la gÃ©nÃ©ration de textes uniques.
+    Je vais te fournir un texte que tu vas utiliser pour crÃ©er un maÃ®tre spintax.
+    RÃ©dige un maÃ®tre spintax puissant Ã partir de ce texte. Spintax tous les mots
+    que tu peux pour pourvoir crÃ©er plus tard des centaines de textes diffÃ©rents
+    et comprÃ©hensible. Fait en sorte de spinner des mots plutÃ´t que des phrases
+    entiÃ¨res. Pour chaque mot que tu vas spinner donne minimum 3 variantes. Voici
+    le texte : [PROMPT] - Maintenant donne moi le maÃ®tre spintax en [TARGETLANGUAGE]
+    sous la forme {mot1|mot2|mot3}. Soit performant. Important : Conserve les titres
+    et les paragraphes comme ils sont.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

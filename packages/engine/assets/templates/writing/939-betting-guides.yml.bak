@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 939
+# teaser: Create a betting guide from [TOPIC] [URL] [URL] [focuskeyphrase] in a minute
+- id: 939-betting-guides
+  title: Betting Guides
+  tags:
+  - writing
+  - betting
+  - guides
+  family: writing
+  body: 'Give me a text of 1800 words long. Make a professional and educational piece
+    about the next topic and, using 2 reference links, also use the following focus
+    keyphrase. I wil give the info like this: "topic", "URL1", "URL2", "Keyphrase".
+    Include please a meta description 22 words long and 6 FAQs with answers after
+    create the betting guide. I want you to try it with these: [PROMPT]. Make it user-friendly
+    separating the content sections in headings and use SEO best practices using keywords
+    relevant for the topic, and including the focus keyword as the Yoast plugin parameters
+    would demand. Return the text in perfect [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

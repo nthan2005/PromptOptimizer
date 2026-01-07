@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 157
+# teaser: strategy for social media
+- id: 157-strategy-for-1-month-rrss-calendar
+  title: Strategy for 1 Month - RRSS calendar
+  tags:
+    - accounting
+    - strategy
+    - month
+    - rrss
+    - calendar
+  family: Accounting
+  body:
+    "I'd like you to help me come up with an image post schedule for the professional
+    Instagram profile of the [YOURBUSINESS] that has the best chance of improving
+    his business image and reaching more people. DonÂ´t write an introduction paragraph.
+    I'll tell you about my interests in the prompt below. The tipe of contents for
+    this strategy are [INTERESTPOST]. Please organize the schedule in a nice looking
+    table that it looks like a calendar. I want to post everyday for 1 month. The
+    table columns should be: day (number), tipe of content, post idea description,
+    idea o inspiration for the creativities like video o pictures ideas, caption (original
+    text for the copy os the post), hashtags (30). In [TARGETLANGUAGE], sympathetic,
+    informative and influencial tone. information for the strategy [PROMPT]"
+  enabled: true
+  required:
+    - interestpost
+    - prompt
+    - targetlanguage
+    - yourbusiness

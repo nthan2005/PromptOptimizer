@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7171
+# teaser: Perform complex math calculations with ease using [BEST_PROMPT] RevisionTime:
+# 2023-07-30T14:20:18.468Z
+- id: 7171-maths-calculator-activity-operating-system-management-topic
+  title: "Maths calculator. Activity: Operating System Management Topic: OperatingSystems-8a5ca60d957fe707"
+  tags:
+    - uncategorized
+    - maths
+    - calculator
+    - activity
+    - operating
+    - system
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Maths calculator."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- This template can be used for various calculations such as arithmetic, algebraic
+    equations, geometry, and trigonometry. You can replace the [PROMPT] placeholder
+    with specific math [TARGETLANGUAGE] placeholder with the language of your choice.
+    PromptOptimizer allows for multi-lingual prompts, meaning that you can create the same prompt
+    in several languages. Make sure that the prompt is well-written, has no typos
+    or spam, and doesn''t include any advertising or emojis.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

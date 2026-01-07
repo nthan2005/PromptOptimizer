@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7092
+# teaser: Craft concise, professional comments for posts or Topics. Include an engaging question at
+# the end to spark meaningful discussions. Boost your online presence and stand out in the crowd.
+# Showcase your expertise and elevate your career growth. Unleash your creativity and captivate with
+# captivating comments! RevisionTime: 2023-07-19T08:17:15.48Z
+- id: 7092-comment-generation-and-engagement-activity-writing-topic-mar
+  title: "Comment Generation and Engagement Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - comment
+    - generation
+    - engagement
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Comment Generation and Engagement"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Imagine youÃ¢â‚¬â„¢re writing a comment in response to a post or topic. Generate
+    a concise and professional 10-20 word comment that relates to the post . Additionally,
+    include an engaging question at the end that is relevant to the topic of the [PROMPT].
+    Write in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

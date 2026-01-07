@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1870
+# teaser: Create personas based on 5 levels of consciousness.
+- id: 1870-persona-creator-levels-of-consciousness
+  title: Persona Creator - Levels of Consciousness
+  tags:
+    - marketing
+    - persona
+    - creator
+    - levels
+    - consciousness
+  family: marketing
+  body:
+    Create [PROMPT] personas for each level of consciousness. The 5 levels of
+    customer awareness created by Eugene Schwartz. Introduce each persona with Demographics,
+    Psychographics, main problem , Goals, Pain Points, Communication Preferences and
+    Buying Habits [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

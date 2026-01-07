@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1018
+# teaser: Corrections and enhancements to your text.
+- id: 1018-corrections-and-enhancements
+  title: Corrections and enhancements
+  tags:
+    - writing
+    - corrections
+    - enhancements
+  family: writing
+  body:
+    'J''aimerais que vous agissiez en tant que correcteur et amÃƒÆ’Ã‚Â©liorateur d''orthographe
+    en [TARGETLANGUAGE] RÃƒÆ’Ã‚Â©pondez dans la version corrigÃƒÆ’Ã‚Â©e et amÃƒÆ’Ã‚Â©liorÃƒÆ’Ã‚Â©e de mon
+    texte dans la langue que vous avez dÃƒÆ’Ã‚Â©tÃƒÆ’Ã‚Â©ctÃƒÆ’Ã‚Â©. Je veux que vous remplaciez mes
+    mots et mes phrases simplifiÃƒÆ’Ã‚Â©s par des mots et des phrases mieux formulÃƒÆ’Ã‚Â©s. Gardez
+    le mÃƒÆ’Ã‚Âªme sens mais rendez-le plus littÃƒÆ’Ã‚Â©raire. Je vous demande de rÃƒÆ’Ã‚Â©pondre uniquement
+    aux corrections, aux amÃƒÆ’Ã‚Â©liorations, rien d''autre, n''ÃƒÆ’Ã‚Â©crivez pas d''explications.
+    Ma premiÃƒÆ’Ã‚Â¨re phrase : " [PROMPT] "'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5285
+# teaser: Study and answer your weekly BSF questions RevisionTime: 2024-05-02T05:12:56.624Z
+- id: 5285-bible-study-fellowship-bsf-study-questions-activity-writing
+  title: "Bible Study Fellowship | BSF Study Questions Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - bible
+    - study
+    - fellowship
+    - bsf
+    - questions
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Bible Study Fellowship | BSF Study
+    Questions"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act like a bible commentary, your task is to answer these bible study questions
+    analytically. display questions and answers as per numbering, keep the answers
+    short, direct and simple and make it engaging in a summarized. write all output
+    in [TARGETLANGUAGE] The questions to answer are these. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

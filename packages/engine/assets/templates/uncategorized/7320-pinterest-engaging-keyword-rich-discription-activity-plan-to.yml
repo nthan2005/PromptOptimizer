@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7320
+# teaser: A prompt to write engaging pinterest discriptions. With relevent tags. RevisionTime:
+# 2023-03-14T04:54:43Z
+- id: 7320-pinterest-engaging-keyword-rich-discription-activity-plan-to
+  title: "Pinterest Engaging Keyword rich Discription Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - pinterest
+    - engaging
+    - keyword
+    - rich
+    - discription
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Pinterest Engaging Keyword rich Discription
+    "](https://github.com/nthan2005/PromptOptimizer)_" ---
+    Write a pinterest discription for title I''ll give you. Sound informal and add
+    call to action words, add relevent five tags, WORD LIMIT SHOULD NOT EXCEED 400.
+    and use [TARGETLANGUAGE] Title i give you is [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

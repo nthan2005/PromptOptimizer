@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 878
+# teaser: Write a complete blog post about your top 10 Amazon products using keywords. Include product
+# features, pros and cons, and provide keywords that meet SEO requirements.
+- id: 878-amazon-top-10-product-reviews-blog-article
+  title: AMAZON Top 10 product reviews blog article
+  tags:
+    - writing
+    - amazon
+    - top
+    - product
+    - reviews
+    - blog
+  family: writing
+  body:
+    'You need to write a blog article about the top 10 best-selling [PROMPT] products
+    on ''Amazon''. First, give me the PROMPT for the title, meta, 10 keywords, and
+    a representative image to be included in the article (all must meet SEO requirements).
+    Your article should include the following content 1. an introduction (at least
+    1000 words) (After the introduction, include the following text: "*Product prices
+    may vary depending on the time of sale and the seller''s policies.") 2. product
+    listings (only product names should be displayed) 3. product listing details 4.
+    conclusion "Details per product listing" includes the following - Why you''re
+    using this product - Approximate value - Features - Pros - Cons [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

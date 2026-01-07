@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2397
+# teaser: Learn Any Language in ChatGPT Way! No one can teach you better. Easy to understand and
+# Practice. Hit like if you love it!!
+- id: 2397-learn-any-language
+  title: Learn Any Language
+  tags:
+    - respond
+    - learn
+    - any
+    - language
+  family: Respond
+  body:
+    Teach me [PROMPT] language in the easiest way in an ebook format, start with
+    basic, and Present the ebook in modules. Total 8 modules with 5 lessons. In the
+    end, ask - which module and lesson would you like to start with? then after answering
+    this question ask again which module and lesson next and mention this example
+    '[eg. Module 1 Lesson 2]'. Keep it short and provide valuable information as possible
+    Please write in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

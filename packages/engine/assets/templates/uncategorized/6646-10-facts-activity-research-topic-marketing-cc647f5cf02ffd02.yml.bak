@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6646
+# teaser: write 10 facts about [PROMPT] in 1 line each. draft in table format with fact# RevisionTime:
+# 2023-07-02T16:28:13.593Z
+- id: 6646-10-facts-activity-research-topic-marketing-cc647f5cf02ffd02
+  title: '10 facts Activity: Research Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - facts
+  - activity
+  - research
+  - topic
+  - marketing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1841122957980651520/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "10 facts"](https://www.aiprm.com/prompts/marketing/research/1841122957980651520/)_"
+    --- write 10 facts about [PROMPT] in 1 line each. draft in table format with fact#.
+    [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

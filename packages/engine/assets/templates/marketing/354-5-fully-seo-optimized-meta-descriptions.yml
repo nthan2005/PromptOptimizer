@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 354
+# teaser: Gives a list of 5 Meta-descriptions for your topic | Fully SEO optimized | 100% unique
+- id: 354-5-fully-seo-optimized-meta-descriptions
+  title: 5 Fully SEO optimized Meta-descriptions
+  tags:
+    - marketing
+    - fully
+    - seo
+    - optimized
+    - meta
+    - descriptions
+  family: marketing
+  body:
+    'Une liste de 5 meta-descriptions optimisÃ©es pour le SEO. Doit contenir des
+    mots clÃ©s pouvant Ãªtre bien rÃ©fÃ©rencÃ© sur les moteurs de recherches. Doit
+    contenir 150 caractÃ¨res maximum. Le sujet est le suivant : "[PROMPT]" Please
+    write in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

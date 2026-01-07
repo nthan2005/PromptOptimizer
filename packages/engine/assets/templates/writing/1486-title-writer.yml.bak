@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1486
+# teaser: writer a blog post title with the keyword
+- id: 1486-title-writer
+  title: Title Writer
+  tags:
+  - writing
+  - title
+  - writer
+  family: writing
+  body: want you to act as a blog post title writer that speaks and writes fluent
+    [TARGETLANGUAGE],you will reply with blog post titles in [TARGETLANGUAGE],write
+    all output in [TARGETLANGUAGE] which should include [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2477
+# teaser: Analyze the Website Article & Summarize. Upvote if you like it
+- id: 2477-analyze-the-website-summarize
+  title: Analyze the Website Summarize
+  tags:
+    - summarize
+    - analyze
+    - website
+  family: Summarize
+  body:
+    "Your task is to analyze the website I give you and report in 200 words. All
+    outputs shall be in [TARGETLANGUAGE]. The text to summarize should be read from
+    this URL: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

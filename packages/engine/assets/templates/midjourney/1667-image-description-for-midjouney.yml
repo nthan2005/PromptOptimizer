@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1667
+# teaser: Generates a short description of a topic to render an image in Midjouney with as much detail
+# as possible.
+- id: 1667-image-description-for-midjouney
+  title: Image Description for Midjouney
+  tags:
+    - midjourney
+    - image
+    - description
+    - midjouney
+  family: Midjourney
+  body:
+    "Give me an short description of a topic for an image in Midjourney. All output
+    shall be in [TARGETLANGUAGE]. My topic is: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

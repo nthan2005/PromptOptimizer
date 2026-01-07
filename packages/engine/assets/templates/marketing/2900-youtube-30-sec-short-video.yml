@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2900
+# teaser: write the product name with
+- id: 2900-youtube-30-sec-short-video
+  title: YouTube 30 Sec Short Video
+  tags:
+    - marketing
+    - youtube
+    - sec
+    - short
+    - video
+  family: marketing
+  body:
+    Generate a script for a 30-second commercial promoting our new product. All
+    output shall be in [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

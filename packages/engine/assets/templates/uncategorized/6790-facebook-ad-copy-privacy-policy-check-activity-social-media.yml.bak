@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6790
+# teaser: [Test your Facebook ad copy if it will complies Facebook policies] RevisionTime:
+# 2024-10-03T09:57:43.811Z
+- id: 6790-facebook-ad-copy-privacy-policy-check-activity-social-media
+  title: '[Facebook ad copy privacy policy check] Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - facebook
+  - copy
+  - privacy
+  - policy
+  - check
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1845497059352825856/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "[Facebook ad copy privacy policy check]"](https://www.aiprm.com/prompts/marketing/social-media/1845497059352825856/)_"
+    --- does this ad complies with Facebook ad policies please tell me in yes or no
+    only [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

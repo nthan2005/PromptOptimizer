@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5486
+# teaser: "This prompt extracts key details from a URL and rewrites the content to be 100% unique and
+# plagiarism-free." RevisionTime: 2024-08-09T19:41:03.484Z
+- id: 5486-extract-and-rewrite-content-from-url-activity-writing-topic
+  title: '"Extract and Rewrite Content from URL". Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - extract
+  - rewrite
+  - content
+  - url
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1987576183323881472/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt ""Extract and Rewrite Content from URL"."](https://www.aiprm.com/prompts/copywriting/writing/1987576183323881472/)_"
+    --- "Extract key information from the provided link, then rewrite the content
+    to ensure it is 100% unique and exclusive. Ensure that the new content maintains
+    the original message while being free of any plagiarism." Reply only in [TARGETLANGUAGE]
+    language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

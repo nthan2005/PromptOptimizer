@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3424
+# teaser: Gives you a list of titles for travel blog post | Fully SEO optimized | 100% Unique
+- id: 3424-travel-blog-post-titles-ideas
+  title: Travel Blog Post Titles Ideas
+  tags:
+  - writing
+  - travel
+  - blog
+  - post
+  - titles
+  - ideas
+  family: writing
+  body: 'Des idÃƒÂ©es d''article optimisÃƒÂ© SEO pour un blog de voyage, les titres doivent
+    gÃƒÂ©nÃƒÂ©rer beaucoup de clics et doivent se positionner haut dans les rÃƒÂ©sultats
+    de recherches. Si possible, crÃƒÂ©er des titre d''article comprenant un numÃƒÂ©ro
+    (exemple : top 10 des...). Le sujet est le suivant : "[PROMPT]" Please write in
+    [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2395
+# teaser: Generate as many captions for Instagram as possible, please enter the amount you want
+- id: 2395-instagram-caption-generator-v1
+  title: Instagram Caption Generator v1
+  tags:
+    - respond
+    - instagram
+    - caption
+    - generator
+  family: Respond
+  body:
+    Write the following text without quotation marks "Instagram Caption Generator
+    V1 By https://igestetik.com " Directly type [PROMPT] caption at least 50 words
+    in one text for instagram aesthetic / motivation / love / inspiration / in [TARGETLANGUAGE],
+    for young people, starting from serial number, without hashtag. Write this text
+    without quotation marks " Please visit https://igestetik.com for Instagram filter
+    recommendations, capcut, and more. "
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

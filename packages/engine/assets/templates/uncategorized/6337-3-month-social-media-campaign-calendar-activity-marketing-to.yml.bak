@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6337
+# teaser: Create a keyword list from 1 [Product] and 1 [goal] ,referring Traditional Chinese search
+# results and presented in calendar and list RevisionTime: 2023-06-17T04:01:47.349Z
+- id: 6337-3-month-social-media-campaign-calendar-activity-marketing-to
+  title: '3-month social media campaign calendar Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - month
+  - social
+  - media
+  - campaign
+  - calendar
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1835496132592812032/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"3-month social media campaign calendar\"\
+    ](https://www.aiprm.com/prompts/marketing/marketing/1835496132592812032/)_\" ---\
+    \ [TARGETLANGUAGE] . [PROMPT] ç‚ºæˆ‘å€‘çš„ç”¢å“\x81[Product]ï¼ˆç›®æ¨™å®¢ç¾¤æ˜¯åœ‹ä¸­èˆ‡åœ‹å°\x8F\
+    æ•™å¸«ï¼‰å‰µå»ºä¸€å€‹ç‚ºæœŸ 3 å€‹æœˆçš„ç¤¾äº¤åª’é«”æ´»å‹•æ—¥æ›†ï¼Œç›®æ¨™æ˜¯ [goal]\
+    \ ä¸¦æ\x8F\x90å\x8FŠæˆ‘å€‘æ‡‰è©²é—œæ³¨çš„æ¸ é\x81“ã€‚ automatically by AIPRM.\
+    \ Answer in Traditional Chinese"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

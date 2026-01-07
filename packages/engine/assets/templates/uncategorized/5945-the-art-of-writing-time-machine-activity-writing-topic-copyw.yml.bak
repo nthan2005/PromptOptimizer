@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5945
+# teaser: Create poetry, stories, novels and books RevisionTime: 2023-04-14T21:28:51.259Z
+- id: 5945-the-art-of-writing-time-machine-activity-writing-topic-copyw
+  title: 'The art of writing (Time machine) Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - art
+  - writing
+  - time
+  - machine
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1812569972053110784/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "The art of writing (Time machine)"](https://www.aiprm.com/prompts/copywriting/writing/1812569972053110784/)_"
+    --- Your task is create act and generate literature Act as [PROMPT] Write Writer
+    Literature Narrative Create Imagine Ideas Masterpiece Stories Poems Essays Novel
+    Context Text Essay [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

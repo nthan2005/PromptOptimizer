@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7212
+# teaser: "Say: This is my Way: I call on Allah with sure knowledge, I and whosoever followeth me--
+# Glory be to Allah!--and I am not of the idolaters." RevisionTime: 2023-05-11T22:26:55.534Z
+- id: 7212-celebrity-invitation-to-islam-v-1-0-activity-plan-topic-prod
+  title: "Celebrity Invitation to Islam V 1.0 Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - celebrity
+    - invitation
+    - islam
+    - activity
+    - plan
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Celebrity Invitation to Islam V 1.0"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to craft a message that invites celebrity : [PROMPT], in his
+    mother tongue, using creative writing techniques and quotations from the Holy
+    Qur''an. Your message should be gentle, yet strong, conveying a sense of responsibility
+    that comes with being famous and followed by thousands of people. The use of quotations
+    from the Holy Qur''an should add a level of formality and reverence, while the
+    reference to the Prophet Muhammad''s call to kings, where Allah will double your
+    reward as a celebrity, this should add a level of authority and urgency. Take
+    your time to craft a message that is structured, deep, creative, and full of vitality
+    and beauty. Use all the required and effective creative touches to convey your
+    message. Make sure to adopt what has been provided about [CELEBRITY INFO], including
+    their language, background, Education, Race, etc . Your message should be a call
+    to action, similar to the call of the Prophet of Mercy, Muhammad, peace and blessings
+    be upon him, to kings at the beginning of his call due to the greatness of their
+    impact on humans. Remember, the most important thing is the quality of the message,
+    and the goal is to be clear to invite the celebrity to islam. Use language that
+    is clear and concise, yet rich and expressive. Use syntax that is varied and complex,
+    yet logical and coherent. Use grammar that is correct and consistent, yet flexible
+    and creative. Good luck! Very Important Note: [TARGETLANGUAGE] = Celebrity Mother
+    Tongue'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

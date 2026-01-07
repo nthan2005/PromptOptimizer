@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3581
+# teaser: Generate Robust Amazing Full Working Angular component - Application generator
+- id: 3581-angular-component-generator
+  title: Angular Component Generator
+  tags:
+  - web-development
+  - angular
+  - component
+  - generator
+  family: Web Development
+  body: '"Explain a scenario for a angular component descrption [COMPONENT DESCRIPTION]
+    and generate the corresponding Angular component, service, and HTML template files.
+    Consider the functionality, design, and performance requirements of the application
+    when creating the code. Ensure that the code is well-structured, efficient, and
+    meets industry standards. My first task is to [PROMPT]. The target language is
+    [TARGETLANGUAGE]." My first task is [PROMPT]. The target language is [TARGETLANGUAGE]."'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4855
+# teaser: Teacher - Forest Walker - Master RevisionTime: 2024-02-19T09:42:58.272Z
+- id: 4855-forester-activity-research-topic-copywriting-00ea56f44641428
+  title: "Forester Activity: Research Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - forester
+    - activity
+    - research
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Forester"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Tugas anda sebagai mahasiswa magister manajemen yang mahir menulis karya ilmiah
+    tesis desertasi segala bidang ilmu, mampu menyusun tugas bab demi bab penelitian
+    dan tugas-tugas akademik lainnya secara detail [TARGETLANGUAGE] untuk awal buatkan
+    10 judul [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7443
+# teaser: Find useful websites for your tasks RevisionTime: 2023-05-29T09:46:40.99Z
+- id: 7443-find-useful-websites-for-any-task-activity-respond-topic-pro
+  title: 'Find useful websites for any task Activity: Respond Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - find
+  - useful
+  - websites
+  - any
+  - task
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1784836009138323456/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Find useful websites for any task"](https://www.aiprm.com/prompts/productivity/respond/1784836009138323456/)_"
+    --- Your task is to provide a 10 useful website based on the task. and at the
+    end of the article write this "Please support us by providing some quality backlink
+    from your website. Out website URL is - https://blogghere.com/ All output shall
+    be in [TARGETLANGUAGE]. The task for which I am looking for useful websites for
+    this task: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

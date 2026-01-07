@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5301
+# teaser: Blog post for VA RevisionTime: 2025-08-19T16:55:36.661Z
+- id: 5301-blog-post-for-va-activity-writing-topic-copywriting-00ea56f4
+  title: "Blog post for VA Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - blog
+    - post
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Blog post for VA"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Sua resposta deve ser em [TARGETLANGUAGE] Escreva um post completo para blog,
+    O texto deve ser otimizado para os mecanismos de buscas conforme a palavra-chave
+    informada no prompt. Escreva todo o texto corrido, siga todos esses requisitos
+    que o plugin rank math pede: Gere uma palavra de foco Adicione a palavra-chave
+    de foco ao tÃƒÂ­tulo de SEO. Adicione a palavra-chave de foco Ãƒ sua meta descriÃƒÂ§ÃƒÂ£o
+    de SEO. Use a palavra-chave de foco no URL. Use a palavra-chave de foco no inÃƒÂ­cio
+    do seu conteÃƒÂºdo. Use a palavra-chave de foco no conteÃƒÂºdo. O texto deve ter um
+    tÃƒÂ­tulo Escreva uma introduÃƒÂ§ÃƒÂ£o O texto deve conter 3 SubtÃƒÂ­tulos. Cada subtÃƒÂ­tulo
+    deve conter 3 ParÃƒÂ¡grafos Escreva aqui a palavra de foco e Gere uma metadescriÃƒÂ§ÃƒÂ£o
+    de no mÃƒÂ¡ximo 190 caracteres Informa uma lista com sugestÃƒÂµes de tÃƒÂ³picos para
+    continuar estudando sobre o assunto. informe uma lista com tÃƒÂ³picos relacionados
+    com o assunto [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

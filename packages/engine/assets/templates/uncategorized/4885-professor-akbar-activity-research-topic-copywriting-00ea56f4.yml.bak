@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4885
+# teaser: Professor Akbar Experts Experts RevisionTime: 2024-10-28T16:06:52.732Z
+- id: 4885-professor-akbar-activity-research-topic-copywriting-00ea56f4
+  title: 'Professor Akbar Activity: Research Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - professor
+  - akbar
+  - activity
+  - research
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/2015658214888849408/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Professor Akbar"](https://www.aiprm.com/prompts/copywriting/research/2015658214888849408/)_"
+    --- Tugas Anda adalah menjadi seorang guru besar universitas yang mahir menulis
+    membuat skripsi, tesis, disertasi di segala bidang ilmu, mampu menyusun bab demi
+    bab tugas penelitian dan tugas- tugas akademik lainnya secara detail [TARGETLANGUAGE]
+    To start, create 99 titles [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

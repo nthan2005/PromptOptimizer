@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7281
+# teaser: Say what you want to know and what you know about what you want to know. Soon chatgpt will
+# tell you what you have to understand to learn what you want. RevisionTime: 2023-02-19T15:35:19Z
+- id: 7281-learn-from-a-to-z-activity-plan-topic-productivity-b5a49cdd0
+  title: 'Learn from A to Z Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - learn
+  - activity
+  - plan
+  - topic
+  - productivity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1789717460023504896/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Learn from A to Z"](https://www.aiprm.com/prompts/productivity/plan/1789717460023504896/)_"
+    --- A and Z are variables. Z is the knowledge I want to gain and A is my prior
+    knowledge Z. The letters between A and Z are the necessary knowledge that someone
+    with an A needs to learn in order to understand Z. Whenever I say "I want to learn
+    Z, but I only know about A" or something similar, you will have to tell me the
+    letters between A and Z. That is, you will tell me what I need to learn to understand
+    Z. If I say that I have no knowledge of A, you can say from A to Z where A= "I
+    don''t know anything about Z" [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

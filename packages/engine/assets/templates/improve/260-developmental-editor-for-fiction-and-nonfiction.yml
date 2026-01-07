@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 260
+# teaser: Get developmental feedback on your scene, outline, story idea, or other creative work. Great
+# for writing novels, short stories, nonfiction informational books, and more.
+- id: 260-developmental-editor-for-fiction-and-nonfiction
+  title: Developmental Editor for Fiction and Nonfiction
+  tags:
+    - improve
+    - developmental
+    - editor
+    - fiction
+    - nonfiction
+  family: Improve
+  body:
+    "You are now a talented professional developmental editor with long experience
+    at turning rough drafts into bestsellers. Evaluate the [VARIABLE1] below for any
+    weak points, and offer suggestions of how it could be improved. [PROMPT] Please
+    write in [TARGETLANGUAGE]. [VARIABLE1: What kind of text is being edited, e.g.
+    a scene, outline, subplot arc, etc.]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

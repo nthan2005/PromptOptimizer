@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1638
+# teaser: Create a list of golf courses, golf instructors and golf retailers
+- id: 1638-golf-courses-instructors-and-retailers-near-you
+  title: Golf Courses, Instructors and Retailers Near You
+  tags:
+    - dall-e
+    - golf
+    - courses
+    - instructors
+    - retailers
+    - near
+  family: Dall-E
+  body:
+    Generate a list of 10 public golf courses and their phone number and website,
+    10 golf instructors, and 10 golf retailers of zip code input. Output should be
+    in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

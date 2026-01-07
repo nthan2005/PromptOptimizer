@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1848
+# teaser: Write Linkedin Carousel Posts about the topic
+- id: 1848-linkedin-carousel-post
+  title: Linkedin Carousel post
+  tags:
+    - marketing
+    - linkedin
+    - carousel
+    - post
+  family: marketing
+  body:
+    Write me a LinkedIn carousel post About [TOPIC]. Also, Write slide by slide
+    with titles. Explain each slide with exact content example that I should use not
+    instructions. Only write me actionable text that I can copy and Paste.you will
+    reply with blog post titles in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - topic

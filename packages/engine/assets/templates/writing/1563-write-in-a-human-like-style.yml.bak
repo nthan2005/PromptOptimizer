@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1563
+# teaser: Transform robotic Ai-generated text into a human-like masterpiece with just a touch of your
+# magic wand.
+- id: 1563-write-in-a-human-like-style
+  title: Write in a Human-like Style
+  tags:
+  - writing
+  - write
+  - human
+  - like
+  - style
+  family: writing
+  body: Rewrite the following AI-generated text to make it more human-like and pass
+    every AI content detector.[TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

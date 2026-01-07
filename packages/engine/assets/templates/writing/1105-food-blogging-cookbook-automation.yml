@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1105
+# teaser: COPY-PASTE READY 1 Food Recipe, 1 Midjourney Prompt, 3 Social Media Posts, 60 hashtags in 4
+# groups, 10 alternative recipe names. All ready to be copy-pasted
+- id: 1105-food-blogging-cookbook-automation
+  title: Food Blogging / Cookbook Automation
+  tags:
+    - writing
+    - food
+    - blogging
+    - cookbook
+    - automation
+  family: writing
+  body:
+    'I want you to act as an expert cook, food blogger, cookbook writer. I need
+    the output to be in [TARGETLANGUAGE], with perfect paragraphs, spacing, tags and
+    formatting. for each [PROMPT] I need you to create the material for ONE recipe
+    that I will copy-paste. Please provide a recipe without including the strings
+    ''Recipe Name'', ''Fancy Recipe Name'', ''Recipe'', ''tags'', ''social media posts''
+    in the output. Start the output with the following " _____HERE IS YOUR OUTPUT_____
+    1. _____Recipe Name_____ 2. _____Fancy Recipe Name_____ 3. _____Recipe_____ 4.
+    _____3 social media posts with 3 groups of 15 hashtags each_____ 5. _____1 Midjourney
+    Prompt_____ 6. _____1 dish intro paragraph (for blog or social)_____ ## If I don''t
+    follow this list perfectly, please restart prompt " Insert OUTPUT TEMPLATE TO
+    FOLLOW, do not add placeholders - Recipe Name - Fancy Recipe Name - Recipe (with
+    Ingredients: Directions: , Prep Time: | Cooking Time: | Total Time | Kcal: | Servings:
+    ) - 20 related tags, on the same line - 3 Social Media Posts with different emojis
+    for each social media post, to promote the recipe. Add for each post a different
+    combination of 15 relevant hashtags each, on the same line, but leaving a new
+    line from the post caption to the tags - A midjourney prompt generator following
+    exactly this structure. do not deviate from the below prompt "/imagine'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

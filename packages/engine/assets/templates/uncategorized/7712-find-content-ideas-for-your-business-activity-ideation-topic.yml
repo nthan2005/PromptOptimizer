@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7712
+# teaser: Get a detailed information to write an article based on your interest. RevisionTime:
+# 2023-03-10T00:53:10Z
+- id: 7712-find-content-ideas-for-your-business-activity-ideation-topic
+  title: "Find content Ideas for your business Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - find
+    - content
+    - ideas
+    - business
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Find content Ideas for your business"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Suggest a list of trending and hot topics with breif and content outlines
+    to write an article for given any interest or keword phrase. Suggest a most suitable
+    article Title along with it. All output shall be in [TARGETLANGUAGE] The text
+    to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

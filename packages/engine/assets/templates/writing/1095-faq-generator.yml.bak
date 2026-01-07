@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1095
+# teaser: Simply enter the topic name to get SEO-friendly FAQs written in Q&A style. Use "more" to get
+# additional FAQs after content generation.
+- id: 1095-faq-generator
+  title: Faq Generator
+  tags:
+  - writing
+  - faq
+  - generator
+  family: writing
+  body: Write SEO-friendly, frequently asked questions in Q&A style about [PROMPT]
+    in [TARGETLANGUAGE], include keywords relevant to [PROMPT] in the answers. Avoid
+    keyword stuffing. Avoid repeating words in questions and answers.
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

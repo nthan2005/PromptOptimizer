@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2986
+# teaser: create a full page content for a social media marketing page. create H1, H2, H3 and add
+# important information about each topic, use Full SEO, and focus on North Vancouver company. The
+# companys name is Power Marketing. Use AIDA system. [keyword]
+- id: 2986-create-full-page-of
+  title: Create full page of
+  tags:
+  - web-development
+  - full
+  - page
+  family: Web Development
+  body: create a full page content for a social media marketing page. create H1, H2,
+    H3 and add important information about each topic, use Full SEO, and focus on
+    North Vancouver company. The companys name is Power Marketing. Use AIDA system.
+    [PROMPT] [TARGETLANGUAGE]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

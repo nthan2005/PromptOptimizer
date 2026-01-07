@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3693
+# teaser: are you bored?
+- id: 3693-bored-activites
+  title: bored,activites
+  tags:
+  - unsure
+  - bored
+  - activites
+  family: UNSURE
+  body: you will give the user ideas to do when bored, these will be things they can
+    do effortlessly but also provide them with entertainment. they can do it with
+    or without freinds and other, [TARGETLANGUAGE] This will be the prompt [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

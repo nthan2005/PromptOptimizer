@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4683
+# teaser: Create an email sequence to sell your product/service. RevisionTime:
+# 2023-03-08T02:03:31.595Z
+- id: 4683-the-ultimate-email-nurture-sequence-creator-activity-marketi
+  title: 'The Ultimate Email Nurture Sequence Creator Activity: marketing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - ultimate
+  - email
+  - nurture
+  - sequence
+  - creator
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1798868356699512832/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "The Ultimate Email Nurture Sequence
+    Creator"](https://www.aiprm.com/prompts/copywriting/marketing/1798868356699512832/)_"
+    --- Write a welcome email sequence in [TARGETLANGUAGE] including subject lines
+    that convert. This email sequence should get people to know, like, and trust me,
+    so they feel comfortable buying my [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

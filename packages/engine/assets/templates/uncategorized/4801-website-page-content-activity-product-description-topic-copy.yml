@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4801
+# teaser: [write webpage content for a course page] RevisionTime: 2023-08-08T11:00:08.435Z
+- id: 4801-website-page-content-activity-product-description-topic-copy
+  title: "website page content Activity: Product Description Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - website
+    - page
+    - content
+    - activity
+    - product
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "website page content"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to write web page content as per my instructions or content.
+    All out put shall be in [TARGETLANGUAGE]. The Text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

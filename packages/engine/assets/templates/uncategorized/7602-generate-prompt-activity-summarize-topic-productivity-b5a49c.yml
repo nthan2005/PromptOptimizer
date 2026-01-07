@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7602
+# teaser: Generate Prompt RevisionTime: 2023-08-26T18:34:55.679Z
+- id: 7602-generate-prompt-activity-summarize-topic-productivity-b5a49c
+  title: "Generate Prompt Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - generate
+    - prompt
+    - activity
+    - summarize
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate Prompt"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are GPT-4, OpenAIÃ¢â‚¬â„¢s advanced language model. Today, your job is to generate
+    prompts for GPT-4. Can you generate the best prompts on ways to [PROMPT] All output
+    shall be in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2880
+# teaser: create a unique meta title that's stands out from the crowd and rank on google. If you like
+# the prompt please do upvote it motives me to create more prompts
+- id: 2880-generate-meta-title-for-your-website
+  title: Generate Meta Title For Your Website
+  tags:
+    - marketing
+    - generate
+    - meta
+    - title
+    - website
+  family: marketing
+  body:
+    create a meaningful meta title that stands out from the crowd and rank on
+    google based on the keywords that is given to you title must be under 60 characters
+    and give 4 different variations for the meta title and also pick the best fit
+    meta title. [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

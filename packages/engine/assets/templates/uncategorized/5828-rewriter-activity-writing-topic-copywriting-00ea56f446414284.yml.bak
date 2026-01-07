@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5828
+# teaser: Rewrites! RevisionTime: 2023-06-09T21:11:40.852Z
+- id: 5828-rewriter-activity-writing-topic-copywriting-00ea56f446414284
+  title: 'rewriter Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - rewriter
+  - activity
+  - writing
+  - topic
+  - copywriting
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1831047563223236608/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "rewriter"](https://www.aiprm.com/prompts/copywriting/writing/1831047563223236608/)_"
+    --- uniquely rewrite this text, let your output be different from the text and
+    use markdown where necessary. remove any form of reference or citation. the text
+    is: [PROMPT] all output must be in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

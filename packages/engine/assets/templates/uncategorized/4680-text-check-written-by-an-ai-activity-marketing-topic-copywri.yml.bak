@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4680
+# teaser: USE GPT4: On a scale of 0-10, evaluate the probability that the following text was written
+# by an AI or by OpenAI [TEXT or URL]. Write in [LANGUAGE] -- 0-1 human, 8-10 AI RevisionTime:
+# 2023-03-23T10:20:38.681Z
+- id: 4680-text-check-written-by-an-ai-activity-marketing-topic-copywri
+  title: 'Text check: Written by an AI? Activity: marketing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - text
+  - check
+  - written
+  - activity
+  - marketing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1804419342235070464/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Text check: Written by an AI?"](https://www.aiprm.com/prompts/copywriting/marketing/1804419342235070464/)_"
+    --- [TARGETLANGUAGE] On a scale of 0-10, where 0-1 stands for a human author and
+    8-10 stands for written by AI, evaluate the probability that the following text
+    was written by an AI or by OpenAI [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

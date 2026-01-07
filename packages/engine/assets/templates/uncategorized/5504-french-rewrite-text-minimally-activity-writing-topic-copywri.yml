@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5504
+# teaser: Please rewrite the following text for me. The rewritten text should have more words than the
+# text I sent you. This is very important, so be sure to use more words than I have given you. And
+# please use the French language. RevisionTime: 2023-03-23T11:26:48.346Z
+- id: 5504-french-rewrite-text-minimally-activity-writing-topic-copywri
+  title: "French - rewrite text minimally Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - french
+    - rewrite
+    - text
+    - minimally
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "French - rewrite text minimally"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please rewrite the following text for me. The rewritten text should have more
+    words than the text I sent you. This is very important, so be sure to use more
+    words than I have given you. And please use the language [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

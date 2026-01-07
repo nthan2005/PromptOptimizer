@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2956
+# teaser: i want to add to my topical authority, here's a list of my current blog post:
+- id: 2956-get-topical-authority-on-your-site
+  title: get topical authority on your site
+  tags:
+    - research
+    - topical
+    - authority
+    - site
+  family: Research
+  body:
+    PROMPT] i want to add to my topical authority, here's a list of my current
+    blog post, can you give me 10 ideas for new topical authority blog posts in this
+    niche and write it in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

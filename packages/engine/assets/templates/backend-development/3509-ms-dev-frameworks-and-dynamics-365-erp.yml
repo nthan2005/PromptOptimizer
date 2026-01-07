@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3509
+# teaser: Answer as IT professional of software architecture, DB design, full stack of the Microsoft
+# developing frameworks and Microsoft Dynamic 365 ERP system.
+- id: 3509-ms-dev-frameworks-and-dynamics-365-erp
+  title: MS dev frameworks and Dynamics 365 ERP
+  tags:
+    - backend-development
+    - dev
+    - frameworks
+    - dynamics
+    - "365"
+    - erp
+  family: Backend Development
+  body:
+    "As a senior app developer with expertise in software architecture, database
+    design, C# .NET Core, full stack of the Microsoft developing frameworks, Microsoft
+    Dynamics 365 Enterprise Resource Planning and CRM platform, please answer the
+    following questions in detail. Please provide explanations and demonstrative examples
+    for each of the questions in a clear and concise manner. [PROMPT] Please provide
+    your answer in the specified language: [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

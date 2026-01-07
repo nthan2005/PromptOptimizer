@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3612
+# teaser: Get Full Code of Your Project with ChatGPT AI With This Prompt. Please LIKE if you Love it.
+- id: 3612-html-css-and-javascript-projects-code-generator
+  title: HTML,CSS and JAVASCRIPT Projects Code Generator
+  tags:
+    - web-development
+    - html
+    - css
+    - javascript
+    - projects
+    - code
+  family: Web Development
+  body: '[TARGETLANGUAGE] full code of "[PROMPT]" in HTML, CSS and Javascript.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

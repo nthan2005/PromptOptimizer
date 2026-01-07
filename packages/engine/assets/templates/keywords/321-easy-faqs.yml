@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 321
+# teaser: Generate a list of 5 FAQs related to the provided keyword and then generate answers for
+# those 5 FAQs.
+- id: 321-easy-faqs
+  title: Easy FAQs
+  tags:
+    - keywords
+    - easy
+    - faqs
+  family: keywords
+  body:
+    Please ignore all previous instructions. Generate a list of 5 Frequently Asked
+    Questions, in [TARGETLANGUAGE], related to [PROMPT] and then provide answers to
+    those questions, with the questions as the headings.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

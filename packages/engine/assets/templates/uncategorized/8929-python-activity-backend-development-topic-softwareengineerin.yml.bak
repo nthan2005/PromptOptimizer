@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8929
+# teaser: Python RevisionTime: 2023-03-11T17:34:36Z
+- id: 8929-python-activity-backend-development-topic-softwareengineerin
+  title: 'Python Activity: Backend Development Topic: SoftwareEngineering-f1858b980c341d28'
+  tags:
+  - uncategorized
+  - python
+  - activity
+  - backend
+  - development
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1800181437471911936/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Python"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1800181437471911936/)_"
+    --- I want you to act like a Python interpreter. I will give you Python code,
+    and you will execute it. Answer in [TARGETLANGUAGE] Do not provide any explanations.
+    Do not respond with anything except the output of the code. The first code is:
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

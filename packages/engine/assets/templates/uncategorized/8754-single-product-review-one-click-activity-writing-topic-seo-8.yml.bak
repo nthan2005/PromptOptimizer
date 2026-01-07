@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8754
+# teaser: Make a product review with features and why people buy it RevisionTime:
+# 2023-06-17T14:09:01.999Z
+- id: 8754-single-product-review-one-click-activity-writing-topic-seo-8
+  title: 'Single Product Review [One Click] Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - single
+  - product
+  - review
+  - one
+  - click
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1801096330161160192/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Single Product Review [One Click]"](https://www.aiprm.com/prompts/seo/writing/1801096330161160192/)_"
+    --- this is my propmt : Tou have to make a review of product description which
+    I provide in [PROMPT] You have to consider these three points first small review
+    words then 5 product specs {table format } and then add this question { Why &
+    which type of people by it?} and then also include 3 pros and 2 cons {pros and
+    cons lines should be very small 5 words each line } and at last Final Verdict
+    also make a professional title output should be in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

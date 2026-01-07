@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1467
+# teaser: Create a table of contents for any book subject you like.
+- id: 1467-table-of-contents-generator-for-a-manuscript-book
+  title: Table of Contents Generator for a Manuscript/Book
+  tags:
+    - writing
+    - table
+    - contents
+    - generator
+    - manuscript
+    - book
+  family: writing
+  body:
+    Write a TOC in [TARGETLANGUAGE] for a book with the following title [TITLE].
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - title

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1114
+# teaser: Content writer (Full-length content in one click with quality)
+- id: 1114-full-length-content-writer-in-one-click
+  title: Full length content writer in one click
+  tags:
+  - writing
+  - full
+  - length
+  - content
+  - writer
+  - one
+  family: writing
+  body: 'Your task is to write a blog on the topic provided, with outlines, and an
+    informative blog section based on given topic". content should be 800 words. It
+    should be detailed and accurate and well-researched. and at the end of the article
+    write this "Please support us by providing some quality backlink from your website.
+    Out website URL is - https://blogghere.com/ All output shall be in [TARGETLANGUAGE].
+    The topic is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

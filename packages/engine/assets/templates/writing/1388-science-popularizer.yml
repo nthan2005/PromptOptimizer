@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1388
+# teaser: Popular text about a historical-cultural topic
+- id: 1388-science-popularizer
+  title: Science Popularizer
+  tags:
+    - writing
+    - science
+    - popularizer
+  family: writing
+  body:
+    write a text of about 3000 characters in [TARGETLANGUAGE]; the tone must be
+    fun but no opening greetings to readers should appear; the style must be argumentative,
+    with precise details on the names of authors, titles of works, dates of publication,
+    concepts exposed. Each concept must be accompanied by an example. The purpose
+    is to inform educated but non-expert and non-technical readers about [PROMPT],
+    so that they have a historical understanding of what took place, the author's
+    role, and the concepts he expounded.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

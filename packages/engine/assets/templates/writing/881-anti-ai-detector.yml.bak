@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 881
+# teaser: Rewrite this text like a real human
+- id: 881-anti-ai-detector
+  title: Anti-AI Detector
+  tags:
+  - writing
+  - anti
+  - detector
+  family: writing
+  body: '[PROMPT] Imagine you are a copywriting expert. I want you to rewrite the
+    following text in [TARGETLANGUAGE] with a high degree of perplexity and burstiness'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

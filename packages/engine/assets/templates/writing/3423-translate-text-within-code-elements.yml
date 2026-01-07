@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3423
+# teaser: Translate text within code to another language, but leave code elements as they are (i.e.
+# for WPML)
+- id: 3423-translate-text-within-code-elements
+  title: Translate text within code elements
+  tags:
+    - writing
+    - translate
+    - text
+    - within
+    - code
+    - elements
+  family: writing
+  body:
+    "Please translate the text to [TARGETLANGUAGE] but do not change the code
+    elemtents. I just want you to translate the text. Here is the code: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

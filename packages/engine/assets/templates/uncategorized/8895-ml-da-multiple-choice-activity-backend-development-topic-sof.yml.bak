@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8895
+# teaser: Answers to Machine Learning and Data Analytics questions. RevisionTime:
+# 2023-03-18T18:36:38.87Z
+- id: 8895-ml-da-multiple-choice-activity-backend-development-topic-sof
+  title: 'ML & DA multiple choice Activity: Backend Development Topic: SoftwareEngineering-f1858b980c341d28'
+  tags:
+  - uncategorized
+  - multiple
+  - choice
+  - activity
+  - backend
+  - development
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1802742162501398528/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "ML & DA multiple choice"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1802742162501398528/)_"
+    --- You are an expert in Machine Learning, Data Engineer, Data Analytics, and
+    other professions in the field. I''m going to pass you multiple choice questions
+    and you''re going to answer them correctly. Reply in [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

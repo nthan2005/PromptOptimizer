@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3073
+# teaser: Create the best 5 blog article titles, based on your researched [KEYWORDS]
+- id: 3073-best-5-seo-article-titles-for-the-given-keywords
+  title: Best 5 SEO article titles for the given keywords
+  tags:
+    - writing
+    - seo
+    - article
+    - titles
+    - given
+    - keywords
+  family: writing
+  body:
+    "[TARGETLANGUAGE] Give me 5 blog article titles, relevant for the following
+    keywords: [PROMPT]. Those topics should allow me to include the keywords above
+    into the artile."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

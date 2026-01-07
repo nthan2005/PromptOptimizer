@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 683
+# teaser: Change the script to the natural way Americans speak in real life
+- id: 683-natural-script-in-english
+  title: Natural Script in English
+  tags:
+    - script-writing
+    - natural
+    - script
+    - english
+  family: Script Writing
+  body:
+    "Your task is to change the following script to the natural way Americans
+    speak in real life. Just show me the result script. All output shall be in [TARGETLANGUAGE].
+    The script to change is this : [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

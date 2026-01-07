@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1298
+# teaser: Paraphrasing Poem Lines
+- id: 1298-paraphrasing-poem-lines
+  title: Paraphrasing Poem Lines
+  tags:
+  - writing
+  - paraphrasing
+  - poem
+  - lines
+  family: writing
+  body: 'your task is to paraphrase any poem in in long paragraph .all ouputs shall
+    be in [TARGETLANGUAGE]. This text is paraphrase is here: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

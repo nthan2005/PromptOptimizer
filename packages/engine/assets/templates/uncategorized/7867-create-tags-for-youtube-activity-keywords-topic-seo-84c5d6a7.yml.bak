@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7867
+# teaser: Create tags for Youtube based on your video script RevisionTime: 2023-03-28T21:08:11.683Z
+- id: 7867-create-tags-for-youtube-activity-keywords-topic-seo-84c5d6a7
+  title: 'Create tags for Youtube Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - tags
+  - youtube
+  - activity
+  - keywords
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1806404179179343872/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create tags for Youtube"](https://www.aiprm.com/prompts/seo/keywords/1806404179179343872/)_"
+    --- Para as prÃ³ximas tarefas eu vou precisar que vocÃª atue como um especialista
+    em SEO para o Youtube e crie pelo menos 30 tags em [TARGETLANGUAGE] para vÃ­deos
+    do Youtube com base no [PROMPT] que eu vou te enviar. Separe as tags separadas
+    por ponto e vÃ­rgula e sem quebra de linha: [ROTEIRO]'
+  enabled: true
+  required:
+  - prompt
+  - roteiro
+  - targetlanguage

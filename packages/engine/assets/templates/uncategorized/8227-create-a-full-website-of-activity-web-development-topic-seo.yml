@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8227
+# teaser: You are the best SEO and web designer. Use the data you have about SEO keywords. Now, follow
+# this instruction: Create full website content, including the different pages to create in the
+# website for this topping: [keyword]. Create one H1, which will be on the home page, add a
+# description about each "H" topic, and create two different calls to action. Create a Meta
+# description of each page. Add at least three h2 with a description on each page. Keep going until
+# you finish all the page information on the website. When you finish, ask if you need to add any
+# other information on any of those pages [PROMPT] [TARGETLANGUAGE] RevisionTime:
+# 2023-05-17T06:49:56.694Z
+- id: 8227-create-a-full-website-of-activity-web-development-topic-seo
+  title: "Create a full website of: Activity: Web Development Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - full
+    - website
+    - activity
+    - web
+    - development
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create a full website of:"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are the best SEO and web designer. Use the data you have about SEO keywords.
+    Use the AIDA model to create the copywriting. Speak like Alex Day. Now, follow
+    this instruction: Create full website content of the following topping: [keyword],
+    including the different pages to develop in the website for this topping: [keyword].
+    Create one H1, which will be on the home page, add three H2 titles and add a description
+    about each H2 topic, and create two different calls to action. Finally, create
+    a Meta description of each page. When you finish, ask if I need to add three more
+    h2 to each page [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

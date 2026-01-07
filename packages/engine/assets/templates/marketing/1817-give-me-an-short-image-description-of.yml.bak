@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1817
+# teaser: Give me an short image description of
+- id: 1817-give-me-an-short-image-description-of
+  title: Give me an short image description of
+  tags:
+    - marketing
+    - give
+    - short
+    - image
+    - description
+  family: marketing
+  body: "[TARGETLANGUAGE] [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

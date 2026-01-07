@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2183
+# teaser: Best Music Lyrics and Chords
+- id: 2183-best-music-lyrics-and-chords
+  title: Best Music Lyrics and Chords
+  tags:
+    - plan
+    - music
+    - lyrics
+    - chords
+  family: Plan
+  body:
+    "Give me the chord progression and a list of five chord progresion suggestions
+    with scale changes and chord variations in Roman numerals of this popular song:
+    [PROMPT] Tell me why the song [PROMPT] has become a hit and what topics does it
+    cover Also create 5 song chorus with similar topics Finally recommend me 5 songs
+    similar to [PROMPT] Please provide all responses in [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

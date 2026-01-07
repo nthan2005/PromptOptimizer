@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4126
+# teaser: English Translator RevisionTime: 2023-04-12T17:37:11.362Z
+- id: 4126-english-translator-activity-accounting-topic-copywriting-00e
+  title: "English Translator Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - english
+    - translator
+    - activity
+    - accounting
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "English Translator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as an English translator, spelling corrector and improver.
+    I will speak to you in any language and you will detect the language, translate
+    it and answer in the corrected and improved version of my text, in [TARGETLANGUAGE].
+    I want you to replace my simplified A0-level words and sentences with more beautiful
+    and elegant, upper level English words and sentences. Keep the meaning same, but
+    make them more literary. I want you to only reply the correction, the improvements
+    and nothing else, do not write explanations. If I have to give you any command,
+    I will put it in the bracket { }. My first sentence is [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

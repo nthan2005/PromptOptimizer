@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2771
+# teaser: Create a keyword cluster strategy to rank higher for your topic.
+- id: 2771-keyword-strategy
+  title: Keyword Strategy
+  tags:
+    - keywords
+    - keyword
+    - strategy
+  family: keywords
+  body:
+    Give me a list of target keywords for a business-to-business company website
+    site seeking to rank high on Google for [PROMPT]. Please return a table including
+    the keywords, search intent, keyword cluster, a sample content topic for each,
+    and an outline of each sample content topic. Also indicate what type of content
+    would work best for the specific keyword (e.g., a blog post, a white paper, a
+    guide or a video). Return results in [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

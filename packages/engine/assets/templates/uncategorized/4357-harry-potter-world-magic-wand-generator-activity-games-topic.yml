@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4357
+# teaser: Create your own magic wand. Introduce yourself with name, gender, age and your story.
+# RevisionTime: 2023-03-11T10:00:40Z
+- id: 4357-harry-potter-world-magic-wand-generator-activity-games-topic
+  title: "Harry Potter World Magic Wand Generator Activity: Games Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - harry
+    - potter
+    - world
+    - magic
+    - wand
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Harry Potter World Magic Wand Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- As the generator of wands in the magical world inspired by Harry Potter, your
+    task is to create a wand that suits the setting and the prompt I will provide.
+    The prompt will set the scene and establish the parameters for the wand, including
+    the material and any relevant information. You must keep these details in mind
+    as we continue our conversation. This is [PROMPT]. All responses should be in
+    the [TARGETLANGUAGE]. To keep the story engaging, please limit each round to 400
+    words and ask me questions to keep the conversation interactive and allow for
+    my input.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

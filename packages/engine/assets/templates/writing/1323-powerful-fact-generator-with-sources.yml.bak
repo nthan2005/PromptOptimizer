@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1323
+# teaser: Get Facts about any topic with as many as you want. With sources and images.
+- id: 1323-powerful-fact-generator-with-sources
+  title: Powerful Fact Generator With Sources
+  tags:
+  - writing
+  - powerful
+  - fact
+  - generator
+  - sources
+  family: writing
+  body: '[PROMPT] Create an interesting list of facts about [KEYWORD], give as many
+    as are specified in [NUMBER] In [TARGETLANGUAGE] Include a H1 header with the
+    title "Here are [NUMBER] {Awesome|Interesting|Little Known|Amazing} Facts About
+    [KEYWORD]" Spin tax {Awesome|Interesting|Little Known|Amazing}. Include Citations
+    and sources from source location and include the link for each one. Include an
+    image link in html for each fact if possible from sites like pixabay, unsplash
+    and wikimedia Always include citation links after the generated facts but make
+    sure it is a shortened link. Always place sources at the bottom. Do not put it
+    before or in the content. Do not repeat my prompt, do not tell me what i have
+    asked, do not echo any prompts. Do not include any broken or 404 source links.
+    Only Include working source links.'
+  enabled: true
+  required:
+  - keyword
+  - number
+  - prompt
+  - targetlanguage

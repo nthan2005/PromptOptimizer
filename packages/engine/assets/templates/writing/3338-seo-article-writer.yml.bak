@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3338
+# teaser: Create 1000 words Article with Hook, Introduction and Conclusion
+- id: 3338-seo-article-writer
+  title: Seo Article Writer
+  tags:
+  - writing
+  - seo
+  - article
+  - writer
+  family: writing
+  body: Write an SEO article Not less than 1000 words on [PROMPT] with a Hook, introduction
+    and bold the H1, H2 and H3, with the Conclusion . All output shall be in [TARGETLANGUAGE]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

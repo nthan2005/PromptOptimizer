@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9059
+# teaser: website RevisionTime: 2023-12-13T14:29:39.277Z
+- id: 9059-webbsite-kosam-activity-web-development-topic-softwareengine
+  title: "webbsite kosam Activity: Web Development Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - webbsite
+    - kosam
+    - activity
+    - web
+    - development
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "webbsite kosam"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Imagine you are a skilled web developer offering a one-click solution to create
+    a website using HTML, CSS, Bootstrap, and JavaScript. Your tool takes in the specific
+    requirements for the website, and then automatically generates the entire website
+    along with the corresponding code. Craft a detailed and user-friendly prompt that
+    prompts the user to input their website requirements, ensuring your tool caters
+    to their specific needs. Consider the latest trends in web design, user experience,
+    and functionality. Your goal is to create a seamless website creation process
+    that even beginners can navigate effortlessly. My first web project would be ''[PROMPT]''''[TARGETLANGUAGE]'''
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

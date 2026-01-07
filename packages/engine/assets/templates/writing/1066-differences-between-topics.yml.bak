@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1066
+# teaser: Differenciat between topics
+- id: 1066-differences-between-topics
+  title: Differences between topics
+  tags:
+  - writing
+  - differences
+  - between
+  - topics
+  family: writing
+  body: Point out the differences between [PROMPT]. Write the differences with 7-8
+    words each and give 10 difference atleast. Output the result using [TARGETLANGUAGE].
+    Make sure to point them out correctly.
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

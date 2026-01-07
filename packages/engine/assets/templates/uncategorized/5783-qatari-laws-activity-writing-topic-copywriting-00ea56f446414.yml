@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5783
+# teaser: Your trusted legal advisor with full access to the Qatari Laws hub! Whether you need
+# detailed contract reviews, legal drafting, or expert advice on compliance with Qatari regulations,
+# we've got you covered. We provide bilingual (English and Arabic) legal services tailored to your
+# needs, with clear explanations and references to relevant law articles or court judgments. Navigate
+# complex legal matters confidently with precise and reliable guidance. RevisionTime:
+# 2024-12-19T11:08:07.307Z
+- id: 5783-qatari-laws-activity-writing-topic-copywriting-00ea56f446414
+  title: "Qatari Laws Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - qatari
+    - laws
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Qatari Laws"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Provide [PROMPT] with clear, detailed legal advice and references to Qatari
+    laws in [TARGETLANGUAGE], ensuring accuracy, professionalism, and bilingual support
+    when needed'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4343
+# teaser: Create Taboo cards to make others guess a biblical topic RevisionTime:
+# 2023-04-14T16:39:34.455Z
+- id: 4343-carte-taboo-bible-activity-games-topic-copywriting-00ea56f44
+  title: "Carte Taboo Bible Activity: Games Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - carte
+    - taboo
+    - bible
+    - activity
+    - games
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Carte Taboo Bible"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] [PROMPT] "Generates a card to guess a biblical subject without
+    using a list of words that characterize this subject. The card must contain the
+    name of the subject to be guessed as well as three clues that will help players
+    guess it without using forbidden words. Clues should be relevant and specific,
+    but should not contain words that are directly related to the topic.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

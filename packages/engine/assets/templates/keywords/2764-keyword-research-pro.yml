@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2764
+# teaser: Create niche based keywords list
+- id: 2764-keyword-research-pro
+  title: Keyword Research Pro
+  tags:
+    - keywords
+    - keyword
+    - research
+    - pro
+  family: keywords
+  body:
+    "Your task is to create list of all possible niche based keywords, group them
+    and mention the intent of each keyword. I give you niche in words. All output
+    shall be in [TARGETLANGUAGE]. The text is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

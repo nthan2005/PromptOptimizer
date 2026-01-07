@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 567
+# teaser: It will help you create best RFQ for your suppliers
+- id: 567-request-for-quotation
+  title: Request For Quotation
+  tags:
+    - product-description
+    - request
+    - quotation
+  family: Product Description
+  body:
+    "Your task is Create an RFQ for Alibaba suppliers. The target language is
+    [TARGETLANGUAGE] Give me your keyword, your features and some LoopHoles: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

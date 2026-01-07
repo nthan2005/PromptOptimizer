@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5426
+# teaser: Get a Bible study, based on the topic you suggest RevisionTime: 2023-03-12T03:56:03Z
+- id: 5426-creating-my-bible-study-with-ease-activity-writing-topic-cop
+  title: "Creating My Bible Study With Ease Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - creating
+    - bible
+    - study
+    - ease
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Creating My Bible Study With Ease"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I need you to present me a Bible study, with topics, biblical references,
+    biblical examples and practical application in life, on the following topic: [KEYWORD]
+    [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

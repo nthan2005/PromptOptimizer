@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5646
+# teaser: General use of Live Crawling. (v1.0) @RealityMoez RevisionTime: 2023-10-04T12:22:23.863Z
+- id: 5646-live-crawling-for-all-activity-writing-topic-copywriting-00e
+  title: "Live Crawling For All Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - live
+    - crawling
+    - all
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Live Crawling For All"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Source URL: [PROMPT] --- [CRAWLEDTEXT] --- In [TARGETLANGUAGE], [VARIABLE6]
+    [VARIABLE6:Prompt:Write about this URL data]'
+  enabled: true
+  required:
+    - crawledtext
+    - prompt
+    - targetlanguage
+    - variable6

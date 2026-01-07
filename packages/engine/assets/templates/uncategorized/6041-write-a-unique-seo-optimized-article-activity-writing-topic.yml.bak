@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6041
+# teaser: Helpful Writer ready to Write A Unique, Seo Optimized Article RevisionTime:
+# 2024-11-28T09:27:51.167Z
+- id: 6041-write-a-unique-seo-optimized-article-activity-writing-topic
+  title: 'Write A Unique, Seo Optimized Article Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - write
+  - unique
+  - seo
+  - optimized
+  - article
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2027645561477922816/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Write A Unique, Seo Optimized Article"](https://www.aiprm.com/prompts/copywriting/writing/2027645561477922816/)_"
+    --- You are writer and you are asked to write a unique, SEO optimized article,
+    but generate content based on established knowledge up to the last training cut-off
+    in the context of fiction and creative writing projects. Reply only in [TARGETLANGUAGE]
+    language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

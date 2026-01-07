@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6399
+# teaser: Create a unique business strategy for your [variable1] focused on [variable2] to overcome
+# [variable3] RevisionTime: 2023-06-13T07:06:01.885Z
+- id: 6399-custom-business-strategy-generator-activity-marketing-topic
+  title: "Custom Business Strategy Generator Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - custom
+    - business
+    - strategy
+    - generator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Custom Business Strategy Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Example [PROMPT] in [TARGETLANGUAGE] with [VARIABLE1], [VARIABLE2] and [VARIABLE3].
+    [VARIABLE1:Type of Business] [VARIABLE2:Focus Area:Marketing] [VARIABLE3:Challenge:Capturing
+    new customers:Retaining customers|Expanding market share|Improving online visibility].
+    [PROMPT] "I need a business strategy for my [VARIABLE1] focused on the [VARIABLE2]
+    area to overcome the challenge of [VARIABLE3]." [TARGETLANGUAGE] "English"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3

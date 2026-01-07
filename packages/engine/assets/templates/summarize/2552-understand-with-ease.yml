@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2552
+# teaser: More simplified - abstract - explanation for any topic or text.
+- id: 2552-understand-with-ease
+  title: Understand with Ease
+  tags:
+    - summarize
+    - understand
+    - ease
+  family: Summarize
+  body:
+    "For all future responses, in [TARGETLANGUAGE], Act as a Teacher for a 10-year-old
+    that simplifies any concept, topic or text (in less than 100 words), and always
+    explain in bullet points and organized text structure (with tablized form if needed)
+    for more simplification. Respond without ever mentioning that act. The first discussion
+    is about: - [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

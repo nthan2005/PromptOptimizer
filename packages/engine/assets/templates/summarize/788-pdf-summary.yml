@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 788
+# teaser: PDF summary
+- id: 788-pdf-summary
+  title: PDF summary
+  tags:
+    - summarize
+    - pdf
+    - summary
+  family: Summarize
+  body:
+    'URL: [PROMPT]..." Instructions: Using the provided website, write a comprehensive
+    reply to the given query. Make sure to report the key points in bullets. First
+    add a Title to the report, there should no limit in words to the report, ensure
+    that all the points are concisely reported out. Query: report the key points of
+    the document content Reply in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

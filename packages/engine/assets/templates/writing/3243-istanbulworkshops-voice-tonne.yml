@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3243
+# teaser: write context in the voice tonne of istanbulworkshops
+- id: 3243-istanbulworkshops-voice-tonne
+  title: istanbulworkshops voice tonne
+  tags:
+    - writing
+    - istanbulworkshops
+    - voice
+    - tonne
+  family: writing
+  body:
+    'Voice tone = "a nicer way and must be informative and friendly, with clear
+    instructions (easy to read) and a focus on customer satisfaction and add a few
+    emojis to make it cute and keep it short"[TARGETLANGUAGE] the text: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

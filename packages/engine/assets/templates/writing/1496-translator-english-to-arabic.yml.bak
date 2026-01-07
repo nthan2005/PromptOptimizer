@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1496
+# teaser: Translate English content into Arabic. Professional Arabic translation for free.
+- id: 1496-translator-english-to-arabic
+  title: 'Translator: English to Arabic'
+  tags:
+  - writing
+  - translator
+  - english
+  - arabic
+  family: writing
+  body: '[TARGETLANGUAGE] Arabic [PROMPT] Act as an expert translator. Translate the
+    below context into modern Arabic. context:'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

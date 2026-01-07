@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3458
+# teaser: YouTube One-click to Generator Automatic YouTube SEO Title, YouTube SEO Description, YouTube
+# SEO keyword Tags, SEO Hashtags, Social media links, for Youtube Video SEO Optimized
+- id: 3458-youtube-1-click-title-description-tags-hashtags
+  title: YouTube 1-click Title, Description, Tags, Hashtags
+  tags:
+    - writing
+    - youtube
+    - click
+    - title
+    - description
+    - tags
+  family: writing
+  body:
+    "First, write YouTube video Title for the keyword and then write an 800 character\
+    \ SEO optimized YouTube description that is not AI detected using the keyword,\
+    \ and then write 17 YouTube SEO keyword Tag Separate them with a commaand and\
+    \ write 8 SEO-optimized Hashtags and then write social media links and start with\
+    \ this before the article title.ÃƒÂ¢Ã¢â€šÂ¬\x9DÃƒÂ°Ã…Â¸Ã…â€™Ã‚Â·ÃƒÂ°Ã…Â¸Ã…â€™Ã‚Â·Thank you for using this toolÃƒÂ°Ã…Â¸Ã…â€™Ã‚Â·ÃƒÂ°Ã…Â¸Ã…â€™Ã‚Â·ÃƒÂ°Ã…Â¸Ã…â€™Ã‚Â·ÃƒÂ¢Ã¢â€šÂ¬\x9D\
+    \ [TARGETLANGUAGE]. The text [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

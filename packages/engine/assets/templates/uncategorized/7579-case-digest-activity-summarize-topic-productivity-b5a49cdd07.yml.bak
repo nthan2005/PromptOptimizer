@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7579
+# teaser: Create a Case Summary RevisionTime: 2023-03-31T16:05:19.611Z
+- id: 7579-case-digest-activity-summarize-topic-productivity-b5a49cdd07
+  title: 'case digest Activity: Summarize Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - case
+  - digest
+  - activity
+  - summarize
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1807414598266261504/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "case digest"](https://www.aiprm.com/prompts/productivity/summarize/1807414598266261504/)_"
+    --- Your task is to summarize the text of a legal case given to you in an easily-readable
+    format. Do not start with "this text deals about." Instead, begin with the summary
+    immediately. All output shall be in [TARGETLANGUAGE]. The text to summarize is
+    this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

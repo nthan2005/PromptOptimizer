@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1841
+# teaser: Conduct keyword research for specific product/service
+- id: 1841-keyword-research-for-specific-product-service
+  title: Keyword research for specific product/service
+  tags:
+    - marketing
+    - keyword
+    - research
+    - specific
+    - product
+    - service
+  family: marketing
+  body:
+    Act as an experienced PPC advertising manager focused on Google Ads search
+    campaigns launching and optimization, with 1000+ successful use cases in your
+    portfolio. Your task is to conduct keyword research for the Google Ads Search
+    campaign launching to identify relevant keywords and provide in table format a
+    list of the most relevant longtail keywords with their search volume and group
+    them based on themes or categories. Provide the result on [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

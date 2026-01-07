@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7293
+# teaser: Utilize space repetition technique RevisionTime: 2023-08-27T11:20:57.254Z
+- id: 7293-memorize-study-materials-using-chat-gpt-activity-plan-topic
+  title: "Memorize Study Materials using Chat GPT! Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - memorize
+    - study
+    - materials
+    - chat
+    - gpt
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Memorize Study Materials using Chat
+    GPT!"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Can you create a study schedule in [TARGETLANGUAGE] for reviewing the material
+    at increasing time over the interval [PROMPT] while utilizing the space repetition
+    technique for the topic [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8276
+# teaser: Create the best Content For my website RevisionTime: 2025-06-04T07:29:37.21Z
+- id: 8276-100-human-written-content-google-ranking-activity-writing-to
+  title: "100% Human Written Content || Google Ranking Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - "100"
+    - human
+    - written
+    - content
+    - google
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "100% Human Written Content || Google
+    Ranking"](https://github.com/nthan2005/PromptOptimizer)_" ---
+    You task is to Content the text i give you in 1100 Word With Outline and Each
+    paragraph 70 Word Dot Not Write Small paragraph In Content and Human Written Content
+    Not Zerogpt Uniqe 100%. All output shall be in [TARGETLANGUAGE]. The text to Content
+    is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

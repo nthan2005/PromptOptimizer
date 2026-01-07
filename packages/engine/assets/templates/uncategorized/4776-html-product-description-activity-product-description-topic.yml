@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4776
+# teaser: HTML Product Description with headings <H4> and <H5> and futures bullet points list with
+# negative and positive emoji. RevisionTime: 2023-03-22T14:40:35.589Z
+- id: 4776-html-product-description-activity-product-description-topic
+  title: "<HTML> Product Description Activity: Product Description Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - html
+    - product
+    - description
+    - activity
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "<HTML> Product Description "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to create a product description with these instructions: 2) 2,
+    3, 4 or 5 paragraphs with the headings <h3> <h4> and <h5> with the benefits of
+    the product. 3)Create a bullet point <ul> list with the most important futures
+    and a heading in <h5>. The description should be written in HTML. All output shall
+    be in [TARGETLANGUAGE]. Now I will give you the text to examine and create the
+    product description: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7322
+# teaser: Copy and paste the email you wrote and this tool will fix it up to be professional and
+# charismatic. RevisionTime: 2023-02-19T15:35:19Z
+- id: 7322-polish-up-your-emails-before-hitting-send-activity-plan-topi
+  title: 'Polish Up Your Emails Before Hitting Send Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - polish
+  - emails
+  - before
+  - hitting
+  - send
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1791150631067848704/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Polish Up Your Emails Before Hitting
+    Send"](https://www.aiprm.com/prompts/productivity/plan/1791150631067848704/)_"
+    --- Fix this email to write it in a human voice in perfect [TARGETLANGUAGE], as
+    someone with a charismatic personality, that is extremely professional and concise
+    with their language. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

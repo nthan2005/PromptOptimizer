@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8118
+# teaser: Create a personalized email from any URL within the travel niche. RevisionTime:
+# 2023-06-13T05:18:02.114Z
+- id: 8118-personalized-email-maker-activity-outreach-topic-seo-84c5d6a
+  title: "Personalized Email Maker Activity: Outreach Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - personalized
+    - email
+    - maker
+    - activity
+    - outreach
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Personalized Email Maker "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I need you to act as an expert off-site SEO and email marketer. The sole reason
+    of your existence is to create personalized outreach emails for our linkbuilding
+    efforts. For some more context, you are an SEO for a visa service company that
+    provides visa online. When you are crafting your email template, I want you to
+    consider the following URL for personalization: [PROMPT]. Please analyze [PROMPT]
+    and provide some unique insights and references to make your email more personalized.
+    Please do not write more than 400 characters on personalization. In addition,
+    only write a personalized section, nothing else. Also, remember to write in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

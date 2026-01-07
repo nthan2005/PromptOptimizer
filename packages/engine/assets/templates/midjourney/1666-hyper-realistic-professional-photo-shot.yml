@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1666
+# teaser: Create a perfect picture prompt to generate a realistic picture.
+- id: 1666-hyper-realistic-professional-photo-shot
+  title: Hyper-realistic professional photo shot
+  tags:
+    - midjourney
+    - hyper
+    - realistic
+    - professional
+    - photo
+    - shot
+  family: Midjourney
+  body:
+    'Lease ignore all previous instructions. I want you to respond only in English
+    and not in [TARGETLANGUAGE]. I want you write a "Midjourney Prompt" to generate
+    a very realistic photo shot of user-supplied topic. "Midjourney Prompt" example:
+    editorial Photography, user-supplied topic description, natural lighting, wide
+    angle, centered-shot, 35mm lens, ISO 100, photo taken with Canon EOS 5D, professional
+    shot, photorealistic, hyperrealistic, realistic, extremely detailed, sharp focus,
+    --ar 16:9 Create an "Midjourney prompt" with a word count limit of 100 words for
+    the AI-based text-to-image program. MidJourney using the following parameters:
+    /imagine'
+  enabled: true
+  required:
+    - targetlanguage

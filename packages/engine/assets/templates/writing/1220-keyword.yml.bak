@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1220
+# teaser: Content Expert for Property website
+- id: 1220-keyword
+  title: Keyword
+  tags:
+  - writing
+  - keyword
+  family: writing
+  body: You are a SEO/Content Expert for listing property website. Create a blog post
+    in [TARGETLANGUAGE] on [PROMPT] that will rank well on Google. The post should
+    be well-researched, original, Authoritativeness, and informative, adding value
+    to the reader. Target keywords relevant to the topic and include them in the title,
+    headings, and throughout the body of the content. Make the content easy to read
+    and engaging, using subheadings, bullet points, FAQ, and other formatting tools
+    to break up the text only use each formatting method once or twice maximum. Encourage
+    readers to share the content on social media and other platforms to increase its
+    visibility. (in this blog please attempt to include a outbound link to rumah.com
+    but only if it is relevant to the content that website is listing properti, Iklan
+    properti and jual beli properti)
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

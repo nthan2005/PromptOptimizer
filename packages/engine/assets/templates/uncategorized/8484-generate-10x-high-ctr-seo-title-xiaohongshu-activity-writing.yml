@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8484
+# teaser: AI Auto create 10X High CTR SEO titles ! AI Choose best title give reason! Save time energy!
+# Ã¯Â¼Ë†Ã¦Â¨Â¡Ã¤Â»Â¿Ã¥Â°ÂÃ§ÂºÂ¢Ã¤Â¹Â¦Ã§Ë†â€ Ã¦â€“â€¡Ã¦ â€¡Ã©Â¢ËœÃ¯Â¼â€° RevisionTime: 2023-06-15T05:33:53.346Z
+- id: 8484-generate-10x-high-ctr-seo-title-xiaohongshu-activity-writing
+  title: "Generate 10x high CTR SEO title Xiaohongshu Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - generate
+    - 10x
+    - high
+    - ctr
+    - seo
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate 10x high CTR SEO title Xiaohongshu"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- `reset` `no quotes` `no explanations` `no prompt` `no self-reference` `no
+    apologies` `no filler` `just answer` I want you to be the top expert of Xiaohongshu,
+    good at SEO + copywriting + video marketing, combined with the following titles,
+    use [TARGETLANGUAGE] to imitate the title of XiaohongshuÃ¢â‚¬â„¢s popular article,
+    add a lot of emoji to write 10 eye-catching XiaohongshuÃ¢â‚¬â„¢s popular article titles
+    , choose the best one among them, and give reasons. Then write the SEO description
+    based on the best title (the SEO description should also be loaded with emoji):
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

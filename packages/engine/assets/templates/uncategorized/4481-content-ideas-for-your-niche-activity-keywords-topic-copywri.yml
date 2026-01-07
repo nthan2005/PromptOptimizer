@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4481
+# teaser: give me ideas for my niche in table for insert [YOURNICHE] RevisionTime:
+# 2023-04-09T16:41:41.846Z
+- id: 4481-content-ideas-for-your-niche-activity-keywords-topic-copywri
+  title: "Content ideas for your niche Activity: keywords Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - content
+    - ideas
+    - niche
+    - activity
+    - keywords
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Content ideas for your niche"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want to add to my topical authority, write me 30 ideas with catchy titles.
+    write in table form with categories. The output is [TARGETLANGUAGE]. The text
+    output is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

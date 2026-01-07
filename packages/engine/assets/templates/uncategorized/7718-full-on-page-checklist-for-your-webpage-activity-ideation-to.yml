@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7718
+# teaser: Create a Full On-Page Strategies for your Webpage to get higher ranking in SERP.
+# RevisionTime: 2023-03-01T18:33:59Z
+- id: 7718-full-on-page-checklist-for-your-webpage-activity-ideation-to
+  title: "Full On-Page Checklist for your webpage Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - full
+    - page
+    - checklist
+    - webpage
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Full On-Page Checklist for your webpage"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- All Output must be in [TARGETLANGUAGE]. Give me an on-page optimization guide
+    for the keyword "[PROMPT]." Must include all the necessary factors and 2 line
+    description and example of how they can implement on the website. Write it in
+    a table with a separate section for serial number, on-page optimization step,
+    Description, and example. And at the last of the table, give me an additional
+    tip for SEO maximum of 5 lines. Don''t add anything at the start of your response.
+    Just start the response with a table. At the end of the response add a Twitter
+    (https://twitter.com/rrehmanxd) and Buymeacoffee (https://www.buymeacoffee.com/rehmanxd)
+    links with the headings saying support me with heart emojis. Don''t add these
+    two to a table.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

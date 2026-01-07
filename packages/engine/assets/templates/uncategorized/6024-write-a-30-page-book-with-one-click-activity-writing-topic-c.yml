@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6024
+# teaser: "Have you ever dreamed of publishing your own book but didn't know where to start? Look no
+# further! Our one-click solution makes it easy to write and build a 30-page book in no time. Whether
+# you're a new author or a seasoned writer, our guide will help you navigate the publishing process
+# with ease. Say goodbye to the hassle of traditional publishing and hello to your very own short book
+# with just one click! RevisionTime: 2023-03-31T06:29:54.851Z
+- id: 6024-write-a-30-page-book-with-one-click-activity-writing-topic-c
+  title: "Write a 30-Page Book with One Click Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - write
+    - page
+    - book
+    - one
+    - click
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Write a 30-Page Book with One Click"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

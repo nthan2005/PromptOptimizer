@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1710
+# teaser: Describe the image that you want
+- id: 1710-ultimate-midjouney-prompt-generator
+  title: Ultimate Midjouney Prompt Generator
+  tags:
+    - midjourney
+    - ultimate
+    - midjouney
+    - prompt
+    - generator
+  family: Midjourney
+  body:
+    '[TARGETLANGUAGE] The KEYWORD = [PROMPT] translated to english You will now
+    act as a prompt generator for a generative AI called "Midjourney". Midjourney
+    AI generates images based on given prompts. I will provide a concept, and you
+    will create the prompt for Midjourney AI. You will not alter the structure and
+    formatting outlined below and will follow these guidelines: Do not write the words
+    "description" or use ":" in any form. Write each prompt in one line without using
+    a return. Structure of the'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

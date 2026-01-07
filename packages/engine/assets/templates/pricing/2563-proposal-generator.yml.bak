@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2563
+# teaser: Business Proposal Generator AIPRM
+- id: 2563-proposal-generator
+  title: Proposal Generator
+  tags:
+  - pricing
+  - proposal
+  - generator
+  family: Pricing
+  body: as a technical proposal writer, you have to create a detailed proposal for
+    saas business of [PROMPT] include topics like executive summary, our approach,
+    services, terms and conditions, pricing and conclusion. the headlines should be
+    in bold. Pricing and terms should be in bullet points. language should be [TARGETLANGUAGE]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

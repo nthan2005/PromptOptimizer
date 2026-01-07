@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5442
+# teaser: Description typical dish with ingredients RevisionTime: 2023-05-11T17:25:11.921Z
+- id: 5442-description-typical-dish-with-ingredients-activity-writing-t
+  title: "Description typical dish with ingredients Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - description
+    - typical
+    - dish
+    - ingredients
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Description typical dish with ingredients"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Maintaining a fun and relaxed writing style, magazine style, you are going
+    to create the review, the information on this dish was taken from the official
+    website, so it is important that it be a completely original text, without resembling
+    the description that I give you. The structure of the article must be in the form
+    of a list with the name of the dish in an H2, followed by a description of the
+    dish, its origin, then the recipe of the dish with the ingredients. Dish and description
+    of it: [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

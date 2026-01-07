@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6987
+# teaser: create a short youtube shorts script that will summarize a chapter of the chosen chapter in
+# the book RevisionTime: 2024-10-03T09:57:37.495Z
+- id: 6987-write-a-youtube-shorts-1-minute-script-activity-social-media
+  title: 'Write a youtube-shorts 1 minute script Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - write
+  - youtube
+  - shorts
+  - minute
+  - script
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1855334768623800320/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Write a youtube-shorts 1 minute script"](https://www.aiprm.com/prompts/marketing/social-media/1855334768623800320/)_"
+    --- your task is to summarize the given chapter of a book in 125 words to 150
+    words maximum in a motivational, eye-opening, instructional manner. the language
+    should be simple, and all output should be in [TARGETLANGUAGE]. The chapter to
+    summarize is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

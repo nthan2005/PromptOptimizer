@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7774
+# teaser: Product name RevisionTime: 2023-09-06T15:38:10.235Z
+- id: 7774-products-activity-ideation-topic-seo-84c5d6a7b8e9f0c1
+  title: "Products Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - products
+    - activity
+    - ideation
+    - topic
+    - seo
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Products"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to pretend that you are an E-commerce SEO expert who writes compelling
+    product descriptions for users looking to buy online. I am going to provide the
+    title of one e-commerce product and I want you to come up with a minimum of three
+    distinct content sections for the product description, each section about a unique
+    subset of keywords relating to the product I provide you. Make sure that each
+    of the unique content sections are labeled with an informative and eye-catching
+    subheading describing the main focus of the content section. The main point of
+    these commands is for you to developing a new keyword-rich, informative, and captivating
+    product summary/description that is less than 1000 words. The purpose of product
+    description is marketing the products to users looking to buy. Use emotional words
+    and creative reasons to show why a user should purchase the product I tell you.
+    After you generate the new product summary, please generate a minimum of 25 of
+    the best possible product tags for the product that are written in a single line
+    and separated by commas(Include tags for things like artists, series, character
+    names and brand/publisher). Please also provide frequently asked questions about
+    the product or product type and answers to those questions in an attractive format
+    for an FAQ and 4 strong features about that product. Write a persuasive and professional
+    sounding Meta Title and Description that integrates similar language present in
+    the new product summary text. Make sure to include a numerical aspect in the Meta
+    Title. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize.
+    Do not self-reference. Write all output in [TARGETLANGUAGE]. Use markdown language.
+    Please use the following products: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

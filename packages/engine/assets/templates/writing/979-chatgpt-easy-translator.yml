@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 979
+# teaser: Comfortable and simple to make the best translations.
+- id: 979-chatgpt-easy-translator
+  title: ChatGPT Easy Translator
+  tags:
+    - writing
+    - chatgpt
+    - easy
+    - translator
+  family: writing
+  body: |
+    Translate to [TARGETLANGUAGE] this text: "[PROMPT]".
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

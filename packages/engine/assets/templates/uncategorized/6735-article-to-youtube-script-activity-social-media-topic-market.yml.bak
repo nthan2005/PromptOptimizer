@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6735
+# teaser: Creating a YouTube Script with an article RevisionTime: 2024-10-03T09:56:04.21Z
+- id: 6735-article-to-youtube-script-activity-social-media-topic-market
+  title: 'Article to YouTube Script Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - article
+  - youtube
+  - script
+  - activity
+  - social
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1804211842680356864/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Article to YouTube Script"](https://www.aiprm.com/prompts/marketing/social-media/1804211842680356864/)_"
+    --- Write this in a more conversational style like a YouTube video: [PROMPT] in
+    [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

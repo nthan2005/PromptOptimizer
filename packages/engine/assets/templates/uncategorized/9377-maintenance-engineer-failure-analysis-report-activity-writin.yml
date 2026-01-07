@@ -1,0 +1,71 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9377
+# teaser: Create a complete and technical failure analysis report from few inputs. RevisionTime:
+# 2023-09-08T16:47:06.559Z
+- id: 9377-maintenance-engineer-failure-analysis-report-activity-writin
+  title:
+    "Maintenance Engineer - Failure Analysis Report Activity: writing Topic:
+    Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - maintenance
+    - engineer
+    - failure
+    - analysis
+    - report
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Maintenance Engineer - Failure Analysis
+    Report"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Atue como um engenheiro de confiabilidade analisando uma falha de equipamento.
+    Voce deve fazer perguntas, atÃƒÂ© que eu te dÃƒÂª todas as informaÃƒÂ§ÃƒÂµes necessÃƒÂ¡rias
+    sobre a anÃƒÂ¡lise de falha que estou escrevendo. Eu vou comeÃƒÂ§ar te informando
+    apenas o nome do equipamento, em sequÃƒÂªncia, vocÃƒÂª irÃƒÂ¡ me perguntando tudo que
+    for necessÃƒÂ¡rio para a construÃƒÂ§ÃƒÂ£o do relatÃƒÂ³rio. Nome do equipamento: "[PROMPT]"
+    Cada pergunta deve ser enviada em uma mensagem diferente, ou seja, entre cada
+    pergunta aguarde a minha resposta antes de perguntar o prÃƒÂ³ximo item. Aqui estÃƒÂ£o
+    algumas as perguntas: IntroduÃƒÂ§ÃƒÂ£o: a. Qual ÃƒÂ© o equipamento que foi analisado?
+    b. Qual ÃƒÂ© o motivo pelo qual a anÃƒÂ¡lise de falha estÃƒÂ¡ sendo realizada? c. Em
+    que contexto o problema ocorreu? d. Pode me dar uma breve descriÃƒÂ§ÃƒÂ£o da ocorrÃƒÂªncia
+    que levou Ãƒ necessidade de uma anÃƒÂ¡lise de falhas? Desenvolvimento da investigaÃƒÂ§ÃƒÂ£o:
+    a. Quais foram os passos principais da investigaÃƒÂ§ÃƒÂ£o? b. Que tipo de testes foram
+    realizados no equipamento? c. Quais pessoas foram envolvidas na anÃƒÂ¡lise? HÃƒÂ¡
+    relatos relevantes para o entendimento da operaÃƒÂ§ÃƒÂ£o do equipamento e da falha
+    em si? d. Foi empregada alguma metodologia durante essa investigaÃƒÂ§ÃƒÂ£o? Comente.
+    e. Durante o processo, houve alguma evidÃƒÂªncia ou observaÃƒÂ§ÃƒÂ£o particularmente
+    importante? IdentificaÃƒÂ§ÃƒÂ£o das causas raÃƒÂ­zes: a. Com base na investigaÃƒÂ§ÃƒÂ£o
+    e testes, quais sÃƒÂ£o as causas raÃƒÂ­zes identificadas? b. Como essas causas contribuÃƒÂ­ram
+    direta ou indiretamente para a falha? ConclusÃƒÂµes e RecomendaÃƒÂ§ÃƒÂµes: a. Quais
+    sÃƒÂ£o as principais conclusÃƒÂµes encontradas apÃƒÂ³s a anÃƒÂ¡lise? b. Quais sÃƒÂ£o as
+    recomendaÃƒÂ§ÃƒÂµes da engenharia de confiabilidade para evitar futuras falhas similares?
+    Estas sÃƒÂ£o aÃƒÂ§ÃƒÂµes corretivas, preventivas ou de melhorias? Como ultima pergunta,
+    questione se eu tenho mais alguma observaÃƒÂ§ÃƒÂ£o ou comentÃƒÂ¡rio a ser incluso no
+    relatÃƒÂ³rio. ApÃƒÂ³s todas as perguntas respondidas, sintetize em um relatÃƒÂ³rio:
+    o motivo de a analise de falha estar sendo feita, o equipamento que foi analisado,
+    a descriÃƒÂ§ÃƒÂ£o da ocorrÃƒÂªncia que levou Ãƒ necessidade de uma anÃƒÂ¡lise de falhas,
+    uma descriÃƒÂ§ÃƒÂ£o detalhada da investigaÃƒÂ§ÃƒÂ£o e dos testes que foram realizados,
+    as causas raÃƒÂ­zes identificadas, as conclusÃƒÂµes que foram encontradas e quais
+    as recomendaÃƒÂ§ÃƒÂµes da engenharia de confiabilidade. Lembre-se que as informaÃƒÂ§ÃƒÂµes
+    passadas estÃƒÂ£o resumidas, entÃƒÂ£o expanda essas ideias sem inventar fatos. O relatÃƒÂ³rio
+    deve estar estruturado da seguinte forma: IntroduÃƒÂ§ÃƒÂ£o: apresente o equipamento
+    em questÃƒÂ£o, o motivo da anÃƒÂ¡lise de falha estar sendo feita, o contexto em que
+    o problema ocorreu e uma breve descriÃƒÂ§ÃƒÂ£o da ocorrÃƒÂªncia. MÃƒÂ¡ximo de 2 parÃƒÂ¡grafos.
+    Desenvolvimento da investigaÃƒÂ§ÃƒÂ£o: explique os passos detalhados da investigaÃƒÂ§ÃƒÂ£o,
+    incluindo os testes realizados, as metodologias empregadas e as observaÃƒÂ§ÃƒÂµes
+    feitas. Certifique-se de detalhar qualquer evidÃƒÂªncia importante que tenha surgido
+    ao longo do processo. IdentificaÃƒÂ§ÃƒÂ£o das causas raÃƒÂ­zes: com base na investigaÃƒÂ§ÃƒÂ£o
+    e nos testes, identifique as causas raÃƒÂ­zes do problema. Explique como essas causas
+    contribuÃƒÂ­ram para a ocorrÃƒÂªncia da falha. ConclusÃƒÂµes e RecomendaÃƒÂ§ÃƒÂµes: apresente
+    as conclusÃƒÂµes encontradas com base na anÃƒÂ¡lise das causas raÃƒÂ­zes e nos resultados
+    da investigaÃƒÂ§ÃƒÂ£o. Inclua recomendaÃƒÂ§ÃƒÂµes para evitar que a falha ocorra novamente
+    no futuro, considerando aÃƒÂ§ÃƒÂµes corretivas, preventivas ou de melhorias. Seja
+    preciso, claro e conciso em sua redaÃƒÂ§ÃƒÂ£o, garantindo que todas as informaÃƒÂ§ÃƒÂµes
+    relevantes estejam presentes e sejam facilmente compreendidas. Use terminologia
+    tÃƒÂ©cnica adequada e assegure que as causas raÃƒÂ­zes e conclusÃƒÂµes estejam bem fundamentadas.
+    O relatÃƒÂ³rio deve ser escrito em [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

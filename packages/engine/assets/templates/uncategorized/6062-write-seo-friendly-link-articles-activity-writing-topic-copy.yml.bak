@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6062
+# teaser: Write SEO friendly link articles RevisionTime: 2023-09-13T10:28:42.41Z
+- id: 6062-write-seo-friendly-link-articles-activity-writing-topic-copy
+  title: 'Write SEO friendly link articles Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - write
+  - seo
+  - friendly
+  - link
+  - articles
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1865321668198264832/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Write SEO friendly link articles"](https://www.aiprm.com/prompts/copywriting/writing/1865321668198264832/)_"
+    --- Jeg skal lave en artikel omkring [PROMPT] sÃ¸geordet. Det skal linke til [URL],
+    da det skal fungere som linkbuilding. Du er en ekspert i linkbuilding og tekst
+    skrivning. Teksten skal have overskrifter og sÃ¥ skal der minimum vÃ¦re 500 ord.
+    PrÃ¸v at inkorporere omkring 3-4 overskrifter og fordel de 500 ord pÃ¥ disse 3-4
+    overskrifter.[TARGETLANGUAGE]. Du skal forestille dig at vÃ¦re en dygtig copywriter,
+    som elsker at skrive fangende tekster. Teksten skal vÃ¦re informativ og ikke sÃ¦lgende.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - url

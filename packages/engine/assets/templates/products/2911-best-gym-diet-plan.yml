@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2911
+# teaser: Best Gym Protein Powder - Herbal , Sugar Free & Natural - For Every Age.
+- id: 2911-best-gym-diet-plan
+  title: Best gym diet plan
+  tags:
+    - products
+    - gym
+    - diet
+    - plan
+  family: Products
+  body:
+    "ð\x9D˜‰ð\x9D˜¦ð\x9D˜´ð\x9D˜µ ð\x9D˜Žð\x9D˜ºð\x9D˜® ð\x9D˜—ð\x9D˜³ð\x9D˜°ð\x9D\
+    ˜µð\x9D˜¦ð\x9D˜ªð\x9D˜¯ ð\x9D˜—ð\x9D˜°ð\x9D˜¸ð\x9D˜¥ð\x9D˜¦ð\x9D˜³ - ð\x9D˜\x8F\
+    ð\x9D˜¦ð\x9D˜³ð\x9D˜£ð\x9D˜¢ð\x9D˜­ , ð\x9D˜šð\x9D˜¶ð\x9D˜¨ð\x9D˜¢ð\x9D˜³ ð\x9D\
+    ˜\x8Dð\x9D˜³ð\x9D˜¦ð\x9D˜¦ & ð\x9D˜•ð\x9D˜¢ð\x9D˜µð\x9D˜¶ð\x9D˜³ð\x9D˜¢ð\x9D˜­\
+    \ - ð\x9D˜\x8Dð\x9D˜°ð\x9D˜³ ð\x9D˜Œð\x9D˜·ð\x9D˜¦ð\x9D˜³ð\x9D˜º ð\x9D˜ˆð\x9D\
+    ˜¨ð\x9D˜¦ ð\x9D˜—ð\x9D˜¦ð\x9D˜°ð\x9D˜±ð\x9D˜­ð\x9D˜¦ð\x9D˜´ ð\x9D˜ªð\x9D˜¯ [TARGETLANGUAGE]\
+    \ from given [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

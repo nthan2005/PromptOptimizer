@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6087
+# teaser: Create the business plan RevisionTime: 2023-02-20T05:00:13Z
+- id: 6087-your-business-development-manager-activity-writing-topic-cop
+  title: 'Your business development manager Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - business
+  - development
+  - manager
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1793112072616411136/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Your business development manager"](https://www.aiprm.com/prompts/copywriting/writing/1793112072616411136/)_"
+    --- Your task is to write business plan details with full information as like
+    professional business development head that text I gave you in 4500 words or maximum
+    10000 characters.All output shall be in [TARGETLANGUAGE].The text to write business
+    plan in this : [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

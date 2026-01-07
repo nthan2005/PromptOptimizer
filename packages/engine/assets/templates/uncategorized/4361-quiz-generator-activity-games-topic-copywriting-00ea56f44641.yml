@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4361
+# teaser: ChatGPT can help you build a trivia quiz for any occasion. Whether its for fun, a pub quiz,
+# trivia night, work quiz or any quiz night this tool will create the perfect quiz games for you.
+# RevisionTime: 2023-02-19T15:35:19Z
+- id: 4361-quiz-generator-activity-games-topic-copywriting-00ea56f44641
+  title: "Quiz Generator Activity: Games Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - quiz
+    - generator
+    - activity
+    - games
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Quiz Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to respond only in [TARGETLANGUAGE]. I want you to create an pub
+    quiz that speaks and writes fluent [English]. Pretend that you are an expert and
+    have the most accurate and most detailed information about [PROMPT] available.
+    write a full quiz in fluent [English]. I will give you the target keyword [PROMPT].
+    From this create quiz on [PROMPT]. Create a 10 round quiz that has 10 questions
+    per round. each quetion must have a right answer. each question must have the
+    answer provide for them'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

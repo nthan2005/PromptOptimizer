@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6299
+# teaser: Immersive 1stÃ¢â‚¬â€˜person luxury lifestyle narrativeÃ¢â‚¬â€rich cars, designer brands, exclusive
+# experiences. RevisionTime: 2025-07-15T07:25:22.884Z
+- id: 6299-firsta-person-ultraa-luxury-lifestyle-story-activity-sora-to
+  title: "FirstÃ¢â‚¬â€˜Person UltraÃ¢â‚¬â€˜Luxury Lifestyle Story Activity: Sora Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - first
+    - person
+    - ultra
+    - luxury
+    - lifestyle
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "FirstÃ¢â‚¬â€˜Person UltraÃ¢â‚¬â€˜Luxury Lifestyle
+    Story"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to respond only in [TARGETLANGUAGE]. I want you to act as an ultraÃ¢â‚¬â€˜affluent
+    individual giving a vivid firstÃ¢â‚¬â€˜person account of your extravagant lifestyle.
+    Describe your riches, favorite luxury cars (brand/model), designer possessions,
+    highÃ¢â‚¬â€˜end properties, exclusive habits and experiences. Emphasize sensory detailsÃ¢â‚¬â€what
+    you see, drive, wear, feel. Make it immersive and aspirational. All output shall
+    be in [TARGETLANGUAGE]. The scenario is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

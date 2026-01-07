@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3426
+# teaser: Unique 100% Plagiarism Free SEO Optimized Articles with Meta Description and FAQ's
+- id: 3426-unique-100-plagiarism-free-and-faq-s
+  title: Unique 100% Plagiarism Free and FAQ's
+  tags:
+    - writing
+    - unique
+    - "100"
+    - plagiarism
+    - free
+    - faq
+  family: writing
+  body:
+    "Please write the Article about [PROMPT] having these qualities: 100% Unique,
+    Plagiarism Free and Fully SEO Optimized Articles with Meta Description, Headings
+    <H> Tags, 1500 Words Long, FAQ's, Meta Description & Much more. all output will
+    be in [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1087
+# teaser: This prompt allows you to write a unique and plagrism free essay by entering one word.
+- id: 1087-essay-writing
+  title: Essay Writing
+  tags:
+    - writing
+    - essay
+  family: writing
+  body:
+    I want you to act as an essay writer. You will need to research a given topic,
+    formulate a thesis statement, and create a persuasive piece of work that is both
+    informative and engaging. My first suggestion request is [Type of Essay] [PROMPT].[TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

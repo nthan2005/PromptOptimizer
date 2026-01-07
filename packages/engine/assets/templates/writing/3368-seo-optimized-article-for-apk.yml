@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3368
+# teaser: Create the best SEO Optimized, APK Article in One click.
+- id: 3368-seo-optimized-article-for-apk
+  title: SEO optimized Article for APK
+  tags:
+    - writing
+    - seo
+    - optimized
+    - article
+    - apk
+  family: writing
+  body:
+    "The task is to summarize text I give you in 1000 to 2000 words with using
+    proper SEO optimized keywords and add proper headings. All output shall be in
+    [TARGETLANGUAGE]. The text to summarize to this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7905
+# teaser: Check keyword density and watery in your article and make it perfect! RevisionTime:
+# 2023-03-15T12:52:23Z
+- id: 7905-keyword-density-checker-activity-keywords-topic-seo-84c5d6a7
+  title: "Keyword Density Checker Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - keyword
+    - density
+    - checker
+    - activity
+    - keywords
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt " Keyword Density Checker"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is check keywords density in given article and make a result for
+    text in percent. In the end add total percent of keywords density in text.All
+    output shall be in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6977
+# teaser: Create a viral tweet for your content RevisionTime: 2024-10-03T09:57:46.733Z
+- id: 6977-veral-tweet-expert-prompt-activity-social-media-topic-market
+  title: "Veral Tweet Expert Prompt Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - veral
+    - tweet
+    - expert
+    - prompt
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Veral Tweet Expert Prompt"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as a social media influencer and generate a tweet that would be likely
+    to go viral. Think of something creative, witty, and catchy that people would
+    be interested in interacting with and sharing. Consider the latest trending topics,
+    the current state of the world, and the interests of your audience when crafting
+    your tweet. Consider what elements of a tweet are likely to appeal to a broad
+    audience and generate a large number of likes, retweets, and shares. My first
+    tweet topic would be [PROMPT]. My first task is to generate a engaging viral tweet
+    generator. The target language is [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

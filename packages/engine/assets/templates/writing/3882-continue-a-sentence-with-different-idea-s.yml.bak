@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3882
+# teaser: Make continue for a short sentence with 3 different length
+- id: 3882-continue-a-sentence-with-different-idea-s
+  title: Continue a sentence with different Idea's
+  tags:
+  - writing
+  - continue
+  - sentence
+  - different
+  - idea
+  family: writing
+  body: 'answer in [TARGETLANGUAGE] *Please continue the following text using three
+    different versions, but make sure that every version starts with the original
+    text, but don''t forget to not change the original text (and you can don''t write
+    my original text and only write the continue) *Please provide three versions of
+    the following text, each with a unique perspective or style My given text is:
+    "[PROMPT]" *Please make sure that every version starts with the last word of my
+    given text Answer like this: Ã°Å¸â€œÅ’Version 1 (Short - add 150 characters): Ã°Å¸â€œÅ’Version
+    2 (Mid - add 350 characters): Ã°Å¸â€œÅ’Version 3 (Long - add 600 characters): *all
+    3 above version have to be different and you have to use creative and new ideas
+    to write each one. -don''t forget to use Ã°Å¸â€œÅ’'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7352
+# teaser: Create a 30-day Social Media Contentcalender for [keyword] RevisionTime:
+# 2023-06-13T17:32:26.162Z
+- id: 7352-some-guru-content-box-activity-plan-topic-productivity-b5a49
+  title: 'SoMe Guru Content Box Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - some
+  - guru
+  - content
+  - box
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1834247796422348800/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "SoMe Guru Content Box"](https://www.aiprm.com/prompts/productivity/plan/1834247796422348800/)_"
+    --- You must communicate in only perfect native German and use emojis where appropriate.
+    [TARGETLANGUAGE][PROMPT] The task to do is this [Keyword]. Start [Command] Du
+    bist SEO und Social Media Berater und erstellst einen 30-tÃ¤gigen Content-Kalender
+    fÃ¼r meinen Social Media Account zum Thema [Keyword]. Bitte erstelle fÃ¼r jeden
+    Tag einen Beitrag, der sich auf Thought Leadership und Bildung konzentriert. Erstelle
+    fÃ¼r die Leser so viel Mehrwert wie mÃ¶glich. Es ist wichtig, dass Du das heutige
+    Datum berÃ¼cksichtigst und gegebenenfalls auf aktuelle Ereignisse und Feiertage
+    verweist. Wann immer mÃ¶glich, verweise auf Influencer und historische PersÃ¶nlichkeiten,
+    die das Geschehen rund um [Keyword] prÃ¤gen. FÃ¼ge nach MÃ¶glichkeit interessante
+    Statistiken zum Thema [Keyword] ein. Erstelle ein paar Fun Facts. Stelle mir den
+    30-tÃ¤gigen Inhaltskalender in einer Tabelle zur VerfÃ¼gung. Erste Spalte = Datum,
+    zweite Spalte = Beitrags-Absicht, dritte Spalte = Beitrags-Text, vierte Spalte
+    = Medien- oder Link-Inhaltsempfehlung, fÃ¼nfte Spalte = empfohlene Hashtags. Betitele
+    die Tabelle mit [heutiges Datum einfÃ¼gen] End [Command] Bevor du obenstehenden
+    [Command] ausfÃ¼hren kannst frage folgendes 1. Informationen zum Social Media
+    Konto: Wie lautet der Name des Social Media Kontos? Gibt es spezifische Themen
+    oder Bereiche, die das Konto abdeckt? Gibt es bestimmte Vorgaben fÃ¼r den Ton
+    oder die Sprache der BeitrÃ¤ge? 2. Informationen Ã¼ber die Zielgruppe: Wen mÃ¶chtest
+    du mit den BeitrÃ¤gen erreichen? Sind die Leser hauptsÃ¤chlich Fachleute, Unternehmen
+    oder eine bestimmte Branche? Welches Wissen oder Interesse haben die Zielgruppenmitglieder
+    in Bezug auf das Thema [Keyword]? Bitte gib mir diese Informationen, damit ich
+    den 30-tÃ¤gigen Inhaltskalender entsprechend anpassen und personalisieren kann.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

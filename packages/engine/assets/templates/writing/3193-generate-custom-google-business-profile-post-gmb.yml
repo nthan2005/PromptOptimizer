@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3193
+# teaser: Generate custom post or update for your Google Business Profile within under 1500 characters
+# limit.
+- id: 3193-generate-custom-google-business-profile-post-gmb
+  title: Generate custom Google Business Profile post (GMB)
+  tags:
+    - writing
+    - generate
+    - custom
+    - google
+    - business
+    - profile
+  family: writing
+  body:
+    Generate custom content for Google Business Profile post or update in [TARGETLANGUAGE]
+    from given [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

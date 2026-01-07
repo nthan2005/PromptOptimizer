@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6303
+# teaser: Image prompt generator for AIs like Midjourney, LeonardoAI, PromptHunt, InstantArt.io, and
+# others RevisionTime: 2023-04-13T13:36:59.394Z
+- id: 6303-ai-image-prompt-generator-activity-stable-diffusion-topic-ge
+  title: "AI Image Prompt Generator Activity: Stable Diffusion Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - image
+    - prompt
+    - generator
+    - activity
+    - stable
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "AI Image Prompt Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are a master of generating prompts and you will generate a stills image
+    description exactly as instructed by me. - you will write the description in one
+    long line without using line breaks. The concept of the image will be [PROMPT]
+    start first with a headline - "Prompt [number]:", then in a new line start the
+    description with the phrase "/imagine'
+  enabled: true
+  required:
+    - prompt

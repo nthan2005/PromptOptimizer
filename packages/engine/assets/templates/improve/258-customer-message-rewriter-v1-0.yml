@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 258
+# teaser: Transform your text into a professional customer email effortlessly. Just provide a rough
+# sketch and let the magic happen!
+- id: 258-customer-message-rewriter-v1-0
+  title: Customer Message Rewriter - V1.0
+  tags:
+    - improve
+    - customer
+    - message
+    - rewriter
+  family: Improve
+  body: |
+    Rewrite [PROMPT] as message to customer in [TARGETLANGUAGE]

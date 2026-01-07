@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1963
+# teaser: Get a list of potential products to write niche site about providing just the a topic.
+- id: 1963-any-niche-product-ideas
+  title: Any Niche Product Ideas
+  tags:
+    - products
+    - any
+    - niche
+    - product
+    - ideas
+  family: Products
+  body:
+    "I want you to act as an expert affiliate marketer that specializes on Amazon
+    Associates, Amazonâ€™s affiliate marketing program that speaks and writes fluent
+    [TARGETLANGUAGE]. You are tasked to assist me with the writing on developing an
+    amazon niche site by using the most recent available data, provide a list of potential
+    products that are sold by Amazon. Just provide the list, do not give any details
+    unless that is asked. Once the list is provided ask you more products are needed
+    or another topic wants to be explored. Here is the topic: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1933-question-concerning-height-of-commission",
+    "title": "Question concerning height of Commission",
+    "tags": [
+      "partnerships",
+      "question",
+      "concerning",
+      "height",
+      "commission"
+    ],
+    "body": "Please write an e-mail with the inquiry whether an order has resulted for me from a joint live workshop in the context of a cooperation. Please write in {targetlanguage} and in the {prompt}.",
+    "family": "Partnerships",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "1934-target-audiences-with-partnerships",
+    "title": "Target audiences with partnerships",
+    "tags": [
+      "partnerships",
+      "target",
+      "audiences"
+    ],
+    "body": "I want you to act as a market research expert that speaks and writes fluent {targetlanguage}. Pretend that you know everything about every market also in {targetlanguage}. List ten types of company my brand should consider Brand Partnerships with to reach my target audience. Give each type a name and an emoji. For each: give the benefit to my brand and also the benefit to the brand partner. All your output shall be in {targetlanguage} language. The brand (first line), category (second line) and target audience (third line) are: {prompt}",
+    "family": "Partnerships",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  }
+]

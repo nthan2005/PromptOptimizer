@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1234
+# teaser: Write Literature Reviews Best 100% Quality
+- id: 1234-literature-reviews-thesis-and-academic-articles
+  title: Literature Reviews thesis and academic articles
+  tags:
+  - writing
+  - literature
+  - reviews
+  - thesis
+  - academic
+  - articles
+  family: writing
+  body: '[TARGETLANGUAGE] [PROMPT] write literature review 5 paragraphs with updated
+    not over 10 years and cited with in-text APA citations and references for this
+    topic:'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

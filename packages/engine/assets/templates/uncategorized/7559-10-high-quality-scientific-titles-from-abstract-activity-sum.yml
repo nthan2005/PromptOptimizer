@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7559
+# teaser: Generated 10 enticing and accurate titles for your scientific articles based on your
+# abstracts RevisionTime: 2023-03-14T09:33:01Z
+- id: 7559-10-high-quality-scientific-titles-from-abstract-activity-sum
+  title:
+    "10 high-quality scientific titles from abstract Activity: Summarize Topic:
+    Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - high
+    - quality
+    - scientific
+    - titles
+    - abstract
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "10 high-quality scientific titles from
+    abstract"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Propose 10 professional titles for a scientific paper based on this abstract''s
+    results and conclusions. Be concise. Make it catchy but remain professional. Do
+    not repeat the instructions. Keep them simple but precise. Write in a formal professional
+    manner. Make them extremely convincing and optimised to push to click. Rank them
+    the most accurate and convincing first. Abstract : [PROMPT][TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

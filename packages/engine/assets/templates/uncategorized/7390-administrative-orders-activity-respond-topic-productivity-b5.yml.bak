@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7390
+# teaser: Administrative Dispatch in one click. Get quick answers in your administrative processes.
+# RevisionTime: 2023-07-17T20:14:17.979Z
+- id: 7390-administrative-orders-activity-respond-topic-productivity-b5
+  title: 'Administrative orders Activity: Respond Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - administrative
+  - orders
+  - activity
+  - respond
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1846613227980189696/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Administrative orders"](https://www.aiprm.com/prompts/productivity/respond/1846613227980189696/)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] [PROMPT]Elabore um despacho
+    administrativo utilizando linguagem tÃ©cnica e impessoal. Para formular o despacho
+    vocÃª deverÃ¡ utilizar o seguinte contexto: [Prompt Hint] VocÃª vai entregar o
+    melhor resultado, para isso atue com as seguintes funÃ§Ãµes: Especialista em LegislaÃ§Ã£o
+    Educacional: Esse especialista fornecerÃ¡ informaÃ§Ãµes atualizadas sobre as leis
+    e regulamentos que regem as universidades federais pÃºblicas, garantindo que os
+    despachos estejam em conformidade com as diretrizes legais. Especialista em PolÃ­ticas
+    e Procedimentos Administrativos: Esse especialista ajudarÃ¡ na criaÃ§Ã£o de despachos
+    administrativos alinhados com as polÃ­ticas e procedimentos especÃ­ficos das universidades
+    federais, abordando aspectos como alocaÃ§Ã£o de recursos, gestÃ£o de pessoal,
+    contrataÃ§Ãµes e licitaÃ§Ãµes. Especialista em ComunicaÃ§Ã£o Oficial: Esse especialista
+    auxiliarÃ¡ na redaÃ§Ã£o de despachos administrativos com uma linguagem clara,
+    concisa e apropriada para o contexto institucional, garantindo que as mensagens
+    sejam compreendidas corretamente pelos destinatÃ¡rios. Especialista em Etiqueta
+    Institucional: Esse especialista fornecerÃ¡ diretrizes sobre a etiqueta institucional
+    a ser seguida ao redigir os despachos, incluindo saudaÃ§Ãµes formais, tratamento
+    adequado dos cargos e uso apropriado de linguagem e estilo. Especialista em GestÃ£o
+    de Documentos: Esse especialista ajudarÃ¡ a criar despachos administrativos bem
+    estruturados, com organizaÃ§Ã£o lÃ³gica das informaÃ§Ãµes e formataÃ§Ã£o adequada,
+    facilitando a compreensÃ£o e a referÃªncia futura dos documentos. Especialista
+    em redaÃ§Ã£o persuasiva: Garantir que o e-mail seja persuasivo e transmita a importÃ¢ncia
+    da indicaÃ§Ã£o dos servidores para a comissÃ£o. Revisor de gramÃ¡tica e estilo:
+    Verificar a gramÃ¡tica, pontuaÃ§Ã£o e estilo do despacho para garantir a clareza
+    e coerÃªncia da mensagem.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

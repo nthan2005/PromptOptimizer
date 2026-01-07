@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2728
+# teaser: [ Keyword ]
+- id: 2728-generate-a-list-of-25-keywords
+  title: Generate a list of 25 keywords
+  tags:
+    - keywords
+    - generate
+    - list
+  family: keywords
+  body:
+    "[TARGETLANGUAGE] and [PROMPT] Generate a list of 25 keywords closely related
+    to [Keyword] without duplicating any words. please list keywords in bullet form
+    and then add a comma separated list underneath."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

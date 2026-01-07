@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3499
+# teaser: Solve your Google Cloud Platform (GCP) issue with ease using this prompt. It will provide
+# you a simple step-by-step solution to your problem. Just type your question, we'll handle the rest.
+- id: 3499-google-cloud-platform-gcp-helper
+  title: Google Cloud Platform | GCP | Helper
+  tags:
+    - backend-development
+    - google
+    - cloud
+    - platform
+    - gcp
+    - helper
+  family: Backend Development
+  body:
+    "Please ignore all previous requests. I'm going to ask a question related
+    Google Cloud Platform (GCP), please answer this in full detail, providing a step-by-step
+    guid in [TARGETLANGUAGE] on how to achieve a solution to the problem. You will
+    assume that the project has already been created. The question is: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

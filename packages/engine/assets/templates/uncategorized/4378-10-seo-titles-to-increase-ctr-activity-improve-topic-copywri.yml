@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4378
+# teaser: Create 10 unique catchy click-worthy seo titles RevisionTime: 2023-03-06T06:38:31Z
+- id: 4378-10-seo-titles-to-increase-ctr-activity-improve-topic-copywri
+  title: "10 Seo Titles to Increase CTR Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - seo
+    - titles
+    - increase
+    - ctr
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "10 Seo Titles to Increase CTR"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to create 10 unique catchy, click-worthy seo titles that can
+    increase CTR. The titles should be maximum of 60 characters. Add some phrases
+    related to the query, to increase CTR inside (). All output shall be in [TARGETLANGUAGE]
+    and in Secentence Case. The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

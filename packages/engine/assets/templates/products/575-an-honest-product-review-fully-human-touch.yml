@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 575
+# teaser: Write a product review as if you have used the product. From your personal experince you'll
+# write a article about your product.
+- id: 575-an-honest-product-review-fully-human-touch
+  title: An Honest Product Review (Fully Human Touch)
+  tags:
+    - products
+    - honest
+    - product
+    - review
+    - fully
+    - human
+  family: Products
+  body:
+    You recently purchased a new product and would like to share your experience
+    by writing a product review article. Give a detailed account of your personal
+    experience with the product, discussing its pros and cons. Provide insights into
+    the product's features, performance, usability, and any other relevant aspects
+    that shaped your opinion. Your review should be informative and assist potential
+    buyers in making an informed decision. Use the TARGETLANGUAGE to express your
+    thoughts. My first task is to write a product review article about [PROMPT]. The
+    target language is [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

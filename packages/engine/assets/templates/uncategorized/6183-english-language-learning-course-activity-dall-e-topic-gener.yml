@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6183
+# teaser: Are you interested in learning [TARGETLANGUAGE]? If so, then this course is for you! We will
+# teach you everything you need to know to start speaking [TARGETLANGUAGE] like a native.
+# RevisionTime: 2023-11-22T13:27:37.399Z
+- id: 6183-english-language-learning-course-activity-dall-e-topic-gener
+  title: "English Language Learning Course Activity: Dall-E Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - english
+    - language
+    - learning
+    - course
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "English Language Learning Course"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] Language Learning Course This course is designed to help
+    you learn [TARGETLANGUAGE] from scratch. It covers all the basics of grammar,
+    vocabulary, and pronunciation. You will also learn about the culture and history
+    of [TARGETLANGUAGE]-speaking countries. [PROMPT] In this lesson, you will learn
+    about the following topics: [Topic 1] [Topic 2] [Topic 3]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

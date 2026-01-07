@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4404
+# teaser: Transforming Text: Enhancing Clarity, Conciseness, and Grammar for Better Communication 1.2
+# RevisionTime: 2023-05-23T14:59:26.183Z
+- id: 4404-enhancing-text-clarity-conciseness-and-grammar-activity-impr
+  title: 'Enhancing Text Clarity, Conciseness, and Grammar. Activity: Improve Topic:
+    Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - enhancing
+  - text
+  - clarity
+  - conciseness
+  - grammar
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1809087488049016832/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Enhancing Text Clarity, Conciseness,
+    and Grammar."](https://www.aiprm.com/prompts/copywriting/improve/1809087488049016832/)_"
+    --- Please revise and improve the following text in [TARGETLANGUAGE]: "[PROMPT]"
+    Your revised text should be clearer, more concise, and grammatically correct in
+    [TARGETLANGUAGE]: Please ensure that your revision maintains the original meaning
+    of the message while improving overall readability. Your response should include
+    a revised version of the original text that is easy to understand and free of
+    errors or ambiguities in [TARGETLANGUAGE]. You may also suggest ways to further
+    improve the clarity and effectiveness of the message in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5527
+# teaser: Generate Offpage Title, Description RevisionTime: 2023-06-24T17:59:24.081Z
+- id: 5527-generate-offpage-title-description-for-your-topic-activity-w
+  title: 'Generate Offpage Title, Description for your Topic Activity: writing Topic:
+    Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - generate
+  - offpage
+  - title
+  - description
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1838244171011055616/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Generate Offpage Title, Description
+    for your Topic"](https://www.aiprm.com/prompts/copywriting/writing/1838244171011055616/)_"
+    --- Generate Offpage Title, Description in [TARGETLANGUAGE] from given [PROMPT].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

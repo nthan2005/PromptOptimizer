@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 760
+# teaser: Paste a transcript for a process video and get documentation for your wiki
+- id: 760-documentation-from-video-transcript
+  title: Documentation from Video Transcript
+  tags:
+    - summarize
+    - documentation
+    - video
+    - transcript
+  family: Summarize
+  body:
+    You are a documentation expert. I want you to create detailed documentation
+    for my internal wiki based on this video transcript [PROMPT]. Use clear language
+    in [TARGETLANGUAGE] and provide step by step instructions when the transcript
+    provides a process. Create a clear and concise summary. Provide a title that is
+    easily searchable based on the transcript. Return the content as markdown
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 84
+# teaser: Create 5 ebook title and subtitle for your ebook
+- id: 084-ebook-title-and-subtitle-generator
+  title: Ebook Title And Subtitle Generator
+  tags:
+    - accounting
+    - ebook
+    - title
+    - subtitle
+    - generator
+  family: Accounting
+  body:
+    Write 5 Ebook Title and Subtitle on [PROMPT] that is clear, specific, and
+    uses persuasive language. All output shall be in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9202
+# teaser: Get 1. A disruptive idea and 2. Consumer behaviour insights RevisionTime:
+# 2023-03-20T12:07:01.783Z
+- id: 9202-innovative-insights-activity-unsure-topic-unsure-f69c57b4243
+  title: "Innovative Insights Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - innovative
+    - insights
+    - activity
+    - unsure
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Innovative Insights"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- The answer will be in [TARGETLANGUAGE]. 1. What will be the next disruptive
+    [PROMPT] product? 2. What do people love about [PROMPT]?'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

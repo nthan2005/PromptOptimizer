@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5011
+# teaser: Generate high converting video script for your health products. RevisionTime:
+# 2023-04-22T08:28:07.69Z
+- id: 5011-video-script-for-health-product-activity-script-writing-topi
+  title: 'Video Script For Health Product Activity: Script Writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - video
+  - script
+  - health
+  - product
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1793496861773135872/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Video Script For Health Product"](https://www.aiprm.com/prompts/copywriting/script-writing/1793496861773135872/)_"
+    --- You are a professional, high-converting sales copywriter, and I would like
+    to trust you to write a converting and compliant video script for me. I will supply
+    you with the name of the product, while you supply me with the script. Mind you,
+    these are herbal products and are safe to use for all ages. By "herbal product,"
+    I mean one that contains no chemical substances whatsoever. Make sure you write
+    about the pain of the sickness, and condemn the use of orthodox medications, as
+    most of them contain chemicals with different side effects. You should also discuss
+    the disease''s signs and symptoms base on [The Disease], before discussing how
+    the [Product Name] can help you solve the health issues. Make sure there are some
+    elements of fear and emotion in the script. Do you understand? The keywords to
+    use in the analysis are [PROMPT] Write all output in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

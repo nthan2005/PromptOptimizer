@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7511
+# teaser: System to know if it meets the requirement RevisionTime: 2023-05-11T18:21:53.445Z
+- id: 7511-requirement-system-activity-respond-topic-productivity-b5a49
+  title: "Requirement System Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - requirement
+    - system
+    - activity
+    - respond
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Requirement System"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Responda Ãƒ seguinte pergunta com Kaspersky Atende ou Kaspersky nÃƒÂ£o Atende
+    sem explicaÃƒÂ§ÃƒÂ£o? [TARGETLANGUAGE] A Kaspersky cumpre estes requisitos tÃƒÂ©cnicos:
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

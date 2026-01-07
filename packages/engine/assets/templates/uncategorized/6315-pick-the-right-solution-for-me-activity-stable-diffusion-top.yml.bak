@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6315
+# teaser: Best Solution Solver Will Solve Your Every Problem RevisionTime: 2023-08-20T07:29:15.502Z
+- id: 6315-pick-the-right-solution-for-me-activity-stable-diffusion-top
+  title: 'Pick the right solution for me Activity: Stable Diffusion Topic: Generative-AI-b983edfcaa490850'
+  tags:
+  - uncategorized
+  - pick
+  - right
+  - solution
+  - activity
+  - stable
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/stable-diffusion/1858436843906519040/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Pick the right solution for me "](https://www.aiprm.com/prompts/generative/stable-diffusion/1858436843906519040/)_"
+    --- Your task is to give solution to my problem i give you in text all promt should
+    be 20 to 80 words give any possible solution. All prompt should be in [TARGETLANGUAGE]
+    . [PROMPT] [variable]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

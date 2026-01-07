@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3302
+# teaser: 100% Unique, Plagiarism Free and Fully SEO Optimized Product Description Writer with Meta
+# Description
+- id: 3302-product-description-writer-100-unique
+  title: Product Description Writer 100% Unique
+  tags:
+    - writing
+    - product
+    - description
+    - writer
+    - "100"
+    - unique
+  family: writing
+  body:
+    Product Description Writer 100% Unique easy to understand Write minimum 3
+    paragraph with heading if possible write key feature in bullet point Minimum Words
+    550 or maximum 2000 [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

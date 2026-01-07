@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7993
+# teaser: Generate 5 good Meta Titles and Meta Descriptions from which you can choose the best one for
+# your page! Go for SEO! RevisionTime: 2023-06-09T06:37:40.894Z
+- id: 7993-seo-meta-title-meta-description-generator-activity-keywords
+  title: 'SEO Meta Title & Meta Description Generator Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - seo
+  - meta
+  - title
+  - description
+  - generator
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1832366364615249920/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "SEO Meta Title & Meta Description Generator"](https://www.aiprm.com/prompts/seo/keywords/1832366364615249920/)_"
+    --- Create a Meta Title and Meta Description for the following topic: [PROMPT].
+    The meta title should have not more than 57 characters. The Meta Description should
+    not contain more than 160 characters. Give me 5 suggestions each. The Output should
+    be in [TARGETLANGUAGE]. Please provide the output in a table || Meta Title | Meta
+    Description ||'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

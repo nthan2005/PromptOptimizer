@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4922
+# teaser: Whitepaper RevisionTime: 2024-11-12T05:54:39.426Z
+- id: 4922-whitepaper-of-5000-words-activity-research-topic-copywriting
+  title: 'Whitepaper of 5000 words Activity: Research Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - whitepaper
+  - '5000'
+  - words
+  - activity
+  - research
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/2021795059943067648/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Whitepaper of 5000 words"](https://www.aiprm.com/prompts/copywriting/research/2021795059943067648/)_"
+    --- Please write in English [TARGETLANGUAGE] Imagine you are a research writer.
+    write a 5000 word whitepaper on [PROMPT]. make sure that you incorporate all the
+    sections'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

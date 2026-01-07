@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7018
+# teaser: Helpful Seo Specialist ready to Generate Catchy Titles, Meta Descriptions, And Tags For
+# Youtube Videos RevisionTime: 2024-10-03T09:57:40.258Z
+- id: 7018-youtube-title-description-hashtags-and-tags-activity-social
+  title:
+    "Youtube Title, Description, Hashtags and Tags Activity: Social Media Topic:
+    Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - youtube
+    - title
+    - description
+    - hashtags
+    - tags
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Youtube Title, Description, Hashtags
+    and Tags"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Youtube Title, Description, Hashtags and Tags 100% optimized Reply only in
+    [TARGETLANGUAGE] language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

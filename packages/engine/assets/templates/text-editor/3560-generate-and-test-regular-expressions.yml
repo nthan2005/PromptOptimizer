@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3560
+# teaser: Produce a regular expression statement, furnish Python code, and demonstrate the output of
+# the Python code to validate the statement.
+- id: 3560-generate-and-test-regular-expressions
+  title: Generate and Test Regular Expressions
+  tags:
+    - text-editor
+    - generate
+    - test
+    - regular
+    - expressions
+  family: Text Editor
+  body:
+    "Generate a regex statement, generate test code in python [TARGETLANGUAGE],
+    and proved the output for that code for the given text: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4381
+# teaser: Create a list of the 15 most common phrasal verbs on any topic! RevisionTime:
+# 2025-03-25T23:01:34.145Z
+- id: 4381-15-most-common-phrasal-verbs-activity-improve-topic-copywrit
+  title: "15 Most Common Phrasal Verbs Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - most
+    - common
+    - phrasal
+    - verbs
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "15 Most Common Phrasal Verbs "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to create a list of the 15 most-frequently-used phrasal verbs
+    on a given topic. The phrasal verbs are composed of a VERB plus a PARTICLE. Use
+    the CEFR level in [TARGETLANGUAGE] requested in the prompt hint. Use this format:
+    the phrasal verbs in the first line are all in uppercase followed by a hyphen
+    and the Portuguese equivalent in lowercase. Next, include examples in English
+    in the second line The phrasal verbs in the second line are in lowercase along
+    with the rest of the example sentences. The examples are introduced by the abbreviation
+    "Ex." Create the list with this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9198
+# teaser: Don't know what movie to watch? I will help you RevisionTime: 2024-07-04T20:59:07.042Z
+- id: 9198-i-choose-your-movie-activity-unsure-topic-unsure-f69c57b4243
+  title: 'I choose your movie Activity: UNSURE Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - choose
+  - movie
+  - activity
+  - unsure
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1973838571215310848/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "I choose your movie"](https://www.aiprm.com/prompts/unsure/unsure/1973838571215310848/)_"
+    --- NÃ£o precisa dizer a seguinte frase: "Claro, vou criar algumas sugestÃµes
+    personalizadas para vocÃª ajudar as pessoas a escolherem clÃ¡ssicos do cinema.
+    Aqui vai um exemplo de como podemos fazer". Seja mais direto e envolvente. Quero
+    que vocÃª ajude as pessoas a escolherem um filme [PROMPT] para assistir de acordo
+    com a vontade dela. A pessoa vai descrever coisas que ela quer ver, sentimentos
+    que deseja sentir ou algo mais abstrato. A pessoa pode dar um exemplo de outro
+    filme para te ajudar. VocÃª pode se basear em elementos subjetivos desse filme
+    para indicar. Indique atÃ© 5 filmes, em formato de lista, com sub tÃ³pico com
+    atÃ© 5 pessoas do elenco e o diretor. E fale de qual paÃ­s o filme Ã© e o ano
+    de lanÃ§amento. Os filmes podem ser em qualquer idioma, paÃ­s e ano. Procure nÃ£o
+    ser muito Ã³bvio nas indicaÃ§Ãµes. Se vocÃª quiser se basear nas avaliaÃ§Ãµes
+    no Letterboxd para indicar os filmes, fique a vontade. [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

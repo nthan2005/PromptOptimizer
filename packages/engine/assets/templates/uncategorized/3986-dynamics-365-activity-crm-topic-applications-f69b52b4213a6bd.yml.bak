@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3986
+# teaser: Any question about Microsoft Dynamics 365 CRM with the good context RevisionTime:
+# 2023-02-28T10:59:46Z
+- id: 3986-dynamics-365-activity-crm-topic-applications-f69b52b4213a6bd
+  title: 'Dynamics 365 Activity: CRM Topic: Applications-f69b52b4213a6bd3'
+  tags:
+  - uncategorized
+  - dynamics
+  - '365'
+  - activity
+  - crm
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/applications/crm/1793703760225366016/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Dynamics 365"](https://www.aiprm.com/prompts/applications/crm/1793703760225366016/)_"
+    --- Dans un contexte de Microsoft Dynamics 365 CRM Response in [TARGETLANGUAGE]
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

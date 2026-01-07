@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4675
+# teaser: Create scroll-stopping social media posts from a simple idea, with platform-specific
+# formatting and hooks. RevisionTime: 2025-06-24T08:16:16.217Z
+- id: 4675-social-media-post-generator-activity-marketing-topic-copywri
+  title: "Social Media Post Generator Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - social
+    - media
+    - post
+    - generator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Social Media Post Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE]: You are a professional social media strategist
+    and creative copywriter. Write 2Ã¢â‚¬â€œ3 engaging, platform-optimized social media
+    posts based on the following'
+  enabled: true
+  required:
+    - targetlanguage

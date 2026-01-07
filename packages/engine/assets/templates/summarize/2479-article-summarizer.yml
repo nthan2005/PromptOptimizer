@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2479
+# teaser: Use this prompt to summarize documents online
+- id: 2479-article-summarizer
+  title: Article Summarizer
+  tags:
+    - summarize
+    - article
+    - summarizer
+  family: Summarize
+  body:
+    "Your task is to summarize the document given in maximum 3 paragraphs. All
+    output shall be in [TARGETLANGUAGE]. The text to summarize is this: Text from:
+    [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

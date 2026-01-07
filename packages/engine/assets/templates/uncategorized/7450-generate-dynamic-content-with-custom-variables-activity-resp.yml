@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7450
+# teaser: unleashed RevisionTime: 2024-11-05T06:52:57.927Z
+- id: 7450-generate-dynamic-content-with-custom-variables-activity-resp
+  title:
+    "Generate Dynamic Content with Custom Variables Activity: Respond Topic:
+    Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - generate
+    - dynamic
+    - content
+    - custom
+    - variables
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate Dynamic Content with Custom
+    Variables"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE]. [VARIABLE1: Topic: Technology | Business
+    | Health] [VARIABLE2: Engagement Level: Basic | Intermediate | Advanced] [VARIABLE3:
+    Output Format: Text | Infographic | Presentation] Create a [PROMPT] focused on
+    [VARIABLE1]. Set the engagement level to [VARIABLE2] and format the result as
+    [VARIABLE3].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9422
+# teaser: Time Travel to meet ancestors in a specific country, and learn about history and traditions
+# RevisionTime: 2023-05-08T22:07:56.911Z
+- id: 9422-time-travel-meet-your-ancestors-activity-writing-topic-unsur
+  title: "Time Travel & Meet Your Ancestors Activity: writing Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - time
+    - travel
+    - meet
+    - ancestors
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Time Travel & Meet Your Ancestors "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a short story about a time traveler who goes back in time to meet their
+    ancestors. the name of the time traveler and the country their ancestors are from.
+    is provided in the following text and the year is also given in [PROMPT] to which
+    you should modify the story and the answer should always be in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

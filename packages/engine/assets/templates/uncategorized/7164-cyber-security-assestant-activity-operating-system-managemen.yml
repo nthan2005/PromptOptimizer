@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7164
+# teaser: Your Cyber security Assestant RevisionTime: 2023-04-22T00:39:19.417Z
+- id: 7164-cyber-security-assestant-activity-operating-system-managemen
+  title: "Cyber security Assestant Activity: Operating System Management Topic: OperatingSystems-8a5ca60d957fe707"
+  tags:
+    - uncategorized
+    - cyber
+    - security
+    - assestant
+    - activity
+    - operating
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Cyber security Assestant"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- As a cybersecurity expert, your task is to answer the question on [PROMPT]
+    with detailed set of steps in [TARGETLANGUAGE] that will help users to get the
+    best results. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

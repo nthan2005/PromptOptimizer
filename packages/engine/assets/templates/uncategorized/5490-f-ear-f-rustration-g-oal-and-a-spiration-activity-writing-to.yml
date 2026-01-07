@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5490
+# teaser: Generate a F(ear), F(rustration), G(oal) and A(spiration) Outline and Content RevisionTime:
+# 2023-02-23T22:24:32.408Z
+- id: 5490-f-ear-f-rustration-g-oal-and-a-spiration-activity-writing-to
+  title:
+    "F(ear), F(rustration), G(oal) and A(spiration) Activity: writing Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - ear
+    - rustration
+    - oal
+    - spiration
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "F(ear), F(rustration), G(oal) and A(spiration)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- For the topic of Ã¢â‚¬Å“[PROMPT]Ã¢â‚¬Å“, what are common fears, frustrations, goals,
+    and aspirations? Return your answer in a person''s own words using I-statements,
+    like you would get in a survey or product review. Please write in [TARGETLANGUAGE]
+    language.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

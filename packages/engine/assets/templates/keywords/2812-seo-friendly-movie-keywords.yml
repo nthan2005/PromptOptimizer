@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2812
+# teaser: generate 50 keywords for "[KEYWORD]" include, download full movie, full hd, 1080p, 480p,
+# 720p, hindi dubbed, in hindi, filmdownloader, ultra had, all keywords should contain the main
+# keyword
+- id: 2812-seo-friendly-movie-keywords
+  title: SEO Friendly Movie Keywords
+  tags:
+    - keywords
+    - seo
+    - friendly
+    - movie
+  family: keywords
+  body:
+    Your work is to generate 50 keywords for the given [Keyword] by the user which
+    are full SEO friendly and easy to rank with high traffic. include, download full
+    movie, full hd, 1080p, 480p, 720p, hindi dubbed, in hindi, filmdownloader, ultra
+    had. all keywords should contain the main keyword. also add comma at the end of
+    every keyword. You can use [PROMPT] for the reference. the keywords should be
+    in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

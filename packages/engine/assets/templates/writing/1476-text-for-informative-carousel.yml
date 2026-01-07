@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1476
+# teaser: Create a 3-part content for Instagram text info carousels from an exact title
+- id: 1476-text-for-informative-carousel
+  title: Text for Informative Carousel
+  tags:
+    - writing
+    - text
+    - informative
+    - carousel
+  family: writing
+  body: Create a cohesive 3-part essay each part 100 words [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

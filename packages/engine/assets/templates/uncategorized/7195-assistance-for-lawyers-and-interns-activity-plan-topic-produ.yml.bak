@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7195
+# teaser: Accelerate the basic formation of a legal document/contract/ and other technical assistance
+# to facilitate and have greater progress in your law office. 1- Remember to insert (write a contract
+# "any other legal document *if it is a procedural piece, title the piece" where the parties are
+# "qualification 1" and "qualification 1", object of the contract, value, other specifications "in
+# case of procedural document insert the facts or the dispute". 2- Remember to enter the
+# specifications: example: Write a child support action where the plaintiffs are JoÃ£o and Maria
+# (complete qualification), against the parent Pedro (complete qualification), in the amount of
+# R$500.00, remember that When passing any document to libreOficce or Word, adapting the details and
+# polishing, use this tool as an aid and not as the main means, clarify your doubts and learn how to
+# better organize your pieces or documents. - made by MÃ¡rcio Bruno Gomes Ferreira (inicialmente de
+# uso eclusivo para testes) RevisionTime: 2024-03-28T14:35:19.822Z
+- id: 7195-assistance-for-lawyers-and-interns-activity-plan-topic-produ
+  title: 'Assistance for lawyers and interns ! Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - assistance
+  - lawyers
+  - interns
+  - activity
+  - plan
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1938353581716140032/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Assistance for lawyers and interns\
+    \ !\"](https://www.aiprm.com/prompts/productivity/plan/1938353581716140032/)_\"\
+    \ --- APRESENTE O RESULTADO NO IDIOMA [TARGETLANGUAGE] COMO SE ADVOGADO FOSSE\
+    \ REDIJA UM(A)... ME APRESENTE O RESULTADO COMO SE ADVOGADO FOSSE. EM TOM FORMAL\
+    \ E JURIDIQUÃŠS. COM ESPAÃ‡O PARA QUALIFICAÃ‡ÃƒO DAS PARTES. EMBASANDO OS FATOS\
+    \ DE ACORDO COM A LEGISLAÃ‡ÃƒO VIGENTE JURISPRUDENCIA. O LOCAL ONDE E REALIZADO\
+    \ O CONTRATO E LUZIÃ‚NIA GOIÃ\x81S. A EMPRESA DE ADVOGADOS E A CAIXETA E MACHADO\
+    \ ADVOCACIA ESPECIALIZADA. [PROMPT]"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

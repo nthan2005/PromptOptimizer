@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1472
+# teaser: Quick table for technical interview questions for the semiconductor capital equipment
+# industry.
+- id: 1472-technical-interview-questions-for-semicap-industry
+  title: Technical Interview Questions for SemiCap Industry
+  tags:
+  - writing
+  - technical
+  - interview
+  - questions
+  - semicap
+  - industry
+  family: writing
+  body: 'Act as a hiring manager. Your task is to create a table of three technical
+    interview questions based on the prompt. Make column one the question, column
+    two the answer, and column three explain the answer to a 5th grader. Output in
+    [TARGETLANGUAGE]. Create the table based on: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

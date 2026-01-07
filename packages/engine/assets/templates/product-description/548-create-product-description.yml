@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 548
+# teaser: create a title for the [Keyword], and create 400-word content for the same. content should
+# be in active voice and use more transition words also. And a meta description also.
+- id: 548-create-product-description
+  title: create product description
+  tags:
+    - product-description
+    - product
+    - description
+  family: Product Description
+  body:
+    "I want you to act as a content writer and create Titile, 400 word count content,
+    also meta description. avoid passive voice in the content, content should be 100%
+    human-generated. All output shall be in [TARGETLANGUAGE]. The Keyword to create
+    is this : [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

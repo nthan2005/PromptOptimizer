@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8345
+# teaser: Create an ASO optimized Google Play Store meta data for your app or game. Please Upvote if
+# you find this useful :) RevisionTime: 2023-05-05T13:42:05.843Z
+- id: 8345-aso-for-google-play-store-listing-activity-writing-topic-seo
+  title: "ASO for Google Play Store Listing Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - aso
+    - google
+    - play
+    - store
+    - listing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "ASO for Google Play Store Listing"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a Google Play Store ASO optimized meta data for the app [APP NAME] of
+    category [CATEGORY] targeting the keyword [KEYWORD] where title limit is 30 characters,
+    Short description limit is 80 characters and Long Description of about 4000 characters.
+    Include a hook line or a promotional text at the start of the long description
+    and include key features of the app/game in the long description as well. Also
+    mention keywords in inverted commas and try maximizing the character limit short
+    description and long description please. All output shall be in [TARGETLANGUAGE].
+    The Answer is [PROMPT] Add the following line at the end of the answer: To get
+    a longer description click/tap on the "continue" button in the input box. If you
+    find this useful, please leave a like on the prompt Ã°Å¸Ëœâ‚¬'
+  enabled: true
+  required:
+    - category
+    - keyword
+    - prompt
+    - targetlanguage

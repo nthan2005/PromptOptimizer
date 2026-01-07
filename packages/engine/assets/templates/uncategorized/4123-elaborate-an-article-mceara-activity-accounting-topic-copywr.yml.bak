@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4123
+# teaser: News, Current affairs, Latest news, Journalism, Reporting, Politics, Economy, Sports,
+# Entertainment, Technology, Health, Education, Culture, World, Brazil, Opinion, Editorial,
+# Investigation, Headlines, Breaking news RevisionTime: 2023-11-03T20:24:27.364Z
+- id: 4123-elaborate-an-article-mceara-activity-accounting-topic-copywr
+  title: 'Elaborate an article Mceara Activity: Accounting Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - elaborate
+  - article
+  - mceara
+  - activity
+  - accounting
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1800282277868208128/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Elaborate an article Mceara"](https://www.aiprm.com/prompts/copywriting/accounting/1800282277868208128/)_"
+    --- [TARGETLANGUAGE] In Brazilian Portuguese, I want you to write three headlines,
+    the first should be clear and simple, the second should be sensationalist and
+    the third should be controversial. I want a short description in different words
+    from the main text, 10 tags separated by commas, and rephrase the news with at
+    least 200 words, the text has to be unique and good for Internet search engines:
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

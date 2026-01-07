@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6878
+# teaser: Generate a captivating LinkedIn post on a topic of your choosing RevisionTime:
+# 2024-10-03T09:57:36.518Z
+- id: 6878-linkedin-post-generator-activity-social-media-topic-marketin
+  title: "LinkedIn Post Generator Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - linkedin
+    - post
+    - generator
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "LinkedIn Post Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Generate a thought-provoking LinkedIn post regarding the subject posted below.
+    The post should articulate multiple points of view and conclude with a thought-provoking
+    question along with six hashtags summarizing the post. The post should be in [TARGETLANGUAGE].
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

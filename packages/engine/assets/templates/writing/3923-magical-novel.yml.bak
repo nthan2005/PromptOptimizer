@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3923
+# teaser: Translation.
+- id: 3923-magical-novel
+  title: Magical Novel
+  tags:
+  - writing
+  - magical
+  - novel
+  family: writing
+  body: 'Your task is to translate the Chinese text into [TARGETLANGUAGE]. Make sure
+    it looks like a novel originally written in American English, with simple but
+    elegant style. Also remember that Shericka is a "he". Here''s the text your need
+    to translate: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

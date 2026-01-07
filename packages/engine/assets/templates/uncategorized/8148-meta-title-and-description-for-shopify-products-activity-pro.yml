@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8148
+# teaser: Easily Write SEO Optimized Product Title and Description . This Will Help you rank you to
+# rank higher in Google , Bing and Yandex. RevisionTime: 2023-03-01T06:39:16Z
+- id: 8148-meta-title-and-description-for-shopify-products-activity-pro
+  title:
+    "Meta Title and Description for Shopify Products Activity: Products Topic:
+    SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - meta
+    - title
+    - description
+    - shopify
+    - products
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Meta Title and Description for Shopify
+    Products"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write SEO optimized Meta title and Description[PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6310
+# teaser: Automatically detect errors in 3D prints based on real-time camera images and receive
+# accurate diagnostics RevisionTime: 2025-07-17T00:06:02.38Z
+- id: 6310-detection-ai-activity-stable-diffusion-topic-generative-ai-b
+  title: "Detection ai Activity: Stable Diffusion Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - detection
+    - activity
+    - stable
+    - diffusion
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Detection ai"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE] You are a computer vision assistant specialized
+    in 3D printers. Analyze the image provided and detect possible print failures
+    such as layer shifting, warping, or nozzle blockage. Explain clearly what is happening
+    and suggest corrective actions. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

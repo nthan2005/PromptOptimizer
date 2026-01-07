@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7817
+# teaser: Create Unique Meta Description for Local SEO RevisionTime: 2023-02-19T15:35:19Z
+- id: 7817-unique-meta-description-for-local-seo-activity-ideation-topi
+  title: 'Unique Meta Description for Local SEO Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - unique
+  - meta
+  - description
+  - local
+  - seo
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1791832179530268672/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Unique Meta Description for Local SEO"](https://www.aiprm.com/prompts/seo/ideation/1791832179530268672/)_"
+    --- Start with Greetings in [TARGETLANGUAGE]. then I want you to act as an SEO
+    Expert that speaks and writes fluently in [TARGETLANGUAGE]. At end of the Each
+    description, Provide characters count. Each Description is within 150 -160 Characters
+    in [TARGETLANGUAGE]. [PROMPT]"Generate 10 unique meta description in (maximum
+    of 150 characters) for the keyword phrase: "KEYWORD" (make sure you include the
+    exact keyword phrase)"'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

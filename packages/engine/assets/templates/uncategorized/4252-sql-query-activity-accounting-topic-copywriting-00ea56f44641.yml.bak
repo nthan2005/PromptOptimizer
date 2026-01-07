@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4252
+# teaser: Provide your SQL query RevisionTime: 2023-11-28T14:16:44.505Z
+- id: 4252-sql-query-activity-accounting-topic-copywriting-00ea56f44641
+  title: 'Sql query Activity: Accounting Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - sql
+  - query
+  - activity
+  - accounting
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1895085660722298880/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Sql query"](https://www.aiprm.com/prompts/copywriting/accounting/1895085660722298880/)_"
+    --- [PROMPT] Provide answer in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

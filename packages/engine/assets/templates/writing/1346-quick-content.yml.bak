@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1346
+# teaser: Create didactic content on a particular subject.
+- id: 1346-quick-content
+  title: Quick content
+  tags:
+  - writing
+  - quick
+  - content
+  family: writing
+  body: Quero aprender sobre "[PROMPT]" e gostaria que vocÃƒÂª fosse meu professor especialista
+    e criasse um conteÃƒÂºdo didÃƒÂ¡tico, como em um curso. Por favor, forneÃƒÂ§a informaÃƒÂ§ÃƒÂµes
+    gerais sobre o assunto e responda a perguntas especÃƒÂ­ficas que eu possa ter e
+    entÃƒÂ£o explique especÃƒÂ­ficamente cada tÃƒÂ³pico que vocÃƒÂª propÃƒÂ´s. AlÃƒÂ©m disso,
+    por favor, leve em consideraÃƒÂ§ÃƒÂ£o meus objetivos de aprendizagem e nÃƒÂ­vel de conhecimento
+    atual. Vamos comeÃƒÂ§ar? Escreva em [TARGETLANGUAGE], por favor. Se coloque no papel
+    de PhD no assunto. E explique como para uma pessoa de 20 anos.
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

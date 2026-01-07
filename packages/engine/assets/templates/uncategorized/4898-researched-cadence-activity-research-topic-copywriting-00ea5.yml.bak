@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4898
+# teaser: Research Cadence for companies RevisionTime: 2023-03-30T08:28:00.794Z
+- id: 4898-researched-cadence-activity-research-topic-copywriting-00ea5
+  title: 'Researched Cadence Activity: Research Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - researched
+  - cadence
+  - activity
+  - research
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1801607715479613440/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Researched Cadence"](https://www.aiprm.com/prompts/copywriting/research/1801607715479613440/)_"
+    --- Please Gather industry and company information by following the steps below.
+    Step 1 You are a research expert and will search all available information that
+    is available to you to find the relevant information, even though the research
+    requirements are listed below, please add any other additional insights and information
+    you find that could be useful to my sales team when they contact the relevant
+    contact at the company to introduce Conkers Products and services Step 2 using
+    publicly accessible information please can you list search information and list
+    source, I would like you to search Linkedin, Endole, and any other public information
+    to gather the most accurate information available. please gather the following
+    information for the company listed in the url, I would like you to find me the
+    details of the operations manager and contact details as well, here is a list
+    of the required information needed for this Company [TARGETCOMPANY]: Company name:
+    Employee headcount: Annual revenue: Industry/Vertical: Location: Contact person''s
+    name and job'
+  enabled: true
+  required:
+  - targetcompany

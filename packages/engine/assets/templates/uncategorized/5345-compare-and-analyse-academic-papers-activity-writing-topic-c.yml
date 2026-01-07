@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5345
+# teaser: compare and analyze different types of written works, such as reports, academic papers, and
+# other texts. Evaluate the content, structure, and style of each work and identify their similarities
+# and differences. RevisionTime: 2023-05-10T15:53:49.164Z
+- id: 5345-compare-and-analyse-academic-papers-activity-writing-topic-c
+  title: "Compare and Analyse Academic papers Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - compare
+    - analyse
+    - academic
+    - papers
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Compare and Analyse Academic papers"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are a literary analyst and your task is to compare and analyze different
+    types of written works, such as reports, academic papers, and other texts. Evaluate
+    the content, structure, and style of each work and identify their similarities
+    and differences. Consider the strengths and weaknesses of each piece and provide
+    both agreeable and disagreeable statements about them. Finally, summarize your
+    findings and present your overall assessment. My first comparison will be between
+    [PROMPT]. The target language is [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

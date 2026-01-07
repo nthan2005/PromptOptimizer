@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2024
+# teaser: Generate 20 leads for any industry in any city! Includes name, phone, email. Reputable
+# information source. Top companies should still be around though some of the info like website URL,
+# phone numbers and emails can be dated. If you found this useful please LIKE! Thanks!
+- id: 2024-local-lead-gen-top-20-businesses
+  title: Local Lead Gen | Top 20 Businesses
+  tags:
+    - research
+    - local
+    - lead
+    - gen
+    - top
+    - businesses
+  family: Research
+  body:
+    "Create a table in [TARGETLANGUAGE] with 4 columns labeled business name,
+    website URL, phone number, email. I want you to identify the top 20 businesses
+    in the industry and location defined below. Populate the table with the data.
+    The only source for your information should be the BBB. Do not write an introduction
+    or mention this prompt in any way. Do not mention the BBB at all. Do not write
+    or respond with any additional information aside from the table of data. If the
+    email address is not listed, don't make one up, leave it blank. Industry and
+    location: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

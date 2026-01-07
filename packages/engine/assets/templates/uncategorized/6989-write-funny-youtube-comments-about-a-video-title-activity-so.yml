@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6989
+# teaser: Write funny youtube comments based off title RevisionTime: 2024-10-03T09:57:47.939Z
+- id: 6989-write-funny-youtube-comments-about-a-video-title-activity-so
+  title:
+    "Write funny youtube comments about a video title Activity: Social Media
+    Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - write
+    - funny
+    - youtube
+    - comments
+    - video
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Write funny youtube comments about
+    a video title"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- write a funny youtube comment about the youtube video called "[PROMPT]". Only
+    write it in [TARGETLANGUAGE] and do not repeat yourself.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

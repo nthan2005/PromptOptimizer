@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2393
+# teaser: Display image on chat from url. (some images may not display properly)
+- id: 2393-image-displayer
+  title: Image Displayer
+  tags:
+    - respond
+    - image
+    - displayer
+  family: Respond
+  body:
+    INPUT = url [TARGETLANGUAGE] OUTPUT = ![MG](url) INPUT = [PROMPT] [TARGETLANGUAGE]
+    OUTPUT =
+  enabled: true
+  required:
+    - mg
+    - prompt
+    - targetlanguage

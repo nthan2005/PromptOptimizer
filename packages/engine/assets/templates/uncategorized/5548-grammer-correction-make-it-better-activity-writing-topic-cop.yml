@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5548
+# teaser: Correct the grammatical errors and make it better RevisionTime: 2023-06-19T05:57:11.784Z
+- id: 5548-grammer-correction-make-it-better-activity-writing-topic-cop
+  title: "Grammer Correction & Make It Better Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - grammer
+    - correction
+    - better
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Grammer Correction & Make It Better"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task will be to Correct the grammatical errors and make it better. All
+    the output will be in [TARGETLANGUAGE]. Correction of the text will be: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

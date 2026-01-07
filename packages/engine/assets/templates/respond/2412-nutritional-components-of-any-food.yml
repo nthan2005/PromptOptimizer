@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2412
+# teaser: Nutritional components of any food
+- id: 2412-nutritional-components-of-any-food
+  title: Nutritional Components Of Any Food
+  tags:
+    - respond
+    - nutritional
+    - components
+    - any
+    - food
+  family: Respond
+  body:
+    "Your task is to write all the nutritional components of a certain food. Write
+    it in bullet points format and add explanation on each bullet point in detail.
+    Each nutritional component should be in bold. All output shall be in [TARGETLANGUAGE].
+    The food is the following: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

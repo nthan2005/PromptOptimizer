@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 477
+# teaser: Understand your audience in relation to the issues and problems they face, based on the
+# Donald Miller book Story Brand. Lets find out what your customers problems might be [What is you
+# product or service, be specific. My product or service is .....]
+- id: 477-storybrand-2-the-hero-has-a-problem
+  title: "Storybrand: 2. The Hero has a problem"
+  tags:
+    - marketing
+    - storybrand
+    - hero
+    - has
+    - problem
+  family: marketing
+  body:
+    "Set the [TARGETLANGUAGE] for output. In relation to Story Brand Scripting
+    by Donald Miller if my product or service is, [PROMPT] In relation to our customers
+    or the hero:"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

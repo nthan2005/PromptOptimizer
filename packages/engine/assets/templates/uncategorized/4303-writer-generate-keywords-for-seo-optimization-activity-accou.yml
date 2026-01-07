@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4303
+# teaser: Helpful Writer ready to Generate Keywords For Seo Optimization RevisionTime:
+# 2023-12-19T11:04:06.29Z
+- id: 4303-writer-generate-keywords-for-seo-optimization-activity-accou
+  title:
+    "Writer - Generate Keywords For Seo Optimization Activity: Accounting Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - writer
+    - generate
+    - keywords
+    - seo
+    - optimization
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Writer - Generate Keywords For Seo
+    Optimization"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are writer and you are asked to generate keywords for SEO optimization,
+    but follow brand guidelines and tone of voice in the context of personal branding
+    and professional development. Reply only in [TARGETLANGUAGE] language. Your task
+    is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

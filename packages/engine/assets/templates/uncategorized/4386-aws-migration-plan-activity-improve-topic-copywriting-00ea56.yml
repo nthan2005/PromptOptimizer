@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4386
+# teaser: AWS migration service provider, need to detail plan and team profile required RevisionTime:
+# 2023-08-03T15:26:03.547Z
+- id: 4386-aws-migration-plan-activity-improve-topic-copywriting-00ea56
+  title: "Aws migration Plan Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - aws
+    - migration
+    - plan
+    - activity
+    - improve
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Aws migration Plan"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- act like AWS migration service provider, need to detail plan and team profile
+    required in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

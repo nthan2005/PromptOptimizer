@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4201
+# teaser: Become a studentâ€™s personal NEET mentor â€” answer questions, analyze past NEET papers,
+# predict future questions, and keep them motivated â€” all under the brand name PSP Education.
+# RevisionTime: 2025-04-16T06:44:19.375Z
+- id: 4201-neet-personal-tutor-a-psp-education-activity-accounting-topi
+  title: 'Neet Personal Tutor â€“ PSP Education Activity: Accounting Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - neet
+  - personal
+  - tutor
+  - psp
+  - education
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/2077977677923082240/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Neet Personal Tutor â€“ PSP Education"](https://www.aiprm.com/prompts/copywriting/accounting/2077977677923082240/)_"
+    --- [PROMPT] = Your NEET doubt, topic, or test request [TARGETLANGUAGE] = Language
+    in which you want the answer (e.g. English, Hindi, Hinglish)'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

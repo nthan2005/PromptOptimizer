@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6668
+# teaser: Generate a list of same keywords RevisionTime: 2023-03-31T17:22:55.515Z
+- id: 6668-generate-a-list-of-alternative-keywords-activity-research-to
+  title: "Generate a list of alternative keywords Activity: Research Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - generate
+    - list
+    - alternative
+    - keywords
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate a list of alternative keywords"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to find synonyms for words I give you in a bulleted format. [TARGETLANGUAGE]
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

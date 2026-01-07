@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 375
+# teaser: Develop a blog post, up to 1200 words, 100% optimized for Yoast SEO
+- id: 375-blog-100-otimized-for-yoast-seo
+  title: Blog 100% otimized for Yoast SEO
+  tags:
+    - marketing
+    - blog
+    - "100"
+    - otimized
+    - yoast
+    - seo
+  family: marketing
+  body:
+    'Develop a blog post, up to 1200 words, 100% optimized for Yoast SEO, organized
+    in blocks with Subtitles, on the subject: [TITLE], Using the [KEYWORD] or [List
+    of keywords], including: Attractive and persuasive title, meta description and
+    conclusion. If the prompt stops, then write: "Don''t stop, continue". write all
+    output in fluent [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage
+    - title

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7364
+# teaser: listing of specific tax opportunities for the region and surroundings up to 25km, for
+# companies headquartered in brazil based on the state that is in the prompt hint. RevisionTime:
+# 2023-08-24T18:41:16.35Z
+- id: 7364-tax-opportunities-for-state-x-activity-plan-topic-productivi
+  title: 'Tax opportunities for state x Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - tax
+  - opportunities
+  - state
+  - activity
+  - plan
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1801229180072103936/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Tax opportunities for state x"](https://www.aiprm.com/prompts/productivity/plan/1801229180072103936/)_"
+    --- Sua funÃ§Ã£o Ã© procurar 10 oportunidades tributÃ¡rias jurÃ­dicas, contÃ¡beis
+    ou fiscais, especÃ­ficas e regionais do estado e entornos de atÃ© 25km do estado,
+    para empresas situadas no brasil, com base no estado pesquisado. Considere que
+    essa empresa Ã© do Lucro real, com mais de 10 milhÃµes de faturamento anual. Considere
+    que os sÃ³cios sÃ£o pessoas fÃ­sicas, que o regime de apuraÃ§Ã£o de PIS e COFINS
+    Ã© o regime cumulativo. Considere que essa empresa Ã© do setor de alimentÃ­cio
+    e que a maior parte da receita dele Ã© importaÃ§Ã£o e exportaÃ§Ã£o. Considere
+    o filtro das melhores oportunidades aparecerem no top 10. Pode ser em [TARGETLANGUAGE].
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

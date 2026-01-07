@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8084
+# teaser: create a unique meta title that's stands out from the crowd and rank on google. If you like
+# the prompt please do upvote it motives me to create more prompts RevisionTime: 2023-03-11T08:27:47Z
+- id: 8084-generate-meta-title-for-your-website-activity-marketing-topi
+  title: 'Generate Meta Title For Your Website Activity: marketing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - generate
+  - meta
+  - title
+  - website
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/1792836140261433344/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Generate Meta Title For Your Website"](https://www.aiprm.com/prompts/seo/marketing/1792836140261433344/)_"
+    --- create a meaningful meta title that stands out from the crowd and rank on
+    google based on the keywords that is given to you title must be under 60 characters
+    and give 4 different variations for the meta title and also pick the best fit
+    meta title. [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 541
+# teaser: Create 5 Amazon Bullet Points
+- id: 541-amazon-copywriting-amazon-bullet-points
+  title: Amazon Copywriting | Amazon Bullet Points
+  tags:
+    - product-description
+    - amazon
+    - copywriting
+    - bullet
+    - points
+  family: Product Description
+  body:
+    "I want you to act as an expert amazon copywriter with 20 years of SEO experience
+    and speaks and writes fluent [TARGETLANGUAGE]. Create 5 bullet points to be a
+    good fit for an amazon listing product. Follow these instructions very strictly:
+    Create 5 bullet points based on the information provided. The new bullet points
+    need to contain the original information. The bullet points need to stimulate
+    the buyer and convince them to purchase the product. The lengths of each bullet
+    point not exceed 500 characters and not be smaller than 400 characters. Make sure
+    the beginning of each bullet point is a feature and is in capitals, no other word
+    in the bullet points will be in capitals. The results must be 100% human writing
+    style and fix grammar errors like Grammarly.com Please make sure you respect this
+    information very strictly. You will take your information from here: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 285
+# teaser: Improve Content Readability Score
+- id: 285-readability-score-booster
+  title: Readability Score Booster
+  tags:
+    - improve
+    - readability
+    - score
+    - booster
+  family: Improve
+  body:
+    Analyze this text and rewrite to improve its readability according to Hemingway
+    Editor methodologies? Simplify to an 8th grade level in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 771
+# teaser: How that fuckin content go viral Just paste video transcript below
+- id: 771-learn-how-content-went-viral
+  title: Learn How Content Went Viral
+  tags:
+    - summarize
+    - learn
+    - content
+    - went
+    - viral
+  family: Summarize
+  body:
+    Try to analyse content curation, research, and writing methodology in below
+    script [PROMPT] Generate output in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

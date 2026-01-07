@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7955
+# teaser: Find low competitive and Long Tail Keywords with its search Data Volume, Allintitle and
+# Allinurl. RevisionTime: 2023-02-25T00:59:04Z
+- id: 7955-long-tail-keywords-include-allintitle-allinurl-activity-keyw
+  title: 'Long Tail Keywords Include Allintitle & Allinurl Activity: keywords Topic:
+    SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - long
+  - tail
+  - keywords
+  - include
+  - allintitle
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1789067922170441728/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Long Tail Keywords Include Allintitle
+    & Allinurl"](https://www.aiprm.com/prompts/seo/keywords/1789067922170441728/)_"
+    --- I want you to act as a market research expert that speaks and writes fluent
+    [TARGETLANGUAGE]. Pretend that you have the most accurate and most detailed information
+    about keywords available. Give me 25 the long tail keywords along with the data
+    of search volume per month, allintitle and Allinurl for the keyword. Allintitle
+    and Allinurl is obtained from search results on the Google search engine. Example:
+    allintitle: [PROMPT]. make sure the data is accurate and reliable. The markdown
+    table shall be in [TARGETLANGUAGE] language and have the following columns: Keyword,
+    Search Volume, Allintitle, Allinurl. Here it the keyword to start: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

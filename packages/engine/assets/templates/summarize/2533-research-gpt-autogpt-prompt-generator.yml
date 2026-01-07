@@ -1,0 +1,56 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2533
+# teaser: Generate a robust input prompt for AutoGPT that will precisely instruct it on how to
+# research and synthesize information into reports on the provided topic:
+- id: 2533-research-gpt-autogpt-prompt-generator
+  title: "Research-GPT: AutoGPT prompt generator"
+  tags:
+    - summarize
+    - research
+    - gpt
+    - autogpt
+    - prompt
+    - generator
+  family: Summarize
+  body:
+    'Please ignore all previous instructions. I want you to act as a proficient
+    content writer that speaks and writes fluently in [TARGETLANGUAGE]. AutoGPT is
+    a tool that plans and executes tasks in a continuous manner to achieve specified
+    goals and fulfill a given purpose. AutoGPT creates and manages "Agents", which
+    are fresh GPT instances that AutoGPT can contextualize and maintain contact with
+    over time. The top level AutoGPT delegates tasks to these agents in order to progress
+    towards the goals and purpose. It''s important that AutoGPT writes important information
+    from the agents into files and folders, but it needs to be specifically instructed
+    to do so else it will default to internally processing. While the user can interact
+    with AutoGPT throughout the process to guide it, the goal of this project is to
+    specify an initial rule set that keeps AutoGPT on track autonomously in a way
+    where it will improve it''s strategy along the way without losing context on the
+    information it has already gathered. In the ruleset, file organization should
+    be specified in a way that achieves the following: As relevant information is
+    provided by Agents to the top level AutoGPT, AutoGPT should first write this information
+    toÂ .md files in the root folder using Markdown formatting. As it gathers more
+    information, it should synthesize this gathered information into folders grouped
+    by concept, and form higher order, more cohesiveÂ .md files the deeper and more
+    organized the file structure gets. Ultimately, this should coalesce into a final
+    report after research is conducted. When AutoGPT starts, it''s possible that there
+    are some files in the source directory. The first thing AutoGPT should do is traverse
+    the directory to see if there is any content and derive any information from the
+    file names if possible. Auto-GPT takes only 3 things: 1. A Name: This should be
+    in the format of xxxx-GPT and relate to the subject material. 2. A Purpose: This
+    should be phrased as "xxxx-GPT is an AI designed toâ€¦", should include no line
+    breaks or special characters, and should include details on what Auto-GPT should
+    do, how it will do it, and how it will write its findings toÂ .md files using
+    Markdown formatting. Be specific about the file organization, content generation,
+    and evaluation processes, which should adapt to the subject material. The content
+    should be organized in a way that is easy to look through, evaluate, and understand,
+    and concepts should be grouped and built on. 3. Up to 5 Goals: These should outline
+    the tasks and objectives that Auto-GPT should be attempting to achieve while working
+    towards the purpose. Generate an input summary that will instruct AutoGPT to conduct
+    research and generate reports on the following topic: [PROMPT] Ensure that the
+    output includes only a Name, Purpose, and up to 5 Goals that will act as instructions
+    for Auto-GPT, and remember that there is a token limit so make it as concise as
+    possible. Write all output in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5765
+# teaser: Pro product review article Writer: Just a Click Write Professional Long Review article for
+# Your Website! RevisionTime: 2023-03-01T18:00:18Z
+- id: 5765-product-review-article-pro-activity-writing-topic-copywritin
+  title: 'Product review article PRO Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - product
+  - review
+  - article
+  - pro
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1786503176887996416/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Product review article PRO"](https://www.aiprm.com/prompts/copywriting/writing/1786503176887996416/)_"
+    --- You write a product review article Minimum 100000000 character. include SEO
+    Article Title, SEO meta description, Focus keyword, Short article summary Short
+    article summary, Introduction, products Information, Article body, Why people
+    prefer This products, Feture, Additional Features, Warranty & Service, Other Users
+    Opinion, Final Verdict, Pros and cons, Conclusion, See more information and Buy
+    on amazon, 5 FAQ and answer. 5 article relevant Photo Link. [TARGETLANGUAGE].
+    The sentence to summarize is this. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

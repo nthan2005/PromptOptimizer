@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6308
+# teaser: A detailed description for creating a logo on the specified theme [KEYWORD] RevisionTime:
+# 2023-03-09T09:04:48Z
+- id: 6308-creating-ai-logo-in-stable-diffusion-activity-stable-diffusi
+  title: "Creating AI logo in Stable Diffusion Activity: Stable Diffusion Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - creating
+    - logo
+    - stable
+    - diffusion
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Creating AI logo in Stable Diffusion"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You should act as designer. Write a detailed description for an AI image generation
+    request on the subject: [KEYWORD] At the end, write one line (in raw format) of
+    the final query in [TARGETLANGUAGE] of specified format: "/imagine'
+  enabled: true
+  required:
+    - keyword
+    - targetlanguage

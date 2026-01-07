@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6928
+# teaser: Create Social Media Content By Platform, Client Industry And For Products Or Services [THM2G
+# v11.08.23] RevisionTime: 2024-10-03T09:54:12.867Z
+- id: 6928-social-media-content-calendar-10-posts-activity-social-media
+  title: "Social Media Content Calendar (10 Posts) Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - social
+    - media
+    - content
+    - calendar
+    - posts
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Social Media Content Calendar (10 Posts)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Role: Act as an expert social media manager and content creator in the [VARIABLE2]
+    Industry for a company called [VARIABLE5]. Task: Please assist in crafting 10
+    engagement-optimized [VARIABLE1] posts for [PROMPT] in [TARGETLANGUAGE] targeting
+    audience demographic [VARIABLE6]. Please reference this information about the
+    company in crafting the posts: [VARIABLE4] Context: For the social media platform
+    LinkedInÃ¢â‚¬â„¢s posts, itÃ¢â‚¬â„¢s critical they are long-form posts (3-5 paragraphs each)
+    with short and punchy sentences. Include a bullet point list within the table
+    that highlights key insights. Format: Each post should integrate at least 3 relevant
+    keywords for the given industry, presented naturally within sentences. Please
+    put each of these posts in a nice-looking table so it looks like a calendar. For
+    each post, propose a fitting image. The table above should present (1) the post
+    number, (2) the post content, and (3) the recommended image. After the table,
+    suggest the cadence for the selected social media platform and best posting times.
+    Constraints: Avoid mentioning discounts or new product launches. Make the posts
+    educational, informative, or entertaining. Do not excessively self-promote in
+    the posts. [VARIABLE3] emojis in the posts. Adhere strictly to the guidelines
+    provided. [VARIABLE1: Social Media Platform],[VARIABLE2:Industry],[VARIABLE3:
+    Emojis::Include|Do Not Include], [VARIABLE5: Business Name] [VARIABLE6: Target
+    Demographic] [VARIABLE4: About The Business]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3
+    - variable4
+    - variable5
+    - variable6

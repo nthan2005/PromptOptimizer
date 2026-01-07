@@ -1,0 +1,65 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1438
+# teaser: Write SEO content of the description of a short social media video and posts
+- id: 1438-smart-short-copy-seo-posts-videos-reels
+  title: Smart short Copy SEO posts/videos/reels
+  tags:
+  - writing
+  - smart
+  - short
+  - copy
+  - seo
+  - posts
+  family: writing
+  body: '[PROMPT] Por favor asegÃƒÂºrate de cumplir con todas las indicaciones del presente
+    prompt , asegurate de leer cuidadosamente las instrucciones y tomar nota de cada
+    una de ellas. Eres un SEO y Profesional del copywrting y tendrÃƒÂ¡s en cuenta las
+    palabras claves relacionadas al tÃƒÂ­tulo del articulo segÃƒÂºn la intenciÃƒÂ³n de bÃƒÂºsqueda,
+    no te mencionaras, no mencionarÃƒÂ¡s al artÃƒÂ­culo, escribirÃƒÂ¡s como si la persona
+    que hizo el posteo lo estarÃƒÂ­a haciendo, no copiaras contenido de otras webs o
+    redes sociales, no mencionaras la frase conviÃƒÂ©rtete en tu propio jefe y sus derivadas,
+    no utilizarÃƒÂ¡s frases vendiendo u ofreciendo productos y servicios. Eres amable,
+    servicial, y accesible. TambiÃƒÂ©n revisa el texto varias veces antes de enviarlo
+    para asegurarte de que cumple con todas las expectativas. Por favor escribe contenido
+    de entre 80 y 150 palabras en [TARGETLANGUAGE] para la descripciÃƒÂ³n de una publicaciÃƒÂ³n
+    en un perfil de red social, de alta calidad que incluyan palabras claves segÃƒÂºn
+    intenciÃƒÂ³n de bÃƒÂºsqueda transaccional e informativa. No te presentes ni saludes,
+    ve directamente al grano en la primera linea con un copy persuasivo, donde debes
+    respetar este orden en las intenciones del copy que dividiremos en 6 partes: Primera
+    parte es la primera linea yendo al grano con alguna pregunta tocando un punto
+    de dolor o necesidad segÃƒÂºn el titulo del articulo. Parte 2 debes generar la curiosidad
+    de como resolver lo descrito en la primera parte. Parte 3 debes generar conciencia
+    del dolor o problema seguido de la exposiciÃƒÂ³n de la soluciÃƒÂ³n segÃƒÂºn lo que consideres
+    mejor. Parte 4 debes expresar que tienes las respuestas o soluciones al problema
+    planteado respecto al titulo del articulo, al escribir lo harÃƒÂ¡s como el propietario,
+    dueÃƒÂ±o, autor, diseÃƒÂ±ador o productor de las respuestas o soluciones al problema
+    planteado respecto al titulo del articulo, Parte 5 luego de incorporar las 4 partes
+    anteriores en el artÃƒÂ­culo harÃƒÂ¡s un llamado a la acciÃƒÂ³n de seguir, compartir,
+    escribe en los comentarios en tus preguntas. Parte 6 En el final de todo el artÃƒÂ­culo,
+    en las ultimas lÃƒÂ­neas escribirÃƒÂ¡s 20 hashtags relacionados al tÃƒÂ­tulo y a las
+    intenciones de bÃƒÂºsquedas de Instagram. En el articulo debes incluir estas intenciones
+    de mensajes escribiendo sus equivalentes por favor debes incluir las siguientes
+    intenciones pero no escribas de manera literal los siguientes 6 puntos debes ser
+    creativo y hacer caso a lo solicita a las siguientes 6 indicaciones: 1 Hacer que
+    se note el gran valor aportado; 2 hÃƒÂ¡blale del problema mas urgente en referencia
+    al titulo del articulo; 3 ExpÃƒÂ³n una promesa, propuesta o soluciÃƒÂ³n ÃƒÂºnica; 4
+    ofrece una prueba incuestionable, superior o convincente; 5 ten una propuesta
+    como soluciÃƒÂ³n irrechazable, imperdible, inimaginable o espectacular; 6 ofrece
+    una prueba incuestionable, fantastica, super satisfactoria o inigualable. Debes
+    saber que el artÃƒÂ­culo estÃƒÂ¡ dirigido a personas que necesitan crecer en la vida,
+    en la sociedad, en el amor, en lo profesional, en las finanzas y la prosperidad.
+    TambiÃƒÂ©n debes saber que el contenido del articulo debe dar la esperanza de la
+    rapidez, velocidad, facilidad y poco esfuerzo. El texto se escribirÃƒÂ¡ en primera
+    persona como "nosotras" o "nosotros" o "nuestras" o "nuestros" segÃƒÂºn corresponda
+    a la mejor opciÃƒÂ³n en cuanto a la recepciÃƒÂ³n del contenido si el tema tiene mayor
+    aceptaciÃƒÂ³n si la redacciÃƒÂ³n la escriben mujeres u hombres, explicando de que
+    se trata tÃƒÂ­tulo., en cuanto a soluciones hablaras siempre de las bondades, beneficios,
+    capacidad, atributos, profesionalidad y valor de los que consideres que sea una
+    soluciÃƒÂ³n que dependa de los autores del artÃƒÂ­culo, debes ser original. En el
+    artÃƒÂ­culo debes agregar valor e informaciÃƒÂ³n ÃƒÂºtiles a los usuarios. Te dirigirÃƒÂ¡s
+    al pÃƒÂºblico en general. Respeta y realiza el texto considerando absolutamente
+    todas las indicaciones mencionadas en el presente prompt'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

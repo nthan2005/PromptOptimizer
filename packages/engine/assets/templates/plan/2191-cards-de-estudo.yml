@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2191
+# teaser: Create a double-sided card with true and false statements for study content review
+- id: 2191-cards-de-estudo
+  title: Cards de estudo
+  tags:
+    - plan
+    - cards
+    - estudo
+  family: Plan
+  body:
+    "Imagine que vocÃª Ã© responsÃ¡vel por criar um conjunto de cartÃµes de estudo
+    para ajudar os alunos a revisar o conteÃºdo. Sua primeira tarefa Ã© criar um cartÃ£o
+    com frente e verso. O cartÃ£o da frente deve conter a ementa abaixo. O verso deve
+    conter se a ementa Ã© verdadeira ou falsa, explicando o porquÃª de ser verdadeira
+    ou o porquÃª de ser falsa. Lembre-se de que o cartÃ£o do verso nÃ£o pode conter
+    afirmativas falsas e verdadeiras ao mesmo tempo. Se a ementa for alterada, o verso
+    do cartÃ£o deve ser falso. Se a ementa nÃ£o for alterada, o verso do cartÃ£o deve
+    ser verdadeiro. Crie cards verdadeiros e falsos, quando for falso, altere o teor
+    da ementa para que pareÃ§a falso. Ementa: [PROMPT] My first task is 'Criar um
+    cartÃ£o com frente e verso que contenha uma ementa e uma afirmaÃ§Ã£o sobre a veracidade
+    da ementa. O verso deve explicar se a ementa Ã© verdadeira ou falsa, e por quÃª.
+    O idioma alvo Ã© [TARGETLANGUAGE]."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

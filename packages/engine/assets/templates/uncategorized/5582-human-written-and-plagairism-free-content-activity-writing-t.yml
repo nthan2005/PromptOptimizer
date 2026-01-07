@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5582
+# teaser: Human Written, Free Plagiarism RevisionTime: 2023-09-19T16:00:10.205Z
+- id: 5582-human-written-and-plagairism-free-content-activity-writing-t
+  title: "Human written and Plagairism Free content Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - human
+    - written
+    - plagairism
+    - free
+    - content
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Human written and Plagairism Free content
+    "](https://github.com/nthan2005/PromptOptimizer)_" ---
+    Write a Human Written, Plagiarism Free, Faqs Articles on any topics. Your text
+    shall be in [TARGETLANGUAGE] Your task is to create a human hand paragraphs. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

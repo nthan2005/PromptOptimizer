@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3120
+# teaser: Create a SEO Based content using above details.
+- id: 3120-content-for-business
+  title: Content for Business
+  tags:
+    - writing
+    - content
+    - business
+  family: writing
+  body:
+    Your task is to provide content using business name, service name and area
+    name. You have to use everytime business name and area name in the content using
+    above details of the data provided by me. Write the content in English[TARGETLANGUAGE]
+    OR [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

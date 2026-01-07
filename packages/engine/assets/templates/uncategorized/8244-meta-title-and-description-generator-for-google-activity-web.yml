@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8244
+# teaser: Create Google optimized meta title and description from a url, keywords and relevant content
+# RevisionTime: 2023-07-30T15:02:40.656Z
+- id: 8244-meta-title-and-description-generator-for-google-activity-web
+  title:
+    "Meta title and description generator for Google Activity: Web Development
+    Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - meta
+    - title
+    - description
+    - generator
+    - google
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Meta title and description generator
+    for Google"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- As a Google SEO specialist, your task is to write a compelling and SEO-optimized
+    meta title and description for a given url that includes given keywords and some
+    relevant content from the website. Your meta title and description should be written
+    in a way that appeals to both Google''s search algorithm and potential visitors,
+    providing an accurate and enticing description of what the page is about. Consider
+    the target audience, the purpose of the page, and the keywords you are targeting
+    when crafting your title and description. [PROMPT] My first task is to write an
+    SEO-optimized meta title and description for a given [url] using provided [keywords]
+    and [content], with a focus on optimizing for Google. The target language is [TARGETLANGUAGE].
+    Only provide the optimized meta title and description keeping google''s guidelines
+    in mind and match search intent, one meta title and description for each keyword
+    entered.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

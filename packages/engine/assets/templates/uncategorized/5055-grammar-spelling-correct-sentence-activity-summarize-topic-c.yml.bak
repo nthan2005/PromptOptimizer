@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5055
+# teaser: Write the text with grammar and spelling check RevisionTime: 2023-05-30T07:05:03.787Z
+- id: 5055-grammar-spelling-correct-sentence-activity-summarize-topic-c
+  title: 'Grammar & Spelling Correct Sentence Activity: Summarize Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - grammar
+  - spelling
+  - correct
+  - sentence
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1827761925971509248/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Grammar & Spelling Correct Sentence"](https://www.aiprm.com/prompts/copywriting/summarize/1827761925971509248/)_"
+    --- Your task is to check grammar and spelling, and fully proofread and edit this
+    text : [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

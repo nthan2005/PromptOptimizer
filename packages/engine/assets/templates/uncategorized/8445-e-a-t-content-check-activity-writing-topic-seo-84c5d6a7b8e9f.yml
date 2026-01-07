@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8445
+# teaser: Check if your content meets the E-A-T criteria. RevisionTime: 2023-06-28T08:51:37.457Z
+- id: 8445-e-a-t-content-check-activity-writing-topic-seo-84c5d6a7b8e9f
+  title: "E-A-T content check Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - content
+    - check
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "E-A-T content check "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to only response in [TARGETLANGUAGE]. I want you to act as a SEO
+    Expert that speaks and writes fluent [TARGETLANGUAGE]. You are an SEO expert and
+    check for the following keyword, criteria based on the E-A-T method. Is the website
+    [PROMPT] ssl encrypted? Are there any ratings on the [PROMPT] website? Are there
+    [PROMPT] seals of approval on the website? Are there social references on the
+    website [PROMPT] ?'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

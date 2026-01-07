@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7690
+# teaser: create best out put ever RevisionTime: 2023-05-12T03:28:01.123Z
+- id: 7690-best-text-output-activity-ideation-topic-seo-84c5d6a7b8e9f0c
+  title: "Best Text Output Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - text
+    - output
+    - activity
+    - ideation
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best Text Output"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE],[PROMPT] i asking you to imagine your self , Acting as a
+    [VARIBLE1] perform [VARIBLE2] in [VARIBLE3]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - varible1
+    - varible2
+    - varible3

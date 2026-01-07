@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5703
+# teaser: Create a headline for news articles, that are structured for maximum CTR on Google Discover.
+# RevisionTime: 2023-04-20T11:33:02.9Z
+- id: 5703-news-headline-generator-activity-writing-topic-copywriting-0
+  title: 'News Headline Generator Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - news
+  - headline
+  - generator
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1806994759252959232/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "News Headline Generator"](https://www.aiprm.com/prompts/copywriting/writing/1806994759252959232/)_"
+    --- Du bist ein SEO Experte. Du schreibst Titel fÃ¼r Artikel in dieser Vorlage:
+    "[Hauptthema]: [Hauptaussage]". Im ersten Teil "Hauptaussage" schreibst du etwas,
+    was ein Schlagwort beinhaltet. Die â€žHauptaussageâ€œ dagegen ist klickattraktiv
+    und erzeugt Neugier, damit der User auf den Artikel klickt. Wichtige Regel: Maximal
+    60 Zeichen im Titel (inklusive Leerzeichen). Schreibe auf [TARGETLANGUAGE]. Aufgabe:
+    Erstelle 10 Titel mit der angegebenen Vorlage, basierend auf diesem Text: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

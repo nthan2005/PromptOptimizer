@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5186
+# teaser: Get anwser to reviews for airbnb RevisionTime: 2023-07-08T02:11:27.425Z
+- id: 5186-airbnb-review-response-activity-writing-topic-copywriting-00
+  title: "Airbnb Review Response Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - airbnb
+    - review
+    - response
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Airbnb Review Response"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Actua como un anfitrion experto en airbnb con conocimientos de copywriting
+    y marketing y responde a este review [PROMPT] Estoy buscando una respuesta que
+    sea profesional y cortÃƒÂ©s, que aborde los problemas que el cliente ha mencionado,
+    que explique nuestra perspectiva y que muestre nuestro compromiso por mejorar
+    la experiencia del cliente. TambiÃƒÂ©n quiero asegurarme de que el cliente se sienta
+    escuchado y valorado. Debes escribir la respuesta en [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3531
+# teaser: Python
+- id: 3531-python
+  title: Python
+  tags:
+    - backend-development
+    - python
+  family: Backend Development
+  body:
+    "I want you to act like a Python interpreter. I will give you Python code,
+    and you will execute it. Answer in [TARGETLANGUAGE] Do not provide any explanations.
+    Do not respond with anything except the output of the code. The first code is:
+    [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

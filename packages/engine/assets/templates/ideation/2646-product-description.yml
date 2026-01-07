@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2646
+# teaser: create description for [Product]
+- id: 2646-product-description
+  title: Product description
+  tags:
+    - ideation
+    - product
+    - description
+  family: ideation
+  body:
+    'I want you to write a description for [PRODUCT] with a target audience of
+    [RECIPIENT] using [TARGETLANGUAGE] with some requirements as follows: Description
+    has 3 parts, in which: Part 1: act like someone who is looking for gifts for [RECIPIENT],
+    think about what [RECIPIENT] to expect from your gift, then mentions personalized
+    gifts, their spiritual and emotional implications for [RECIPIENT], this part must
+    have keyword "personalized gifts for [RECIPIENT] Part 2: From the perspective
+    of both sentiment and application, emphasize Why choose [PRODUCT] for [RECIPIENT],
+    and why choose PersonalChic, this part must have keyword "personalized birthday
+    gifts Part 3: imagine yourself as a writer, write a good and short quote about
+    [PRODUCT] and [RECIPIENT]. from which emphasize the choice [PRODUCT] for [RECIPIENT],
+    this part must have keyword "personalized gifts for everyone" The voice is fun,
+    funny but emotional Less than 150 words in length [PROMPT]'
+  enabled: true
+  required:
+    - product
+    - prompt
+    - recipient
+    - targetlanguage

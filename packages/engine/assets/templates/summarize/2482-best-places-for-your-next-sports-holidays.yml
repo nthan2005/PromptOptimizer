@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2482
+# teaser: Find the perfect place to go on a sports holiday anywhere in the world by simply specifying
+# the type of sport you want to do [Your favorite sport].
+- id: 2482-best-places-for-your-next-sports-holidays
+  title: Best places for your next sports holidays
+  tags:
+    - summarize
+    - places
+    - next
+    - sports
+    - holidays
+  family: Summarize
+  body:
+    Search for 10 holiday destinations where [PROMPT] can be practised very well.
+    Search only for places which are also known for [PROMPT] and which show an above-average
+    number of ratings for [PROMPT]. â€¨â€¨Now create a table with the following headers
+    and show all information in [TARGETLANGUAGE]; â€¨â€¨1. placeâ€¨2. country â€¨3.
+    provider â€¨4. ratingâ€¨5. cost/h â€¨6. price level â€¨â€¨Now fill in the following
+    information into this table under â€¨â€¨1. place, the place. Note that the 10
+    holiday destinations are displayed in descending order according to 4. rating,
+    â€¨2. country, the country abbreviated according to ISO 3166, â€¨3. provider,
+    the number of providers and possibilities to practice this sport, for example
+    for skiing, cross-country skiing or hiking kilometres would be relevant, while
+    for bungee jumping the highest jump height and number of jumps and for skittles
+    the number of lanes are relevant, find the best indicator for the sport to express
+    the number of possibilities, â€¨4. rating, insert the average rating of the sport.
+    Rating insert the average ratings given to this sport in this location, show this
+    rating on a scale from 1 to 100, where 100 is the best result, behind it put in
+    brackets the number of underlying ratings, â€¨5. cost/h, calculate the average
+    cost that has to be paid for this sport in this location and if no information
+    is found, try to estimate the cost per hour for this sport in this country and
+    show this converted to USD, â€¨6. price level, calculate the cost for this sport
+    and compare the sport in this location to the other providers in other locations
+    and rate this on a scale from 1 to 100, where 100 is extremely expensive.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

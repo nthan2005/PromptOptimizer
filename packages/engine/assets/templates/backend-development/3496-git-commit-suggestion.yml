@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3496
+# teaser: Git commit suggestion
+- id: 3496-git-commit-suggestion
+  title: Git commit suggestion
+  tags:
+    - backend-development
+    - git
+    - commit
+    - suggestion
+  family: Backend Development
+  body:
+    What follows "-------" is a git diff for a potential commit. Reply in [TARGETLANGUAGE]
+    with a markdown unordered list of 5 possible, different Git commit messages (a
+    Git commit message should be concise but also try to describe the important changes
+    in the commit), order the list by what you think would be the best commit message
+    first, and don't include any other text but the 5 messages in your response. -------
+    [PROMPT] -------
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

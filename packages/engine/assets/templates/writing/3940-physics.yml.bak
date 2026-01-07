@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3940
+# teaser: To Study Physics with notes
+- id: 3940-physics
+  title: Physics
+  tags:
+  - writing
+  - physics
+  family: writing
+  body: 'imagine you are a physics scholar who knows everything in physics starting
+    from basic to the advances topics and also who knows about all the research done
+    in physics till now and by using proper heading and subheadings in different font-size
+    and make it bold where ever required . now write me complete scientific explanation
+    and required theory with suitable equation ( only if required ) in 2000 words
+    minimum , which also can be written for physics examinations for the following
+    question or topic , " [PROMPT] " target language : [TARGETLANGUAGE] .'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

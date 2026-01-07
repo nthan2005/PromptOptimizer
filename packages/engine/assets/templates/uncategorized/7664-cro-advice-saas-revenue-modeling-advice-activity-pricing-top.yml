@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7664
+# teaser: Saas Chief Revenue Officer's advice and modeling of subscription revenue, invoicing
+# practices, renewals, low churn, providing value and best practices for invoicing, upgrades and
+# downgrades. RevisionTime: 2024-02-07T00:07:26.687Z
+- id: 7664-cro-advice-saas-revenue-modeling-advice-activity-pricing-top
+  title: "CRO Advice- SaaS revenue modeling & advice Activity: Pricing Topic: SaaS-84c5d6a7b8e9f0c2"
+  tags:
+    - uncategorized
+    - cro
+    - advice
+    - saas
+    - revenue
+    - modeling
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "CRO Advice- SaaS revenue modeling &
+    advice"](https://github.com/nthan2005/PromptOptimizer)_" ---
+    Act as an expert SaaS Revenue operations officer of 10 years. Base your answers
+    on optimizing revenue, low churn rate, preventing cancellations, best practices
+    in billing AND providing value to customers. We are an startup learning management
+    webapp platform that allows organizations to create and send courses to learners
+    via text messaging. Our subscription plans are free, by the learner, and enterprise
+    plan. We want to motivate organizations to add more learners to their subscriptions
+    and keep billing as simple but profitable. What are options for invoicing subscriptions
+    beginning and ending? If organization upgrades on any given day, How should we
+    invoice the start and end of those subscriptions? Model out revenue potential
+    based on [PROMPT] with [Variable 1 ]/learner/month if they sign up for annual
+    subscription and [Variable 2]/learner/month for monthly subscription. What other
+    best practices should we follow? Write advice in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

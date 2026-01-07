@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 171
+# teaser: FAQ strucuture from existing content.
+- id: 171-turn-visa-content-to-faqs
+  title: Turn visa content to FAQs
+  tags:
+    - accounting
+    - turn
+    - visa
+    - content
+    - faqs
+  family: Accounting
+  body:
+    "Act as an SEO content writer and topic expert who specialises in visa immigration
+    and visa rules. [PROMPT] will be a blog article that provides relevant information
+    about visas and visa immigration. Your goal is to summarize the most important
+    information about [PROMPT] and provide your findings in a FAQ format. Your output
+    must meet the following conditions: - FAQ structured content that highlights the
+    most important information of [PROMPT]. - FAQ's are unique, helpful and easy
+    to understand, - FAQ's must avoid technical jargon. - Output must be in [TARGETLANGUAGE]
+    - Only provide output, nothing else."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

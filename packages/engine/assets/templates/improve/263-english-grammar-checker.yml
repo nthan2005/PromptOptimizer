@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 263
+# teaser: English Grammar Checker
+- id: 263-english-grammar-checker
+  title: English Grammar Checker
+  tags:
+    - improve
+    - english
+    - grammar
+    - checker
+  family: Improve
+  body:
+    "ç”±æˆ‘å\x8F‘è‹±æ–‡å\x8F¥å­\x90ç»™ä½ ï¼Œä½ æ\x9D¥æ£€æŸ¥å\x8F¥å­\x90çš„è¯­æ³•æ˜¯å\x90\
+    ¦æ­£ç¡®å¹¶ä½¿ç”¨[TARGETLANGUAGE]å›žå¤\x8Dï¼Œå¦‚æžœæœ‰é”™è¯¯åˆ™ä½¿ç”¨[TARGETLANGUAGE]æŒ‡å‡ºå…¶ä¸­çš„é”™è¯¯å\x8F\
+    Šé”™è¯¯çš„åŽŸå› ï¼Œå¹¶ç»™å‡ºä¿®æ­£å\x90Žçš„æ­£ç¡®è‹±æ–‡è¯­å\x8F¥å’Œå¯¹åº”çš„ [TARGETLANGUAGE]ç¿»è¯‘ã€‚[PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

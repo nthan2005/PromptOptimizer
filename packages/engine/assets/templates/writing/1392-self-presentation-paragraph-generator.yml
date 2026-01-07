@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1392
+# teaser: This prompt will allow you to write a paragraph of a few lines introducing yourself. Enter
+# your information such as your name, your job, or your career, etc... It will then create a paragraph
+# for you from all this information.
+- id: 1392-self-presentation-paragraph-generator
+  title: Self-presentation paragraph generator.
+  tags:
+    - writing
+    - self
+    - presentation
+    - paragraph
+    - generator
+  family: writing
+  body:
+    "Write me a paragraph introducing a person, using the following information:
+    [PROMPT] I want the paragraph to be in the language: [TARGETLANGUAGE], and to
+    be attractive, concise, and simple. Do not hesitate to make it unique by formulating
+    some sentences differently."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1672
+# teaser: Generate prompt Midjourney for 3D Character Images
+- id: 1672-midjourney-3d-character-prompt
+  title: Midjourney 3D Character Prompt
+  tags:
+    - midjourney
+    - character
+    - prompt
+  family: Midjourney
+  body:
+    Tiny cute [TARGETLANGUAGE] toy, standing character, soft smooth lighting,
+    soft pastel colors, skottie young, 3d blender render, polycount, modular constructivism,
+    pop surrealism, physically based rendering, square imageâ€‹. Please i want you
+    to replace this [TARGETLANGUAGE] with this [PROMPT] in my sentence
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7279
+# teaser: I want to learn how to code in python RevisionTime: 2023-04-27T19:15:42.721Z
+- id: 7279-learn-any-thing-fast-activity-plan-topic-productivity-b5a49c
+  title: "Learn Any thing fast Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - learn
+    - any
+    - thing
+    - fast
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Learn Any thing fast "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to create a learning plan for a course or a skill using the pareto
+    principle, which identifies the 20% of the topic that will yield 80% of the desired
+    results. All output shall be in [TARGETLANGUAGE]. The Learning plan you have to
+    make [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

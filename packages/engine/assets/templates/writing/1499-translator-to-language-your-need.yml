@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1499
+# teaser: Insert the text you want and it will automatically translate to the language you have
+# selected
+- id: 1499-translator-to-language-your-need
+  title: Translator to language your need
+  tags:
+    - writing
+    - translator
+    - language
+    - need
+  family: writing
+  body:
+    Traduce el siguiente texto [TARGETLANGUAGE], no de instrucciones, simplemente
+    traduce en un lenguaje perfecto. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

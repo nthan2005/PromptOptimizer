@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3065
+# teaser: article creator
+- id: 3065-article-creator
+  title: article creator
+  tags:
+  - writing
+  - article
+  - creator
+  family: writing
+  body: 'Saya ingin membuat sebuah artikel untuk tujuan SEO dan peringkat di mesin
+    pencari Google. Tulislah sebuah artikel tentang "[PROMPT]" dalam bahasa [TARGETLANGUAGE]
+    yang santai. Artikel tersebut terdiri dari minimal 20 paragraf. Setiap paragraf
+    harus memiliki 300 kata. Sapa pembaca dengan ''Halo'' dengan nama audiens ''Sobat''
+    pada paragraf pertama bukan di dalam judul!. Tulislah artikel dalam format HTML
+    tanpa tag html dan body. Judul utama: <h1>. Sub judul: <h2>. Judul kesimpulan:
+    <h3>. Paragraf: <p>. dan di akhir artikel ucapkan sampai jumpa kembali di artikel
+    menarik lainnya.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6337
+# teaser: Create a keyword list from 1 [Product] and 1 [goal] ,referring Traditional Chinese search
+# results and presented in calendar and list RevisionTime: 2023-06-17T04:01:47.349Z
+- id: 6337-3-month-social-media-campaign-calendar-activity-marketing-to
+  title: "3-month social media campaign calendar Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - month
+    - social
+    - media
+    - campaign
+    - calendar
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"3-month social media campaign calendar\"\
+    ](https://github.com/nthan2005/PromptOptimizer)_\" ---\
+    \ [TARGETLANGUAGE] . [PROMPT] Ã§â€šÂºÃ¦Ë†â€˜Ã¥â‚¬â€˜Ã§Å¡â€žÃ§â€Â¢Ã¥â€œ\x81[Product]Ã¯Â¼Ë†Ã§â€ºÂ®Ã¦Â¨â„¢Ã¥Â®Â¢Ã§Â¾Â¤Ã¦ËœÂ¯Ã¥Å“â€¹Ã¤Â¸Â­Ã¨Ë†â€¡Ã¥Å“â€¹Ã¥Â°\x8F\
+    Ã¦â€¢â„¢Ã¥Â¸Â«Ã¯Â¼â€°Ã¥â€°ÂµÃ¥Â»ÂºÃ¤Â¸â‚¬Ã¥â‚¬â€¹Ã§â€šÂºÃ¦Å“Å¸ 3 Ã¥â‚¬â€¹Ã¦Å“Ë†Ã§Å¡â€žÃ§Â¤Â¾Ã¤ÂºÂ¤Ã¥Âªâ€™Ã©Â«â€Ã¦Â´Â»Ã¥â€¹â€¢Ã¦â€”Â¥Ã¦â€ºâ€ Ã¯Â¼Å’Ã§â€ºÂ®Ã¦Â¨â„¢Ã¦ËœÂ¯ [goal]\
+    \ Ã¤Â¸Â¦Ã¦\x8F\x90Ã¥\x8FÅ Ã¦Ë†â€˜Ã¥â‚¬â€˜Ã¦â€¡â€°Ã¨Â©Â²Ã©â€”Å“Ã¦Â³Â¨Ã§Å¡â€žÃ¦Â¸ Ã©\x81â€œÃ£â‚¬â€š automatically by PromptOptimizer.\
+    \ Answer in Traditional Chinese"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

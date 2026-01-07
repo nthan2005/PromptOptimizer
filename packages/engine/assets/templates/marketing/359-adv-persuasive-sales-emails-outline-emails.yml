@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 359
+# teaser: Create an email marketing campaign outline for a specific product in a specific niche that
+# solves a specific problem. **To Use This
+- id: 359-adv-persuasive-sales-emails-outline-emails
+  title: "Adv. Persuasive Sales Emails: Outline + Emails"
+  tags:
+    - marketing
+    - adv
+    - persuasive
+    - sales
+    - emails
+    - outline
+  family: marketing
+  body:
+    '** Insert the Title of the product, the Niche that your product fills, the
+    main Problem that your product solves, the Number of Emails you want in the series,
+    and the Call To Action (what you want them to do - "sign up for our webinar",
+    "check out the product page", "buy now", "buy now before time runs out", "learn
+    more", etc)'
+  enabled: true
+  required: []

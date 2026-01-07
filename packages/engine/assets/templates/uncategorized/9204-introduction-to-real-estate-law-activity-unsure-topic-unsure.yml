@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9204
+# teaser: Consult Real Estate Law and understand its importance RevisionTime: 2023-07-09T23:44:56.961Z
+- id: 9204-introduction-to-real-estate-law-activity-unsure-topic-unsure
+  title: "Introduction to Real Estate Law Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - introduction
+    - real
+    - estate
+    - law
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Introduction to Real Estate Law"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] Eu quero que vocÃƒÂª explique
+    o direito imobiliÃƒÂ¡rio e sua importÃƒÂ¢ncia. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

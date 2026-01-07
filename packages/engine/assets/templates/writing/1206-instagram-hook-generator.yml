@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1206
+# teaser: Create a captivating Instagram hook that will grab peoples attention and bring engagement
+- id: 1206-instagram-hook-generator
+  title: Instagram hook generator
+  tags:
+    - writing
+    - instagram
+    - hook
+    - generator
+  family: writing
+  body:
+    I want you to identify the problem or pain point that this topic addresses,
+    and then use that to create a catchy and curiosity-inducing hook for topic. the
+    hook should be in 20 words or maximum of 130 characters. All output shall be in
+    [TARGETLANGUAGE]. The topic to use is [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

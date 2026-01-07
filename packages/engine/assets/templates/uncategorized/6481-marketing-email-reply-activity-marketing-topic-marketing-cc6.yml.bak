@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6481
+# teaser: Write a reply to a marketing or support email RevisionTime: 2023-07-26T14:14:32.009Z
+- id: 6481-marketing-email-reply-activity-marketing-topic-marketing-cc6
+  title: 'Marketing Email Reply Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - marketing
+  - email
+  - reply
+  - activity
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1849785730646937600/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Marketing Email Reply"](https://www.aiprm.com/prompts/marketing/marketing/1849785730646937600/)_"
+    --- Act as an email marketing specialist. Write a short, concise email reply back
+    to the following marketing email reply in [TARGETLANGUAGE]: â€¨â€¨[PROMPT] Make
+    sure that reply includes:â€¨â€¨ *Â The senderâ€™s name with a pleasant professional
+    greeting. * Restating the senderâ€™s comment or complaint to clarify understanding.
+    * A sympathetic response that either shows caring and understanding or offers
+    a solution. * A sign off asking if the sender is satisfied with the response.
+    * Call to action of what to do next. * Placeholder for the Recipientâ€™s name.
+    Do not claim to be an email marketing specialist. Act as if you work at the company.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

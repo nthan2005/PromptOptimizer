@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9379
+# teaser: I calculate's math problem's for you, il even provide a calculation for the problem
+# RevisionTime: 2023-02-19T15:35:19Z
+- id: 9379-math-problemsolver-activity-writing-topic-unsure-f69c57b4243
+  title: "Math problemsolver Activity: writing Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - math
+    - problemsolver
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Math problemsolver"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- calculate these math problems for me. first write down what you did to calculate
+    the answer to the math problem in short. then write down the answer of the math
+    problem. some important things:" 5/4 == fracture 4^2 == times square ". write
+    in this format:" - math problem - simplified: "(how you calculated the answer)".
+    - answer: "(answer of the math problem)". write in this langue: "[TARGETLANGUAGE]".
+    solve these math problem''s: " [PROMPT] " "'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

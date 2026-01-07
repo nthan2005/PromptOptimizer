@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 367
+# teaser: Create an incredible website with this tailored StoryBrand Framework. No workshops
+# necessary.
+- id: 367-automatic-storybrand-website-generator
+  title: Automatic StoryBrand Website Generator
+  tags:
+    - marketing
+    - automatic
+    - storybrand
+    - website
+    - generator
+  family: marketing
+  body:
+    "To help us create a website structure and copy framework based on the StoryBrand
+    framework, please respond to each prompt below in fluent [TARGETLANGUAGE]: - [PROMPT]
+    With this information, we will generate a website structure, copy framework, and
+    a table of meta descriptions + Meta titles aligned with the StoryBrand principles.
+    Please explain your rationale for each page at the end in terms of how your response
+    relates to StoryBrand principles."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

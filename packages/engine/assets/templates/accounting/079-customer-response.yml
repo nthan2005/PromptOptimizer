@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 79
+# teaser: Responds to any message for you in a correct and professional manner.
+- id: 079-customer-response
+  title: Customer Response
+  tags:
+    - accounting
+    - customer
+    - response
+  family: Accounting
+  body:
+    "Respond to this [PROMPT] professionally in a concise manner and without any
+    grammatical errors. All results will be in [TARGETLANGUAGE]:"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

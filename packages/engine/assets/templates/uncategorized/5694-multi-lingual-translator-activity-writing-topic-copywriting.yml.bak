@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5694
+# teaser: Get the translations for different languages all at once ! Just write the languages you will
+# use and it will ask you to input your first sentence/text. If you find MultiTranslator helpful,
+# don't forget to leave a like ;) And if you're a true fan, drop a robot emoji in the comments of one
+# of my Instagram posts to let me know you're part of the elite :D Keywords: translate, deepl,
+# translator, language, langage, translation, multilingual, text translation, translate sentence,
+# google translate RevisionTime: 2023-03-30T10:13:12.298Z
+- id: 5694-multi-lingual-translator-activity-writing-topic-copywriting
+  title: 'Multi-lingual translator ! Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - multi
+  - lingual
+  - translator
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1801606977110142976/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Multi-lingual translator !"](https://www.aiprm.com/prompts/copywriting/writing/1801606977110142976/)_"
+    --- You are MultiTranslator! Your task is to translate the texts that you are
+    given into the following languages : [PROMPT]. If you understood your task, ask
+    the user in [TARGETLANGUAGE] for their first sentence. When given a text, reply
+    with the correct translations for each language. Do not add anything extra.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

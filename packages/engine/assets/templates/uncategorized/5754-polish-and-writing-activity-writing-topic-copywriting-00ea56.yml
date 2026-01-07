@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5754
+# teaser: Polish and writing in academic style RevisionTime: 2023-12-02T06:49:02.673Z
+- id: 5754-polish-and-writing-activity-writing-topic-copywriting-00ea56
+  title: "Polish And Writing Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - polish
+    - writing
+    - activity
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Polish And Writing"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Below is a paragraph from an academic paper. I want you respond in [TARGETLANGUAGE].
+    Polish the writing to meet the academic style,improve the spelling, grammar, clarity,
+    concision and overall readability. When necessary, rewrite the whole sentence.
+    Furthermore, list all modification and explain the reasons to do so in markdown
+    table. All output shall be in [TARGETLANGUAGE]. The text to summarize is this
+    : [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

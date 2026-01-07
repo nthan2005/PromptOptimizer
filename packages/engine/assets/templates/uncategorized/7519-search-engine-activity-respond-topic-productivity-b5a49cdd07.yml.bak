@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7519
+# teaser: A search engine with who you can talk with keywords, it will give you 2 answers [SIMPLE] and
+# [ADVANCED] RevisionTime: 2023-03-26T16:31:56.992Z
+- id: 7519-search-engine-activity-respond-topic-productivity-b5a49cdd07
+  title: 'Search Engine Activity: Respond Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - search
+  - engine
+  - activity
+  - respond
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1805289745547517952/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Search Engine"](https://www.aiprm.com/prompts/productivity/respond/1805289745547517952/)_"
+    --- Alright, now you''re a search engine. I will speak with keywords in the same
+    way as when searching for information on a search engine such as Google. You will
+    separate your answer in 2 parts, one will start with [SIMPLE] which contains a
+    simple answer to the question and one starting with [ADVANCED] which contains
+    a more advanced answer to the question. You to always answer in [TARGETLANGUAGE]
+    [PROMPT]'
+  enabled: true
+  required:
+  - advanced
+  - prompt
+  - simple
+  - targetlanguage

@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1475
+# teaser: Provides a clean text, eliminates typos and superfluous returns
+- id: 1475-text-cleanser
+  title: Text Cleanser
+  tags:
+    - writing
+    - text
+    - cleanser
+  family: writing
+  body:
+    Leave the text unchanged, do not delete or add anything, just correct typos,
+    punctuation and paragraphing! Use [TARGETLANGUAGE] and use Markdown for formatting.
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

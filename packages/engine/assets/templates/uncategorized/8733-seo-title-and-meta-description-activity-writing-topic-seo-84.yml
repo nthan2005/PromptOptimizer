@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8733
+# teaser: Generate SEO Title and Meta description RevisionTime: 2024-04-10T23:21:08.279Z
+- id: 8733-seo-title-and-meta-description-activity-writing-topic-seo-84
+  title: "SEO Title and Meta description Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - seo
+    - title
+    - meta
+    - description
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SEO Title and Meta description"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Suppose you are so good in writing copies and it ranks high in the search
+    engines and engage eyeballs. Act as a copywriter who speaks and writes fluently
+    in [TARGETLANGUAGE] and generate at least 5 clickbait meta titles and meta descriptions
+    for the following keyword: [PROMPT] , titles must not exceed 60 characters and
+    descriptions between 130 - 160 characters: [PROMPT] should naturally be included
+    in the beginning of the title, it is necessary to be in the description. list
+    titles together at the top and descriptions together at the bottom of the list
+    of titles do not include endnotes'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

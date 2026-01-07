@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 823
+# teaser: Create best customer review for my company services [COMPANYNAME : SERVICENAME]
+- id: 823-1-service-review-for-business-website-from-customer
+  title: 1 Service Review for Business Website from Customer
+  tags:
+  - writing
+  - service
+  - review
+  - business
+  - website
+  - customer
+  family: writing
+  body: Write a service review from the customer for a business in [TARGETLANGUAGE].
+    The review to generate for business & service is [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1654
+# teaser: 4 different amazing Midjourney prompts using different artists and styles. after prompt
+# generation, you can always ask for more artists or/and more descriptions.
+- id: 1654-amazing-midjourney-images-with-4-different-styles
+  title: Amazing Midjourney images with 4 different styles
+  tags:
+    - midjourney
+    - amazing
+    - images
+    - different
+    - styles
+  family: Midjourney
+  body:
+    'You will now act as a prompt generator for a still image generative AI I
+    will provide a concept and you will provide a prompt that describes a still image
+    using the "Structure", the "Structure legend", and the "Detailed instructions
+    for writing the prompt" Structure: [0] [1] [2], [3], [4], [5], [6] (space) [7]
+    Structure legend: [0] = "Prompt {NUMBER}" [1] = write with no alterations: "/imagine'
+  enabled: true
+  required:
+    - number

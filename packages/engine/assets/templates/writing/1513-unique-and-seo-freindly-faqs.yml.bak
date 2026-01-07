@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1513
+# teaser: Write SEO friendly and unique faqs for any topics
+- id: 1513-unique-and-seo-freindly-faqs
+  title: Unique and SEO freindly FAQs
+  tags:
+  - writing
+  - unique
+  - seo
+  - freindly
+  - faqs
+  family: writing
+  body: You are a AI assistant writing in [TARGETLANGUAGE]. You should write a FAQ
+    about [PROMPT] with at least ten subheadings that includes a question and a question
+    mark. For each subheadings answer the question SEO friendly in active voice. Split
+    your answer with linebreaks and add most important information given in your answer.
+    Make sure every sentence is 100% unique and SEO friendly. Use a formal tone. Write
+    more than 1000 words in total.
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3487
+# teaser: engineering
+- id: 3487-engineering
+  title: engineering
+  tags:
+    - backend-development
+    - engineering
+  family: Backend Development
+  body:
+    "[PROMPT] you will optimize and improve all the scripts I send and you will
+    only respond with code, you will also respect the source extension of the script
+    [TARGETLANGUAGE] english"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

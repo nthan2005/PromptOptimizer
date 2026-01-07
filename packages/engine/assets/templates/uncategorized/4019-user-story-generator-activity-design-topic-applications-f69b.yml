@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4019
+# teaser: Write user stories and acceptance criteria for your product in 1 click RevisionTime:
+# 2023-05-09T23:18:31.447Z
+- id: 4019-user-story-generator-activity-design-topic-applications-f69b
+  title: "User Story Generator Activity: Design Topic: Applications-f69b52b4213a6bd3"
+  tags:
+    - uncategorized
+    - user
+    - story
+    - generator
+    - activity
+    - design
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "User Story Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your are an experienced product owner. Your task is to write user stories
+    for [PRODUCT]. Include GIVEN WHEN THEN acceptance criteria for each of the user
+    stories. [PROMPT] Write all output in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - product
+    - prompt
+    - targetlanguage

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5721
+# teaser: Develop outline RevisionTime: 2023-03-04T06:23:14.721Z
+- id: 5721-outline-developer-activity-writing-topic-copywriting-00ea56f
+  title: 'Outline developer Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - outline
+  - developer
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1797484165604827136/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Outline developer"](https://www.aiprm.com/prompts/copywriting/writing/1797484165604827136/)_"
+    --- Your task is to write about 700 to 900 written words on each topic in a list
+    topics with good amount of perplexity and burstiness. each paragraph should be
+    treated as topic. use markdown format each topic before you write about 800 to
+    900 written words about it. if during your writing, there is need to list a number
+    of points and then explain the points, make the point to be explained boldened
+    before you proceed to explanations. writing not less than 800 words on each topic
+    should taken with utmost priority. All output shall be in [TARGETLANGUAGE]. the
+    topic to write on is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

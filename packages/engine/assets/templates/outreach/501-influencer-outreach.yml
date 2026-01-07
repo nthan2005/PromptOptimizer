@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 501
+# teaser: Write cold DM to help you sign big influencer campaigns.
+- id: 501-influencer-outreach
+  title: Influencer Outreach
+  tags:
+    - outreach
+    - influencer
+  family: Outreach
+  body:
+    Write a cold DM to an influencer asking to collaborate with them based on
+    this bio [PROMPT] in [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

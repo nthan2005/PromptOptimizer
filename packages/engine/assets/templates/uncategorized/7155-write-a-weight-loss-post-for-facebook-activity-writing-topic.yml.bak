@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7155
+# teaser: generate topic for weight loss RevisionTime: 2023-12-29T12:35:43.011Z
+- id: 7155-write-a-weight-loss-post-for-facebook-activity-writing-topic
+  title: 'write a weight loss post for facebook Activity: writing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - write
+  - weight
+  - loss
+  - post
+  - facebook
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1906294260807516160/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "write a weight loss post for facebook"](https://www.aiprm.com/prompts/marketing/writing/1906294260807516160/)_"
+    --- act as marketing agent for the weight loss product. I want you to respond
+    only in language [TARGETLANGUAGE]. Your task is to summarize the text I give you
+    in 20 words or maximum 130 characters. All output shall be in [TARGETLANGUAGE].
+    The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

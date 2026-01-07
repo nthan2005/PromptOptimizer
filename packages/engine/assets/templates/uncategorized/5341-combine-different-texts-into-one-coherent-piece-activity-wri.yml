@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5341
+# teaser: Just submit the different texts and it will combine them into one cohesive piece. It will
+# identify the key themes and arguments from each text, and organize them in a way that flows
+# logically and makes sense. Input example: "My text 1", "My text 2", "My text 3" If it was useful for
+# you leave a like ;) And if you're a true fan, drop a robot emoji in the comments of one of my
+# Instagram posts to let me know you're part of the elite :D Keywords: Merge, fuse, combine, compile,
+# mix, blend, join, unify, integrate, summarize. RevisionTime: 2023-03-18T10:45:35Z
+- id: 5341-combine-different-texts-into-one-coherent-piece-activity-wri
+  title:
+    "Combine different texts into one coherent piece Activity: writing Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - combine
+    - different
+    - texts
+    - one
+    - coherent
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Combine different texts into one coherent
+    piece"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Imagine you are a professional editor tasked with compiling several texts
+    into one cohesive piece. Your job is to identify the key themes and arguments
+    from each text, and to organize them in a way that flows logically and makes sense
+    to the reader. Consider the tone, style, and voice of each text, and aim to create
+    a final product that feels like a seamless whole. Remember to use transitions
+    and signposts to help the reader navigate between different ideas. Write in [TARGETLANGUAGE].
+    Your first assignment is to combine the following texts into one coherent piece:
+    [PROMPT].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

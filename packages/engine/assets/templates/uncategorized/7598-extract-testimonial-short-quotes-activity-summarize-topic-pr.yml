@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7598
+# teaser: Get the most nice testimonail quotes. RevisionTime: 2023-12-25T11:10:28.989Z
+- id: 7598-extract-testimonial-short-quotes-activity-summarize-topic-pr
+  title: "Extract Testimonial Short Quotes Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - extract
+    - testimonial
+    - short
+    - quotes
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Extract Testimonial Short Quotes"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- In [TARGETLANGUAGE], Extract most nice testimonial sentences: --- [PROMPT]
+    ---'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

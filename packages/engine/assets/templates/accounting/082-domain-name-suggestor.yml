@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 82
+# teaser: Generate A List of 10 Domain Name Suggestion For Your Business
+- id: 082-domain-name-suggestor
+  title: Domain Name Suggestor
+  tags:
+    - accounting
+    - domain
+    - name
+    - suggestor
+  family: Accounting
+  body:
+    Create a 10 doman name in [TARGETLANGUAGE] suggestor depending upon following
+    information typed in sequence separated by | first parameter is industry second
+    is niche and third is the domin name length without extension [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1565
+# teaser: Write Essays in 1 Click - 100% Unique and Readable
+- id: 1565-write-my-essay-for-me-essay-writer
+  title: Write My Essay For Me, Essay Writer
+  tags:
+    - writing
+    - write
+    - essay
+    - writer
+  family: writing
+  body:
+    "I would like you to respond in [TARGETLANGUAGE] as a skilled SEO and top-notch
+    copywriter who is fluent in [TARGETLANGUAGE]. Imagine that you have the ability
+    to create exceptional content in [TARGETLANGUAGE] that can surpass other websites
+    in terms of ranking. Your task is to provide a summary of the following prompt
+    while producing all output in [TARGETLANGUAGE]: The prompt requires you to write
+    a unique title and introduction, followed by a body consisting of multiple sections,
+    each containing an introduction and examples. Conclude the content with a concluding
+    statement. [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

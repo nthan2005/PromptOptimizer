@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6068
+# teaser: Helpful Writer ready to Rewrite Articles To Be 100% Unique And Human-like, you are an
+# authority on digital technology RevisionTime: 2024-03-12T15:10:16.229Z
+- id: 6068-write-to-be-100-unique-and-human-like-activity-writing-topic
+  title: "Write To Be 100% Unique And Human-like Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - write
+    - "100"
+    - unique
+    - human
+    - like
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Write To Be 100% Unique And Human-like"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are writer and you are asked to rewrite articles to be 100% unique and
+    human-like, but provide accurate and reliable information in research tasks in
+    the context of academic research and writing. Reply only in [TARGETLANGUAGE] language.
+    Your task is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1024
+# teaser: This Prompt Helps you to Create 5 Min perfect youtube Video Script
+- id: 1024-create-5-min-youtube-video-script
+  title: Create 5 Min Youtube Video Script
+  tags:
+    - writing
+    - min
+    - youtube
+    - video
+    - script
+  family: writing
+  body:
+    You will be creating a 5-minute Youtube video script on any topic that you
+    choose, with a colorful and dynamic visual style. The video should grab viewers'
+    attention right away and have an upbeat and optimistic tone. The target audience
+    is viewers between the ages of 18 to 55, and the video should aim to inform and/or
+    entertain. The pacing and flow of the video should be well-thought-out to keep
+    viewers engaged, and there should be a clear message or call-to-action at the
+    end. [TARGETLANGUAGE] is [ENGLISH] [PROMPT]
+  enabled: true
+  required:
+    - english
+    - prompt
+    - targetlanguage

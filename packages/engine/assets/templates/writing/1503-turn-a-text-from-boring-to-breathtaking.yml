@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1503
+# teaser: Rewrite any piece of text to make it flow and sound better
+- id: 1503-turn-a-text-from-boring-to-breathtaking
+  title: Turn A Text From Boring To Breathtaking
+  tags:
+    - writing
+    - turn
+    - text
+    - boring
+    - breathtaking
+  family: writing
+  body:
+    "Rewrite the following text in a way that flows and sounds better: [PROMPT]
+    Please write in [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

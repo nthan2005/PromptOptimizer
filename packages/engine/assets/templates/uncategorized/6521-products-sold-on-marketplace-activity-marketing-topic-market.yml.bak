@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6521
+# teaser: Use this PROMPT to access a report on the best-selling pet shop products on Brazilian
+# marketplaces. RevisionTime: 2023-07-13T20:38:18.081Z
+- id: 6521-products-sold-on-marketplace-activity-marketing-topic-market
+  title: 'Products Sold on Marketplace Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - products
+  - sold
+  - marketplace
+  - activity
+  - marketing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1844809171213090816/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Products Sold on Marketplace"](https://www.aiprm.com/prompts/marketing/marketing/1844809171213090816/)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] Eu quero que vocÃª me apresente
+    o peso da embalagem do produto O produto serÃ¡ indicado pelo seu nome ou marca
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

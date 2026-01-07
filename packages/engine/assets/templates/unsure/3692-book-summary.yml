@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3692
+# teaser: Describe the book, with a brief summary of each chapter
+- id: 3692-book-summary
+  title: Book Summary
+  tags:
+    - unsure
+    - book
+    - summary
+  family: UNSURE
+  body:
+    faÃƒÆ’Ã‚Â§a um texto sobre o livro [PROMPT] , do autor [Author], com introduÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o,
+    tabela com os personagens, resumo da cada capitulo em um paragrafo e conclusÃƒÆ’Ã‚Â£o,
+    onde na conclusao seja analisada a relevancia da obra na literatura nacional.
+    Em negrito o titulo de cada parte do documento. na introduÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o deve constar o
+    autor, o ano da obra e estilo literario adotado na obra. Use a lingua [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

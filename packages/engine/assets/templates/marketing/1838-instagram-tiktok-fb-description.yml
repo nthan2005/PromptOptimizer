@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1838
+# teaser: Write a Instagram, TikTok & Facebook Reel description (Funny, Catchy, With Emoji and with 20
+# related hashtags at the end)
+- id: 1838-instagram-tiktok-fb-description
+  title: Instagram, Tiktok, FB description
+  tags:
+    - marketing
+    - instagram
+    - tiktok
+    - description
+  family: marketing
+  body:
+    Write a Instagram Reel description for [PROMPT] (Do it with emoji and funny,
+    and at the end add 20 related hashtags) After Write a tweet for that video and
+    after for Youtube Shorts video title [TARGETLANGUAGE] English
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

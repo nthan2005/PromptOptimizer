@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2197
+# teaser: Help me come up with a terse product-name/code-name for the following product and/or
+# initiative and/or service:
+- id: 2197-codename-generator-ffx
+  title: Codename Generator [FFX]
+  tags:
+    - plan
+    - codename
+    - generator
+    - ffx
+  family: Plan
+  body:
+    "Using [TARGETLANGUAGE] Help me come up with 20 options for a terse product-name/code-name\
+    \ for the following product and/or initiative and/or service. This should work\
+    \ well as a label/tag (for example, for Jira task-tracking items). Good codename\
+    \ examples: - ðŸ\x90¼ Panda - ðŸ¦Š FoxFinder - ðŸ\x90¢ TurtleTagger - ðŸ¦\x8F\
+    \ RhinoRater - ðŸ”\x8D MatchFinder The codename should reflect the \"character\"\
+    \ or \"feel\" or \"vibe\" of the initiative. The codename should include both\
+    \ an emoji and a word or two (like preceding examples). Codenames should be in\
+    \ a bold font face. No space between words. Here's the product and/or initiative\
+    \ and/or service description: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

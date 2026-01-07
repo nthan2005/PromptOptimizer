@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8117
+# teaser: Guest Post Outreach RevisionTime: 2024-02-19T16:34:32.776Z
+- id: 8117-guest-post-topic-activity-outreach-topic-seo-84c5d6a7b8e9f0c
+  title: "Guest Post Topic Activity: Outreach Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - guest
+    - post
+    - topic
+    - activity
+    - outreach
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Guest Post Topic"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- write a email about Guest Post [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

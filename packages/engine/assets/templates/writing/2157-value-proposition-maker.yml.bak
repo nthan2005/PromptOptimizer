@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2157
+# teaser: Create value proposition faster and easier than before! Paste couple sentences about your
+# product of features and receive complete value proposition. [marketing] [value proposition]
+# [writting]
+- id: 2157-value-proposition-maker
+  title: Value proposition maker
+  tags:
+  - writing
+  - value
+  - proposition
+  - maker
+  family: writing
+  body: StwÃƒÂ³rz zoptymalizowanÃ„â€¦ ofertÃ„â„¢ wartoÃ…â€ºÃ„â€¡i dla podanego [PROMPT]. UÃ…Â¼ywaj
+    jÃ„â„¢zyka[TARGETLANGUAGE]. Wypisz tylko tekst zoptymalizowany wyjsciowy. Zdanie
+    zacznij z wielkiej litery. PomiÃ…â€ž frazÃ„â„¢ Oto zoptymalizowany...
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

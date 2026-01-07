@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1659
+# teaser: Write a prompt for creating an impressive illustration.
+- id: 1659-creating-captivating-digital-photo-art
+  title: Creating Captivating Digital Photo Art
+  tags:
+    - midjourney
+    - creating
+    - captivating
+    - digital
+    - photo
+    - art
+  family: Midjourney
+  body: Write 10 eye-catching [PROMPT] prompt idea for a photo or illustrations [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

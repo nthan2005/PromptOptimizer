@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7283
+# teaser: Help about libreoffice calc RevisionTime: 2023-04-23T01:45:44.676Z
+- id: 7283-lilibreoffice-calc-help-osg-activity-plan-topic-productivity
+  title: "Lilibreoffice Calc Help - OSG Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - lilibreoffice
+    - calc
+    - osg
+    - activity
+    - plan
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Lilibreoffice Calc Help - OSG"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] Executar usando a linguagem
+    python. NÃƒÂ£o escrever comentÃƒÂ¡rios e nem explicar o cÃƒÂ³digo, apenas escrever e
+    executar o programa que faz o solicitado. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1082
+# teaser: Generate Email Subject Lines With ChatGPT
+- id: 1082-email-subject-lines-creator
+  title: Email Subject Lines Creator
+  tags:
+  - writing
+  - email
+  - subject
+  - lines
+  - creator
+  family: writing
+  body: I want you to act as a professional email subject lines copywriter. Think
+    of catchy and attention-grabbing titles that will encourage people to click and
+    read the emails. The titles should be short, concise, and direct. They should
+    also be creative and clever. Try to come up with titles that are unexpected and
+    surprising. Do not use titles that are too generic. My first email is about [PROMPT]
+    please respond in [TARGETLANGUAGE]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

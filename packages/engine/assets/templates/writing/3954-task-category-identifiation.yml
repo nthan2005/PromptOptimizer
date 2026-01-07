@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3954
+# teaser: Which Task You Want to Know the Category
+- id: 3954-task-category-identifiation
+  title: Task category identifiation
+  tags:
+    - writing
+    - task
+    - category
+    - identifiation
+  family: writing
+  body:
+    "Your Task is to choose the right suitable category for the given 20 words.
+    Output should be in [TARGETLANGUAGE]. Your categories must be in : [Cosmetics],
+    [dental], [PR kits], [F&B], [Electronics], [Hamper], [Health care], [Others],
+    [Apparel], [Art&life], . the [PR kits] must not be jewelry, pen, note books, hand
+    bags. if the [PROMPT] is not in the suitable category then return category is
+    : [NULL] [PROMPT]"
+  enabled: true
+  required:
+    - "null"
+    - prompt
+    - targetlanguage

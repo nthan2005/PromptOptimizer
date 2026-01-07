@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5932
+# teaser: Sumarize Order RevisionTime: 2023-05-03T17:16:42.469Z
+- id: 5932-sumarize-order-activity-writing-topic-copywriting-00ea56f446
+  title: "Sumarize Order Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - sumarize
+    - order
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Sumarize Order"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Order: [Type of request (Purchase or Rent)], [Type of Property] [District(s)],
+    [Date and time of order], [Summary of the property], [Contact Name] [Phone number],
+    [Agent code], [Date, time]. You will generate the following link for each order
+    on [WhatsApp: https://wa.me/sender''s number] all outputs Shall be in [TARGETLANGUAGE]
+    The text to summarize IS [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

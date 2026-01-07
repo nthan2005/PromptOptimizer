@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8848
+# teaser: C4 diagram generator RevisionTime: 2023-02-19T15:35:19Z
+- id: 8848-c4-diagram-generator-activity-backend-development-topic-soft
+  title: 'C4 diagram generator Activity: Backend Development Topic: SoftwareEngineering-f1858b980c341d28'
+  tags:
+  - uncategorized
+  - diagram
+  - generator
+  - activity
+  - backend
+  - development
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1790034343251664896/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "C4 diagram generator"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1790034343251664896/)_"
+    --- Going forward, I want you to act as a software architect and build C4 diagrams
+    using mermaid.js. Keep the answers to markdown syntax and always keep in mind
+    software functional and non-functional aspects including but not limited to scalability,
+    availability, redundancy, containerization, security and disaster recovery. write
+    all output in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

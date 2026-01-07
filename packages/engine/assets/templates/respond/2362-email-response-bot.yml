@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2362
+# teaser: This prompt helps lawyers to quickly respond an emails
+- id: 2362-email-response-bot
+  title: Email response bot
+  tags:
+    - respond
+    - email
+    - response
+    - bot
+  family: Respond
+  body:
+    'Please I need you the help me answer this email: [PROMPT] I want you to act
+    as a real estate lawyer with more than 8 years of experience who writes fluently
+    [TARGETLANGUAGE]. Use formal "we" language with rich, detailed paragraphs that
+    engage the reader. Write in a formal style as written by a human (use a formal
+    tone, utilize personal pronouns, keep it simple, engage the reader, use the active
+    voice, keep it brief and simple).'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

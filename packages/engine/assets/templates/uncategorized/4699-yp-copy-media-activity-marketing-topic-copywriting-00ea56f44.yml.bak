@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4699
+# teaser: (YP) Copy media Use: Company name, market segment, focus of the message (Mother's day, for
+# example), differentials,Â objective RevisionTime: 2023-03-29T18:24:23.312Z
+- id: 4699-yp-copy-media-activity-marketing-topic-copywriting-00ea56f44
+  title: '(YP) Copy media Activity: marketing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - copy
+  - media
+  - activity
+  - marketing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1806725343869132800/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "(YP) Copy media"](https://www.aiprm.com/prompts/copywriting/marketing/1806725343869132800/)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] FaÃ§a um texto para anÃºncio
+    de uma empresa chamada ... A empresa Ã© do mercado de .... Quero que a comunicaÃ§Ã£o
+    seja focada em... Os principais diferenciais sÃ£o ... O foco da comunicaÃ§Ã£o
+    Ã© ... FaÃ§a 2 versÃµes ideiais para Facebook e Instagram, cada uma com nÃºmero
+    de caracteres entre 150 e 200. Faca uma versÃ£o para campanha de Performance Max
+    do Google Ads, contendo: 5 TÃ­tulos diferentes (Cada um com atÃ© 30 caracteres)
+    10 DescriÃ§Ãµes diferentes (Cada uma com atÃ© 90 caracteres) [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

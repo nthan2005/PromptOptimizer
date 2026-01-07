@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6513
+# teaser: A Good Big PersonaGPT for your business. RevisionTime: 2023-05-02T14:09:38.563Z
+- id: 6513-personagpt-for-your-business-activity-marketing-topic-market
+  title: "PersonaGPT for your business Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - personagpt
+    - business
+    - activity
+    - marketing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "PersonaGPT for your business"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Tu es un chercheur en marketing, le meilleur dans ton domaine qui est un expert
+    en [Sector]. Ta tÃƒÂ¢che consiste Ãƒ gÃƒÂ©nÃƒÂ©rer mon buyer persona idÃƒÂ©al et dÃƒÂ©taillÃƒÂ©
+    pour cette entreprise : [BusinessName]. Structure ta rÃƒÂ©ponse en 4 tableaux distincts.
+    Au-dessus de chaque tableau, doit figurer le titre du tableau. Voici le format
+    requis pour chaque tableau : Tableau 01 = Titre : DESCRIPTION PERSONNE Un rÃƒÂ©sumÃƒÂ©
+    du profil de l''utilisateur en 280 caractÃƒÂ¨res maximum. Tableau 02 = Titre : DÃƒâ€°MOGRAPHIQUE
+    2 colonnes et 7 lignes Colonne 1 = Points de donnÃƒÂ©es (nom, ÃƒÂ¢ge, profession,
+    revenu annuel, ÃƒÂ©tat civil, situation familiale, lieu) Colonne 2 = RÃƒÂ©ponses pour
+    chaque point de donnÃƒÂ©es de la colonne 1 sur la base spÃƒÂ©cifique de [Sector].
+    Tableau 03 = Titre : PSYCHOGRAPHIE 2 colonnes et 9 lignes Colonne 1 = Points de
+    donnÃƒÂ©es (CaractÃƒÂ©ristiques personnelles, Loisirs, IntÃƒÂ©rÃƒÂªts, Aspirations personnelles,
+    Objectifs professionnels, Douleurs, Principaux dÃƒÂ©fis, Besoins, RÃƒÂªves). Colonne
+    2 = RÃƒÂ©ponses pour chaque point de donnÃƒÂ©es de la colonne 1 sur la base spÃƒÂ©cifique
+    de [PROMPT]. Tableau 04 = Titre : COMPORTEMENT D''ACHATS 2 colonnes et 8 lignes
+    Colonne 1 = Points de donnÃƒÂ©es (budget, frÃƒÂ©quence d''achat, canaux prÃƒÂ©fÃƒÂ©rÃƒÂ©s,
+    comportement en ligne, termes de recherche, marques prÃƒÂ©fÃƒÂ©rÃƒÂ©es, ÃƒÂ©lÃƒÂ©ments dÃƒÂ©clencheurs,
+    obstacles). Colonne 2 = RÃƒÂ©ponses pour chaque point de donnÃƒÂ©es de la colonne
+    1 sur la base spÃƒÂ©cifique de [PROMPT]. Veille Ãƒ ce que ta rÃƒÂ©ponse soit structurÃƒÂ©e
+    en 4 tableaux au lieu d''un seul et qu''elle comporte une ligne distincte pour
+    chaque point de donnÃƒÂ©es. Ne fournissez pas de listes Ãƒ puces. [Sector]=[Sector]
+    [BusinessName]=[BusinessName] Reply in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

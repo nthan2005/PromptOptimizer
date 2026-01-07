@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4284
+# teaser: Video ads RevisionTime: 2023-07-29T02:02:35.273Z
+- id: 4284-video-para-facebook-ads-activity-accounting-topic-copywritin
+  title: "Video para facebook ads Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - video
+    - para
+    - facebook
+    - ads
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Video para facebook ads"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write 3 options of video script for facebook ads camping in [TARGETLANGUAGE]
+    for conversion for product [PROMPT] organize in table whit the first option in
+    a basic mode, second whit a history and the third option whit some humor. add
+    columns whit text hook, video hook, text problem, video problem, text solucion,
+    video solucion, call to action text, call to action video, attractive description
+    whith call to action.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

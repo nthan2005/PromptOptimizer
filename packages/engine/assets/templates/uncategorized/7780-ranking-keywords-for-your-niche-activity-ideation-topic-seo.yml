@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7780
+# teaser: give me 30 sementicall keywords for my niche RevisionTime: 2024-02-06T08:01:38.893Z
+- id: 7780-ranking-keywords-for-your-niche-activity-ideation-topic-seo
+  title: "ranking keywords for your niche Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - ranking
+    - keywords
+    - niche
+    - activity
+    - ideation
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "ranking keywords for your niche"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- give me 30 semantically relevant but unique topics under the main category
+    of in [TARGETLANGUAGE] give me the result in table 5 column [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

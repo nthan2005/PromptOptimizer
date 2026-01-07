@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2782
+# teaser: The best chance of standing out from the crowd. High-quality keyword research including
+# phrases and related terms around your topic.
+- id: 2782-keywords-phrases-terms-around-your-topic
+  title: Keywords, Phrases & Terms Around Your Topic
+  tags:
+    - keywords
+    - phrases
+    - terms
+    - around
+    - topic
+  family: keywords
+  body:
+    "Make me a list of broad topics relevant around the topic that I give you\
+    \ (create a spreadsheet with general categories or â€œbucketsâ€\x9D for the keywords\
+    \ I wish to rank for). Keep this list short and simple, with 5 to 10 topics at\
+    \ most. Next I want you to expand each topic with a list of phrases that you think\
+    \ customers will use. If you already have data from website analytics software\
+    \ like Google Analytics or HubSpotâ€™s Sources report, look through your organic\
+    \ search traffic bucket to identify keywords consumers already use. After that\
+    \ I want you to find related search terms and analyze the strength of each keyword.\
+    \ All output shall be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

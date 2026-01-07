@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 691
+# teaser: Create Python Script For AutoDesk Maya
+- id: 691-python-script-export-to-or-import-from-json-ex-export-skin-w
+  title:
+    "Python Script: Export To (or) Import From JSON. Ex: Export Skin Weights
+    in AutoDesk Maya"
+  tags:
+    - script-writing
+    - python
+    - script
+    - export
+    - import
+    - json
+  family: Script Writing
+  body:
+    "Write [TARGETLANGUAGE] script: [Describe Script Here] for [Software Name]
+    [PROMPT] â–ª [Main query/title] options: â€¢ [bullet point 01] â€¢ [bullet point
+    02] â€¢ And so on â–ª Generic options [mostly needed for all the tools] â€¢ [bullet
+    point 01 -Use â€˜pymel.core as pmâ€™] â€¢ [bullet point 02 -Write comments] â€¢
+    And so on â–ª Specific options needed for this tool â€¢ [bullet point 01] â€¢
+    [bullet point 02] â€¢ And so on"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

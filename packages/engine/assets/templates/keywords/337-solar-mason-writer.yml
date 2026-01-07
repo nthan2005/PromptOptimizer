@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 337
+# teaser: Create a a full robust SEO article for Solar Mason that will outrank every other article on
+# the net using the keywords provided along with other strong keywords for the energy sector like,
+# Tesla, Sunrun, EV Charging Etc...
+- id: 337-solar-mason-writer
+  title: Solar Mason Writer
+  tags:
+    - keywords
+    - solar
+    - mason
+    - writer
+  family: keywords
+  body:
+    the keywords to use in the analysis are [PROMPT]. want you to act as a blog
+    post title writer that speaks and writes fluent [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

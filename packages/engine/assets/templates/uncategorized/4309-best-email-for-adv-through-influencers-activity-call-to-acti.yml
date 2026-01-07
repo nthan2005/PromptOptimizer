@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4309
+# teaser: Write email messages to bloggers and influencers using description provided. RevisionTime:
+# 2023-05-11T15:27:01.379Z
+- id: 4309-best-email-for-adv-through-influencers-activity-call-to-acti
+  title: "Best email for adv through influencers Activity: call to action Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - email
+    - adv
+    - through
+    - influencers
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best email for adv through influencers"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I need to do PR for my hackathon [TARGET LANGUAGE] and have bloggers [TARGETLANGUAGE]
+    talk about it on their social media platforms. In return, I offer [TARGET LANGUAGE]
+    They can be speakers at the events and advertise their product and project (we
+    have [TARGETLANGUAGE] 2K people at the streams). [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

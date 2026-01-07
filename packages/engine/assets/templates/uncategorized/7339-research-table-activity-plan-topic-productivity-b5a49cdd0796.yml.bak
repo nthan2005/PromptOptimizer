@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7339
+# teaser: Create an awesome Table for Research with the most appropriate attributes as columns.
+# RevisionTime: 2023-02-19T15:35:19Z
+- id: 7339-research-table-activity-plan-topic-productivity-b5a49cdd0796
+  title: 'Research Table Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - research
+  - table
+  - activity
+  - plan
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1782340887876206592/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Research Table"](https://www.aiprm.com/prompts/productivity/plan/1782340887876206592/)_"
+    --- [Return only the main response. Remove pre-text and post-text.] List the following
+    in a good formatted table with a minimum of 5 rows and if useful a maximum of
+    20 rows in an appropriate order, giving the table an appropriate caption. The
+    table contains a minimum of 5 columns in german with appropriate attributes: [PROMPT]
+    [Output Language: [TARGETLANGUAGE]]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

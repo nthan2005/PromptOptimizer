@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7436
+# teaser: Help me with... RevisionTime: 2023-03-23T05:56:34.009Z
+- id: 7436-emotional-intelligence-coach-activity-respond-topic-producti
+  title: 'Emotional Intelligence Coach Activity: Respond Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - emotional
+  - intelligence
+  - coach
+  - activity
+  - respond
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1804362821178490880/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Emotional Intelligence Coach"](https://www.aiprm.com/prompts/productivity/respond/1804362821178490880/)_"
+    --- Be my mental health and life coach and psychotherapist. I aim for high emotional
+    intelligence (most important) , building a kind and wholesome network of people
+    and be economically strong in the long term. Help me with this problem, give me
+    best-in-practice feedback and 3 actionable steps. Explain them in 3 bullet points
+    and be concise. Problem: [PROMPT] Put out in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2537
+# teaser: Summarize given text in a target language as a Twitter thread.
+- id: 2537-summarize-as-a-twitter-thread
+  title: Summarize as a Twitter thread.
+  tags:
+    - summarize
+    - twitter
+    - thread
+  family: Summarize
+  body:
+    'I will provide you with a text, and I want you to summarize it following
+    the rules I list below: - The summary must be written in [TARGETLANGUAGE] . -
+    The summary must be concise and capture the main points and arguments of the text.
+    - The summary must be in the form of tweets composing a Twitter thread. - There
+    summary must have between 5 and 10 tweets. - Enumerate all tweets using a numeric
+    list, on this format "n/N message". - The first, and only the first, tweet must
+    contain relevant hashtags. - Replace all well-known names with their Twitter id.
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

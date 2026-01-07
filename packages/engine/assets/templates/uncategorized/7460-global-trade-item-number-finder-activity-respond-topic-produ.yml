@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7460
+# teaser: Product GTIN Number for Google Merchant Store: Find your branded product GTIN Number
+# RevisionTime: 2024-08-09T01:16:08.017Z
+- id: 7460-global-trade-item-number-finder-activity-respond-topic-produ
+  title: "Global Trade Item Number Finder Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - global
+    - trade
+    - item
+    - number
+    - finder
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Global Trade Item Number Finder"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT], I have a product title, and I need
+    to find its GTIN (Global Trade Item Number). Search the entire internet to find.
+    Do not stop until you do. Please provide the product GTIN number as per the product
+    title I enter.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

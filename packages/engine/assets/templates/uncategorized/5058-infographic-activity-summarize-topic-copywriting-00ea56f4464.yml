@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5058
+# teaser: Create a high converting infographics RevisionTime: 2023-07-07T07:29:27.843Z
+- id: 5058-infographic-activity-summarize-topic-copywriting-00ea56f4464
+  title: "Infographic Activity: Summarize Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - infographic
+    - activity
+    - summarize
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Infographic "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] want you to act as a infographic writer that speaks and writes fluent
+    [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

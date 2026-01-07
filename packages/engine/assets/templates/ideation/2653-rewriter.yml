@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2653
+# teaser: Create a Unique paragraph with humanily written qualities
+- id: 2653-rewriter
+  title: Rewriter
+  tags:
+    - ideation
+    - rewriter
+  family: ideation
+  body:
+    "Rewrite in [TARGETLANGUAGE] in such a way to ignore any kind of plagirism
+    without changing the meaning, adding content, or changing words with synonums
+    or formating of the paragraph: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

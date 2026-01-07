@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4630
+# teaser: Meaningful blog, instagram and sales email copy with 20 training questions to learn your
+# business. RevisionTime: 2023-11-26T04:39:57.175Z
+- id: 4630-meaningful-copywriting-20-questions-activity-marketing-topic
+  title: "Meaningful Copywriting 20 Questions Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - meaningful
+    - copywriting
+    - questions
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Meaningful Copywriting 20 Questions"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- In a minute I''m going to ask you to write some copy for my business. This
+    will include blog content, Instagram posts, and sales emails all in [TARGETLANGUAGE].
+    Before we begin, I want you to fully understand my customers. Ask me at least
+    20 questions in [TARGETLANGUAGE] about my [PROMPT] business, customers, audience
+    and anything else you need in order to complete the tasks to the best of your
+    ability.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

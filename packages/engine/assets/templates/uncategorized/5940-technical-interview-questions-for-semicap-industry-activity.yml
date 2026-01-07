@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5940
+# teaser: Quick table for technical interview questions for the semiconductor capital equipment
+# industry. RevisionTime: 2023-03-15T15:17:50Z
+- id: 5940-technical-interview-questions-for-semicap-industry-activity
+  title:
+    "Technical Interview Questions for SemiCap Industry Activity: writing Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - technical
+    - interview
+    - questions
+    - semicap
+    - industry
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Technical Interview Questions for SemiCap
+    Industry"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as a hiring manager. Your task is to create a table of three technical
+    interview questions based on the prompt. Make column one the question, column
+    two the answer, and column three explain the answer to a 5th grader. Output in
+    [TARGETLANGUAGE]. Create the table based on: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

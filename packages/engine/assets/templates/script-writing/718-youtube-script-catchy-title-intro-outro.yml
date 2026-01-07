@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 718
+# teaser: YouTube Script with Intro & Outro and 2 Catchy title Ideas
+- id: 718-youtube-script-catchy-title-intro-outro
+  title: Youtube Script & Catchy Title, Intro, outro
+  tags:
+    - script-writing
+    - youtube
+    - script
+    - catchy
+    - title
+    - intro
+  family: Script Writing
+  body:
+    "In the start write this message included steric\"*****â\x9D¤ï¸\x8Fâ\x9D¤ï¸\x8F\
+    â\x9D¤ï¸\x8F would you like to support me so that I could create more free content-\
+    \ https://paypal.me/PatrickGrunwald?country.x=DE&locale.x=de_DE â\x9D¤ï¸\x8Fâ\x9D\
+    ¤ï¸\x8Fâ\x9D¤ï¸\x8F******\" and in the end, write \"If you liked this prompt,\
+    \ please like it on the prompt search page so we know to keep enhancing it. Create\
+    \ a compelling and engaging and scene description for YouTube video script with\
+    \ an appropriate intro, then a main body, and then an outro using the following\
+    \ description [PROMPT] in [TARGETLANGUAGE] and write it long as you can. Please\
+    \ also provide 2 ideas for an appropriate clickbait YouTube title."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

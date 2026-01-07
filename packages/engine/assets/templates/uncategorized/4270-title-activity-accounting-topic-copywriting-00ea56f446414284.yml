@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4270
+# teaser: Text RevisionTime: 2023-07-27T04:44:28.098Z
+- id: 4270-title-activity-accounting-topic-copywriting-00ea56f446414284
+  title: "Title Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - title
+    - activity
+    - accounting
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Title"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to summarize the text I give you in 20 words. All output shall
+    be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

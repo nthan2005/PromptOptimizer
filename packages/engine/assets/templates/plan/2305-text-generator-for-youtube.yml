@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2305
+# teaser: Text Generator for YouTube
+- id: 2305-text-generator-for-youtube
+  title: Text Generator for YouTube
+  tags:
+    - plan
+    - text
+    - generator
+    - youtube
+  family: Plan
+  body:
+    Write a text with at least 2500 words about the title written below. Don't
+    be repetitive, avoid redundancies and be as natural as possible. Write in an exciting
+    and enthusiastic way, be extremely creative and optimistic. This text will become
+    a video for YouTube, so ask them to subscribe to the channel, leave a like and
+    share it on social networks. Ask them to leave a comment about what kind of videos
+    they would like to see on our channel. Always end the text by relating God and
+    the subject of the text. Don't remind me what I asked you for. Do not apologize.
+    Do not self-reference. Write all output in [TARGETLANGUAGE] Use the following
+  enabled: true
+  required:
+    - targetlanguage

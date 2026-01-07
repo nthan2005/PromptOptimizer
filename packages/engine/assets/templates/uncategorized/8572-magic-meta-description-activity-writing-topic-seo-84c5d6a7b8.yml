@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8572
+# teaser: Create the best meta description from my content RevisionTime: 2023-05-20T14:22:08.656Z
+- id: 8572-magic-meta-description-activity-writing-topic-seo-84c5d6a7b8
+  title: "Magic Meta Description Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - magic
+    - meta
+    - description
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Magic Meta Description"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to summarize the text I give you in 20 words or maximum 130 characters.
+    All output shall be in [TARGETLANGUAGE]. The text to summarize is this [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

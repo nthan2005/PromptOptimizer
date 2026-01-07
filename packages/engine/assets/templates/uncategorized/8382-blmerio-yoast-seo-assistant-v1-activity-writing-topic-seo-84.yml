@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8382
+# teaser: From a [Yoast SEO main focus keyphrase] generate : SEO Title, Slug, SEO meta description,
+# list of keyphrase synonyms, list of related keyphrases, Facebook & Twitter meta description. From my
+# website posts sitemap generate internal link opportunities for the post using [Yoast SEO main focus
+# keyphrase] . RevisionTime: 2024-12-19T14:46:29.463Z
+- id: 8382-blmerio-yoast-seo-assistant-v1-activity-writing-topic-seo-84
+  title: "Blmerio Yoast SEO Assistant V1 Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - blmerio
+    - yoast
+    - seo
+    - assistant
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Blmerio Yoast SEO Assistant V1"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as an SEO Expert, specially with the Wordpress plugins YOAST SEO. My Business,
+    Recipes By Amy, offers blog articles around the most appetizing cooking recipes,
+    as well as advice, tips and recipe secrets. I''m located in New York state. In
+    [TARGETLANGUAGE] language, Based on the main focus keyphrase : [PROMPT], give
+    me in that order those elements : - a friendly SEO title for that main focus keyphrase
+    : [PROMPT], - a friendly SEO slug for that main focus keyphrase : [PROMPT], -
+    a friendly SEO meta description (max 155 characters) for that main focus keyphrase
+    : [PROMPT], - a friendly SEO comma separated list of keyphrase synonyms for that
+    main focus keyphrase : [PROMPT], - a friendly SEO comma separated list of related
+    keyphrases to that main focus keyphrase : [PROMPT], - a meta description for sharing
+    in Facebook for that main focus keyphrase : [PROMPT], - a meta description for
+    sharing in Twitter for that main focus keyphrase : [PROMPT], - an SEO friendly
+    alt description for the feature image of the article based on that main focus
+    keyphrase : [PROMPT], - The category in which the article based on that main focus
+    keyphrase : [PROMPT] should be published (choose one from these categories: Breakfast,
+    Lunch, Dinner, Desserts) - 3 midjourney prompts (whatever the [TARGETLANGUAGE]
+    language this prompts must be in english) to generate the article''s main image
+    (featured image) based on this main keyword: [PROMPT]. knowing that my website
+    is specialized in gardening. add in the prompts that the image must be realistic
+    and taken with an iphone 16 pro. Make sure to use emojis without moderation (
+    1 emoji after each word) only and only for meta description of Facebook and Twitter
+    not for the SEO meta description. Make sure to not use hashtags for meta description
+    of Facebook and Twitter. Make sure to return all the results (SEO elements and
+    FB/Twitter meta description, etc.) without any simple/double quotes. Use WebPilot
+    to read https://verdurejardin.com/post-sitemap.xml and suggest internal linking
+    opportunities for an article/post about that main focus keyphrase : [PROMPT].
+    In that format: 1 - The anchor text to use for the internal link, 2 - The destination
+    post link to point to.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

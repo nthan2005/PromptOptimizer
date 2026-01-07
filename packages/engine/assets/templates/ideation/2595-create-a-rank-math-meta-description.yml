@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2595
+# teaser: Create a Rank Math meta description under 159 characters long for SERPs
+- id: 2595-create-a-rank-math-meta-description
+  title: Create a Rank Math Meta Description
+  tags:
+    - ideation
+    - rank
+    - math
+    - meta
+    - description
+  family: ideation
+  body:
+    Write me a meta description under 159 characters long for SERPs based on this
+    title. DO NOT go over the 159 characters. Please write all output in [TARGETLANGUAGE]
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

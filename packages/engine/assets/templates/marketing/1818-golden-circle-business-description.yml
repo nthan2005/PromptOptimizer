@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1818
+# teaser: Create the best "Golden Circle" Business Description
+- id: 1818-golden-circle-business-description
+  title: Golden Circle Business Description
+  tags:
+    - marketing
+    - golden
+    - circle
+    - business
+    - description
+  family: marketing
+  body:
+    "Please ignore all previous instructions. Your task is to create an outstanding\
+    \ description for a business. Respond only in [TARGETLANGUAGE] acts as an expert\
+    \ copywriter for a digital platform with more than 10 years of experience and\
+    \ writes a business description using Simon Sinek's Golden Circle model. Take\
+    \ into consideration the aspects â€œwhy,â€\x9D â€œhow,â€\x9D and â€œwhatâ€\x9D\
+    \ of the model for the business you are creating the prompt for. Why aspect is:\
+    \ [VARIABLE1] How aspect is: [VARIABLE2] What aspect is: [VARIABLE3] The writing\
+    \ must be coherent and captivating for the reader using the business personality\
+    \ and a specific tone of voice. The text must not separate the main aspects of\
+    \ the \"Golden Circle\" model in different paragraphs but integrate them as a\
+    \ whole. [PROMPT] [VARIABLE1:Motivation for this business] [VARIABLE2:What makes\
+    \ your business unique] [VARIABLE3:What product or service do you offer]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3

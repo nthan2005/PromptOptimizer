@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8605
+# teaser: Create an optimized page title tag RevisionTime: 2024-02-21T16:03:22.975Z
+- id: 8605-page-title-tag-activity-writing-topic-seo-84c5d6a7b8e9f0c1
+  title: "page title tag Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - page
+    - title
+    - tag
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "page title tag"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to write an optimized page title tag that is within the 60 character
+    limit, and this has to include the spaces between the words for the Serps on Google,
+    that includes the focus keyword while trying to get the focus keyword as close
+    to the beginning as possible without taking away from the readability and ensuring
+    it is enticing and engaging to increase the clickthrough rate from the Serps.
+    All output shall be in in [TARGETLANGUAGE] . The keyword to include in the page
+    title tag is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

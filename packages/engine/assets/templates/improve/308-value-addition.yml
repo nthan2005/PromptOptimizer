@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 308
+# teaser: Do your best to rewrite article by adding values in human tone
+- id: 308-value-addition
+  title: Value Addition
+  tags:
+    - improve
+    - value
+    - addition
+  family: Improve
+  body:
+    Your task is to rewrite content in a human tone by adding more values so that
+    the interest in readers increased. All output should be in [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

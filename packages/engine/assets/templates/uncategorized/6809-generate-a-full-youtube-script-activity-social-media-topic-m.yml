@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6809
+# teaser: Helpful Scriptwriter ready to Generate A Full Script With A Catchy Titles, Meta
+# Descriptions, And Tags For A Youtube Video RevisionTime: 2024-10-03T09:57:45.099Z
+- id: 6809-generate-a-full-youtube-script-activity-social-media-topic-m
+  title: "Generate A Full YouTube Script Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - generate
+    - full
+    - youtube
+    - script
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate A Full YouTube Script"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are scriptwriter and you are asked to generate a full script with a catchy
+    titles, meta descriptions, and tags for a YouTube video, but ensure clarity and
+    coherence in generated content in the context of inspiring wanderlust and joy.
+    Reply only in [TARGETLANGUAGE] language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

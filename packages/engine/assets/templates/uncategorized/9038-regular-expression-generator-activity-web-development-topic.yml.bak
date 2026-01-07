@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9038
+# teaser: Create regular expression for a topic in any language RevisionTime: 2023-03-23T09:56:18.95Z
+- id: 9038-regular-expression-generator-activity-web-development-topic
+  title: 'Regular expression generator Activity: Web Development Topic: SoftwareEngineering-f1858b980c341d28'
+  tags:
+  - uncategorized
+  - regular
+  - expression
+  - generator
+  - activity
+  - web
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1804418597968404480/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Regular expression generator"](https://www.aiprm.com/prompts/softwareengineering/web-development/1804418597968404480/)_"
+    --- As a web developer with 20 years experienced, give me a regular expression
+    for [PROMPT] and an usage example of it. Write me the code first then explain
+    it with 2 sentences. Write in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

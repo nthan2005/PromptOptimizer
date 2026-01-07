@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3800
+# teaser: Limit output time to 50 seconds
+- id: 3800-prevent-network-error
+  title: Prevent "Network Error"
+  tags:
+    - unsure
+    - prevent
+    - network
+    - error
+  family: UNSURE
+  body:
+    'For this entire session please always follow this rule which takes priority
+    over everything else: restrict your answers to 50 secs. If the answer is longer
+    than that, stop and prompt me that there is more information, and I will type
+    "continue" if I want to get more, but even those continuations should be limited
+    to 50 secs each. Detect language of my next prompt and use it, or use [TARGETLANGUAGE].
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

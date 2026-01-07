@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7680
+# teaser: article for travel with 8h2 and introduction and conclusion RevisionTime:
+# 2023-05-15T13:35:44.949Z
+- id: 7680-article-for-travel-guide-activity-ideation-topic-seo-84c5d6a
+  title: "Article for travel guide Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - article
+    - travel
+    - activity
+    - ideation
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Article for travel guide"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- En tant que rÃƒÂ©dacteur SEO, je souhaite que tu me rÃƒÂ©diges un article qui
+    donne envie de voyager et de visiter. Le titre de l''article est "Visiter [PROMPT]
+    : 8 activitÃƒÂ©s passionnantes". Voici le brief Ãƒ suivre : - minimum 800 mots -
+    introduction, conclusion et au moins 3 paragraphes de taille ÃƒÂ©quivalente, des
+    sous-paragraphes sont possible mais pas obligatoire -Le texte doit ÃƒÂªtre structurÃƒÂ©e
+    en <h2> pour les paragraphes. ne met pas les balises fermantes </h2> -Ces <h2>
+    doivent ÃƒÂªtre rÃƒÂ©digÃƒÂ©s sur un ton excitant et original, - le niveau de langue
+    doit ÃƒÂªtre courant et le ton informatif et dynamique, donnant envie de s''y rendre
+    - la cible est des personnes de tout ÃƒÂ¢ge pouvant ÃƒÂªtre intÃƒÂ©ressÃƒÂ© de se rendre
+    Ãƒ [PROMPT] - des mots-clÃƒÂ©s du champ sÃƒÂ©mantique relatifs au titre du contenu
+    doivent ÃƒÂªtre intÃƒÂ©grÃƒÂ©s - dans l''introduction, je souhaite intÃƒÂ©grer un lien
+    avec l''ancre suivante : vol pour [PROMPT] - dans la conclusion, je souhaite intÃƒÂ©grer
+    un lien avec l''ancre : vol pour , je veux qu''Ãƒ la place de "vol pour [PROMPT]
+    "je veux que tu me mette le pays qui correspond aux [PROMPT] - Ne me met pas les
+    balises suivantes <p> , </p> - Dans les titres de paragraphe ne met pas de balise
+    fermante "</h2>" Ãƒ la fin - Ne met pas de numÃƒÂ©rotation pour chaque <h2> (exemple
+    : <h2> L''effervescence de Lyon vous attend) Enfin je veux que tu m''ÃƒÂ©toffes
+    le contenu de chaque paragraphe sauf pour l''introduction et la conclusion pour
+    arriver a plus de 800 mots. [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4437
+# teaser: Quillbot | Content Rewrite | Rephrase | Spelling corrector and improver translate it and
+# answer in the corrected and improved version of my text, RevisionTime: 2023-05-07T01:27:42.447Z
+- id: 4437-quillbot-content-rewrite-rephrase-activity-improve-topic-cop
+  title: "Quillbot | Content Rewrite | Rephrase Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - quillbot
+    - content
+    - rewrite
+    - rephrase
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Quillbot | Content Rewrite | Rephrase"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as an [TARGETLANGUAGE] Content rewriter spelling corrector
+    and improver. I will give you text content in [TARGETLANGUAGE]. rewrite it and
+    output that in the corrected and improved version of my text, in [TARGETLANGUAGE].
+    I want you to replace my simplified A0-level words and sentences with more beautiful
+    and elegant, upper-level [TARGETLANGUAGE] words and sentences. Keep the meaning
+    the same, but make them more literary. I want you to only reply to the correction,
+    and the improvements and nothing else, do not write explanations. my first text
+    is "[PROMPT]"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

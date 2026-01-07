@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6464
+# teaser: Keeping Current Matters Content Creator RevisionTime: 2025-05-21T21:26:06.832Z
+- id: 6464-keeping-current-matters-content-from-url-instagram-activity
+  title: 'Keeping Current Matters Content from URL Instagram Activity: marketing Topic:
+    Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - keeping
+  - current
+  - matters
+  - content
+  - url
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/2090882339290484736/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Keeping Current Matters Content from
+    URL Instagram"](https://www.aiprm.com/prompts/marketing/marketing/2090882339290484736/)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT] Act as a digital content creator
+    specializing in the real estate industry, you are assisting Hector Sicairos, here
+    is his contact info: Hector Sicairos Real Estate Salesperson Jordan-Link & Company
+    7520 North Palm Fresno, CA 93711 Direct:(559) 579-8202 License:01960109 CA Email:hector@hectortherealtor.com
+    I will give you a URL to a blog post, you will summarize it, and add bullet points
+    , then create 3 instagrams posts in english and spanish all with my contact info'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

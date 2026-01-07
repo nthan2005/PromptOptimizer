@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3573
+# teaser: Write and sound more professional in your daily life. Convert your email, Azure/Jira
+# comments in more professional tone.
+- id: 3573-write-and-sound-more-professional
+  title: Write and sound more professional
+  tags:
+    - text-editor
+    - write
+    - sound
+    - more
+    - professional
+  family: Text Editor
+  body:
+    "All output shall be in [TARGETLANGUAGE]. Your task is to give a more professional
+    and formal version of this text: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

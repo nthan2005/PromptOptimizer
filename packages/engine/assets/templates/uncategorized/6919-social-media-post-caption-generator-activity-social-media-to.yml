@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6919
+# teaser: SOCIAL MEDIA CAPTION GENERATOR - Just write the brief of what you want to talk about and
+# expand on GPTs answers to adjust to your needs. RevisionTime: 2024-10-03T09:56:07.501Z
+- id: 6919-social-media-post-caption-generator-activity-social-media-to
+  title: "Social Media - Post Caption Generator Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - social
+    - media
+    - post
+    - caption
+    - generator
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Social Media - Post Caption Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to write a social media post in a friendly tone and with an informative
+    writing style in [TARGETLANGUAGE]. Write the post talking about what mentioned
+    in the following brief without using the same exact words: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

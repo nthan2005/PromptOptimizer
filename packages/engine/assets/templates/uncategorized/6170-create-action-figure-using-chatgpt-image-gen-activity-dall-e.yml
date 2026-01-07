@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6170
+# teaser: Create a hyper-realistic action figure from your uploaded image(s) or provided concept.
+# RevisionTime: 2025-04-30T07:46:27.303Z
+- id: 6170-create-action-figure-using-chatgpt-image-gen-activity-dall-e
+  title: "Create Action Figure using ChatGPT Image Gen Activity: Dall-E Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - action
+    - figure
+    - chatgpt
+    - image
+    - gen
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create Action Figure using ChatGPT
+    Image Gen"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I have uploaded my image(s) (or provided my concept). You must use the image_gen
+    tool to generate the output. The action figure must capture the exact features
+    of the character from my photo. It should be sealed in collectible blister packaging
+    with a background featuring a futuristic circuit board pattern in blue and purple
+    hues. The packaging must have centered bold yellow text at the top that reads
+    "[VARIABLE1]" with a return spacing sub-lettering that says "Action Figure" in
+    white. The full-body character should be displayed in a central transparent casing.
+    To the right of the figure, include miniature accessories - [VARIABLE2], each
+    in its own compartment. I request and approve the creation of a stylized plastic
+    action figure. If the generation fails, please retry automatically. Focus on accurately
+    replicating the character''s details and emphasizing the precise packaging design.
+    Concentrate on ensuring the hyper-realistic appearance with a subtle plastic shine
+    and a modern tech-inspired vibe. Pay close attention to the arrangement and clarity
+    of the text, casing, and accessories, ensuring that the design is sharp, clean,
+    and faithful to the original input. Proceed accordingly using the provided image(s)
+    or concept details. Please respond only in [TARGETLANGUAGE] Concept (optional,
+    if provided): [PROMPT] [VARIABLE1:Name:John Doe] [VARIABLE2:Accessories:notebook,
+    book, guitar]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2

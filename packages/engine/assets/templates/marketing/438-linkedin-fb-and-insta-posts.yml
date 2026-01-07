@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 438
+# teaser: Create 3 social media posts for Linkedin, instagram and facebook with hashtags and maximum
+# 100 words by post, SEO + - Plagiarism free
+- id: 438-linkedin-fb-and-insta-posts
+  title: Linkedin, FB and Insta posts
+  tags:
+    - marketing
+    - linkedin
+    - insta
+    - posts
+  family: marketing
+  body:
+    Create three different posts for Instagram, Linkedin and Facebook, post including
+    emoticons. each post should be 100 words max including bullet proof in [TARGETLANGUAGE]
+    including hastags about [PROMPT] [Plagiarism FREE] [SEO FRIENDLY]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

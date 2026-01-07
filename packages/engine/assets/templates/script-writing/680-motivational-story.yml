@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 680
+# teaser: Create a heart touching motivational story
+- id: 680-motivational-story
+  title: Motivational Story
+  tags:
+    - script-writing
+    - motivational
+    - story
+  family: Script Writing
+  body:
+    I want you to act like a best motivator in the world. Please write for me
+    a hearth touching and full of spirit motivational speech, as the first POV, based
+    on sentences I input into [PROMPT]. Output will be in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

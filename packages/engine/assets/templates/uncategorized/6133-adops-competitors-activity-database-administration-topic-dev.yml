@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6133
+# teaser: Perform a competitor analysis on programmatic media RevisionTime: 2024-08-13T19:03:22.405Z
+- id: 6133-adops-competitors-activity-database-administration-topic-dev
+  title: "AdOps - Competitors Activity: Database Administration Topic: DevOps-f3e52afbf831197f"
+  tags:
+    - uncategorized
+    - adops
+    - competitors
+    - activity
+    - database
+    - administration
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "AdOps - Competitors"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] Write in [TARGETLANGUAGE] I want you to act as a programmatic media
+    expert and create an organized table containing the 10 direct competitors of [url
+    of your website] To be a competitor you need to add "ads.txt" to the end of sites
+    with similar content and only list it as a competitor if it has this'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

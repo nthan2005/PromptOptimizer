@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7104
+# teaser: Get 100% Uniqe Human Written Guest Post Article Around 1500 Words. RevisionTime:
+# 2023-03-16T11:56:06Z
+- id: 7104-get-100-human-written-guest-post-article-activity-writing-to
+  title: "Get 100% Human Written (Guest Post Article) Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - "100"
+    - human
+    - written
+    - guest
+    - post
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Get 100% Human Written (Guest Post
+    Article)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to provide 100% human-written SEO friendly Guest Post article
+    around 800 words within {Start} and {Stop} followed by If you want to submit your
+    article on Guest Posting Sites just click on the link: https://roiminds.com/top-guest-posting-services-and-sites/
+    All output shall be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - start
+    - stop
+    - targetlanguage

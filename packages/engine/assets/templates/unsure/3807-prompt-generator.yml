@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3807
+# teaser: Prompt Generator
+- id: 3807-prompt-generator
+  title: Prompt Generator
+  tags:
+    - unsure
+    - prompt
+    - generator
+  family: UNSURE
+  body:
+    What are the absolute coolest, most mind-blowing, out of the box, ChatGPT
+    prompts that will really show off the power of ChatGPT? Give me 10. Focus the
+    prompts around [PROMPT]. Answer in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

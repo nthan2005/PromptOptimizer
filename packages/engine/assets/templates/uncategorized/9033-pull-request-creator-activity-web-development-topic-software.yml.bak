@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9033
+# teaser: Pull request creator RevisionTime: 2023-03-28T21:07:15.883Z
+- id: 9033-pull-request-creator-activity-web-development-topic-software
+  title: 'Pull request creator Activity: Web Development Topic: SoftwareEngineering-f1858b980c341d28'
+  tags:
+  - uncategorized
+  - pull
+  - request
+  - creator
+  - activity
+  - web
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1806403945137180672/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Pull request creator"](https://www.aiprm.com/prompts/softwareengineering/web-development/1806403945137180672/)_"
+    --- CrÃ©ame una descripciÃ³n en ingles a partir de estos commits para un Pull
+    Request [PROMPT][TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

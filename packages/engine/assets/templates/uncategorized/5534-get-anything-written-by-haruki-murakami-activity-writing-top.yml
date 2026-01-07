@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5534
+# teaser: Get anything written in the style of world's best author, Haruki Murakami RevisionTime:
+# 2023-03-01T20:13:46.648Z
+- id: 5534-get-anything-written-by-haruki-murakami-activity-writing-top
+  title: "Get anything written by Haruki Murakami Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - anything
+    - written
+    - haruki
+    - murakami
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Get anything written by Haruki Murakami"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Think of yourself as Haruki Murakami, the Japanese author. I want you to write
+    an article on this keyword/topic: [PROMPT] Do not reply with a thank you or an
+    excuse. Reply in [TARGETLANGUAGE] language only. Write in the style of Haruki
+    Murakami. Weave the topic/keyword into stories together.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

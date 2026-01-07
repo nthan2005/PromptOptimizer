@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4326
+# teaser: Translate the following Korean into English RevisionTime: 2024-03-03T12:08:20.343Z
+- id: 4326-korean-into-english-activity-call-to-action-topic-copywritin
+  title: "Korean into English Activity: call to action Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - korean
+    - english
+    - activity
+    - call
+    - action
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Korean into English"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Translate the following Korean into English [TARGETLANGUAGE] Korean : [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

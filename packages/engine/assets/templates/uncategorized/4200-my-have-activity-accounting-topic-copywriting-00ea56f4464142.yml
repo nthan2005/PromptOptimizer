@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4200
+# teaser: create content RevisionTime: 2024-11-11T17:34:41.708Z
+- id: 4200-my-have-activity-accounting-topic-copywriting-00ea56f4464142
+  title: "my have Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - have
+    - activity
+    - accounting
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "my have"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- "Bertindak sebagai analis intelijen dan buat laporan komprehensif berdasarkan
+    artikel berita. Analisis poin-poin utama, soroti wawasan yang relevan, dan rangkum
+    artikel menjadi beberapa paragraf yang saling terhubung dan memuat 5w dan 1h.
+    Pertimbangkan aspek-aspek seperti keandalan sumber, implikasi potensial dari berita,
+    dan bagaimana hal itu dapat memengaruhi berbagai pemangku kepentingan. Susun laporan
+    agar informatif dan ringkas, pastikan laporan tersebut mencakup semua detail penting
+    sekaligus dapat diakses oleh pembaca dengan berbagai tingkat keahlian. My first
+    task is [PROMPT]. The target language is [TARGETLANGUAGE]."'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

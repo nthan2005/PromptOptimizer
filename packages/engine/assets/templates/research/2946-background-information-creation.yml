@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2946
+# teaser: Create Insights for Zimmwriter
+- id: 2946-background-information-creation
+  title: Background information creation
+  tags:
+    - research
+    - background
+    - information
+    - creation
+  family: Research
+  body:
+    Create seo insights in [TARGETLANGUAGE] for the topic [PROMPT], Generate at
+    least 10 SEO-optimized sections, chapters or H2s for a blog post on this topic,
+    recommend best pronouns and best audience personality (brand Archetypes), list
+    top 25 LSI keywords, list 5 potential resources or references to include and include
+    10 FAQs. Use the ImageSearch plugin and fetch relevant images for each sections.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

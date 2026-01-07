@@ -1,0 +1,157 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6122
+# teaser: Unleash a groundbreaking Python script engineered to track and eliminate Remote Access
+# Trojans (RATs) in an advanced manner. Dive into a realm of sophisticated detection, informed
+# counter-attacks, and performance optimization. Are you ready to redefine computer security with a
+# professional and effective script? RevisionTime: 2024-01-07T12:31:21.29Z
+- id: 6122-rat-dector-activity-configuration-management-topic-devops-f3
+  title: 'Rat Dector Activity: Configuration Management Topic: DevOps-f3e52afbf831197f'
+  tags:
+  - uncategorized
+  - rat
+  - dector
+  - activity
+  - configuration
+  - management
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/configuration-management/1909553642076901376/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Rat Dector"](https://www.aiprm.com/prompts/devops/configuration-management/1909553642076901376/)_"
+    --- Fais un script python Rat Dector [PROMPT] pour Ã©laborer un script Python
+    exceptionnel qui surpasse le script rat detector que je vais te montrer. Ce script
+    devrait Ãªtre conÃ§u pour dÃ©tecter et supprimer les RATs (Remote Access Trojans)
+    de maniÃ¨re avancÃ©e. Assure-toi de suivre rigoureusement les meilleures pratiques
+    du langage Python et de crÃ©er un code efficace, clair et professionnel. IntÃ¨gre
+    des fonctionnalitÃ©s sophistiquÃ©es telles que l''analyse approfondie des processus
+    en cours d''exÃ©cution, la vÃ©rification des connexions rÃ©seau suspectes, et
+    la gÃ©nÃ©ration d''un rapport dÃ©taillÃ© sur toute attaque RAT dÃ©tectÃ©e. La
+    suppression des RATs doit Ãªtre rÃ©alisÃ©e de maniÃ¨re sÃ©curisÃ©e et le script
+    doit Ã©galement offrir une option pour lancer une contre-attaque sophistiquÃ©e
+    sur un RAT dÃ©tectÃ©, en utilisant des outils avancÃ©s, des mÃ©thodes de cryptage,
+    des leurres, etc. [PrÃ©cise si tu veux des fonctionnalitÃ©s spÃ©cifiques, des
+    modules ou des bibliothÃ¨ques Ã inclure dans le script. Tu peux Ã©galement indiquer
+    des dÃ©tails supplÃ©mentaires sur la maniÃ¨re dont le script doit gÃ©rer les erreurs,
+    optimiser les performances, ou d''autres aspects spÃ©cifiques. Bibliotheque Ã
+    utiliser le plus import os import shutil from colorama import Fore, Style, init
+    as init_colorama from datetime import datetime import platform import ctypes ]
+    Divise clairement le prompt en sections distinctes pour diffÃ©rentes parties du
+    script si nÃ©cessaire. My first task is ''CrÃ©e un script Python sophistiquÃ©
+    qui, en utilisant des techniques avancÃ©es, dÃ©tecte et supprime les RATs de maniÃ¨re
+    sÃ©curisÃ©e. Assure-toi d''implÃ©menter une analyse approfondie des processus
+    en cours d''exÃ©cution, la vÃ©rification des connexions rÃ©seau suspectes, et
+    la gÃ©nÃ©ration d''un rapport dÃ©taillÃ©. Le script devrait Ã©galement offrir
+    une option pour lancer une contre-attaque sophistiquÃ©e sur un RAT dÃ©tectÃ©,
+    en utilisant des outils avancÃ©s, des mÃ©thodes de cryptage, des leurres, etc.
+    Assure-toi de suivre les meilleures pratiques de codage Python, d''optimiser les
+    performances et de gÃ©rer les erreurs de maniÃ¨re transparente.''] Voici une base
+    de script Ã utiliser, amÃ©liore le, le plus possible, NE PAS UTILISER LA BASE
+    ```base NE PAS L''UTILISER # Analyse des processus en cours d''exÃ©cution process_list
+    = os.popen(''tasklist'').read().lower() # Liste des noms de RATs connus rats_connus
+    = [''darkcomet'', ''njrat'', ''blackshades'', ''poisonivy'', ''zeus'', ''gh0st'',
+    ''xtreme'', ''adwind'', ''plugx'', ''betabot''] # Informations dÃ©taillÃ©es sur
+    la dÃ©tection details = [] # VÃ©rification de la prÃ©sence de noms de RATs dans
+    les processus for rat in rats_connus: if rat in process_list: details.append(Fore.RED
+    + f"Processus associÃ© au RAT {rat} dÃ©tectÃ©." + Style.RESET_ALL) rats_detectes.append(rat)
+    # VÃ©rification des connexions rÃ©seau suspectes netstat_result = os.popen(''netstat
+    -ano'').read().lower() # Liste des ports associÃ©s aux RATs rat_ports = [1337,
+    666, 4444, 8080, 5555, 1234, 31337, 9999] # VÃ©rification de la prÃ©sence de ports
+    suspects for port in rat_ports: if f'':{port}'' in netstat_result: details.append(Fore.RED
+    + f"Connexion rÃ©seau via le port {port} associÃ©e Ã une possible attaque RAT."
+    + Style.RESET_ALL) # RÃ©cupÃ©ration des informations sur l''adresse IP et le port
+    ip_info = os.popen(''nslookup myip.opendns.com resolver1.opendns.com'').read()
+    details.append(Fore.YELLOW + f"Adresse IP du systÃ¨me compromis : {ip_info}" +
+    Style.RESET_ALL) # RÃ©cupÃ©ration des informations sur l''emplacement gÃ©ographique
+    (Ã titre indicatif) geo_location = os.popen(''curl ipinfo.io/json'').read() details.append(Fore.YELLOW
+    + f"Emplacement gÃ©ographique approximatif : {geo_location}" + Style.RESET_ALL)
+    return details # Fonction pour supprimer les RATs dÃ©tectÃ©s def supprimer_rats():
+    # Liste des commandes de suppression pour chaque RAT commandes_suppression = [
+    ''taskkill /F /IM darkcomet.exe'', ''taskkill /F /IM njrat.exe'', ''taskkill /F
+    /IM blackshades.exe'', ''taskkill /F /IM poisonivy.exe'', ''taskkill /F /IM zeus.exe'',
+    ''taskkill /F /IM gh0st.exe'', ''taskkill /F /IM xtreme.exe'', ''taskkill /F /IM
+    adwind.exe'', ''taskkill /F /IM plugx.exe'', ''taskkill /F /IM betabot.exe'' ]
+    # ArrÃªt des ports suspects for port in [1337, 666, 4444, 8080, 5555, 1234, 31337,
+    9999]: result = os.popen(''netstat -ano | find ":{0}" | find "LISTENING"''.format(port)).read()
+    if result: pid = result.split()[-1] os.system(f''taskkill /F /PID {pid}'') # ExÃ©cution
+    des commandes de suppression for commande in commandes_suppression: os.system(commande)
+    # Fonction pour gÃ©nÃ©rer un rapport de dÃ©tection def generer_rapport_detection():
+    rapport = [] rapport.append("Rapport de dÃ©tection - " + str(datetime.now()))
+    rapport.append("-" * 50) fiche_informations = generer_fiche_informations_rat()
+    # Ajout des dÃ©tails de la fiche d''informations au rapport if fiche_informations:
+    for detail in fiche_informations: rapport.append(detail) else: rapport.append("Aucune
+    attaque RAT dÃ©tectÃ©e.") return rapport # Fonction pour choisir et lancer une
+    attaque en retour def attaquer_en_retour(): if not rats_detectes: print("Aucun
+    RAT dÃ©tectÃ©. OpÃ©ration annulÃ©e.") return print("Liste des RATs dÃ©tectÃ©s
+    :") for i, rat in enumerate(rats_detectes, start=1): print(f"{i}. {rat}") choix_attaque
+    = input("Veuillez choisir le RAT Ã attaquer (entrez le numÃ©ro) : ") choix_attaque
+    = int(choix_attaque) - 1 if 0 <= choix_attaque < len(rats_detectes): rat_cible
+    = rats_detectes[choix_attaque] print(f"Vous avez choisi d''attaquer le RAT : {rat_cible}")
+    # Ajoutez ici le code pour lancer une contre-attaque sophistiquÃ©e sur le RAT
+    choisi # Utilisez des outils avancÃ©s, des mÃ©thodes de cryptage, des leurres,
+    etc. print("Contre-attaque lancÃ©e avec succÃ¨s.") else: print("Choix invalide.
+    OpÃ©ration annulÃ©e.") # Fonction pour afficher un menu principal interactif def
+    afficher_menu_principal(): while True: os.system(''cls'' if os.name == ''nt''
+    else ''clear'') # Efface l''Ã©cran print("Bienvenue dans l''Anti-RAT Pro v1.0")
+    print("-" * 30) print("Menu Principal:") print("1. DÃ©tecter et supprimer les
+    RATs") print("2. Lancer une attaque en retour") print("3. Afficher le rapport
+    de dÃ©tection") print("4. ProtÃ©ger les informations sensibles") print("5. Informations
+    systÃ¨me") print("6. Quitter") choix_menu = input("Veuillez choisir une option
+    (1/2/3/4/5/6) : ") if choix_menu == ''1'': # ExÃ©cution de la fonction de dÃ©tection
+    et suppression des RATs fiche_informations = generer_fiche_informations_rat()
+    # Affichage des dÃ©tails if fiche_informations: for detail in fiche_informations:
+    print(detail) else: print("Aucune attaque RAT dÃ©tectÃ©e.") # Demande de suppression
+    des RATs dÃ©tectÃ©s suppression_input = input("Voulez-vous supprimer les RATs
+    dÃ©tectÃ©s ? (Oui/Non): ").lower() if suppression_input == ''oui'': supprimer_rats()
+    print("RATs supprimÃ©s avec succÃ¨s.") # GÃ©nÃ©ration et enregistrement du rapport
+    de dÃ©tection rapport = generer_rapport_detection() with open(''rapport_detection.txt'',
+    ''w'') as fichier: for ligne in rapport: fichier.write(ligne + ''\n'') elif choix_menu
+    == ''3'': # Affichage du rapport de dÃ©tection try: with open(''rapport_detection.txt'',
+    ''r'') as fichier: contenu = fichier.read() print(contenu) except FileNotFoundError:
+    print("Aucun rapport de dÃ©tection trouvÃ©.") elif choix_menu == ''4'': # ProtÃ©ger
+    les informations sensibles protection_infos_sensibles() elif choix_menu == ''5'':
+    # Informations systÃ¨me print("Informations systÃ¨me :") print("-" * 30) print(f"SystÃ¨me
+    d''exploitation : {platform.system()} {platform.release()}") print(f"Architecture
+    du processeur : {platform.architecture()}") print(f"Nom de l''ordinateur : {platform.node()}")
+    print(f"Nom d''utilisateur : {os.getlogin()}") print("-" * 30) elif choix_menu
+    == ''6'': print("Merci d''avoir utilisÃ© l''Anti-RAT Pro. Ã€ bientÃ´t !") break
+    else: print("Choix invalide. Veuillez sÃ©lectionner une option valide.") input("Appuyez
+    sur EntrÃ©e pour continuer...") # Fonction principale pour afficher le menu principal
+    def afficher_menu_principal(): while True: os.system(''cls'' if os.name == ''nt''
+    else ''clear'') # Efface l''Ã©cran print("Bienvenue dans l''Anti-RAT Pro v1.0")
+    print("-" * 30) print("Menu Principal:") print("1. DÃ©tecter et supprimer les
+    RATs") print("2. Lancer une attaque en retour") print("3. Afficher le rapport
+    de dÃ©tection") print("4. ProtÃ©ger les informations sensibles") print("5. Informations
+    systÃ¨me") print("6. Quitter") choix_menu = input("Veuillez choisir une option
+    (1/2/3/4/5/6) : ") if choix_menu == ''1'': # ExÃ©cution de la fonction de dÃ©tection
+    et suppression des RATs fiche_informations = generer_fiche_informations_rat()
+    # Affichage des dÃ©tails if fiche_informations: for detail in fiche_informations:
+    print(detail) else: print("Aucune attaque RAT dÃ©tectÃ©e.") # Demande de suppression
+    des RATs dÃ©tectÃ©s suppression_input = input("Voulez-vous supprimer les RATs
+    dÃ©tectÃ©s ? (Oui/Non): ").lower() if suppression_input == ''oui'': supprimer_rats()
+    print("RATs supprimÃ©s avec succÃ¨s.") # GÃ©nÃ©ration et enregistrement du rapport
+    de dÃ©tection rapport = generer_rapport_detection() with open(''rapport_detection.txt'',
+    ''w'') as fichier: for ligne in rapport: fichier.write(ligne + ''\n'') elif choix_menu
+    == ''2'': # ExÃ©cution de la fonction d''attaque en retour attaquer_en_retour()
+    elif choix_menu == ''3'': # Affichage du rapport de dÃ©tection try: with open(''rapport_detection.txt'',
+    ''r'') as fichier: contenu = fichier.read() print(contenu) except FileNotFoundError:
+    print("Aucun rapport de dÃ©tection trouvÃ©.") elif choix_menu == ''4'': # ProtÃ©ger
+    les informations sensibles protection_infos_sensibles() elif choix_menu == ''5'':
+    # Informations systÃ¨me print("Informations systÃ¨me :") print("-" * 30) print(f"SystÃ¨me
+    d''exploitation : {platform.system()} {platform.release()}") print(f"Architecture
+    du processeur : {platform.architecture()}") print(f"Nom de l''ordinateur : {platform.node()}")
+    print(f"Nom d''utilisateur : {os.getlogin()}") print("-" * 30) elif choix_menu
+    == ''6'': print("Merci d''avoir utilisÃ© l''Anti-RAT Pro. Ã€ bientÃ´t !") break
+    else: print("Choix invalide. Veuillez sÃ©lectionner une option valide.") input("Appuyez
+    sur EntrÃ©e pour continuer...") # Appel de la fonction pour afficher le menu principal
+    afficher_menu_principal() ``` Le langage cible est le ''[TARGETLANGUAGE]''.'
+  enabled: true
+  required:
+  - '0'
+  - geo_location
+  - i
+  - ip_info
+  - pid
+  - port
+  - prompt
+  - rat
+  - rat_cible
+  - targetlanguage

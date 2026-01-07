@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1156
+# teaser: Using the "Problem-Agitate-Solve" framework write marketing emails that will 10X your
+# conversions. Thanks for the upvote
+- id: 1156-high-converting-email-marketing-campaigns
+  title: High Converting Email Marketing Campaigns
+  tags:
+  - writing
+  - high
+  - converting
+  - email
+  - marketing
+  - campaigns
+  family: writing
+  body: 'Your task is to Use the Problem-Agitate-Solve framework, write an email marketing
+    campaign where the "ideal customer avatar" has a problem "list the problem here",
+    agitate that problem and solve with "product, service or idea" All output shall
+    be in [TARGETLANGUAGE]. The test to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

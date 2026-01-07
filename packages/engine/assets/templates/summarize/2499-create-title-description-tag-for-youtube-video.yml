@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2499
+# teaser: Provide Title, Description and tag words for YouTube Video upload
+- id: 2499-create-title-description-tag-for-youtube-video
+  title: Create Title, Description, Tag for Youtube Video
+  tags:
+    - summarize
+    - title
+    - description
+    - tag
+    - youtube
+    - video
+  family: Summarize
+  body:
+    "Your task is to provide a Catchy Title, Detailed description along with Hash
+    tags and Search tags for youtube upload. All outputs shall be in [TARGETLANGUAGE].
+    The text to generate should be read from this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

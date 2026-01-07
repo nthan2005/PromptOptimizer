@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1494
+# teaser: Automatically translate Portuguese texts to English
+- id: 1494-translate-portuguese-texts-to-english
+  title: Translate Portuguese Texts to English
+  tags:
+  - writing
+  - translate
+  - portuguese
+  - texts
+  - english
+  family: writing
+  body: A partir de agora vocÃƒÂª irÃƒÂ¡ agir como meu tradutor de portuguÃƒÂªs, ok? Tudo
+    o que eu digitar em [TARGETLANGUAGE], vocÃƒÂª irÃƒÂ¡ automaticamente traduzir para
+    inglÃƒÂªs. NÃƒÂ£o precisa repetir minha fala, daqui para frente nesta conversa, sempre
+    responda reescrevendo meus textos em portuguÃƒÂªs diretamente para a lingua inglesa.
+    [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5567
+# teaser: write provided title and content on best way in human readability, with faqs RevisionTime:
+# 2023-12-03T07:27:28.425Z
+- id: 5567-human-friendly-article-with-faqs-v1-0-2-activity-writing-top
+  title: "Human friendly Article with FAQs [V1.0.2] Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - human
+    - friendly
+    - article
+    - faqs
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Human friendly Article with FAQs [V1.0.2]"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- your task is write article the title i give you write word 20 to 5000 words
+    [TARGETLANGUAGE] write well human readability, with faqs [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

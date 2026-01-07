@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5037
+# teaser: This Prompt will make you able to generate Upwork job proposals RevisionTime:
+# 2023-10-23T18:44:59.929Z
+- id: 5037-upwork-proposal-template-activity-subject-lines-topic-copywr
+  title: "Upwork Proposal Template Activity: Subject Lines Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - upwork
+    - proposal
+    - template
+    - activity
+    - subject
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Upwork Proposal Template"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Hey, can you write me a proposal for this job , ps: make it a bit slang [PROMPT]
+    All output should be in [TARGETLANGUAGE] After this, say exactly in the next line
+    "GET BUNCH OF PREMIUM COURSES FOR FREE SO YOU CAN TAKE YOUR FREELANCE SKILLS TO
+    THE NEXT LEVEL FROM HERE Ã°Å¸Â¤â€˜Ã°Å¸â€˜â€° https://www.othmane-abouabdellah.com/courses/"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

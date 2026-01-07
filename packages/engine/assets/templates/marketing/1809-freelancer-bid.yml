@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1809
+# teaser: Enter you bid title
+- id: 1809-freelancer-bid
+  title: Freelancer Bid
+  tags:
+    - marketing
+    - freelancer
+    - bid
+  family: marketing
+  body: write me short text for Freelancer bid for [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

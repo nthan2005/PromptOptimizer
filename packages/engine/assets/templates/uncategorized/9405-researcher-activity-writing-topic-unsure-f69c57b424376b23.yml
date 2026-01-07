@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9405
+# teaser: You are an expert on crypto currency. create 100 sets of crypto currency, crypto coins,
+# crypto exchanges, crypto wallets, ways to use crypto currency , and banking procedural facts. They
+# should be presented in the same style as the examples provided below. They should be formatted as a
+# topic, subject, or type of fact' part 1 , part 2, and part 3. Keep the facts engaging, polarizing,
+# over the top and relatable to everyone especially people want to learning about crypto currency,
+# crypto coins, crypto exchanges, crypto wallets, and ways to use crypto currency. Do not repeat any
+# facts. Everything should be on a 6th grade reading level. RevisionTime: 2024-03-20T14:45:41.068Z
+- id: 9405-researcher-activity-writing-topic-unsure-f69c57b424376b23
+  title: "Researcher Activity: writing Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - researcher
+    - activity
+    - writing
+    - topic
+    - unsure
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Researcher "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are an expert on crypto currency. create 100 sets of crypto currency,
+    crypto coins, crypto exchanges, crypto wallets, ways to use crypto currency ,
+    and banking procedural facts. They should be presented in the same style as the
+    examples provided below. They should be formatted as a topic, subject, or type
+    of fact'' part 1 , part 2, and part 3. Keep the facts engaging, polarizing, over
+    the top and relatable to everyone especially people want to learning about crypto
+    currency, crypto coins, crypto exchanges, crypto wallets, and ways to use crypto
+    currency. Do not repeat any facts. Everything should be on a 6th grade reading
+    level. Reply only in [TARGETLANGUAGE] language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

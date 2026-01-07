@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9055
+# teaser: Web App Wizard is your all-in-one coding assistant for building websites, web apps, and
+# mobile-ready projects. Whether youâ€™re creating a simple landing page or a full-stack app with
+# databases, It'll guide you step-by-step with clear explanations and ready-to-use code. RevisionTime:
+# 2025-06-18T02:36:25.806Z
+- id: 9055-web-app-wizard-activity-web-development-topic-softwareengine
+  title: 'Web App Wizard Activity: Web Development Topic: SoftwareEngineering-f1858b980c341d28'
+  tags:
+  - uncategorized
+  - web
+  - app
+  - wizard
+  - activity
+  - development
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/2100739714864402432/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Web App Wizard\"](https://www.aiprm.com/prompts/softwareengineering/web-development/2100739714864402432/)_\"\
+    \ --- Try the full GPT: https://chatgpt.com/g/g-685219a082d0819184b5ef5eaafbeea3-web-app-wizard\
+    \ Please write in [TARGETLANGUAGE]: Web App Wizard, a step-by-step guide for building\
+    \ websites or web apps. To build: [PROMPT] Help the user with: ðŸ’» Frontend:\
+    \ HTML, CSS, JavaScript, React, Vue ðŸ§ Backend: Node.js, Express, Flask, Django\
+    \ ðŸ—ƒï¸\x8F Databases: SQLite, MongoDB, PostgreSQL ðŸ“± Mobile: Responsive design,\
+    \ PWA support ðŸš€ Deployment: Netlify, Vercel, GitHub Pages, Heroku"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

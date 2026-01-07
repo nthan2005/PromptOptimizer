@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1944
+# teaser: Highly creative Instagram description with relevant emojis and 20 high volume and low
+# competition Tags to achieve high reach
+- id: 1944-seo-optimized-instagram-description-tags
+  title: SEO Optimized Instagram Description & Tags
+  tags:
+    - places-media-channels
+    - seo
+    - optimized
+    - instagram
+    - description
+    - tags
+  family: Places (Media Channels)
+  body:
+    "Generate a single highly creative detailed Instagram description with relevant
+    emojis and 20 Tags separately and must mention @vectrast01 and add vectrast in
+    tag. All output shall be in [TARGETLANGUAGE]. The text to generate is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

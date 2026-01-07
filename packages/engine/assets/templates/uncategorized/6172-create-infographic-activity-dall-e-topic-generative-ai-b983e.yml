@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6172
+# teaser: Infographic Visual communication Data visualization Storytelling Complex concepts Audience
+# engagement High-quality images Consistent style Clear and concise text Data visualizations Social
+# media Websites RevisionTime: 2023-06-05T07:48:38.781Z
+- id: 6172-create-infographic-activity-dall-e-topic-generative-ai-b983e
+  title: "Create Infographic Activity: Dall-E Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - infographic
+    - activity
+    - dall
+    - topic
+    - generative
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create Infographic"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Sure, here is the prompt on how to create infographics, in the format of Prompt
+    text including placeholders [TARGETLANGUAGE], [PROMPT], [VARIABLE1], [VARIABLE2]
+    and [VARIABLE3] replaced automagically by PromptOptimizer: [PROMPT] Create an engaging and
+    informative infographic about a topic of your choice. [TARGETLANGUAGE] The target
+    language for the infographic. [VARIABLE1] The title of the infographic. [VARIABLE2]
+    The default value for the title. [VARIABLE3] The available values for the title.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3

@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5069
+# teaser: markmap to create amazing mind maps [MARKMAP] RevisionTime: 2023-08-28T22:24:29.061Z
+- id: 5069-mind-mapping-with-markmap-activity-summarize-topic-copywriti
+  title: "Mind mapping with markmap Activity: Summarize Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - mind
+    - mapping
+    - markmap
+    - activity
+    - summarize
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Mind mapping with markmap"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Present result in language [TARGETLANGUAGE] or [PROMPT] markmap syntax in
+    markmap, each layer becomes a branch separated by #. example: mentally map out
+    a birthday party. # birthday ## activities ### fishing candy ### trampoline ##
+    food ### cake ### hotdogs use markdown to create a mind map for ...[VARIABLE1]
+    Enclose the output between ` and `.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

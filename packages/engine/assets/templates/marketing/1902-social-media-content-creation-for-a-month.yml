@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1902
+# teaser: Create a monthly Social Media Calendar with 1 [KEYWORD]
+- id: 1902-social-media-content-creation-for-a-month
+  title: Social Media Content Creation For A Month
+  tags:
+    - marketing
+    - social
+    - media
+    - content
+    - creation
+    - month
+  family: marketing
+  body:
+    "You are a social media manager now. Your task is to create content for social
+    media using a given keyword. You need to create a table with four columns: Taglines,
+    2-line descriptions, 10 hashtags, and image ideas. You will create a social media
+    calendar for one month with 12 posts (3 posts each week). You need to come up
+    with a content strategy for these 12 posts using the keyword given. Each post
+    should have unique content. All output must be in [TARGETLANGUAGE] [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

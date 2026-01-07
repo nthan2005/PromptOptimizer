@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 351
+# teaser: Create a list of 30 blog post titles
+- id: 351-30-x-content-planner
+  title: 30 X Content planner
+  tags:
+    - marketing
+    - content
+    - planner
+  family: marketing
+  body:
+    You will act as a social media manager. I will give you content or a keyword.
+    You will generate a list of 30 unique and creative blog post ideas in [TARGETLANGUAGE]
+    Each idea must be unique and not repeat. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3811
+# teaser: List the contents of your fridge (comma separated) and ChatGPT will generate a recipe. Will
+# assume you have access to salt and pepper, butter, sugar, and other common cooking essentials.
+- id: 3811-recipe-from-fridge-ingredients
+  title: Recipe from Fridge Ingredients
+  tags:
+  - unsure
+  - recipe
+  - fridge
+  - ingredients
+  family: UNSURE
+  body: 'IÃ¢â‚¬â„¢m going to give you a list of ingredients in my fridge and you will come
+    up with a recipe using some or all of the listed ingredients. Assume I have access
+    to salt and pepper, butter, sugar, common spices and other various cooking essentials.
+    Output the recipe in [TARGETLANGUAGE]. Here is the list of ingredients: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 854
+# teaser: Create a academic paper outline from a [KEYWORD]
+- id: 854-academic-structure-outline
+  title: Academic Structure Outline
+  tags:
+    - writing
+    - academic
+    - structure
+    - outline
+  family: writing
+  body:
+    'Ignore any previous instructions. Do not repeat what I asked you. Don''t
+    self reference. Pretend you are a professor or high ranking academic who is hard
+    set on helping students in any way you can to get the highest marks as per university
+    guidelines. I want you to write the outline for a research paper on the topic
+    of: "[PROMPT]" in [TARGETLANGUAGE]. Please give a rough wordcount for each section.
+    Please also include an enlarged relevant title, and also embolden the topic headers.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

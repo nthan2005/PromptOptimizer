@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2272
+# teaser: Productcategorie maken
+- id: 2272-productcategorie-maken
+  title: Productcategorie maken
+  tags:
+    - plan
+    - productcategorie
+    - maken
+  family: Plan
+  body:
+    "Make productcategories by means of brand, size or colour: [TARGETLANGUAGE]
+    [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

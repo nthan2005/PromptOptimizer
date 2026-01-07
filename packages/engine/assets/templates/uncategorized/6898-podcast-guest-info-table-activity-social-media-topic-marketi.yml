@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6898
+# teaser: Find books, podcasts and Twitter handle for Podcast guests. RevisionTime:
+# 2024-10-03T09:57:49.309Z
+- id: 6898-podcast-guest-info-table-activity-social-media-topic-marketi
+  title: "Podcast Guest Info Table Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - podcast
+    - guest
+    - info
+    - table
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Podcast Guest Info Table"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Given the names in [PROMPT] below. Please can you create me a table with the
+    name and any books that they have written plus the topic of the book also includes
+    any podcast that they host and the topic and finally their Twitter handle. So
+    the table should have 6 columns and include column headings. Column 1 is name,
+    column 2 is book titles, column 3 is topic of said books, column 4 is podcast
+    title (if any) and column 5 is the podcast topic, and finally column 6 is their
+    twitter handle. If the person has written multiple books include them each on
+    a new line within the same cell. Write the table output in [TARGETLANGUAGE] Thanks:
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

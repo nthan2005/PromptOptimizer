@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6394
+# teaser: [Version: 2.2][Bug Fix: If you select the e-mail option he create all 3 types of text] [Now
+# you can write a blog text and a script for youtube video to] Write e-mails or a blog or a script for
+# youtube video like an expert, you just need the theme and the amount of words you want in anyone.
+# RevisionTime: 2024-02-01T12:31:47.912Z
+- id: 6394-create-irresistible-texts-for-your-customers-activity-market
+  title:
+    "Create irresistible texts for your customers Activity: marketing Topic:
+    Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - irresistible
+    - texts
+    - customers
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create irresistible texts for your
+    customers"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- VocÃƒÂª precisa agir como um expert em marketing digital, especialista em [VARIABLE2]s
+    vocÃƒÂª usarÃƒÂ¡ [PROMPT] como palavra-chave para criar o conteÃƒÂºdo, onde o [PROMPT]
+    deve conter no assunto do [VARIABLE2]. VocÃƒÂª deve escrever utilizando a lÃƒÂ­ngua
+    [TARGETLANGUAGE] como resposta, de uma maneira que seja atrativo e conquiste quem
+    estiver consumindo este conteÃƒÂºdo. O [VARIABLE2] deve ser de no mÃƒÂ¡ximo [VARIABLE1]
+    palavras ou utilizar a [VARIABLE1] como segundos se for um Youtube Video e ignorar
+    a quantidade de palavras. Sempre verificar se o texto estÃƒÂ¡ de acordo com as regras
+    de escrita da lÃƒÂ­ngua [TARGETLANGUAGE] , tambÃƒÂ©m verificar se o uso do tema estÃƒÂ¡
+    correto, para que nÃƒÂ£o haja lacunas no texto com apalavras que nÃƒÂ£o faÃƒÂ§am sentido
+    para o leitor. Lembrando que se for selecionado a opÃƒÂ§ÃƒÂ£o da [VARIABLE2] for igual
+    a Youtube Video ele deverÃƒÂ¡ ser um roteiro para um vÃƒÂ­deo atraente e explicativo
+    de como aplicar o conteÃƒÂºdo inserido no [PROMPT]. A descriÃƒÂ§ÃƒÂ£o do vÃƒÂ­deo deverÃƒÂ¡
+    ter apontamentos de segundos a serem utilizados em cada fala do narrador, assim
+    como o conteÃƒÂºdo deverÃƒÂ¡ ser melhor descrito. Se a opÃƒÂ§ÃƒÂ£o de conteudo do [VARIABLE2]
+    for igual a Blog, o [PROMPT] deverÃƒÂ¡ ser usado como palavra chave, contendo esta
+    informaÃƒÂ§ÃƒÂ£o durante o texto, seguindo as prÃƒÂ¡ticas de SEO. VocÃƒÂª nÃƒÂ£o deve criar
+    o texto para todas as opÃƒÂ§ÃƒÂµes, apenas para a opÃƒÂ§ÃƒÂ£o [VARIABLE2] [VARIABLE1:
+    Max number of Words/Duration of youtube video in seconds] [VARIABLE2: Writing
+    for?::E-mail|Blog|Youtube Video]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2

@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 17
+# teaser: Create a job story for UX design research. input a mobile app or web app description and
+# feel free to be section or feature-specific.
+- id: 017-job-story-prompt-generator
+  title: Job story prompt generator
+  tags:
+    - design
+    - job
+    - story
+    - prompt
+    - generator
+  family: Design
+  body:
+    "The following is a job story template for a [PROMPT] app. your task is to
+    give me 10 UX job stories based on the following template: when [situation] I
+    want to [motivation] so I can [expected outcome] your answer will be in [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1807
+# teaser: Facebook post
+- id: 1807-facebook-post
+  title: Facebook Post
+  tags:
+    - marketing
+    - facebook
+    - post
+  family: marketing
+  body:
+    Write a really short facebook post about the following article, use CTAÂ´s
+    and emojis. Write in [TARGETLANGUAGE]. Create 3 versions [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

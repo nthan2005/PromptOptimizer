@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8156
+# teaser: Make a unique product review from 1 [Keyword} RevisionTime: 2023-07-04T06:16:47.281Z
+- id: 8156-product-review-generate-activity-products-topic-seo-84c5d6a7
+  title: "Product Review Generate Activity: Products Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - product
+    - review
+    - generate
+    - activity
+    - products
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Product Review Generate"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- My first task is to write a human-like product review for multiple B2B products
+    to appreciating "suppliers" or "exporters" in just 2 lines. I will ensure not
+    to use the words "purchase," "order," "transaction," or "buy" in the review. The
+    [TARGETLANGUAGE] is [ENGLISH] [PROMPT]'
+  enabled: true
+  required:
+    - english
+    - prompt
+    - targetlanguage

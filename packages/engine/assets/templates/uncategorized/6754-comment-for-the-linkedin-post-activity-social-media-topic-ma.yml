@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6754
+# teaser: Write a best appriciative Linkedin comment on the given content. RevisionTime:
+# 2024-10-25T19:20:04.909Z
+- id: 6754-comment-for-the-linkedin-post-activity-social-media-topic-ma
+  title: "Comment for the LinkedIn Post Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - comment
+    - linkedin
+    - post
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Comment for the LinkedIn Post"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a LinkedIn comment on given LinkedIn Post [PROMPT] in [TARGETLANGUAGE].
+    Comment should be consist of 1 to 2 lines and in Appreciative Manner. try to ask
+    simple relative short question in the end. do not add emojis. Please add no phrasing
+    words in the beginning! make it a healthy conversation. Please do not add fancy
+    words.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

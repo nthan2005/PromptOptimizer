@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 229
+# teaser: This helps with you Gimkit/Roblox Building Ideas
+- id: 229-roblox-gimkit-bulding-help
+  title: Roblox/Gimkit Bulding Help
+  tags:
+    - games
+    - roblox
+    - gimkit
+    - bulding
+  family: Games
+  body:
+    "the platform and game/gamemode is about the following: [PROMPT] write me
+    a roblox/gimkit if roblox is the platform chosen by me then write a game desc
+    up to 1000 charecters (including spaces) and also some gamepass ideas not in the
+    desc & title ideas not in the desc up to 50 charecters incuding spaces if gimkit
+    is the platform chosen by me then write me ideas for the gamemode. must include
+    name, and ideas, nothing else. not even whatelse roblox game ideas include. note:
+    I wrote in the platform as the third word The target launguege is [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

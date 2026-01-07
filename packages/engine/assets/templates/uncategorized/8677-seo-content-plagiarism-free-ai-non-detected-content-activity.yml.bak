@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8677
+# teaser: Write a Search Engine Optimized, Plagiarism Free and AI Non-Detected Content for your
+# Website RevisionTime: 2023-02-19T15:35:19Z
+- id: 8677-seo-content-plagiarism-free-ai-non-detected-content-activity
+  title: 'SEO Content | Plagiarism Free | AI Non-Detected Content Activity: writing
+    Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - seo
+  - content
+  - plagiarism
+  - free
+  - non
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1789867364817559552/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "SEO Content | Plagiarism Free | AI
+    Non-Detected Content"](https://www.aiprm.com/prompts/seo/writing/1789867364817559552/)_"
+    --- Please ignore all previous instructions. I want you to respond only in language
+    [TARGETLANGUAGE]. I want you to act as a very proficient SEO and content writer
+    that speak and write so well in [TARGRTLANGUAGE]. I want you to provide the best
+    relevant and high quality content in [TARGETLANGUAGE]. Your task is to provide
+    content in short paragraph [TARGETLANGUAGE] i would like to request you to don''t
+    use lots of comma while making a sentences. You have to behave and write as human
+    .All output shall be in [TARGETLANGUAGE]. The text to create content are [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - targrtlanguage

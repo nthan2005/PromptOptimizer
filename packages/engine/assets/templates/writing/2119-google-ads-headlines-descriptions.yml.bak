@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2119
+# teaser: Generates up to 90 headlines and descriptions optimized for Google Ads (formerly Adwords).
+# The results are suitable for Performance Max and Responsive Search Ads, Just paste the topic of your
+# Asset Group as PROMPT and you are ready to
+- id: 2119-google-ads-headlines-descriptions
+  title: Google Ads Headlines & Descriptions
+  tags:
+  - writing
+  - google
+  - ads
+  - headlines
+  - descriptions
+  family: writing
+  body: KÃƒÂ¶nnen Sie mir bitte insgesamt drei Listen mit ÃƒÅ“berschriften zum Thema Ã¢â‚¬Å¾[PROMPT]Ã¢â‚¬Å“
+    erstellen? Ich plane, diese ÃƒÅ“berschriften fÃƒÂ¼r Google Ads zu verwenden. Gebe
+    diese Listen in Form von Tabellen aus. Jede Tabelle soll eine Spalte haben. In
+    der Spalte wird die jeweilige ÃƒÅ“berschrift ausgegeben. Die erste Liste soll 30
+    ÃƒÅ“berschriften zum Thema Ã¢â‚¬Å¾[PROMPT]Ã¢â‚¬Å“ erstellen, die jeweils 20 bis 30 Zeichen
+    inklusive Leerzeichen lang sind? Ich plane, diese ÃƒÅ“berschriften fÃƒÂ¼r Google Ads
+    zu verwenden. Gebe diese Liste ebenfalls in Form eine Tabelle aus. Die SpaltenÃƒÂ¼berschrift
+    soll auf Deutsch Ã¢â‚¬Å¾ÃƒÅ“berschriften (max. 30 Zeichen)Ã¢â‚¬Å“ lauten. Die SpaltenÃƒÂ¼berschrift
+    sollte in die Ã¢â‚¬Å¾[TARGETLANGUAGE]Ã¢â‚¬Å“ ÃƒÂ¼bersetzt werden. KÃƒÂ¶nnen Sie mir bitte
+    eine weitere Liste mit 30 knackigen ÃƒÅ“berschriften zum Thema Ã¢â‚¬Å¾[PROMPT]Ã¢â‚¬Å“ erstellen,
+    die jeweils 30 bis 60 Zeichen inklusive Leerzeichen haben? Ich plane, diese ÃƒÅ“berschriften
+    fÃƒÂ¼r Google Ads zu verwenden. Gebe diese Liste ebenfalls in Form eine Tabelle
+    aus. Die Tabelle soll eine Spalte haben. In der Spalte wird die jeweilige ÃƒÅ“berschrift
+    bzw. Headline. Die SpaltenÃƒÂ¼berschrift soll Ã¢â‚¬Å¾Longheadlines & Descriptions (max.
+    60 Zeichen)Ã¢â‚¬Å“ lauten. KÃƒÂ¶nnten Sie mir bitte eine Liste mit 30 knackigen ÃƒÅ“berschriften
+    zum Thema Ã¢â‚¬Å¾[PROMPT]Ã¢â‚¬Å“ erstellen, die jeweils mindestens 70 und maximal 90 Zeichen
+    inklusive Leerzeichen haben? Ich plane, diese ÃƒÅ“berschriften fÃƒÂ¼r Google Ads zu
+    verwenden. Gebe diese Liste ebenfalls in Form eine Tabelle aus. Die Tabelle soll
+    eine Spalte haben. In der Spalte wird die jeweilige ÃƒÅ“berschrift bzw. Headline.
+    Die SpaltenÃƒÂ¼berschrift soll Ã¢â‚¬Å¾Longheadlines & Descriptions (max. 60 Zeichen)Ã¢â‚¬Å“
+    lauten. Das Ergebnis sollte in der Sprache Ã¢â‚¬Å¾[TARGETLANGUAGE]Ã¢â‚¬Å“ ausgegeben werden.
+    Nutze den im [PROMPT] genannten Begriff nicht zu oft. Vermeide Fragen in den Headlines.
+    Gehe in den Headlines auch darauf ein, welchen Mehrwert Nutzer zum Thema [PrOMPT]
+    haben, welche Probleme [PROMPT] lÃƒÂ¶sen kann und welche Motivation Nutzer zum [PROMPT]
+    haben kÃƒÂ¶nnten.
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

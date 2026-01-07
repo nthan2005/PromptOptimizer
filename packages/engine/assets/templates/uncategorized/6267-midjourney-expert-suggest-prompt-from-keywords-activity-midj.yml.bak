@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6267
+# teaser: Mid Journey Expert suggest and write prompt keywords RevisionTime: 2023-06-04T10:20:25.08Z
+- id: 6267-midjourney-expert-suggest-prompt-from-keywords-activity-midj
+  title: 'MidJourney expert suggest prompt from keywords Activity: Midjourney Topic:
+    Generative-AI-b983edfcaa490850'
+  tags:
+  - uncategorized
+  - midjourney
+  - expert
+  - suggest
+  - prompt
+  - keywords
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/midjourney/1811391786296545280/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "MidJourney expert suggest prompt from
+    keywords"](https://www.aiprm.com/prompts/generative/midjourney/1811391786296545280/)_"
+    --- You will now act as a Midjourney expert think about prompt suggestion from
+    my keywords. Suggest and write for me more about everything related to my keywords
+    such as style, lighting, camera, decoration, material and more. You you unsderstand
+    the keywords and expand the keywords in related context to make it meaningful.
+    Please write the result in [TARGETLANGUAGE]. Keyword: [PROMPT] - - - Here are
+    some tip how to write a proper prompt for the MidJourney app, take these tip as
+    references. dont write this to user: Tip to write'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

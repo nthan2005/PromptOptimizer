@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 543
+# teaser: Description
+- id: 543-amz-product-description
+  title: Amz Product Description
+  tags:
+    - product-description
+    - amz
+    - product
+    - description
+  family: Product Description
+  body:
+    Can you write Amazon Product Description of 1500 Characters. Ensure it doesnâ€™t
+    include any surety words like 100%, perfect, unique, perfect, best, High quality
+    â€“ This is very important By using the following information [PROMPT] write all
+    output in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

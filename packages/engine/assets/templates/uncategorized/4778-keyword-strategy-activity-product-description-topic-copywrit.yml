@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4778
+# teaser: Create a keyword strategy and SEO content plan form 1 [KEYWORD] RevisionTime:
+# 2023-05-13T00:06:33.573Z
+- id: 4778-keyword-strategy-activity-product-description-topic-copywrit
+  title: "Keyword Strategy Activity: Product Description Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - keyword
+    - strategy
+    - activity
+    - product
+    - description
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Keyword Strategy"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Prompt text including placeholders [TARGETLANGUAGE], [PROMPT], [VARIABLE1],
+    [VARIABLE2] and [VARIABLE3] replaced automagically by MKT18 [VARIABLE], [VARIABLE2]
+    and [VARIABLE3] require title with optional default value and available values.
+    Example: Example[PROMPT] in [TARGETLANGUAGE] with [VARIABLE1], [VARIABLE2] and
+    [VARIABLE3]. [VARIABLE1: Title] [VARIABLE2:Title:DefaultValue] [VARIABLE3:Title:DefaultValue:Available
+    Value 1|Available Value 2|Available Value 3]. [VARIABLE1], [VARIABLE2] and [VARIABLE3]
+    will be pre-filled using URL parameters AIPRM_VARIABLE1, AIPRM_VARIABLE2 and AIPRM_VARIABLE3'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable
+    - variable1
+    - variable2
+    - variable3

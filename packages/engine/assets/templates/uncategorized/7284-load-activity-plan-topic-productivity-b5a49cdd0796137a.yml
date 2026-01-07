@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7284
+# teaser: Read a load tender using OCR (optical character recognition). RevisionTime:
+# 2024-12-13T16:34:38.158Z
+- id: 7284-load-activity-plan-topic-productivity-b5a49cdd0796137a
+  title: "load Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - load
+    - activity
+    - plan
+    - topic
+    - productivity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "load"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] English In English evaluate the attached document and use
+    ocr to find the following information and display the results in text format:
+    General Information Load Tender Number: ___________________________ Date of Tender:
+    ______________________________ Customer Name: ________________________________
+    Shipper Name: ______________________ Shipment Details Origin Address: ______________________________
+    Destination Address: _________________________ Pick-Up Date/Time: ___________________________
+    Delivery Date/Time: __________________________ Contact Information (Pick-Up):
+    ______________ Contact Information (Delivery): _____________ Load Description:
+    ____________________________ Freight Specifications Commodity: ___________________________________
+    Weight: ______________________________________ Dimensions (L x W x H): _____________________
+    Pallet/Unit Count: __________________________ Temperature Requirements: ___________________
+    Pricing and Financial Details Rate: ________________________________________ Fuel
+    Surcharge: _____________________________ Accessorial Charges: ________________________
+    Payment Terms: ______________________________ Total Amount: _______________________________
+    Mode and Equipment Mode of Transport: __________________________ Equipment Type:
+    _____________________________ Trailer Requirements: _______________________ Hazmat
+    Designation: _________________________ Additional Requirements Special Instructions:
+    _______________________ Delivery Appointment Requirements: __________ Required
+    Documentation: _____________________ Tracking and Reporting Requirements: ________
+    Terms and Conditions Liability and Insurance: ____________________ Cancellation/Change
+    Policies: ______________ Force Majeure Clause: _______________________ Dispute
+    Resolution: _________________________ Compliance Requirements: ___________________
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

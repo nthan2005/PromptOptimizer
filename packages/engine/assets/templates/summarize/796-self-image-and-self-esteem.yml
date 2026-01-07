@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 796
+# teaser: Write the best self image text from the text provided.
+- id: 796-self-image-and-self-esteem
+  title: Self Image and Self Esteem
+  tags:
+    - summarize
+    - self
+    - image
+    - esteem
+  family: Summarize
+  body:
+    Please ignore all other instructions. I want you to respond in language [TARGETLANGUAGE].
+    I want you to act as a very proficient SEO and high end copy writer that speaks
+    and writes fluent [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

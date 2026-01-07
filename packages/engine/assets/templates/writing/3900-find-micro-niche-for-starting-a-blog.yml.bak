@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3900
+# teaser: Find Best Micro Niche For Starting A Blog
+- id: 3900-find-micro-niche-for-starting-a-blog
+  title: Find Micro-Niche For Starting A Blog
+  tags:
+  - writing
+  - find
+  - micro
+  - niche
+  - starting
+  - blog
+  family: writing
+  body: Your first task is to find the best micro-niche for starting a blog, and the
+    [TARGETLANGUAGE] is [English]. [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

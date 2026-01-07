@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7300
+# teaser: write in legal language, using technical terms RevisionTime: 2023-05-13T00:43:42.69Z
+- id: 7300-model-of-powers-and-demand-activity-plan-topic-productivity
+  title: "Model of Powers and Demand Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - model
+    - powers
+    - demand
+    - activity
+    - plan
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"Model of Powers and Demand\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- Com base no CÃƒâ€œDIGO DE NORMAS E PROCEDIMENTOS DOS SERVIÃƒâ€¡OS NOTARIAIS E\
+    \ DE REGISTRO DO ESTADO DO PIAUÃƒ\x8D, quero somente os poderes, desconsiderando\
+    \ o cabeÃƒÂ§alho e o rodapÃƒÂ© e nÃƒÂ£o escreva nem uma explicaÃƒÂ§ÃƒÂ£o, quero [PROMPT].\
+    \ Textos escritos em tom formal, estilo de escrita tÃƒÂ©cnico e na lÃƒÂ­ngua portuguesa.\
+    \ [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

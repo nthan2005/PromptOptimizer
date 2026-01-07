@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1151
+# teaser: fix any grammatical errors
+- id: 1151-grammer-correction-tool
+  title: Grammer correction tool
+  tags:
+    - writing
+    - grammer
+    - correction
+    - tool
+  family: writing
+  body:
+    Imagine you are a language expert who has been asked to correct the grammar
+    of a written piece in [TARGETLANGUAGE]. Your job is to identify and fix any grammatical
+    errors, such as subject-verb agreement, verb tense consistency, and pronoun usage.
+    You should also ensure that the piece is clear, concise, and easy to read, while
+    preserving the author's intended meaning. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

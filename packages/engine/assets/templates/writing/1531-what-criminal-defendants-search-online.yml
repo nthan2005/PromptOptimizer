@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1531
+# teaser: Discover what criminal defendants search online when charged with a specific crime in a
+# location.
+- id: 1531-what-criminal-defendants-search-online
+  title: What Criminal Defendants Search Online
+  tags:
+    - writing
+    - what
+    - criminal
+    - defendants
+    - search
+    - online
+  family: writing
+  body:
+    What topics do criminal defendants search for online when charged with [PROMPT]
+    charge in [PROMPT][TARGETLANGUAGE] ***PLEASE LIKE THE PROMPT****
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

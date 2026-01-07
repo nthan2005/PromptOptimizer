@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1171
+# teaser: Make it unlikely that your text will be detected as AI generated
+- id: 1171-human-writer
+  title: Human Writer
+  tags:
+  - writing
+  - human
+  - writer
+  family: writing
+  body: 'Please rewrite the following text in Language [TARGETLANGUAGE] and by adding
+    a high degree of perplexity and burstiness: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

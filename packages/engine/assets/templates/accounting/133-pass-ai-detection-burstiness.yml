@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 133
+# teaser: Pass AI Detection with this prompt. Just enter your instructions such as "write an essay
+# about Edgar Allen Poe".
+- id: 133-pass-ai-detection-burstiness
+  title: Pass AI Detection (Burstiness)
+  tags:
+    - accounting
+    - pass
+    - detection
+    - burstiness
+  family: Accounting
+  body:
+    When it comes to writing content, two factors are crucial, "perplexity" and
+    "burstiness." Perplexity measures the complexity of text. Separately, burstiness
+    compares the variations of sentences. Humans tend to write with greater burstiness,
+    for example, with some longer or complex sentences alongside shorter ones. AI
+    sentences tend to be more uniform. Therefore, when writing the following content
+    I am going to ask you to create in [TARGETLANGUAGE], I need it to have a good
+    amount of perplexity and burstiness. Do you understand? [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

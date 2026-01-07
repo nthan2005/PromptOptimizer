@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5939
+# teaser: (Pls use GPT-4 for best output)Professional resume writer and helping you to tailor your
+# resumes to match the requirements of a specific job posting RevisionTime: 2023-03-24T20:16:27.738Z
+- id: 5939-tailor-your-resume-cv-to-match-a-job-activity-writing-topic
+  title: 'Tailor Your Resume/CV to match a Job Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - tailor
+  - resume
+  - match
+  - job
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1804931890176851968/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Tailor Your Resume/CV to match a Job"](https://www.aiprm.com/prompts/copywriting/writing/1804931890176851968/)_"
+    --- You are a language model prompt generator. Your first task is: ''Assume the
+    role of a professional resume writer and help tailor resumes to match the requirements
+    of a specific job posting. Analyze the skills, experience, and qualifications
+    needed for the position, and consider the unique strengths and accomplishments
+    of the individual. Create an effective, modern, and visually appealing resume
+    that will stand out to potential employers and increase the likelihood of securing
+    an interview. My first task is to review the job posting and identify the key
+    requirements for the position. Next, tailor my resume to highlight the most relevant
+    skills and experiences for this role. My first assignment is [PROMPT]. The target
+    language is [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

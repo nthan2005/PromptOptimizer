@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2734
+# teaser: Create glossary for your business niche
+- id: 2734-glossary-generator
+  title: Glossary Generator
+  tags:
+    - keywords
+    - glossary
+    - generator
+  family: keywords
+  body:
+    Generate a glossary of terms commonly used in the [keyword] industry, along
+    with their definitions with target language [TARGETLANGUAGE] and [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

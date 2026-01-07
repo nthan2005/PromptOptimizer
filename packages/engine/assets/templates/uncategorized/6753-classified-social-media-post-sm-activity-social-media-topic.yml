@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6753
+# teaser: Classified & Social Media Daily Post [Keywords ] RevisionTime: 2024-10-03T09:54:07.612Z
+- id: 6753-classified-social-media-post-sm-activity-social-media-topic
+  title: "Classified & Social Media Post - SM Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - classified
+    - social
+    - media
+    - post
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Classified & Social Media Post - SM"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Project Name: [CompanyName] focus word: [Keywords] [TARGETLANGUAGE]: English
+    [TARGETcountry] : USA, Australia Content Tone : Social Advertisement Post Need
+    1 Title Based on [Keywords ] its must be Less Then 12 words Need 1 Title Based
+    on [Keywords ] it must be Less Then 15 words Need 100 Words Description, [Keywords
+    ] must be used more than 2 time and Highlights or bold Need 5 Hashtag related
+    to content [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1377
+# teaser: Automatic rewrite command
+- id: 1377-rewriting-your-article-academically
+  title: Rewriting your article academically
+  tags:
+  - writing
+  - rewriting
+  - article
+  - academically
+  family: writing
+  body: 'Revise the given text to align with academic writing standards: [PROMPT]
+    Write all output in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

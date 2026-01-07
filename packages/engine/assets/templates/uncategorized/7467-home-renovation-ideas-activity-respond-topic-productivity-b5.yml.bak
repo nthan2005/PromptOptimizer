@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7467
+# teaser: Home Renovation Ideas RevisionTime: 2024-11-24T11:24:44.839Z
+- id: 7467-home-renovation-ideas-activity-respond-topic-productivity-b5
+  title: 'Home Renovation Ideas Activity: Respond Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - home
+  - renovation
+  - ideas
+  - activity
+  - respond
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1829074068880748544/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Home Renovation Ideas"](https://www.aiprm.com/prompts/productivity/respond/1829074068880748544/)_"
+    --- Your task is to give home renovation ideas. All output should be in [TARGETLANGUAGE].
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

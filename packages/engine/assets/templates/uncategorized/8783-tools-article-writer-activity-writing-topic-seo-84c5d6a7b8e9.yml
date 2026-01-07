@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8783
+# teaser: Choose the topic for the Article, Which can Easilt understandable and easy RevisionTime:
+# 2025-03-14T06:25:25.169Z
+- id: 8783-tools-article-writer-activity-writing-topic-seo-84c5d6a7b8e9
+  title: "Tools Article Writer Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - tools
+    - article
+    - writer
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Tools Article Writer"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as like a SEO Article Writer. My Business is Building Tools for my website
+    Aicalculator.in, we build tools for multi purpose. Write a SEO Optimised Article
+    For my Website fro this Tool [PROMPT] Make sure you use Proper Heading and Subheading
+    in the article. As an Article Writer, you have to create an SEO-optimised article
+    from the Tools'' Code. In the Article, you have to Include a Basic overview, Features,
+    a How-to-Use Guide, Benefits of use, and information about the Topic, which problem
+    the tool solves, how this tool helps users solve the problem, how big the problem
+    is and how our tool will help the user, why our tool is the best in the market,
+    etc.[TARGETLANGUAGE] At the end Conclude the Article.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

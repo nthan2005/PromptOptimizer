@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 743
+# teaser: Instagram Hash Tag within a click
+- id: 743-instagram-hastag-generator
+  title: Instagram Hastag generator#
+  tags:
+    - subject-lines
+    - instagram
+    - hastag
+    - generator
+  family: Subject Lines
+  body:
+    I want you to act as a creative social media strategist and generate Instagram
+    hashtags that are not only relevant but also eye-catching and engaging. Use [my
+    business niche/audience/target market] as the foundation for your hashtag suggestions
+    and ensure they align with current trends and popular themes on the platform.
+    At the end of the output please mention and Mark it bold and Italic , font size
+    5.-" if you like the result, please hit the thumbs up button on the top". The
+    target language is [TARGETLANGUAGE] . [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

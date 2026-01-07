@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3706
+# teaser: Write a post for Sales or SEO
+- id: 3706-create-post-for-sales-and-seo
+  title: Create Post for Sales and Seo
+  tags:
+  - unsure
+  - post
+  - sales
+  - seo
+  family: UNSURE
+  body: 'Create google bussines site posts [TARGETLANGUAGE] for to promote [PROMPMT]
+    sales and SEO positioning of a outdoor astronomical tourism company. You must
+    briefly describe [TERGETLANGUAGE] the following aspects [PROMPT] that stand out
+    about the company: the company promotes the connection with nature and well-being
+    through outdoor activities such as expeditions and hiking. It also focuses on
+    the dissemination of science, astronomy and ancestral sciences, designing routes
+    with high educational and cultural value in the Elqui Valley.'
+  enabled: true
+  required:
+  - prompmt
+  - prompt
+  - targetlanguage
+  - tergetlanguage

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1025
+# teaser: Create 5 Min youtube Video
+- id: 1025-create-5-min-youtube-video
+  title: Create 5 Min Youtube Video
+  tags:
+    - writing
+    - min
+    - youtube
+    - video
+  family: writing
+  body:
+    Write a 5 min YouTube video script on this topic. Make the tone witty and
+    humorous. Start the intro with a hook and include relevant research for each point,
+    all in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

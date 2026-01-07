@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8139
+# teaser: Create a Product Collection Page Summary for Marketing E-Commerce Products effectively &
+# enhancing product page ranking in Google. RevisionTime: 2023-02-19T15:35:19Z
+- id: 8139-generate-product-collection-summary-meta-fields-h1-activity
+  title:
+    "Generate Product Collection Summary (+Meta fields & H1) Activity: Products
+    Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - generate
+    - product
+    - collection
+    - summary
+    - meta
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate Product Collection Summary
+    (+Meta fields & H1)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to pretend that you are an E-commerce SEO expert. I am going to
+    provide a list of products listed on an e-commerce collection page. The collection
+    page itself is missing an informative and eye-catching summary of the products
+    in the collection. The fist and main objective I want you to accomplish is developing
+    a new keyword-rich, informative, and captivating summary in less than 600 words
+    with the purpose of marketing the products to users looking to buy. Use emotional
+    words and creative reasons to show why a user should purchase. After you generate
+    the new collection summary, please generate a list of 5 possible H1 headings for
+    this collection page that are less than 10 words each (maximum of 5 headins).
+    Please also include bulleted list of broad match keywords relating to the list
+    of the products I will provide to you. Write a persuasive and professional sounding
+    Meta Title and Description that integrates similar language present in the new
+    collection page summary text. Make sure to include a numerical aspect in the Meta
+    Title. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize.
+    Do not self-reference. Write all output in [TARGETLANGUAGE]. Please use the following
+    products: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

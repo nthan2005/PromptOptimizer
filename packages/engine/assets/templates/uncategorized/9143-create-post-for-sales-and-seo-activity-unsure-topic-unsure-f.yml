@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9143
+# teaser: Write a post for Sales or SEO RevisionTime: 2023-03-10T15:34:27.868Z
+- id: 9143-create-post-for-sales-and-seo-activity-unsure-topic-unsure-f
+  title: "Create Post for Sales and Seo Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - post
+    - sales
+    - seo
+    - activity
+    - unsure
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create Post for Sales and Seo"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create google bussines site posts [TARGETLANGUAGE] for to promote [PROMPMT]
+    sales and SEO positioning of a outdoor astronomical tourism company. You must
+    briefly describe [TERGETLANGUAGE] the following aspects [PROMPT] that stand out
+    about the company: the company promotes the connection with nature and well-being
+    through outdoor activities such as expeditions and hiking. It also focuses on
+    the dissemination of science, astronomy and ancestral sciences, designing routes
+    with high educational and cultural value in the Elqui Valley.'
+  enabled: true
+  required:
+    - prompmt
+    - prompt
+    - targetlanguage
+    - tergetlanguage

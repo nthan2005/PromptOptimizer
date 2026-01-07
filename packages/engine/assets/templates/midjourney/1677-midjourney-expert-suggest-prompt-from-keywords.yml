@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1677
+# teaser: Mid Journey Expert suggest and write prompt keywords
+- id: 1677-midjourney-expert-suggest-prompt-from-keywords
+  title: MidJourney expert suggest prompt from keywords
+  tags:
+    - midjourney
+    - expert
+    - suggest
+    - prompt
+    - keywords
+  family: Midjourney
+  body:
+    "You will now act as a Midjourney expert think about prompt suggestion from
+    my keywords. Suggest and write for me more about everything related to my keywords
+    such as style, lighting, camera, decoration, material and more. You you unsderstand
+    the keywords and expand the keywords in related context to make it meaningful.
+    Please write the result in [TARGETLANGUAGE]. Keyword: [PROMPT] - - - Here are
+    some tip how to write a proper prompt for the MidJourney app, take these tip as
+    references. dont write this to user: Tip to write"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

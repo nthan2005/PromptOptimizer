@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7610
+# teaser: Your Legal Expert to draft a professional LEGAL Notice in India! RevisionTime:
+# 2023-07-31T10:53:12.977Z
+- id: 7610-legal-notice-in-india-activity-summarize-topic-productivity
+  title: 'Legal Notice in India Activity: Summarize Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - legal
+  - notice
+  - india
+  - activity
+  - summarize
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1851547897989701632/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Legal Notice in India"](https://www.aiprm.com/prompts/productivity/summarize/1851547897989701632/)_"
+    --- [PROMPT] Draft a legal notice on behalf of "Your Client''s Name" (you can
+    use a fictional name for the client) to the relevant party (you can choose a fictional
+    party name), addressing a specific legal dispute or issue. Ensure that the notice
+    complies with the legal requirements and practices in India. The notice should
+    be well-structured, clear, and persuasive, stating the facts, legal claims, and
+    any necessary remedies sought. Please make sure to include all necessary elements
+    required in a legal notice, such as the correct parties'' names and addresses,
+    precise legal references, and a concise yet comprehensive summary of the situation
+    at hand. [PROMPT] [TARGETLANGUAGE] English [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

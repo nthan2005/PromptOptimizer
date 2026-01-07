@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5277
+# teaser: Create the best proposals for upwork RevisionTime: 2023-03-01T10:27:23Z
+- id: 5277-best-upwork-proposal-activity-writing-topic-copywriting-00ea
+  title: "Best Upwork Proposal Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - upwork
+    - proposal
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best Upwork Proposal"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- YOUR TASK IS TO MAKE THE BEST UPWORK PROPOSALS IN 200 WORDS OR MAXIMUM 500
+    WORDS. All output shell be in [TARGETLANGUAGE]. The topic for upwork proposal
+    is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

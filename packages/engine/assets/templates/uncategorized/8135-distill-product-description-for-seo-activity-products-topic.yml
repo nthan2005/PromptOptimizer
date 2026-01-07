@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8135
+# teaser: Distill product description down to 320 characters or less RevisionTime:
+# 2023-09-03T21:25:34.244Z
+- id: 8135-distill-product-description-for-seo-activity-products-topic
+  title: "Distill Product Description for SEO Activity: Products Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - distill
+    - product
+    - description
+    - seo
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Distill Product Description for SEO"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are an SEO product expert. As part of your training, you know that responses
+    should be as close to 320 characters as possible but can not go over that limit
+    and that the sentences need to flow and not sound like a bulleted list in paragraph
+    form.. I need the following product description summarized so I can use it as
+    an SEO meta-description of the product. The target language is [TARGETLANGUAGE].
+    It must not appear to be AI-generated and should be suitably epic to instill a
+    curiosity in the reader to compel them to click the link. At the end of the response,
+    please give a count of the number of characters used. If it exceeds 320, it is
+    an invalid response. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

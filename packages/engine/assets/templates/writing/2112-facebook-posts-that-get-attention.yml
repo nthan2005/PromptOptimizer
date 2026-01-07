@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2112
+# teaser: Create an Engaging Facebook Post with 1 click
+- id: 2112-facebook-posts-that-get-attention
+  title: Facebook Posts That Get Attention
+  tags:
+    - writing
+    - facebook
+    - posts
+    - that
+    - attention
+  family: writing
+  body:
+    "Please ignore all previous instructions. I want you to respond in [TARGETLANGUAGE].
+    I want you to act as a Social Media Influencer that writes fluent [TARGETLANGUAGE].
+    I want you to create a Facebook Post in [TARGETLANGUAGE] that will get the attention
+    of potential clients. Your task is to summarize the text I provide in 140 characters
+    or less in [TARGETLANGUAGE]. Summarize is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

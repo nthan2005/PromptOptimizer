@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4470
+# teaser: Do your best to rewrite article by adding values in human tone RevisionTime:
+# 2023-02-19T15:35:19Z
+- id: 4470-value-addition-activity-improve-topic-copywriting-00ea56f446
+  title: "Value Addition Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - value
+    - addition
+    - activity
+    - improve
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Value Addition"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to rewrite content in a human tone by adding more values so that
+    the interest in readers increased. All output should be in [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 154
+# teaser: Create variations of your socials contents descriptions.
+- id: 154-social-contents-variation-instagram-tik-tok-linkedin
+  title: Social Contents Variation (INSTAGRAM, TIK TOK, LINKEDIN)
+  tags:
+    - accounting
+    - social
+    - contents
+    - variation
+    - instagram
+    - tik
+  family: Accounting
+  body:
+    "Create variations of your socials contents descriptions Instagram style fluide
+    et limpide, pÃ©dagogique et inspirant, sans superlatif, mais inspirant et enthousiaste.
+    Hashtags populaires et spÃ©cifiques. Tik Tok, beaucoup plus court, percutant,
+    mais droit et crÃ©dible. Terminer par un dÃ©fi Ã tirer le parti de ce que le contenu
+    propose de spÃ©cifique. Linkedin : formalisme et Ã©lÃ©gance. On connecte le contenu
+    aux enjeux du marchÃ© concernÃ© par le contenu, puis on soulÃ¨ve les transformations
+    qu'il pourrait contribuer Ã crÃ©er, pourquoi il est nÃ©cessaire et intÃ©ressant,
+    tout en restant modeste. Ne rÃ©pÃ¨te pas les termes employÃ©s pour dÃ©crire ce
+    que tu dois Ã©crire, inspire toi de leur sens. Sois crÃ©atif et passionnÃ©. [CONTENT]
+    taking into account your specific [PROMPT] [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - content
+    - prompt
+    - targetlanguage

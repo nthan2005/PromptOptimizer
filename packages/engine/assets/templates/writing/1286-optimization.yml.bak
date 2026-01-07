@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1286
+# teaser: Get 10 Topics from a particular Keyword and their outlines in a table
+- id: 1286-optimization
+  title: Optimization
+  tags:
+  - writing
+  - optimization
+  family: writing
+  body: Get 10 Topics from a particular Keyword and their outlines in a table [TARGETLANGUAGE]
+    [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

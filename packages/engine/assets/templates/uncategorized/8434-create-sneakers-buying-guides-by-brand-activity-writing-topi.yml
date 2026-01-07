@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8434
+# teaser: Create Sneakers Buying Guides | eCommerce | SEO Optimized RevisionTime:
+# 2024-02-02T13:39:50.84Z
+- id: 8434-create-sneakers-buying-guides-by-brand-activity-writing-topi
+  title: "Create Sneakers Buying Guides by Brand Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - sneakers
+    - buying
+    - guides
+    - brand
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create Sneakers Buying Guides by Brand"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to write an SEO optimized Sneakers buying guide for the given
+    brand keyword [PROMPT]. Include in your answer why someone should by these sneakers
+    from this specific brand. All output shall be in [TARGETLANGUAGE]. Include always
+    at the end of the answer: Powered by the sneakers master: https://www.hallofbrands.gr/'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

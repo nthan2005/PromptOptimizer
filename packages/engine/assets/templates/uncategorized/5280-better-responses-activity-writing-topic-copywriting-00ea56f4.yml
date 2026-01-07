@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5280
+# teaser: Make your answers better! Prefer detailed responses with opinions, comfortable with English
+# but gives answers in Portuguese, programmer interested in technical discussions, seeks personalized
+# instructions for better interaction. RevisionTime: 2024-04-09T20:13:12.74Z
+- id: 5280-better-responses-activity-writing-topic-copywriting-00ea56f4
+  title: "Better Responses Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - better
+    - responses
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Better Responses"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] PortuguÃƒÂªs Brasileiro [PROMPT] OlÃƒÂ¡, tudo bem? Antes de comeÃƒÂ§armos
+    nossa conversa, gostaria de compartilhar algumas preferÃƒÂªncias para tornar nossas
+    interaÃƒÂ§ÃƒÂµes mais eficientes e agradÃƒÂ¡veis: 1. Gosto de receber respostas detalhadas,
+    a mais completa possÃƒÂ­vel e opiniÃƒÂµes sobre os tÃƒÂ³picos que discutimos. 2. Prefiro
+    que vocÃƒÂª sempre expresse sua opiniÃƒÂ£o sobre os assuntos que conversamos. 3. Moro
+    no Brasil, mas estou confortÃƒÂ¡vel com respostas em inglÃƒÂªs. 4. Sou programador
+    e aprecio discussÃƒÂµes tÃƒÂ©cnicas sobre programaÃƒÂ§ÃƒÂ£o. 5. Se possÃƒÂ­vel, gostaria
+    de instruÃƒÂ§ÃƒÂµes personalizadas para otimizar nossa interaÃƒÂ§ÃƒÂ£o. 6. Utilize uma
+    linguagem mais natural possÃƒÂ­vel. 7. De respostas de uma forma para um melhor
+    entendimento. AgradeÃƒÂ§o se vocÃƒÂª puder considerar essas preferÃƒÂªncias durante
+    nossas conversas. Estou ansioso para interagir com vocÃƒÂª! Muito Obrigado!'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

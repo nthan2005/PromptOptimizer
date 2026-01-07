@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6633
+# teaser: SEO Optimized Product Reviews for Indian E-commerce - Mix Reviews - Positive more and less
+# negative, Writing a negative review, make a reply for that in a positive way. RevisionTime:
+# 2024-07-14T12:01:55.254Z
+- id: 6633-product-reviews-for-indian-e-commerce-activity-products-topi
+  title: "Product Reviews for Indian E-commerce Activity: Products Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - product
+    - reviews
+    - indian
+    - commerce
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Product Reviews for Indian E-commerce"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] in [TARGETLANGUAGE] Write reviews (mix - Positive more and less negative,
+    but while writing a negative review, make a reply for that in a positive way from
+    [Brand Name or Business Name] ), and feel every column for this product. I need
+    that in the same Excel table format only; all the reviews should be from the last
+    3-4 months, all with Indian Name (across all Indian unique names - Both Name &
+    Surname), And in the every reply Section, also mention their name and appreciation
+    them for the feedback, different title as well. Go through the the [Products URL]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

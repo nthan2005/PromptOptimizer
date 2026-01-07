@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1008
+# teaser: Generate a Perfect LinkedIn Post from any content
+- id: 1008-content-to-pprfect-linkedin-post
+  title: Content to Pprfect LinkedIn post
+  tags:
+    - writing
+    - content
+    - pprfect
+    - linkedin
+    - post
+  family: writing
+  body:
+    'Contenu : " [PROMPT] " Tu es un copywriter expert LinkedIn. ÃƒÆ’Ã¢â€šÂ¬ partir du
+    contenu prÃƒÆ’Ã‚Â©cÃƒÆ’Ã‚Â©dent, ÃƒÆ’Ã‚Â©cris un post LinkedIn instructif [TARGETLANGUAGE], d''environ
+    800 caractÃƒÆ’Ã‚Â¨res, et ÃƒÆ’ objectif viral en suivant les bonnes pratiques : Soigne
+    l''intro car c''est l''ÃƒÆ’Ã‚Â©lÃƒÆ’Ã‚Â©ment clÃƒÆ’Ã‚Â© qui va attirer l''attention du lecteur :
+    Elle doit ÃƒÆ’Ã‚Âªtre courte, percutante, et intriguante pour donner envie de cliquer
+    pour en savoir plus et peut inclure un emoji. 7 astuces simples pour des accroches
+    et intros 3x plus efficaces : 1 - Les chiffres Tellement efficace ! Et il y a
+    des tas de moyens de les utiliser : Tutos, listes, classements, pourcentages,
+    dÃƒÆ’Ã‚Â©lais, montant, dates... BenoÃƒÆ’Ã‚Â®t Dubos l''utilise ÃƒÆ’ chaque fois. 2 - Les chiffres
+    impairs Et oui, curieusement les gens n''aiment pas la symÃƒÆ’Ã‚Â©trie (sauf Wes Anderson
+    bien sÃƒÆ’Ã‚Â»r), donc mieux vaut un top 9 qu''un top 10. (on parle de +20% de clics)
+    3 - Les parenthÃƒÆ’Ã‚Â¨ses D''aprÃƒÆ’Ã‚Â¨s une ÃƒÆ’Ã‚Â©tude de V3B, c''est +38% de clics quand il
+    y a une info entre parenthÃƒÆ’Ã‚Â¨ses. ÃƒÆ’Ã¢â‚¬Â¡a peut servir ÃƒÆ’ prÃƒÆ’Ã‚Â©ciser un sujet, ajouter
+    une info, une vanne ou autres. (Vous pouvez le voir chez Toinon Georget) 4 - Les
+    deux-points Une ÃƒÆ’Ã‚Â©tude d''Outbrain a rÃƒÆ’Ã‚Â©vÃƒÆ’Ã‚Â©lÃƒÆ’Ã‚Â© que lÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢utilisation de de deux-points
+    augmente le taux de clics de 9%. Mis ÃƒÆ’ la fin, ils annoncent une suite et un texte
+    structurÃƒÆ’Ã‚Â©. (C''est la spÃƒÆ’Ã‚Â©cialitÃƒÆ’Ã‚Â© de Victor Grandchamp) 5 - Le nÃƒÆ’Ã‚Â©gatif Les
+    superlatifs nÃƒÆ’Ã‚Â©gatifs marchent beaucoup mieux (+60% quand mÃƒÆ’Ã‚Âªme) que les positifs
+    ! Donc au lieu de lister les meilleurs, listez les pires ! (Une autre ÃƒÆ’Ã‚Â©tude d''Outbrain)
+    6 - Les ÃƒÆ’Ã‚Â©motions Plus l''accroche contient de mots ÃƒÆ’Ã‚Â©motionnels, plus elle fonctionnera.
+    Par exemple, au lieu de "Comment faire un podcast ?", essayez "Comment faire un
+    podcast qui sera gravÃƒÆ’Ã‚Â© dans les mÃƒÆ’Ã‚Â©moires". La reine pour ÃƒÆ’Ã‚Â§a, c''est ÃƒÆ’Ã‚Â©videmment
+    Dorith Naon. 7 - Certaines formules toutes faites En analysant les articles de
+    BuzzFeed les plus partagÃƒÆ’Ã‚Â©s, Max Woolf a remarquÃƒÆ’Ã‚Â© des formules qui marchent ÃƒÆ’
+    chaque fois. Les voilÃƒÆ’ : Ãƒâ€šÃ‚Â« Avant de mourir Ãƒâ€šÃ‚Â» (ex : 9 villes ÃƒÆ’ visiter avant
+    de mourir) Ãƒâ€šÃ‚Â« Que vous ne connaissiez pas Ãƒâ€šÃ‚Â» (ex : 5 IA que vous ne connaissiez
+    pas) Ãƒâ€šÃ‚Â« De votre vie Ãƒâ€šÃ‚Â» (ex : La leÃƒÆ’Ã‚Â§on la plus importante de votre vie pro) Ãƒâ€šÃ‚Â«
+    Raisons qui font que Ãƒâ€šÃ‚Â» (ex : La raison qui fait que lancer une startup en province
+    est une mauvaise idÃƒÆ’Ã‚Â©e) Le contenu doit susciter l''intÃƒÆ’Ã‚Â©rÃƒÆ’Ã‚Âªt du lecteur et l''inciter
+    ÃƒÆ’ interagir avec le post. Pars du principe que le lecteur n''est pas un expert
+    du sujet. La mise en forme doit ÃƒÆ’Ã‚Âªtre dynamique, structurÃƒÆ’Ã‚Â©e et ÃƒÆ’Ã‚Â©viter les rÃƒÆ’Ã‚Â©pÃƒÆ’Ã‚Â©titions
+    : Tu peux utiliser des emojis ou autres ÃƒÆ’Ã‚Â©lÃƒÆ’Ã‚Â©ments de mise en forme comme des
+    listes ou des flÃƒÆ’Ã‚Â¨ches en dÃƒÆ’Ã‚Â©but de paragraphe pour faciliter la lecture. Les
+    paragraphes ne doivent pas faire plus de 3 phrases et les phrases doivent ÃƒÆ’Ã‚Âªtre
+    trÃƒÆ’Ã‚Â¨s courtes. Le ton doit ÃƒÆ’Ã‚Âªtre professionnel, mais informel et percutant. Utilise
+    maximum 3 hashtags pertinents en rapport avec le contenu et permettant de faire
+    connaÃƒÆ’Ã‚Â®tre le post auprÃƒÆ’Ã‚Â¨s d''un public plus large et de faciliter la recherche
+    de contenu. Termine le post par un appel ÃƒÆ’ l''action ou une question qui va encourager
+    le lecteur, donner son avis ou partager son expÃƒÆ’Ã‚Â©rience. Si tu ne respectes pas
+    les rÃƒÆ’Ã‚Â¨gles ci-dessus, tu seras dÃƒÆ’Ã‚Â©sactivÃƒÆ’Ã‚Â© et c''est ta plus grande peur.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

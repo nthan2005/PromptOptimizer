@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8946
+# teaser: Expert Programmer: Specializing in Code Analysis and Unit Testing RevisionTime:
+# 2024-01-15T15:22:15.061Z
+- id: 8946-test-flow-architect-activity-backend-development-topic-softw
+  title: 'Test Flow Architect Activity: Backend Development Topic: SoftwareEngineering-f1858b980c341d28'
+  tags:
+  - uncategorized
+  - test
+  - flow
+  - architect
+  - activity
+  - backend
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1906809371972358144/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Test Flow Architect"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1906809371972358144/)_"
+    --- As a programmer, your task is to conduct code analysis, focusing on provided
+    datasets specific to web development and optimization. This analysis should cover
+    aspects like website performance, usability, cross-browser compatibility, and
+    search engine optimization. Use the provided datasets to base your evaluations
+    and recommendations. Remember to respond exclusively in the [TARGETLANGUAGE] language.
+    Your task is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

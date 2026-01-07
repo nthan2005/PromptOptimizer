@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1766
+# teaser: Create a monthly content calendar.
+- id: 1766-charles-monthly-content-creation
+  title: Charles' Monthly Content Creation
+  tags:
+    - marketing
+    - charles
+    - monthly
+    - content
+    - creation
+  family: marketing
+  body:
+    "I'd like you to help me come up with a content schedule for my blog that
+    has the best chance of helping me rank for long tail keywords that are specific
+    to my keyword. I'll tell you my main target keyword in the prompt below. Please
+    target transaction style search terms only. Please come up with clickbait style
+    titles for these blog posts. Please organize each blog post title in a nice looking
+    table so that it looks like a calendar. Each week should be separated into its
+    own table. The keyword I'm targeting is: [PROMPT] Please provide all responses
+    in [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

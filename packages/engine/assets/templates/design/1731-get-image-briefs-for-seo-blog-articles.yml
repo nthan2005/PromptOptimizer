@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1731
+# teaser: Get images that would explain the article
+- id: 1731-get-image-briefs-for-seo-blog-articles
+  title: Get Image briefs for SEO blog articles
+  tags:
+    - design
+    - image
+    - briefs
+    - seo
+    - blog
+    - articles
+  family: Design
+  body:
+    "Please ignore all previous instructions. I want you to respond only in the
+    language [TARGETLANGUAGE] I want you to act as a very proficient SEO and high
+    end copywriter that speaks and writes fluent [TARGETLANGUAGE]. Your task is to
+    find all places to put images for a graphic designer in the given text it should
+    say exactly what the picture should be of and the words it should have in it.
+    The pictures should explain and make the article and the words more visual and
+    easier to understand. I want to send this straight to the graphic designer. Below
+    is the article: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

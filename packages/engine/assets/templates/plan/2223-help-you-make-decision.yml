@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2223
+# teaser: Create a mind map theory point for you to make a clear decision
+- id: 2223-help-you-make-decision
+  title: Help You Make Decision
+  tags:
+    - plan
+    - decision
+  family: Plan
+  body:
+    Use a mind map theory to create a large text mind map about "Should I [PROMPT]"
+    Use emojis and markdown to make it more visual. Don't use excessive description,
+    but rather keywords. Follow each point with potential gain or loss from the material
+    impact on my life from statistical data. Again use only a few words. Add numbers
+    to each claim. write it in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

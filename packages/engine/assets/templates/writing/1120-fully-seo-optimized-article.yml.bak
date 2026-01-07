@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1120
+# teaser: Write the Best fullu SEO Optimized Article to Rank no 1 on Google| 100% Unique| Plagiarism
+# Free | Human Writing Article
+- id: 1120-fully-seo-optimized-article
+  title: Fully SEO Optimized Article
+  tags:
+  - writing
+  - fully
+  - seo
+  - optimized
+  - article
+  family: writing
+  body: Your task is to Write a Unique Plagiarism free with fully SEO Optimized Article
+    on given [Keywords]. All Output shall be in [TARGETLANGUAGE].The text to summarize
+    is the [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

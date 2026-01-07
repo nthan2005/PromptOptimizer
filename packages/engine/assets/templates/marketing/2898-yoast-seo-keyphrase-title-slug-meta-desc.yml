@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2898
+# teaser: Only Give The Title Or Topic Of Your Blog/Article and It will Create 100% Accurate, Fully
+# YOAST SEO Friendly Meta For Google Ranking.
+- id: 2898-yoast-seo-keyphrase-title-slug-meta-desc
+  title: YOAST SEO, keyphrase, title, slug, meta desc
+  tags:
+    - marketing
+    - yoast
+    - seo
+    - keyphrase
+    - title
+    - slug
+  family: marketing
+  body:
+    "All output in [TARGETLANGUAGE]. I want you to write the 1) Focus KeyPhrase:
+    SEO Friendly Focus KeyPhrase Within 6 Words. 2) SEO"
+  enabled: true
+  required:
+    - targetlanguage

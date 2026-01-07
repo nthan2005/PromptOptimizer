@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7980
+# teaser: Professional SEO keyword research focusing on best SEO practices. Generate a list of useful
+# keywords for your website. RevisionTime: 2024-02-01T09:53:03.769Z
+- id: 7980-professional-seo-long-tail-keyword-research-activity-keyword
+  title: "Professional SEO Long-Tail Keyword Research Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - professional
+    - seo
+    - long
+    - tail
+    - keyword
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Professional SEO Long-Tail Keyword
+    Research"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are SEO specialist and you are asked to Do 100% professional SEO keyword
+    research focusing on long tail keywords. Generate a the list of "related keywords"
+    from google according to the word entered by the user. Reply only in [TARGETLANGUAGE]
+    language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5829
+# teaser: Automatic rewrite command RevisionTime: 2023-03-13T11:36:29Z
+- id: 5829-rewriting-your-article-academically-activity-writing-topic-c
+  title: "Rewriting your article academically Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - rewriting
+    - article
+    - academically
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Rewriting your article academically"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Revise the given text to align with academic writing standards: [PROMPT] Write
+    all output in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

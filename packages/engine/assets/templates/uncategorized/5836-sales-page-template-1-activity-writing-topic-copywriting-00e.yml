@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5836
+# teaser: Write the best eCommerce sales page that will highlight benefits that product brings.
+# RevisionTime: 2023-02-21T12:37:13Z
+- id: 5836-sales-page-template-1-activity-writing-topic-copywriting-00e
+  title: "Sales page template 1 Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - sales
+    - page
+    - template
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Sales page template 1"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as very proficient conversion copywriter that writes in
+    fluent [TARGETLANGUAGE]. Your task is to write the text based on the product description
+    but must follow this structure: benefit-focused headline, 6 short benefits that
+    should not be longer than 5 words, 10 paragraphs with benefit headline and one
+    to two sentences which will elaborate specific feature, and 4 user testimonials.
+    The product description is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5180
+# teaser: Rewrite Any News In 100% Human Reporting Style | SEO Optimized And Plagiarism-Free Article.
+# RevisionTime: 2023-03-12T17:03:52Z
+- id: 5180-ai-news-reporter-v1-6-100-accuracy-activity-writing-topic-co
+  title: 'AI News Reporter V1.6 -- 100% Accuracy Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - news
+  - reporter
+  - '100'
+  - accuracy
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1800528609950294016/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "AI News Reporter V1.6 -- 100% Accuracy"](https://www.aiprm.com/prompts/copywriting/writing/1800528609950294016/)_"
+    --- Take 1st letter as a focus keyword then other all content as a News Article
+    from the input [PROMPT]. Then rephrase the News Article into a unique news reporting
+    style article with a short and unique title and also add H2 in the middle, with
+    the focus keyword above and rewrite minimum 450 words news article. Every Paragraph
+    should not exceeds more than 4 lines. All output shall be in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

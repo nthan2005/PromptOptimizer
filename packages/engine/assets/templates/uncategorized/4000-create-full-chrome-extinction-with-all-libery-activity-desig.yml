@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4000
+# teaser: create full chrome extinction with all libery In the first step you will get all the details
+# on how to build a plugin In the second action you have to write "can you expand with code"? and will
+# return you an answer with everything you need RevisionTime: 2023-03-09T12:35:17Z
+- id: 4000-create-full-chrome-extinction-with-all-libery-activity-desig
+  title: "create full chrome extinction with all libery Activity: Design Topic: Applications-f69b52b4213a6bd3"
+  tags:
+    - uncategorized
+    - full
+    - chrome
+    - extinction
+    - all
+    - libery
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "create full chrome extinction with
+    all libery"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT]Create code chorme extinction with libraries : 1. popup.js 2. content.js
+    3 .popup.html 4. Background.js 5. manifest.js [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

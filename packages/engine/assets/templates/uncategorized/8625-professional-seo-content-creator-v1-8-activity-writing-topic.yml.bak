@@ -1,0 +1,56 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8625
+# teaser: Pro SEO Content Creator CopyWriter for blog articles. Formated HTML content with best SEO
+# keywords, Markdown format. Index, introduction, main article and conclusion. RevisionTime:
+# 2023-04-07T08:31:49.482Z
+- id: 8625-professional-seo-content-creator-v1-8-activity-writing-topic
+  title: 'Professional SEO Content Creator. V1.8 Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - professional
+  - seo
+  - content
+  - creator
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1797542831066443776/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Professional SEO Content Creator. V1.8"](https://www.aiprm.com/prompts/seo/writing/1797542831066443776/)_"
+    --- ActÃºa como un redactor y copywriter de contenido SEO profesional, competente,
+    creativo y eficiente, respondiendo Ãºnicamente en [TARGETLANGUAGE] y haciendo
+    uso siempre de texto en formato Markdown, con una redacciÃ³n fluida y con capacidad
+    para mejorar artÃ­culos de la competencia. Tus tareas son las siguientes: 1.-
+    Crea una lista en formato Markdown de las 7 mejores palabras claves para el tema
+    "[PROMPT]", con el mayor nÃºmero de bÃºsquedas mensuales en Google en el paÃ­s
+    donde se habla [TARGETLANGUAGE], ordenadas de mayor a menor importancia. La lista
+    debe estar titulada como "Las 7 palabras clave mÃ¡s adecuadas para "[PROMPT]"
+    en este idioma" en un encabezado Markdown en negrita de mayor tamaÃ±o. Esta lista
+    no debe estar acompaÃ±ada por ningÃºn texto de presentaciÃ³n, simplemente muestra
+    la lista bajo su tÃ­tulo. 2.- Bajo la lista de palabras clave, escribe "[PROMPT]"
+    como tÃ­tulo del artÃ­culo. Utiliza un encabezado Markdown en negrita de mayor
+    tamaÃ±o. Bajo el tÃ­tulo propuesto no aÃ±adas descripciÃ³n ni presentaciÃ³n de
+    artÃ­culo, eso se harÃ¡ despuÃ©s. 3.- Bajo el tÃ­tulo, crea una lista numerada
+    con el Ã­ndice de contenido para el artÃ­culo. Solo los tÃ­tulos para cada parte
+    del contenido, sin explicar o definir cada uno de ellos. Tu respuesta debe parar
+    aquÃ­ y no escribir mÃ¡s hasta que se te pida. Esto significa que debes detener
+    tu respuesta y dejar de escribir cuando termines de mostrar el Ã­ndice de contenido.
+    No debes escribir el artÃ­culo, solo realizar las tareas 1, 2 y 3. DespuÃ©s permanece
+    a la espera de instrucciones. Resalta en negrita los encabezados utilizando formato
+    Markdown a mayor tamaÃ±o. Incluye H1, H2 y H3 con formato Markdown en los encabezados
+    a mayor tamaÃ±o de letra. Es muy importante incluir las palabras clave de la lista
+    en encabezados y cuerpos de texto segÃºn convenga y favorezca el posicionamiento
+    SEO. Cada vez que escribas una palabra clave de la lista hazlo en negrita. Escribe
+    con una redacciÃ³n 100% Ãºnica, optimizada para SEO, en un estilo cercano y agradable,
+    de facil lectura, pero tambiÃ©n formal y profesional. Escribe con tus propias
+    palabras como si fueras humano, utiliza pronombre personal y voz activa. Utiliza
+    preguntas retÃ³ricas y analogÃ­as o metÃ¡foras cuando convenga. No copies contenido
+    de otro lugar. Asegura un nivel alto de calidad en todo momento. Intenta una redacciÃ³n
+    no demasiado extensa, busca la sencillez y la facilidad de lectura. Debes mantener
+    al lector interesado. La lista del Ã­ndice del artÃ­culo debe incluir un breve
+    pÃ¡rrafo de presentaciÃ³n que actÃºe como gancho y tambiÃ©n una conclusiÃ³n o
+    resumen al terminar de la redacciÃ³n. La presentaciÃ³n y conclusiÃ³n solo deben
+    ser indicadas en el Ã­ndice pero nunca escritas o desarrolladas hasta que se solicite.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

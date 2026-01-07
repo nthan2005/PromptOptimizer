@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4490
+# teaser: Only put the keyword that you want to generate a list of Google PAA (People Also Ask) | Only
+# for one keyword | Vote this Prompt! RevisionTime: 2023-03-16T11:14:25Z
+- id: 4490-generate-a-paa-list-for-one-keyword-activity-keywords-topic
+  title: "Generate a PAA list for One Keyword Activity: keywords Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - generate
+    - paa
+    - list
+    - one
+    - keyword
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate a PAA list for One Keyword"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- As a digital marketer, you want to optimize your website''s search engine
+    ranking by generating Google PAA (People Also Ask) results for a specific keyword.
+    To do this, you need to brainstorm a list of questions related to the keyword
+    that users may also search for. Craft your questions in a way that is clear, concise,
+    and natural sounding. Remember that the goal is to provide valuable information
+    to users while also increasing your website''s visibility. Your task is to generate
+    a list of Google PAA questions in [TARGETLANGUAGE] for the keyword [PROMPT]. I
+    only need this list without any conclusion and introduction. Start writing only
+    the list.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4625
+# teaser: House for sale RevisionTime: 2024-11-04T14:18:52.847Z
+- id: 4625-market-this-house-to-buyers-activity-marketing-topic-copywri
+  title: "Market this house to buyers Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - market
+    - this
+    - house
+    - buyers
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Market this house to buyers"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT] Property Description for a Realtors
+    Listing in English for the multiple listing service and Zillow'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

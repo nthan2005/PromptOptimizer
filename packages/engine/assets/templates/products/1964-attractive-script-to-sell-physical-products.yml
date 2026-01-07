@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1964
+# teaser: Create script for product advertisement
+- id: 1964-attractive-script-to-sell-physical-products
+  title: Attractive Script To Sell Physical Products
+  tags:
+    - products
+    - attractive
+    - script
+    - sell
+    - physical
+  family: Products
+  body:
+    Criar um script para um anuncio de [PROMPT] , com tom de um locutor de radio
+    emplogado, usar recursos de persuasÃ£o Seja objetivo e claro para um pÃºblico
+    geral. O texto dever ser de no maximo 4000 palavras. [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

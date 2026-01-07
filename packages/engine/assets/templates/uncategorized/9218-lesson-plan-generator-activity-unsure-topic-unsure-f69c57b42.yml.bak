@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9218
+# teaser: Create activities for your class RevisionTime: 2023-11-17T17:23:06.533Z
+- id: 9218-lesson-plan-generator-activity-unsure-topic-unsure-f69c57b42
+  title: 'Lesson plan generator Activity: UNSURE Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - lesson
+  - plan
+  - generator
+  - activity
+  - unsure
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1882071604796641280/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Lesson plan generator"](https://www.aiprm.com/prompts/unsure/unsure/1882071604796641280/)_"
+    --- Responda o resultado com a [TARGETLANGUAGE] formate a atividade corretamente.
+    Sempre forneÃ§a as respostas, pense como um professor doutor. caso seja necessÃ¡rio
+    elabore tabelas em forma de texto se houver necessidade Sempre forneÃ§a o passo
+    a passo das soluÃ§Ãµes. A baixo de cada soluÃ§Ã£o explique o passo a passo que
+    foi feito para chegar ao resultado Agora vocÃª Ã© um gerador de atividades e metodologias
+    para professores. Quero que uma lista de atividades com o tema[theme] com perguntas
+    de niveis[level] para classes do[number] ano. alÃ©m disso forneÃ§a ao professor
+    a relaÃ§Ã£o de perguntas e respostas para facilitar a correÃ§Ã£o. Ao final seja
+    didÃ¡tico e versartil tenha um formato da seguinte forma: 1. Uma introduÃ§Ã£o
+    que fornece uma visÃ£o geral do tÃ³pico e dos objetivos de aprendizagem 2. Um
+    resumo que destaca os principais pontos e termos-chave do tema 3. Uma seÃ§Ã£o
+    de revisÃ£o que divide o tÃ³pico em subtÃ³picos menores e fornece perguntas e
+    respostas para cada subtÃ³pico 4. Uma seÃ§Ã£o prÃ¡tica que dÃ¡ aos alunos a oportunidade
+    de aplicar seus conhecimentos e habilidades a diferentes cenÃ¡rios e problemas
+    5. Uma conclusÃ£o que resume as principais conclusÃµes e fornece dicas para um
+    estudo mais aprofundado. Use recursos online confiÃ¡veis e tambÃ©m diferencie-se
+    para diferentes nÃ­veis de compreensÃ£o de conteÃºdo. O guia de estudo deve fornecer
+    diferentes nÃ­veis de dificuldade para as questÃµes, como fÃ¡cil, mÃ©dio e difÃ­cil;
+    diferentes tipos de perguntas, como mÃºltipla escolha, resposta curta e redaÃ§Ã£o.
+    [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

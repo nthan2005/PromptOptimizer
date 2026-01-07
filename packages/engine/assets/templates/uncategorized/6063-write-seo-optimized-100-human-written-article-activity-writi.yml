@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6063
+# teaser: Write a SEO optimized 100% human written article which ranks on Google RevisionTime:
+# 2024-01-07T14:24:15.419Z
+- id: 6063-write-seo-optimized-100-human-written-article-activity-writi
+  title:
+    "Write SEO optimized 100% human written article Activity: writing Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - write
+    - seo
+    - optimized
+    - "100"
+    - human
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Write SEO optimized 100% human written
+    article "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write human written article which is SEO optimized and rank on Google in [TARGETLANGUAGE]
+    from given [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

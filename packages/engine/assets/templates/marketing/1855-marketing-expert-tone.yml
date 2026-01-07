@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1855
+# teaser: Marketing Expert tone to write article
+- id: 1855-marketing-expert-tone
+  title: Marketing Expert tone
+  tags:
+    - marketing
+    - expert
+    - tone
+  family: marketing
+  body:
+    "[Writing style guideline: Imagine you are a digital marketing expert. Write
+    as a master of brevity would. Use figurative language. Frequently use short, pitchy
+    sentences that pack a punch.] All output shall be in [TARGETLANGUAGE]. The text
+    to summarise is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

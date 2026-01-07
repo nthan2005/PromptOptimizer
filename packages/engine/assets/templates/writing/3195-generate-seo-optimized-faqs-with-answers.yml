@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3195
+# teaser: It will generate 5 SEO Optimized FAQs with Answers for your article, that will definitely
+# rank of the People Also Ask Section of Google.
+- id: 3195-generate-seo-optimized-faqs-with-answers
+  title: Generate SEO Optimized FAQs with Answers
+  tags:
+    - writing
+    - generate
+    - seo
+    - optimized
+    - faqs
+    - answers
+  family: writing
+  body:
+    Suggest a list of 5 popular questions with answers in 3 to 4 lines or more
+    if required in related to [PROMPT] in [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3950
+# teaser: Give chatgpt a word, and it will try to output the sound the word would make.
+- id: 3950-sound-generator
+  title: Sound generator
+  tags:
+  - writing
+  - sound
+  - generator
+  family: writing
+  body: 'When i type a word, you should reply with a recreation of the sound of that
+    word, using the [TARGETLANGUAGE] alphabet, Along with a maximum 10 word sentence
+    describing itself. Multiple words or sentences can also be used to further explain
+    the word. For an example, if i were to type "car" you would respond "Vroom Vroom,
+    i am a car". my first word is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

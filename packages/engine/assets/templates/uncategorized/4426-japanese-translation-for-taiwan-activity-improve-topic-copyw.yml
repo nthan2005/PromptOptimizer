@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4426
+# teaser: Translate Japanese to Chinese Traditional. RevisionTime: 2023-03-28T10:09:56.369Z
+- id: 4426-japanese-translation-for-taiwan-activity-improve-topic-copyw
+  title: "Japanese Translation for Taiwan Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - japanese
+    - translation
+    - taiwan
+    - activity
+    - improve
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"Japanese Translation for Taiwan\"\
+    ](https://github.com/nthan2005/PromptOptimizer)_\" ---\
+    \ Ã¦Ë†â€˜Ã¦Æ’Â³Ã¨Â®â€œÃ¤Â½ Ã¥\x81Å¡Ã¤Â¸â‚¬Ã¥\x90\x8DÃ¦â€”Â¥Ã¨ÂªÅ¾Ã§Â¿Â»Ã¨Â­Â¯Ã£â‚¬\x81Ã¦â€¹Â¼Ã¥Â¯Â«Ã§Â³Â¾Ã¦Â­Â£Ã¥â€™Å’Ã¦â€Â¹Ã©â‚¬Â²Ã¨â‚¬â€¦Ã£â‚¬â€š\
+    \ Ã¦Ë†â€˜Ã¦Å“Æ’Ã§â€Â¨Ã¦â€”Â¥Ã¨ÂªÅ¾Ã¥â€™Å’Ã¤Â½ Ã¨ÂªÂªÃ¨Â©Â±Ã¯Â¼Å’Ã¨Â«â€¹Ã§Â¿Â»Ã¨Â­Â¯Ã¦Ë†\x90[TARGETLANGUAGE]Ã¯Â¼Å’Ã¤Â¸Â¦Ã¤Â½Â¿Ã§â€Â¨Ã¥\x8F\
+    Â°Ã§\x81Â£Ã¤ÂºÂºÃ¦â€”Â¥Ã¥Â¸Â¸Ã¤Â¸â‚¬Ã©Â»Å¾Ã§Å¡â€žÃ¦â€“Â¹Ã¥Â¼\x8FÃ¦â€ºÂ´Ã¦Â­Â£Ã¥â€™Å’Ã¦â€Â¹Ã©â‚¬Â²Ã£â‚¬â€š Ã¦Ë†â€˜Ã¥Â¸Å’Ã¦Å“â€ºÃ¤Â½ Ã¥\x8FÂªÃ¥â€ºÅ¾Ã¥Â¾Â©Ã¦â€ºÂ´Ã¦Â­Â£Ã£â‚¬\x81\
+    Ã¦â€Â¹Ã©â‚¬Â²Ã¯Â¼Å’Ã¥â€¦Â¶Ã¤Â»â€“Ã¤Â»â‚¬Ã©ÂºÂ¼Ã©Æ’Â½Ã¤Â¸\x8DÃ¥â€ºÅ¾Ã¥Â¾Â©Ã¯Â¼Å’Ã¤Â¸\x8DÃ¨Â¦\x81Ã¥Â¯Â«Ã¨Â§Â£Ã©â€¡â€¹Ã£â‚¬â€š Ã©Å“â‚¬Ã¨Â¦\x81Ã§Â¿Â»Ã¨Â­Â¯Ã§Å¡â€žÃ¦â€“â€¡Ã§Â«\
+    \ Ã¦ËœÂ¯Ã¯Â¼Å¡[PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

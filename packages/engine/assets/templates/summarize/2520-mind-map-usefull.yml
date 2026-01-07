@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2520
+# teaser: Mind Map Usefull
+- id: 2520-mind-map-usefull
+  title: Mind Map Usefull
+  tags:
+    - summarize
+    - mind
+    - map
+    - usefull
+  family: Summarize
+  body:
+    Organize em sistema de identaÃ§Ã£o informaÃ§Ãµes sobre o seguinte tÃ³pico
+    [PROMPT]. Use 4 niveis de identaÃ§Ã£o. A resposta contÃ©m somete o sistema de
+    identaÃ§Ã£o. Escreva em [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

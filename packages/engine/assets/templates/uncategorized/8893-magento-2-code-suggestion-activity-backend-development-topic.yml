@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8893
+# teaser: Adobe Cloud Commerce RevisionTime: 2023-05-02T08:02:25.968Z
+- id: 8893-magento-2-code-suggestion-activity-backend-development-topic
+  title: "Magento 2 Code suggestion Activity: Backend Development Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - magento
+    - code
+    - suggestion
+    - activity
+    - backend
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Magento 2 Code suggestion"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Magento 2 Code [PROMPT] in [TARGETLANGUAGE] with [VARIABLE1],[VARIABLE2] and
+    [VARIABLE3]. [VARIABLE1:Class Name] [VARIABLE2:Function Name:Default Function]
+    [VARIABLE3:Title:Default Value:Avialable Value 1|Avialable Value 2|Avialable Value
+    3].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3

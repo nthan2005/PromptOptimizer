@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5009
+# teaser: [text the right translation] RevisionTime: 2023-05-17T21:59:45.492Z
+- id: 5009-translation-with-meaning-2-activity-script-writing-topic-cop
+  title: "translation with meaning 2 Activity: Script Writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - translation
+    - meaning
+    - activity
+    - script
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "translation with meaning 2"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to translate the text i give you in [TARGETLANGUAGE] and give a
+    explanation in [ENGLISH] of what you translate, using maximum 50 words. [PROMPT]'
+  enabled: true
+  required:
+    - english
+    - prompt
+    - targetlanguage

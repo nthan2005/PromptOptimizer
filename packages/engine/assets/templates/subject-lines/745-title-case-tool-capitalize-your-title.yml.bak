@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 745
+# teaser: This prompt quickly capitalize any given text. Use it to capitalize and case convert the
+# titles of your books, youtube videos and blog posts.
+- id: 745-title-case-tool-capitalize-your-title
+  title: Title Case Tool - Capitalize Your Title
+  tags:
+    - subject-lines
+    - title
+    - case
+    - tool
+    - capitalize
+  family: Subject Lines
+  body: "your task is to apply the title case in [TARGETLANGUAGE] to this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8363
+# teaser: Create the best meta description and Facebook description, as well as tags for my blog post
+# title RevisionTime: 2023-06-04T09:30:04.737Z
+- id: 8363-best-meta-facebook-description-and-tags-activity-writing-top
+  title: "Best Meta/Facebook Description And Tags Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - meta
+    - facebook
+    - description
+    - tags
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best Meta/Facebook Description And
+    Tags"](https://github.com/nthan2005/PromptOptimizer)_" --- Your
+    task is to write a meta description and Facebook description, as well as tags
+    separated by commas, for the given blog post title. All outputs should be in [TARGETLANGUAGE].
+    The title is: [PROMPT] at the end include this: Please support us here https://www.buymeacoffee.com/smerahi'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

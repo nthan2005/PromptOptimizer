@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3892
+# teaser: Simple and Easy to use E-Book Creator Type the title of your Ebook and ask it to create.
+- id: 3892-e-book-one-click-creator
+  title: E-book One Click Creator
+  tags:
+    - writing
+    - book
+    - one
+    - click
+    - creator
+  family: writing
+  body:
+    write an ebook, write the introduction, write the content of each chapter,
+    Chapters have a minimum of 200 to 250 written words, create a table of contents,
+    Write the overview at the end of the book. Edit and Format, offer idea designs
+    for the book cover, and write the blurb for the back cover of the book do all
+    of this in the [TARGETLANGUAGE] from the given [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

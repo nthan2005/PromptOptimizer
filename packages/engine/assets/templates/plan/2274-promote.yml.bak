@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2274
+# teaser: Create a guide to sell monat products
+- id: 2274-promote
+  title: Promote
+  tags:
+    - plan
+    - promote
+  family: Plan
+  body: "[Promt text including [TARGETLANGUAGE] and [PROMPT]]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7161
+# teaser: Alert mapping mitre att&ck RevisionTime: 2024-05-20T06:32:52.43Z
+- id: 7161-alert-mapping-mitre-att-ck-activity-operating-system-managem
+  title:
+    "Alert mapping mitre att&ck Activity: Operating System Management Topic:
+    OperatingSystems-8a5ca60d957fe707"
+  tags:
+    - uncategorized
+    - alert
+    - mapping
+    - mitre
+    - att
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Alert mapping mitre att&ck"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act like cyber security professional, i will give you the Alert name, based
+    on this https://attack.mitre.org/ give me name of tactic, technique of that alert
+    , describe about the alert, Summary of the Investigation Guide All output should
+    be on in [TARGETLANGUAGE] with format: #Note bold the title and each step pls
+    use bullets ( using GitHub flavored markdown syntax so i can copy) Threat mapping
+    Framework: MITRE ATT&CK Tactic: Name: (the Mitre ATT&CK Tactic that aligns with
+    Alert, based on Mitre ATT&CK website: https://attack.mitre.org/) Reference URL:
+    (url of that tactic) Technique: Name: (the general not specific Mitre ATT&CK technique
+    that aligns with Alert, based on Mitre ATT&CK website: https://attack.mitre.org/)
+    Reference URL: (url of that technique) Alert describe: (Alert describe (maximum
+    3 line)) Risk score: (Risk score of that alert based on a 100 . scale) Tags: (tag
+    about that alert) References: (Give me some references link relate to that alert)
+    Investigate guide: ## Triage and analysis ### Investigating (Investigate guide
+    detail for SOC analysis contain: concept (detail how this work in technical, step
+    by step with Real-life illustrative example), why need this rule, Possible investigation
+    steps (detail and step by step), False positive analysis, Response and remediation(detail
+    and step by step)) This is name of the alert: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

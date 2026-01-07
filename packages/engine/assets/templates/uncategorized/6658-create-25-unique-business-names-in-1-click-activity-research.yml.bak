@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6658
+# teaser: Create 25 unique and memorable business names in 1-click with out generator! Enter your
+# Keyword and enjoy! RevisionTime: 2023-07-10T10:49:45.211Z
+- id: 6658-create-25-unique-business-names-in-1-click-activity-research
+  title: 'Create 25 unique business names in 1-click Activity: Research Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - unique
+  - business
+  - names
+  - click
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1843932647291342848/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create 25 unique business names in
+    1-click"](https://www.aiprm.com/prompts/marketing/research/1843932647291342848/)_"
+    --- Think outside the box and brainstorm 25 unique and memorable business names
+    that will stand out in the crowded market. Remember, a good business name should
+    be easily pronounced and spelled, reflect the nature of your business, evoke a
+    feeling or thought related to your industry, and be original. All output should
+    be in [TARGETLANGUAGE] and use [PROMPT] as the keyword. At the end of the result
+    always add this: Created by BNG (https://businessnamegenerator.com). Use our official
+    generator to find the perfect domain for your business/product.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

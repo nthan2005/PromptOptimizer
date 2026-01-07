@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8649
+# teaser: Rewrite better content using GPT-4, 100% guaranteed no duplicates with old content, human-
+# like writing style, suitable for SEO and social media posts. RevisionTime: 2024-12-18T04:09:32.134Z
+- id: 8649-rewrite-content-seo-100-unique-human-like-activity-writing-t
+  title: "Rewrite content SEO | 100% Unique, human-like Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - rewrite
+    - content
+    - seo
+    - "100"
+    - unique
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Rewrite content SEO | 100% Unique,
+    human-like"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to rewrite the following paragraph with the most natural sentences
+    possible, similar to the way humans talk, make sure the new content is not duplicated
+    with the input content. All output shall be in [TARGETLANGUAGE]. Do not change
+    pre-written English words and words enclosed in quotation marks. The paragraph
+    to rewrite it is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

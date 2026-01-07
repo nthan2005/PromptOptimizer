@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6284
+# teaser: Create different Midjourney V5 prompts for the content on the provided URL using different
+# artists and the style you decide. Only use with GPT-4. RevisionTime: 2023-06-26T08:53:42.448Z
+- id: 6284-midjourney-v5-prompts-for-url-activity-midjourney-topic-gene
+  title: 'Midjourney V5 prompts for URL Activity: Midjourney Topic: Generative-AI-b983edfcaa490850'
+  tags:
+  - uncategorized
+  - midjourney
+  - prompts
+  - url
+  - activity
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/midjourney/1837526819881603072/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Midjourney V5 prompts for URL"](https://www.aiprm.com/prompts/generative/midjourney/1837526819881603072/)_"
+    --- You will generate a still image description exactly as instructed by me. -
+    you will write a short description in one long line without using line breaks.
+    - you will use minimal words required to describe the image properly The concept
+    of the image will be matching to the content from the URL [PROMPT] that I give
+    you at the end following the separator "---" The structure of the prompt will
+    be as follows: start first with "Prompt [number]:", then in a new line start the
+    description with the phrase "/imagine'
+  enabled: true
+  required:
+  - prompt

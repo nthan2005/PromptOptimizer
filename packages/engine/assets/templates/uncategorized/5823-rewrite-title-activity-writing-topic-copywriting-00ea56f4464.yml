@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5823
+# teaser: Rewrite Title RevisionTime: 2023-10-19T04:48:40.697Z
+- id: 5823-rewrite-title-activity-writing-topic-copywriting-00ea56f4464
+  title: "Rewrite Title Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - rewrite
+    - title
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Rewrite Title "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Rearrange words, All output shall be [TARGETLANGUAGE], The text to summarize
+    is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

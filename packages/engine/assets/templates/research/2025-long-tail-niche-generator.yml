@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2025
+# teaser: List of long tail niches based on a given keyword.
+- id: 2025-long-tail-niche-generator
+  title: Long Tail Niche Generator
+  tags:
+    - research
+    - long
+    - tail
+    - niche
+    - generator
+  family: Research
+  body:
+    Give me a list of 25 long tail niche keywords in the niche [PROMPT] in [TARGETLANGUAGE]
+    the list should only include sub niches of [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

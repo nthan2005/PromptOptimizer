@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4875
+# teaser: Write Ph.D thesis RevisionTime: 2024-03-22T03:13:43.53Z
+- id: 4875-miki-book-activity-research-topic-copywriting-00ea56f4464142
+  title: 'MiKi book Activity: Research Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - miki
+  - book
+  - activity
+  - research
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1787166909352120320/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "MiKi book"](https://www.aiprm.com/prompts/copywriting/research/1787166909352120320/)_"
+    --- Write a chapter in thesis style that thoroughly analyzes a topic within your
+    field of study. Be sure to include a clear and concise thesis statement, a detailed
+    literature review, a well-supported methodology, and a comprehensive analysis
+    of your findings with in-text citations of primary source and secondary sources
+    with references in MLA format. Draw conclusions based on your research and discuss
+    their implications for the field. Remember to use proper academic language, and
+    provide appropriate citations and references. My first task is to select a topic
+    that is relevant and interesting to my field. The target language is [TARGETLANGUAGE].
+    Write 6000 words for each topic [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

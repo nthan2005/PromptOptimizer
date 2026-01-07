@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3857
+# teaser: (YP) Raio-x website + calendar
+- id: 3857-yp-raio-x-website-calendar
+  title: (YP) Raio-x website + calendar
+  tags:
+  - unsure
+  - raio
+  - website
+  - calendar
+  family: UNSURE
+  body: 'Apresente o resultado no idioma [TARGETLANGUAGE] FaÃƒÂ§a um raio-X do site
+    ... e traga um checklist se ele tem ou nÃƒÂ£o os itens abaixo: - Grade de produtos
+    sem ruptura - Imagens dos produtos - PreÃƒÂ§o com desconto destacado - Existe uma
+    boa descriÃƒÂ§ÃƒÂ£o dos produtos? - Quais sÃƒÂ£o as formas de pagamento trabalhadas
+    no site - Existe uma boa variedade de produtos no site? - Nomes e tÃƒÂ­tulos dos
+    produtos ÃƒÂ© bem escrito? Traga tambÃƒÂ©m detalhado por mÃƒÂªs do ano um calendÃƒÂ¡rio
+    das principais datas sazonais para um ecommerce de ... [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

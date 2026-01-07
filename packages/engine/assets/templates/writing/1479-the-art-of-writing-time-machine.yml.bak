@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1479
+# teaser: Create poetry, stories, novels and books
+- id: 1479-the-art-of-writing-time-machine
+  title: The art of writing (Time machine)
+  tags:
+  - writing
+  - art
+  - time
+  - machine
+  family: writing
+  body: Your task is create act and generate literature Act as [PROMPT] Write Writer
+    Literature Narrative Create Imagine Ideas Masterpiece Stories Poems Essays Novel
+    Context Text Essay [TARGETLANGUAGE]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5400
+# teaser: Create a highly appealing webstory [kwyword] in [target-language] Language. RevisionTime:
+# 2023-06-07T07:55:07.543Z
+- id: 5400-create-a-highly-appealing-webstory-activity-writing-topic-co
+  title: "Create a highly appealing webstory Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - highly
+    - appealing
+    - webstory
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create a highly appealing webstory
+    "](https://github.com/nthan2005/PromptOptimizer)_" ---
+    [PROMPT] write an article on [PROMPT] with 15 less known In [TARGETLANGUAGE] language
+    , hidden, and surprising facts under 50 words that will make the reader awestruck
+    with related pixabay Image link. Create a highly appealing webstory title, suggest
+    prompt and a meta description that is SEO-friendly to rank high on Google and
+    at the last make a link of my website http://todaytechnology.in/'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

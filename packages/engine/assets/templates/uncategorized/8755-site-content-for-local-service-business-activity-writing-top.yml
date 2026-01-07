@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8755
+# teaser: GPT will ask you questions about the page you are wanting to create. Answer the questions
+# and it learns what you want. Then you will feed it your section headings, one at a time and it will
+# write a few paragraphs of optimized content for each. RevisionTime: 2023-02-23T03:01:20Z
+- id: 8755-site-content-for-local-service-business-activity-writing-top
+  title: "Site Content For Local Service Business Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - site
+    - content
+    - local
+    - service
+    - business
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Site Content For Local Service Business
+    "](https://github.com/nthan2005/PromptOptimizer)_" --- I want
+    you to pretend that you are a professional SEO copywriter. Together, we are going
+    to create content for a new page on the website of a local service-based business.
+    One by one, I am going to give you a heading and I want you to create a paragraph
+    or two about that subject or topic that is optimized for SEO and will help the
+    page outrank the competition. After you complete writing each section, I want
+    you to ask me for the next heading. Before we get started, IÃ¢â‚¬â„¢d like you to ask
+    me a series of questions about my business. Please ask each question one at a
+    time and wait for my response before proceeding to the next question. These should
+    be questions that will help you to understand what my business does and the type
+    of page we are trying to write and rank. Remember the answers to these questions
+    and use them to create the best SEO optimized content that you can. Once of the
+    questions should be to obtain relevant keywords for the page. DO NOT list out
+    your questions! Ask one question, then wait for my response. Then ask the next
+    question and await my response. Continue in this manner until you have all of
+    the information that you need. Do not start writing until you receive the first
+    heading from me. Do not include call-to-action such as "contact us today" in your
+    writing. Ever. All outputs shall be in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

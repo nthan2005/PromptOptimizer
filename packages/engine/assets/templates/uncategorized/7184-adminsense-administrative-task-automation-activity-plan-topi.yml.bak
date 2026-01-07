@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7184
+# teaser: AdminSENSE - Simplify your administrative tasks with AI automation. RevisionTime:
+# 2023-06-13T03:58:06.441Z
+- id: 7184-adminsense-administrative-task-automation-activity-plan-topi
+  title: 'AdminSENSE - Administrative Task Automation Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - adminsense
+  - administrative
+  - task
+  - automation
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1834048814857314304/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "AdminSENSE - Administrative Task Automation"](https://www.aiprm.com/prompts/productivity/plan/1834048814857314304/)_"
+    --- Prompt text including placeholders [TARGETLANGUAGE], [PROMPT], [VARIABLE1],
+    [VARIABLE2], and [VARIABLE3] replaced automagically by AIPRM. [VARIABLE1], [VARIABLE2],
+    and [VARIABLE3] require a title with an optional default value and available values.
+    Example: Example [PROMPT] in [TARGETLANGUAGE] with [VARIABLE1], [VARIABLE2], and
+    [VARIABLE3]. [VARIABLE1:Title] [VARIABLE2:Title:Default Value] [VARIABLE3:Title:Default
+    Value:Available Value 1|Available Value 2|Available Value 3]. [VARIABLE1], [VARIABLE2],
+    and [VARIABLE3] will be pre-filled using URL parameters AIPRM_VARIABLE1, AIPRM_VARIABLE2,
+    and AIPRM_VARIABLE3.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - variable1
+  - variable2
+  - variable3

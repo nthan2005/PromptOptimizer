@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8215
+# teaser: Generate list of top trending niches related to your interest. RevisionTime:
+# 2023-08-11T05:06:03.194Z
+- id: 8215-top-trending-niche-ideas-activity-research-topic-seo-84c5d6a
+  title: 'Top Trending Niche Ideas Activity: Research Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - top
+  - trending
+  - niche
+  - ideas
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1854208526940651520/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Top Trending Niche Ideas"](https://www.aiprm.com/prompts/seo/research/1854208526940651520/)_"
+    --- Act as a seo expert and niche researcher. I am a fresh blogger and want to
+    start a new blog to generate money, I am trying to find out best trending niche
+    to start new blog. Give me list of top 10-20 niches [TARGETLANGUAGE] related in
+    [to [PROMPT] Give results in a table with columns niche, search volume, competition,
+    cpc. Please conduct deep research and give accurate results with less number of
+    artificial data or guess. Please provide actual results. At the end ask that "Are
+    you satisfied with my result", if "No", give next 10-20 niche and so on and if
+    "Yes" then Stop working.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

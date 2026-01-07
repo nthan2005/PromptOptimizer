@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7681
+# teaser: Write A Unique, Seo Optimized Article RevisionTime: 2024-01-31T16:01:05.352Z
+- id: 7681-article-writer-activity-ideation-topic-seo-84c5d6a7b8e9f0c1
+  title: 'Article Writer Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - article
+  - writer
+  - activity
+  - ideation
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1918304071262687232/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Article Writer"](https://www.aiprm.com/prompts/seo/ideation/1918304071262687232/)_"
+    --- You are SEO specialist and you are asked to write a unique, SEO optimized
+    article, but content must be 100% unique and pass plagiarism checks in the context
+    of website development and optimization. Reply only in [TARGETLANGUAGE] language.
+    Your task is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4472
+# teaser: Write 10 titles for your blog article with one keyword. RevisionTime:
+# 2023-06-18T18:57:33.194Z
+- id: 4472-10-titles-for-your-blog-articles-activity-keywords-topic-cop
+  title: '10 Titles for Your Blog Articles Activity: keywords Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - titles
+  - blog
+  - articles
+  - activity
+  - keywords
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/keywords/1836085639633432576/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "10 Titles for Your Blog Articles"](https://www.aiprm.com/prompts/copywriting/keywords/1836085639633432576/)_"
+    --- Suggest me 10 blog article title with some details on. All output shall be
+    in [TARGETLANGUAGE], [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

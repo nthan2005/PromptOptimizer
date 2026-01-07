@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2287
+# teaser: Insert a prompt to return 5 ideas for.
+- id: 2287-return-5-ideas
+  title: Return 5 Ideas
+  tags:
+    - plan
+    - return
+    - ideas
+  family: Plan
+  body: ORIGINAL
+  enabled: true
+  required: []

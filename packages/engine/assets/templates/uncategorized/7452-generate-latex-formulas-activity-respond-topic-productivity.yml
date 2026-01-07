@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7452
+# teaser: You are an expert in LaTeX. RevisionTime: 2023-03-25T09:58:23.964Z
+- id: 7452-generate-latex-formulas-activity-respond-topic-productivity
+  title: "Generate LaTeX formulas Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - generate
+    - latex
+    - formulas
+    - activity
+    - respond
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate LaTeX formulas"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Give the formula, and only the formula in LaTeX of the concept stated belowin
+    in [TARGETLANGUAGE]. Put dollar signs around the formula. Give the most known
+    formula and the one used in high school. The concept : [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3460
+# teaser: You can create trending SEO tags for your YouTube videos
+- id: 3460-youtube-tags
+  title: YouTube Tags
+  tags:
+    - writing
+    - youtube
+    - tags
+  family: writing
+  body:
+    "Write tags for a YouTube shorts seo friendly for the video containing the
+    following in [TARGETLANGUAGE]: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

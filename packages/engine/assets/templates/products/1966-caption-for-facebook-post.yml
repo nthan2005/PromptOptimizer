@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1966
+# teaser: Facebook post for product Marketing
+- id: 1966-caption-for-facebook-post
+  title: Caption for Facebook Post
+  tags:
+    - products
+    - caption
+    - facebook
+    - post
+  family: Products
+  body:
+    "Your task is to write a caption for a marketing post for a new or for an
+    existing product including data from the activity of the company according to
+    the product . Make it fun and friendly for young people. Focus on product marketing.[TARGETLANGUAGE]:
+    [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

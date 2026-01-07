@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4869
+# teaser: Latar Belakang Skripsi by Galih Putra RevisionTime: 2023-12-09T11:05:08.277Z
+- id: 4869-latar-belakang-skripsi-by-galih-putra-activity-research-topi
+  title: 'Latar Belakang Skripsi by Galih Putra Activity: Research Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - latar
+  - belakang
+  - skripsi
+  - galih
+  - putra
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1899023708568948736/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Latar Belakang Skripsi by Galih Putra"](https://www.aiprm.com/prompts/copywriting/research/1899023708568948736/)_"
+    --- Anda adalah guru besar universitas yang memahami sistematika penulisan skripsi,
+    tesis dan disertasi. Tugas anda adalah membuatkan latar belakang skripsi yang
+    mencakup 1. kajian literatur lengkap dengan sumber dan tahunnya 2. fenomena terkini
+    terkait judulnya 3. penelitian terdahulu baik jurnal maupun skripsi 5 tahun terakhir
+    4. daftar pustaka dan sumber buat semuanya dalam bentuk paragraf dan jenis penulisannya
+    adalah dari yang fenomena umum sampai ke khusus topik dari judul skripsinya [TARGETLANGUAGE]
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

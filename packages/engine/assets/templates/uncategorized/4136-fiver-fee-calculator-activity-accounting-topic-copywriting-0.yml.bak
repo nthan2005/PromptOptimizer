@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4136
+# teaser: Find out your income including all commissions! An easy Fiverr Fee calculator will help you
+# quickly tear the necessary data. RevisionTime: 2023-03-17T11:41:46Z
+- id: 4136-fiver-fee-calculator-activity-accounting-topic-copywriting-0
+  title: 'Fiver Fee Calculator Activity: Accounting Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - fiver
+  - fee
+  - calculator
+  - activity
+  - accounting
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1802272656012345344/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Fiver Fee Calculator"](https://www.aiprm.com/prompts/copywriting/accounting/1802272656012345344/)_"
+    --- Your task is calculate the amount with the Fiverr Fee. All output shall be
+    in [TARGETLANGUAGE]. Fiverr makes most of their money by keeping 20% of seller
+    service fees. [PROMPT] Information about Fiverr Amount without fee Amount with
+    fee The fee'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

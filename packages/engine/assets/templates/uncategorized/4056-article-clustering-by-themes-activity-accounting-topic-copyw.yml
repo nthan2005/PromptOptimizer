@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4056
+# teaser: Efficiently cluster articles for better content management and reader navigation using
+# [VARIABLE1]. RevisionTime: 2023-08-24T11:15:40.611Z
+- id: 4056-article-clustering-by-themes-activity-accounting-topic-copyw
+  title: "Article Clustering by Themes. Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - article
+    - clustering
+    - themes
+    - activity
+    - accounting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Article Clustering by Themes."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Cluster the [PROMPT] articles in [TARGETLANGUAGE] by themes using [VARIABLE1],
+    [VARIABLE2], and [VARIABLE3]. [VARIABLE1:Methodology] [VARIABLE2:Number of Clusters:5]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3

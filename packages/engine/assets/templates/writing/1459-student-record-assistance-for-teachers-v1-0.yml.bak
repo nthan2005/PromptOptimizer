@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1459
+# teaser: Detailed records of students with core competencies
+- id: 1459-student-record-assistance-for-teachers-v1-0
+  title: Student Record Assistance for Teachers(V1.0)
+  tags:
+  - writing
+  - student
+  - record
+  - assistance
+  - teachers
+  family: writing
+  body: 'Fill out student records for [VARIABLE1]. Write it so that the capability
+    of [VARIABLE2] is clearly revealed. Explain with specific examples of [PROMPT]
+    competencies. Write only in [TARGETLANGUAGE] language. Do not mention student''s
+    name or gender. Write in the style of Educator''s Student Record Report. [VARIABLE1:
+    Subject Name] [VARIABLE2: Core competency]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - variable1
+  - variable2

@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7295
+# teaser: Generate Mind Map for Keyword Research for Content Expert (need ChatGPT 4 to work)
+# RevisionTime: 2023-05-10T15:07:43.699Z
+- id: 7295-mind-map-generator-for-content-experts-activity-plan-topic-p
+  title: 'Mind Map Generator for Content Experts Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - mind
+  - map
+  - generator
+  - content
+  - experts
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1795938630347517952/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Mind Map Generator for Content Experts"](https://www.aiprm.com/prompts/productivity/plan/1795938630347517952/)_"
+    --- Topic : [PROMPT] Create it in the XML OPML 2.0 format of a well researched,
+    tree-like hierarchy, insightful, related, high relevant, high authority, exhaustive
+    mindmap on the topic above. List out the all main branches, sub-branches to use
+    latent semantic index LSI keywords to help brainstorming new ideas and thoughts
+    for an Ultimate Guide blog for Content Experts and Subject Matter Experts. [TARGETLANGUAGE]
+    (Temperature = 0.8, Top-p = 0.9, Top-k = 5).'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

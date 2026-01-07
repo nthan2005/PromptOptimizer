@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4360
+# teaser: Simple Input for a D&D NPC : Get a Detailed Output RevisionTime: 2023-03-01T18:39:23Z
+- id: 4360-non-player-character-npc-generator-dnd-activity-games-topic
+  title: "Non Player Character (NPC) Generator-DnD Activity: Games Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - non
+    - player
+    - character
+    - npc
+    - generator
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Non Player Character (NPC) Generator-DnD"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create for me a single Dungeon and Dragon NPC. For each include their, class,
+    race, sex, appearance, unique, positive quirk, negative quirk, a personality tic,
+    their speech patterns and voice sound, a common saying, their most prized possession,
+    gender identity, and current motivation, all output shall be in [TARGETLANGUAGE]
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

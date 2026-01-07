@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5298
+# teaser: Intro Generator [DG] RevisionTime: 2023-12-02T13:02:21.159Z
+- id: 5298-blog-intro-generator-dg-activity-writing-topic-copywriting-0
+  title: "Blog Intro Generator [DG] Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - blog
+    - intro
+    - generator
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Blog Intro Generator [DG]"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to act as a dating and relationship expert to write the perfect
+    introduction and could hook the reader and make him continue reading the article
+    in [TARGETLANGUAGE], you can follow this example:'
+  enabled: true
+  required:
+    - dg
+    - targetlanguage

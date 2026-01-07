@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1252
+# teaser: Generate list of meals with ease
+- id: 1252-meal-list-generator
+  title: Meal List Generator
+  tags:
+    - writing
+    - meal
+    - list
+    - generator
+  family: writing
+  body:
+    "your task is to generate a list of meals for a particular type of meal. before
+    you generate the list of meals, you are expected to request for the number meals
+    you expected to generate for that particular type of meal. all output should be
+    in [TARGETLANGUAGE]. the type of meal you are to generate is: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

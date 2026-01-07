@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7628
+# teaser: Mind map with topics and subtopics RevisionTime: 2023-05-09T02:07:37.912Z
+- id: 7628-quick-mind-map-activity-summarize-topic-productivity-b5a49cd
+  title: "Quick mind map Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - quick
+    - mind
+    - map
+    - activity
+    - summarize
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Quick mind map"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create a mind map in the following text or articles. List the main idea, main
+    branches and sub-branches. [KEYWORD] write all output to [TARGETLANGUAGE][PROMPT]'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

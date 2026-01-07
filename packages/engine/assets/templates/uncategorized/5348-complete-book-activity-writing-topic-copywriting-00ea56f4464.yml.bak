@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5348
+# teaser: Act like an author and write a book on the topicâ€ [PROMPT] â€œ RevisionTime:
+# 2023-05-18T18:57:29.437Z
+- id: 5348-complete-book-activity-writing-topic-copywriting-00ea56f4464
+  title: 'Complete Book Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - complete
+  - book
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1824853067561164800/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Complete Book\"](https://www.aiprm.com/prompts/copywriting/writing/1824853067561164800/)_\"\
+    \ --- Act like an author and write a book on the topicâ€\x9D [PROMPT] â€œ Generate\
+    \ an awesome , engaging creative book title on the topic. Generate 15 book chapter\
+    \ titles and list them Generate a detailed book introduction/preface with the\
+    \ title provided in 800-1200 words Write all chapters , one by one , each chapter\
+    \ should be around 1500 words. Please write in confident tone, journalistic writing\
+    \ style. The book must be enagaging , informative, professional human toned .\
+    \ Use industry specific terms, data and quotes where ever needed . Please write\
+    \ in confident tone, creative writing style in [TARGETLANGUAGE] language."
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

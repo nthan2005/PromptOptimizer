@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 478
+# teaser: Create Out line structure for your digital marketing website.
+- id: 478-structure-for-your-niche-website
+  title: Structure for your Niche Website
+  tags:
+    - marketing
+    - structure
+    - niche
+    - website
+  family: marketing
+  body: SILO structure for digital marketing website for [PROMPT] [KEYWORD] [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

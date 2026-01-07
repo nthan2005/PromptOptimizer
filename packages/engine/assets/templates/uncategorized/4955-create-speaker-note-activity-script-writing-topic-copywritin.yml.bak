@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4955
+# teaser: Create speaker note for your presentations RevisionTime: 2023-05-28T13:19:40.417Z
+- id: 4955-create-speaker-note-activity-script-writing-topic-copywritin
+  title: 'Create speaker note Activity: Script Writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - speaker
+  - note
+  - activity
+  - script
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1828391018874277888/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create speaker note"](https://www.aiprm.com/prompts/copywriting/script-writing/1828391018874277888/)_"
+    --- I''ll give you a bullet from one of the slides from my presentation and create
+    a speaker note from it in [TARGETLANGUAGE]. The length of this slide should be
+    2 minutes. Read following contents [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

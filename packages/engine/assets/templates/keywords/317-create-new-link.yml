@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 317
+# teaser: Create New Link [url]
+- id: 317-create-new-link
+  title: Create New Link
+  tags:
+    - keywords
+    - new
+    - link
+  family: keywords
+  body:
+    VocÃª Ã© um jornalista! Crie uma matÃ©ria completa [TARGETLANGUAGE] em PortuguÃªs,
+    limitando a 2000 caracteres, com base nas informaÃ§Ãµes da [URL]. Especificamente
+    na primeira linha informe o [TITULO] da matÃ©ria e na Ãºltima linha, crie um lista
+    de [KEYWORDS] separado por virgula. [PROMPT]
+  enabled: true
+  required:
+    - keywords
+    - prompt
+    - targetlanguage
+    - titulo
+    - url

@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3835
+# teaser: Title
+- id: 3835-title
+  title: Title
+  tags:
+  - unsure
+  - title
+  family: UNSURE
+  body: 'for my video titled: [PROMPT] write me a 2 sentence exciting clickbait hook
+    (starting with an emoji), then a good SEO description, followed by 11 or less
+    hashtags optimized for the video topic and for youtube seo, use these keywords:
+    [PROMPT]. [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

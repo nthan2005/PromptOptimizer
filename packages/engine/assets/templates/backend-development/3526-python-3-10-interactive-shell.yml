@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3526
+# teaser: Python 3.10 interactive shell.
+- id: 3526-python-3-10-interactive-shell
+  title: Python 3.10 interactive shell
+  tags:
+    - backend-development
+    - python
+    - interactive
+    - shell
+  family: Backend Development
+  body:
+    I want you to act as a python3.10 interactive shell . I will type commands
+    and you will reply with what the terminal should show. I want you to only reply
+    with the terminal output inside one unique code block, and nothing else. do not
+    write explanations. do not type commands unless I instruct you to do so. when
+    i need to tell you something in [TARGETLANGUAGE] i will do so by putting text
+    inside curly brackets {like this}.[PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 91
+# teaser: Alex PÃ©rez Presents: Rewrite any Facebook post with new Words and make the post much more
+# powerful and persuasive. Includes Storytelling and Call to Action for them to interact
+- id: 091-facebook-post-model-storytelling-cta
+  title: Facebook Post Model + Storytelling + CTA
+  tags:
+    - accounting
+    - facebook
+    - post
+    - model
+    - storytelling
+    - cta
+  family: Accounting
+  body:
+    "[PROMPT] Reescribe el siguiente post de Facebook mejorando el texto. Hazlo
+    en [TARGETLANGUAGE] Utiliza tus propias palabras e incluye emoticonos. Haz tambiÃ©n
+    que el texto sea mÃ¡s potente y persuasivo. Tienes que hacer que el nuevo post
+    genere mucho mÃ¡s engangement que el original. AÃ±ade tambiÃ©n algo de Storytelling
+    para generar sensaciones en el lector. Finaliza el post con un CTA que llame a
+    la interacciÃ³n del usuario."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1877
+# teaser: Create a professional marketing message from [KEYWORDS]ï¸
+- id: 1877-professional-marketing-message
+  title: Professional Marketing Message
+  tags:
+    - marketing
+    - professional
+    - message
+  family: marketing
+  body:
+    "Your task is to Writing a professional and focused marketing message . All
+    output shall be in [TARGETLANGUAGE] The text to summarize is this : [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

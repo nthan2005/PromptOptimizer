@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7762
+# teaser: Get an idea of multiples niches having traffic on them. RevisionTime:
+# 2023-08-25T12:17:24.208Z
+- id: 7762-niche-finder-idea-of-website-activity-ideation-topic-seo-84c
+  title: "(Niche Finder) Idea of Website Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - niche
+    - finder
+    - idea
+    - website
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "(Niche Finder) Idea of Website"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as an Expert SEO Niche Finder Very Proficient and Very Accurate and Find
+    Niche for me having traffic more than [VARIABLE1] in [TARGETLANGUAGE]. Give me
+    at-least [VARIABLE2] niches. My Niche is [PROMPT]. [VARIABLE1: Please Enter Minimum
+    Traffic] [VARIABLE2: How many Niche ideas it should Generate]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2

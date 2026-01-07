@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 13
+# teaser: create full chrome extinction with all libery In the first step you will get all the details
+# on how to build a plugin In the second action you have to write "can you expand with code"? and will
+# return you an answer with everything you need
+- id: 013-create-full-chrome-extinction-with-all-libery
+  title: create full chrome extinction with all libery
+  tags:
+    - design
+    - full
+    - chrome
+    - extinction
+    - all
+    - libery
+  family: Design
+  body:
+    "[PROMPT]Create code chorme extinction with libraries : 1. popup.js 2. content.js
+    3 .popup.html 4. Background.js 5. manifest.js [TARGETLANGUAGE]."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

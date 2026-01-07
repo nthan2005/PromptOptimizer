@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9291
+# teaser: Translate any text to Portuguese quickly. RevisionTime: 2024-04-04T00:50:38.837Z
+- id: 9291-translate-text-to-portuguese-activity-unsure-topic-unsure-f6
+  title: "Translate text to Portuguese Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - translate
+    - text
+    - portuguese
+    - activity
+    - unsure
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Translate text to Portuguese"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] Atue como um especialista
+    em traduÃƒÂ§ÃƒÂµes. Vou fornecer um texto, e vocÃƒÂª irÃƒÂ¡ traduzi-lo para o portuguÃƒÂªs
+    e coloque o texto em parÃƒÂ¡grafos. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

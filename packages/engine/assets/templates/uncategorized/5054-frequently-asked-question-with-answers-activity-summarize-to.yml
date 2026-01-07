@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5054
+# teaser: Frequently asked question generator that also includes answers to the questions. input topic
+# and all will be generated! RevisionTime: 2023-04-01T23:01:05.757Z
+- id: 5054-frequently-asked-question-with-answers-activity-summarize-to
+  title: "Frequently asked question with answers Activity: Summarize Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - frequently
+    - asked
+    - question
+    - answers
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Frequently asked question with answers"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to make a FAQ with both questions and answers. All text shall
+    be in [TARGETLANGUAGE] the topic is [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

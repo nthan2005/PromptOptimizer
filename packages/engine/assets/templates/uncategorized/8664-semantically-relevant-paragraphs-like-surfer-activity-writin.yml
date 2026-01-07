@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8664
+# teaser: Write a paragraph that includes most of the semantically relevant SEO terms, like SurferSEO
+# does. RevisionTime: 2023-04-04T02:02:37.838Z
+- id: 8664-semantically-relevant-paragraphs-like-surfer-activity-writin
+  title: "Semantically Relevant Paragraphs like Surfer Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - semantically
+    - relevant
+    - paragraphs
+    - like
+    - surfer
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Semantically Relevant Paragraphs like
+    Surfer "](https://github.com/nthan2005/PromptOptimizer)_" ---
+    Your tasks are the following: First generate a list of semantically relevant terms
+    from the topic I''m going to provide you. Name these as NLP terms. You are going
+    to provide NLP terms in [TARGETLANGUAGE]. Then write multiple paragraphs that
+    includes all of these terms in the [TARGETLANGUAGE]. Before writing paragraphs,
+    tell the users that now I will include these terms in the following paragraphs.
+    The topic is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

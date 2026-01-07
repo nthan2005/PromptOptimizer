@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5764
+# teaser: Write product description for the course. RevisionTime: 2023-02-19T15:35:19Z
+- id: 5764-product-page-content-activity-writing-topic-copywriting-00ea
+  title: 'Product Page Content Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - product
+  - page
+  - content
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1791729025107099648/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Product Page Content"](https://www.aiprm.com/prompts/copywriting/writing/1791729025107099648/)_"
+    --- I would want you to generate a headline for the [PROMPT] course. Must use
+    the [PROMPT] in the headline and keep the headline interesting. Keep the headline
+    strictly to 30 characters. Do not repeat the same words as starting words in the
+    title. Do not include any number in the title. Add a description to it. Keep the
+    description strictly within 200 characters. Keep the description interesting,
+    catchy, and engaging. write all output in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1331
+# teaser: Generate the Privacy Policy for any website (This is also accepted into Google AdSense)
+- id: 1331-privacy-policy-generator
+  title: Privacy Policy Generator
+  tags:
+  - writing
+  - privacy
+  - policy
+  - generator
+  family: writing
+  body: 'Please write a privacy policy for my website The website Name, website URL
+    and Website type is mentioned below which are separated by comma. [PROMPT] NB:
+    Please write in [TARGETLANGUAGE] language'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1842
+# teaser: Create keywords to use in your online ads
+- id: 1842-keywords-strategy
+  title: Keywords strategy
+  tags:
+    - marketing
+    - keywords
+    - strategy
+  family: marketing
+  body:
+    keyword list including placeholders [TARGETLANGUAGE] or [PROMPT] automatically
+    replaced PromptOptimizer
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

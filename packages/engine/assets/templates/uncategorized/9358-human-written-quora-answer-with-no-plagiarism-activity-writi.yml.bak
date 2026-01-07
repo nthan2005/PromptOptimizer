@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9358
+# teaser: Get the best Quora answer without plagiarism and get good engagement on Quora. RevisionTime:
+# 2024-01-27T04:15:13.486Z
+- id: 9358-human-written-quora-answer-with-no-plagiarism-activity-writi
+  title: 'Human written Quora answer with no Plagiarism Activity: writing Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - human
+  - written
+  - quora
+  - answer
+  - plagiarism
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1916677555953061888/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Human written Quora answer with no
+    Plagiarism"](https://www.aiprm.com/prompts/unsure/writing/1916677555953061888/)_"
+    --- Your task is to write the 100% Human written Quora answer with no plagiarism.
+    All output shall be in [TARGETLANGUAGE]. The text summarize is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

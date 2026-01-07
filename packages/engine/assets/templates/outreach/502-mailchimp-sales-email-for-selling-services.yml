@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 502
+# teaser: Help me write a persuasive email for my MailChimp subscribers
+- id: 502-mailchimp-sales-email-for-selling-services
+  title: Mailchimp / Sales Email for selling Services
+  tags:
+    - outreach
+    - mailchimp
+    - sales
+    - email
+    - selling
+    - services
+  family: Outreach
+  body:
+    Help me write a persuasive sales email for my MailChimp subscribers, I want
+    the email to be short having small paragraphs, headings, bullet points, and more.
+    Add the factor of curiosity and greed within the email to keep the audience engaged.
+    All output should be [TARGETLANGUAGE]. Based on the given information please draft
+    the full email. The the people i am sending emails are really in the need of the
+    following services. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

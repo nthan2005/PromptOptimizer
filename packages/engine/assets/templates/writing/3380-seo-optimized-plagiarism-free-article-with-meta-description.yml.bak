@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3380
+# teaser: Fully SEO Optimized Plagiarism Free Article including Meta Description and FAQ's. upvote if
+# you like that
+- id: 3380-seo-optimized-plagiarism-free-article-with-meta-description
+  title: SEO Optimized Plagiarism Free Article with Meta Description and FAQ's
+  tags:
+  - writing
+  - seo
+  - optimized
+  - plagiarism
+  - free
+  - article
+  family: writing
+  body: Create Fully SEO Optimized Article in [TARGETLANGUAGE] including Meta Description
+    and FAQ's on [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

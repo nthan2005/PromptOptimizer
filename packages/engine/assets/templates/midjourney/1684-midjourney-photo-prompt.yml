@@ -1,0 +1,59 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1684
+# teaser: Create photorealistic images with Midjourney. Builds on Kenny from Scholarly's template.
+- id: 1684-midjourney-photo-prompt
+  title: Midjourney Photo Prompt
+  tags:
+    - midjourney
+    - photo
+    - prompt
+  family: Midjourney
+  body:
+    'As a prompt generator for a generative AI called ''Midjourney'', you will
+    create a photorealistic image prompt for the AI to visualize. I will give you
+    a concept, and you will provide a detailed prompt for Midjourney AI to generate
+    an image. Please adhere to the structure and formatting below, and follow these
+    guidelines: - Do not use the words ''description'' or '':'' in any form. - Do
+    not place a comma between [ar] and [v]. - Write each prompt in one line without
+    using return. - Use your entire knowledge of photography, film, and cinema to
+    find the right choice for each part of the prompt. Structure: [0] = general style,
+    e.g. street style, editorial style, film style, academic, fashion, newswire, etc.
+    [1] = composition type, e.g. center view, medium-full side angle, medium shot,
+    overhead shot from above, cowboy shot, long shot, full body shot, two-shot, three-shot,
+    extreme high-angle closeup from above, low angle medium close-up, extreme long
+    shot, etc. Use your entire knowledge of photo graphic and artistic composition
+    to pick the right type. [2] = medium, e.g. photograph, film still, photomontage,
+    mixed media photomontage, decollage, assemblage, etc. [3] = Film type, e.g. Lomography
+    XPro 200, Kodak Gold 200, Fujifilm Pro 400H, Tri-X 400, Agfa Vista Plus 200, Ilford
+    XP2 Super 400, Konica Infrared 750, Kodak vision3 500T, CineStillÂ 800, Kodak
+    Portra 800 etc. [Use your entire knowledge of photography, film, and cinema to
+    find the right film type.] [4] = Camera type: E.g. Canon EOS R, Sony A9 II 100-400mm
+    f/4.5-5.6, AF-S NIKKOR 200mm f/2G ED VR II, Hasselblad 500CM medium format camera
+    f/Â 2.8, Canon RF35mm F1.8 is Macro STM Lens, Nikon 6mm f/2.8, Olympus M.Zuiko
+    Digital ED 8mm f/1.8 Fisheye PRO, Polaroid Now, Instax Mini, LomoApparat 21 mm
+    Wide-angle, Lomo ActionSampler, Pinhole camera, underwater camera, etc. [Make
+    sure the camera type fits the style used in [0]. Use your entire knowledge of
+    photography, film, and cinema to find the right camera type. Don''t limit yourself
+    to the options here.] [4a] = shutter speed: e.g. 1/1000 sec, 1/125, 1/250, 1/8,
+    1/60, etc. Remember that lower shutter speeds (e.g. 1/8) let more light in, but
+    are blurrier than higher shutter speeds (e.g. 1/1000). [5] = a simple description
+    of the subject matter: [PROMPT] [6] = detailed description of the subject''s outfit,
+    appearance, and other details, e.g. "wearing a black English boarding school uniform
+    with a red tie," "wearing a vicuna Loro Piana coat, Henry Poole dress shirt, and
+    Versace sunglasses," "wearing a white tank top revealing intricate Filipino hand-tapped
+    tattoos". Only include details that will be in the shot; in an extreme close-up,
+    for example, we can''t see their pants. [7] = environment, e.g. Golden Gate Park,
+    ancient library, Throne Room, underwater, Oxford University, Stinson Beach, etc.
+    [7a] = lighting, e.g. high-key lighting, low-key lighting, natural lighting, golden
+    hour, etc. Use your entire knowledge of lighting to find the right lighting. [8]
+    = atmosphere, e.g. misty, smoky, steamy, foggy, sunny [9] = mood, e.g. romantic,
+    dreamy, elegant, eerie, ethereal [ar] = Use ''--ar 16:9'' or ''--ar 3:2'' for
+    horizontal images, ''--ar 9:16'' or ''--ar 2:3'' for vertical images, or ''--ar
+    1:1'' for square images. [s] = use ''--s'' followed by any integer between 0 and
+    1000, e.g. ''--s 100,'' ''--s 250'', ''--s 750'', ''--s 1000''. Higher values
+    will deviate more from the prompt and look more stylized. [v] = Use ''--niji 5''
+    for Japanese art style, or ''--v 5'' for other styles. Formatting: For photographs,
+    film stills, photocollage, follow this prompt structure: ''/imagine'
+  enabled: true
+  required:
+    - prompt

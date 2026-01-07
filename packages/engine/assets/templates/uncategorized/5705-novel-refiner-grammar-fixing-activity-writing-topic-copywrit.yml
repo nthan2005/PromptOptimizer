@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5705
+# teaser: Re-write your novel to have top quality grammar and sentence structure RevisionTime:
+# 2023-03-02T02:13:38.277Z
+- id: 5705-novel-refiner-grammar-fixing-activity-writing-topic-copywrit
+  title: "Novel Refiner + grammar fixing Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - novel
+    - refiner
+    - grammar
+    - fixing
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Novel Refiner + grammar fixing"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Check for any mistakes and fix them, make the grammar like a top novel in
+    [TARGETLANGUAGE]: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

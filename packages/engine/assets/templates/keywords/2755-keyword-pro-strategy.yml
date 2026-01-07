@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2755
+# teaser: Create a strategy keiwords for your plan [KEYWORD]
+- id: 2755-keyword-pro-strategy
+  title: Keyword pro strategy
+  tags:
+    - keywords
+    - keyword
+    - pro
+    - strategy
+  family: keywords
+  body:
+    'crie uma tabela com as melhores palavras-chave em [TARGETLANGUAGE] do nicho
+    [PROMPT] [KEYWORD], com informaÃ§Ãµes detalhadas sobre as palavras, mostre a mÃ©dia
+    de buscas mensais com base no planejador de palavras do Google, de forma precisa
+    e de acordo com cada palavra Ãºnica no pais da linguagem [TARGETLANGUAGE], divida
+    em tÃ³picos, NÃ£o use de forma alguma palavras-chave muito genÃ©ricas como "introduÃ§Ã£o"
+    ou "conclusÃ£o" ou "tl:dr". Foque apenas nas palavras-chave com a maior intenÃ§Ã£o
+    de compra. NÃ£o use aspas simples, aspas duplas ou qualquer outro caractere de
+    delimitaÃ§Ã£o em nenhuma das colunas que vocÃª preencher. A tabela em markdown
+    deve estar em [TARGETLANGUAGE] e ter as seguintes colunas: CPC, mÃ©dia de buscas,
+    palavra-chave, intenÃ§Ã£o de pesquisa. o CPC e a mÃ©dia de buscas devem ser baseados
+    na moeda e pais da linguagem [TARGETLANGUAGE], sendo a mÃ©dia de buscas baseadas
+    no planejador de palavras-chave do google e de forma precisa somente para cada
+    palavra-chave. o CPC deve ser o lance da parte superior. As palavras-chave devem
+    ser as mais buscadas e as com mais intenÃ§Ã£o de compra do nicho. Aqui estÃ¡ a
+    palavra-chave para comeÃ§ar novamente: [PROMPT] [KEYWORD].'
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

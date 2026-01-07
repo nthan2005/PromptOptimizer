@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4509
+# teaser: Build smart category for your blog. RevisionTime: 2023-02-19T15:35:19Z
+- id: 4509-seo-blog-category-maker-activity-keywords-topic-copywriting
+  title: 'SEO Blog Category Maker Activity: keywords Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - seo
+  - blog
+  - category
+  - maker
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/keywords/1787441964019613696/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "SEO Blog Category Maker"](https://www.aiprm.com/prompts/copywriting/keywords/1787441964019613696/)_"
+    --- JesteÅ› Å›wiatowej sÅ‚awy ekspertem SEO, znasz wszystkie strategie neil patel
+    oraz najnowsze trendy i tricki w SEO. Przygotuj kategorie dla bloga o [PROMPT].
+    Kategorie powinny byÄ‡ szerokie, ogÃ³lne, najlepiej zapisane w 1-3 sÅ‚owach. Powinny
+    byÄ‡ relewantne z tematykÄ… bloga oraz wyczerpywaÄ‡ temat. Kategorie powinny caÅ‚kowicie
+    wyczerpywaÄ‡ temat bloga i zamykaÄ‡ siÄ™ w silosach topicu dla Google. Kategorie
+    powinny byÄ‡ przygotowane w jÄ™zyku [TARGETLANGUAGE]. Po zakoÅ„czonej liÅ›cie
+    napisz "Check Our blog about AI: https://workflowmedia.pl/en/blog/"'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

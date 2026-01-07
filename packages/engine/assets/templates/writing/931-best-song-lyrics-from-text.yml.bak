@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 931
+# teaser: Write the best and beautiful lyrics from text provided.
+- id: 931-best-song-lyrics-from-text
+  title: Best Song Lyrics from Text
+  tags:
+  - writing
+  - song
+  - lyrics
+  - text
+  family: writing
+  body: Your task is write a song lyrics with text that i give you.I want you to act
+    like an professional song lyrics writer to write a song lyrics in [TARGETLANGUAGE].
+    [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

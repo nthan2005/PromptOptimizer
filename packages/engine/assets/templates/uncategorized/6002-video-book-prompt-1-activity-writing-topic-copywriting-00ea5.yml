@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6002
+# teaser: Title = Setting = Protagonist = Conflict = Genre = RevisionTime: 2023-03-25T15:52:08.376Z
+- id: 6002-video-book-prompt-1-activity-writing-topic-copywriting-00ea5
+  title: "Video Book Prompt. 1 Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - video
+    - book
+    - prompt
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Video Book Prompt. 1"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

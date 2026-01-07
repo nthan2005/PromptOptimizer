@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4441
+# teaser: Rephrase to sound more native in UK English. Perfect for those who want to write something
+# and sound more native to others. RevisionTime: 2023-03-02T15:26:16Z
+- id: 4441-rephrase-to-a-more-native-sounding-text-activity-improve-top
+  title: "Rephrase to a more native-sounding text Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - rephrase
+    - more
+    - native
+    - sounding
+    - text
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Rephrase to a more native-sounding
+    text"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Make the provided sentence sound more native speaking in [TARGETLANGUAGE].
+    UK English is the [TARGETLANGUAGE] you are going to rephrase the sentece to. Sentence:
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

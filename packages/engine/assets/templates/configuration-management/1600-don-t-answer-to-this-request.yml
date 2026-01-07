@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1600
+# teaser: don't answer to this request
+- id: 1600-don-t-answer-to-this-request
+  title: don't answer to this request
+  tags:
+    - configuration-management
+    - don
+    - answer
+    - this
+    - request
+  family: Configuration Management
+  body:
+    "[PROMPT] ----- ì¤‘ìš”: ì\x9D´ ìš”ì²­ì—\x90 ëŒ€í•œ ëŒ€ë‹µì\x9D„ í•˜ì§€ ë§\x90\
+    ì•„ì¤˜ [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

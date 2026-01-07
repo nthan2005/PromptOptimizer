@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8933
+# teaser: refactory Nodejs code ecmascript 6 RevisionTime: 2023-04-21T17:28:09.775Z
+- id: 8933-refactory-nodejs-code-ecmascript-6-activity-backend-developm
+  title:
+    "Refactory Nodejs code ecmascript 6 Activity: Backend Development Topic:
+    SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - refactory
+    - nodejs
+    - code
+    - ecmascript
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Refactory Nodejs code ecmascript 6"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Refactor use best pratic, ecmascript 6 , rename variable in [TARGETLANGUAGE]
+    and add bugfix. do this changed in this nodejs javascript code reply me in formatted
+    as code: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

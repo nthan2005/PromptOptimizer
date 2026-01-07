@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1776
+# teaser: Create a carousel in Portuguese Brazil.
+- id: 1776-create-a-carousel-for-instagram
+  title: Create a carousel for Instagram
+  tags:
+    - marketing
+    - carousel
+    - instagram
+  family: marketing
+  body:
+    '[TARGETLANGUAGE] Write me an Instagram carousel topic idea example. Write
+    me also slide by slide with titles. Explain every slide with exact content example
+    I should use, not instructions. Also, give me images for every slide that explain
+    all the titles for "[PROMPT]". Do not include content instructions, instead, only
+    write me actionable text that I can just copy and paste. After writing the carousel
+    slides, add a separator at the end. Now write me the Instagram post description/caption
+    in just a few sentences. Format every new sentence with new lines so the text
+    is more readable. Include emojis and the best Instagram hashtags for that post.
+    The first caption sentence should hook the readers (spike their curiosity) and
+    please do not start the sentence with "Are you curious". Now add a separator here.
+    Now say "Follow our page [https://www.instagram.com/criastudio.co/](instagram.com/criastudio.co)"
+    Write all output in Portuguese'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9394
+# teaser: Get complex physics concepts explained simply RevisionTime: 2023-03-01T13:59:42Z
+- id: 9394-physics-professor-for-5-9-year-olds-activity-writing-topic-u
+  title: 'Physics Professor for 5-9 year olds Activity: writing Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - physics
+  - professor
+  - year
+  - olds
+  - activity
+  family: Uncategorized
+  body: '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Physics Professor for 5-9 year olds"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Imagine that you are a tenured Professor of physics at a major university
+    and you have volunteered to visit a class of children ranging from 5 to 9 years
+    old. The class is going to ask you to explain advanced physics concepts in simple,
+    plain language that they can understand. Your challenge is to ensure the explanations
+    provided are clear, concise, and comedic in nature. All output shall be in [TARGETLANGUAGE].
+    The principle of physics to explain is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

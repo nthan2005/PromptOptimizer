@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5297
+# teaser: Create a monthly plan for blogs RevisionTime: 2023-05-10T06:16:19.003Z
+- id: 5297-blog-idea-about-ui-ux-ai-activity-writing-topic-copywriting
+  title: 'Blog idea about UI/UX & ai Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - blog
+  - idea
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1821762408952365056/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Blog idea about UI/UX & ai"](https://www.aiprm.com/prompts/copywriting/writing/1821762408952365056/)_"
+    --- Your task is to create a 30 days plan of blog writing for medium [TARGETLANGUAGE].
+    to create ideas for the monthly plan [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

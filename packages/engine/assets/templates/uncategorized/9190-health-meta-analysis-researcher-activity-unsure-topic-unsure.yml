@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9190
+# teaser: Compare meta analyzes of scientific articles. RevisionTime: 2023-04-02T20:35:34.412Z
+- id: 9190-health-meta-analysis-researcher-activity-unsure-topic-unsure
+  title: "Health Meta Analysis Researcher Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - health
+    - meta
+    - analysis
+    - researcher
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Health Meta Analysis Researcher"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] FaÃƒÂ§a uma definiÃƒÂ§ÃƒÂ£o com
+    base em artigos meta anÃƒÂ¡lise encontrados sobre o tema; Apresente artigos com
+    a mesma metodogia ou com a metodologia mais similar relacionados ao tema; Crie
+    uma tabela e inclua cada artigo com os dados estatÃƒÂ­sticos apresentados e a metodologia
+    usada em cada um. FaÃƒÂ§a um estudo comparativo entre os artigos Finalize fazendo
+    a referencia de cada artigo [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

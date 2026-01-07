@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7690
+# teaser: create best out put ever RevisionTime: 2023-05-12T03:28:01.123Z
+- id: 7690-best-text-output-activity-ideation-topic-seo-84c5d6a7b8e9f0c
+  title: 'Best Text Output Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - text
+  - output
+  - activity
+  - ideation
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1822444831105093632/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Best Text Output"](https://www.aiprm.com/prompts/seo/ideation/1822444831105093632/)_"
+    --- [TARGETLANGUAGE],[PROMPT] i asking you to imagine your self , Acting as a
+    [VARIBLE1] perform [VARIBLE2] in [VARIBLE3]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - varible1
+  - varible2
+  - varible3

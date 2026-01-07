@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3710
+# teaser: Create a user story
+- id: 3710-create-a-user-story
+  title: Create A User Story
+  tags:
+  - unsure
+  - user
+  - story
+  family: UNSURE
+  body: 'Write me a user stories for the user stories list: [PROMPT] All of the user
+    stories have to have acceptance criteria | User Story | |----------------------------------------------------------------------------------------------|
+    | As a [Description of user] | | | I Want [Functionality] | | | So That [Benefit]
+    | | |----------------------------------------------------------------------------------------------|
+    | Acceptance Criteria | |----------------------------------------------------------------------------------------------|
+    | Given [how things begin] | | | When [action taken] | | | Outcome [action result]
+    | | Please write in [TARGETLANGUAGE] language. The user stories are under the
+    table format.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

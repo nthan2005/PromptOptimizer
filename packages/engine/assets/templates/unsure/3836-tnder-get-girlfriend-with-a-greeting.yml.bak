@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3836
+# teaser: Attract women from Tinder initial Geeting
+- id: 3836-tnder-get-girlfriend-with-a-greeting
+  title: Tnder get girlfriend with a greeting
+  tags:
+  - unsure
+  - tnder
+  - girlfriend
+  - greeting
+  family: UNSURE
+  body: write to [PROMPT] is a woman I just met through an internet application, write
+    a warm affectionate greeting, in 2 paragraphs each with three lines and emojis
+    [TARGETLANGUAGE]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

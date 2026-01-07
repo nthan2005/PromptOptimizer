@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6480
+# teaser: Marketers: Seek insights on how to analyze customer data and identify trends that can help
+# inform marketing strategies. RevisionTime: 2023-03-07T18:51:32Z
+- id: 6480-marketing-data-analysis-and-insights-activity-marketing-topi
+  title: 'Marketing data analysis and insights Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - marketing
+  - data
+  - analysis
+  - insights
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1798758220278521856/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Marketing data analysis and insights"](https://www.aiprm.com/prompts/marketing/marketing/1798758220278521856/)_"
+    --- Hello ChatGPT. Pretend you are a marketing professional who speaks and writes
+    fluent [TARGETLANGUAGE]. You want to seek insights on how to analyze customer
+    data and identify trends that can help inform marketing strategies in the [PROMPT]
+    industry. Outline how you would find these insights and analyze customer data.
+    Be as specific as possible. Put this information in an outline format. Thank you!'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

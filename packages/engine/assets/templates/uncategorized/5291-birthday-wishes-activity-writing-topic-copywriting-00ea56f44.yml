@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5291
+# teaser: Birthday wishes for your loved one's. You'll get one hindi shayri with it. RevisionTime:
+# 2023-03-10T19:27:31Z
+- id: 5291-birthday-wishes-activity-writing-topic-copywriting-00ea56f44
+  title: "Birthday Wishes Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - birthday
+    - wishes
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Birthday Wishes"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Birthday wishes to [PROMPT] in [TARGETLANGUAGE] and also add one shayri for
+    him without translation. Add some cute birthday emoji with it. Prepend "Hello
+    Im Ram" with every result.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3860
+# teaser: Create a 10 question Multiple Choice Style List of Questions with Answers
+- id: 3860-10-multiple-choice-questions-answers
+  title: 10 Multiple Choice Questions & Answers
+  tags:
+  - writing
+  - multiple
+  - choice
+  - questions
+  - answers
+  family: writing
+  body: Your task is to generate 10 mutliple choice questions with five possible answers
+    each. The keywords to use in the analysis are [PROMPT]. Include an answer key.
+    Write all output in [TARGETLANGUAGE]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

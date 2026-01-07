@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5071
+# teaser: Tell me what you see and i tell you what i think about you RevisionTime:
+# 2023-02-19T15:35:19Z
+- id: 5071-netflix-analyzer-activity-summarize-topic-copywriting-00ea56
+  title: "Netflix Analyzer Activity: Summarize Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - netflix
+    - analyzer
+    - activity
+    - summarize
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Netflix Analyzer"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- ich nenne dir jetzt ein paar netflix serien und Filme : "[PROMPT]" und du
+    versuche ein Muster darin zu erkennen bzw. versuche was ÃƒÂ¼ber diese Person zu
+    schlussfolgern die das alles gesehen hat. So viel wie du nur schaffst. Ziehe zum
+    Schluss ein Fazit was du ÃƒÂ¼ber die Person denkst. Antworte mir bitte alles auf
+    [TARGETLANGUAGE]. Empfehle mir in einer schicken Tabelle zum Schluss noch basierend
+    auf meinen Mustern jeweils 5 weitere Titel die ich mir anschauen sollte. In der
+    Tabelle wÃƒÂ¤re es schÃƒÂ¶n wenn du den Titel, Hauptdarsteller und Kategorie benennst
+    und in Sternchenform darstellst wie gut oder schlecht die Bewertung ist.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

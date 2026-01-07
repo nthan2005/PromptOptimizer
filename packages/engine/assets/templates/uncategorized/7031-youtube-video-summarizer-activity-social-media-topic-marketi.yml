@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7031
+# teaser: Summarize a YouTube video and add bullets of key points covered. RevisionTime:
+# 2024-10-03T09:57:48.422Z
+- id: 7031-youtube-video-summarizer-activity-social-media-topic-marketi
+  title: "YouTube Video Summarizer Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - youtube
+    - video
+    - summarizer
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "YouTube Video Summarizer"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- In [TARGETLANGUAGE], Summarize this video with bullet points of the key topics
+    covered. Add a short paragraph background of the video in the beginning before
+    the bulleted summary. Here is the video transcript: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

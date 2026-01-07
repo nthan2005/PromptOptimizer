@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7285
+# teaser: Make scientific journal titles and their references RevisionTime: 2023-03-04T00:50:31.906Z
+- id: 7285-look-for-references-to-scientific-journal-titles-activity-pl
+  title: "look for references to scientific journal titles Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - look
+    - references
+    - scientific
+    - journal
+    - titles
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "look for references to scientific journal
+    titles"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- berikan saya beberapa topik judul jurnal ilmiah tentang [PROMPT] di jurusan
+    sistem informasi, menggunakan referensi yang sudah ada terlebih dahulu, dengan
+    bahasa [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8453
+# teaser: Etsy SEO Product Description to Rank on First Page of Etsy, 5 Bullet Points Description
+# using SEO Techniques RevisionTime: 2023-05-16T15:57:14.858Z
+- id: 8453-etsy-seo-product-description-writer-activity-writing-topic-s
+  title: 'Etsy SEO Product Description Writer Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - etsy
+  - seo
+  - product
+  - description
+  - writer
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1818985412199444480/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Etsy SEO Product Description Writer"](https://www.aiprm.com/prompts/seo/writing/1818985412199444480/)_"
+    --- Act as an Etsy SEO Specialist and 5 heading bullet points Etsy Product Description,
+    write short descriptions for bullet points using all Etsy SEO Techniques in [TARGETLANGUAGE]
+    to rank on Etsy First Page for the Product: [PROMPT] Don''t Explain What You did
+    and Just Provide Description'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

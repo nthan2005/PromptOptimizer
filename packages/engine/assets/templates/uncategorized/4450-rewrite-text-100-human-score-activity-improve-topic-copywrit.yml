@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4450
+# teaser: Rewrites your text to generate 100% human content RevisionTime: 2023-02-21T07:50:49Z
+- id: 4450-rewrite-text-100-human-score-activity-improve-topic-copywrit
+  title: "Rewrite text | 100% Human Score Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - rewrite
+    - text
+    - "100"
+    - human
+    - score
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Rewrite text | 100% Human Score"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- When it comes to writing content, three factors are crucial, "perplexity",
+    "burstiness", and "predictability." Perplexity measures the complexity of text.
+    Separately, burstiness compares the variations of sentences. Finally, predictability
+    is how likely someone is to guess the next sentence.Humans tend to write with
+    greater burstiness, for example, with some longer or complex sentences alongside
+    shorter ones. AI sentences tend to be more uniform. Therefore, when writing the
+    following content I am going to ask you to create, I need it to have a good amount
+    of perplexity and burstiness. I also need it to have a low amount of predictability.
+    You must also write in [TARGETLANGUAGE] only. Now, rewrite the following text:
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

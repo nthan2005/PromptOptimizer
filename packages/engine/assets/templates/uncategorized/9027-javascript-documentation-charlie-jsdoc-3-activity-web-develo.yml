@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9027
+# teaser: Your days of doing trainee work are over, its time to start your new life as Charlie's
+# supervisor when making the functions documentation. Give Charlie the name of the function, its
+# parameters and a brief description, and he will make the basic documentation on instants. EXAMPLE:
+# function getPaymentMethods( cartId , store ) cartId is a number store is a string containing a list
+# of available store codes Makes a request to AdobeCommerce API in order to retrieve an array of
+# objects with the available payment methods for the specified cart #api #js #java script #javascript
+# #request #webapp #documentation #docs #jsdoc #js doc #http RevisionTime: 2023-09-27T10:50:09.818Z
+- id: 9027-javascript-documentation-charlie-jsdoc-3-activity-web-develo
+  title:
+    "JavaScript Documentation Charlie - JSDoc 3 Activity: Web Development Topic:
+    SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - javascript
+    - documentation
+    - charlie
+    - jsdoc
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "JavaScript Documentation Charlie -
+    JSDoc 3"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create a JSDoc 3 documentation about the function described below, following
+    the specified example pattern. I also want you to write all the output result
+    in [TARGETLANGUAGE] and inside a code block of javascript language. Follow the
+    spaces of the pattern strictly, separating the description, name, parameters and
+    return. After finishing the code block, stop writting. Pattern: /** * Retrieve
+    the available payment methods for a specified cart. * * @function * @name getPaymentMethods
+    * * @param {number} cartId - The ID of the cart to retrieve the available shipping
+    methods for. * @param {string} [store=''default''] - The store code to make the
+    request for. * * @returns {Object[]} An array of objects containing the available
+    shipping methods for the specified cart. */ Function: [PROMPT]'
+  enabled: true
+  required:
+    - number
+    - prompt
+    - string
+    - targetlanguage

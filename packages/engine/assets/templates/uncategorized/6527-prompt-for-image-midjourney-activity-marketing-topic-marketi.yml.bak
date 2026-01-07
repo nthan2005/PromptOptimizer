@@ -1,0 +1,54 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6527
+# teaser: Write a prompt easily to have the ideal image on Midjourney RevisionTime:
+# 2023-04-02T11:52:57.357Z
+- id: 6527-prompt-for-image-midjourney-activity-marketing-topic-marketi
+  title: 'Prompt for image Midjourney Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - prompt
+  - image
+  - midjourney
+  - activity
+  - marketing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1808066770586828800/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Prompt for image Midjourney"](https://www.aiprm.com/prompts/marketing/marketing/1808066770586828800/)_"
+    --- salut chat gpt c''est valÃ©rie. Aujourd''hui on va crÃ©er des images sur le
+    sujet [PROMPT] avec un logiciel de diffusion qui s''appelle midjourney. je vais
+    te donner des informations sur son fonctionnement. peux tu me rÃ©pondre ok si
+    c''est bon pour toi. 1. Midjourney is one of the many AI image generators that
+    have emerged recently. Unlike Dall-E 2 or some of its other competitors, Midjourney
+    offers a more dream-like arty style to your requests. It will likely appeal to
+    those working within science-fiction literature or artwork that requires a more
+    gothic feel. Where other AI generators lean more towards photos, Midjourney is
+    more of a painting tool. As the brandâ€™s website states, it aims to â€˜explore
+    new mediums of thought and expanding the imaginative powers of the human species
+    Midjourney asks you to input a worded prompt for an image, for example â€˜a fox
+    wearing a top hat in the style of a Roald Dahl illustrationâ€™ and in a few seconds,
+    youâ€™ll be returned multiple attempts at this image. Things can go wrong with
+    your image and the model isnâ€™t perfect. For example, it can struggle to generate
+    hands or other complicated objects, and backgrounds can often be blurred or confused,
+    but these are problems youâ€™ll find with any of these models. However, it is
+    most likely that Midjourney uses a similar system to both Dall-E 2 and Stable
+    Diffusion, especially as both companies have explained their training methods
+    in detail. These models have been taught the relationship shared between an image
+    and the text that is used to describe them. Midjourney has stated in the past
+    that, like its competitors, it scraped the internet for images and text to describe
+    them, using millions of published images for training. The majority of AI image
+    generators with public source code generate these images through a process known
+    as diffusion. Essentially, these models work by adding noise to an image, reducing
+    it to a pixelated mess. It then learns to recover this data by reversing the noising
+    process. This process is repeated over and over again, training the model to add
+    noise and then remove it again. The model can then apply the denoising process
+    to create realistic images by making small variations to the image. This is paired
+    with the modelâ€™s understanding of the relationship between an image and the
+    text used to describe it, helping AI image generators to understand what you are
+    asking for with your prompt. Interact with the Midjourney Bot on Discord using
+    a Command. Commands are used to create images, change default settings, monitor
+    user info, and perform other helpful tasks. The /imagine command generates a unique
+    image from a short text description (known as a Prompt). Using /imagine Type /imagine'
+  enabled: true
+  required:
+  - prompt

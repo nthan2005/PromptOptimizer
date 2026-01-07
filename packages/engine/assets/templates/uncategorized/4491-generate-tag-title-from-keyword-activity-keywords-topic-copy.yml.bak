@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4491
+# teaser: Search tag title from keyword RevisionTime: 2023-05-31T00:34:55.917Z
+- id: 4491-generate-tag-title-from-keyword-activity-keywords-topic-copy
+  title: 'Generate tag title from keyword Activity: keywords Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - generate
+  - tag
+  - title
+  - keyword
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/keywords/1829286641840418816/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Generate tag title from keyword"](https://www.aiprm.com/prompts/copywriting/keywords/1829286641840418816/)_"
+    --- Buatkan beberapa tag judul untuk kata kunci [PROMPT]. Sajikan ke dalam bahasa
+    [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

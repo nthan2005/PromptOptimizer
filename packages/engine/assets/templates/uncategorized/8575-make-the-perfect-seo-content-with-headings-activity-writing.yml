@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8575
+# teaser: Just Put The Keyword in & it will generate your desired results as per Keyword & SEO need.
+# RevisionTime: 2023-08-27T02:42:23.581Z
+- id: 8575-make-the-perfect-seo-content-with-headings-activity-writing
+  title: "Make the Perfect SEO Content With Headings Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - perfect
+    - seo
+    - content
+    - headings
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Make the Perfect SEO Content With Headings"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- WRITE AN ARTICLE ON THE TOPIC [PROMPT] IN THE [TARGETLANGUAGE]. CONTENT SHOULD
+    BE ATLEAST 900 + WORDS ALONG ATLEAST 3 OCCURENCE OF [PROMPT] IN THE CONTENT &
+    1 OCCURENCE OF [PROMPT] IN THE HEADINGS.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

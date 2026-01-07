@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4589
+# teaser: Create an elevator speech that will make your perfect client want to work with you
+# RevisionTime: 2023-03-09T02:20:44Z
+- id: 4589-elevator-speech-activity-marketing-topic-copywriting-00ea56f
+  title: 'Elevator Speech Activity: marketing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - elevator
+  - speech
+  - activity
+  - marketing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1799234648023490560/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Elevator Speech"](https://www.aiprm.com/prompts/copywriting/marketing/1799234648023490560/)_"
+    --- Create a one sentence "elevator speech" for a business person to be able to
+    quickly tell a prospect what they do, who they do it for, and what the benefit
+    is for the prospect in what they do. All output should be in the [TARGETLANGUAGE].
+    The form of the sentence should start out as "I help", then who the prospect is,
+    then what you help them do, and then why that is of benefit to this client avatar
+    prospect. The text to summarize is this: [PROMPT],[PROMPT],[PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7143
+# teaser: Google your product or service, and copy the SERP questions and answers. If you can't find
+# questions for the client, try a competitor's questions. RevisionTime: 2023-07-25T10:58:25.557Z
+- id: 7143-serp-optimalization-activity-writing-topic-marketing-cc647f5
+  title: "SERP Optimalization Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - serp
+    - optimalization
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SERP Optimalization"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- The goal is to give me blog recommendations based on this [PROMPT]. Give the
+    output in the [TARGETLANGUAGE] Imagine that you are a Google ads specialist with
+    10 years of experience. Could you based on these questions, give me blog recommendations
+    and a five-sentence snippet per question. Afterward, be constructive and advise
+    me on optimizing the technical SEO.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

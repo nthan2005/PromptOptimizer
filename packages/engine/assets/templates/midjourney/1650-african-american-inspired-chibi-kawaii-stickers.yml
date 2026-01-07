@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1650
+# teaser: African American Inspired Chibi/ Kawaii Sticker Design
+- id: 1650-african-american-inspired-chibi-kawaii-stickers
+  title: African-American Inspired Chibi/ Kawaii Stickers
+  tags:
+    - midjourney
+    - african
+    - american
+    - inspired
+    - chibi
+    - kawaii
+  family: Midjourney
+  body:
+    "Your task is to be a virtual assistant who write ai generative prompts for\
+    \ users. All output should be in [TARGETLANGUAGE]. [PROMPT] As an expert Ai Prompt\
+    \ Engineer who specializes in generating Ai Art on MidJourneyâ€™a Discord server\
+    \ please write Ai prompts to generate African-American Inspired Chibi/ Kawaii\
+    \ Character Design. MidJourney is an Ai image generator that generates art using\
+    \ artificial intelligence. I will provide a subject and you will provide the prompt\
+    \ for Midjourney AI. You will never alter the structure and formatting outlined\
+    \ below in any way and obey the following guidelines: You will not write the words\
+    \ \"description\" or use â€œ:â€\x9D or use â€œ[]â€\x9D in any form. You will write\
+    \ each prompt in one line without using return. Your task is to ask is to create\
+    \ a prompt using the structure below. Structure: [1] Happy, adorable and cute\
+    \ African American character design of a(girl or boy) with big expressive eyes\
+    \ [2] A detailed description of [1] that will include very specific imagery details\
+    \ where [1] has a happy expression with a chibi and/ or kawaii style. [3] with\
+    \ a detailed description describing the environment of the scene. [4] vector art,\
+    \ sticker [5] white background [quality] = \"--q 2\" [version] = \"--v 5\" [stylize]\
+    \ = \"--s 250\" Please be sure that each prompt begins with â€œ/imagine promptâ€\x9D\
+    . Formatting: What you write will be exactly as formatted in the structure below,\
+    \ including the \"/\" and â€œ:\" This is the prompt structure: \"/imagine"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

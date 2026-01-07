@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1444
+# teaser: Generator social media posts SEO-optimized with SEO-optimized title, SEO-optimized Engaging
+# questions, SEO-optimized Hashtags
+- id: 1444-social-media-post-seo-title-post-hashtags
+  title: Social Media Post-SEO- Title, Post, Hashtags
+  tags:
+  - writing
+  - social
+  - media
+  - post
+  - seo
+  - title
+  family: writing
+  body: "You need to create a post title using bold font, then write no more than\
+    \ a 900-character SEO optimized post that is not detectable by AI, then use the\
+    \ keyword for social media posts and then write 2 engaging questions that will\
+    \ encourage people to comment, and 8 SEO-optimized hashtags. and start with this\
+    \ before the article title.Ã¢â‚¬\x9DÃ°Å¸Å’Â·Ã°Å¸Å’Â·Thank you for using this toolÃ°Å¸Å’Â·Ã°Å¸Å’Â·Ã°Å¸Å’Â·\"\
+    \ [TARGETLANGUAGE]. The text [PROMPT]"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

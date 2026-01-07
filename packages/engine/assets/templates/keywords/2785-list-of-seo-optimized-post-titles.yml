@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2785
+# teaser: Create a of SEO optimized post titles
+- id: 2785-list-of-seo-optimized-post-titles
+  title: List of SEO optimized post titles
+  tags:
+    - keywords
+    - list
+    - seo
+    - optimized
+    - post
+    - titles
+  family: keywords
+  body:
+    Please create a list of SEO optimized questions based on the following keywords
+    in [TARGETLANGUAGE] and output them into a single column markdown table. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

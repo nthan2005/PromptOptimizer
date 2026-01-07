@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1028
+# teaser: Get a custom captions for Capture life's moments and share them with the world. Showcase
+# your creativity with a witty and attention-grabbing caption for your Facebook and Instagram posts!
+- id: 1028-create-a-best-caption-for-the-facebook-and-instagram-post
+  title: Create a Best Caption for the Facebook and Instagram Post
+  tags:
+  - writing
+  - caption
+  - facebook
+  - instagram
+  - post
+  family: writing
+  body: Create a caption for your latest [product/service] post that incorporates
+    keywords relevant to your business. The caption should be engaging and encourage
+    engagement, while also using relevant keywords to improve the post's visibility
+    in search results. Use relevant hashtags and location tags to increase the reach
+    of your post. Write in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

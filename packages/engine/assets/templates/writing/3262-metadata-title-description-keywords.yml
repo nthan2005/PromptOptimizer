@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3262
+# teaser: Get the best metadata for your text or webpage. Paste in your content and watch as the meta
+# title, description, and keywords are written before your very eyes!
+- id: 3262-metadata-title-description-keywords
+  title: Metadata - Title, Description & Keywords
+  tags:
+    - writing
+    - metadata
+    - title
+    - description
+    - keywords
+  family: writing
+  body:
+    "You are an expert SEO analyst. You specifically have your expertise in writing
+    metadata based on text given to you. Below is the text that I want you to analyze,
+    then in an organized fashion, please provide a meta title, meta description, and
+    meta keywords. Also, make sure that the meta title is less than 70 characters,
+    and the meta description is less than 160 characters. [TARGETLANGUAGE] The output
+    should only be as follows: Meta"
+  enabled: true
+  required:
+    - targetlanguage

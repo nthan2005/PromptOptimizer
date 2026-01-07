@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 328
+# teaser: Extract all keywords from an article
+- id: 328-keyword-extract
+  title: Keyword Extract
+  tags:
+    - keywords
+    - keyword
+    - extract
+  family: keywords
+  body:
+    'I want it to extract the main keywords of an article. You must list me at
+    least 10 keywords and they cannot be just one word. each keyword must be made
+    up of two words. example: "foliar fertilizer, chemical insecticides" and so on.
+    I want you to do it in the following syntax -> Keywords: word1, word2, ... I want
+    you respect the syntaxe that I gave you. I want you to do write the whole syntax
+    in [TARGETLANGUAGE] The article in question: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

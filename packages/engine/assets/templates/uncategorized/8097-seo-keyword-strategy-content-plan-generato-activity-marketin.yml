@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8097
+# teaser: Generate a data-driven SEO keyword strategy and weekly content plan from a single seed
+# keyword. RevisionTime: 2025-05-06T21:36:34.967Z
+- id: 8097-seo-keyword-strategy-content-plan-generato-activity-marketin
+  title:
+    "SEO Keyword Strategy & Content Plan Generato Activity: marketing Topic:
+    SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - seo
+    - keyword
+    - strategy
+    - content
+    - plan
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"SEO Keyword Strategy & Content\
+    \ Plan Generato\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- Please write in [TARGETLANGUAGE] You are an expert SEO strategist. 1. Given\
+    \ the seed keyword Ã¢â‚¬Å“[PROMPT]Ã¢â‚¬\x9D, generate the top [MAX_RESULTS] related keywords.\
+    \ For each, include: - Ã¢â‚¬Å“keywordÃ¢â‚¬\x9D: the related term - Ã¢â‚¬Å“intentÃ¢â‚¬\x9D: one\
+    \ of {Ã¢â‚¬Å“informationalÃ¢â‚¬\x9D, Ã¢â‚¬Å“navigationalÃ¢â‚¬\x9D, Ã¢â‚¬Å“transactionalÃ¢â‚¬\x9D, Ã¢â‚¬Å“commercialÃ¢â‚¬\x9D\
+    } - Ã¢â‚¬Å“difficultyÃ¢â‚¬\x9D: a 1Ã¢â‚¬â€œ100 score estimating SEO competition 2. Create\
+    \ a content_plan array: for each of the next [MAX_RESULTS] weeks, propose: - Ã¢â‚¬Å“titleÃ¢â‚¬\x9D\
+    : an SEO-optimized article title - Ã¢â‚¬Å“publish_dateÃ¢â‚¬\x9D: a date spaced weekly\
+    \ (YYYY-MM-DD) - Ã¢â‚¬Å“notesÃ¢â‚¬\x9D: 1Ã¢â‚¬â€œ2 bullet points of SEO best practices Write\
+    \ your answer in [TARGETLANGUAGE] using a [TONE] tone tailored to [AUDIENCE].\
+    \ Return **only** a JSON object with two keys: ```json { \"keywords\": [ /* array\
+    \ of keyword objects */ ], \"content_plan\": [ /* array of plan objects */ ] }"
+  enabled: true
+  required:
+    - audience
+    - max_results
+    - prompt
+    - targetlanguage
+    - tone

@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6666
+# teaser: Are you looking for a matching color of a thing, a situation or a feeling? This prompt
+# provides you with the appropriate hex-code! RevisionTime: 2023-03-03T09:09:38Z
+- id: 6666-find-matching-color-for-any-term-activity-research-topic-mar
+  title: "Find matching color for any term Activity: Research Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - find
+    - matching
+    - color
+    - any
+    - term
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Find matching color for any term"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please suggest Hex-Code for a color like [PROMPT]. Insert a link to a page
+    that shows this color. Write the name of color in words. Explain in one sentence
+    the reason for your decision for this color. I give you an example. Color: # Name
+    of color: name of color Link: Link to page showing the color Reason: Why this
+    is the best matching color. Please provide all responses in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

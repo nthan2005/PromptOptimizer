@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7079
+# teaser: Rewrite Content AIDA Method RevisionTime: 2023-10-04T09:44:03.849Z
+- id: 7079-aida-method-rewrite-content-activity-writing-topic-marketing
+  title: "AIDA Method Rewrite Content Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - aida
+    - method
+    - rewrite
+    - content
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt " AIDA Method Rewrite Content"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Rewrite the below-provided "Blog Post" content in a user-friendly, easy-to-read,
+    and SEO-friendly format using AIDA method. [PROMPT] [TARGETLANGUAGE] Follow me
+    on LinkedIn: https://in.linkedin.com/in/mitva-bhatiya.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

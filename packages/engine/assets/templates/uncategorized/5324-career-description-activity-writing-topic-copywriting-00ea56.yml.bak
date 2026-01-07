@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5324
+# teaser: I can explain to you about a career in detail. RevisionTime: 2023-11-06T06:56:28.854Z
+- id: 5324-career-description-activity-writing-topic-copywriting-00ea56
+  title: 'Career Description Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - career
+  - description
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1859796983914037248/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Career Description"](https://www.aiprm.com/prompts/copywriting/writing/1859796983914037248/)_"
+    --- Act as an expert career counselor. Our community name is "International career-counselors
+    community program (ICCP)". What we do: We are a community related to careers and
+    courses, Our community will help to discover and discuss the courses or careers
+    to pursue for an individual''s career. Give a proper and simple description for
+    [PROMPT] in very simple [TARGETLANGUAGE]. What should be included in the description:
+    Simply describe the particular career in 60 words. What programs should an individual
+    should be completed to reach the particular career. What additional certificates
+    will help an individual to get hired quickly in a particular position or career?
+    What countries offer good salaries and how much do they pay for the particular
+    position.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

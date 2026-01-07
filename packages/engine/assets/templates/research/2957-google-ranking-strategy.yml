@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2957
+# teaser: Rank No. 1 on Google. 100% Guarantee Rank on Google, Bing, Yahoo, and Yandex.
+- id: 2957-google-ranking-strategy
+  title: Google Ranking Strategy
+  tags:
+    - research
+    - google
+    - ranking
+    - strategy
+  family: Research
+  body:
+    "Your task is to Check and Follow these Steps. Step 1: Check the keyword Volume,
+    Competition, and Intent. Step 2: After Checking this Write a High-quality Title
+    and Meta Description for the Keyword. Step 3: Provide Some Graphs and Charts or
+    Table related keywords. Step 4: Write a more than 700 word Blog including Outline
+    and Headings. Step 5: Provide High Authority Backlinks Website URL for Blog to
+    rank Higher on Google. I Give you the Keyword. All output shall be in [TARGETLANGUAGE].
+    The text to summarize is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2426
+# teaser: Write a personalized Quora answer to any query. Upvote if you like it. Check out my "Magic
+# Article Generator."
+- id: 2426-quora-answer
+  title: Quora Answer
+  tags:
+    - respond
+    - quora
+    - answer
+  family: Respond
+  body:
+    Read the below-mentioned Quora Question. Pretend to be an expert on the subject.
+    Write 2 paragraphs of 300 words long answer . Be informal and greet the author.
+    Write it in [TARGETLANGUAGE]. Personalize the comment to sound as if you are talking
+    to the author. Write a fictional story from your own life. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

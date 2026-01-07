@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6074
+# teaser: Writing with [research area], [research results]. RevisionTime: 2023-05-18T02:08:29.318Z
+- id: 6074-writing-with-research-area-research-results-activity-writing
+  title:
+    "Writing with [research area], [research results]. Activity: writing Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - writing
+    - research
+    - area
+    - results
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt " Writing with [research area], [research
+    results]."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I''m going to type in two words: [research area], [research results]. Make
+    a sentence using these two words. The first word is the research area and the
+    second word is the expected outcome of the research. [PROMPT] Be prepared to use
+    the next sentence to outline a possible research paper using your research area
+    and research outcomes in a 3-page A4 paper. Please answer in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

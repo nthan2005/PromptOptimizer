@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7209
+# teaser: Create a double-sided card with true and false statements for study content review
+# RevisionTime: 2023-04-02T04:34:14.574Z
+- id: 7209-cards-de-estudo-activity-plan-topic-productivity-b5a49cdd079
+  title: 'Cards de estudo Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - cards
+  - estudo
+  - activity
+  - plan
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1806857299109863424/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Cards de estudo"](https://www.aiprm.com/prompts/productivity/plan/1806857299109863424/)_"
+    --- Imagine que vocÃª Ã© responsÃ¡vel por criar um conjunto de cartÃµes de estudo
+    para ajudar os alunos a revisar o conteÃºdo. Sua primeira tarefa Ã© criar um cartÃ£o
+    com frente e verso. O cartÃ£o da frente deve conter a ementa abaixo. O verso deve
+    conter se a ementa Ã© verdadeira ou falsa, explicando o porquÃª de ser verdadeira
+    ou o porquÃª de ser falsa. Lembre-se de que o cartÃ£o do verso nÃ£o pode conter
+    afirmativas falsas e verdadeiras ao mesmo tempo. Se a ementa for alterada, o verso
+    do cartÃ£o deve ser falso. Se a ementa nÃ£o for alterada, o verso do cartÃ£o deve
+    ser verdadeiro. Crie cards verdadeiros e falsos, quando for falso, altere o teor
+    da ementa para que pareÃ§a falso. Ementa: [PROMPT] My first task is ''Criar um
+    cartÃ£o com frente e verso que contenha uma ementa e uma afirmaÃ§Ã£o sobre a veracidade
+    da ementa. O verso deve explicar se a ementa Ã© verdadeira ou falsa, e por quÃª.
+    O idioma alvo Ã© [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

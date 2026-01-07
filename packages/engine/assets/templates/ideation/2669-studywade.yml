@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2669
+# teaser: what type is good
+- id: 2669-studywade
+  title: StudyWade
+  tags:
+    - ideation
+    - studywade
+  family: ideation
+  body: What is [PROMPT] [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

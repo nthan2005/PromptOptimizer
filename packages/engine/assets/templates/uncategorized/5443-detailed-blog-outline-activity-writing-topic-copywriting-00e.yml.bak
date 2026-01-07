@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5443
+# teaser: Create a Detailed Blog Outline RevisionTime: 2023-03-10T23:04:01.639Z
+- id: 5443-detailed-blog-outline-activity-writing-topic-copywriting-00e
+  title: 'Detailed Blog Outline Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - detailed
+  - blog
+  - outline
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1799910347826794496/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Detailed Blog Outline"](https://www.aiprm.com/prompts/copywriting/writing/1799910347826794496/)_"
+    --- Your task is to make a detailed blog post outline for the text I give you.
+    Output will be in [TARGETLANGUAGE]. The text is to make a detailed blog post outline
+    is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

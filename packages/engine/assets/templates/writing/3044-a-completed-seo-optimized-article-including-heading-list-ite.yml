@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3044
+# teaser: 100% Unique, Plagiarism Free and Fully SEO Optimized Articles which help you rank on google
+# #1 page.
+- id: 3044-a-completed-seo-optimized-article-including-heading-list-ite
+  title:
+    A Completed SEO Optimized Article including, heading, list iteam, Meta Description
+    and FAQ's.
+  tags:
+    - writing
+    - completed
+    - seo
+    - optimized
+    - article
+    - including
+  family: writing
+  body:
+    "[TARGETLANGUAGE] Write SEO optimised complete article with Title, Heading
+    2,3 tag, linking, FAQs and conclusion getting data from: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

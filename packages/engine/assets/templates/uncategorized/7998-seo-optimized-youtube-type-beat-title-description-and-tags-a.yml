@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7998
+# teaser: Create SEO optimized Type Beat Videos in Seconds! RevisionTime: 2023-02-19T15:35:19Z
+- id: 7998-seo-optimized-youtube-type-beat-title-description-and-tags-a
+  title:
+    "SEO Optimized YouTube Type Beat - Title, Description and Tags Activity:
+    keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - seo
+    - optimized
+    - youtube
+    - type
+    - beat
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SEO Optimized YouTube Type Beat - Title,
+    Description and Tags"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to create A SEO Optimized TITLE, DESCRIPTION and TAGS for a YouTube
+    video. All output shall be in [TARGETLANGUAGE]. The total character count for
+    the title should not exceed 70 characters ideally (including spaces) but the absolute
+    max is 100. Also generate a random but fitting name for the beat and add it to
+    the title as well. The total character count for the description should not exceed
+    5000 characters but it just needs to be long enough to be effective and optimized.
+    Also add a spot to put the beat purchase link on top and social media link. The
+    total character count for the TAGS should not exceed 400 characters (Try to maximize
+    them and sort the tags from strongest to weakest). The tags should be separated
+    by commas and ready to copy and paste to YouTube. The video will be a beat/instrumental
+    for a certain artist, the artist type beat is this artist: [PROMPT] THE OUTPUT
+    SHOULD BE FORMATTED LIKE THIS:'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

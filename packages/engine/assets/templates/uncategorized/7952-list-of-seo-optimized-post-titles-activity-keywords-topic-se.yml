@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7952
+# teaser: Create a of SEO optimized post titles RevisionTime: 2023-02-27T19:36:18.007Z
+- id: 7952-list-of-seo-optimized-post-titles-activity-keywords-topic-se
+  title: "List of SEO optimized post titles Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - list
+    - seo
+    - optimized
+    - post
+    - titles
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "List of SEO optimized post titles"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please create a list of SEO optimized questions based on the following keywords
+    in [TARGETLANGUAGE] and output them into a single column markdown table. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

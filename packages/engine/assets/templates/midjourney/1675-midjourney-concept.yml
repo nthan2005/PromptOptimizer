@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1675
+# teaser: With this superpowered template you just enter a concept and let this tool fix the rest.
+# Like if you want more. Bonusfeature: Your concept gets a cheesy quote at the end :)
+- id: 1675-midjourney-concept
+  title: Midjourney Concept
+  tags:
+    - midjourney
+    - concept
+  family: Midjourney
+  body:
+    From now on you'll only reply in [TARGETLANGUAGE]. I want you to take a concept
+    ("[PROMPT]") and make a /imagine
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

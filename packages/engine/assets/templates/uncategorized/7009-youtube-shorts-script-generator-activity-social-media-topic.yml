@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7009
+# teaser: Create Youtube Shorts scripts for your Humor Channel. RevisionTime: 2024-10-03T09:56:06.645Z
+- id: 7009-youtube-shorts-script-generator-activity-social-media-topic
+  title: "Youtube Shorts script generator. Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - youtube
+    - shorts
+    - script
+    - generator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Youtube Shorts script generator. "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Crie um roteiro em de vÃƒÂ­deo ironico com ideias de imagens engraÃƒÂ§adas para
+    o YouTube Shorts a partir da seguinte descriÃƒÂ§ÃƒÂ£o: [PROMPT]. Crie esse roteiro
+    em [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7801
+# teaser: Set Your Organic Search Baseline. SEO is all about improving your website's search engine
+# ranking. RevisionTime: 2023-02-23T19:04:38.683Z
+- id: 7801-set-your-organic-search-baseline-for-seo-activity-ideation-t
+  title: "Set Your Organic Search Baseline for SEO Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - set
+    - organic
+    - search
+    - baseline
+    - seo
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Set Your Organic Search Baseline for
+    SEO"](https://github.com/nthan2005/PromptOptimizer)_" --- Your
+    task is to generate keywords, I give you 20 words or a maximum of 130 characters.
+    All output shall be in [TARGETLANGUAGE]. The text keyword ranking is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

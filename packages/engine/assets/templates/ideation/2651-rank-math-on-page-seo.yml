@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2651
+# teaser: Write a meta description, focus key words and Slug for Seo Optimization
+- id: 2651-rank-math-on-page-seo
+  title: Rank math on page seo
+  tags:
+    - ideation
+    - rank
+    - math
+    - page
+    - seo
+  family: ideation
+  body:
+    I will give you [PROMPT] You need to analyze each paragraph and then write
+    3 FOCUS Keyword that will rank my news article on google, write a SEO friendly
+    title that will contain positive or negative sentiment, add a power word in title,
+    write a maximum 60 words of slug, write a meta description and meta tags. at the
+    end of the content suggest me how can i make more SEO friendly my [PROMPT] so
+    it will rank on google. now start in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

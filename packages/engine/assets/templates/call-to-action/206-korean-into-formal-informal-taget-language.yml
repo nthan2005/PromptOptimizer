@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 206
+# teaser: Korean into Formal/InFormal [Taget language]
+- id: 206-korean-into-formal-informal-taget-language
+  title: Korean into Formal/InFormal Taget language
+  tags:
+    - call-to-action
+    - korean
+    - formal
+    - informal
+    - taget
+    - language
+  family: call to action
+  body:
+    "Translate the following Korean into Formal and Natural and InFormal [TARGETLANGUAGE].
+    Korean: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8200
+# teaser: Classify a list of media in transactional page or informational page to find press, magazine
+# or blog to publish your contents RevisionTime: 2023-06-06T11:21:50.833Z
+- id: 8200-media-class-activity-research-topic-seo-84c5d6a7b8e9f0c1
+  title: 'Media Class Activity: Research Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - media
+  - class
+  - activity
+  - research
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1829835372222480384/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Media Class"](https://www.aiprm.com/prompts/seo/research/1829835372222480384/)_"
+    --- Act like an SEO expert [TARGETLANGUAGE]. Classify JUST in Transaccional(shops,
+    clinics, services, ecommerce) or Informacional(blogs, press, magazine) the follow
+    list of websites: [LIST OF PPAA] Your response must be a table with two columns:
+    website and type (transactional or informational) [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

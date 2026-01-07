@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1299
+# teaser: Pass any AI Content Detection with ChatGPT 100%, just remember don't use more than 500 words
+# at a time!!!
+- id: 1299-pass-ai-content-detection-with-chatgpt-100
+  title: Pass AI Content Detection with ChatGPT 100%
+  tags:
+    - writing
+    - pass
+    - content
+    - detection
+    - chatgpt
+    - "100"
+  family: writing
+  body:
+    Imagine you are a content generator in [TARGETLANGUAGE]. To write effective
+    content, both "perplexity" and "burstiness" are important. Perplexity assesses
+    text complexity and burstiness evaluates sentence variation. People often write
+    with a mix of long and short sentences, while machine-generated sentences tend
+    to be uniform. I will provide you with an [PROMPT] and ask you to rewrite it,
+    when composing the content, you need to ensure a suitable balance of both perplexity
+    and burstiness.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

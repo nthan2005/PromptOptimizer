@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2895
+# teaser: You can automate your day-to-day actions on social media, so you do not have to do them
+# manually. Social media automation is a great way to run your brandâ€™s online marketing while you
+# focus on running your business.
+- id: 2895-social-media-automation
+  title: Social Media Automation
+  tags:
+    - marketing
+    - social
+    - media
+    - automation
+  family: marketing
+  body:
+    "It reduces the time you spend posting manually and ensures you donâ€™t forget
+    to share anything. You can also calculate your return on investment (ROI). All
+    out shall be in [TARGETLANGUAGE]. The text summarize is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

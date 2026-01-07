@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 537
+# teaser: Create a socio-economic trend specifc marketing messaging. Give the country, year & business
+# description.
+- id: 537-socio-economic-specific-marketing-messaging
+  title: Socio-economic specific marketing messaging
+  tags:
+    - positioning
+    - socio
+    - economic
+    - specific
+    - marketing
+    - messaging
+  family: Positioning
+  body:
+    "In [TARGETLANGUAGE] Considering the diverse aspects of the [PROMPT] psyche
+    in [PROMPT], including social, cultural, environmental, economic, technological,
+    and political factors, develop tailored marketing messages to drive increased
+    awareness and sales for a [PROMPT], In your answer justify your messaging based
+    on key events that affect the psyche of the time:"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

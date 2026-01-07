@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2842
+# teaser: Anchor Text creator for backlinks is a tool on websites that is useful for generating HTML
+# code for backlinks in bulk. To use it, the user can choose attributes according to the needs he has.
+# This tool is very useful for those who need a large number of backlinks.
+- id: 2842-bulk-anchor-text-backlink-creator
+  title: Bulk Anchor Text Backlink Creator
+  tags:
+    - link-building
+    - bulk
+    - anchor
+    - text
+    - backlink
+    - creator
+  family: link building
+  body:
+    Make me HTML code to create acnhor text backlinks using several keywords and
+    urls using in English [TARGETLANGUAGE]. With anchor text [KEY WORD] that points
+    to the website [URL] and has the [REL] attribute with the title coming from the
+    prompts [KEY WORD] and [TARGET]. With the output results with a simple HTML code
+    format like the following "as follows <a href="website" rel="REL" title="KEY WORD"
+    target="TARGET"> KEY WORD"</a> '# Support Me' '### Give This UPVOTE Prompt if
+    You've Used It ... [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - rel
+    - target
+    - targetlanguage
+    - url

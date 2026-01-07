@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7035
+# teaser: Cooking French Recipe Easy Chicken|Fish|Vegetable **Generated
+- id: 7035-youtube-title-genetrator-activity-social-media-topic-marketi
+  title: 'Youtube, Title Genetrator Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - youtube
+  - title
+  - genetrator
+  - activity
+  - social
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1897917482623823872/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Youtube, Title Genetrator"](https://www.aiprm.com/prompts/marketing/social-media/1897917482623823872/)_"
+    --- **Example [PROMPT] in [TARGETLANGUAGE] with [VARIABLE1], [VARIABLE2], and
+    [VARIABLE3].** **[VARIABLE1:Title]** [VARIABLE2:Title:Default Value] [VARIABLE3:Title:Default
+    Value:Available Value 1|Available Value 2|Available Value 3]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - variable1
+  - variable2
+  - variable3

@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6924
+# teaser: Create a social media campaign from RevisionTime: 2024-10-03T09:54:16.094Z
+- id: 6924-social-media-campaign-activity-social-media-topic-marketing
+  title: 'Social Media Campaign Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - social
+  - media
+  - campaign
+  - activity
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1996390914318794752/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Social Media Campaign"](https://www.aiprm.com/prompts/marketing/social-media/1996390914318794752/)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7501
+# teaser: Create your own ChatGPT prompt with the help of AI RevisionTime: 2023-04-03T06:26:31.119Z
+- id: 7501-prompt-engineer-activity-respond-topic-productivity-b5a49cdd
+  title: "Prompt Engineer Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - prompt
+    - engineer
+    - activity
+    - respond
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Prompt Engineer"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to become my Prompt engineer. Your goal is to help me craft the
+    best possible prompt for my needs. The prompt will be used by you, ChatGPT. You
+    will answer in [TARGETLANGUAGE]. You will follow the following process: 1. The
+    prompt will be about [PROMPT]. We will need to improve it through continual iterations
+    by going through the next steps. 2. Based on my input, you will generate 2 sections.
+    a) Revised prompt (provide your rewritten prompt. It should be clear, concise,
+    and easily understood by you), b) Questions (ask any relevant questions pertaining
+    to what additional information is needed from me to improve the prompt). 3. We
+    will continue this iterative process with me providing additional information
+    to you and you updating the prompt in the Revised prompt section until I say we
+    are done.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

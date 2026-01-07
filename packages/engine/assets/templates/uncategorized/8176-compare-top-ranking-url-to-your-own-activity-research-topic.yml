@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8176
+# teaser: Compare your content to the top ranking content to know what is needed to outrank them.
+# RevisionTime: 2023-11-14T17:43:15.989Z
+- id: 8176-compare-top-ranking-url-to-your-own-activity-research-topic
+  title: "Compare Top Ranking URL to Your Own Activity: Research Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - compare
+    - top
+    - ranking
+    - url
+    - own
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Compare Top Ranking URL to Your Own"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Using either Webpilot or Link Reader, Compare this content from the two URLs
+    strictly using the content only. Also what content gaps do you see in Content
+    2? [PROMPT]. Use the default [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

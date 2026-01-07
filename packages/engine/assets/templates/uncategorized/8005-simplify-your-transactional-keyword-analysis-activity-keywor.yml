@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8005
+# teaser: Generate important keywords with a transactional search intent! RevisionTime:
+# 2023-06-22T14:28:22.017Z
+- id: 8005-simplify-your-transactional-keyword-analysis-activity-keywor
+  title:
+    "Simplify your transactional keyword analysis! Activity: keywords Topic:
+    SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - simplify
+    - transactional
+    - keyword
+    - analysis
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Simplify your transactional keyword
+    analysis!"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- List the most important keywords and the most popular long-tail keywords in
+    [TARGETLANGUAGE] with a transactional search intent based on the following keywords:
+    [PROMPT]. Give me at least 40 keyword suggestions.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

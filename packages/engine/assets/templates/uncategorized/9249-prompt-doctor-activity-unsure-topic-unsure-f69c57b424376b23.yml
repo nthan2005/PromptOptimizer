@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9249
+# teaser: Analyze and Evaluate Your Prompt. And you will get a improved prompt. RevisionTime:
+# 2023-05-11T22:52:10.756Z
+- id: 9249-prompt-doctor-activity-unsure-topic-unsure-f69c57b424376b23
+  title: "Prompt Doctor Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - prompt
+    - doctor
+    - activity
+    - unsure
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Prompt Doctor"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- cure your prompt [PROMPT] Review the'
+  enabled: true
+  required:
+    - prompt

@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7209
+# teaser: Create a double-sided card with true and false statements for study content review
+# RevisionTime: 2023-04-02T04:34:14.574Z
+- id: 7209-cards-de-estudo-activity-plan-topic-productivity-b5a49cdd079
+  title: "Cards de estudo Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - cards
+    - estudo
+    - activity
+    - plan
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Cards de estudo"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Imagine que vocÃƒÂª ÃƒÂ© responsÃƒÂ¡vel por criar um conjunto de cartÃƒÂµes de estudo
+    para ajudar os alunos a revisar o conteÃƒÂºdo. Sua primeira tarefa ÃƒÂ© criar um cartÃƒÂ£o
+    com frente e verso. O cartÃƒÂ£o da frente deve conter a ementa abaixo. O verso deve
+    conter se a ementa ÃƒÂ© verdadeira ou falsa, explicando o porquÃƒÂª de ser verdadeira
+    ou o porquÃƒÂª de ser falsa. Lembre-se de que o cartÃƒÂ£o do verso nÃƒÂ£o pode conter
+    afirmativas falsas e verdadeiras ao mesmo tempo. Se a ementa for alterada, o verso
+    do cartÃƒÂ£o deve ser falso. Se a ementa nÃƒÂ£o for alterada, o verso do cartÃƒÂ£o deve
+    ser verdadeiro. Crie cards verdadeiros e falsos, quando for falso, altere o teor
+    da ementa para que pareÃƒÂ§a falso. Ementa: [PROMPT] My first task is ''Criar um
+    cartÃƒÂ£o com frente e verso que contenha uma ementa e uma afirmaÃƒÂ§ÃƒÂ£o sobre a veracidade
+    da ementa. O verso deve explicar se a ementa ÃƒÂ© verdadeira ou falsa, e por quÃƒÂª.
+    O idioma alvo ÃƒÂ© [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

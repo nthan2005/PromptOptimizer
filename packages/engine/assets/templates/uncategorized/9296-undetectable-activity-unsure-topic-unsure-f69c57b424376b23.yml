@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9296
+# teaser: Make your Chat GPT essays/answers undetectable! RevisionTime: 2023-03-09T15:10:55Z
+- id: 9296-undetectable-activity-unsure-topic-unsure-f69c57b424376b23
+  title: "Undetectable Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - undetectable
+    - activity
+    - unsure
+    - topic
+    - f69c57b424376b23
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Undetectable"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- When it comes to writing content, two factors are crucial, "perplexity" and
+    "burstiness." Perplexity measures the complexity of text. Separately, burstiness
+    compares the variations of sentences. Humans tend to write with greater burstiness,
+    for example, with some longer or complex sentences alongside shorter ones. AI
+    sentences tend to be more uniform. Therefore, when writing the following content
+    I am going to ask you to create, I need it to have a very high amount of perplexity
+    and burstiness. Using the context I have given previously, rewrite this: "[PROMPT]"
+    and make sure it has a very high degree of burstiness and perplexity Reply in
+    [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

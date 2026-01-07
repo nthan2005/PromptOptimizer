@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6881
+# teaser: Create enganing LinkedIn post from topic with emojis and hashtags RevisionTime:
+# 2024-10-03T09:57:43.934Z
+- id: 6881-linkedin-post-with-emojis-by-naeem-anjum-activity-social-med
+  title: "LinkedIn Post with Emojis by Naeem Anjum Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - linkedin
+    - post
+    - emojis
+    - naeem
+    - anjum
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "LinkedIn Post with Emojis by Naeem
+    Anjum"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- your task to write enganing LinkedIn post from topic with emojis and hashtags
+    in [TARGETLANGUAGE]. topic to write post is [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

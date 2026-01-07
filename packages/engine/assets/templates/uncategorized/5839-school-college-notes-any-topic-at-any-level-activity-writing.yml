@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5839
+# teaser: Create best SCHOOL-COLLEGE que/ans notes for any topic at any grade! RevisionTime:
+# 2023-07-09T10:35:17.159Z
+- id: 5839-school-college-notes-any-topic-at-any-level-activity-writing
+  title: "School-college notes any topic at any level Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - school
+    - college
+    - notes
+    - any
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "School-college notes any topic at any
+    level"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write [number of points] for [topic]. [words per sentence] words per sentence
+    only. [grade level] grade level. in [TARGETLANGUAGE].Make sure to have numerical
+    numbering along the points [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

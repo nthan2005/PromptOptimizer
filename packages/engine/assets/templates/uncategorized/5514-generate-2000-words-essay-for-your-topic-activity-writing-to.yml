@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5514
+# teaser: Generate long essays, articles and analytics RevisionTime: 2023-03-16T15:59:26Z
+- id: 5514-generate-2000-words-essay-for-your-topic-activity-writing-to
+  title: "Generate 2000 words essay for your topic Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - generate
+    - "2000"
+    - words
+    - essay
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate 2000 words essay for your
+    topic"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to create minimum of 2000 words analytical, human written essay
+    that is Plagiarism free with 10 external sources embedded with in text citations
+    for each source including MLA citation page for all the sources used with the
+    topic i give you. All output shall be in [TARGETLANGUAGE]. The topic to elaborate
+    on is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

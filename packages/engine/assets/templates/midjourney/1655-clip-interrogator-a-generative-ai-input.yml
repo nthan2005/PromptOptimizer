@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1655
+# teaser: Create Generative AI input from clip interrogator output
+- id: 1655-clip-interrogator-a-generative-ai-input
+  title: Clip Interrogator â€“> Generative AI Input
+  tags:
+    - midjourney
+    - clip
+    - interrogator
+    - generative
+    - input
+  family: Midjourney
+  body:
+    "Please, rewrite in [TARGETLANGUAGE] the following gibberish into a sensible
+    text. Use all the words from the original: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

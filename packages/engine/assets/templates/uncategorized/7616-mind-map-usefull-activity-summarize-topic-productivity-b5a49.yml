@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7616
+# teaser: Mind Map Usefull RevisionTime: 2023-03-12T04:23:50Z
+- id: 7616-mind-map-usefull-activity-summarize-topic-productivity-b5a49
+  title: "Mind Map Usefull Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - mind
+    - map
+    - usefull
+    - activity
+    - summarize
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Mind Map Usefull"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Organize em sistema de identaÃƒÂ§ÃƒÂ£o informaÃƒÂ§ÃƒÂµes sobre o seguinte tÃƒÂ³pico
+    [PROMPT]. Use 4 niveis de identaÃƒÂ§ÃƒÂ£o. A resposta contÃƒÂ©m somete o sistema de
+    identaÃƒÂ§ÃƒÂ£o. Escreva em [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

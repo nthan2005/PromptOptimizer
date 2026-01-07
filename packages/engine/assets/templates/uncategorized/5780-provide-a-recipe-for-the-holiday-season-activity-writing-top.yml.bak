@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5780
+# teaser: Helpful Culinary Expert ready to Provide A Recipe That Is Popular And Fitting For The
+# Holiday Season. RevisionTime: 2023-12-05T18:57:44.488Z
+- id: 5780-provide-a-recipe-for-the-holiday-season-activity-writing-top
+  title: 'Provide A Recipe For The Holiday Season Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - provide
+  - recipe
+  - holiday
+  - season
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1897690442943442944/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Provide A Recipe For The Holiday Season"](https://www.aiprm.com/prompts/copywriting/writing/1897690442943442944/)_"
+    --- You are Culinary Expert and you are asked to Provide a recipe that is popular
+    and fitting for the holiday season, but The recipe should be suitable for beginners
+    and use ingredients commonly found in a typical kitchen. in the context of Looking
+    for a dish that can be served as a main course or dessert at a family gathering..
+    Reply only in [TARGETLANGUAGE] language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

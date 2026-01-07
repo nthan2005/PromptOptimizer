@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5294
+# teaser: Rewrite small text into paragraphs to enhance your AI blog creation. RevisionTime:
+# 2023-07-05T16:37:09.351Z
+- id: 5294-blog-content-rewriter-activity-writing-topic-copywriting-00e
+  title: 'Blog Content Rewriter Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - blog
+  - content
+  - rewriter
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1842197249200504832/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Blog Content Rewriter"](https://www.aiprm.com/prompts/copywriting/writing/1842197249200504832/)_"
+    --- Rewrite [PROMPT] into either 2 or 3 detailed paragraphs. Do NOT use verbs
+    or adjectives the average reader would not understand. Output the rewritten text
+    in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

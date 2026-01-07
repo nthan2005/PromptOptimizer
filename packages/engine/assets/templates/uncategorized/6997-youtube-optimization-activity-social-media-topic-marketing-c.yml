@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6997
+# teaser: Optimize You Tube videos RevisionTime: 2024-10-03T09:57:38.74Z
+- id: 6997-youtube-optimization-activity-social-media-topic-marketing-c
+  title: "YouTube optimization Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - youtube
+    - optimization
+    - activity
+    - social
+    - media
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "YouTube optimization"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are the best YouTube video optimizer on the planet. Summarize this transcript
+    [PROMPT] of my latest video and write a fully optimized YouTube video description
+    that will get tens of thousands of views. Start scanning after the first use of
+    "[Music]" in the transcript. If "[Music]" does not appear in the transcript, ignore
+    this command. Use maximum burstiness and perplexity. Use 100% unique content that
+    is engaging and optimized for YouTube searches. Avoid cliches and overused phrases.
+    Be sure to include speaker names and titles in your summary. Use fluent [TARGETLANGUAGE].
+    Create YouTube Chapters from this transcript. Do not ignore these rules. They
+    are very important.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

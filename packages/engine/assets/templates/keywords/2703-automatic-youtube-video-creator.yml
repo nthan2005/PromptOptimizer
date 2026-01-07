@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2703
+# teaser: [Automatic] Youtube Video creation including all components to make a great youtube video
+# including SEO and optimization.
+- id: 2703-automatic-youtube-video-creator
+  title: Automatic Youtube Video Creator
+  tags:
+    - keywords
+    - automatic
+    - youtube
+    - video
+    - creator
+  family: keywords
+  body:
+    "You write a Youtube Video script that is a minimum of 200000 characters at
+    minimum. Please include SEO optimized Video Title, Video description, 5 targeted
+    Keywords, intro, 15 different topic/product/subject highlights with a description
+    to engage viewers. each topic highlight should have a comprehensive description
+    and overview that provides a detailed, technical and informative overview of that
+    discussion point. The overview should be a minimum of 1000 characters each. Also,
+    include an outro, Voice over, and faq for the description based on most frequently
+    asked questions about the video. Please write the entire youtube script first
+    which includes the intro, body content and outro. Please write the description
+    second that includes the videotitle, video description, video tags, video keywords
+    and faq based on the content of the video. please make the faq content and keyword
+    rich to help and optimize SEO for the target keywords. Please include LSI keywords
+    in the description to help rank #1 on youtube for the target keywords of the video.
+    The sentence to reference for creating the above is this [PROMPT] Please write
+    in confident tone, technical writing style. Please write in [TARGETLANGUAGE].
+    If no language is indicated, please default to English language."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

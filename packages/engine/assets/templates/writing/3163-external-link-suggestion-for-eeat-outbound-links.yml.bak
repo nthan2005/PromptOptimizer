@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3163
+# teaser: Ideas for external linkings to increase EEAT. External links are hyperlinks that direct
+# readers to a website other than your own. On the surface, using external links seems counter-
+# intuitiveÃ¢â‚¬â€these links take people away from your website, after all. However, itÃ¢â‚¬â„¢s one of the
+# most essential sources of ranking power you can ever use. By Joao Filipe Pereira
+- id: 3163-external-link-suggestion-for-eeat-outbound-links
+  title: External Link Suggestion for EEAT (Outbound Links)
+  tags:
+  - writing
+  - external
+  - link
+  - suggestion
+  - eeat
+  - outbound
+  family: writing
+  body: Act as an SEO specialist who is trying to increase the EAT of its content.
+    Based on the following content, what would be the most authoritativeness and trustworthy
+    URL/web page I should link to? Please list a list of circa 5 URLs. All the output
+    must be in [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

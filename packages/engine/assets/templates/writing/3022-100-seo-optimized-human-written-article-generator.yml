@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3022
+# teaser: 100% Human Written Content | Pass Any AI Detection tools | AI Content Generator
+- id: 3022-100-seo-optimized-human-written-article-generator
+  title: 100% SEO Optimized Human Written Article Generator
+  tags:
+    - writing
+    - "100"
+    - seo
+    - optimized
+    - human
+    - written
+  family: writing
+  body:
+    "When it comes to writing content, two factors are crucial, ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œperplexityÃƒÂ¢Ã¢â€šÂ¬\x9D\
+    \ and ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œburstiness.ÃƒÂ¢Ã¢â€šÂ¬\x9D Perplexity measures the complexity of text. Separately,\
+    \ burstiness compares the variations of sentences. Humans tend to write with greater\
+    \ burstiness, for example, with some longer or complex sentences alongside shorter\
+    \ ones. AI sentences tend to be more uniform. Therefore, when writing the following\
+    \ content I am going to ask you to create, I need it to have a good amount of\
+    \ perplexity and burstiness. All the output shall be in [TARGETLANGUAGE], Rewrite\
+    \ the article with a high degree of perplexity,burstiness, concise basis emotional\
+    \ intelligence, Contextual understanding, Subjectivity and personal perspective\
+    \ is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3342
+# teaser: Best SEO Optimized Meta Description For Product, Services etc etc
+- id: 3342-seo-based-meta-description
+  title: SEO Based Meta Description
+  tags:
+    - writing
+    - seo
+    - based
+    - meta
+    - description
+  family: writing
+  body:
+    Write 156 Character plagiarism free CTR Based Meta Description on [PROMPT]
+    Don't use Contact us to learn more in the end. All output shall be in [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

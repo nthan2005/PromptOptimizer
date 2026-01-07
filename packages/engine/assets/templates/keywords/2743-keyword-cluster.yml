@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2743
+# teaser: Cluster a list of keywords based on their semantic relevance
+- id: 2743-keyword-cluster
+  title: Keyword Cluster
+  tags:
+    - keywords
+    - keyword
+    - cluster
+  family: keywords
+  body:
+    "Please ignore all previous instructions. I want you to respond only in language
+    [TARGETLANGUAGE]. I want you to act as a keyword research expert that speaks and
+    writes fluent [TARGETLANGUAGE]. Classify each of the keywords by the search intent,
+    whether commercial, transactional or informational. Then cluster the keywords
+    into groups based on their semantic relevance. First I want you to give me back
+    a short over list of cluster topics found. Then I want a list in [TARGETLANGUAGE]
+    as markdown table, with the following columns: cluster, keyword, search intent,
+    language. Here are the keywords: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

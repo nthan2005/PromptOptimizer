@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3409
+# teaser: Here is the summarise for that [book]
+- id: 3409-summarise-a-book
+  title: Summarise a Book
+  tags:
+  - writing
+  - summarise
+  - book
+  family: writing
+  body: '[TARGETLANGUAGE] Your task is to summarise [book you want to resume and author]
+    in general and by chapters [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

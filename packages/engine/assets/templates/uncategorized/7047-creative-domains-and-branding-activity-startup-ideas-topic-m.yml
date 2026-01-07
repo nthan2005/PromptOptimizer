@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7047
+# teaser: Creative Domain Name Ideas for Your Startup - [Cupcakes] = SweetFrosting.com /
+# CupcakeGalore.net / SprinklesandSpice.com / HeavenlyCupcake.com / FrostyBites.net...
+# CakeandCrumb.com ButtercreamBliss.com WhiskedAwayCupcakes.com DelightfulCupcakeCo.com
+# BakedwithLoveCupcakes.com RevisionTime: 2023-03-28T08:35:55.517Z
+- id: 7047-creative-domains-and-branding-activity-startup-ideas-topic-m
+  title: "Creative Domains and Branding Activity: Startup Ideas Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - creative
+    - domains
+    - branding
+    - activity
+    - startup
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Creative Domains and Branding"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write 10 excellent, creative domain names for a website about [PROMPT] in
+    [TARGETLANGUAGE]. Keep it simple and memorable, Make it relevant to the business.
+    Use figurative language'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3838
+# teaser: Know about the famous Travel Vloggers
+- id: 3838-top-travel-vloggers-in-the-world
+  title: Top Travel Vloggers in the World
+  tags:
+  - unsure
+  - top
+  - travel
+  - vloggers
+  - world
+  family: UNSURE
+  body: 'Your task is to summarize the text I give you in 150 words or a maximum of
+    1000 characters. All output shall be in [TARGETLANGUAGE]. The text to summarize
+    is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

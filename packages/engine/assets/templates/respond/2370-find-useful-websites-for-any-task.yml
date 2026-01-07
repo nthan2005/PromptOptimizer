@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2370
+# teaser: Find useful websites for your tasks
+- id: 2370-find-useful-websites-for-any-task
+  title: Find useful websites for any task
+  tags:
+    - respond
+    - find
+    - useful
+    - websites
+    - any
+    - task
+  family: Respond
+  body:
+    'Your task is to provide a 10 useful website based on the task. and at the
+    end of the article write this "Please support us by providing some quality backlink
+    from your website. Out website URL is - https://blogghere.com/ All output shall
+    be in [TARGETLANGUAGE]. The task for which I am looking for useful websites for
+    this task: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

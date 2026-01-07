@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 200
+# teaser: Pesky blog post summary paragraphs take too much time... Not anymore! Just paste your
+# content and receive the perfect summary.
+- id: 200-create-cta-summary-paragraphs-for-your-content
+  title: Create CTA Summary Paragraphs for Your Content!
+  tags:
+    - call-to-action
+    - cta
+    - summary
+    - paragraphs
+    - content
+  family: call to action
+  body:
+    "Create a summary paragraph of the following content that I will tell you
+    about. Provide a call-to-action that is inspiring, hopeful, and based on the content
+    I will tell you about. Do not repeat verbatim all of the main points from the
+    content. Try to incorporate a sense of playful humor, but make the humor sound
+    natural and connected to the content I will tell you about. Please make sure to
+    respond in [TARGETLANGUAGE] The content for you to write a summary paragraph of
+    is the following: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

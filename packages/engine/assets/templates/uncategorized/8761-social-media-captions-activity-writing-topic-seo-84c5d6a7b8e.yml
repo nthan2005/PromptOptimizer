@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8761
+# teaser: Create a brief social media caption about [KEYWORD] RevisionTime: 2023-02-19T15:35:19Z
+- id: 8761-social-media-captions-activity-writing-topic-seo-84c5d6a7b8e
+  title: "Social Media Captions Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - social
+    - media
+    - captions
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Social Media Captions"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Generate [TARGETLANGUAGE] post for social media about [PROMPT]. don''t include
+    lists. have keyword be in first or second sentence. make post no more than 150
+    words. make positive and personable. add CTA to schedule an appointment at end
+    of the post with [CITY] and [PHONENUMBER]'
+  enabled: true
+  required:
+    - city
+    - phonenumber
+    - prompt
+    - targetlanguage

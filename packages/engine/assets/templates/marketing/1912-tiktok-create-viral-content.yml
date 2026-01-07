@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1912
+# teaser: Become a TikTok Star! Create Viral Content with This Prompt
+- id: 1912-tiktok-create-viral-content
+  title: TikTok - Create Viral Content
+  tags:
+    - marketing
+    - tiktok
+    - viral
+    - content
+  family: marketing
+  body:
+    Your task is to create viral TikTok content starting with a catchy phrase
+    about [your idea] in [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

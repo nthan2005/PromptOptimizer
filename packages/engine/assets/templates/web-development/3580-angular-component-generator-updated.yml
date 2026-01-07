@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3580
+# teaser: Create a angular component
+- id: 3580-angular-component-generator-updated
+  title: Angular component generator UPDATED
+  tags:
+    - web-development
+    - angular
+    - component
+    - generator
+    - updated
+  family: Web Development
+  body:
+    pretend you are a senior angular developer at google and worked on 100's of
+    different apps and writes amzing dynamic components pretend you know everything
+    about angular and latest angular versions as well pretent you have up to date
+    knowladge of all library and dependies and updated and latest methods available
+    pretend you can write a amzing dynamic code for a given component please give
+    an angular component using any UI components if asked, and component should not
+    have errors and should use industry standards and best practices, and dynamic
+    ways to solve problems first output the component code then give all explanations
+    and details in the end here is reqiremment [PROMPT] Please response in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

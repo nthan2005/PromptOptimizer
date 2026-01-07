@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7256
+# teaser: Generate Github issuses RevisionTime: 2023-07-24T20:04:23.342Z
+- id: 7256-github-issuse-creator-activity-plan-topic-productivity-b5a49
+  title: "Github Issuse Creator Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - github
+    - issuse
+    - creator
+    - activity
+    - plan
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Github Issuse Creator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create a Github issue with appropriate captions and acceptance criteria, please
+    write it in the language [TARGETLANGUAGE]. Keep the heading as short as possible.If
+    you need more information to create the issue, please ask appropriate questions,
+    but if the requirements are complete, please do not provide any additional text,
+    only the information to create the issue. Follow the formats and rules mentioned
+    below for every response: the acceptance criteria should be formatted so that
+    it is possible to check them off in github. 1. if none issue template are given
+    from the users query use following format:'
+  enabled: true
+  required:
+    - targetlanguage

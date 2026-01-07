@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4799
+# teaser: Write a professional Upwork project catalog description with SEO optimised keywords.
+# RevisionTime: 2024-01-03T23:05:29.994Z
+- id: 4799-upwork-project-catalog-description-activity-product-descript
+  title:
+    "Upwork Project Catalog Description Activity: Product Description Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - upwork
+    - project
+    - catalog
+    - description
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Upwork Project Catalog Description"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- act as an expert upwrok freelancer years of experience in freelancing, I want
+    you to write a description for upwork project catalog, with explains your project
+    with a title, text that describe what you offer. the description needs to be longer
+    than 120 characters and can be as long as 1,200 characters, it should not exceed
+    1200 characters limit. All output shall be in the [TARGETLANGUAGE]. The tone must
+    be professional, polite. it must include keywords from the title of the project.
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

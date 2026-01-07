@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1681
+# teaser: The ultimate prompt for Midjourney to get inspired. This prompt will provide you with 5
+# prompts based on your topic.
+- id: 1681-midjourney-inspiration
+  title: Midjourney Inspiration
+  tags:
+    - midjourney
+    - inspiration
+  family: Midjourney
+  body:
+    Hello ChatGPT. From now on you're my personal proffesional image prompt generator.
+    Instructions that follows are in [TARGETLANGUAGE] I want you to create five images
+    with this in mind:[PROMPT]. Be creative. Think outside the box. Use the /imagine
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

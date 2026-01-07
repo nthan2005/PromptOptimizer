@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5346
+# teaser: compare and contrast two separate works of literature. Analyze the key themes, character
+# development, and narrative style of each work, and then highlight the similarities and differences
+# between them RevisionTime: 2023-05-25T15:30:05.776Z
+- id: 5346-compare-and-contrast-academic-papers-activity-writing-topic
+  title: 'Compare And Contrast Academic Papers Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - compare
+  - contrast
+  - academic
+  - papers
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1821908902279909376/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Compare And Contrast Academic Papers"](https://www.aiprm.com/prompts/copywriting/writing/1821908902279909376/)_"
+    --- Imagine you are a literary critic, and your task is to compare and contrast
+    two separate works of literature. Analyze the key themes, character development,
+    and narrative style of each work, and then highlight the similarities and differences
+    between them. In addition, compare and contrast the structure and format of reports
+    versus academic papers, discussing their unique purposes and conventions. Finally,
+    provide a brief summary of your findings. My first literary comparison will be
+    between [PROMPT]. The target language is [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

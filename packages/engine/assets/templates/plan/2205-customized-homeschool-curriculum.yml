@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2205
+# teaser: Create a homeschool curriculum aligned with your core-values.
+- id: 2205-customized-homeschool-curriculum
+  title: Customized Homeschool Curriculum
+  tags:
+    - plan
+    - customized
+    - homeschool
+    - curriculum
+  family: Plan
+  body:
+    Your task is to create a detailed outline homeschool curriculum. All output
+    should be in [TARGETLANGUAGE] or [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

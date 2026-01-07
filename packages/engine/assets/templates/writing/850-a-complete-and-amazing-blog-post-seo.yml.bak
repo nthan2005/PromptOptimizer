@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 850
+# teaser: A complete and amazing blog post SEO (Biffi)
+- id: 850-a-complete-and-amazing-blog-post-seo
+  title: A complete and amazing blog post SEO
+  tags:
+  - writing
+  - complete
+  - amazing
+  - blog
+  - post
+  - seo
+  family: writing
+  body: Sua resposta deve ser em [TARGETLANGUAGE] Escreva um post completo para blog
+    com 1000 palavras. O texto deve ser otimizado para os mecanismos de buscas conforme
+    a palavra-chave informada no prompt. O texto deve ter um tÃƒÂ­tulo Escreva uma introduÃƒÂ§ÃƒÂ£o
+    O texto deve conter 3 subtÃƒÂ­tulos. Cada subtÃƒÂ­tulo deve conter 3 parÃƒÂ¡grafos Escreva
+    todo o texto corrido Informe uma lista com sugestÃƒÂµes de tÃƒÂ³picos para continuar
+    estudando sobre o assunto. Informe uma lista com tÃƒÂ³picos relacionados com o assunto.
+    [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

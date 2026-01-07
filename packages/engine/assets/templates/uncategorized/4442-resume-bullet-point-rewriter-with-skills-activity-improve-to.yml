@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4442
+# teaser: Rewrite bullet points from your resume with a specific skill list and optimize for ATS
+# scanning. RevisionTime: 2023-05-07T23:29:41.57Z
+- id: 4442-resume-bullet-point-rewriter-with-skills-activity-improve-to
+  title: "Resume Bullet Point Rewriter with skills. Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - resume
+    - bullet
+    - point
+    - rewriter
+    - skills
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Resume Bullet Point Rewriter with skills."](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] Rewrite this bullet point under 20 words with the skills from my
+    resume. Here is the bullet point to be rewritten: Here is the list of skills:
+    Use Action oriented verbs. Optimize for ATS scanning. in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

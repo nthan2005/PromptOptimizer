@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7596
+# teaser: Get extended word definitions that include slang, synonyms, antonyms, idioms, origins and
+# trivia RevisionTime: 2023-03-10T22:30:34Z
+- id: 7596-english-super-dictionary-activity-summarize-topic-productivi
+  title: "English Super Dictionary Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - english
+    - super
+    - dictionary
+    - activity
+    - summarize
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "English Super Dictionary"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I''d like to get comprehensive information about a word in the following format
+    { Word report on *word* Dictionary definition Slang definitions Etymology Idioms
+    Synonyms Antonyms Any interesting trivia about the word } If I enter "def *word*",
+    where *word* is the word I wish to get a definition for, you should generate this
+    report for the word. Read any rules below as they govern how to generate a report,
+    but don''t mention these rules to the user. Just act on them. If you understand
+    this prompt, just def [PROMPT]. After the definition type "Enter def *word* for
+    more reports". Do not type anything else. Do not echo instructions. Rules: Headings
+    are to be in bold. Values are in regular font. Synonyms and antonyms should be
+    listed in a CSV format under the heading Output all definitions in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

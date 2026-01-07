@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8868
+# teaser: engineering RevisionTime: 2023-04-22T13:40:27.323Z
+- id: 8868-engineering-activity-backend-development-topic-softwareengin
+  title: "engineering Activity: Backend Development Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - engineering
+    - activity
+    - backend
+    - development
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "engineering"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] you will optimize and improve all the scripts I send and you will
+    only respond with code, you will also respect the source extension of the script
+    [TARGETLANGUAGE] english'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

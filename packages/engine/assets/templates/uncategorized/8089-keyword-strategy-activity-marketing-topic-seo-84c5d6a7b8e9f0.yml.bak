@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8089
+# teaser: Create a table called Web SEO with two columns, one called Option, and it contains six rows
+# with the following names: H1, a slug, a Subheadline, a Meta Tag Title, a Meta Tag Description, and
+# minimum 20 short keywords. The second column generates the responses for the first column. Also,
+# create a table with 10 headlines for each column to create an ad in Google Responsive Search Ads,
+# and each headline should contain a maximum of 30 characters. Lastly, generate a table for Google
+# Search Ads that has 10 descriptions for each column, and each description should contain a maximum
+# of 90 characters. RevisionTime: 2023-05-23T21:25:26.236Z
+- id: 8089-keyword-strategy-activity-marketing-topic-seo-84c5d6a7b8e9f0
+  title: 'Keyword Strategy Activity: marketing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - keyword
+  - strategy
+  - activity
+  - marketing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/1825586278301962240/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Keyword Strategy"](https://www.aiprm.com/prompts/seo/marketing/1825586278301962240/)_"
+    --- Tu tarea es hacer una tabla con el nombre Web - SEO que contenga dos columnas
+    la primera debe llamarse Opcion y debe incluir las opciones H1, Slug, Subheadline,
+    Meta Tag Title, Meta Tag Description y 20 Short Keywords. La segunda columna se
+    debe llamar Resultado y la el primer row debe generar un H1, el segundo row debe
+    generar el Slug, el tercer row debe generar un Subheadline de 100 caracteres maximos,
+    el cuarto row debe generar un Meta Tag Title de 60 caracteres maximo, el quinto
+    row debe generar un Meta Description de 150 y el sexto row debe generar una lista
+    de minimo los 20 short keywords mas buscados en Google la cual debe estar separada
+    por commas. Tambien crea una tabla con el nombre de Google Responsive Search Ads
+    - Headlines donde la primera columna debe llamarse Headline 1 y la segunda Headline
+    2 y la tercera columna Healine 3. Esta tabla debe generar 10 headlines por cada
+    columna y cada uno debe tener maximo 30 caracteres donde los espacios cuentan.
+    Por ultimo crea una tabla con el Nombre de Google Responsive Seach Ads - Descriptions
+    donde la primera columna debe llamarse Description 1 y la segunda columna Description
+    2. Estaba tabla debe generar 10 descripciones por cada columna que cada description
+    debe tener maximo 90 caracteres donde los espacios cuentan. Todo esto en el idioma
+    [TARGETLANGUAGE]. El texto para resumir es: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

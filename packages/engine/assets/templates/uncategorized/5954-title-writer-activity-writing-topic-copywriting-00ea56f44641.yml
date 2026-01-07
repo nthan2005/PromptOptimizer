@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5954
+# teaser: writer a blog post title with the keyword RevisionTime: 2023-03-16T10:34:02Z
+- id: 5954-title-writer-activity-writing-topic-copywriting-00ea56f44641
+  title: "Title Writer Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - title
+    - writer
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Title Writer"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- want you to act as a blog post title writer that speaks and writes fluent
+    [TARGETLANGUAGE],you will reply with blog post titles in [TARGETLANGUAGE],write
+    all output in [TARGETLANGUAGE] which should include [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

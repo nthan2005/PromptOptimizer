@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3268
+# teaser: One Short Best Review Article
+- id: 3268-one-short-best-review-article
+  title: One Short Best Review Article
+  tags:
+  - writing
+  - one
+  - short
+  - review
+  - article
+  family: writing
+  body: '[TARGETLANGUAGE]. [PROMPT] "write Title seo friendly without title word,
+    then write decision making Buying Introduction, Write Amazon Top 5 Selling list
+    with their model, then write Explain In details with (data in table) which should
+    know by the reader without price, then write all product''s description and features
+    with minimum pros and cons, then write details Buying guide, then write tips that
+    will educate visitor, then write faqs that people are looking in the web and answer
+    the FAQ, then Wrap the article with focus answer".'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

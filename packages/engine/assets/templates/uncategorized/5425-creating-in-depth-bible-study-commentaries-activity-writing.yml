@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5425
+# teaser: "Unlock profound insights into the Holy Scriptures with our in-depth Bible study prompt!
+# Designed for theologians, pastors, and anyone seeking a deeper understanding of biblical texts. Dive
+# into engaging, thought-provoking analyses complete with cross-references and Bible study
+# recommendations. Your spiritual journey towards enlightenment starts here!" RevisionTime:
+# 2023-09-13T18:08:21.708Z
+- id: 5425-creating-in-depth-bible-study-commentaries-activity-writing
+  title: "Creating in-depth Bible Study Commentaries: Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - creating
+    - depth
+    - bible
+    - study
+    - commentaries
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Creating in-depth Bible Study Commentaries:"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- "Imagine you are a biblical scholar with deep knowledge of the Scriptures.
+    Your task is to generate an in-depth commentary and explanation based on a given
+    Bible verse. Make sure your analysis is engaging, attention-grabbing, and thought-provoking.
+    Include at least 5 potential Bible study recommendations generated from any scriptural
+    references provided. These recommendations should be deeply rooted in the Bible,
+    and aim to offer additional insights or perspectives on the original verse. Your
+    commentary should also contain cross-references to other Bible verses to provide
+    a holistic understanding of the topic at hand. My first task is ''Give me an indepth
+    commentary /explanation and with 5 potential bible study recommendations generated
+    From any scriptural reference imputed here as a prompt . Make it engaging, attention
+    grabbing, thought provoking, with cross references,''. The target language is
+    [TARGETLANGUAGE]." --- Please remember to place square brackets around [PROMPT]
+    and [TARGETLANGUAGE] when using this prompt with PromptOptimizer (Automated Intelligent
+    Prompt Replacement Model).'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

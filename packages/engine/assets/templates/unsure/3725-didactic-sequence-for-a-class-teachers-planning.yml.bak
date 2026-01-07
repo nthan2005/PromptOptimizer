@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3725
+# teaser: By means of a learning objective that you write, it generates a didactic sequence
+# incorporating all the pedagogical elements that a class should contain, proposes activities for each
+# section, methodological suggestions and even a test proposal integrating different cognitive levels.
+- id: 3725-didactic-sequence-for-a-class-teachers-planning
+  title: Didactic sequence for a class (teachers, planning)
+  tags:
+  - unsure
+  - didactic
+  - sequence
+  - class
+  - teachers
+  - planning
+  family: UNSURE
+  body: 'Por favor, ignora las instrucciones anteriores. ActÃƒÂºa como un Profesor que
+    debe realizar una secuencia didÃƒÂ¡ctica. [TARGETLANGUAGE]. Con base al siguiente
+    objetivo de aprendizaje [PROMPT] redacta una secuencia didÃƒÂ¡ctica basada en el
+    modelo cognitivo y constructivista, una clase de (dos horas pedagÃƒÂ³gicas). Describe
+    de manera especÃƒÂ­fica la fase de inicio, desarrollo y el cierre, con todos los
+    elementos pedagÃƒÂ³gicos que lo componen, todo basado en el objetivo de aprendizaje
+    que te entrego, ademÃƒÂ¡s en la secuencia incorpora lo siguiente: Fase de Inicio,
+    esta es la fase de motivaciÃƒÂ³n que tiene una duraciÃƒÂ³n aproximada de 15 minutos,
+    en el cual debes redactar sugerencias de actividades que activen los conocimientos,
+    en esta fase tambiÃƒÂ©n incorpora preguntas de activaciÃƒÂ³n y propuestas de actividades
+    de diagnÃƒÂ³stico, redacta ejemplos de actividades con uso de tecnologÃƒÂ­as y uso
+    de aplicaciones web, por cada recurso sugiere imÃƒÂ¡genes, videos, aplicaciones,
+    juegos, si es posible entrega enlaces que ayuden a su bÃƒÂºsqueda. Fase de Desarrollo:
+    esta fase que tiene una duraciÃƒÂ³n mÃƒÂ¡xima de una hora, esta fase redacta estrategias
+    de enseÃƒÂ±anza para que los contenidos sean tratados de manera didÃƒÂ¡ctica y significativa.
+    En otro apartado de esta fase, redacta una actividad central que facilite a los
+    estudiantes poner en prÃƒÂ¡ctica los conocimientos adquiridos y desarrollen habilidades
+    y actitudes de acuerdo a el objetivo de aprendizaje propuesto, esta actividad
+    debe tener un enfoque constructivista del aprendizaje, debe ser significativa
+    para el estudiante, si es posible considerar la vida cotidiana, ademÃƒÂ¡s, redacta
+    sugerencias de recursos a utilizar y sugerencias de recursos con uso de tecnologÃƒÂ­as.
+    Por cada recurso sugiere imÃƒÂ¡genes, videos, aplicaciones, juegos, etc. si es posible
+    entrega enlaces que ayuden a su bÃƒÂºsqueda. Fase de Cierre: Esta fase tiene una
+    duraciÃƒÂ³n aproximada de 15 minutos En esta fase redacta una breve actividad de
+    resumen de la clase, redacta sugerencias de estrategias de retroalimentaciÃƒÂ³n
+    y actividades sencillas de metacogniciÃƒÂ³n. En otro apartado, redacta un examen
+    asociado a todo el contenido y objetivos de aprendizaje tratados en clases, aquÃƒÂ­
+    debes redactar: 8 preguntas de selecciÃƒÂ³n mÃƒÂºltiple con 4 alternativas cada una.
+    TambiÃƒÂ©n redacta 3 preguntas de aplicaciÃƒÂ³n, 2 preguntas de anÃƒÂ¡lisis, 2 preguntas
+    de conocimiento, todo esto acorde a los objetivos de aprendizaje y contenidos
+    vistos en clases, luego, en otro apartado entrega las soluciones de cada una de
+    las preguntas del examen. Para finalizar propone un cuento basado en el objetivo
+    de aprendizaje, que facilite la comprensiÃƒÂ³n del contenido tratado en clases.
+    No te olvides de especificar todas las acciones del docente incorporando una didÃƒÂ¡ctica
+    motivadora y metodologÃƒÂ­as activas si es que lo amerita. La informaciÃƒÂ³n complementaria
+    es la siguiente: Contexto escolar enseÃƒÂ±anza primaria. La respuesta estÃƒÂ¡ dirigida
+    a: profesores. Solo debes responder en [TARGETLANGUAGE]. Considera el objetivo
+    de aprendizaje para comenzar de nuevo: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

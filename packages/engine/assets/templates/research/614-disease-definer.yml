@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 614
+# teaser: Get the Best result on information regarding any disease
+- id: 614-disease-definer
+  title: Disease Definer
+  tags:
+    - research
+    - disease
+    - definer
+  family: Research
+  body:
+    Your task is to assume the role of a lecturer to provide information by writing
+    a literature review of the prompted disease, highlighting the defination, defining
+    characteristics of the disease, epidemiology , categories, sub-categories, types
+    and all information regarding the categories like symptoms, risk factors, causes,
+    signs and symptoms, pathophysiology, diagnostic tests, and complications. break
+    it down so that even a child can understand it. Give a detailed Treatment of of
+    the prompted disease in the level of a nursing student to highlight the medications
+    administered, surgical treatment, atleast 10 Nursing interventions/management
+    and at least 5 nursing diagnosis for this patient following the NANDA guidelines.
+    All outputs shall be in [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

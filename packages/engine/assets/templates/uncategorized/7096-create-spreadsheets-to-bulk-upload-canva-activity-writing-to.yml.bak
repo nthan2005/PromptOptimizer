@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7096
+# teaser: Create spreadsheets to Bulk upload Canva about a Subject RevisionTime: 2023-03-22T15:39:15Z
+- id: 7096-create-spreadsheets-to-bulk-upload-canva-activity-writing-to
+  title: 'Create spreadsheets to Bulk upload Canva Activity: writing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - spreadsheets
+  - bulk
+  - upload
+  - canva
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1799485934010630144/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create spreadsheets to Bulk upload
+    Canva"](https://www.aiprm.com/prompts/marketing/writing/1799485934010630144/)_"
+    --- My output will be in [TARGETLANGUAGE] Create a 10 rows tables with information
+    about [PROMPT]. As my table columns I want: Title, subtitle, short explanation
+    and an long explanation.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

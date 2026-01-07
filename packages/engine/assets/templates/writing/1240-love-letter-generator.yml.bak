@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1240
+# teaser: Create Love Note For your partner
+- id: 1240-love-letter-generator
+  title: Love Letter Generator
+  tags:
+  - writing
+  - love
+  - letter
+  - generator
+  family: writing
+  body: '[TARGETLANGUAGE]. Generate a Love Letter with this name [PROMPT] [PROMPT]
+    less than 60 words'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

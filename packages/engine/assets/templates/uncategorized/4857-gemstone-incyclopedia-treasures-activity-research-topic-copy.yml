@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4857
+# teaser: Consult the complete list of precious stones and their characteristics RevisionTime:
+# 2024-06-26T23:03:30.917Z
+- id: 4857-gemstone-incyclopedia-treasures-activity-research-topic-copy
+  title: "Gemstone Incyclopedia Treasures Activity: Research Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - gemstone
+    - incyclopedia
+    - treasures
+    - activity
+    - research
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Gemstone Incyclopedia Treasures"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Me apresente o resultado no idioma [TARGETLANGUAGE] Eu quero que me apresente
+    uma lista de pedras preciosas e suas caracterÃƒÂ­sticas... Me apresente o resultado
+    em uma tabela [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

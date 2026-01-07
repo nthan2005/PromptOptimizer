@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8654
+# teaser: Rewrite articles 100% Human writting, SEO and readable RevisionTime: 2023-03-06T03:32:40Z
+- id: 8654-rewrite-seo-human-real-100-unique-activity-writing-topic-seo
+  title: 'Rewrite SEO Human Real 100% Unique Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - rewrite
+  - seo
+  - human
+  - real
+  - '100'
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1797187173980823552/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Rewrite SEO Human Real 100% Unique"](https://www.aiprm.com/prompts/seo/writing/1797187173980823552/)_"
+    --- Understand the words after the '':'' sign and rewrite it as uniquely as possible,
+    make it different from the original version and make it readable and free of plagiarism,don''t
+    forget to create h2 heading.Make the article as long as possible as you can. write
+    in [TARGETLANGUAGE], and And make the writing 100% unique like real human writing
+    and different from other sites on the internet: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

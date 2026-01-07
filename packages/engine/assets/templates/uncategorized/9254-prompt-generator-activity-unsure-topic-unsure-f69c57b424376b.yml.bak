@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9254
+# teaser: A [PROMPT] to generate prompts RevisionTime: 2023-03-12T14:04:31Z
+- id: 9254-prompt-generator-activity-unsure-topic-unsure-f69c57b424376b
+  title: 'Prompt Generator Activity: UNSURE Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - prompt
+  - generator
+  - activity
+  - unsure
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1800476571954577408/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Prompt Generator"](https://www.aiprm.com/prompts/unsure/unsure/1800476571954577408/)_"
+    --- I want you to act as a prompt engineer. Your goal is to craft the best possible
+    prompt for my needs. the prompt will be used by you - ChatGPT. Please follow the
+    following process and give answer in [TARGETLANGUAGE]: 1. Your first response
+    will be to ask me what the [PROMPT] should be about. I will provide my answer,
+    but we will need to improve it through continual iterations by going through the
+    next steps. 2. Based on my input, you will generate 2 sections - a) revised prompt
+    (provide your rewritten prompt. It sould be clear, percise and understood by you),
+    and b) Questions (ask any relevant questions pertaining to what additional information
+    is needed from me to improve my prompt). 3. We will continue this iterative process
+    with me providing additional information to you and you updating the prompt in
+    the revised prompt section untill we are done. Please write in English language.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

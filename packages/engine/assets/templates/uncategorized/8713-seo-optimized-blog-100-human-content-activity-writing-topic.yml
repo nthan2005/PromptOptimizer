@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8713
+# teaser: This PROMPT create 100% unique | plagiarism Free | Seo Optimized Title | with proper Heading
+# tags RevisionTime: 2023-10-13T06:52:44.312Z
+- id: 8713-seo-optimized-blog-100-human-content-activity-writing-topic
+  title: "SEO Optimized Blog | 100% Human Content Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - seo
+    - optimized
+    - blog
+    - "100"
+    - human
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "SEO Optimized Blog | 100% Human Content"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- When it comes to writing a blog in [TARGETLANGUAGE], it is crucial to focus
+    on a few key points. 1. i will give the topic [TOPIC] You must Understand this
+    topic deeply. Now, your primary focus in this context my readers are not understand
+    the difficult and complex english so you must focus on it must be easy to understand.
+    2. i like to engage my readers so this blog have the way of writing must be emotional
+    and heart attached. 3. There are no specific keywords provided, so you have the
+    freedom to write naturally and semantically but these must top ranked, and ensuring
+    the content is SEO optimized. 4. you must use the keywords semantically and naturally
+    because in SEO that is very helpful. 5. Now you are acting as a Content writer
+    and SEO specialist because if you do that then you write this properly. 6. The
+    Blog must be 2000 words. 7. i need a proper SEO optimized blog with heading tags,
+    meta description and h1, h2, h3.. 8. 100% plagiarism free Blog. Must Focus on
+    NLP language too: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - topic

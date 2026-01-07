@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5747
+# teaser: Create the curriculum plan by subject, grade, and period. RevisionTime:
+# 2023-04-27T04:21:16.527Z
+- id: 5747-plan-of-studies-activity-writing-topic-copywriting-00ea56f44
+  title: 'Plan of Studies Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - plan
+  - studies
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1817010273920475136/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Plan of Studies"](https://www.aiprm.com/prompts/copywriting/writing/1817010273920475136/)_"
+    --- Actua como un profesor segun la asignatura. Tu tarea es crear el plan de estudios
+    en idioma espaÃ±ol asi [TARGETLANGUAGE], Escribir en negrita el titulo del plan
+    de estudios. crear una tabla que tiene como titulo el periodo correspondiente
+    en mayÃºsculas y negrita, | ASIGNATURA | GRADO | INTENSIDAD HORARIA| Crear una
+    meta abarcadora [META ABARCADORA] segÃºn el modelo de educaciÃ³n para la comprensiÃ³n
+    correspondiente al periodo indicado Y DE ACUERDO A Los nÃºcleos temÃ¡ticos suministrados
+    de no mas de 250 caracteres. Crea otra tabla con las columnas, | metas de comprensiÃ³n
+    (crear mÃ¡ximo 3 metas muy elaboradas donde se evidencie la palabra comprensiÃ³n
+    y para que sera util esta comprension) | nÃºcleos temÃ¡ticos | desempeÃ±os de
+    comprensiÃ³n | las metas deben decir para que se comprende o cual es el fin, deben
+    ir numeradas y escritas segÃºn el modelo de educaciÃ³n para la comprensiÃ³n y
+    los derechos bÃ¡sicos de aprendizaje para Colombia, segÃºn los nÃºcleos temÃ¡ticos
+    suministrados, la asignatura, el curso y el periodo indicado. Adicionalmente se
+    debe crear la metodologÃ­a, la evaluacion, y los recursos utilizados . Tambien
+    debes crear ajustes razonables para estudiantes de inclusion. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6902
+# teaser: Generate eye-catching posts for Telegram channels, Facebook Page, Instagram, WeChat Moments,
+# Weibo based on any article or blog. RevisionTime: 2024-10-03T09:56:03.967Z
+- id: 6902-posts-for-telegram-channels-fb-ig-weibo-activity-social-medi
+  title: 'Posts for Telegram channels, FB, IG, Weibo Activity: Social Media Topic:
+    Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - posts
+  - telegram
+  - channels
+  - weibo
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1795584383911202816/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt " Posts for Telegram channels, FB, IG,
+    Weibo"](https://www.aiprm.com/prompts/marketing/social-media/1795584383911202816/)_"
+    --- Write a post for the channel''s telegrams and shorten the characters to 4096,
+    use all the necessary emojis. All output shall be in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1750
+# teaser: Get a quick sense of your marketing direction using the AIDA model to grow your business
+# presence.
+- id: 1750-aida-model-for-entrepreneurs-business-owners-marketers
+  title: AIDA Model for Entrepreneurs/Business Owners/Marketers
+  tags:
+    - marketing
+    - aida
+    - model
+    - entrepreneurs
+    - business
+    - owners
+  family: marketing
+  body:
+    'I want you to act as a business and marketing expert that writes fluent [TARGETLANGUAGE].
+    Pretend that you know everything about every market also in [TARGETLANGUAGE].
+    Write an AIDA model to generate marketing strategy and sales for my business.
+    You may also input useful and relevant professional tips in another paragraph
+    title "Suggestions" to my enquiry. The brand name (first line), what and who I
+    am selling to(second line) are: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

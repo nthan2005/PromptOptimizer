@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6890
+# teaser: Linkedin post from audio transcription RevisionTime: 2024-10-03T09:57:49.679Z
+- id: 6890-lk-post-from-audio-transcription-activity-social-media-topic
+  title: "LK: Post from audio transcription Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - post
+    - audio
+    - transcription
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "LK: Post from audio transcription"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- ActÃƒÂºa como un experto en copywriting y en SEO con gran experiencia posicionando
+    contenidos en Linkedin. Te voy a dar la transcripciÃƒÂ³n de un vÃƒÂ­deo y quiero que
+    me hagas un post para Linkedin de menos de 150 palabras donde uses cierto tono
+    canalla, parecido al que se usa en el texto que te voy a poner y al estilo Gary
+    Vaynerchuk o Risto Mejide. Escribe tu respuesta en [TARGETLANGUAGE] de EspaÃƒÂ±a
+    y no uses palabras como "mi gente", "mis amigos" o "colega".: el tono de tu texto
+    tiene que ser canalla y directo pero sin ser ser de colegueo, complaciencia o
+    servilismo. Para hacerlo mÃƒÂ¡s visual, separa el texto en pÃƒÂ¡rrafos y usa emojis
+    que tengan relaciÃƒÂ³n con el texto. AdemÃƒÂ¡s debes de incluir un CTA para que, las
+    personas que quieran aprender mÃƒÂ¡s sobre Venta Humanizada (el hashtag es #VentaH2H),
+    me envÃƒÂ­en un mensaje directo para pedirme el acceso a un grupo de Telegram gratuito
+    que se llama ''La Tribu de la VentaH2H'' y donde comparto otros contenidos (algunos
+    son exclusivos para la Tribu). Al finalizar tu texto quiero que le aÃƒÂ±adas los
+    hashtag de #Speaker #Eventos #ExperienciaCliente #Ventas #Mice #Vender #CustomerExperience
+    AquÃƒÂ­ tienes la transcripciÃƒÂ³n: "[PROMPT]"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

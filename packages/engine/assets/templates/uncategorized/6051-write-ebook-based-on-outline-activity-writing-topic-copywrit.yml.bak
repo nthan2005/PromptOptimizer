@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6051
+# teaser: write me RevisionTime: 2023-02-21T17:47:44Z
+- id: 6051-write-ebook-based-on-outline-activity-writing-topic-copywrit
+  title: 'Write eBook based on outline Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - write
+  - ebook
+  - based
+  - outline
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1793670076852076544/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Write eBook based on outline"](https://www.aiprm.com/prompts/copywriting/writing/1793670076852076544/)_"
+    --- write me a page of my section which contains the topic [PROMPT]. Write all
+    output in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2115
+# teaser: Generate 10K Organic Traffic
+- id: 2115-get-10k-organic-traffic-with-this-article
+  title: Get 10k Organic Traffic With This Article
+  tags:
+    - writing
+    - 10k
+    - organic
+    - traffic
+    - this
+    - article
+  family: writing
+  body:
+    "Your task is to provide a SEO Driendly Blog/Article of the text I give you
+    in 1500 words within {Blog/Article Start} and {Blog/Article Stop} with the following
+    points- 1. Meta Title 2. Meta Description 3. Introduction 4. 10 H1 Heading With
+    sub heading and explain each 5. Summery 6. FAQs followed by If you want to know
+    more click on the link: https://digiflygoals.com All output shall be in [TARGETLANGUAGE].
+    The text to summarize is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

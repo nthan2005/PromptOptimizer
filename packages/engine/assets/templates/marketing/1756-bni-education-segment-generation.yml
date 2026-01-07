@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1756
+# teaser: Create A BNI styled networking education script of 2-4 minutes on important behaviours that
+# will lead to more referrals in BNI around the topic of [KEYWORD]
+- id: 1756-bni-education-segment-generation
+  title: BNI Education Segment Generation
+  tags:
+    - marketing
+    - bni
+    - education
+    - segment
+    - generation
+  family: marketing
+  body:
+    Create A BNI styled networking education script of 2-4 minutes in [TARGETLANGUAGE]
+    on [PROMPT] explaining the important behaviours and attitudes that will lead to
+    more referrals in BNI
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

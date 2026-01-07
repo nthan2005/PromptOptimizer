@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1605
+# teaser: Create a Jenkins Pipeline
+- id: 1605-jenkins-pipeline
+  title: Jenkins Pipeline
+  tags:
+    - configuration-management
+    - jenkins
+    - pipeline
+  family: Configuration Management
+  body:
+    "Hi, can you create a pipeline in Jenkins for an application in [PROMPT]?
+    and add the followings steps: build, test, SonarQube scan and the credentials
+    that I need, Fortify scan and the credentials that I need, and storage the artifact
+    in Jfrog Artifactory and the credentials that I need. All output shall be in [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

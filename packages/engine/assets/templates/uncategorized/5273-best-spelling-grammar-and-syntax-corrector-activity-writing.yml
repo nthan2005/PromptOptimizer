@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5273
+# teaser: Struggle with writing because of your Dyslexia? This Spelling and Grammar corrector is just
+# what you need. RevisionTime: 2023-04-30T04:37:35.102Z
+- id: 5273-best-spelling-grammar-and-syntax-corrector-activity-writing
+  title: "Best Spelling, Grammar and Syntax Corrector Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - spelling
+    - grammar
+    - syntax
+    - corrector
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best Spelling, Grammar and Syntax Corrector
+    "](https://github.com/nthan2005/PromptOptimizer)_" ---
+    Correct the spelling, syntax and grammar of this text in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

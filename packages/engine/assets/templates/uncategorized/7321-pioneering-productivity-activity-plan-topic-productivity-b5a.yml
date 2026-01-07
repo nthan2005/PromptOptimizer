@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7321
+# teaser: Unlock the potential of seamless collaboration and efficient project management with our
+# latest prompt template! Dive into the realm of software innovation and design as you craft solutions
+# tailored to enhance team productivity. RevisionTime: 2024-02-02T11:14:21.665Z
+- id: 7321-pioneering-productivity-activity-plan-topic-productivity-b5a
+  title: "Pioneering Productivity Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - pioneering
+    - productivity
+    - activity
+    - plan
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Pioneering Productivity"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to revolutionize project management with seamless integration,
+    fostering collaboration, organization, and real-time tracking. All output shall
+    be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

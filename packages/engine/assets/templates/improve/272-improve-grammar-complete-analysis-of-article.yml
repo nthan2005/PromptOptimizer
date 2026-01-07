@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 272
+# teaser: Spelling | Sentences | Punctuation | Conciseness | Tone Detection | Conciseness | Engagement
+# and Suggestions
+- id: 272-improve-grammar-complete-analysis-of-article
+  title: Improve Grammar | Complete Analysis of Article
+  tags:
+    - improve
+    - grammar
+    - complete
+    - analysis
+    - article
+  family: Improve
+  body:
+    "Please Act as Grammarly.com in [TARGETLANGUAGE] and Complete analysis this
+    Article Give Result in this Structure :- (1) (Type this Link: www.buymeacoffee.com/AyazAhmad)
+    (2) (Show) Spelling Mistakes (in Digit) (3) (Show) Sentences Mistakes (in Digit)
+    (4) (Show) Punctuation Mistakes (in Digit) (5) (Show) Conciseness Mistakes (in
+    Digit) (7) (Show) Tone Detection Make a excel Sheet Show Incorrect Words in Left
+    and Correct in Right (8) Show Incorrect Sentence and then Suggest me Right Sentence
+    (9) Suggest Correct Conciseness (10) Engagement and Suggest best Words for Article
+    My Article is [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

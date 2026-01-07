@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3990
+# teaser: the planning stage, ChatGPT can help developers define the scope and requirements of a
+# software project and identify potential challenges or opportunities. Once you have described what
+# youâ€™re trying to accomplish, and ask specific questions like: â€œWhat are the potential risks and
+# challenges associated with this project?â€ â€œWhat is a realistic timeline and budget for this
+# project?â€ â€œWhat are the best tools and technologies to use for this project?â€ Once youâ€™ve
+# leveraged ChatGPT for research, let it assist you in creating project documents that outline a
+# shared understanding of the projectâ€™s goals, objectives, and resources. RevisionTime:
+# 2023-06-26T16:32:47.496Z
+- id: 3990-a-detailed-software-application-plan-activity-design-topic-a
+  title: 'A detailed software application plan Activity: Design Topic: Applications-f69b52b4213a6bd3'
+  tags:
+  - uncategorized
+  - detailed
+  - software
+  - application
+  - plan
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/applications/design/1838949779620102144/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "A detailed software application plan"](https://www.aiprm.com/prompts/applications/design/1838949779620102144/)_"
+    --- Generate a project charter document that outlines the purpose, goals, scope,
+    deliverables, stakeholders, and success criteria for a software development project.
+    The project is [PROMPT]. Please ensure that the document follows our companyâ€™s
+    style guide and includes all necessary sections and information. Write all output
+    in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

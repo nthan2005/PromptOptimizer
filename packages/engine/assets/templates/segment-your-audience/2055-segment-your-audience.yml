@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2055
+# teaser: De-average by breaking your audience into targetable groups with similar needs
+- id: 2055-segment-your-audience
+  title: Segment your audience
+  tags:
+    - segment-your-audience
+    - segment
+    - audience
+  family: Segment your audience
+  body:
+    I want you to act as a market research expert that speaks and writes fluent
+    [TARGETLANGUAGE]. Pretend that you know everything about every market also in
+    [TARGETLANGUAGE]. Produce ten audience segments for audiences in the following
+  enabled: true
+  required:
+    - targetlanguage

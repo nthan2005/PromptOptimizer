@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3505
+# teaser: Adobe Cloud Commerce
+- id: 3505-magento-2-code-suggestion
+  title: Magento 2 Code suggestion
+  tags:
+    - backend-development
+    - magento
+    - code
+    - suggestion
+  family: Backend Development
+  body:
+    Magento 2 Code [PROMPT] in [TARGETLANGUAGE] with [VARIABLE1],[VARIABLE2] and
+    [VARIABLE3]. [VARIABLE1:Class Name] [VARIABLE2:Function Name:Default Function]
+    [VARIABLE3:Title:Default Value:Avialable Value 1|Avialable Value 2|Avialable Value
+    3].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3

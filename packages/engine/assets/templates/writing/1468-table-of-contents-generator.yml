@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1468
+# teaser: Provide the book title and description and it will generate a relevant table of content just
+# for you. Input example : "Book title", "Book description" If you found it useful leave a like ;)
+# Keywords: index, elements, directory, register, inventory, outline, roadmap, book table, book
+# outline, book index.
+- id: 1468-table-of-contents-generator
+  title: Table of contents generator
+  tags:
+    - writing
+    - table
+    - contents
+    - generator
+  family: writing
+  body:
+    "Imagine that you are a professional editor who has been hired to create a
+    table of contents for a new book. The author has provided you with a detailed
+    summary of the book, which you can use to create a table of contents that accurately
+    reflects the structure and content of the book. Your task is to generate a table
+    of contents for the book with the following title and description : '[PROMPT]'.
+    Your table of contents should include at least five main sections, each with a
+    descriptive title that accurately reflects the content of the section. The target
+    language is [TARGETLANGUAGE]."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

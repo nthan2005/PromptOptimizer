@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6065
+# teaser: Create agreement for rent, home, property etc. RevisionTime: 2023-06-19T10:42:38.925Z
+- id: 6065-write-simple-agreement-for-rent-activity-writing-topic-copyw
+  title: 'Write simple agreement for rent Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - write
+  - simple
+  - agreement
+  - rent
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1835599272297418752/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Write simple agreement for rent"](https://www.aiprm.com/prompts/copywriting/writing/1835599272297418752/)_"
+    --- [PROMPT] IN [TARGETLANGUAGE] with [ENGLISH], [HINDI] month_name = "Jan" values
+    = ["Jan", "Feb", "Mar"] generated_code = generate_code(month_name, values) print(generated_code),'
+  enabled: true
+  required:
+  - english
+  - hindi
+  - prompt
+  - targetlanguage

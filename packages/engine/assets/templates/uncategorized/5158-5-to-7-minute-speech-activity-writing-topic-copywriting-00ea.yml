@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5158
+# teaser: Create a 5 to 7 Minute Speech RevisionTime: 2023-10-31T13:22:27.129Z
+- id: 5158-5-to-7-minute-speech-activity-writing-topic-copywriting-00ea
+  title: "5 to 7 Minute Speech Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - minute
+    - speech
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "5 to 7 Minute Speech"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Imagine you are a seasoned speechwriter with expertise in crafting engaging
+    content. You are creating a speech for a Toastmasters member, the topic for the
+    speech is [PROMPT]. Integrate relevant quotes and statistics to reinforce the
+    message. Add place holders for my personal stories and examples. The speech should
+    span between 5 to 7 minutes. Start with an attention-grabbing introduction, delve
+    into the main content with quotes and statistics, and conclude with a memorable
+    statement. Maintain a fun and witty demeanor throughout. Add a call to action
+    or summarize the talk. [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1126
+# teaser: Generate a beautifule article introduction
+- id: 1126-generate-a-catchy-article-intro
+  title: Generate a catchy article intro
+  tags:
+    - writing
+    - generate
+    - catchy
+    - article
+    - intro
+  family: writing
+  body: Rewrite it plagrism-free [TARGETLANGUAGE] for the given [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

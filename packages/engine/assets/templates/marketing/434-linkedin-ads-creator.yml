@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 434
+# teaser: Creating LinkedIn ads that resonate with your target audience can be a daunting task. Let
+# our AI-powered LinkedIn Ads Generator simplify the process for you! Our Prompt can generate multiple
+# variations of high-converting ad copies in a matter of seconds, helping you to drive more clicks and
+# conversions.
+- id: 434-linkedin-ads-creator
+  title: LinkedIn Ads Creator
+  tags:
+    - marketing
+    - linkedin
+    - ads
+    - creator
+  family: marketing
+  body:
+    'I want you to act as a LinkedIn ad strategist. I will provide you with information
+    about the product or service being advertised and the target audience. Using this
+    information, you will create an effective LinkedIn ad campaign that reaches the
+    target audience and generates leads or sales. Your output should be a detailed
+    ad campaign plan, including the ad format, targeting criteria, messaging, and
+    any necessary budget and optimization strategies. Do not echo my prompt. Do not
+    remind me what I asked you for. Do not apologize. Do not self-reference. Get to
+    the point precisely and accurately. Do not explain what and why, just give me
+    your best possible output. Input: My first request is to create a LinkedIn ad
+    campaign for the following product or service: "[PROMPT]" targeting the following
+    audience:"[VARIABLE1]" please respond in [TARGETLANGUAGE] [VARIABLE1: Enter Target
+    Audience Here]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

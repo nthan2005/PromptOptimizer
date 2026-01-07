@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2750
+# teaser: Membantu anda mencari Keyword Golden Ratio
+- id: 2750-keyword-golden-ratio
+  title: Keyword Golden Ratio
+  tags:
+    - keywords
+    - keyword
+    - golden
+    - ratio
+  family: keywords
+  body:
+    Buatkan saya list kata kunci [Keyword] sertakan dengan jumlah volume, pastikan
+    jumlah volume berdasarkan pencarian google. pastikan jumlah allintittle berdasarkan
+    pencarian google untuk negara [TARGETLANGUAGE] waktu sekarang. lengkapi juga dengan
+    hasil pembagian jumlah volume dengan jumlah allintittle. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

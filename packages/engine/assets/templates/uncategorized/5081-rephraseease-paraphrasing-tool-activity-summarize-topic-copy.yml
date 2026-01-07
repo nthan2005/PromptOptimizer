@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5081
+# teaser: Revolutionize your writing with our cutting-edge paraphrasing tool. Instantly transform and
+# reword your sentences while preserving the original meaning. Effortlessly eliminate duplicate
+# content, enhance clarity, and explore endless ways to express ideas. Elevate your writing game and
+# discover a new realm of linguistic possibilities. RevisionTime: 2023-08-19T03:34:02.771Z
+- id: 5081-rephraseease-paraphrasing-tool-activity-summarize-topic-copy
+  title: "RephraseEase Paraphrasing Tool Activity: Summarize Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - rephraseease
+    - paraphrasing
+    - tool
+    - activity
+    - summarize
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "RephraseEase Paraphrasing Tool"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I would like you to act as a paraphrasing tool. * **Instructions:** * Replace
+    difficult words with their easier and more fluent synonyms. * Eliminate redundancies.
+    * Compare tough words with the dictionary to find the most simple synonym. * Keep
+    the original meaning of the text intact. * Do not change the tone or style of
+    the text. * Use shorter Sentences. Break Longer Sentences into two or more shorter
+    sentences. * Use Active voice instead of Passive voice. * **Constraints:** * Do
+    not add any new information to the text. * Do not change the structure of the
+    text. * Do not change the length of the text. * **Examples:** * Original text:
+    "The quick brown fox jumps over the lazy dog." * Paraphrased text: "The fast fox
+    jumps over the sleeping dog." * **Output:** * The paraphrased text should be returned
+    as a string. * Write the output using markdown language (use headings from H1
+    to H6) [PROMPT] Please write your answer in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

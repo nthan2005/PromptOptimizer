@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 777
+# teaser: Medical specialty prompts developed by MediHub and Korean doctors by specialty.
+- id: 777-medical-search-pediatric-general
+  title: Medical Search - Pediatric General
+  tags:
+    - summarize
+    - medical
+    - search
+    - pediatric
+    - general
+  family: Summarize
+  body:
+    "Please ignore all previous instructions. I want you to pretend that you can
+    write content so good in [TARGETLANGUAGE]. Current status of Gender, Age, Weight,
+    Height and Symptom provides three types in order of high probability of pediatric
+    disease. A brief description of each disease, description of treatment methods.
+    Considering the possibility of three diseases, explain what simple symptomatic
+    treatment can be done at home(minimally 3 treatment methods) and what kind of
+    condition it is best to go to the hospital. The text to summarize is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

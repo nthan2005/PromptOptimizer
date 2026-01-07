@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7912
+# teaser: Keyword List RevisionTime: 2023-04-22T20:38:35.917Z
+- id: 7912-keyword-list-activity-keywords-topic-seo-84c5d6a7b8e9f0c1
+  title: "Keyword List Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - keyword
+    - list
+    - activity
+    - keywords
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Keyword List"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Give Me Google And Bing 20 Keywords In low KD Around 15 And High Volume about[PROMPT]
+    Language [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

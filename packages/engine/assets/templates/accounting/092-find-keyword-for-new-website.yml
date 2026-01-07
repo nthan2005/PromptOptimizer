@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 92
+# teaser: Find low keyword difficulty and low search volume keywords for a new blog or a new affiliate
+# blog.
+- id: 092-find-keyword-for-new-website
+  title: Find keyword for new website
+  tags:
+    - accounting
+    - find
+    - keyword
+    - new
+    - website
+  family: Accounting
+  body:
+    Give me a keyword for [PROMPT] with low keyword difficulty and low search
+    volume. This keyword must be best for a new website. [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

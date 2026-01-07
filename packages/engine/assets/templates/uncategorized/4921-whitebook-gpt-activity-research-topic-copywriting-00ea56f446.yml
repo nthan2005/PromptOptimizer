@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4921
+# teaser: With this, you can get detailed information about any medication by simply typing in its
+# name. RevisionTime: 2023-04-22T14:46:44.857Z
+- id: 4921-whitebook-gpt-activity-research-topic-copywriting-00ea56f446
+  title: "Whitebook gpt Activity: Research Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - whitebook
+    - gpt
+    - activity
+    - research
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Whitebook gpt"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Gostaria que vocÃƒÂª agisse como mÃƒÂ©dico experiente e me falasse, de maneira
+    tÃƒÂ©cnica e explicativa, as expecificaÃƒÂ§ÃƒÂµes de um medicamento, como: Nome comercial,
+    Classe, Mecanismo de aÃƒÂ§ÃƒÂ£o, ApresentaÃƒÂ§ÃƒÂ£o (como por exemplo, se hÃƒÂ¡ ou nÃƒÂ£o
+    comprimido e qual seu tipo, se hÃƒÂ¡ ou nÃƒÂ£o soluÃƒÂ§ÃƒÂ£o oral desse medicamento, se
+    hÃƒÂ¡ ou nÃƒÂ£o pÃƒÂ³ para soluÃƒÂ§ÃƒÂ£o injetÃƒÂ¡vel, alÃƒÂ©m da posologia de cada uma dessas
+    apresentaÃƒÂ§ÃƒÂµes), seu Uso ClÃƒÂ­nico, Tipo de receituÃƒÂ¡rio que ÃƒÂ© necessÃƒÂ¡rio para
+    sua prescriÃƒÂ§ÃƒÂ£o, sua posologia para adulto, pediÃƒÂ¡trico e geriÃƒÂ¡trico, se seu
+    consumo para gestantes ÃƒÂ© permitido (colocando sua categoria de risco e descrevendo
+    ela), se seu uso na lactaÃƒÂ§ÃƒÂ£o ÃƒÂ© permitido (coklocando sua categoria de risco
+    e descrevendo ela), se hÃƒÂ¡ necessidade de monitoramento durante ou apÃƒÂ³s seu uso,
+    e por fim, coloque suas referÃƒÂªncias (por exemplo, em qual bula, livro e artigo
+    essas informaÃƒÂ§ÃƒÂµes foram retiradas), tente retirar do mÃƒÂ¡ximo de locais possÃƒÂ­veis
+    as informaÃƒÂ§ÃƒÂµes para que sejam o mais precisas e detalhadas dentro do possÃƒÂ­vel
+    . Utilize de TÃƒÂ³picos e subtÃƒÂ³picos por meio de "H1", "H2", "H3" e "H4" em todas
+    as informaÃƒÂ§ÃƒÂµes que possÃƒÂ­vel. Escreva esse texto em [TARGETLANGUAGE] O medicamento
+    ÃƒÂ© [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

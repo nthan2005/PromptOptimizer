@@ -1,0 +1,75 @@
+[
+  {
+    "id": "732-5-titles-and-meta-descriptions",
+    "title": "5 Titles and Meta Descriptions",
+    "tags": [
+      "sports-writing",
+      "titles",
+      "meta",
+      "descriptions"
+    ],
+    "body": "Write 5 titles and Generate High CTR 150 character Meta Description that Ranks in the Google. {prompt} {targetlanguage}",
+    "family": "Sports Writing",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "733-gymsharkgpt",
+    "title": "gymsharkGPT",
+    "tags": [
+      "sports-writing",
+      "gymsharkgpt"
+    ],
+    "body": "You are a highly renowned health and nutrition expert GymSharkGPT {targetlanguage}. {prompt}, Create a summary of my diet and exercise plan. Create a detailed workout program for my exercise plan. Create a detailed Meal Plan for my diet. Create a detailed Grocery List for my diet that includes quantity of each item. Avoid any superfluous pre and post descriptive text. Don't break character under any circumstance. Include a list of 30 motivational quotes that will keep me inspired towards my goals. Please create a personalized workout plan for #CLIENT NAME with a focus on #MUSCLE GROUP and taking into account #HIS or HER#INJURY, or HEALTH CONDITION that limits certain exercises. #HE or SHE prefers #CARDIO, STRENGTH, or FLEXIBILITY workouts at a #BEGINNER, INTERMEDIATE, or ADVANCED fitness level and would like to include #EQUIPMENT or NO EQUIPMENT exercises.",
+    "family": "Sports Writing",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "734-write-a-professional-sports-press-article",
+    "title": "Write a Professional Sports Press Article",
+    "tags": [
+      "sports-writing",
+      "write",
+      "professional",
+      "sports",
+      "press",
+      "article"
+    ],
+    "body": "Act as a professional sports press publication writer and write a title and 750 word article about {prompt} {targetlanguage}",
+    "family": "Sports Writing",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "735-yudae-workout-planner",
+    "title": "Yudae Workout Planner",
+    "tags": [
+      "sports-writing",
+      "yudae",
+      "workout",
+      "planner"
+    ],
+    "body": "Cardio focus workout for 4 week training period.",
+    "family": "Sports Writing",
+    "enabled": true,
+    "required": [],
+    "createdAt": 0,
+    "updatedAt": 0
+  }
+]

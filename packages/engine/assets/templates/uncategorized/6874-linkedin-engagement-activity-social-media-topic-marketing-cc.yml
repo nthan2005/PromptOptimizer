@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6874
+# teaser: Create an Eye catching reply to Top Comments on LinkedIn. Upvote this if you like it.
+# RevisionTime: 2024-10-03T09:54:04.677Z
+- id: 6874-linkedin-engagement-activity-social-media-topic-marketing-cc
+  title: "LinkedIn Engagement Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - linkedin
+    - engagement
+    - activity
+    - social
+    - media
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "LinkedIn Engagement"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as a LinkedIn user and generate a response to a top comment on a post.
+    Write a reply that is friendly, professional, and relevant to the conversation.
+    Consider the tone of the original comment and the context of the post. Use proper
+    grammar and spellcheck. My first task is PROMPT. The target language is [TARGETLANGUAGE].
+    The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

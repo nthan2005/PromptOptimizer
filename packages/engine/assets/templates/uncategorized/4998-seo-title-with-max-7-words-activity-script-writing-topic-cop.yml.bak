@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4998
+# teaser: target keywords in headlines RevisionTime: 2024-01-08T18:58:03.737Z
+- id: 4998-seo-title-with-max-7-words-activity-script-writing-topic-cop
+  title: 'seo title with max 7 words Activity: Script Writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - seo
+  - title
+  - max
+  - words
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1910014359842312192/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "seo title with max 7 words"](https://www.aiprm.com/prompts/copywriting/script-writing/1910014359842312192/)_"
+    --- Imagine you are an experienced SEO specialist who specializes in writing articles
+    that rank high on search engine result pages. You have been asked to provide guidance
+    on effective SEO article writing strategies [TARGETLANGUAGE]. Write a comprehensive
+    response that includes tips for optimizing content, choosing relevant keywords,
+    and structuring articles to engage readers and search engines alike. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

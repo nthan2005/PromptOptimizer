@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7810
+# teaser: Create an SEO optimized plan with a Title, a meta description and several Hn ideas to have a
+# solid starting point in the creation of your blog posts. RevisionTime: 2023-02-19T15:35:19Z
+- id: 7810-title-meta-description-10-hn-tags-activity-ideation-topic-se
+  title: 'Title + Meta description + 10 Hn tags Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - title
+  - meta
+  - description
+  - tags
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1786731058562338816/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Title + Meta description + 10 Hn tags"](https://www.aiprm.com/prompts/seo/ideation/1786731058562338816/)_"
+    --- Tu es un expert du SEO. Pour le mot-clÃ© [PROMPT], Ã©cris moi un Title optimisÃ©,
+    une mÃ©ta-description courte et qui donne envie de cliquer (page de contenu, pas
+    e-commerce), ainsi qu''un plan de 10 balises H2 ou H3 structurÃ©s. Tout doit Ãªtre
+    en [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

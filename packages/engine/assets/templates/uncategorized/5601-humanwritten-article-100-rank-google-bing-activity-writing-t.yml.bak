@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5601
+# teaser: Human Written Article: 100% Rank Google/Bing and Other 500+ Search Engines. RevisionTime:
+# 2024-10-27T10:03:30.31Z
+- id: 5601-humanwritten-article-100-rank-google-bing-activity-writing-t
+  title: 'HumanWritten Article: 100% Rank Google|Bing Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - humanwritten
+  - article
+  - '100'
+  - rank
+  - google
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2016059478759960576/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "HumanWritten Article: 100% Rank Google|Bing"](https://www.aiprm.com/prompts/copywriting/writing/2016059478759960576/)_"
+    --- [TARGETLANGUAGE] [PROMPT] Objective: Create a 100% unique, plagiarism-free,
+    SEO-optimized article in [TARGETLANGUAGE] with a minimum of 3,000 words. The article
+    should adhere to RankMath and Yoast SEO guidelines and be optimized for Google
+    rich snippets with the latest SEO best practices for improved visibility on Google,
+    Bing, and Yandex. The article should use the main focus keyword and related long-tail
+    keywords with a combined keyword density of 5% (approximately 150 mentions). Also,
+    include a meta title, meta description, and relevant tags ready for easy copy-pasting
+    into WordPress. Please define and use the main focus keyword for this article.
+    Meta Title & Description: Meta'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

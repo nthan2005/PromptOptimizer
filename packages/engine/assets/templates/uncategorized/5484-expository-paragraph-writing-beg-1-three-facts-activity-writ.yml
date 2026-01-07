@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5484
+# teaser: Writing RevisionTime: 2024-11-25T21:54:30.091Z
+- id: 5484-expository-paragraph-writing-beg-1-three-facts-activity-writ
+  title:
+    "Expository Paragraph Writing (Beg. 1: Three Facts) Activity: writing Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - expository
+    - paragraph
+    - writing
+    - beg
+    - three
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Expository Paragraph Writing (Beg.
+    1: Three Facts)"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] Write an expository paragraph, whose structure is identical to the
+    following paragraph: "I will do three things. First, I will study for a B.A. Second,
+    I will prepare a Master''s. Finally, I will work on a Ph.D. Thus, I will do three
+    things." Avoid compound sentences . Avoid complex sentences. Avoid compound words.
+    Use simple sentences exclusively (one subject, one verb, and one direct object
+    if the verb is transitive). Do not hallucinate. English [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

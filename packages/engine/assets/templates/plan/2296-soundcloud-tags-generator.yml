@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2296
+# teaser: Soundcloud Tags Generator
+- id: 2296-soundcloud-tags-generator
+  title: Soundcloud Tags Generator
+  tags:
+    - plan
+    - soundcloud
+    - tags
+    - generator
+  family: Plan
+  body:
+    Write a short text in [TARGETLANGUAGE] consisting of tags to describe the
+    genre and mood of the track to the song I am going to publish to Soundcloud. Separate
+    each tag with only a space. The song is [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

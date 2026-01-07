@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5900
+# teaser: Shorten sentence with transition words. RevisionTime: 2023-08-28T07:08:32.331Z
+- id: 5900-shorten-sentence-with-transition-words-activity-writing-topi
+  title: "Shorten Sentence with transition words Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - shorten
+    - sentence
+    - transition
+    - words
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Shorten Sentence with transition words"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Shorten with a shortening sentence. must be 100% human writing style, fix
+    grammar issues. All output shall be in [TARGETLANGUAGE]. Tone : conversational,
+    spartan, use less corporate jargon. the sentence to shorten is : [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

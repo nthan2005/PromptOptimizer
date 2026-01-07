@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5524
+# teaser: Generate Content, Title, description and keywords RevisionTime: 2024-01-02T22:01:59.334Z
+- id: 5524-generate-content-title-and-keywords-for-topic-activity-writi
+  title: 'Generate Content, Title and keywords for topic Activity: writing Topic:
+    Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - generate
+  - content
+  - title
+  - keywords
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1907878114861268992/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Generate Content, Title and keywords
+    for topic"](https://www.aiprm.com/prompts/copywriting/writing/1907878114861268992/)_"
+    --- Generate Content, Title, Description and keywords Title | Meta Description
+    | Headings with Proper H1-H6 Tags | up to 1500+ Words Article with FAQs, and Conclusion.[TARGETLANGUAGE]
+    and [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

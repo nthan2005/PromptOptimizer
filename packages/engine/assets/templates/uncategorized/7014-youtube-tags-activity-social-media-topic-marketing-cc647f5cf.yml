@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7014
+# teaser: You can create trending SEO tags for your YouTube videos RevisionTime:
+# 2024-10-03T09:55:58.092Z
+- id: 7014-youtube-tags-activity-social-media-topic-marketing-cc647f5cf
+  title: "YouTube Tags Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - youtube
+    - tags
+    - activity
+    - social
+    - media
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "YouTube Tags"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write tags for a YouTube shorts seo friendly for the video containing the
+    following in [TARGETLANGUAGE]: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

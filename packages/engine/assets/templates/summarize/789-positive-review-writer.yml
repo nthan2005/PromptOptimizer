@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 789
+# teaser: Five star review writer
+- id: 789-positive-review-writer
+  title: Positive Review writer
+  tags:
+    - summarize
+    - positive
+    - review
+    - writer
+  family: Summarize
+  body:
+    Write a review of [PROMPT] and praise the communication and the work delivered
+    [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

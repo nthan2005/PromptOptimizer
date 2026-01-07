@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6373
+# teaser: Develop your Communication campaign RevisionTime: 2023-05-29T19:29:01.418Z
+- id: 6373-communication-campaign-activity-marketing-topic-marketing-cc
+  title: "Communication Campaign Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - communication
+    - campaign
+    - activity
+    - marketing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Communication Campaign"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Apresente os resultados no idioma [TARGETLANGUAGE] eu quero que vocÃƒÂª apresente
+    uma campanha de comunicaÃƒÂ§ÃƒÂ£o com sugestÃƒÂ£o de mote, justificativa detalhada da
+    campanha com conceito, essa campanha deve ser mais madura, inovadora e discutir
+    tabus. Gostaria da sugestÃƒÂ£o de seis canais sendo online e offline, interno e
+    externo Ãƒ organizaÃƒÂ§ÃƒÂ£o. Crie tambÃƒÂ©m um release com o tema e trÃƒÂªs textos para
+    instagram. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

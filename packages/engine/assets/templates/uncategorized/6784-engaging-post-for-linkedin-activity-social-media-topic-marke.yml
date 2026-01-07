@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6784
+# teaser: Rewrite a text for a post in Linkedn RevisionTime: 2024-10-03T09:57:39.967Z
+- id: 6784-engaging-post-for-linkedin-activity-social-media-topic-marke
+  title: "Engaging post for LinkedIn Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - engaging
+    - post
+    - linkedin
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Engaging post for LinkedIn"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Rewrite this [PROMPT] for a post in Linkedin, it should be engaging yet professional,
+    shouldn''t have repetitions and the language should be natural. All output shall
+    be in [TARGETLANGUAGE] The post won''t be longer than 100 words. Also give me
+    10 hashtags that go well with the text.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

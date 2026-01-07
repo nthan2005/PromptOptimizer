@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6650
+# teaser: Better Marketing Topics based on furstarations, desires, dreams and fears. RevisionTime:
+# 2023-11-07T23:38:49.604Z
+- id: 6650-better-marketing-topics-activity-research-topic-marketing-cc
+  title: "Better Marketing Topics Activity: Research Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - better
+    - marketing
+    - topics
+    - activity
+    - research
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Better Marketing Topics"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are a customer researcher tell me about 10 furstartions, 10 desires, 10
+    dreams and 10 fears that my audience experience related to [PROMPT] Format the
+    output of the 10 furstartions, 10 desires, 10 dreams and 10 fears in a table The
+    x axis should be numbered one to ten and the y axis should include furstartions,
+    desires, dreams and fears Reply only in [TARGETLANGUAGE] language'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

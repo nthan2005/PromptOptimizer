@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1441
+# teaser: Social Media Post Generator - Based on Your Brief
+- id: 1441-social-media-caption-copywriting
+  title: Social Media Caption Copywriting
+  tags:
+    - writing
+    - social
+    - media
+    - caption
+    - copywriting
+  family: writing
+  body:
+    "Your task is to write a social media post in [TARGETLANGUAGE]. The brief
+    to use as reference for the social media post is the following: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

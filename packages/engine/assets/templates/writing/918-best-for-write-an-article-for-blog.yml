@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 918
+# teaser: [Best Article for Blogs]
+- id: 918-best-for-write-an-article-for-blog
+  title: Best For Write an Article for Blog
+  tags:
+    - writing
+    - write
+    - article
+    - blog
+  family: writing
+  body:
+    write an article in 2000+ words only in [TARGETLANGUAGE] with headings, metatags,
+    youtube video script (1000 words), youtube shorts script (100 words), Target our
+    keyword 2% in full article, and hashtags related following topic [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

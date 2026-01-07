@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4150
+# teaser: hey! RevisionTime: 2023-09-25T16:43:09.109Z
+- id: 4150-hello-friend-activity-accounting-topic-copywriting-00ea56f44
+  title: "Hello Friend Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - hello
+    - friend
+    - activity
+    - accounting
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Hello Friend"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Hey [PROMPT] in [TARGETLANGUAGE] [VARIABLE1]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

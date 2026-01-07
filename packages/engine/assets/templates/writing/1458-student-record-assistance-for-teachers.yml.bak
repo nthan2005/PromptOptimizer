@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1458
+# teaser: High School Student Record about [PROMPT] Subject.
+- id: 1458-student-record-assistance-for-teachers
+  title: Student Record Assistance for Teachers
+  tags:
+  - writing
+  - student
+  - record
+  - assistance
+  - teachers
+  family: writing
+  body: Fill out student records for [PROMPT]. Write it so that the capability of
+    [VARIABLE1] is clearly revealed. Write a detailed example of [VARIABLE2]. Write
+    within [VARIABLE3] characters. Write only in [TARGETLANGUAGE] language. Do not
+    mention student's name or gender. Write in the style of Educator's Student Record
+    Report. [VARIABLE1:Core competency] [VARIABLE2:Specific example] [VARIABLE3:Number
+    of characters]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - variable1
+  - variable2
+  - variable3

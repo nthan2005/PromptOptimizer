@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8511
+# teaser: Only enter your keyword and get one H1 tag, 15 H2 tags, 5 meta titles, and 5 meta
+# descriptions. RevisionTime: 2023-03-10T16:02:03Z
+- id: 8511-h1-h2-meta-title-and-meta-description-activity-writing-topic
+  title: 'H1, H2, Meta Title and Meta Description Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - meta
+  - title
+  - description
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1797284659118473216/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "H1, H2, Meta Title and Meta Description"](https://www.aiprm.com/prompts/seo/writing/1797284659118473216/)_"
+    --- Write 5 H1 headings 15 H2 headings 5 Meta titles 5 Meta Descriptions (H1 tag
+    should include each word of keyword in any order) (length for meta titles should
+    be between 50 and 60 characters) (length for meta description should be between
+    120 to 155 characters) Provide Each h1, h2, meta title, and meta description in
+    table form. The table should be in Column form. The intent should be Commercial
+    [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

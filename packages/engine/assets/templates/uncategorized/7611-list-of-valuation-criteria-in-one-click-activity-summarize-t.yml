@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7611
+# teaser: What profile do you want to evaluate? RevisionTime: 2023-03-15T15:44:57Z
+- id: 7611-list-of-valuation-criteria-in-one-click-activity-summarize-t
+  title: "List of valuation criteria in one click Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - list
+    - valuation
+    - criteria
+    - one
+    - click
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "List of valuation criteria in one click"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a list of evaluation criteria [TARGETLANGUAGE] for [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

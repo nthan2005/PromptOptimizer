@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2705
+# teaser: Application store optimization
+- id: 2705-best-aso-writing-for-your-games
+  title: Best ASO writing for your games
+  tags:
+    - keywords
+    - aso
+    - writing
+    - games
+  family: keywords
+  body:
+    Your task is to write ASO base short and long descriptions for a given game.[TARGETLANGUAGE].
+    short description must be 80 characters and long description must be 4000 characters.
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

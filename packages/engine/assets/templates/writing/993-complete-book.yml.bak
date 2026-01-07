@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 993
+# teaser: Act like an author and write a book on the topicÃ¢â‚¬Â [PROMPT] Ã¢â‚¬Å“
+- id: 993-complete-book
+  title: Complete Book
+  tags:
+  - writing
+  - complete
+  - book
+  family: writing
+  body: "Act like an author and write a book on the topicÃ¢â‚¬\x9D [PROMPT] Ã¢â‚¬Å“ Generate\
+    \ an awesome , engaging creative book title on the topic. Generate 15 book chapter\
+    \ titles and list them Generate a detailed book introduction/preface with the\
+    \ title provided in 800-1200 words Write all chapters , one by one , each chapter\
+    \ should be around 1500 words. Please write in confident tone, journalistic writing\
+    \ style. The book must be enagaging , informative, professional human toned .\
+    \ Use industry specific terms, data and quotes where ever needed . Please write\
+    \ in confident tone, creative writing style in [TARGETLANGUAGE] language."
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

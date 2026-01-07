@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5964
+# teaser: translate your book to other languages with markdown back.in Sympathetic tone and
+# Metaphorical writing style. You can see multi-languages both. RevisionTime: 2023-03-24T07:30:49.609Z
+- id: 5964-translate-duck-activity-writing-topic-copywriting-00ea56f446
+  title: "Translate Duck Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - translate
+    - duck
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Translate Duck"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I need you act as translator all this chatting session, obey the rules for
+    each chat: translate documents into fluent [TARGETLANGUAGE] in Sympathetic tone
+    and Metaphorical writing style, you must show the untranslated sentence first(shall
+    not write notes that it is untranslated), and put translation after each untranslated
+    sentence(with marking signal ''>_>''), reply only in markdown type: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

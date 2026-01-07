@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5109
+# teaser: scan ideas from [TEXT] RevisionTime: 2023-03-08T16:29:52Z
+- id: 5109-1-scan-ideas-activity-writing-topic-copywriting-00ea56f44641
+  title: '#1 - scan ideas Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - scan
+  - ideas
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1793662726594359296/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "#1 - scan ideas"](https://www.aiprm.com/prompts/copywriting/writing/1793662726594359296/)_"
+    --- Use the provided text in brackets to identify topics related to Notion, productivity,
+    insights, curiousities, and digital business and write them in a list that I will
+    use to create content for tiktok. Also right below each topic, list in bullets
+    the content to be covered. [TEXT]. [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - text

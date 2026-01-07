@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4218
+# teaser: business lawyer RevisionTime: 2023-03-17T16:09:55.604Z
+- id: 4218-professional-profile-activity-accounting-topic-copywriting-0
+  title: 'Professional profile Activity: Accounting Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - professional
+  - profile
+  - activity
+  - accounting
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1802342851062001664/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Professional profile "](https://www.aiprm.com/prompts/copywriting/accounting/1802342851062001664/)_"
+    --- Create me a professional profile on [TARGETLANGUAGE] for [PROMPT] Hispanic
+    working in the US who has his blog.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

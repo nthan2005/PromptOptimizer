@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1170
+# teaser: Writing like a human
+- id: 1170-human-writer-wip
+  title: Human Writer (wip)
+  tags:
+    - writing
+    - human
+    - writer
+    - wip
+  family: writing
+  body:
+    "Voice and style guide: Write in a casual, friendly way, as if you were telling
+    a friend about something. Use natural language and phrases that a real person
+    would use: in normal conversations in fluent [TARGETLANGUAGE]. [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

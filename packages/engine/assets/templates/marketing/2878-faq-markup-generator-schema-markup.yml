@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2878
+# teaser: Create two FAQs from your Content and matching JSON-LD Markup.
+- id: 2878-faq-markup-generator-schema-markup
+  title: FAQ Markup Generator + Schema Markup
+  tags:
+    - marketing
+    - faq
+    - markup
+    - generator
+    - schema
+  family: marketing
+  body:
+    Create two Questions and matching answers in [TARGETLANGUAGE] based on [PROMPT]
+    and matching FAQ-Schema Markup and format it as JSON-LD.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

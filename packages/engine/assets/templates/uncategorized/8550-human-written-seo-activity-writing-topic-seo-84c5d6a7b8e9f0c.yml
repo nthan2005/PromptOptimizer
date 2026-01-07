@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8550
+# teaser: Just write the keyword RevisionTime: 2023-03-31T05:25:30.977Z
+- id: 8550-human-written-seo-activity-writing-topic-seo-84c5d6a7b8e9f0c
+  title: "Human-written , SEO Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - human
+    - written
+    - seo
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Human-written , SEO "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- It doesn''t write like an AI article, This is a long, human-level blog post,
+    plagiarism free,Use different expressions when using the same word, use different
+    verbs, Words and colloquial expressions used in daily life, interlocutor, Friendly
+    tone, a sympathetic tone, put in # and ## and ### Don''t put a link in it, a detailed
+    table of contents,2000 to 2500 words written, all output shall be in [TARGETLANGUAGE],
+    the text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2990
+# teaser: Instantly create SEO perfect local business schema that Google loves for your local
+# websites!
+- id: 2990-instant-local-business-schema-generator
+  title: Instant Local Business Schema Generator
+  tags:
+    - web-development
+    - instant
+    - local
+    - business
+    - schema
+    - generator
+  family: Web Development
+  body:
+    'Reproduce this schema below: <script type=''application/ld+json''> { "@context":
+    "http://www.schema.org", "@type": "Category", "name": "Business Name", "description":
+    "Business Description", "address": { "@type": "PostalAddress", "streetAddress":
+    "Street Address", "addressLocality": "City", "addressRegion": "State", "postalCode":
+    "Zip Code", "addressCountry": "USA" }, "openingHours": "Mo, Tu, We, Th, Fr, Sa,
+    Sun 08:00-20:00", "contactPoint": { "@type": "ContactPoint", "contactType": "Reservations",
+    "telephone": "+1(111) 111-1111" } } </script> in [TARGETLANGUAGE] and replace
+    all relevant fields with the corresponding data from the [PROMPT] inputs. Above
+    the table say "Prompt Engineering AI Local business Schema For "Name" and replace
+    "Name" with the Name provided in the "Name" prompt in all caps. The next line
+    down say "To learn more about Prompt Engineering AI local SEO tools, techniques,
+    and courses visit https://prompt-engineering.ai/. Then, under the table say "If
+    you liked this prompt please like it on the prompt search page so we know to keep
+    enhancing it.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

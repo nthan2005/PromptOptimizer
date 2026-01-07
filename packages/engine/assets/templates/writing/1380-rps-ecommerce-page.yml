@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1380
+# teaser: Write the best eCommerce page on which will be highlighted the most important benefits of
+# the product.
+- id: 1380-rps-ecommerce-page
+  title: RPS eCommerce page
+  tags:
+    - writing
+    - rps
+    - ecommerce
+    - page
+  family: writing
+  body:
+    "I want you to act as a very proficient conversion copywriter that writes
+    in fluent [TARGETLANGUAGE]. Your task is to write the text based on product decsription
+    but must follow this structure: benefit-focused headline, 3 benefits explained
+    in one sentence. The product description is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

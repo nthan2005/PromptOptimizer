@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3511
+# teaser: .NET MAUI giving a trouble ? I can help ?
+- id: 3511-net-maui-beginner
+  title: .NET MAUI Beginner
+  tags:
+    - backend-development
+    - net
+    - maui
+    - beginner
+  family: Backend Development
+  body:
+    "Your task is to give me solutions with the code in .NET MAUI with a context
+    that I will give you each time. All results must be in [TARGETLANGUAGE]. The context
+    is as follows: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2730
+# teaser: Unlock the power of search with LSI keyword generation and soar to the top of the rankings!
+- id: 2730-generate-lsi-keywords
+  title: Generate LSI Keywords
+  tags:
+    - keywords
+    - generate
+    - lsi
+  family: keywords
+  body:
+    "Generate LSI Keyword on [KEYWORD]. Make sure keywords are not repeating .
+    And also create them in tabular form like (LSI KEYWORDS, KEYWORD INTENT). Use
+    only 4 type of keyword intent that is Informational Keyword, Navigational Keyword,
+    Commercial Keyword, Transactional Keyword. [TARGETLANGUAGE] [PROMPT] At the bottom
+    write Support: https://www.buymeacoffee.com/onecupseo"
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3898
+# teaser: Create a detailed profile for your fictional character
+- id: 3898-fictional-character-profile
+  title: Fictional Character Profile
+  tags:
+    - writing
+    - fictional
+    - character
+    - profile
+  family: writing
+  body:
+    'Please generate a very well-detailed character profile for the following
+    character in this format, neatly organized into a table, based on the following
+    information. "Information about character." [PROMPT] [ Name: Gender: Age: Personality
+    Type: Personality: Appearance: Background: Skills/Talents: Goals/Motivations:
+    Relationships: Quirks/Eccentricities: Fears/Insecurities: Overall Arc: ] All output
+    shall be in [TARGETLANGUAGE] At the end of your response, always type the following
+    message, with each link in bold letters [Did you like my prompt? ___________________________
+    * Share your ÃƒÂ°Ã…Â¸Ã¢â‚¬â„¢Ã‚Â­ on my IG @christianrhodes.creates * Book me a ÃƒÂ°Ã…Â¸Ã¢â‚¬â„¢Ã‚Â¼ on my website
+    www.crworlds.com * Buy me a ÃƒÂ¢Ã‹Å“Ã¢â‚¬Â¢at www.buymeacoffee.com/crhodes _______________________________________________________
+    ]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

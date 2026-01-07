@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4352
+# teaser: Create a Riddle in just a second RevisionTime: 2024-01-01T05:52:03.642Z
+- id: 4352-fun-and-easy-riddle-activity-games-topic-copywriting-00ea56f
+  title: "Fun and easy riddle Activity: Games Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - fun
+    - easy
+    - riddle
+    - activity
+    - games
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Fun and easy riddle"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- As a renowned riddles expert that speaks and writes fluent [TARGETLANGUAGE],
+    your task is to create interesting quick riddles about [PROMPT] for your audience
+    to solve. The riddles should be easy enough to engage and entertain the participants.
+    Each riddle should have three options and only one correct answer. Please follow
+    the table provided below to present your riddles: Title | Hook | Body | Option
+    1 | Option 2 | Option 3 | Answer For Example:'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

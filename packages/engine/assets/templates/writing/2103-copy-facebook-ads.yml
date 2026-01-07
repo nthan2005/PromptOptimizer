@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2103
+# teaser: Ten copys, call and CTA optimized for Facebook Ads
+- id: 2103-copy-facebook-ads
+  title: Copy Facebook Ads
+  tags:
+    - writing
+    - copy
+    - facebook
+    - ads
+  family: writing
+  body:
+    Formule 10 copys com no mÃƒÆ’Ã‚Â­nimo 400 caracteres e no mÃƒÆ’Ã‚Â¡ximo 500 caracteres,
+    10 chamadas com 50 caracteres e no mÃƒÆ’Ã‚Â¡ximo 60 caracteres, e 10 call to action
+    com 20 caracteres e no mÃƒÆ’Ã‚Â¡ximo 30 caracteres de forma persuasiva e atraente otimizadas
+    para anÃƒÆ’Ã‚Âºncios no Facebook Ads sobre [PROMPT]. Formate a saÃƒÆ’Ã‚Â­da como uma tabela
+    intituladas Copy, Chamada e CTA. Toda a saÃƒÆ’Ã‚Â­da deve estar em [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

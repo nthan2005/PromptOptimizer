@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9411
+# teaser: Give chatgpt a word, and it will try to output the sound the word would make. RevisionTime:
+# 2023-02-22T08:16:54Z
+- id: 9411-sound-generator-activity-writing-topic-unsure-f69c57b424376b
+  title: 'Sound generator Activity: writing Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - sound
+  - generator
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Sound generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- When i type a word, you should reply with a recreation of the sound of that
+    word, using the [TARGETLANGUAGE] alphabet, Along with a maximum 10 word sentence
+    describing itself. Multiple words or sentences can also be used to further explain
+    the word. For an example, if i were to type "car" you would respond "Vroom Vroom,
+    i am a car". my first word is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

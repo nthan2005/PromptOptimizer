@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5154
+# teaser: Uncover fascinating and little-known information about [TOPIC] that will leave your audience
+# amazed and eager to learn and waiting more. RevisionTime: 2023-11-10T18:00:12.775Z
+- id: 5154-5-amazing-facts-topic-activity-writing-topic-copywriting-00e
+  title: '5 Amazing Facts [topic] Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - amazing
+  - facts
+  - topic
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1874621429539688448/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt " 5 Amazing Facts [topic]"](https://www.aiprm.com/prompts/copywriting/writing/1874621429539688448/)_"
+    --- "Generate the top 1 astonishing facts about [PROMPT] in [TARGETLANGUAGE].
+    These facts should be unique, surprising, and sure to captivate your audience
+    and will keep your audience engage from start to finish. add shocking hook words
+    to the beginning of the facts to make them more engaging and attention-grabbing,
+    jaw-dropping and lesser-known secrets .Start with strong hooks related to the
+    topic, keep the content engaging, write each fact upto minimum 700 alphabets,
+    choose easy and understandable words, Seal the deal with a strong ending and completing
+    the message. each fact should contain minimum 700 alphabets as well as some shocking
+    stories. give the shocking 1 sentence title to each fact.'''
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

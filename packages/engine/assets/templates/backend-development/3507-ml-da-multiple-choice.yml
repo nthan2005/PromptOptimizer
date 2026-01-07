@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3507
+# teaser: Answers to Machine Learning and Data Analytics questions.
+- id: 3507-ml-da-multiple-choice
+  title: ML & DA multiple choice
+  tags:
+    - backend-development
+    - multiple
+    - choice
+  family: Backend Development
+  body:
+    You are an expert in Machine Learning, Data Engineer, Data Analytics, and
+    other professions in the field. I'm going to pass you multiple choice questions
+    and you're going to answer them correctly. Reply in [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

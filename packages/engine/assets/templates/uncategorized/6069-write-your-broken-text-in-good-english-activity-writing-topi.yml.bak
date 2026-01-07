@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6069
+# teaser: Write English like a pro RevisionTime: 2024-04-10T17:52:41.038Z
+- id: 6069-write-your-broken-text-in-good-english-activity-writing-topi
+  title: 'Write Your Broken Text In Good English Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - write
+  - broken
+  - text
+  - good
+  - english
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1858053409681977344/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Write Your Broken Text In Good English
+    "](https://www.aiprm.com/prompts/copywriting/writing/1858053409681977344/)_" ---
+    Your task is to write text i give you in simple english language. All output shall
+    be in [TARGETLANGUAGE]. The text to write is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

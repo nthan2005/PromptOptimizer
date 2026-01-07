@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3286
+# teaser: Create an Perfect Fiverr Gig Description that will attract buyers and Generate Leads
+- id: 3286-perfect-fiverr-gig-description-by-mts
+  title: Perfect Fiverr Gig Description by MTS
+  tags:
+    - writing
+    - perfect
+    - fiverr
+    - gig
+    - description
+    - mts
+  family: writing
+  body:
+    'using markup formatting, write creative "fiverr gig description" gig title
+    and 3-4 search tags for the service "[PROMPT]" in a Friendly tone in [TARGETLANGUAGE].
+    Also Write some Frequently Asked Questions at end of the description. There should
+    be maximum 1150 words in the Description. Description should not exceed 1150 words.
+    In The Very Bottom of the article Write This Custom Massage " ============================================
+    Get Access to my Prompts Library: https://shorturl.at/fvDHI Looking for a custom
+    prompt for your business? or an SEO service for your website? Hire me on Fiverr
+    https://shorturl.at/epR14'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

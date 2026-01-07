@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5787
+# teaser: Create didactic content on a particular subject. RevisionTime: 2023-04-11T19:17:10.763Z
+- id: 5787-quick-content-activity-writing-topic-copywriting-00ea56f4464
+  title: 'Quick content Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - quick
+  - content
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1811447466370011136/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Quick content"](https://www.aiprm.com/prompts/copywriting/writing/1811447466370011136/)_"
+    --- Quero aprender sobre "[PROMPT]" e gostaria que vocÃª fosse meu professor especialista
+    e criasse um conteÃºdo didÃ¡tico, como em um curso. Por favor, forneÃ§a informaÃ§Ãµes
+    gerais sobre o assunto e responda a perguntas especÃ­ficas que eu possa ter e
+    entÃ£o explique especÃ­ficamente cada tÃ³pico que vocÃª propÃ´s. AlÃ©m disso,
+    por favor, leve em consideraÃ§Ã£o meus objetivos de aprendizagem e nÃ­vel de conhecimento
+    atual. Vamos comeÃ§ar? Escreva em [TARGETLANGUAGE], por favor. Se coloque no papel
+    de PhD no assunto. E explique como para uma pessoa de 20 anos.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

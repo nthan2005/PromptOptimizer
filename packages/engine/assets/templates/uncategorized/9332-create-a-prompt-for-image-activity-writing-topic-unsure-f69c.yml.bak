@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9332
+# teaser: Create a best image prompt RevisionTime: 2023-12-11T06:36:38.257Z
+- id: 9332-create-a-prompt-for-image-activity-writing-topic-unsure-f69c
+  title: 'Create a prompt for image Activity: writing Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - prompt
+  - image
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1899443970484785152/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create a prompt for image"](https://www.aiprm.com/prompts/unsure/writing/1899443970484785152/)_"
+    --- I want to create a image so please generate me a prompt to create this image
+    [TARGETLANGUAGE]. Ensure the image all word are clear and see nice [TARGETLANGUAGE].
+    The image prompt was short and best [TARGETLANGUAGE]. The image is related to:
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

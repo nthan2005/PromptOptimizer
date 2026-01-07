@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4563
+# teaser: You gotta try this! Just copy paste the post! RevisionTime: 2023-03-03T15:37:51Z
+- id: 4563-comment-like-pro-activity-marketing-topic-copywriting-00ea56
+  title: "Comment like pro Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - comment
+    - like
+    - pro
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Comment like pro"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- As a social media user, you are scrolling through your feed and come across
+    an interesting post. Write a comment that engages with the post and encourages
+    further discussion. Consider the tone, content, and audience of the original post
+    when crafting your response. Be respectful and avoid controversial topics that
+    could derail the conversation. Remember to keep it concise and to the point..
+    write a relevant, Really short, max words 20, informal, engaging fun comment on
+    my LinkedIn connection''s post [TARGETLANGUAGE], and add one new perspective [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

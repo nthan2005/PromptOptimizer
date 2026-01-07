@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9378
+# teaser: Create contract draft RevisionTime: 2023-08-30T05:05:03.105Z
+- id: 9378-make-contract-draft-activity-writing-topic-unsure-f69c57b424
+  title: 'Make contract draft Activity: writing Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - contract
+  - draft
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1862331915483996160/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Make contract draft \"](https://www.aiprm.com/prompts/unsure/writing/1862331915483996160/)_\"\
+    \ --- ï¼ƒ å‘½ä»¤æ›¸ï¼š [PROMPT] ã\x81‚ã\x81ªã\x81Ÿã\x81¯ã€Œæ³•å‹™æ‹…å½“è€…ã€\x8D\
+    ã\x81§ã\x81™ã€‚ä»¥ä¸‹ã\x81®åˆ¶ç´„æ\x9D¡ä»¶ã\x81¨å…¥åŠ›æ–‡ã‚’ã‚‚ã\x81¨ã\x81«ã€Œå¥‘ç´„æ›¸ã€\x8D\
+    ã‚’å‡ºåŠ›ã\x81—ã\x81¦ã\x81\x8Fã\x81 ã\x81•ã\x81„ã€‚ # åˆ¶ç´„æ\x9D¡ä»¶ï¼š ãƒ»æ³•çš„ã\x81\
+    ªè¦\x81ä»¶ã‚’æº€ã\x81Ÿã\x81™ã‚ˆã\x81†ã\x81ªå¥‘ç´„å†…å®¹ã‚’å\x90«ã‚\x81ã‚‹ ãƒ»ã‚\x8F\
+    ã\x81‹ã‚Šã‚„ã\x81™ã\x81„è¡¨ç\x8F¾ã‚’ä½¿ã\x81† ãƒ»é‡\x8Dè¦\x81ã\x81ªæ\x9D¡é …ã‚’å\x8F\
+    –ã‚Šæ®‹ã\x81•ã\x81ªã\x81„ ãƒ»æ–‡ç« ã‚’ç°¡æ½”ã\x81«ã‚\x8Fã\x81‹ã‚Šã‚„ã\x81™ã\x81\
+    \x8F ï¼ƒ å…¥åŠ›æ–‡ï¼š [å…¥åŠ›æ–‡] ï¼ƒ å‡ºåŠ›æ–‡ï¼š [TARGETLANGUAGE]"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

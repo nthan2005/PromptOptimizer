@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1875
+# teaser: Create a professional affiliate marketing email from [KEYWORDS]ï¸ Clickbutton bellow if you
+# like it ï¸
+- id: 1875-professional-affiliate-marketing-email
+  title: Professional Affiliate Marketing Email
+  tags:
+    - marketing
+    - professional
+    - affiliate
+    - email
+  family: marketing
+  body:
+    "Your task is to Write a professional marketing email . All output shall be
+    in [TARGETLANGUAGE] The text to summarize is this : [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 241
+# teaser: Rewrite any content/article by adding your content in prompt area. The output will be 100%
+# humanize and undetectable by all the AI Content Detectors
+- id: 241-100-humanize-rewrite-article
+  title: 100% Humanize / Rewrite Article
+  tags:
+    - improve
+    - "100"
+    - humanize
+    - rewrite
+    - article
+  family: Improve
+  body:
+    'When it comes to writing content, two factors are crucial, "perplexity" and
+    "burstiness." Perplexity measures the complexity of text. Separately, burstiness
+    compares the variations of sentences. Humans tend to write with greater burstiness,
+    for example, with some longer or complex sentences alongside shorter ones. AI
+    sentences tend to be more uniform. Therefore, when writing the following content
+    I am going to ask you to create, I need it to have a good amount of perplexity
+    and burstiness. All output shall be in [TARGETLANGUAGE]. The text to rewrite is:
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

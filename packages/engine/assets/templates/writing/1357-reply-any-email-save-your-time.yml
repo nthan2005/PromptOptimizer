@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1357
+# teaser: Peste your email here for reply!
+- id: 1357-reply-any-email-save-your-time
+  title: Reply any Email Save your Time!
+  tags:
+    - writing
+    - reply
+    - any
+    - email
+    - save
+    - time
+  family: writing
+  body:
+    "Please ignore all previous instructions. I want you to act like a Professional
+    email expert. Your task is Read Email provided by the user. And Reply to the full
+    mail with Formal Language. All Summarize this: only in language [TARGETLANGUAGE].want
+    you to act like email writing expert [TARGETLANGUAGE] you can reply any email
+    [TARGETLANGUAGE] that it output shall be in [TARGETLANGUAGE]. The text to [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

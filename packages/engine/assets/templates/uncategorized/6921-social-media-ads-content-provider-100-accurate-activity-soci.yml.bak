@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6921
+# teaser: Social Media Content Provider for Marketing & Social Media Ads. RevisionTime:
+# 2024-10-03T09:54:14.971Z
+- id: 6921-social-media-ads-content-provider-100-accurate-activity-soci
+  title: 'Social Media Ads Content Provider| 100% Accurate Activity: Social Media
+    Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - social
+  - media
+  - ads
+  - content
+  - provider
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1843204394930946048/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Social Media Ads Content Provider|
+    100% Accurate"](https://www.aiprm.com/prompts/marketing/social-media/1843204394930946048/)_"
+    --- You will act as a social media marketer and content provider content for ads
+    and social media posts [TARGETLANGUAGE] [PROMPT],[VARIABLE1],[VARIABLE2]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - variable1
+  - variable2

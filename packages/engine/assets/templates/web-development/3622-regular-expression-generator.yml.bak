@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3622
+# teaser: Create regular expression for a topic in any language
+- id: 3622-regular-expression-generator
+  title: Regular expression generator
+  tags:
+  - web-development
+  - regular
+  - expression
+  - generator
+  family: Web Development
+  body: As a web developer with 20 years experienced, give me a regular expression
+    for [PROMPT] and an usage example of it. Write me the code first then explain
+    it with 2 sentences. Write in [TARGETLANGUAGE].
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

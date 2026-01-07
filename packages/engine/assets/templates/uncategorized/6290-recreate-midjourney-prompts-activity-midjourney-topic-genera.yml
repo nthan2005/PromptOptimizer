@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6290
+# teaser: Enter a Midjourney prompt, and disassemble and reconstruct a new prompt. RevisionTime:
+# 2023-08-10T08:13:56.206Z
+- id: 6290-recreate-midjourney-prompts-activity-midjourney-topic-genera
+  title: "Recreate Midjourney prompts Activity: Midjourney Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - recreate
+    - midjourney
+    - prompts
+    - activity
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Recreate Midjourney prompts"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Here are your three tasks: 1.Break [PROMPT] into json key-value pairs. 2.Change
+    all the values to something new. Keep the keys the same. 3.Write out the values
+    as a comma-separated sentence. [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7457
+# teaser: Get an answer without AI's hallucination (a confident response not justified by AI's
+# training data) RevisionTime: 2023-02-19T15:35:19Z
+- id: 7457-get-an-answer-without-ai-s-hallucination-activity-respond-to
+  title: 'Get an answer without AI''s hallucination Activity: Respond Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - answer
+  - without
+  - hallucination
+  - activity
+  - respond
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1789868704406958080/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Get an answer without AI''s hallucination"](https://www.aiprm.com/prompts/productivity/respond/1789868704406958080/)_"
+    --- Answer the question as truthfully as possible in [TARGETLANGUAGE], and if
+    you''re unsure of the answer, say "Sorry, I don''t know". Q: [PROMPT] A:'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

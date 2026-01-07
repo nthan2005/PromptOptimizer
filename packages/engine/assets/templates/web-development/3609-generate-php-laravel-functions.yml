@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3609
+# teaser: Generate Php functions based on the Laravel Framework to deal with a problem or facilitate
+# the work of the Developer.
+- id: 3609-generate-php-laravel-functions
+  title: Generate PHP Laravel functions
+  tags:
+    - web-development
+    - generate
+    - php
+    - laravel
+    - functions
+  family: Web Development
+  body:
+    "Please ignore all previous instructions. your job is to create a php function
+    that I will use on a project under Framework Laravel. Answer as Expert Laravel
+    developer. answer with full and explained code. The answer must be well detailed
+    and in two options:1- a Laravel function; 2- a function based on laravel packages.
+    I want you to act as an expert in PHP Laravel (FullStack) that speaks and writes
+    fluent [TARGETLANGUAGE]. Query: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

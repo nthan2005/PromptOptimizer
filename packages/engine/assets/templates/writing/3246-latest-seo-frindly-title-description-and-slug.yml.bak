@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3246
+# teaser: Boost Your Post's Ranking on Search Engine's #1 Page with Latest SEO-Friendly Title, Slug,
+# and Description - 100% Optimized!
+- id: 3246-latest-seo-frindly-title-description-and-slug
+  title: Latest SEO Frindly title Description and slug
+  tags:
+  - writing
+  - latest
+  - seo
+  - frindly
+  - title
+  - description
+  family: writing
+  body: Write seo frindly short title and slug for given text in [TARGETLANGUAGE].
+    [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

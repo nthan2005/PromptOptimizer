@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1663
+# teaser: Get a highly detailed Midjourney Prompt (complete with lightning and atmosphere) from just
+# YOUR [KEYWORD]. Upvote this prompt if you like it, so I can make more in the near future!
+- id: 1663-highly-detailed-midjourney-prompt
+  title: Highly detailed Midjourney Prompt
+  tags:
+    - midjourney
+    - highly
+    - detailed
+    - prompt
+  family: Midjourney
+  body:
+    'Create an "imagine prompt" with a word count limit of 100 words for the AI-based
+    text-to-image program MidJourney using the following parameters: /imagine'
+  enabled: true
+  required: []

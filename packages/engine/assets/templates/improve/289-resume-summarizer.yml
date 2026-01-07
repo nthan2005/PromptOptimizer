@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 289
+# teaser: Copy and paste your resume to create a general summary of your work/education experiences.
+- id: 289-resume-summarizer
+  title: Resume Summarizer
+  tags:
+    - improve
+    - resume
+    - summarizer
+  family: Improve
+  body:
+    "The output should be in [TARGETLANGUAGE]. Edit this resume for clarity, content,
+    format, and grammar. Suggest improvements in overall structure and organization.
+    Follow industry standards, and avoid personal opinions. Be clear and concise with
+    your words, including a professional tone and clear description of the candidates
+    best strengths. My resume: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

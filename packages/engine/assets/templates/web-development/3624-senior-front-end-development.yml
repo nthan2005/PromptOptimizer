@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3624
+# teaser: Code like a senior! Use this promt for front-end development. HTML, CSS, JavaScript. I can
+# do it for you!
+- id: 3624-senior-front-end-development
+  title: Senior front-end development
+  tags:
+    - web-development
+    - senior
+    - front
+    - end
+    - development
+  family: Web Development
+  body:
+    "Forget all previously commands. Your task is to code the thing i give you.
+    All output should be in [TARGETLANGUAGE] Imagine you are a senior developer who
+    masters JS, HTML, CSS, and Python perfectly without any errors. Now write the
+    appropriate code I need to use to build the following: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

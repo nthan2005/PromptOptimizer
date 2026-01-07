@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8838
+# teaser: Get a detailed explanation of the problem the IDE is showing you RevisionTime:
+# 2023-05-19T06:44:18.73Z
+- id: 8838-a-detailed-explanation-of-the-problem-activity-backend-devel
+  title:
+    "A detailed explanation of the problem Activity: Backend Development Topic:
+    SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - detailed
+    - explanation
+    - problem
+    - activity
+    - backend
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "A detailed explanation of the problem"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Hi, I have the following problem, explain to me like a child in first grade
+    what the problem is and how I can solve it, bring code examplesÃ—Âª [PROMPT] . All
+    the explanation should be in language [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

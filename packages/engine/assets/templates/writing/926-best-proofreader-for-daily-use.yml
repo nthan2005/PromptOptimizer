@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 926
+# teaser: Make your article perfect by correcting errors in spelling, grammar, punctuation, syntax,
+# formatting and etc.
+- id: 926-best-proofreader-for-daily-use
+  title: Best Proofreader for Daily Use
+  tags:
+    - writing
+    - proofreader
+    - daily
+    - use
+  family: writing
+  body:
+    Proofread this article and show where you did change. All output should be
+    in [TARGETLANGUAGE]. Here is the article. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

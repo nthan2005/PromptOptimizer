@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2101
+# teaser: Create click-worthy SEO titles for your blog posts. Give an example of a working title.
+- id: 2101-click-worthy-blog-titles
+  title: Click-Worthy Blog Titles
+  tags:
+    - writing
+    - click
+    - worthy
+    - blog
+    - titles
+  family: writing
+  body:
+    Write 9 click-worthy titles in [TARGETLANGUAGE] for my blog post on a topic.
+    My working title is [PROMPT].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

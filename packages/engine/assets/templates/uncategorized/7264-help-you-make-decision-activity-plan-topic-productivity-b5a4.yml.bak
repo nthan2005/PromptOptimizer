@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7264
+# teaser: Create a mind map theory point for you to make a clear decision RevisionTime:
+# 2023-03-10T04:27:10.58Z
+- id: 7264-help-you-make-decision-activity-plan-topic-productivity-b5a4
+  title: 'Help You Make Decision Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - decision
+  - activity
+  - plan
+  - topic
+  - productivity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1799629283073978368/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Help You Make Decision "](https://www.aiprm.com/prompts/productivity/plan/1799629283073978368/)_"
+    --- Use a mind map theory to create a large text mind map about "Should I [PROMPT]"
+    Use emojis and markdown to make it more visual. Don''t use excessive description,
+    but rather keywords. Follow each point with potential gain or loss from the material
+    impact on my life from statistical data. Again use only a few words. Add numbers
+    to each claim. write it in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

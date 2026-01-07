@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8429
+# teaser: 1 Keyword or Title. Articles with Zero Headlines. Using Keywords to illustrate the
+# Paragraph. RevisionTime: 2023-11-07T21:32:38.066Z
+- id: 8429-create-paragraph-without-headings-activity-writing-topic-seo
+  title: 'Create Paragraph Without Headings Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - paragraph
+  - without
+  - headings
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1887442531538190336/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create Paragraph Without Headings"](https://www.aiprm.com/prompts/seo/writing/1887442531538190336/)_"
+    --- 3000 Words Paragraph without Headings. SEO optimized words according to Google.
+    [TARGETLANGUAGE] Write paragraphs. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

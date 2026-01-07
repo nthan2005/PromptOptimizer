@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2951
+# teaser: Create content ideas for [target audience] that would naturally attract backlinks.
+- id: 2951-content-ideas-that-naturally-attract-backlinks
+  title: Content Ideas that naturally attract backlinks
+  tags:
+    - research
+    - content
+    - ideas
+    - that
+    - naturally
+    - attract
+  family: Research
+  body:
+    In [TARGETLANGUAGE], act as Senior SEO consultant. Give me content ideas for
+    a [PROMPT] that naturally would attract backlinks.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9175
+# teaser: Create a race setup for any track on the F1 2022 game. You can play with it and tell him to
+# make it more agressive, more stable, etc... RevisionTime: 2023-04-05T13:28:56.511Z
+- id: 9175-f1-2022-track-setup-assistant-activity-unsure-topic-unsure-f
+  title: "F1 2022 Track Setup Assistant Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - "2022"
+    - track
+    - setup
+    - assistant
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "F1 2022 Track Setup Assistant"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Donne moi le meilleur setup pour le jeu F1 2022 sur le circuit [PROMPT] Please
+    write in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

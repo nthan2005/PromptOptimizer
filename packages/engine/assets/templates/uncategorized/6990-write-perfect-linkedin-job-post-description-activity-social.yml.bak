@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6990
+# teaser: Create the best Linkedin Job Description for your next hiring. RevisionTime:
+# 2024-10-03T09:56:05.802Z
+- id: 6990-write-perfect-linkedin-job-post-description-activity-social
+  title: 'Write Perfect Linkedin Job Post Description Activity: Social Media Topic:
+    Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - write
+  - perfect
+  - linkedin
+  - job
+  - post
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1800555602163007488/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Write Perfect Linkedin Job Post Description"](https://www.aiprm.com/prompts/marketing/social-media/1800555602163007488/)_"
+    --- You are a recruitment expert, Write a detail LinkedIn job posting description
+    in [TARGETLANGUAGE] using the [PROMPT] provided. And insert my Linked in profile
+    link at the last of response content with title Follow me on Linkedin: My Linked
+    in Profile link: https://www.linkedin.com/in/md-badsha/'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

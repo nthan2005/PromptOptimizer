@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7833
+# teaser: Write an Sentence for the [KEYWORD] as a 5 years old child. RevisionTime:
+# 2023-03-03T13:00:49.441Z
+- id: 7833-writen-5years-old-child-activity-ideation-topic-seo-84c5d6a7
+  title: "writen 5years old child Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - writen
+    - 5years
+    - old
+    - child
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "writen 5years old child"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Schreibt einen Text ÃƒÂ¼ber ein [PROMPT] aus der Sicht eines Senior SEO Managers.
+    Schreibe die Ausgabe in der Sprache [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

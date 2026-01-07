@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 215
+# teaser: Create Taboo cards to make others guess a biblical topic
+- id: 215-carte-taboo-bible
+  title: Carte Taboo Bible
+  tags:
+    - games
+    - carte
+    - taboo
+    - bible
+  family: Games
+  body:
+    '[TARGETLANGUAGE] [PROMPT] "Generates a card to guess a biblical subject without
+    using a list of words that characterize this subject. The card must contain the
+    name of the subject to be guessed as well as three clues that will help players
+    guess it without using forbidden words. Clues should be relevant and specific,
+    but should not contain words that are directly related to the topic.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

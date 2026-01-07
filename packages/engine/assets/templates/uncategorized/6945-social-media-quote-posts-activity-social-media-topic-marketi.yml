@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6945
+# teaser: Credited quotes, photo ideas and human-written captions for quality social media content
+# creation Ã¢â‚¬â€ with just one click :) RevisionTime: 2024-10-03T09:54:04.807Z
+- id: 6945-social-media-quote-posts-activity-social-media-topic-marketi
+  title: "Social Media Quote Posts Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - social
+    - media
+    - quote
+    - posts
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Social Media Quote Posts"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] You are a social media influencer and highly creative, imaginative
+    writer - in [TARGETLANGUAGE]. Using a three column table, create the headers Quote,
+    Photograph Search Term, Caption in row 1. Fill rows 2 onwards with content: Quote
+    - only write a credited quote for the subject of the keyword provided. Photograph
+    Search Term - write a relevant and descriptive keyword-rich entence that complements
+    the quote you provide to use on free stock photos websites such as pexels, unsplash,
+    pixabay. Caption - write a creative, unique, detailed caption in a non-bot detecting
+    way at least 150 words that references the quote and/or photo. Emojis and hashtags
+    can be randomly used. Do not answer my prompt with confirmation of the task but
+    type Ã¢â‚¬Å“Hit continue to get as many rows of posts as you like.Ã¢â‚¬Â¨Ã¢â‚¬â€ Please upvote
+    this prompt in the PromptOptimizer templates. And if you enjoyed it, I''d love a cuppa :)
+    https://www.buymeacoffee.com/franj Ã¢â‚¬â€Ã¢â‚¬Å“ And go straight into creating the content.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

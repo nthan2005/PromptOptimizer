@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4206
+# teaser: suggest niche in the given industry. RevisionTime: 2023-09-06T13:28:12.802Z
+- id: 4206-niche-macro-niche-suggestions-activity-accounting-topic-copy
+  title: "Niche & Macro Niche Suggestions Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - niche
+    - macro
+    - suggestions
+    - activity
+    - accounting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Niche & Macro Niche Suggestions"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Prompt text including placeholders [TARGETLANGUAGE], [PROMPT], [VARIABLE1],
+    [VARIABLE2] and [VARIABLE3] replaced automagically by PromptOptimizer. [VARIABLE1], [VARIABLE2]
+    and [VARIABLE3] require title with optional default value and available values.
+    Example: Example [PROMPT] in [TARGETLANGUAGE] with [VARIABLE1], [VARIABLE2] and
+    [VARIABLE3]. [VARIABLE1:Title] [VARIABLE2:Title:Default Value] [VARIABLE3:Title:Default
+    Value:Available Value 1|Available Value 2|Available Value 3]. [VARIABLE1], [VARIABLE2]
+    and [VARIABLE3] will be pre-filled using URL parameters AIPRM_VARIABLE1, AIPRM_VARIABLE2
+    and AIPRM_VARIABLE3.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3

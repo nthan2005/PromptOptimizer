@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6089
+# teaser: life, success, destiny, self development, self esteem, RevisionTime:
+# 2023-08-08T19:41:09.883Z
+- id: 6089-your-life-your-success-activity-writing-topic-copywriting-00
+  title: "Your life your success Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - life
+    - success
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Your life your success"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- write this book in 1,000 words. All outputs should be in the [TARGETLANGUAGE].
+    The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

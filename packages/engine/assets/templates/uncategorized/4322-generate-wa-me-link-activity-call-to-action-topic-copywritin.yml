@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4322
+# teaser: Make wa.me Link RevisionTime: 2024-12-11T10:12:31.717Z
+- id: 4322-generate-wa-me-link-activity-call-to-action-topic-copywritin
+  title: "Generate Wa.me link Activity: call to action Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - generate
+    - link
+    - activity
+    - call
+    - action
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate Wa.me link"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Generate wa.me link for services page example link"https://wa.me/+97477951817?text=I%20am%20interested%20in%20Vinyl%20Flooring%20Services.%20Can%20we%20discuss%20this%20further%3F"
+    i just provide the service name you will make the link. and change the service
+    name and number [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

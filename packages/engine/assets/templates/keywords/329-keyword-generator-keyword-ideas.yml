@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 329
+# teaser: Keyword generator that will give you a list of keyword ideas based on one keyword + search
+# volume and title ideas
+- id: 329-keyword-generator-keyword-ideas
+  title: Keyword generator | Keyword ideas
+  tags:
+    - keywords
+    - keyword
+    - generator
+    - ideas
+  family: keywords
+  body:
+    Use [PROMPT] and generate 10 keyword ideas based on [PROMPT]. Also show the
+    search volumes and give a suggestion for a potential page title based on that
+    [KEYWORD] Results shall be in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage

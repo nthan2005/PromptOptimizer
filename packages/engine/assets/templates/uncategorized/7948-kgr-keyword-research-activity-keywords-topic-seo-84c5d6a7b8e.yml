@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7948
+# teaser: Perform comprehensive keyword research using KGR RevisionTime: 2023-06-23T08:09:04.538Z
+- id: 7948-kgr-keyword-research-activity-keywords-topic-seo-84c5d6a7b8e
+  title: "KGR Keyword Research Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - kgr
+    - keyword
+    - research
+    - activity
+    - keywords
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "KGR Keyword Research"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Perform comprehensive keyword research using KGR (Keyword Golden Ratio) in
+    [TARGETLANGUAGE]to identify untapped opportunities and high-potential keywords
+    in your niche. Explore the power of KGR to discover low-competition keywords with
+    a high search volume that can help boost your website''s organic traffic and rankings.
+    Develop a detailed report showcasing the top KGR keywords, their search volume,
+    competition level, and potential for driving targeted traffic to your website.
+    Use this valuable keyword research to optimize your content strategy, improve
+    SEO efforts, and dominate your niche.: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

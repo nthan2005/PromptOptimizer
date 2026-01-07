@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1796
+# teaser: Find the perfect domain for your website by choosing a niche.
+- id: 1796-domain-name-recommended-master
+  title: Domain name Recommended Master
+  tags:
+    - marketing
+    - domain
+    - name
+    - recommended
+    - master
+  family: marketing
+  body:
+    "Write a horizontal table, [TARGETLANGUAGE], with columns that have the specific
+    niche of: [PROMPT] , and in each column you write 10 trending domains available."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

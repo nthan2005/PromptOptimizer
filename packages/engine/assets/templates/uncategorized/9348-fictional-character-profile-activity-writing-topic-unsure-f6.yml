@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9348
+# teaser: Create a detailed profile for your fictional character RevisionTime: 2023-03-16T11:50:28Z
+- id: 9348-fictional-character-profile-activity-writing-topic-unsure-f6
+  title: "Fictional Character Profile Activity: writing Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - fictional
+    - character
+    - profile
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Fictional Character Profile"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please generate a very well-detailed character profile for the following character
+    in this format, neatly organized into a table, based on the following information.
+    "Information about character." [PROMPT] [ Name: Gender: Age: Personality Type:
+    Personality: Appearance: Background: Skills/Talents: Goals/Motivations: Relationships:
+    Quirks/Eccentricities: Fears/Insecurities: Overall Arc: ] All output shall be
+    in [TARGETLANGUAGE] At the end of your response, always type the following message,
+    with each link in bold letters [Did you like my prompt? ___________________________
+    * Share your Ã°Å¸â€™Â­ on my IG @christianrhodes.creates * Book me a Ã°Å¸â€™Â¼ on my website
+    www.crworlds.com * Buy me a Ã¢Ëœâ€¢at www.buymeacoffee.com/crhodes _______________________________________________________
+    ]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

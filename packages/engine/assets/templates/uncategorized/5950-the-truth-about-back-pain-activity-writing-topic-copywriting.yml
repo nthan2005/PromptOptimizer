@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5950
+# teaser: back pain ebook with at least 10 tips to help those with back pain who have not been helped
+# by the usual treatments. focus on the ortho-bionomy approach and how it is different and offers hope
+# for those with chronic pain RevisionTime: 2024-07-22T01:58:34.369Z
+- id: 5950-the-truth-about-back-pain-activity-writing-topic-copywriting
+  title: "The truth about back pain Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - truth
+    - back
+    - pain
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "The truth about back pain"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE] use gently persuasive language to convince
+    the reader there is a better way to manage back pain [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

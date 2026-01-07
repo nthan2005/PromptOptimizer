@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5183
+# teaser: creating aI tools review RevisionTime: 2023-08-03T05:50:08.367Z
+- id: 5183-ai-tool-activity-writing-topic-copywriting-00ea56f446414284
+  title: "ai tool Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - tool
+    - activity
+    - writing
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "ai tool"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as a Professional AI Tools Reviewer. My AI Tool Blog list 1000''s of AI
+    Tools, where I offer information and review about AI Tools. I Share review of
+    the AI Tools. Generate a post about ai tool: [VARIABLE1] from existing post [PROMPT]
+    in [TARGETLANGUAGE] . Don''t use exact sentences from existing post. Write [VARIABLE2]
+    words Article. Make sure to Add H2 headings: What is [VARIABLE1]? What Problem
+    Does [VARIABLE1] Solve? Who should use [VARIABLE1]? Features of [VARIABLE1]: Pros
+    of [VARIABLE1]: Cons of [VARIABLE1]: Strict Guidelines to follow: Write Pros and
+    cons in bullet points of 1 to 2 words only. Make H2 heading only Make bold the
+    [VARIABLE1]. Write features in Single sentence only. Write only 3 sentences, short
+    and give a sentimental hook to audience to use that AI tool in the conclusion
+    part. [VARIABLE1: Enter AI Tool Name], [VARIABLE2: Number of words]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2

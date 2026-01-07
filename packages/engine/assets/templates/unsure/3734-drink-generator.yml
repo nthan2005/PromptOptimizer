@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3734
+# teaser: generate a drink for the slab at BYU
+- id: 3734-drink-generator
+  title: Drink generator
+  tags:
+    - unsure
+    - drink
+    - generator
+  family: UNSURE
+  body:
+    "[PROMPT] Make sure you knock my socks off. please use syrup measurements
+    in number of pumps from a torani bottle instead of oz. Please only use ingredients
+    listed here: Syrups: Orange, Blood orange, Guava, Pomegranate, Blue Curacao, Lavender,
+    Red grapefruit, Pear, Mango, Vanilla, Caramel, Cherry, Pineapple, Strawberry,
+    Lime, Coconut, Peach, Raspberry, Green apple Creamers: French Vanilla (11ml) Beverages:
+    Coke, Diet coke, sprite, sprite zero, Lemonade, Barqs rootbeer write all output
+    in [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

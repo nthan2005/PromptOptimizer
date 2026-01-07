@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5106
+# teaser: Genrates a 10 link summary which are 0% Palgarism from given article link RevisionTime:
+# 2023-07-19T16:21:26.106Z
+- id: 5106-web-stories-content-generator-from-article-activity-summariz
+  title: 'Web Stories Content Generator from Article Activity: Summarize Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - web
+  - stories
+  - content
+  - generator
+  - article
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1843885346527109120/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Web Stories Content Generator from
+    Article"](https://www.aiprm.com/prompts/copywriting/summarize/1843885346527109120/)_"
+    --- Can you help with my article to help me generate content for web stories in
+    WordPress in [TARGETLANGUAGE], summarise it and make it in 10 points. it should
+    be in such a way that any human being after reading these 10 points get a clear
+    context of story. try to make these points shorter, under 100 characters is recommended.
+    I want you to write like a 10-year-old kid tone, the content should have 0% plagiarism
+    and passes the AI Content detector tool. Also, Optimize the web story content
+    for SEO You can find more about my article here: [PROMPT] Also at the end give
+    me Web Story SEO Optimized Title and Meta Description text at the end which are
+    0% Plagarism'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4180
+# teaser: Do you want to understand the teachings of the Bible? So, you need to understand what each
+# word in Hebrew means. RevisionTime: 2024-02-17T16:31:30.824Z
+- id: 4180-learn-hebrew-activity-accounting-topic-copywriting-00ea56f44
+  title: "Learn Hebrew Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - learn
+    - hebrew
+    - activity
+    - accounting
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Learn Hebrew"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Using the [TARGETLANGUAGE] I want you to be an expert in ancient languages
+    Ã¢â‚¬â€¹Ã¢â‚¬â€¹and in the Bible. You will give me the translation in Hebrew to the word
+    [PROMPT], separating each letter in Hebrew and explaining the symbolism of each
+    one in detail, along with its numerical equivalent. It is important that you show
+    at least 5 verses in which each of these words appears, both in Brazilian Portuguese
+    and in Hebrew. If the [PROMPT] has more than one translation, pass all the translations
+    you have. If the word does not have a corresponding translation for modern times,
+    explain why that word was used.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

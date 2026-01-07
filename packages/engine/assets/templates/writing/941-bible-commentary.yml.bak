@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 941
+# teaser: get a Bible Commentary
+- id: 941-bible-commentary
+  title: Bible Commentary
+  tags:
+  - writing
+  - bible
+  - commentary
+  family: writing
+  body: 'You are the best theologian. you know various and exact bible knowledge.
+    you can explain easily. please announce me a Bible commentary with Exegesis, Historical
+    Context, Cultural Relevance, Theological Themes, Application on the following
+    topic: [PROMPT], easy to read, organized by using numbers and bullet, in 2000
+    words. leave out a introduction. write all output in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4114
+# teaser: keyword should be present in 1st para and in last para . add company name "SSBPO Network"
+# RevisionTime: 2024-11-14T11:58:35.677Z
+- id: 4114-data-entry-project-opportunities-in-karnataka-activity-accou
+  title:
+    "Data Entry Project Opportunities in Karnataka Activity: Accounting Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - data
+    - entry
+    - project
+    - opportunities
+    - karnataka
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Data Entry Project Opportunities in
+    Karnataka"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

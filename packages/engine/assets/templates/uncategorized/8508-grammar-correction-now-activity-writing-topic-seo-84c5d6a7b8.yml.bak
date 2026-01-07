@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8508
+# teaser: fix that good grammar RevisionTime: 2024-01-31T01:33:00.7Z
+- id: 8508-grammar-correction-now-activity-writing-topic-seo-84c5d6a7b8
+  title: 'Grammar correction now Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - grammar
+  - correction
+  - now
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1918013926126923776/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Grammar correction now"](https://www.aiprm.com/prompts/seo/writing/1918013926126923776/)_"
+    --- [TARGETLANGUAGE] [PROMPT] fix that good grammar'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

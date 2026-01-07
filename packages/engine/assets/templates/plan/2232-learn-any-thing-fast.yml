@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2232
+# teaser: I want to learn how to code in python
+- id: 2232-learn-any-thing-fast
+  title: Learn Any thing fast
+  tags:
+    - plan
+    - learn
+    - any
+    - thing
+    - fast
+  family: Plan
+  body:
+    Your task is to create a learning plan for a course or a skill using the pareto
+    principle, which identifies the 20% of the topic that will yield 80% of the desired
+    results. All output shall be in [TARGETLANGUAGE]. The Learning plan you have to
+    make [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

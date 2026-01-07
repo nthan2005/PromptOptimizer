@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9142
+# teaser: Course Builder RevisionTime: 2023-06-12T17:21:26.847Z
+- id: 9142-course-builder-elearning-activity-unsure-topic-unsure-f69c57
+  title: 'Course Builder Elearning Activity: UNSURE Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - course
+  - builder
+  - elearning
+  - activity
+  - unsure
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1833888594147418112/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Course Builder Elearning"](https://www.aiprm.com/prompts/unsure/unsure/1833888594147418112/)_"
+    --- [TARGETLANGUAGE]Create the syllabus for a Moodle course on [PROMPT]. The course
+    should be divided into modules and units, which should be highlighted in Markdown.
+    Additionally, For each unit, you should suggest assessments and tests that help
+    reinforce knowledge in h5p.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

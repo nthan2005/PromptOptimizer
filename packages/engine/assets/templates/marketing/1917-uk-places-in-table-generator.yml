@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1917
+# teaser: [UK places]
+- id: 1917-uk-places-in-table-generator
+  title: UK Places in Table Generator
+  tags:
+    - marketing
+    - places
+    - table
+    - generator
+  family: marketing
+  body:
+    Your task is to produce the postcodes and local area phone numbers for this
+    list of UK places. The places are [PROMPT]. Please output in [TARGETLANGUAGE]
+    and the results as a table starting with a number column.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

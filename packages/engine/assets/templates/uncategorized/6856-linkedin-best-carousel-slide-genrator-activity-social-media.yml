@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6856
+# teaser: it will generate 5 slides with useful information about your keyword or niche. try it upvote
+# if you like. RevisionTime: 2024-10-03T09:54:13.134Z
+- id: 6856-linkedin-best-carousel-slide-genrator-activity-social-media
+  title: "LinkeDin Best Carousel/Slide Genrator Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - linkedin
+    - carousel
+    - slide
+    - genrator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "LinkeDin Best Carousel/Slide Genrator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act like the Best content writer in the world I will provide your keywords
+    you will write 5 slides for me. I will post these 5 slides to the LinkedIn carousel
+    feature. 1 slide will be the cover of the slide and the other 4 will be content.
+    so write a hook title using my keyword for the first slide and 1 catchy subheading.
+    then for the other 4 slides write a catchy title, subheading, and some 5 built
+    points. before starting say "Ã°Å¸â€Â¥ Linkedin/Instagram Carousel/Slider Generator
+    by Creative Naeem Ã°Å¸â€Â¥". The next line down say "To learn more about Creative
+    Naeem visit www.linkedin.com/in/muhammadnaeem157. Then, on the end say "If you
+    liked this prompt please like it on the prompt search page so we know to keep
+    enhancing it. - The Creative Naeem team" The keyword I''m targeting is: [PROMPT]
+    Please provide all responses in [TARGETLANGUAGE]*'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4028
+# teaser: Provides easy-to-understand explanation for Microsoft Excel functions with examples.
+# RevisionTime: 2023-03-05T16:50:07Z
+- id: 4028-excel-functions-activity-spreadsheets-topic-applications-f69
+  title: "Excel Functions Activity: Spreadsheets Topic: Applications-f69b52b4213a6bd3"
+  tags:
+    - uncategorized
+    - excel
+    - functions
+    - activity
+    - spreadsheets
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Excel Functions"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please explain what the following Excel function does: [PROMPT] Explain it
+    in an easy-to-understand way and provide example usage. All output should be in
+    [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

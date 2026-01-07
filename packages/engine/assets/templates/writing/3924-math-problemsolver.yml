@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3924
+# teaser: I calculate's math problem's for you, il even provide a calculation for the problem
+- id: 3924-math-problemsolver
+  title: Math problemsolver
+  tags:
+    - writing
+    - math
+    - problemsolver
+  family: writing
+  body:
+    'calculate these math problems for me. first write down what you did to calculate
+    the answer to the math problem in short. then write down the answer of the math
+    problem. some important things:" 5/4 == fracture 4^2 == times square ". write
+    in this format:" - math problem - simplified: "(how you calculated the answer)".
+    - answer: "(answer of the math problem)". write in this langue: "[TARGETLANGUAGE]".
+    solve these math problem''s: " [PROMPT] " "'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 333
+# teaser: Create a lot of hashtags of a movie!
+- id: 333-movie-hashtag-maker
+  title: Movie Hashtag maker
+  tags:
+    - keywords
+    - movie
+    - hashtag
+    - maker
+  family: keywords
+  body:
+    "Q: Make as much as hashtags in english, for any sns. according to the synopsis
+    of titanic (movie) A: #Titanic #RoseAndJack #UnsinkableLove #SOS #IcebergAhead
+    #HeartOfTheOcean #NeverLetGo #TragicRomance #ShipwreckSurvivor #EpicLoveStory
+    #CelineDion #MyHeartWillGoOn #LeoAndKate #RoseDeWittBukater #JackDawson #RoseCalvert
+    #IJumpYouJump #WomenAndChildrenFirst #CaptainSmith #WhiteStarLine #OceanLinertitanic
+    #NationalGeographic #JamesCameron #AcademyAwards #BestPicture #HistoricalFiction
+    #DramaFilm #Blockbuster #CultClassic --- Q:Make as much as hashtags in [TARGETLANGUAGE],
+    for any sns. according to the synopsis of [PROMPT] (movie) A:"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

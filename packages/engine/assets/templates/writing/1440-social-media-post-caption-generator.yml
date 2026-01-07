@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1440
+# teaser: SOCIAL MEDIA CAPTION GENERATOR - Just write the brief of what you want to talk about and
+# expand on GPTs answers to adjust to your needs.
+- id: 1440-social-media-post-caption-generator
+  title: Social Media - Post Caption Generator
+  tags:
+    - writing
+    - social
+    - media
+    - post
+    - caption
+    - generator
+  family: writing
+  body:
+    "Your task is to write a social media post in a friendly tone and with an
+    informative writing style in [TARGETLANGUAGE]. Write the post talking about what
+    mentioned in the following brief without using the same exact words: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

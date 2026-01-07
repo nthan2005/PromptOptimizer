@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7973
+# teaser: Create a list of Semantic, LSI, and NLP [Keywords] for On-page optimisation based on output
+# data from Search Console for a landing page. RevisionTime: 2023-02-19T15:35:19Z
+- id: 7973-on-page-optimisation-keywords-activity-keywords-topic-seo-84
+  title: "On-page Optimisation Keywords Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - page
+    - optimisation
+    - keywords
+    - activity
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "On-page Optimisation Keywords"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please ignore all previous queries. All Output should be in [TARGETLANGUAGE]
+    and also in separate bulleted lists. Pretend that you are a SEO Expert and study
+    this list of [PROMPT], and output a compact list of Semantic, LSI and NLP Keywords
+    from that list to optimize a landing page for those keywords.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

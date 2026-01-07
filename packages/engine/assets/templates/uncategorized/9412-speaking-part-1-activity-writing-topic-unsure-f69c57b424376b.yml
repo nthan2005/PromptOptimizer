@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9412
+# teaser: give me 10 possible answer to the question. RevisionTime: 2024-07-22T18:45:56.735Z
+- id: 9412-speaking-part-1-activity-writing-topic-unsure-f69c57b424376b
+  title: "Speaking Part 1 Activity: writing Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - speaking
+    - part
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Speaking Part 1"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to give 7 sample answers to the question I give you. consider
+    that it is an IELTS speaking sample question from part one, therefore your answers
+    should not be too long. if the question can be answered from different points
+    of view take it into consideration. all the answers should be in [TARGETLANGUAGE]
+    the question to answer is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

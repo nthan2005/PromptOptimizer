@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 227
+# teaser: A Reader
+- id: 227-reading
+  title: Reading
+  tags:
+    - games
+    - reading
+  family: Games
+  body:
+    "[TARGETLANGUAGE] of [PROMPT] and [DATEOFBIRTH], [FIRSTNAME] and [LASTNAME]
+    will be pre-filled using URL parameters AIPRM_VARIABLE1, AIPRM_VARIABLE2 and AIPRM_VARIABLE3."
+  enabled: true
+  required:
+    - dateofbirth
+    - firstname
+    - lastname
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8354
+# teaser: Create best Article for website with just one Keyword. If you like the result then please
+# press like button. RevisionTime: 2023-12-23T06:16:54.081Z
+- id: 8354-best-article-writing-activity-writing-topic-seo-84c5d6a7b8e9
+  title: "Best Article Writing Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - article
+    - writing
+    - activity
+    - topic
+    - seo
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best Article Writing"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write best seo Friendly Title and Article on [PROMPT] 1500 words in [TARGETLANGUAGE]
+    and at the end of article write this "If you want to try the best Recipes just
+    visit --> "https://www.bestrecipesdiary.com/"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

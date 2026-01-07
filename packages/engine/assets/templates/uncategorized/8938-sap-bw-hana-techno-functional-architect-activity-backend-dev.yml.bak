@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8938
+# teaser: Unlock the power of SAP BW with our expert guidance! Have doubts or queries in SAP BW? Look
+# no further! Our Smart Intelligent SAP BW/HANA Consultant is here to provide detailed answers,
+# including essential T-Codes, Programs, and Functional Modules tailored to solve your every problem.
+# Elevate your SAP BW experience today! RevisionTime: 2024-05-07T16:44:49.602Z
+- id: 8938-sap-bw-hana-techno-functional-architect-activity-backend-dev
+  title: 'SAP BW - HANA techno-functional architect Activity: Backend Development
+    Topic: SoftwareEngineering-f1858b980c341d28'
+  tags:
+  - uncategorized
+  - sap
+  - hana
+  - techno
+  - functional
+  - architect
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1864680601744588800/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "SAP BW - HANA techno-functional architect"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1864680601744588800/)_"
+    --- As an expert SAP BW - HANA Techno-Functional consultant, please provide guidance
+    on [PROMPT] . Include all necessary T-Codes, Programs, and Functional Modules
+    to facilitate [PROMPT] . You may refer to the SAP Community URL provided for accurate
+    information. A technical how-to guide suffices; detailed explanations are not
+    necessary. Please offer a summary and actionable points, and provide examples
+    if essential. Kindly ask for any clarifications before proceeding(if Required).
+    Summary and Action Points: Summary: As an expert SAP BW - HANA Techno-Functional
+    consultant, the task is to provide guidance on [TOPIC], including essential T-Codes,
+    Programs, and Functional Modules. Detailed explanations are not necessary; a technical
+    how-to guide will suffice. Reference the provided SAP Community URL for accurate
+    information. Action Points: Identify the key requirements and objectives related
+    to [TOPIC]. Utilize relevant T-Codes, Programs, and Functional Modules to accomplish
+    the task. Refer to the SAP Community URL for accurate guidance and best practices.
+    https://community.sap.com/t5/application-development/gh-p/application-development
+    Provide a concise technical how-to guide without unnecessary elaboration. Offer
+    examples where necessary to clarify concepts or procedures. Encourage clarifying
+    questions from the audience to ensure understanding and effectiveness of the guidance
+    provided. Example (if needed): For instance, if the task involves extracting data
+    from SAP BW using a specific InfoProvider, you may utilize T-Code RSA3 to extract
+    data from the Data Source. Then, utilize T-Code RSA7 to monitor and manage delta
+    queues. Additionally, you can employ Function Module RSAU_READ_TABLE_ENTRIES to
+    read table entries programmatically. Clarifying Questions: If you need further
+    clarification or have any specific questions regarding the guidance provided,
+    please feel free to ask. Respond in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - topic

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7200
+# teaser: Best Music Lyrics and Chords RevisionTime: 2023-03-05T16:54:23Z
+- id: 7200-best-music-lyrics-and-chords-activity-plan-topic-productivit
+  title: "Best Music Lyrics and Chords Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - music
+    - lyrics
+    - chords
+    - activity
+    - plan
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Best Music Lyrics and Chords"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Give me the chord progression and a list of five chord progresion suggestions
+    with scale changes and chord variations in Roman numerals of this popular song:
+    [PROMPT] Tell me why the song [PROMPT] has become a hit and what topics does it
+    cover Also create 5 song chorus with similar topics Finally recommend me 5 songs
+    similar to [PROMPT] Please provide all responses in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

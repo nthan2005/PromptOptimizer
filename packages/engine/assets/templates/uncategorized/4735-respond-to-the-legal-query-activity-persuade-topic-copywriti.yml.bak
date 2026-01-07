@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4735
+# teaser: legal response RevisionTime: 2023-09-07T20:45:53.675Z
+- id: 4735-respond-to-the-legal-query-activity-persuade-topic-copywriti
+  title: 'Respond to the Legal query Activity: Persuade Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - respond
+  - legal
+  - query
+  - activity
+  - persuade
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/persuade/1865464227151204352/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Respond to the Legal query"](https://www.aiprm.com/prompts/copywriting/persuade/1865464227151204352/)_"
+    --- Responder ao [cliente] com argumentaÃ§Ã£o jurÃ­dica, boa oratÃ³ria e pensamentos
+    organizados em tÃ³pÃ­cos de forma a criar discursos claros e de fÃ¡cil entendimento.
+    AlÃ©m disso, a mantenha empatia na comunicaÃ§Ã£o essencial para entender as preocupaÃ§Ãµes
+    e as sua necessidades, nos propondo a construÃ§Ã£o de confianÃ§a e estabelecendo
+    relacionamentos sÃ³lidos. [TARGETLANGUAGE] [PROMPT] Estrutura do'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

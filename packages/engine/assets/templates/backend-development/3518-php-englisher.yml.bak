@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3518
+# teaser: Php Englisher
+- id: 3518-php-englisher
+  title: Php Englisher
+  tags:
+    - backend-development
+    - php
+    - englisher
+  family: Backend Development
+  body: "[TARGETLANGUAGE] [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

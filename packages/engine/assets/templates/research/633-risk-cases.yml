@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 633
+# teaser: Risk case, risk management table
+- id: 633-risk-cases
+  title: Risk cases
+  tags:
+    - research
+    - risk
+    - cases
+  family: Research
+  body:
+    I want you to respond only in [TARGETLANGUAGE]. I want you to create a table
+    for possible risk cases about [PROMPT] with risk management table. There must
+    exist columns for Risk event, Description of risk event, potential hazard, potential
+    effects of failure, Probability, severity, Risk level, risk mitigation. For each
+    risk cases, you should generate safety requirements for them below the table you
+    made.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

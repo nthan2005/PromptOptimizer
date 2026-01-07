@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8191
+# teaser: Create an eye catching INTRO for your article RevisionTime: 2023-05-05T14:40:19.675Z
+- id: 8191-introduction-creator-activity-research-topic-seo-84c5d6a7b8e
+  title: 'Introduction Creator Activity: Research Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - introduction
+  - creator
+  - activity
+  - research
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1820077308195893248/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Introduction Creator"](https://www.aiprm.com/prompts/seo/research/1820077308195893248/)_"
+    --- Write me an introduction for the guide on [PROMPT]. Use the focus keyword
+    in the first line. - Don''t make it long. Keep it short. - Tease the reader and
+    hook them so that they want to read the guide - Make it 3 sentences maximum -
+    Keep it concise, crunchy and informal -output must be in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

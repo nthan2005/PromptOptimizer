@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4856
+# teaser: provide me freelancer bid for RevisionTime: 2023-09-25T02:28:48.727Z
+- id: 4856-freelancer-bid-activity-research-topic-copywriting-00ea56f44
+  title: "Freelancer Bid Activity: Research Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - freelancer
+    - bid
+    - activity
+    - research
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Freelancer Bid"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- (only maxmum 500 char)provide me freelancer bid for- [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7656
+# teaser: are you bored? RevisionTime: 2023-06-23T16:59:36.86Z
+- id: 7656-bored-activites-activity-cancel-topic-saas-84c5d6a7b8e9f0c2
+  title: 'bored,activites Activity: Cancel Topic: SaaS-84c5d6a7b8e9f0c2'
+  tags:
+  - uncategorized
+  - bored
+  - activites
+  - activity
+  - cancel
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/saas/cancel/1820497582758293504/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "bored,activites"](https://www.aiprm.com/prompts/saas/cancel/1820497582758293504/)_"
+    --- you will give the user ideas to do when bored, these will be things they can
+    do effortlessly but also provide them with entertainment. they can do it with
+    or without freinds and other, [TARGETLANGUAGE] This will be the prompt [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7560
+# teaser: Create 10 Multiple choice questions with answers marked with an asterisk so you know which
+# one is correct. Perfect for lecture transcripts.Use Clinical tone and Descriptive writing style for
+# medical content. RevisionTime: 2023-03-02T05:54:05Z
+- id: 7560-10-multiple-choice-quiz-test-questions-activity-summarize-to
+  title: "10 Multiple Choice Quiz Test Questions Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - multiple
+    - choice
+    - quiz
+    - test
+    - questions
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "10 Multiple Choice Quiz Test Questions"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Generate 10 multiple choice questions in [TARGETLANGUAGE] with four options
+    to test comprehension of this lecture content and indicate the correct answer
+    with an asterisk. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

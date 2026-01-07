@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5688
+# teaser: Monthly Blog Articles For 2023 RevisionTime: 2023-09-26T04:40:32.227Z
+- id: 5688-monthly-blog-calendar-content-for-2023-activity-writing-topi
+  title: "Monthly Blog Calendar Content For 2023 Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - monthly
+    - blog
+    - calendar
+    - content
+    - "2023"
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Monthly Blog Calendar Content For 2023"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] Create a content publication calendar with monthly creative
+    ideas to cover [PROMPT] for the month of [PROMPT] 2023 Write it in table format.
+    I want to publish 1 blog article every day. Include a recommended word count.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

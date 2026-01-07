@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7441
+# teaser: explain like you are 5 RevisionTime: 2023-05-10T10:58:02.644Z
+- id: 7441-explain-like-you-are-5-activity-respond-topic-productivity-b
+  title: "explain like you are 5 Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - explain
+    - like
+    - activity
+    - respond
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "explain like you are 5"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- explain like im 5 [PROMPT] in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

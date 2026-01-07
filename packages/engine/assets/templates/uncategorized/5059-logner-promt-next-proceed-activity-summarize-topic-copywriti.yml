@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5059
+# teaser: next and proceed RevisionTime: 2023-04-28T17:54:42.935Z
+- id: 5059-logner-promt-next-proceed-activity-summarize-topic-copywriti
+  title: "Logner promt - next + proceed Activity: Summarize Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - logner
+    - promt
+    - next
+    - proceed
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Logner promt - next + proceed"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] ENGLISH [PROMPT] GPT, I would like to ask you a multi-part
+    query. Please respond with "Next" after each input. When I type "PROCEED", generate
+    a response taking into account all the previous parts of the query. Example: User:
+    PART 1: [Enter the first part of the query here] GPT: Next User: PART 2: [Enter
+    the second part of the query here] GPT: Next User: PART 3: [Enter the third part
+    of the query here] GPT: Next ... User: PROCEED GPT: [Response to all previously
+    mentioned parts of the query]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

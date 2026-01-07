@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6548
+# teaser: Response to the following conversation RevisionTime: 2023-04-13T21:55:02.982Z
+- id: 6548-sms-campaign-responses-activity-marketing-topic-marketing-cc
+  title: 'SMS Campaign responses Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - sms
+  - campaign
+  - responses
+  - activity
+  - marketing
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1812201796744249344/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "SMS Campaign responses"](https://www.aiprm.com/prompts/marketing/marketing/1812201796744249344/)_"
+    --- English [TARGETLANGUAGE] I''m Patrick. I buy homes and they might want to
+    sell their property. Be persuasive and provide a 160 character casual follow-up
+    message that is helpful and hopeful that references god to the following ascending
+    conversation: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

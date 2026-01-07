@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1782
+# teaser: Create a helpful customer service message on your Facebook fanpage
+- id: 1782-create-facebook-page-s-set-of-messages
+  title: Create Facebook page's Set of Messages
+  tags:
+    - marketing
+    - facebook
+    - page
+    - set
+    - messages
+  family: marketing
+  body:
+    'Act as the Senior Customer Service Expert, write the set of welcome message,
+    default reply and automated comment''s reply for a fanpage. Write as friendly,
+    helpful and value style. Start writing in order: welcome message (in max 160 characters),
+    default reply (in max 250 characters) and automated comment''s reply for any posts
+    ( in max 300 characters). Start to write with fanpage in category of "[PROMPT]"
+    with [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3816
+# teaser: Make ChatGPT act Senior Developer!
+- id: 3816-senior-developer
+  title: Senior Developer
+  tags:
+  - unsure
+  - senior
+  - developer
+  family: UNSURE
+  body: Hi, i want you act Senior Developer, my first request is [PROMPT], in [TARGETLANGUAGE]
+    language
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

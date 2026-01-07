@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8405
+# teaser: Create a SEO Based content using above details. RevisionTime: 2023-03-03T15:57:06Z
+- id: 8405-content-for-business-activity-writing-topic-seo-84c5d6a7b8e9
+  title: "Content for Business Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - content
+    - business
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Content for Business "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to provide content using business name, service name and area
+    name. You have to use everytime business name and area name in the content using
+    above details of the data provided by me. Write the content in English[TARGETLANGUAGE]
+    OR [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7551
+# teaser: vehicle consumption table: BANJOS RevisionTime: 2023-06-09T15:27:21.147Z
+- id: 7551-vehicle-consumption-table-activity-respond-topic-productivit
+  title: "vehicle consumption table Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - vehicle
+    - consumption
+    - table
+    - activity
+    - respond
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt " vehicle consumption table"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [TARGETLANGUAGE] [PROMPT] descreva em uma tabela o consumo do veiculo pesquisado
+    descreva o consumo em etanol e gasolina na cidade e na estrada... se o veiculo
+    nÃƒÂ£o usa etanol preencha a tabela de etanol apenas em 0 nÃƒÂ£o precisa ser em dados
+    atualizados'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

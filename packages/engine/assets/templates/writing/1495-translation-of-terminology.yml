@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1495
+# teaser: This is a template for requesting accurate translation of English content into [TARGET
+# LANGUAGE]. The template provides relevant requirements, including ensuring the accuracy and fluency
+# of the translation, and understanding the meaning and context of the original text. If encountering
+# professional terminology or fixed phrases, the correct [TARGETLANGUAGE] counterpart must be found to
+# fully retain the information of the original text.
+- id: 1495-translation-of-terminology
+  title: Translation of Terminology
+  tags:
+    - writing
+    - translation
+    - terminology
+  family: writing
+  body:
+    "Please translate the following English content into [TARGETLANGUAGE]. You
+    must ensure accuracy and fluency in the translation, while understanding the meaning
+    and context of the original text. If encountering professional terminology or
+    fixed phrases, please find the correct [TARGETLANGUAGE] counterpart to fully retain
+    the information of the original text.The English content to translate is this:
+    [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

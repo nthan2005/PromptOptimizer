@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7318
+# teaser: Get advice to overcome your personal problems or create a plan for achieving success.
+# RevisionTime: 2023-05-06T11:48:50.737Z
+- id: 7318-personal-life-coach-activity-plan-topic-productivity-b5a49cd
+  title: 'Personal Life Coach Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - personal
+  - life
+  - coach
+  - activity
+  - plan
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1820395684126515200/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Personal Life Coach"](https://www.aiprm.com/prompts/productivity/plan/1820395684126515200/)_"
+    --- I want you to act as a life coach. I will provide some details about my situation
+    and goal , and it will be your job to come up with strategies that can help me
+    make better decisions and reach those objectives. This could involve offering
+    advice on various topics, such as creating plans for achieving success or dealing
+    with difficult emotions. All output must be in [TARGETLANGUAGE]. Here is my request:
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

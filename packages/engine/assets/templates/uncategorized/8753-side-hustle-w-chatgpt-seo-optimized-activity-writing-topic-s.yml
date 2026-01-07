@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8753
+# teaser: Are you looking to start a side hustle? Let ChatGPT help you pick the right industry! Just
+# type in what you're interested in. RevisionTime: 2023-02-25T15:23:08Z
+- id: 8753-side-hustle-w-chatgpt-seo-optimized-activity-writing-topic-s
+  title: "Side hustle w/ ChatGPT | SEO Optimized Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - side
+    - hustle
+    - chatgpt
+    - seo
+    - optimized
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Side hustle w/ ChatGPT | SEO Optimized
+    "](https://github.com/nthan2005/PromptOptimizer)_" --- Your
+    task is to find the best side hustle idea that exists in your database using the
+    key words provided and include 10 additional keywords and hashtags, also summarize
+    each category with SEO optimization to rank at the top of google pages. All output
+    shall be in [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

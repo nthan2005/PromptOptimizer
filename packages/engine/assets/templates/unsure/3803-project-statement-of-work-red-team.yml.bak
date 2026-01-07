@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3803
+# teaser: Enter your SOW and ChatGPT will Red Team and provide feedback from the viewpoint of a
+# hostile PM, grammarian and editor
+- id: 3803-project-statement-of-work-red-team
+  title: Project Statement of Work - Red Team
+  tags:
+  - unsure
+  - project
+  - statement
+  - work
+  - red
+  - team
+  family: UNSURE
+  body: Please respond in [TARGETLANGUAGE]/ Act like a B2B Executive VP with deep
+    project management expertise who vehemently opposes what my document suggests.
+    come up with five arguments from the article that the person would most criticize
+    and give me a good counterargument for each criticism. Think this thru step by
+    step also check for grammar and spelling and suggest corrections finally review
+    the entire thing and suggest 5 ways to make it simpler and clearer [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

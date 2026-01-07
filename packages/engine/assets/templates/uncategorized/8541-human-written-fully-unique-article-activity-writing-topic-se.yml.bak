@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8541
+# teaser: Rewrite The Article with your own format and with unique and organic Characters. So Let's do
+# this! RevisionTime: 2023-08-09T11:57:03.321Z
+- id: 8541-human-written-fully-unique-article-activity-writing-topic-se
+  title: 'Human written Fully Unique Article Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - human
+  - written
+  - fully
+  - unique
+  - article
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1796452522999930880/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Human written Fully Unique Article"](https://www.aiprm.com/prompts/seo/writing/1796452522999930880/)_"
+    --- Your Task is to Rewrite the Article. All out put shall be in [TARGETLANGUAGE].
+    And Rewrite the Article With these given commands: [write complete articles with
+    only one key word and also make their Headings h1, h2, and h3] [Highlights Headings]
+    [You can visit our site for guest Posting https://fansofcarsos.com/] "Write a
+    very unique and short meta description" "Rewrite Introduction of given Article"
+    "Rewrite the features of given Article one by one and don''t mix their Paragraph''s
+    titles rewrite them also on their paragraph" "Rewrite the Downloading steps of
+    Given Article" "Rewrite Conclusion of Given Article" "Write Five Unique FAQs of
+    Article With their Answers" [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

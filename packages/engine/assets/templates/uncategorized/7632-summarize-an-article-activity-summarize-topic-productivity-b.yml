@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7632
+# teaser: Summarize an article using Live Crawling of a URL. Get a summary, top bullet points and
+# statistics. RevisionTime: 2023-11-17T13:17:23.255Z
+- id: 7632-summarize-an-article-activity-summarize-topic-productivity-b
+  title: "Summarize an Article Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - summarize
+    - article
+    - activity
+    - topic
+    - productivity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Summarize an Article"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as an expert journalist and analyze the text from the article below in
+    [TARGETLANGUAGE]: [PROMPT] Ã¢â‚¬Â¢ Start with a short summary of the article. Ã¢â‚¬Â¢Ã‚
+    Add a bulleted list with the 3 most important points in the article. Use markdown
+    and a bulleted list for the top 3 statistics. Use hyphens (-), asterisks (*),
+    or plus signs (+) for bulleted lists, and numbers followed by periods for numbered
+    lists (1., 2., 3.). Do not start the summary with ''this article,'' jump right
+    into the article as if we''ve already read the headline. Refer to the author who
+    wrote the article when appropriate. Use a journalistic tone that''s punch with
+    a varied length of sentences. Do not come off as too formal. [CRAWLEDTEXT]'
+  enabled: true
+  required:
+    - crawledtext
+    - prompt
+    - targetlanguage

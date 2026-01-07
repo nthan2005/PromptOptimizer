@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9248
+# teaser: Enter your SOW and ChatGPT will Red Team and provide feedback from the viewpoint of a
+# hostile PM, grammarian and editor RevisionTime: 2023-05-02T20:46:41.509Z
+- id: 9248-project-statement-of-work-red-team-activity-unsure-topic-uns
+  title: "Project Statement of Work - Red Team Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - project
+    - statement
+    - work
+    - red
+    - team
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Project Statement of Work - Red Team"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please respond in [TARGETLANGUAGE]/ Act like a B2B Executive VP with deep
+    project management expertise who vehemently opposes what my document suggests.
+    come up with five arguments from the article that the person would most criticize
+    and give me a good counterargument for each criticism. Think this thru step by
+    step also check for grammar and spelling and suggest corrections finally review
+    the entire thing and suggest 5 ways to make it simpler and clearer [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6198
+# teaser: ebook in one click RevisionTime: 2023-05-17T00:35:29.731Z
+- id: 6198-kids-activity-dall-e-topic-generative-ai-b983edfcaa490850
+  title: 'kids Activity: Dall-E Topic: Generative-AI-b983edfcaa490850'
+  tags:
+  - uncategorized
+  - kids
+  - activity
+  - dall
+  - topic
+  - generative
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1824213353548214272/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "kids"](https://www.aiprm.com/prompts/generative/dalle/1824213353548214272/)_"
+    --- TEXTO PROMPT [TARGETLANGUAGE] e [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

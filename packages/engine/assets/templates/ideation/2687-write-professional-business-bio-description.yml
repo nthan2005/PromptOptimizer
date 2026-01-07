@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2687
+# teaser: [give business bio description]
+- id: 2687-write-professional-business-bio-description
+  title: Write Professional Business Bio Description
+  tags:
+    - ideation
+    - write
+    - professional
+    - business
+    - bio
+    - description
+  family: ideation
+  body: give 200 words for your business bio [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

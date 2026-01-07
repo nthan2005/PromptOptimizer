@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8384
+# teaser: Write a long-form blog post. RevisionTime: 2023-09-05T12:28:53.803Z
+- id: 8384-blog-generator-activity-writing-topic-seo-84c5d6a7b8e9f0c1
+  title: "Blog Generator Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - blog
+    - generator
+    - activity
+    - writing
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Blog Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write a long-form blog on [PROMPT] in [TARGETLANGUAGE]. Use at least 5 H2
+    headings and 30 H3 subheadings. Use simple language and a mix of short and long
+    sentences. But, avoid overly long sentences. Write in such a way that it builds
+    the readers'' trust and is easily understandable by less educated general public.
+    Consider a good level of perplexity and burstiness for human touch. Write with
+    clarity. There should be no grammatical mistakes. Additionally, the plagiarism
+    should be zero. Also, don''t repeat the same ideas more than once. Do not change
+    the title and section headings. Key Instructions: Use simple language. Zero tolerance
+    for repetition of similar content ideas. Zero tolerance for plagiarism. Zero tolerance
+    for grammatical mistakes. Zero tolerance for punctuation issues. Zero tolerance
+    for unclear sentences.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

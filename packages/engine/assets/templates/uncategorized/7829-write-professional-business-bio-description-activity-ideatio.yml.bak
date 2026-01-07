@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7829
+# teaser: [give business bio description] RevisionTime: 2023-02-28T06:49:01Z
+- id: 7829-write-professional-business-bio-description-activity-ideatio
+  title: 'Write Professional Business Bio Description Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - write
+  - professional
+  - business
+  - bio
+  - description
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1794314273376436224/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Write Professional Business Bio Description"](https://www.aiprm.com/prompts/seo/ideation/1794314273376436224/)_"
+    --- give 200 words for your business bio [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

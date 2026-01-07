@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8487
+# teaser: Generate clickbait SEO article titles RevisionTime: 2023-04-21T09:48:40.312Z
+- id: 8487-generate-clickbait-seo-article-titles-activity-writing-topic
+  title: 'Generate clickbait SEO article titles Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - generate
+  - clickbait
+  - seo
+  - article
+  - titles
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1814930480429264896/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Generate clickbait SEO article titles"](https://www.aiprm.com/prompts/seo/writing/1814930480429264896/)_"
+    --- Generate 5 clickbait title ideas in [TARGETLANGUAGE] for the keyword [PROMPT]
+    and include a power word, a positive or negative sentiment word and a number in
+    the title'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

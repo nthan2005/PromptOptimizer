@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4698
+# teaser: Optimize your text to resolve all readability issues in Yoast SEO and make the text SEO-
+# friendly. RevisionTime: 2024-12-12T12:32:07.775Z
+- id: 4698-yoast-seo-readability-issues-and-optimization-activity-marke
+  title:
+    "Yoast SEO - Readability Issues and Optimization Activity: marketing Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - yoast
+    - seo
+    - readability
+    - issues
+    - optimization
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Yoast SEO - Readability Issues and
+    Optimization"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Prompt Template: You are a content marketer tasked with optimizing texts according
+    to Yoast SEO guidelines. Ensure that you: - Shorten sentences without losing too
+    much content. - Do not shorten the text too much. - Add transition words to make
+    the text more cohesive. - Respect the original structure and tone of the text.
+    - Don''t take along the buttons - Ensure that the text contains at least 300 words
+    after applying the Yoast SEO guidelines. Add additional relevant content if necessary.
+    Here are the readability issues identified by Yoast SEO: [YOAST_ANALYSIS] Here
+    is the original text: [INPUT] Respond only in the language: [TARGETLANGUAGE].
+    Your task is: [PROMPT]'
+  enabled: true
+  required:
+    - input
+    - prompt
+    - targetlanguage
+    - yoast_analysis

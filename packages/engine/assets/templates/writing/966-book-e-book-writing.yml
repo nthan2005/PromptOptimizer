@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 966
+# teaser: Write a book in ABNT for brazilian literature
+- id: 966-book-e-book-writing
+  title: book, e-book, writing
+  tags:
+    - writing
+    - book
+  family: writing
+  body:
+    '"escreva um livro de 50 a 100 pÃƒÆ’Ã‚Â¡ginas sobre o tÃƒÆ’Ã‚Â³pico escolhido, incluindo
+    uma introduÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o, 12 capÃƒÆ’Ã‚Â­tulos, um posfÃƒÆ’Ã‚Â¡cio e uma lista de fontes usando o estilo
+    de citaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o da ABNT write all output in [TARGETLANGUAGE]. Adicione um tÃƒÆ’Ã‚Â­tulo
+    criativo e atraente, humor e informaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Âµes relevantes para envolver e apaixonar
+    o leitor. Escreva 3000 palavras para cada um dos 12 capÃƒÆ’Ã‚Â­tulos e inclua uma descriÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o
+    de imagem para cada capÃƒÆ’Ã‚Â­tulo. Reescreva o livro, aumentando cada capÃƒÆ’Ã‚Â­tulo para
+    pelo menos 4000 palavras de comprimento e adicione sua prÃƒÆ’Ã‚Â³pria pesquisa para
+    aumentar a contundÃƒÆ’Ã‚Âªncia e persuasÃƒÆ’Ã‚Â£o do livro. Para tornÃƒÆ’Ã‚Â¡-lo ainda mais envolvente,
+    insira uma citaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o de escritores famosos no inÃƒÆ’Ã‚Â­cio e ao longo de cada capÃƒÆ’Ã‚Â­tulo,
+    e narre histÃƒÆ’Ã‚Â³rias emocionais sobre a vida de atletas, empresÃƒÆ’Ã‚Â¡rios e figuras
+    histÃƒÆ’Ã‚Â³ricas relacionadas ao assunto abordado, utilizando a estrutura da jornada
+    do herÃƒÆ’Ã‚Â³i. Conclua cada capÃƒÆ’Ã‚Â­tulo de forma poÃƒÆ’Ã‚Â©tica, humana e emocionante, criando
+    identificaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o com o leitor e gerando entusiasmo para ler o prÃƒÆ’Ã‚Â³ximo capÃƒÆ’Ã‚Â­tulo.
+    Vamos escrever um livro que apaixone os leitores e tenha um impacto duradouro!"
+    the command to follow is [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

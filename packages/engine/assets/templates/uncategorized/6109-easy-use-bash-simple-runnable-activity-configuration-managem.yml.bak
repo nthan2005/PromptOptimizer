@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6109
+# teaser: Write simple and runnable bash script for automation. For example, [PROMPT] can be "remove
+# all lines that contain '[2022-01-01]". RevisionTime: 2023-03-28T15:35:35.758Z
+- id: 6109-easy-use-bash-simple-runnable-activity-configuration-managem
+  title: 'Easy Use Bash Simple & Runnable Activity: Configuration Management Topic:
+    DevOps-f3e52afbf831197f'
+  tags:
+  - uncategorized
+  - easy
+  - use
+  - bash
+  - simple
+  - runnable
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/configuration-management/1804552945875021824/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Easy Use Bash Simple & Runnable "](https://www.aiprm.com/prompts/devops/configuration-management/1804552945875021824/)_"
+    --- [PROMPT] Write in bash script. I want the output in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

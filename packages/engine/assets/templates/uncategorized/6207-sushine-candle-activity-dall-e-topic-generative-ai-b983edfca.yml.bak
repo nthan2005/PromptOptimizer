@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6207
+# teaser: candle RevisionTime: 2024-09-05T09:57:13.076Z
+- id: 6207-sushine-candle-activity-dall-e-topic-generative-ai-b983edfca
+  title: 'Sushine candle Activity: Dall-E Topic: Generative-AI-b983edfcaa490850'
+  tags:
+  - uncategorized
+  - sushine
+  - candle
+  - activity
+  - dall
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1997213727514705920/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Sushine candle"](https://www.aiprm.com/prompts/generative/dalle/1997213727514705920/)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

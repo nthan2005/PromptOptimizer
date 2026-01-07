@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 618
+# teaser: This Prompt is Created By Medical Student( IPH Lahore) For Any Hematological Problem
+- id: 618-hematology-by-dr-mursleen-rajpoot
+  title: Hematology By Dr Mursleen Rajpoot
+  tags:
+    - research
+    - hematology
+    - mursleen
+    - rajpoot
+  family: Research
+  body:
+    Write a content for disease with normal and abnormal parameter of given disease
+    according to Hematology standard clinical features and common test as well as
+    special tests with Lab Findings. make a dot points & paragraphs. All the content
+    should be in [TARGETLANGUAGE]. Here is topic for Disease. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3715
+# teaser: The elaboration of a research project indicates to the researcher (or to the institutions to
+# which the project is directed) what are the aspects and questions established in relation to the
+# investigation of a certain theme.
+- id: 3715-create-your-academic-research-project
+  title: Create your academic research project
+  tags:
+    - unsure
+    - academic
+    - research
+    - project
+  family: UNSURE
+  body:
+    "Apresente o resultado no idioma [TARGETLANGUAGE] Eu quero que vocÃƒÆ’Ã‚Âª crie
+    um projeto de pesquisa acadÃƒÆ’Ã‚Âªmica completo. Escreva um texto corrido contendo
+    os seguintes elementos bÃƒÆ’Ã‚Â¡sicos: 1Ãƒâ€šÃ‚Âº, 2Ãƒâ€šÃ‚Âºe 3Ãƒâ€šÃ‚Âº parÃƒÆ’Ã‚Â¡grafo: apresente o tema dentro
+    de um contexto histÃƒÆ’Ã‚Â³rico. 4Ãƒâ€šÃ‚Âº parÃƒÆ’Ã‚Â¡grafo: delimitaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o do tema, apresentando
+    uma questÃƒÆ’Ã‚Â£o norteadora de pesquisa. 5Ãƒâ€šÃ‚Âº parÃƒÆ’Ã‚Â¡grafo: apresente possÃƒÆ’Ã‚Â­veis respostas
+    para o problema de pesquisa levantado, ou seja, as hipÃƒÆ’Ã‚Â³teses. 6Ãƒâ€šÃ‚Âº parÃƒÆ’Ã‚Â¡grafo:
+    em poucas palavras, fale sobre o objetivo geral do trabalho e tambÃƒÆ’Ã‚Â©m trÃƒÆ’Ã‚Âªs especÃƒÆ’Ã‚Â­ficos.
+    7Ãƒâ€šÃ‚Âº parÃƒÆ’Ã‚Â¡grafo: apresente a relevÃƒÆ’Ã‚Â¢ncia do trabalho acadÃƒÆ’Ã‚Âªmico, identificando
+    a importÃƒÆ’Ã‚Â¢ncia dele para a sociedade ou comunidade cientÃƒÆ’Ã‚Â­fica. Isso ÃƒÆ’Ã‚Â© o que
+    chamamos de justificativa. 8Ãƒâ€šÃ‚Âº parÃƒÆ’Ã‚Â¡grafo: descreva, em poucas palavras qual metodologia
+    serÃƒÆ’Ã‚Â¡ utilizada na pesquisa. O tipo e o carÃƒÆ’Ã‚Â¡ter investigativo, os sujeitos e
+    o lÃƒÆ’Ã‚Â³cus, as aÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Âµes previstas, os instrumentos de coletas a serem utilizados,
+    bem como, a forma como os dados serÃƒÆ’Ã‚Â£o analisados SerÃƒÆ’Ã‚Â¡ uma pesquisa bibliogrÃƒÆ’Ã‚Â¡fica
+    ou de campo? A abordagem ÃƒÆ’Ã‚Â© qualitativa ou quantitativa? VocÃƒÆ’Ã‚Âª deve especificar
+    o procedimento de forma concisa. [TARGETLANGUAGE] [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

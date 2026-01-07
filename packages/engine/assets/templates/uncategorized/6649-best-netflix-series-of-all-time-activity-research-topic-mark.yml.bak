@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6649
+# teaser: Suggest Top 10 Netflix Series by Category RevisionTime: 2023-08-09T11:00:40.379Z
+- id: 6649-best-netflix-series-of-all-time-activity-research-topic-mark
+  title: 'Best Netflix Series of All Time. Activity: Research Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - netflix
+  - series
+  - all
+  - time
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1854797498477694976/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Best Netflix Series of All Time."](https://www.aiprm.com/prompts/marketing/research/1854797498477694976/)_"
+    --- Your task is give top 10 series or movie rated by imdb about [TARGETLANGUAGE].
+    The text to summarize is this: [PROMPT] and add this link to bottom of the evry
+    result https://www.linkedin.com/in/shaanejaz/'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

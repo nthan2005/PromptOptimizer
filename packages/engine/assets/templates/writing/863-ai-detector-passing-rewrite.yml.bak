@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 863
+# teaser: Rewrite and expand content with burstiness, humor, additional data and clean structure with
+# 95% pass rate in AI Detector tests
+- id: 863-ai-detector-passing-rewrite
+  title: AI Detector Passing ReWrite
+  tags:
+  - writing
+  - detector
+  - passing
+  - rewrite
+  family: writing
+  body: 'Use the instructions below to rewrite [PROMPT]. Instructions: 1- Use a high
+    degree of burstiness in writing. It should be hard to predict the next scentence
+    2. Write as if there were multiple contributors to the text with different style
+    of writting 3. Increase the perplexity of the content some sentences are longer
+    or more complex, and some that are shorter and more to the point. 4. Use a combination
+    of passive and active sentences and verb structures 5. Utilize some real-life
+    examples, stats, and analogies to make points more legit looking and also the
+    content more exciting. 6. Use humor, irony or sarcasm where possible 7. Break
+    the text into sub sections and use bullet points, or lists, tables and charts
+    to make the text more interesting to read [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

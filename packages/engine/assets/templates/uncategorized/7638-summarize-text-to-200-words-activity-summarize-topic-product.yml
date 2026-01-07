@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7638
+# teaser: Provide the text that you want to summarize. ChatGPT will summarize it within 200 words.
+# RevisionTime: 2023-03-12T07:32:37Z
+- id: 7638-summarize-text-to-200-words-activity-summarize-topic-product
+  title: "Summarize Text to 200 Words Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - summarize
+    - text
+    - "200"
+    - words
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Summarize Text to 200 Words"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please summarize the following text within 200 words. All output shall be
+    in [TARGETLANGUAGE]. The text to summarize is [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

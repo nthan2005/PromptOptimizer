@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2922
+# teaser: Writes a Meta Tags to your Keywords.
+- id: 2922-meta-title-description-writer
+  title: Meta Title/Description Writer
+  tags:
+    - products
+    - meta
+    - title
+    - description
+    - writer
+  family: Products
+  body:
+    "I want you to respond only in language [TARGETLANGUAGE]. I want you to act
+    as a blog post Meta description writer that speaks and writes fluent [TARGETLANGUAGE].
+    I want you to generate meta title and meta description for the following blog
+    post titles it should convince the reader to buy the products also try to not
+    spread false information by not mentioning specific details about the product
+    try to also add a Call to action: [PROMPT]. Title 70-80 characters and insert
+    the keyword at the beginning, description with maximum 160 characters without
+    keyword. Please create a table with two columns title and description and enter
+    your result there."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

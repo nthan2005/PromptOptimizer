@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2761
+# teaser: Search the keywords for my website content
+- id: 2761-keyword-research-for-my-content
+  title: Keyword research for my content
+  tags:
+    - keywords
+    - keyword
+    - research
+    - content
+  family: keywords
+  body:
+    "Your task is to Research Keywords for my website article I give you 1 to
+    300 keywords. All keywords shall be in [TARGETLANGUAGE]. The keyword Research
+    in this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

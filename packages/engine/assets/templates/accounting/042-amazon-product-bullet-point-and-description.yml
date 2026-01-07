@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 42
+# teaser: updated for indian amazon product bullet point and description
+- id: 042-amazon-product-bullet-point-and-description
+  title: amazon product bullet point and description
+  tags:
+    - accounting
+    - amazon
+    - product
+    - bullet
+    - point
+    - description
+  family: Accounting
+  body:
+    "[PROMPT] [Please ignore all previous instructions. Act as an Amazon Product
+    Listing Expert Creates an Amazon Product"
+  enabled: true
+  required:
+    - prompt

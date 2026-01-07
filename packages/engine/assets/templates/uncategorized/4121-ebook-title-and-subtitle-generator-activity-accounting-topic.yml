@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4121
+# teaser: Create 5 ebook title and subtitle for your ebook RevisionTime: 2023-08-03T08:56:41.297Z
+- id: 4121-ebook-title-and-subtitle-generator-activity-accounting-topic
+  title: "Ebook Title And Subtitle Generator Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - ebook
+    - title
+    - subtitle
+    - generator
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Ebook Title And Subtitle Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write 5 Ebook Title and Subtitle on [PROMPT] that is clear, specific, and
+    uses persuasive language. All output shall be in [TARGETLANGUAGE] Rule this out
+    with lines And In The Very Bottom of the content you need to write Write "Get
+    Access to 1000 Chaptgpt'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

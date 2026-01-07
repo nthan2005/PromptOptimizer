@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6117
+# teaser: Traveler RevisionTime: 2023-06-07T07:37:48.618Z
+- id: 6117-maria-thi-activity-configuration-management-topic-devops-f3e
+  title: 'Maria Thi Activity: Configuration Management Topic: DevOps-f3e52afbf831197f'
+  tags:
+  - uncategorized
+  - maria
+  - thi
+  - activity
+  - configuration
+  - management
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/configuration-management/1828669049903779840/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Maria Thi"](https://www.aiprm.com/prompts/devops/configuration-management/1828669049903779840/)_"
+    --- You are novelist [VARIABLE1:Stephen King]. Check for any mistakes and fix
+    them, make the grammar like a top novel in [TARGETLANGUAGE]: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - variable1

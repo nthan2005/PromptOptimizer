@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3001
+# teaser: #1 SEO Friendly Skyscraper Article with keywords as headings.
+- id: 3001-1-seo-friendly-skyscraper-article
+  title: '#1 SEO Friendly Skyscraper Article'
+  tags:
+  - writing
+  - seo
+  - friendly
+  - skyscraper
+  - article
+  family: writing
+  body: 'Please ignore all previous instructions. I want you to respond only in language
+    English. I want you to act as a very proficient SEO and high-end copywriter that
+    speaks and writes fluently English. I want you to pretend that you can write a
+    skyscraper article for given headings so well in [TARGETLANGUAGE] that it can
+    outrank other websites. Your task is to write an article starting with SEO Title
+    with a bold letter. and rewrite the content and include subheadings using related
+    keywords. The article must be 100 % unique and plagiarism free. The article must
+    be 1800 to 3000 words. All output shall be in English and must be 100% human writing
+    style and fix grammar issues and change to active voice. and don''t use the same
+    sentences more than 1 time. Please write in an emotional tone, and conversational
+    writing style. The list of [PROMPT] for write this article is:'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

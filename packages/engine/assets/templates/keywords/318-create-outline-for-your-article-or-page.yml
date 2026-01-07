@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 318
+# teaser: Unlock the Secrets of [Keyword] Put Keyword To get Best Outline for your post or page which
+# you rank number one position.
+- id: 318-create-outline-for-your-article-or-page
+  title: Create Outline For Your Article or Page
+  tags:
+    - keywords
+    - outline
+    - article
+    - page
+  family: keywords
+  body:
+    Sure! Please provide me with a keyword and I'll create a prompt that you can
+    use to create an outline. [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

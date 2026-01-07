@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9149
+# teaser: Create a value proposition easily RevisionTime: 2023-05-09T17:10:36.92Z
+- id: 9149-create-a-value-proposition-2-activity-unsure-topic-unsure-f6
+  title: 'Create a Value Proposition 2 Activity: UNSURE Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - value
+  - proposition
+  - activity
+  - unsure
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1821564541721645056/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create a Value Proposition 2"](https://www.aiprm.com/prompts/unsure/unsure/1821564541721645056/)_"
+    --- Apresentar o resultado no idioma [TARGETLANGUAGE] Crie uma proposta de valor
+    para o seu negÃ³cio usando o seguinte modelo: Para (segmento de clientes) que
+    (dores, necessidades ou desejos), oferecemos (produto ou serviÃ§o) que entrega
+    (benefÃ­cios) diferenciando-se da concorrÃªncia com (diferenciais da oferta).
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

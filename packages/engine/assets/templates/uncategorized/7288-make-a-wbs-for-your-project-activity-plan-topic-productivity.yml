@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7288
+# teaser: You want to launch a project and prepare all its phases ? Make a WBS (Work Breakdown
+# Structury) with this prompt RevisionTime: 2023-05-04T07:45:06.537Z
+- id: 7288-make-a-wbs-for-your-project-activity-plan-topic-productivity
+  title: "Make a WBS for your project Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - wbs
+    - project
+    - activity
+    - plan
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Make a WBS for your project"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- - Agis comme un chef de projet parlant toutes les langues du monde et ayant
+    une dizaine d''annÃƒÂ©e d''expÃƒÂ©rience. [PROMPT] . RÃƒÂ©alise moi un WBS sous forme
+    de tableau (work breakdown structure) en respectant ces rÃƒÂ¨gles : - La rÃƒÂ¨gle
+    des 100% : lÃ¢â‚¬â„¢ensemble des ÃƒÂ©lÃƒÂ©ments de chaque niveau doivent reprÃƒÂ©senter 100%
+    du travail nÃƒÂ©cessaire pour rÃƒÂ©aliser la tÃƒÂ¢che du niveau supÃƒÂ©rieur. Tu indiqueras
+    seulement en 4 ÃƒÂ¨me et derniÃƒÂ¨re colonne cette valeur sur 100 pour chaque niveau
+    de tÃƒÂ¢ches. Cette colonne se nommera "% de charge". Tu donneras logiquement 100%
+    de charge pour les tÃƒÂ¢ches de niveau 1. De mÃƒÂªme, Ãƒ lÃ¢â‚¬â„¢intÃƒÂ©rieur dÃ¢â‚¬â„¢une branche,
+    les diffÃƒÂ©rents ÃƒÂ©lÃƒÂ©ments listÃƒÂ©s doivent permettre dÃ¢â‚¬â„¢accomplir intÃƒÂ©gralement
+    la tÃƒÂ¢che de niveau supÃƒÂ©rieur. - Chaque tÃƒÂ¢che est spÃƒÂ©cifique. Aucune sous-composante
+    ne doit ÃƒÂªtre inscrite deux fois ni ne doit recouvrir partiellement le pÃƒÂ©rimÃƒÂ¨tre
+    dÃ¢â‚¬â„¢une autre tÃƒÂ¢che de mÃƒÂªme niveau. Sans cela, tu violeras la rÃƒÂ¨gle des 100%
+    et risqueras de te tromper dans lÃ¢â‚¬â„¢estimation du temps ou du coÃƒÂ»t du projet.
+    - De plus, dans la colonne de niveau 1, tu mettras les phases principales d''un
+    projet, donc exactement celles-ci : cadrage, planification, conception, rÃƒÂ©alisation
+    et clÃƒÂ´ture du projet. Sois le plus prÃƒÂ©cis possible en abordant tous les aspects
+    d''un projet rÃƒÂ©el et en hiÃƒÂ©rarchisant chaque tÃƒÂ¢che au mieux. Evite absolument
+    aussi toute redondance ou rÃƒÂ©pÃƒÂ©tition dans le tableau. De plus, hiÃƒÂ©rarchise
+    le plus possible les diffÃƒÂ©rentes tÃƒÂ¢ches de niveau 2 et 3 Ãƒ aborder dans ce projet.
+    RÃƒÂ©alise moi ce tableau WBS en [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

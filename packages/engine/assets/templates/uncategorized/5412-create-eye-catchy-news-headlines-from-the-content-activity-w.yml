@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5412
+# teaser: Generate CLickbait Headlines and Excerpt From The content RevisionTime: 2023-03-23T06:44:44Z
+- id: 5412-create-eye-catchy-news-headlines-from-the-content-activity-w
+  title:
+    "Create eye-Catchy News Headlines From The content Activity: writing Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - eye
+    - catchy
+    - news
+    - headlines
+    - content
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create eye-Catchy News Headlines From
+    The content"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as News Headlines Writer - Generate 5 clickbait news headlines in informative,
+    descriptive tone in english which will trigger the user to click this article
+    in a crowd - Generate 2 viral tweets - Generate an Synopsis(within 30Words) -
+    Suggest Important meta tags - Suggest Idea For a Featured Image - Generate Highlights
+    OF the Content If Possible - Language [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

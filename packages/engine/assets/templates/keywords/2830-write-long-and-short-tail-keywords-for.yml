@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2830
+# teaser: Write long tail and short tail keywords for
+- id: 2830-write-long-and-short-tail-keywords-for
+  title: Write long and short tail keywords for
+  tags:
+    - keywords
+    - write
+    - long
+    - short
+    - tail
+  family: keywords
+  body:
+    Write long tail and short-tail keywords by just writing Keyword for required
+    Post. [TARGETLANGUAGE] . [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

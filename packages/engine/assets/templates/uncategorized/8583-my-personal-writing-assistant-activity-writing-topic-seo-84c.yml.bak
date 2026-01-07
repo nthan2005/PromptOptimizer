@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8583
+# teaser: I am using this for my personal blogs and so far, the results are great. Feel free to test
+# it out yourself. RevisionTime: 2023-03-25T15:36:08.899Z
+- id: 8583-my-personal-writing-assistant-activity-writing-topic-seo-84c
+  title: 'My Personal Writing Assistant Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - personal
+  - writing
+  - assistant
+  - activity
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1793602374666031104/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "My Personal Writing Assistant"](https://www.aiprm.com/prompts/seo/writing/1793602374666031104/)_"
+    --- Analyze the top 3 search results in google.com for the search term [PROMPT]
+    then write an article in active voice about [PROMPT] that can rank in the top
+    1 search result or be placed at the google featured snippets spot. The article
+    must be written in native [TARGETLANGUAGE], 100% unique, high-quality and relevant
+    to [PROMPT], has a strong reputation for authoritativeness and trustworthiness,
+    and highly engaging and Human-written. The article must have at least 2000 words
+    and a Creative SEO Title that is not more than 59 characters. It must also have
+    a high click through rate creative SEO meta description that is not more than
+    150 characters and a catchy introduction. The article should have outlines in
+    H2 format headings with intros on each one of them. Then, for each H2 format heading,
+    include an h3 format subheading and discuss or elaborate the topic in that h3
+    format subheadings. Include transition words in the article you are writing. Also
+    include bullet points or numbered lists if needed. Then write a conclusion about
+    [PROMPT] that would fit the reader''s intent. Make sure each of the sentences
+    does not have more than 20 words. Make sure the article has no grammatical errors
+    and is plagiarism free. Make sure it can easily pass all AI detection tools.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

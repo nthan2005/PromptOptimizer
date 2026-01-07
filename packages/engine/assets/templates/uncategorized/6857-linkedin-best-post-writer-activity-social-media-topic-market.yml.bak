@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6857
+# teaser: Write your LinkedIn post with this to be professionally active. RevisionTime:
+# 2024-10-03T09:57:49.568Z
+- id: 6857-linkedin-best-post-writer-activity-social-media-topic-market
+  title: 'LinkedIn Best Post writer Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - linkedin
+  - post
+  - writer
+  - activity
+  - social
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1811359098978168832/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "LinkedIn Best Post writer"](https://www.aiprm.com/prompts/marketing/social-media/1811359098978168832/)_"
+    --- Your task s to write a LinkedIn post in 120 words. Use Emojis with text to
+    make it reader friendly. All Output should be [TARGETLANGUAGE]. The post to write
+    is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

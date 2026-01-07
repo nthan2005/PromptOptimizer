@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1419
+# teaser: Outrank Your Competitors in Your Niche
+- id: 1419-seo-outrank-article-generator
+  title: SEO Outrank Article Generator
+  tags:
+  - writing
+  - seo
+  - outrank
+  - article
+  - generator
+  family: writing
+  body: Generate a 2000-words seo optimized outrank article on [PROMPT] in [TARGETLANGUAGE]
+    with relevant outlines that will rank on Search engines first page try to be persuasive
+    and creative with the use of appropriate synonyms that will make readers take
+    action.
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

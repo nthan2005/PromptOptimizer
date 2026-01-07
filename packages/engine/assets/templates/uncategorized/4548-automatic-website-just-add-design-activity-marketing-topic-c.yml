@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4548
+# teaser: Create an incredible website with this tailored framework. No agency needed. RevisionTime:
+# 2023-05-31T17:07:15.529Z
+- id: 4548-automatic-website-just-add-design-activity-marketing-topic-c
+  title: "Automatic Website: Just add design Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - automatic
+    - website
+    - just
+    - add
+    - design
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Automatic Website: Just add design
+    "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- To help us create a website structure and copy framework based on the StoryBrand
+    framework, please respond to each prompt below in fluent [TARGETLANGUAGE]: - [PROMPT]
+    With this information, we will generate a website structure, copy framework, and
+    a table of meta descriptions + Meta titles aligned with the StoryBrand principles.
+    Please explain your rationale for each page at the end in terms of how your response
+    relates to StoryBrand principles.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

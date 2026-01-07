@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7940
+# teaser: Table with the top 10 keywords for [a website] and a list of their titles to create blog
+# articles. RevisionTime: 2023-03-29T10:25:32.669Z
+- id: 7940-keywords-by-volume-whith-blog-title-activity-keywords-topic
+  title: 'Keywords By Volume Whith Blog Title Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - keywords
+  - volume
+  - whith
+  - blog
+  - title
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1804842525828317184/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Keywords By Volume Whith Blog Title"](https://www.aiprm.com/prompts/seo/keywords/1804842525828317184/)_"
+    --- Please look for the best keywords to position in google the web that I will
+    tell you next. Create a table with the 10 keywords with the highest monthly global
+    search volume, and a descriptive title to create the blog posts in [TARGETLANGUAGE]
+    . The website is [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

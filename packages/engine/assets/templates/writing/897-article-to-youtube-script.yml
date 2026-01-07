@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 897
+# teaser: Creating a YouTube Script with an article
+- id: 897-article-to-youtube-script
+  title: Article to YouTube Script
+  tags:
+    - writing
+    - article
+    - youtube
+    - script
+  family: writing
+  body:
+    "Write this in a more conversational style like a YouTube video: [PROMPT]
+    in [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

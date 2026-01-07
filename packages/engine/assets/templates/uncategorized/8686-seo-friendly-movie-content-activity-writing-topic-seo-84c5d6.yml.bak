@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8686
+# teaser: write text description for "[KEYWORD]" include download button and related text to it. add
+# the keyword filmdownloder in it and also include "you may also like" link. Content length should be
+# more than 600 words and it should be SEO friendly. RevisionTime: 2023-06-02T09:27:02.592Z
+- id: 8686-seo-friendly-movie-content-activity-writing-topic-seo-84c5d6
+  title: 'SEO Friendly Movie Content Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - seo
+  - friendly
+  - movie
+  - content
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1830095908742889472/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "SEO Friendly Movie Content"](https://www.aiprm.com/prompts/seo/writing/1830095908742889472/)_"
+    --- write a text description for the movie [PROMPT] also include some download
+    button in it and related text add my keyword Film Downloader in it and also include
+    ''you may also like'' link, the content length should be not less than 600 words.
+    Also, the content should be SEO friendly and keyword density should be around
+    1%-2%. Also use the main keyword in a heading H2 or H3 and it should be near at
+    the beginning of the content. The paragraphs should be short and precise for better
+    human readability and UX. The content should be in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

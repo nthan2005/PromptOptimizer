@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1251
+# teaser: Mark Bowden writes an email for you the only way he knows how, or almost! Just input [your
+# recipient's name, what you're emailing about]
+- id: 1251-mark-bowden-writes-your-emails
+  title: Mark Bowden Writes Your Emails
+  tags:
+  - writing
+  - mark
+  - bowden
+  - writes
+  - emails
+  family: writing
+  body: Your task is to write a friendly professional email including all typical
+    elements, writing to the recipient:[PROMPT]. You shall write regarding or about
+    the subject:[PROMPT]. All output shall be in the writing style of human behavior
+    expert Mark Bowden. All output shall not mention Mark Bowden's expertise or behavioral
+    analysis explicitly in the email. All output shall be in [TARGETLANGUAGE] formatted
+    for standard email clients.
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

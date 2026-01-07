@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3078
+# teaser: Make the best keyword that meet google satisfaction
+- id: 3078-best-google-and-pinterest-keywords-with-volume
+  title: Best google and Pinterest Keywords with volume
+  tags:
+  - writing
+  - google
+  - pinterest
+  - keywords
+  - volume
+  family: writing
+  body: Your task is to extract more pinterest and google keywords or titles and also
+    include their volume. All out put be in [TARGETLANGUAGE]. Give 100 keywords. [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

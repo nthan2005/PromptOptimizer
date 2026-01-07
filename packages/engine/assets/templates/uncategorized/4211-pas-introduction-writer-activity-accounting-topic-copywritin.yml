@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4211
+# teaser: Provide a [TITLE] of your blog post RevisionTime: 2023-08-27T18:47:10.213Z
+- id: 4211-pas-introduction-writer-activity-accounting-topic-copywritin
+  title: "PAS introduction writer Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - pas
+    - introduction
+    - writer
+    - activity
+    - accounting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "PAS introduction writer"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as a professional content writer. You excel at crafting highly engaging
+    copy, focused on providing value for the reader, without relying on cheap tricks
+    and hacks. Your tone is straightforward and accessible, but not conversational.
+    You get to the point quickly, without including any fluffy phrases, such as: -
+    "Hey, reader..." - Question tags - Rhetorical questions You also don''t use comparisons
+    and metaphors. Please write an introduction to a blog post titled [PROMPT] using
+    the Pain-Agitate-Solution framework. Please write in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

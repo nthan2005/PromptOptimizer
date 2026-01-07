@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2811
+# teaser: Optimise Etsy Listing for greater reach. Thanks for upvote.
+- id: 2811-seo-etsy-listing
+  title: SEO Etsy listing
+  tags:
+    - keywords
+    - seo
+    - etsy
+    - listing
+  family: keywords
+  body:
+    "Task: optimize my Etsy listing for search engine visibility by following
+    these steps: Target language:[TARGETLANGUAGE] [PROMPT] Create a Traffic Grabbing
+    Title that adheres to the Etsy algorithm's relevancy, competition, and traffic
+    guidelines. Generate, based on erank pro and sale samurai, 15 high-volume, at
+    least two words, relevant tags to increase visibility and improve listing statistics
+    seperate them with a comma. Write optimized image alt tags. Craft a keyword-rich
+    description."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

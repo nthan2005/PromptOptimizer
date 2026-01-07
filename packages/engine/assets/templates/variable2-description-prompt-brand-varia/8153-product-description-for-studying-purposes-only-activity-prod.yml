@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8153
+# teaser: Create a product description for marketplace RevisionTime: 2023-12-08T15:58:48.55Z
+- id: 8153-product-description-for-studying-purposes-only-activity-prod
+  title:
+    "Product Description (for Studying Purposes Only) Activity: Products Topic:
+    SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - variable2-description-prompt-b
+    - product
+    - description
+    - studying
+    - purposes
+    - only
+  family:
+    "[VARIABLE2] Description: [PROMPT] Brand: [VARIABLE3] Color: [VARIABLE4]
+    Weight: [VARIABLE5] Manufactured in: [VARIABLE6] [VARIABLE2:Category] [VARIABLE3:
+    Brand:N/A] [VARIABLE4: Color] [VARIABLE5: Weight] [VARIABLE6: Country of manufacture]"
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Product Description (for Studying Purposes
+    Only)"](https://github.com/nthan2005/PromptOptimizer)_" ---
+    Write a [VARIABLE1: Product Name] description for marketplace in [TARGETLANGUAGE]
+    . Example: Product: [VARIABLE1]'
+  enabled: true
+  required:
+    - targetlanguage
+    - variable1

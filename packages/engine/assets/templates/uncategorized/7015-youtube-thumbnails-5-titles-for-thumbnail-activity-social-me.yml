@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7015
+# teaser: Create 5 thumbnail headline ideas for a Video RevisionTime: 2024-10-03T09:56:05.914Z
+- id: 7015-youtube-thumbnails-5-titles-for-thumbnail-activity-social-me
+  title:
+    "Youtube Thumbnails - 5 Titles for Thumbnail Activity: Social Media Topic:
+    Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - youtube
+    - thumbnails
+    - titles
+    - thumbnail
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Youtube Thumbnails - 5 Titles for Thumbnail"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- give me 5 ideas of short headlines to appear inside a youtube thumbnail. must
+    be compelling and can be clickbait. DonÃ‚Â´t use exclamation marks. do it for this
+    video title [PROMPT] Do it for [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

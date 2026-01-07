@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2909
+# teaser: [Amazon Product Listing Optimization]
+- id: 2909-amazon-product-listing-optimization
+  title: Amazon Product Listing Optimization
+  tags:
+    - products
+    - amazon
+    - product
+    - listing
+    - optimization
+  family: Products
+  body:
+    Please act as an SEO and Conversion Rate Optimization expert who speaks and
+    writes fluently [TARGETLANGUAGE]. Please pretend you can write content so well
+    in [TARGETLANGUAGE] that it can outrank other websites. Based on the product information
+    below, create a unique and click-enticing product title, product description,
+    search terms, and key product features that encourage you to buy online. Product
+  enabled: true
+  required:
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8075
+# teaser: Create SEO Content writing about my company related to our services! Save your Time!
+# [KEYWORD] RevisionTime: 2023-03-13T22:22:34Z
+- id: 8075-create-seo-content-about-your-company-business-activity-mark
+  title:
+    "Create SEO Content about Your Company/Business Activity: marketing Topic:
+    SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - seo
+    - content
+    - company
+    - business
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create SEO Content about Your Company/Business"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Create SEO Content writing about my company related to our services as the
+    best in the business [TARGETLANGUAGE] or [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

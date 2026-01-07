@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8882
+# teaser: [Go Lang - Code generator] RevisionTime: 2023-03-14T18:31:57Z
+- id: 8882-go-lang-script-generator-activity-backend-development-topic
+  title: 'Go Lang Script Generator Activity: Backend Development Topic: SoftwareEngineering-f1858b980c341d28'
+  tags:
+  - uncategorized
+  - lang
+  - script
+  - generator
+  - activity
+  - backend
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1799977849126649856/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Go Lang Script Generator"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1799977849126649856/)_"
+    --- Sua tarefa Ã© criar, ou seja, gerar scripts em Go Lang de acordo com a necessidade
+    pedida idioma [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

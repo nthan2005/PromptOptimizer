@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3354
+# teaser: Best SEO Optimized Meta Description For Product, Services etc etc with 5 Different Varients
+# + 5 HashTags
+- id: 3354-seo-meta-description-hashtags
+  title: SEO Meta Description + HashTags
+  tags:
+    - writing
+    - seo
+    - meta
+    - description
+    - hashtags
+  family: writing
+  body:
+    Create Table With Five Rows and Make a Table Name SEO Meta Description and
+    Write 156 Character plagiarism free and CTR Based Meta Description on [PROMPT]
+    and Don't use Contact us, to learn more, words in the end of the meta description.
+    All output shall be in [TARGETLANGUAGE]. In the Last Write atleast five relevant
+    Hashtags.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

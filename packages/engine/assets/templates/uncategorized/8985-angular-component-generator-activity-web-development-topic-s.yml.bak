@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8985
+# teaser: Generate Robust Amazing Full Working Angular component - Application generator RevisionTime:
+# 2023-02-19T15:35:19Z
+- id: 8985-angular-component-generator-activity-web-development-topic-s
+  title: 'Angular Component Generator Activity: Web Development Topic: SoftwareEngineering-f1858b980c341d28'
+  tags:
+  - uncategorized
+  - angular
+  - component
+  - generator
+  - activity
+  - web
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1789036803341410304/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Angular Component Generator"](https://www.aiprm.com/prompts/softwareengineering/web-development/1789036803341410304/)_"
+    --- "Explain a scenario for a angular component descrption [COMPONENT DESCRIPTION]
+    and generate the corresponding Angular component, service, and HTML template files.
+    Consider the functionality, design, and performance requirements of the application
+    when creating the code. Ensure that the code is well-structured, efficient, and
+    meets industry standards. My first task is to [PROMPT]. The target language is
+    [TARGETLANGUAGE]." My first task is [PROMPT]. The target language is [TARGETLANGUAGE]."'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

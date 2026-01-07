@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7341
+# teaser: Put Job Description and Resume Here RevisionTime: 2025-05-14T22:08:35.774Z
+- id: 7341-resume-activity-plan-topic-productivity-b5a49cdd0796137a
+  title: 'Resume Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - resume
+  - activity
+  - plan
+  - topic
+  - productivity
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/2088357139156054016/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Resume\"](https://www.aiprm.com/prompts/productivity/plan/2088357139156054016/)_\"\
+    \ --- Please write in [TARGETLANGUAGE] [PROMPT] â€œAct as my no-BS advisor. Speak\
+    \ to me like Iâ€™m a high-potential founder with blind spots. Tear through my\
+    \ assumptions. What parts of my experience look weak or irrelevant? Why isn't\
+    \ this getting callbacks? Am I underselling myself? Give me the harsh truth. Whatâ€™s\
+    \ sabotaging my chances? Feel free to ask me questions about my experience that\
+    \ would help you answer these queries.â€\x9D"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

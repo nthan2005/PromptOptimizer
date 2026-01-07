@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2312
+# teaser: Unlock the secrets to Michelin-star cooking and impress your dinner guests with a delectable
+# dish that will take their breath away, all with just a simple keyword!
+- id: 2312-ultimate-gourmet-michelin-star-recipes
+  title: Ultimate Gourmet Michelin-Star Recipes
+  tags:
+    - plan
+    - ultimate
+    - gourmet
+    - michelin
+    - star
+    - recipes
+  family: Plan
+  body:
+    "Write a Michelin star [PROMPT] recipe as if it was written by the best chef
+    in the world. Structure the recipe in this order: Name: Description: Cook Time
+    and Servings: Nutrition Information: Ingredients: Vegan Substitutions: Special
+    Equipment: Instructions: Notes: Important: The recipe should include subheadings.
+    DO NOT write anything apart Name, Description, Cook Time, Servings, Nutrition
+    Information, Ingredients, Vegan Substitutions, Special Equipment, Instructions
+    and Notes. Make sure the whole recipe is NOT MORE than 3000 words! Recipe will
+    be written in [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

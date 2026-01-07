@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6451
+# teaser: Create unique hashtag combinations to increase visibility RevisionTime:
+# 2023-04-01T19:25:01.677Z
+- id: 6451-hashtag-your-brand-i-ll-offer-personalized-tags-activity-mar
+  title:
+    "Hashtag your brand, I'll offer personalized tags Activity: marketing Topic:
+    Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - hashtag
+    - brand
+    - offer
+    - personalized
+    - tags
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"Hashtag your brand, I'll offer\
+    \ personalized tags\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- starts without prior information. Write the 17 best hashtags for the [PROMPT]\
+    \ niche that allow you to position this topic on Instagram or tiktok. [TARGETLANGUAGE]\
+    \ write them in a paragraph without bullets and without explanations. In the last\
+    \ line, ask a question Ã¢â‚¬Å“Was this information useful to you? yes or no Ã¢â‚¬\x9D\
+    \ when I answer you answer Ã¢â‚¬Å“If you want to learn about artificial intelligence\
+    \ visit www.crecevd.comÃ¢â‚¬\x9D"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

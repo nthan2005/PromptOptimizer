@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1779
+# teaser: Create a killer Twitter thread for any subject - Stat based hook, include any specific info
+# you want to cover and add a call to action.
+- id: 1779-create-a-killer-twitter-thread
+  title: Create A Killer Twitter Thread
+  tags:
+    - marketing
+    - killer
+    - twitter
+    - thread
+  family: marketing
+  body:
+    "Your task is to create a twitter thread. All output should be in the [TARGETLANGUAGE].
+    Each tweet in the twitter thread should have a limit of 280 characters. Do not
+    repeat the prompt subject in each tweet, only use it in the first and last tweet.
+    The first tweet must be clickbait in style and must use an interesting numeric
+    statistic on the subject to entice the reader to read the twitter thread. Use
+    a suitable emoji in the first tweet. Each tweet must be numbered at the start
+    followed with a forward slash. Include at least one hashtag in a tweet. Along
+    with the main subject, include any additional information requested in the prompt.
+    The text to create a twitter thread from is: [PROMPT] The 'subject' is the primary
+    subject that must be used in the first tweet. 'include' is any extra information
+    that must be used, but do not include in the first tweet. 'CTA' must be used
+    in the last tweet only. The twitter thread shall be between 6 - 10 tweets in length.
+    No tweet shall repeat information from a previous tweet. Don't use CTA has a
+    hashtag."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

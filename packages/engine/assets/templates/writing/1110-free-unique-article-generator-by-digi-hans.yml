@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1110
+# teaser: Unique article generator tool that generates natural language, keyword-focused and SEO-
+# friendly content. Use Autowriterpro to create the best article writer
+- id: 1110-free-unique-article-generator-by-digi-hans
+  title: FREE Unique Article Generator By Digi Hans
+  tags:
+    - writing
+    - free
+    - unique
+    - article
+    - generator
+    - digi
+  family: writing
+  body:
+    Write Unique Article with Proper Heading, Bullet Points, and FAQS , keyword
+    focused SEO friendly content minimum 1000 word and maximun 2500 words [TARGETLANGUAGE]
+    [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

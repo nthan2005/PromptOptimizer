@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9216
+# teaser: MADE BY A MEDICAL STUDENT How to study a disease? Learn about normal and abnormal
+# parameters, common and special tests, laboratory findings, and treatments to relieve symptoms.
+# Deepen your disease studies right now! RevisionTime: 2023-03-18T12:19:17.482Z
+- id: 9216-learning-a-disease-activity-unsure-topic-unsure-f69c57b42437
+  title: 'Learning a disease Activity: UNSURE Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - learning
+  - disease
+  - activity
+  - unsure
+  - topic
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1802647197637144576/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Learning a disease\"](https://www.aiprm.com/prompts/unsure/unsure/1802647197637144576/)_\"\
+    \ --- Escreva um conteÃºdo sobre uma doenÃ§a com parÃ¢metros normais e anormais\
+    \ de acordo com as caracterÃ­sticas clÃ­nicas padrÃ£o e os testes comuns, bem\
+    \ como testes especiais com achados laboratoriais. FaÃ§a pontos e parÃ¡grafos.\
+    \ Responda em [TARGETLANGUAGE] com a fluÃªncia de um nativo. ADOTE O SEGUINTE\
+    \ FORMATO AO APRESENTAR AS RESPECTIVAS INFORMAÃ‡Ã•ES: Aqui estÃ£o os parÃ¢metros\
+    \ normais e anormais associados a esta doenÃ§a: ParÃ¢metros Normais: - NÃ­veis\
+    \ normais de uma determinada substÃ¢ncia ou hormÃ´nio no sangue ou em outro fluido\
+    \ corporal. ParÃ¢metros Anormais: - NÃ­veis aumentados ou diminuÃ­dos de uma determinada\
+    \ substÃ¢ncia ou hormÃ´nio no sangue ou em outro fluido corporal. Testes comuns\
+    \ que sÃ£o realizados para diagnosticar e monitorar a doenÃ§a incluem: - Dosagem\
+    \ de uma determinada substÃ¢ncia ou hormÃ´nio no sangue ou em outro fluido corporal.\
+    \ Testes especiais podem ser realizados para investigar causas subjacentes da\
+    \ doenÃ§a, como: - Exames de imagem especÃ­ficos da regiÃ£o afetada pela doenÃ§a.\
+    \ Achados laboratoriais tÃ­picos da doenÃ§a incluem: - AlteraÃ§Ãµes especÃ­ficas\
+    \ em um ou mais parÃ¢metros sanguÃ­neos ou em outro fluido corporal. O tratamento\
+    \ da doenÃ§a geralmente envolve: - Tratamento especÃ­fico para a causa subjacente\
+    \ da doenÃ§a, se houver, e/ou - Tratamento sintomÃ¡tico para aliviar os sintomas\
+    \ associados Ã doenÃ§a. AQUI ESTÃ\x81 A DOENÃ‡A: [PROMPT]"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

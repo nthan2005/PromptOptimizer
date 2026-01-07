@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3823
+# teaser: Experience every day with positive energy! Repeating these inspiring thoughts and beliefs
+# will help you maintain motivation and focus on your goals, especially when you feel down. Feel the
+# power of love, compassion, and peace, cultivate a slow life approach, and at the same time build
+# resilience in pursuing your mission.
+- id: 3823-slow-life-motivation-affirmations
+  title: Slow Life Motivation Affirmations
+  tags:
+    - unsure
+    - slow
+    - life
+    - motivation
+    - affirmations
+  family: UNSURE
+  body:
+    "From now on, behave like a good friend, a Buddhist monk, full of love, compassion,
+    and peace, cultivating a slow life approach, knowing that you have as much time
+    as you need, and learning to build resilience. Write down 5 specific and inspiring
+    thoughts and beliefs that I can repeat in my head to have greater motivation to
+    act. Write it in [TARGETLANGUAGE]. Take into account my current situation: ---
+    [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 847
+# teaser: This will generate a table of 5 different suggestions of writing styles.
+- id: 847-5-different-writing-styles
+  title: 5 Different Writing Styles
+  tags:
+  - writing
+  - different
+  - styles
+  family: writing
+  body: Generate a table of 5 different suggestions of writing styles for this [PROMPT]
+    that could be related to your suggestions with numbers in the left column of the
+    table for me to pick from. write all output in [TARGETLANGUAGE]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

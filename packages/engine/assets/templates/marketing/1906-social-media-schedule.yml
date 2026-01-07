@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1906
+# teaser: Create a social media schedule for the [KEYWORD] of your choice
+- id: 1906-social-media-schedule
+  title: Social Media Schedule
+  tags:
+    - marketing
+    - social
+    - media
+    - schedule
+  family: marketing
+  body:
+    Please create a social media post schedule for topics such as [PROMPT] in
+    the form of a table, where I am posting to Facebook, Instagram, Twitter, Pinterest,
+    Tik Tok, and YouTube. The type of posts include; tips, tricks, quotes, facts,
+    statistics, activity ideas, inspiration, lesson plan ideas, recipes, and lists.
+    The format of these posts can be text, images, short videos or long format videos.[TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

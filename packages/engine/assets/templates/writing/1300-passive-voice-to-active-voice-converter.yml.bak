@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1300
+# teaser: Convert your paragraph Passive Voice to Active Voice.
+- id: 1300-passive-voice-to-active-voice-converter
+  title: Passive Voice to Active Voice Converter
+  tags:
+  - writing
+  - passive
+  - voice
+  - active
+  - converter
+  family: writing
+  body: 'Your task is to Convert Passive Voice to Active Voice I Give you the Paragraph.
+    All output shall be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

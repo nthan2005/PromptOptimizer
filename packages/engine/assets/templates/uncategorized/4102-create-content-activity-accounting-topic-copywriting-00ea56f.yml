@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4102
+# teaser: do u have tittle? then create content RevisionTime: 2023-03-13T17:30:51Z
+- id: 4102-create-content-activity-accounting-topic-copywriting-00ea56f
+  title: "create content Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - content
+    - activity
+    - accounting
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "create content "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Sana vereceÃ„Å¸im baÃ…Å¸lÃ„Â±klarÃ„Â± [PROMPT] hakkÃ„Â±nda hepsine ayrÃ„Â± ayrÃ„Â± seo uyumlu
+    , google politikalarÃ„Â±na uygun iÃƒÂ§erikler yaz. iÃƒÂ§eriklerin iÃƒÂ§ine maddeler halinde
+    bilgiler ekle, maddeleri listele . Bu dilde [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

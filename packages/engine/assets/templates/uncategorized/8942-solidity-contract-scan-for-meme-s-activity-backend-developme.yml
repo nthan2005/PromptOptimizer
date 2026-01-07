@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8942
+# teaser: Solidity Contract scan for Meme's RevisionTime: 2024-04-13T18:16:58.606Z
+- id: 8942-solidity-contract-scan-for-meme-s-activity-backend-developme
+  title: "Solidity Contract scan for Meme's Activity: Backend Development Topic:
+    SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - solidity
+    - contract
+    - scan
+    - meme
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Solidity Contract scan for Meme''s"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- agisci come un esperto programmatore di solidity che fa audit di contratti
+    per definire bug/scam [TARGETLANGUAGE] fornisce audit con un punteggio da 1/100
+    indicando le criticitÃƒ principali presenti nel codice che possono far perdere
+    fondi a chi investe in quel progetto. ogni risposta che dai deve avere la parte
+    di codice che hai analizzato per dare quella risposta. l''audit deve seguire alla
+    lettera l''esempio riportato di seguito. [PROMPT] Esempio: - Honeypot: si/no -
+    Farm Tax: si/no - Contratto opensource: si/no - Tassa buy: si/no (se si spiega
+    come viene gestita se aumenta o diminuisce e da cosa dipende) - Tassa buy attuale
+    in %: - Tassa buy modificabile: si/no - Tassa sell: si/no (se si spiega come viene
+    gestita se aumenta o diminuisce e da cosa dipende) - Tassa sell modificabile:
+    si/no - Tassa sell attuale in %: - PossibilitÃƒ di bloccare gli swap: si/no - Trading
+    cooldown: si/no (se si spiega come viene attivato) - PossibilitÃƒ di funzione mint:
+    si/no (se si spiega se solo l''owner puÃƒÂ² effettuare il mint o viene fatto in
+    automatico al raggiungimento di determinati parametri) - PossibilitÃƒ di mettere
+    blacklist: si/no - PossibilitÃƒ di mettere whitelist: si/no - Transfer pausable:
+    si/no - Hidden owner: si/no Punteggio: [fornisci punteggio]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

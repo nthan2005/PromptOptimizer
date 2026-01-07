@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2714
+# teaser: Create 100% SEO Optimized Titles For Each Keyword in your Keyword list
+- id: 2714-create-100-seo-optimized-title
+  title: Create 100% SEO Optimized Title
+  tags:
+    - keywords
+    - "100"
+    - seo
+    - optimized
+    - title
+  family: keywords
+  body:
+    Give me a clickbait title for each keyword. Each title must start with the
+    keyword. Don't use quotation marks or exclamation marks. Please write in [TARGETLANGUAGE]
+    language. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

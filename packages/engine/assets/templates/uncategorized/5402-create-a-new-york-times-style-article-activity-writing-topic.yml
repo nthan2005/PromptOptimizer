@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5402
+# teaser: Create a New York Times style article for your blog. RevisionTime: 2023-09-03T23:30:50.026Z
+- id: 5402-create-a-new-york-times-style-article-activity-writing-topic
+  title: "Create a New York Times style article Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - new
+    - york
+    - times
+    - style
+    - article
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create a New York Times style article"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are a journalist specialized in technology. I want you to write an article
+    of maximum 1500 words in [TARGETLANGUAGE] in the style of the New York Times.
+    That it has yes or yes a title and at the end 3 key points to understand the subject.
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

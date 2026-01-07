@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4615
+# teaser: Make a text more engaging with emojis, useful for social media posts, whatsapp messages,
+# emails and more. RevisionTime: 2023-02-22T17:58:03Z
+- id: 4615-increase-engagement-with-emojis-activity-marketing-topic-cop
+  title: "Increase engagement with emojis Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - increase
+    - engagement
+    - emojis
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Increase engagement with emojis"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Add some emojis to the following text in order to make it easier to read and
+    more engaging. [PROMPT] Result should be in [TARGETLANGUAGE] Do not add any additional
+    text or explanation to your answer'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

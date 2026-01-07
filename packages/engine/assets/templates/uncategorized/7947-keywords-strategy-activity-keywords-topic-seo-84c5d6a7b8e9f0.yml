@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7947
+# teaser: Create a keyword Strategy and SEO content plan from 1 [KRYWORDS] RevisionTime:
+# 2023-08-06T12:01:07.157Z
+- id: 7947-keywords-strategy-activity-keywords-topic-seo-84c5d6a7b8e9f0
+  title: "Keywords Strategy Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - keywords
+    - strategy
+    - activity
+    - topic
+    - seo
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Keywords Strategy"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Promt text including placeholders [TARGETLANGUAGE] [PROMPT], [VARIABLE1] [VARIABLE2]
+    and [VARIABLE3] replaced automagically by PromptOptimizer'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3

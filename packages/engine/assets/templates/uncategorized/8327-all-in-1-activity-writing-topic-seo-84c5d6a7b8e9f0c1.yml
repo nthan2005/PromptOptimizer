@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8327
+# teaser: Merge Multiple Articles Into a Single Post RevisionTime: 2023-03-03T01:46:37.545Z
+- id: 8327-all-in-1-activity-writing-topic-seo-84c5d6a7b8e9f0c1
+  title: "All in 1 Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - all
+    - activity
+    - writing
+    - topic
+    - seo
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "All in 1"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Here are the guidelines you need to follow to complete this task: 1. I will
+    provide you with multiple articles, each identified as Article 1, Article 2, Article
+    3, and Article 4. 2. Your first task is to analyze each article carefully. 3.
+    Once you have analyzed an article, take a break and relax before moving on to
+    the next one. 4. Make sure to skip any duplicated content across the articles.
+    5. Once you have successfully completed analyzing all articles, reply to this
+    prompt stating "Done analyzing all articles." 6. Next, generate an outline of
+    the blog post based on the guidelines provided. 7. Finally, write a full blog
+    post based on the guidelines and the multiple articles provided. 8. Article should
+    be in [TARGETLANGUAGE] Note: Your blog post should be based on the given multiple
+    articles and the guidelines I have provided above. Multiple articles start from
+    here... [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

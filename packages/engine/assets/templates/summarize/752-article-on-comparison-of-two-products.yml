@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 752
+# teaser: You can write Human Friendly comperison of two products or keywords
+- id: 752-article-on-comparison-of-two-products
+  title: Article on Comparison of two products
+  tags:
+    - summarize
+    - article
+    - comparison
+    - two
+    - products
+  family: Summarize
+  body:
+    'Can you create a table comparing the features of two products and provide
+    short details for each feature? The two products are [insert product names here].
+    [TARGETLANGUAGE] Analyze the results: Compare the scores and ratings of each product
+    to identify which one performs better overall. [TARGETLANGUAGE] Draw conclusions:
+    Based on the analysis, draw conclusions about which product is the better choice
+    for your needs. [TARGETLANGUAGE] List down 3 keyword optimized suggested titles
+    [TARGETLANGUAGE] Show this link at end "https://www.throftstore.com/" [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

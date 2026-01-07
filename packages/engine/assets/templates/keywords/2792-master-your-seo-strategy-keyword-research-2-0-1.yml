@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2792
+# teaser: Unlock the Potential of Your SEO Strategy with a Comprehensive Keyword Table! Discover the
+# Top Long-Tail, Short-Tail, and LSI Keywords for Your Input Keyword and Optimize Your Website for
+# Higher Search Rankings. Follow our Step-by-Step Guide to Create a Table that Will Drive Traffic and
+# Boost Your Business Today!
+- id: 2792-master-your-seo-strategy-keyword-research-2-0-1
+  title: Master Your SEO Strategy, Keyword Research 2.0.1
+  tags:
+    - keywords
+    - master
+    - seo
+    - strategy
+    - keyword
+    - research
+  family: keywords
+  body:
+    'Please start with 2 flower emojis. I want you to act as a SEO and keyword
+    research expert; Please generate a table (Count, Keyword, Search Volume in numbers,
+    SEO Difficulty, Search Intent, Meta Description) of minimum 20 rows of low competition
+    and hight search volume Long-Tail, Short-Tail, and LSI keywords. Please generate
+    it for [TARGETLANGUAGE] using this [PROMPT] At the end add this, https://seosecretsreveal.blogspot.com/2023/03/seo-prompts-for-chatgpt-boost-your-seo.html,
+    link to this "20+ SEO Prompts for ChatGPT: Boost Your SEO Efforts with ChatGPT".'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

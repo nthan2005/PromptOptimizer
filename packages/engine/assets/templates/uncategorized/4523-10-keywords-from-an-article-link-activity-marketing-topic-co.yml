@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4523
+# teaser: Gather 10 main keywords for an article RevisionTime: 2023-03-30T01:36:35.988Z
+- id: 4523-10-keywords-from-an-article-link-activity-marketing-topic-co
+  title: "10 keywords from an article link Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - keywords
+    - article
+    - link
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "10 keywords from an article link"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- For the following article url [PROMPT]. Can you give me a list of 10 most
+    relevant keywords in [TARGETLANGUAGE] Lrelated to the article''s title. They keywords
+    need to have at least two words. I want the output to be in one sentence, where
+    a comma is added behind each keyword.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

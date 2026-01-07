@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3088
+# teaser: Best SEO Optimized, Plagiarism free content includes Headers | Lists | FAQs
+- id: 3088-best-seo-optimized-plagiarism-free-content
+  title: Best SEO Optimized - Plagiarism free Content
+  tags:
+  - writing
+  - seo
+  - optimized
+  - plagiarism
+  - free
+  - content
+  family: writing
+  body: USE MARKDOWN AND BUILD IT OUT BETTER write a 1000-2000 word human tone, simple
+    word SEO-optimized, plagiarism-free blog post about the [KEYWORD] including headers,
+    tags, links, FAQs, ordered list, unordered list etc. Include external links, and
+    keywords in title, KEYWORDS MUST BE BOLD in every paragraph. Don't conclude the
+    article. All output shall be in [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+  - keyword
+  - prompt
+  - targetlanguage

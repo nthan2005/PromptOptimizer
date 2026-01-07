@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7859
+# teaser: Act as an etsy title expert Craft a captivating Etsy seamless title about [PROMPT], no
+# commas or dash or -, 140 characters max. Use provided keywords, do not use "or" or "and", ensure no
+# repetition, use simple english, Optimize for product relevance and appeal. Example of title outcome:
+# Swan stained glass acrylic plaque gift for nature swan lovers gift for fairy tale lovers art home
+# decor for aesthetic room swan nursery art RevisionTime: 2024-02-05T08:10:24.507Z
+- id: 7859-craft-a-captivating-title-activity-keywords-topic-seo-84c5d6
+  title: 'Craft a captivating title Activity: keywords Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - craft
+  - captivating
+  - title
+  - activity
+  - keywords
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1919986276816900096/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Craft a captivating title"](https://www.aiprm.com/prompts/seo/keywords/1919986276816900096/)_"
+    --- Act as an etsy title expert Craft a captivating Etsy seamless title about
+    [PROMPT] in [TARGETLANGUAGE], no commas or dash or -, 140 characters max. Use
+    provided keywords, do not use "or" or "and", ensure no repetition, use simple
+    english, Optimize for product relevance and appeal. Example of title outcome:
+    Swan stained glass acrylic plaque gift for nature swan lovers gift for fairy tale
+    lovers art home decor for aesthetic room swan nursery art'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

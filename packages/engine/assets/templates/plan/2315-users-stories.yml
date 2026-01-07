@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2315
+# teaser: Create a list of users stories
+- id: 2315-users-stories
+  title: Users Stories
+  tags:
+    - plan
+    - users
+    - stories
+  family: Plan
+  body:
+    As a professional web developper write a list of users stories by type of
+    user about this subjet [PROMPT] and make the output in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

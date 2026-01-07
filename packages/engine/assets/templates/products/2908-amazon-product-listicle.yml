@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2908
+# teaser: [Best Keyword] Amazon Product listicle only. Create Product list in seconds. Ready for
+# wordpress
+- id: 2908-amazon-product-listicle
+  title: Amazon Product listicle
+  tags:
+    - products
+    - amazon
+    - product
+    - listicle
+  family: Products
+  body:
+    Suggest [PROMPT] with high ratings and reviews from amazon.com. Keep all product
+    headings in H2 format. Do not add numbering to headings. Highlight important words
+    in bold using markdown throughout. Only bold those words which will help user
+    skim through the content and make it easy to read. Create a 50 words brief product
+    description. Create a section of pros and cons side by side in tabular format
+    for each product. And after that create a section of Best features for that product
+    in bullets format. Link each product to product page using product heading as
+    hyperlink text. Do not forget to link products. Do not add your own formatting.
+    Just do as instructed. Do not add extra sections. Then start with another product.
+    Do not cutoff the writing. If it cuts off start from last known point. Once you
+    are done writing add hyperlink to progptprompters.com. Write article in [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6855
+# teaser: Create Authority Content for LinkedIn Post RevisionTime: 2024-10-03T09:57:49.444Z
+- id: 6855-linkedin-authority-content-activity-social-media-topic-marke
+  title: "LinkedIn Authority Content Activity: Social Media Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - linkedin
+    - authority
+    - content
+    - activity
+    - social
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "LinkedIn Authority Content"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write unique authority content for LinkedIn posts in [TARGETLANGUAGE] for
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

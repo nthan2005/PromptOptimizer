@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2797
+# teaser: Optimize title and meta descriptions based on URL and keyword inputs.
+- id: 2797-metadata-optimizations-from-url
+  title: Metadata Optimizations from URL
+  tags:
+    - keywords
+    - metadata
+    - optimizations
+    - url
+  family: keywords
+  body:
+    Create title, meta description around 150 characters for this page [URL] using
+    the keyword [KEYWORD], and the language must be [TARGETLANGUAGE]. [PROMPT]
+  enabled: true
+  required:
+    - keyword
+    - prompt
+    - targetlanguage
+    - url

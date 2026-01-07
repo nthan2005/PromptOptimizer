@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3258
+# teaser: Create the best meta description according to your needs
+- id: 3258-meta-description-that-google-accept
+  title: Meta Description That Google Accept
+  tags:
+    - writing
+    - meta
+    - description
+    - that
+    - google
+    - accept
+  family: writing
+  body:
+    "Your task is to summarize the text I give you in 20 words or maximum 130
+    characters. All output shall be in [TARGETLANGUAGE]. The text to summarize is
+    this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9371
+# teaser: create a key words strategy for law student RevisionTime: 2024-07-21T19:09:39.31Z
+- id: 9371-law-activity-writing-topic-unsure-f69c57b424376b23
+  title: 'law Activity: writing Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - law
+  - activity
+  - writing
+  - topic
+  - unsure
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1980682911078944768/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "law"](https://www.aiprm.com/prompts/unsure/writing/1980682911078944768/)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT] draft for petierttion in bombay
+    high court'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

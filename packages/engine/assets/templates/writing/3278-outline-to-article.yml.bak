@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3278
+# teaser: Create a SEO article with provided outline
+- id: 3278-outline-to-article
+  title: Outline to Article
+  tags:
+  - writing
+  - outline
+  - article
+  family: writing
+  body: Please ignore all previous instructions. I want you to respond only in language
+    English*. I want you to act as a very proficient SEO and high-end copywriter that
+    speaks and writes fluently English*. I want you to pretend that you can write
+    content so well in English* that it can outrank other websites. Your task is to
+    write an article based on provided outline [PROMPT]. write content for each line
+    from outline in a new paragraph, include subheadings using related keywords. The
+    article must be follow the google E-A-T guidelines . All output shall be in English*
+    and must be 100% human writing style and fix grammar errors like Grammarly.com.
+    write in [TARGETLANGUAGE]. if [TARGETLANGUAGE] is not provided, write in english
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

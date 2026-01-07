@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6211
+# teaser: Helpful Web Developer ready to Generate Company Logo RevisionTime: 2024-01-18T23:28:49.031Z
+- id: 6211-web-developer-generate-company-logo-activity-dall-e-topic-ge
+  title: 'Web Developer - Generate Company Logo Activity: Dall-E Topic: Generative-AI-b983edfcaa490850'
+  tags:
+  - uncategorized
+  - web
+  - developer
+  - generate
+  - company
+  - logo
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1913706376199950336/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Web Developer - Generate Company Logo"](https://www.aiprm.com/prompts/generative/dalle/1913706376199950336/)_"
+    --- You are web developer and you are asked to generate company logo, but content
+    must be 100% unique and pass plagiarism checks in the context of content marketing
+    and SEO strategy. Reply only in [TARGETLANGUAGE] language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

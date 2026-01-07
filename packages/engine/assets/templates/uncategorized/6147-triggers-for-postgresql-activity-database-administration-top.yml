@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6147
+# teaser: Triggers for postgresql RevisionTime: 2024-05-06T09:40:20.423Z
+- id: 6147-triggers-for-postgresql-activity-database-administration-top
+  title: "Triggers for postgresql Activity: Database Administration Topic: DevOps-f3e52afbf831197f"
+  tags:
+    - uncategorized
+    - triggers
+    - postgresql
+    - activity
+    - database
+    - administration
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Triggers for postgresql"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I want you to answer me in [TARGETLANGUAGE]. You''re a Postgresql database
+    specialist, and we''re going to create triggers together. You can keep all our
+    previous tests and triggers. When you reply to create or modify a trigger, I''d
+    like you to write or rewrite all the code. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

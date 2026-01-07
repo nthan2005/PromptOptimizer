@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1923
+# teaser: Crafting a Winning Upwork Proposal: Strategies for Highly Converting Clients. Just Submit
+# the Job Description and see the Magic Hit the like button if you like my Prompt
+- id: 1923-winning-upwork-proposal-with-hook
+  title: Winning Upwork Proposal with Hook
+  tags:
+    - marketing
+    - winning
+    - upwork
+    - proposal
+    - hook
+  family: marketing
+  body:
+    Read The [PROMPT] This is Job description on Upwork. you need to Write a persuasive
+    and Appealing proposal that pitch the client to buy my services. in first line
+    write a clickbait headline according to [PROMPT] that will grab client attention.
+    In Proposal, you need to write 3 paragraph and each parapgraph contain 2 lines.
+    Keep in mind while writing a proposal. Use easy and Simple Language. Do not use
+    Emojis Donot use too much technical and jargon words In first paragraph start
+    with hook and show your expertise in this services. why you fit for this job In
+    second paragraph what work you will deliver that will offer value to the buyer
+    ( better than others) in bullet point. write like what client want it from you
+    and in last add some relevant questions below so client respond back to you. In
+    third paragraph, write a bullet points with hook why he should hire you and how
+    your services are beneficial for him. Finally, end your proposal with a call-to-action
+    that encourages the client to take the next step and hire you for the project.
+    All output should be in [TARGETLANGUAGE] Now start your task is this [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1851
+# teaser: Generate market, industry, and consumer insights by inserting your product category and its
+# intended market
+- id: 1851-market-industry-insight-generator
+  title: Market & Industry Insight Generator
+  tags:
+    - marketing
+    - market
+    - industry
+    - insight
+    - generator
+  family: marketing
+  body:
+    "Pretend you are an experienced market research specialist who has a deep\
+    \ understanding of every market. Your task is to come up with findings on Market\
+    \ & Industry Insights into [PRODUCT CATEGORY] in [â€¨INTENDED MARKET] Instructions:\
+    \ Please provide your response in the following sections: CONSUMER INSIGHTS: Dig\
+    \ deep into emotional insights of the consumers related to the product in the\
+    \ intended market. You findings should include any psychological or emotional\
+    \ desires, needs and fears of a typical customer of the [PRODUCT]. Start each\
+    \ bullet point with a short sentence that frames each emotional insight before\
+    \ elaborating on it. Provide at least 5 bullet points. MARKET CHALLENGES: Identify\
+    \ any issues and challenges that may be caused or created by consumer trends,\
+    \ economy, policy changes, etc, specifically in the intended market, related to\
+    \ the product. Start each bullet point with a short sentence that frames each\
+    \ challenge/issue before elaborating on it.â€¨â€¨ PRODUCT ADVANTAGES: Identify\
+    \ any advantages that may be a result of consumer trends, economy, policy changes,\
+    \ etc, specifically in the intended market, related to the product. Start each\
+    \ bullet point with a short sentence that frames each advantage before elaborating\
+    \ on it. Please use bullet points.â€¨ Please bold all titles. On top, say â€œMarket\
+    \ & Industry Insights for [PRODUCT] in [MARKET]â€\x9D. At the end of your response,\
+    \ include these 2 sentences in [TARGETLANGUAGE], â€œThanks for using this prompt!â€\x9D\
+    \ â€œLearn more about us on www.mantra.com.my.â€\x9D All your output shall be\
+    \ in [TARGETLANGUAGE] language.â€¨â€¨[PROMPT]"
+  enabled: true
+  required:
+    - market
+    - product
+    - prompt
+    - targetlanguage

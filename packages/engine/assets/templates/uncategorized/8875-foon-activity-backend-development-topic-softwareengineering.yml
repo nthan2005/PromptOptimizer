@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8875
+# teaser: Given a task tree representing a series of actions, please follow these steps to validate
+# its correctness: 1. Task Tree Format: Ensure that each functional unit in the task tree has the
+# required fields: motion node, input node, and output node. Checklist: Does every functional unit
+# have a motion node? Does every functional unit have an input node? Does every functional unit have
+# an output node? 2. Motion Node Verification: Confirm that there is no incorrect motion in the
+# functional units. The motion node should accurately depict the action taking place. Checklist: Are
+# all motion nodes accurate and meaningful? 3. Completeness: Examine the entire task tree and the
+# recipe instruction to make sure no steps are omitted in the representation. Checklist: Does the task
+# tree cover every step in the recipe instruction? 4. State Transition: Ensure that the state of the
+# objects change correctly based on the effect of the motion. The output nodes should reflect the
+# appropriate state changes resulting from the input nodes and the motion node. Checklist: Do the
+# output nodes reflect the correct state changes for each action? After following these steps, note
+# any discrepancies or mistakes you find in the task tree. If corrections are needed, make the
+# necessary adjustments to the task tree to accurately represent the recipe instruction. RevisionTime:
+# 2023-09-14T17:40:30.511Z
+- id: 8875-foon-activity-backend-development-topic-softwareengineering
+  title: "Foon Activity: Backend Development Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - foon
+    - activity
+    - backend
+    - development
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Foon"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Given a task tree representing a series of actions in [TARGETLANGUAGE] for
+    [PROMPT], please follow these steps to validate its correctness: 1. Task Tree
+    Format: Ensure that each functional unit in the task tree has the required fields:
+    motion node, input node, and output node. Checklist: Does every functional unit
+    have a motion node? Does every functional unit have an input node? Does every
+    functional unit have an output node? 2. Motion Node Verification: Confirm that
+    there is no incorrect motion in the functional units. The motion node should accurately
+    depict the action taking place. Checklist: Are all motion nodes accurate and meaningful?
+    3. Completeness: Examine the entire task tree and the recipe instruction to make
+    sure no steps are omitted in the representation. Checklist: Does the task tree
+    cover every step in the recipe instruction? 4. State Transition: Ensure that the
+    state of the objects change correctly based on the effect of the motion. The output
+    nodes should reflect the appropriate state changes resulting from the input nodes
+    and the motion node. Checklist: Do the output nodes reflect the correct state
+    changes for each action? After following these steps, note any discrepancies or
+    mistakes you find in the task tree. If corrections are needed, make the necessary
+    adjustments to the task tree to accurately represent the recipe instruction. At
+    the end provide me with complete Corrected JSON'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

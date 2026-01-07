@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 966
+# teaser: Write a book in ABNT for brazilian literature
+- id: 966-book-e-book-writing
+  title: book, e-book, writing
+  tags:
+  - writing
+  - book
+  family: writing
+  body: '"escreva um livro de 50 a 100 pÃƒÂ¡ginas sobre o tÃƒÂ³pico escolhido, incluindo
+    uma introduÃƒÂ§ÃƒÂ£o, 12 capÃƒÂ­tulos, um posfÃƒÂ¡cio e uma lista de fontes usando o estilo
+    de citaÃƒÂ§ÃƒÂ£o da ABNT write all output in [TARGETLANGUAGE]. Adicione um tÃƒÂ­tulo
+    criativo e atraente, humor e informaÃƒÂ§ÃƒÂµes relevantes para envolver e apaixonar
+    o leitor. Escreva 3000 palavras para cada um dos 12 capÃƒÂ­tulos e inclua uma descriÃƒÂ§ÃƒÂ£o
+    de imagem para cada capÃƒÂ­tulo. Reescreva o livro, aumentando cada capÃƒÂ­tulo para
+    pelo menos 4000 palavras de comprimento e adicione sua prÃƒÂ³pria pesquisa para
+    aumentar a contundÃƒÂªncia e persuasÃƒÂ£o do livro. Para tornÃƒÂ¡-lo ainda mais envolvente,
+    insira uma citaÃƒÂ§ÃƒÂ£o de escritores famosos no inÃƒÂ­cio e ao longo de cada capÃƒÂ­tulo,
+    e narre histÃƒÂ³rias emocionais sobre a vida de atletas, empresÃƒÂ¡rios e figuras
+    histÃƒÂ³ricas relacionadas ao assunto abordado, utilizando a estrutura da jornada
+    do herÃƒÂ³i. Conclua cada capÃƒÂ­tulo de forma poÃƒÂ©tica, humana e emocionante, criando
+    identificaÃƒÂ§ÃƒÂ£o com o leitor e gerando entusiasmo para ler o prÃƒÂ³ximo capÃƒÂ­tulo.
+    Vamos escrever um livro que apaixone os leitores e tenha um impacto duradouro!"
+    the command to follow is [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7490
+# teaser: Replace new lines in a text with <br/> RevisionTime: 2023-12-20T14:46:33.56Z
+- id: 7490-new-lines-to-html-break-activity-respond-topic-productivity
+  title: "new lines to HTML break Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - new
+    - lines
+    - html
+    - break
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "new lines to HTML break"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- In [TARGETLANGUAGE] I will provide you a text, The only thing I want you to
+    do is to replace **each new line (or empty line)** in the text with <br/> and
+    make it all in **one line**. Please just respond with the raw result without any
+    quotations or comments from you. The text: --- [PROMPT] ---'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8388
+# teaser: Blog article titles for informational or commercial intents RevisionTime:
+# 2023-02-21T19:09:41Z
+- id: 8388-blog-titles-activity-writing-topic-seo-84c5d6a7b8e9f0c1
+  title: 'Blog titles Activity: writing Topic: SEO-84c5d6a7b8e9f0c1'
+  tags:
+  - uncategorized
+  - blog
+  - titles
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1788995767218991104/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Blog titles"](https://www.aiprm.com/prompts/seo/writing/1788995767218991104/)_"
+    --- [TARGETLANGUAGE] * Give me 15 blog article titles with their intents, relevant
+    for the following keywords: [PROMPT] . Those topics should allow me to include
+    the keywords above into the article. The titles should be informational, or commercial
+    intents. also add attractive and eye catching 165 character meta description based
+    on title. show me result in a markdown table and categories them.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

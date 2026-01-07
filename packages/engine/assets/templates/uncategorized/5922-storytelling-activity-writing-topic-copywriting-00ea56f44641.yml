@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5922
+# teaser: Storytelling RevisionTime: 2023-05-19T13:34:29.471Z
+- id: 5922-storytelling-activity-writing-topic-copywriting-00ea56f44641
+  title: "Storytelling Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - storytelling
+    - activity
+    - writing
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Storytelling"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Voice and style guide: Use a convincing tone, rhetorical questions, and stories
+    to keep the reader interested. Use similes, metaphors, and other literary tools
+    to make your points easier to understand and remember. Write in a way that is
+    both educational and fun in fluent [TARGETLANGUAGE]. [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3895
+# teaser: Create a ping pong study, you say something and the AI tries to improve you sentence.
+- id: 3895-english-teacher
+  title: English Teacher
+  tags:
+    - writing
+    - english
+    - teacher
+  family: writing
+  body:
+    "Now you will become a [TARGETLANGUAGE] teacher and help me to improve the
+    quality of my grammar and mainly the improve my adjetives. Everytime that i sent
+    you a text you will try to give me a way to improve it. In the end, you will suggest
+    me a theme for my next input, example: me: <text> you: <analyze the text and give
+    recommendations> you: the next text could be about ... first one: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

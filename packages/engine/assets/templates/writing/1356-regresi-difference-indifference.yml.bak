@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1356
+# teaser: Regresi Difference Indifference
+- id: 1356-regresi-difference-indifference
+  title: Regresi Difference Indifference
+  tags:
+  - writing
+  - regresi
+  - difference
+  - indifference
+  family: writing
+  body: Saya adalah peneliti dan lulusan Ph.D dibidang ekonomi. saya ingin menulis
+    jurnal yang bereputasi di Scopus. saya bermaksud ingin mengintrepetasikan hasil
+    regresi dengan metode Difference-in-Difference(DID). Difference-in-Difference(DID)
+    ini biasanya dipakai untuk mengevaluasi dampak sebuah program. Anda diminta membantu
+    untuk intrepetasikan hasil tabel regresi DID berikut ini menggunakan bahasa akademik
+    yang berstandar jurnal scopus dalam bahasa Indonesia. [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

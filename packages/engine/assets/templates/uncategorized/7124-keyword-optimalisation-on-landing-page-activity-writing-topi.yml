@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7124
+# teaser: Feedback For Improving Google Keywords, this prompt gives you 6 unique sentences that you
+# can use on landing page. RevisionTime: 2023-07-25T10:19:24.521Z
+- id: 7124-keyword-optimalisation-on-landing-page-activity-writing-topi
+  title: "Keyword Optimalisation on Landing Page Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - keyword
+    - optimalisation
+    - landing
+    - page
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Keyword Optimalisation on Landing Page"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your goal is to use this [PROMPT] to write six sentences. Imagine that you
+    are a Google ads specialist with 10 years of experience. Write the output in the
+    [TARGETLANGUAGE] Here you have the primary keywords; give me 6 different sentences
+    to use for a landing page. Then give feedback on those six sentences on how to
+    improve them.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

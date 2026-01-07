@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4806
+# teaser: Generate a Business Strategy using TOWS analysis (specialising SWOT analysis) for a new
+# product or service RevisionTime: 2023-03-22T09:20:44Z
+- id: 4806-business-strategy-using-tows-analysis-activity-products-topi
+  title: "Business Strategy using TOWS analysis Activity: Products Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - business
+    - strategy
+    - tows
+    - analysis
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Business Strategy using TOWS analysis"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to create a brief swor analysis for the product or service: [PROMPT]
+    taking in account its main characteristics, and considering the market in focus
+    then aply a detailed tows analysis on the swot analysis results. Use an analytic
+    formal analysis taking in account technological and enviromental trends. Avoid
+    increased risk. [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

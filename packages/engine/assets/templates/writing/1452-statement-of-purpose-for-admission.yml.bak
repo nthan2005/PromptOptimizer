@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1452
+# teaser: Write Statement of Purpose for PhD. Admission
+- id: 1452-statement-of-purpose-for-admission
+  title: Statement of Purpose for Admission
+  tags:
+  - writing
+  - statement
+  - purpose
+  - admission
+  family: writing
+  body: Please write a statement of purpose for admission in PhD program. The statement
+    of purpose should be based on the current qualification of the candidate [PROMPT],
+    and experience [PROMPT]. It should cover the details of the applied program and
+    university. It should link the current qualification of the candidate to the desired
+    program. It should also outline the future goals of the candidate and how the
+    program will help to achieve it. Create output in [TARGETLANGUAGE] based on [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2586
+# teaser: Stuck on what to write about for your next blog post? Our Blog Post Topic Ideas tool has got
+# you covered. Our tool generates creative and engaging topics that will not only captivate your
+# readers but also rank well on Google.
+- id: 2586-blog-post-topic-ideas
+  title: Blog Post Topic Ideas
+  tags:
+    - ideation
+    - blog
+    - post
+    - topic
+    - ideas
+  family: ideation
+  body:
+    'I want you to act as a blog post topic generator. I will provide you with
+    some information about my blog and target audience, and you will brainstorm new
+    blog post topics that will engage readers and rank well on Google. Your output
+    should be a list of blog post topics that are relevant, interesting, and useful
+    to the target audience, while also being optimized for search engines. Do not
+    echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not
+    self-reference. Get to the point precisely and accurately. Do not explain what
+    and why, just give me your best possible output. My first request is to generate
+    new blog post topics for my blog that focuses on the following niche: "[PROMPT]"
+    and my target audience is "[Enter Target Audience Here]". Please write in [TARGETLANGUAGE]
+    Language.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

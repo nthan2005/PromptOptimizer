@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4256
+# teaser: Please summarize content RevisionTime: 2023-07-12T07:16:55.206Z
+- id: 4256-summarize-content-activity-accounting-topic-copywriting-00ea
+  title: 'Summarize Content Activity: Accounting Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - summarize
+  - content
+  - activity
+  - accounting
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1844608095826464768/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Summarize Content"](https://www.aiprm.com/prompts/copywriting/accounting/1844608095826464768/)_"
+    --- please summarize the text in 20 words or maximum 130 characters. All output
+    shall be [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2816
+# teaser: SEO Title Slug Meta Description
+- id: 2816-seo-optimization-according-yoast
+  title: SEO optimization according Yoast
+  tags:
+    - keywords
+    - seo
+    - optimization
+    - according
+    - yoast
+  family: keywords
+  body:
+    "RÃ©dige pour un mot clÃ©: un titre Titre SEO avec 55 caractÃ¨res maximum
+    contenant le mot clÃ© au dÃ©but. un slug avec 30 caractÃ¨res maximum contenant
+    le mot clÃ©. la mÃ©ta description avec 150 caractÃ¨res max contenant le mot clÃ©.
+    All output shall be in [TARGETLANGUAGE] Le mot clÃ© est: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

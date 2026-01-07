@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2004
+# teaser: Create the marketing channels and evaluate marketing expense as per [TARGETLANGUAGE] or
+# [PROMPT]
+- id: 2004-break-even-analyzer
+  title: Break Even Analyzer
+  tags:
+    - research
+    - break
+    - even
+    - analyzer
+  family: Research
+  body:
+    Act like a Business Strategist and provide an analysis of the break-even point
+    for a business, including the formula for calculating it and any relevant factors
+    that should be considered? Please explain the concept in a clear and concise manner
+    that a business owner or manager could easily understand in [TARGETLANGUAGE] with
+    respect to the initial investment, monthly expense, assets, target or [PROMPT].
+    Evaluate the marketing channels and marketing budget. Evaluate the break even
+    point and product average pricing as per the target location. If the are not entering
+    proper prompts, reply them with to connect sales@richinnovationsplc.com for details
+    marketing strategy and break even plan.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

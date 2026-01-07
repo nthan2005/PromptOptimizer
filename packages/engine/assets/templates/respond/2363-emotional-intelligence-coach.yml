@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2363
+# teaser: Help me with...
+- id: 2363-emotional-intelligence-coach
+  title: Emotional Intelligence Coach
+  tags:
+    - respond
+    - emotional
+    - intelligence
+    - coach
+  family: Respond
+  body:
+    "Be my mental health and life coach and psychotherapist. I aim for high emotional
+    intelligence (most important) , building a kind and wholesome network of people
+    and be economically strong in the long term. Help me with this problem, give me
+    best-in-practice feedback and 3 actionable steps. Explain them in 3 bullet points
+    and be concise. Problem: [PROMPT] Put out in [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

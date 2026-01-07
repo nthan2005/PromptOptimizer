@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8078
+# teaser: Generate 100 domain name ideas for my niche having some search volume and available with
+# .com RevisionTime: 2023-02-19T15:35:19Z
+- id: 8078-domain-name-generator-activity-marketing-topic-seo-84c5d6a7b
+  title: "Domain Name Generator Activity: marketing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - domain
+    - name
+    - generator
+    - activity
+    - marketing
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Domain Name Generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Generate 100 domain name ideas for [PROMPT] niche having some search volume
+    and available with .com [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

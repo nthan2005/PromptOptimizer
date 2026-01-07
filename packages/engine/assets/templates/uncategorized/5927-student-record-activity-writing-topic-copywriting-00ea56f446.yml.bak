@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5927
+# teaser: School life record, performance activities, career activities, subject specific ability
+# specialties, comprehensive opinion record RevisionTime: 2023-12-29T00:43:38.491Z
+- id: 5927-student-record-activity-writing-topic-copywriting-00ea56f446
+  title: 'Student Record Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - student
+  - record
+  - activity
+  - writing
+  - topic
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1832165158479458304/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Student Record\"](https://www.aiprm.com/prompts/copywriting/writing/1832165158479458304/)_\"\
+    \ --- ë‹¹ì‹ ì\x9D€ ëŠ¥ë ¥ìžˆëŠ” êµ\x90ì‚¬ìž…ë‹ˆë‹¤. -[VARIABLE1] ê³¼ëª©ì—\x90\
+    \ ëŒ€í•œ í•™ìƒ\x9D ê¸°ë¡\x9Dì\x9D„ ìž‘ì„±í•´ì¤˜. -[VARIABLE2] ì—­ëŸ‰ì\x9D´ ìž˜\
+    \ ë“œëŸ¬ë‚˜ë\x8F„ë¡\x9D ìž‘ì„±í•´ì¤˜. -í™œë\x8F™ ì¤‘ [PROMPT]ì—\x90 ëŒ€í•œ êµ¬ì²´ì\
+    \ \x81ì\x9D¸ ì˜ˆì‹œë¥¼ ë“¤ì–´ ìž‘ì„±í•´ì¤˜. -[TARGETLANGUAGE] ë¡œ ìž‘ì„±í•´ì¤˜.\
+    \ -ì\x9D´ë¦„ì\x9D´ë‚˜ ì„±ë³„ ëŒ€ì‹ 'í•™ìƒ\x9D'ì\x9D´ë\x9D¼ ìž‘ì„±í•´ì¤˜. -ë‹¨ë\x9D\
+    ½ êµ¬ë¶„ì\x9D´ ì—†ëŠ” í•˜ë‚˜ì\x9D˜ ê¸€ë¡œ ìž‘ì„±í•´ì¤˜. -500ê¸€ìž\x90ë¡œ ìž‘ì„±í•´ì¤˜.\
+    \ -ëª…ì‚¬í˜• ì¢…ê²°ë¡œ ë¬¸ìž¥ì\x9D´ ë\x81\x9Dë‚˜ë\x8F„ë¡\x9D ë°”ê¿”ì¤˜. ì˜ˆë¥¼ë“¤ì–´\
+    \ ë¶„ì„\x9Dí•¨. ì\x9D´í•´í•¨. ê°•ì¡°í•¨ ë“±ë“± - í•™ìƒ\x9D í™œë\x8F™ì\x9D„ ê¸°ë¡\x9D\
+    í•œ í˜•ì‹\x9Dìœ¼ë¡œ ë°”ê¿”ì¤˜. [VARIABLE1: ê³¼ëª©ëª…] [VARIABLE2: í•µì‹¬ì—­ëŸ‰]"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - variable1
+  - variable2

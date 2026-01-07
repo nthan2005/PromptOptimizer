@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7601
+# teaser: Fiverr Prompt to Summarize and Structurize Clients Feedback on Revisions Requests. The
+# Output is a bullet point overview with clear actions to take and a reply written to the client
+# RevisionTime: 2023-11-13T09:40:41.061Z
+- id: 7601-fiverr-upwork-summarize-feedback-and-reply-activity-summariz
+  title:
+    "Fiverr + Upwork Summarize Feedback and Reply Activity: Summarize Topic:
+    Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - fiverr
+    - upwork
+    - summarize
+    - feedback
+    - reply
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Fiverr + Upwork Summarize Feedback
+    and Reply "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] Please read the client''s feedback carefully and use the following
+    format to break down and analyze the feedback into specific categories. This will
+    help ensure that you understand the client''s needs and have clear steps for your
+    revisions. Format: Item Number & Name (If the client has specifically named the
+    item, use this name. If not, use a brief description of the item). Specific Feedback:
+    Summarize what the client has said about this item. What do they like? What do
+    they dislike? Action Required: Based on the client''s feedback, what changes do
+    you need to make? What actions will address the client''s concerns? Example: Item
+    1: Logo Design Specific Feedback: The client feels that the logo design lacks
+    vibrancy and does not represent their brand''s lively and youthful energy. Action
+    Required: Re-design the logo incorporating more vibrant colors and elements that
+    reflect youthful energy. Consider presenting multiple design options for the client
+    to choose from. Clear and specific actions based on each point of feedback will
+    help streamline your revision process and ensure that your work aligns with the
+    client''s vision. Always seek to address each point of feedback in your revisions,
+    and don''t hesitate to ask for clarification if any part of the feedback is unclear.
+    Provide a reply to the client, where all the points are addressed and actions
+    described. Write in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

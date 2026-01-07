@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3555
+# teaser: Remove style attributes from HTML tags
+- id: 3555-delete-html-style-attribute
+  title: Delete html style attribute
+  tags:
+    - text-editor
+    - delete
+    - html
+    - style
+    - attribute
+  family: Text Editor
+  body:
+    "```html [PROMPT] ``` - The above code is targeted at - Remove all style attributes
+    from HTML tags - Remove all scope attributes from HTML tags - Output as HTML language
+    code - Indent and format - Indentation rule is two spaces. - Delete width and
+    height designations as well - Delete all attribute values for table tags and their
+    child elements - Add a class to each tag with class naming in BEM - Non-code descriptions
+    and comments are output in [TARGETLANGUAGE]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

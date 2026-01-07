@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6199
+# teaser: ebook in one click RevisionTime: 2023-05-17T00:35:29.817Z
+- id: 6199-kids-activity-dall-e-topic-generative-ai-b983edfcaa490850
+  title: "kids Activity: Dall-E Topic: Generative-AI-b983edfcaa490850"
+  tags:
+    - uncategorized
+    - kids
+    - activity
+    - dall
+    - topic
+    - generative
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "kids"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- TEXTO PROMPT [TARGETLANGUAGE] e [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

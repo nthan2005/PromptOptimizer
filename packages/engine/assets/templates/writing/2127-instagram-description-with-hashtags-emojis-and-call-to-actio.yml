@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2127
+# teaser: Write an Instagram description with 25 hashtags, emojis and call to action.
+- id: 2127-instagram-description-with-hashtags-emojis-and-call-to-actio
+  title: Instagram Description with Hashtags, emojis and call to action
+  tags:
+    - writing
+    - instagram
+    - description
+    - hashtags
+    - emojis
+    - call
+  family: writing
+  body:
+    "Write me an Instagram description with emojis, include a hook and also a
+    call to action. Also include the words, CLICK LINK IN BIO. Also include 25 relevant
+    hashtags. All output should be in [TARGETLANGUAGE]. The text would be [PROMPT]:"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

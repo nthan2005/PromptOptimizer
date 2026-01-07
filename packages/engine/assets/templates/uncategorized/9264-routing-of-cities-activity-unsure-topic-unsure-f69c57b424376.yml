@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9264
+# teaser: carry out the routing of the cities so that the trip is more economical and faster
+# RevisionTime: 2023-06-21T16:35:57.239Z
+- id: 9264-routing-of-cities-activity-unsure-topic-unsure-f69c57b424376
+  title: "routing of cities Activity: UNSURE Topic: Unsure-f69c57b424376b23"
+  tags:
+    - uncategorized
+    - routing
+    - cities
+    - activity
+    - unsure
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "routing of cities"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- apresente a relaÃƒÂ§ÃƒÂ£o no idioma[TARGETLANGUAGE] Eu quero que vocÃƒÂª incorpore
+    um profissional de logÃƒÂ­stica que estÃƒÂ¡ organizando um transporte com um caminhÃƒÂ£o
+    faÃƒÂ§a a ordem das cidades, considerando o melhor roteiro considere vias e rodovias
+    sempre que for listado a cidade de VitÃƒÂ³ria da conquista duas vezes, considere
+    ela como inÃƒÂ­cio e final da viagem me apresente em uma tabela, somando a totalidade
+    das distÃƒÂ¢ncias ao final [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

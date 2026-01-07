@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1089
+# teaser: Expand on and explain [specific topic/context] in more depth including keywords [keywords].
+- id: 1089-expand-on-and-explain-a-specific-topic-context
+  title: Expand on and explain a specific topic/context
+  tags:
+    - writing
+    - expand
+    - explain
+    - specific
+    - topic
+    - context
+  family: writing
+  body:
+    "[TARGETLANGUAGE]. I want you [PROMPT] to expand on a specific topic/context,
+    explain in more depth, use these keywords"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

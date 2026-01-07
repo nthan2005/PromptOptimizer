@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6510
+# teaser: Create personas based on 5 levels of consciousness. RevisionTime: 2023-09-19T15:54:28.131Z
+- id: 6510-persona-creator-levels-of-consciousness-activity-marketing-t
+  title: 'Persona Creator - Levels of Consciousness Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - persona
+  - creator
+  - levels
+  - consciousness
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1793018713142980608/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Persona Creator - Levels of Consciousness"](https://www.aiprm.com/prompts/marketing/marketing/1793018713142980608/)_"
+    --- Create [PROMPT] personas for each level of consciousness. The 5 levels of
+    customer awareness created by Eugene Schwartz. Introduce each persona with Demographics,
+    Psychographics, main problem , Goals, Pain Points, Communication Preferences,
+    Buying Habits, Prerequisites and Main pain. Frustrations [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

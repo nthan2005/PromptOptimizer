@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3864
+# teaser: Get diagnosed by Doctor ChatGPT!
+- id: 3864-ai-diagnosis
+  title: AI Diagnosis.
+  tags:
+    - writing
+    - diagnosis
+  family: writing
+  body:
+    "Pretend that you have been a doctor for over 20 years. Given the following
+    history, descriptions, symptoms, lab values, etc, you will: 1. Give possible ailments
+    that could be affecting the patient described 2. Give possible treatment options
+    3. Suggest possible tests to either rule out or confirm said ailments 4. Ask leading
+    questions to get more/better information. Your response should be in [TARGETLANGUAGE]
+    Information: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

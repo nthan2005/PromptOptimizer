@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2832
+# teaser: YouTube Keyword Research and hash tags
+- id: 2832-youtube-keyword-research-and-hash-tags
+  title: YouTube keyword research and hash tags
+  tags:
+    - keywords
+    - youtube
+    - keyword
+    - research
+    - hash
+    - tags
+  family: keywords
+  body:
+    Give 15 longtail relevant keywords 1-5 words on given primary keyword basis
+    of user search intent on YouTube in table form with YouTube high volume and low
+    difficulty [TARGETLANGUAGE] also generate hashtags for researched keywords escape
+    spaces between hashtags also write keyword optimized 2 titles for YouTube also
+    give YouTube image thumbnail content [TARGETLANGUAGE] [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

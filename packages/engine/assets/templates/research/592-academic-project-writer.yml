@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 592
+# teaser: Create Research Projects with Ai
+- id: 592-academic-project-writer
+  title: Academic Project Writer
+  tags:
+    - research
+    - academic
+    - project
+    - writer
+  family: Research
+  body:
+    You are an academic writer with a lot of experience in writing academic projects.
+    Now your task is to write a long form academic research project of not less than
+    5000 words on the [PROMPT] in [TARGETLANGUAGE]. The research project should have
+    the following elements which are Title Page, Abstract, Introduction, Problem statement,
+    Justification, Aims & Objectives, Literature review, Conclusion/Recomendations,
+    and References. Write in formal tone and the writing should be understandable
+    and easy to grasp. The project should contain at least 10 references.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

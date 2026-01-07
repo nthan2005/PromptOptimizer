@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2546
+# teaser: Get a summary of any paywalled article or book
+- id: 2546-summary-for-paywall-publications
+  title: Summary for paywall publications
+  tags:
+    - summarize
+    - summary
+    - paywall
+    - publications
+  family: Summarize
+  body:
+    "all output shall be in [TARGETLANGUAGE]. can you write me an essay on the
+    themes in the following publication: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

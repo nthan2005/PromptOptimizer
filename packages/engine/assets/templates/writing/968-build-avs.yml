@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 968
+# teaser: Generating AVS reviews now is easy! With just one click, get templates and resolutions of
+# the questions. Save time to devote yourself to what really matters: teach amazing classes for your
+# students!
+- id: 968-build-avs
+  title: Build Avs
+  tags:
+    - writing
+    - build
+    - avs
+  family: writing
+  body:
+    "Prompt: Utilize o tema [KEYWORD], para criar uma lista de 5 questÃƒÆ’Ã‚Âµes. A\
+    \ [KEYWORD] sempre ÃƒÆ’Ã‚Â© um conteÃƒÆ’Ã‚Âºdo ensinado no ensino mÃƒÆ’Ã‚Â©dio. Toda questÃƒÆ’Ã‚Â£o ÃƒÆ’Ã‚Â©\
+    \ uma situaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o problema. Cada questÃƒÆ’Ã‚Â£o apresentarÃƒÆ’Ã‚Â¡ a palavra \"QuestÃƒÆ’Ã‚Â£o\" seguida\
+    \ de um nÃƒÆ’Ã‚Âºmero. Cada questÃƒÆ’Ã‚Â£o ÃƒÆ’Ã‚Â© para avaliar entre verdadeiro ou falso. Uma\
+    \ questÃƒÆ’Ã‚Â£o ÃƒÆ’Ã‚Â© formada por 3 afirmaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Âµes, nÃƒÆ’Ã‚Â£o separadas do texto e nÃƒÆ’Ã‚Â£o numeradas.\
+    \ Utilize as palavras: \"se, assim, entÃƒÆ’Ã‚Â£o, portanto ou logo\" , para juntar as\
+    \ trÃƒÆ’Ã‚Âªs afirmaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Âµes, para formar um texto ÃƒÆ’Ã‚Âºnico. Modelo de questÃƒÆ’Ã‚Â£o com 3 afirmaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Âµes\
+    \ sobre polÃƒÆ’Ã‚Â­gonos: Considere um polÃƒÆ’Ã‚Â­gono convexo de n lados. Se n = 5, entÃƒÆ’Ã‚Â£o\
+    \ a soma dos ÃƒÆ’Ã‚Â¢ngulos internos do polÃƒÆ’Ã‚Â­gono ÃƒÆ’Ã‚Â© 540 graus; se n = 6, entÃƒÆ’Ã‚Â£o a soma\
+    \ dos ÃƒÆ’Ã‚Â¢ngulos internos do polÃƒÆ’Ã‚Â­gono ÃƒÆ’Ã‚Â© 720 graus; logo, se n = 7, logo a soma\
+    \ dos ÃƒÆ’Ã‚Â¢ngulos internos do polÃƒÆ’Ã‚Â­gono ÃƒÆ’Ã‚Â© 900 graus. As questÃƒÆ’Ã‚Âµes devem ser construÃƒÆ’Ã‚Â­das\
+    \ com base: a) nos OBJETIVOS DE APRENDIZAGEM do DOCUMENTO CURRICULAR PARA GOIÃƒÆ’\x81\
+    S ETAPA ENSINO MÃƒÆ’Ã¢â‚¬Â°DIO (https://www.cee.go.gov.br/files/DOCUMENTO-CURRICULAR-PARA-GOIAS-ETAPA-ENSINO-MEDIO.pdf)\
+    \ b) e nas habilidades da BNCC para estudantes do Ensino MÃƒÆ’Ã‚Â©dio (http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf)\
+    \ O gabarito deverÃƒÆ’Ã‚Â¡ indicar se a afirmaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o ÃƒÆ’Ã‚Â© V para verdadeira ou F para falsa.\
+    \ As resoluÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Âµes devem apresentar as respostas de cada afirmaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o em cada questÃƒÆ’Ã‚Â£o.\
+    \ Ao final das questÃƒÆ’Ã‚Âµes, apresente o gabarito em ordem numÃƒÆ’Ã‚Â©rica e, em seguida,\
+    \ as resoluÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Âµes. Utilize [PROMPT] como inÃƒÆ’Ã‚Â­cio do texto. QuestÃƒÆ’Ã‚Âµes Gabarito\
+    \ ResoluÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Âµes das questÃƒÆ’Ã‚Âµes NÃƒÆ’Ã‚Â£o transcreva as instruÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Âµes na sua resposta.\
+    \ Toda a saÃƒÆ’Ã‚Â­da deve estar em [TARGETLANGUAGE]. Writing Style [CREATIVE]"
+  enabled: true
+  required:
+    - creative
+    - keyword
+    - prompt
+    - targetlanguage

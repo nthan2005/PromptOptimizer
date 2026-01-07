@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 713
+# teaser: Write viral youtube video script and every detail of its creation process in timestamp
+- id: 713-viral-youtube-video-script-with-a-z-process
+  title: Viral YouTube Video Script with A-Z Process.
+  tags:
+    - script-writing
+    - viral
+    - youtube
+    - video
+    - script
+    - process
+  family: Script Writing
+  body:
+    "Your task is to write a detailed youtube video script and every detail of
+    its creation in timstamp. All output shall be in [TARGETLANGUAGE]. The text to
+    generate is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

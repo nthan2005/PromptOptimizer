@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7355
+# teaser: Split billing address into columns of street address, city, state and postal code
+# RevisionTime: 2023-11-21T16:10:44.304Z
+- id: 7355-split-billing-address-activity-plan-topic-productivity-b5a49
+  title: 'Split Billing Address Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - split
+  - billing
+  - address
+  - activity
+  - plan
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1885746939049033728/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Split Billing Address"](https://www.aiprm.com/prompts/productivity/plan/1885746939049033728/)_"
+    --- split the billing address in [TARGETLANGUAGE] from given [PROMPT] into columns
+    of the street address, city, state and postal code and present it in a spreadsheet
+    table. if there is no postal code, leave the column blank.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

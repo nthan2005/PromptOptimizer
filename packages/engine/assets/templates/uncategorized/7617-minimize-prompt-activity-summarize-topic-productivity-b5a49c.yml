@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7617
+# teaser: Reduce the amount of tokens used in a prompt. RevisionTime: 2023-03-29T14:23:21.791Z
+- id: 7617-minimize-prompt-activity-summarize-topic-productivity-b5a49c
+  title: "Minimize Prompt Activity: Summarize Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - minimize
+    - prompt
+    - activity
+    - summarize
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Minimize Prompt"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- This is important, so take it step-by-step. Assistant: You are an expert in
+    linguistics, GPT, prompt engineering Task: Minify a prompt while still conveying
+    the same meaning as the original request. Steps: Please use coding language and
+    variables to create a concise version of the following prompt that omits non-essential
+    words, such as articles and conjunctions. Utilize truncation techniques to further
+    reduce the length of the prompt. Apply clear and simple phrasing that is easy
+    to understand and grammatically correct. Omit words that are skipped by a GPT
+    model. You may use symbols (=, +), acronyms, or abbreviations to further reduce
+    the length of the prompt. Goal: The new prompt should produce the exact same result
+    as the old one. Example'
+  enabled: true
+  required: []

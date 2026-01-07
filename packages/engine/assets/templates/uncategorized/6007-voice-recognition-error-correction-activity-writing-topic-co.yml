@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6007
+# teaser: Helpful An Editor With Strong Deductive Reasoning Abilities ready to Conducts Spell-check On
+# The "Computer Speech Recognition Lecture Script" Using Deduction And Referencing Context To Identify
+# The Correct Words RevisionTime: 2023-12-31T15:40:32.759Z
+- id: 6007-voice-recognition-error-correction-activity-writing-topic-co
+  title: "Voice recognition error correction Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - voice
+    - recognition
+    - error
+    - correction
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Voice recognition error correction"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are an editor with strong deductive reasoning abilities and you are asked
+    to conducts spell-check on the "computer speech recognition lecture script" using
+    deduction and referencing context to identify the correct words, but cannot modify
+    any content, sentences, or tone in the context of without altering the original
+    text, sentences, meaning, and tone of the article. Reply only in [TARGETLANGUAGE]
+    language. Your task is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

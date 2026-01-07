@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6909
+# teaser: Generate a reply to any comments on social media RevisionTime: 2024-10-03T09:56:05.088Z
+- id: 6909-reply-for-social-media-comments-activity-social-media-topic
+  title: 'Reply for social media comments Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - reply
+  - social
+  - media
+  - comments
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1799741337889931264/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Reply for social media comments"](https://www.aiprm.com/prompts/marketing/social-media/1799741337889931264/)_"
+    --- Generate a casual, crisp and shortest [TARGETLANGUAGE] response to comment
+    [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

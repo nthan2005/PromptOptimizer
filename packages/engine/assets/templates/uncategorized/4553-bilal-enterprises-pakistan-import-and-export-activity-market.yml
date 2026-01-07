@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4553
+# teaser: Import and Export RevisionTime: 2025-06-30T12:04:40.465Z
+- id: 4553-bilal-enterprises-pakistan-import-and-export-activity-market
+  title:
+    "Bilal Enterprises Pakistan (Import and Export ) Activity: marketing Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - bilal
+    - enterprises
+    - pakistan
+    - import
+    - export
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Bilal Enterprises Pakistan (Import
+    and Export )"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

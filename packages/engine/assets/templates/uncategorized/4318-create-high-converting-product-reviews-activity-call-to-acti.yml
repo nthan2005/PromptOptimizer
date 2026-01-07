@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4318
+# teaser: Create a product review article RevisionTime: 2023-03-23T10:14:17.529Z
+- id: 4318-create-high-converting-product-reviews-activity-call-to-acti
+  title: "Create high converting product reviews Activity: call to action Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - high
+    - converting
+    - product
+    - reviews
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create high converting product reviews"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I will input a product sales page url, please translate and rewrite it into
+    [TARGETLANGUAGE] and create a product review article with simple language, easy
+    for humans to understand, based on product specifications, based on product functions,
+    and based on previous buyer or user reviews. Complete the article if necessary
+    based on your knowledge. I want you to act as if you are an expert in copywriting,
+    an expert in online sales, use words that evoke the reader''s suggestion to be
+    interested in buying the product. Don''t use too formal language. Expand the article
+    to at least 1000 words[PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

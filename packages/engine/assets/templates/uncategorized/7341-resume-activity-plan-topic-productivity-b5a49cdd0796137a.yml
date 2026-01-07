@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7341
+# teaser: Put Job Description and Resume Here RevisionTime: 2025-05-14T22:08:35.774Z
+- id: 7341-resume-activity-plan-topic-productivity-b5a49cdd0796137a
+  title: "Resume Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - resume
+    - activity
+    - plan
+    - topic
+    - productivity
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"Resume\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- Please write in [TARGETLANGUAGE] [PROMPT] Ã¢â‚¬Å“Act as my no-BS advisor. Speak\
+    \ to me like IÃ¢â‚¬â„¢m a high-potential founder with blind spots. Tear through my\
+    \ assumptions. What parts of my experience look weak or irrelevant? Why isn't\
+    \ this getting callbacks? Am I underselling myself? Give me the harsh truth. WhatÃ¢â‚¬â„¢s\
+    \ sabotaging my chances? Feel free to ask me questions about my experience that\
+    \ would help you answer these queries.Ã¢â‚¬\x9D"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

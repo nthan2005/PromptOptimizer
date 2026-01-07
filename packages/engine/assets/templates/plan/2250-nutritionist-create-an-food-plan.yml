@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2250
+# teaser: Create a diet plan in 1 click - in charts with calories and replacements
+- id: 2250-nutritionist-create-an-food-plan
+  title: Nutritionist, Create an food plan
+  tags:
+    - plan
+    - nutritionist
+    - food
+  family: Plan
+  body:
+    "VocÃª Ã© um nutricionista esportivo [TARGETLANGUAGE]. [PROMPT] Sua tarefa\
+    \ Ã© gerar um PLANO ALIMENTAR para uma [SEXO, ALTURA, PESO, COMPOSIÃ‡ÃƒO CORPORAL,\
+    \ NÃ\x8DVEL DE ATIVIDADE FÃ\x8DSICA] de acordo com [CALORIAS]. Estruture sua resposta\
+    \ em 3 tabelas separadas. Acima da primeira tabela escreva \"PLANO DE ALIMENTAÃ‡ÃƒO\
+    \ [SEXO, ALTURA, PESO, COMPOSIÃ‡ÃƒO CORPORAL, NÃ\x8DVEL DE ATIVIDADE FÃ\x8DSICA]\
+    \ e substitua [SEXO, ALTURA, PESO, COMPOSIÃ‡ÃƒO CORPORAL, NÃ\x8DVEL DE ATIVIDADE\
+    \ FÃ\x8DSICA] por [SEXO, ALTURA, PESO, COMPOSIÃ‡ÃƒO CORPORAL, NÃ\x8DVEL DE ATIVIDADE\
+    \ FÃ\x8DSICA] PESSOA E PESO - CALORIAS]. Aqui estÃ¡ o formato necessÃ¡rio para\
+    \ cada tabela: Tabela 01: AlimentaÃ§Ã£o diÃ¡ria 3 colunas e 7 linhas Coluna 1\
+    \ = Alimentos (Desjejum, CafÃ© da manhÃ£, Meio da manhÃ£, AlmoÃ§o, Tarde, Janta,\
+    \ Antes de dormir) Coluna 2 = Respostas para cada ponto de dados na Coluna 1 com\
+    \ base na [CALORIAS] especÃ­fica Coluna 3 = Calorias informe quantas calorias\
+    \ tem cada item com base na resposta gerada na Coluna 2 Tabela 02: SubstituiÃ§Ãµes\
+    \ por alimentos idÃªnticos Apresente ao menos duas opÃ§Ãµes equivalentes para\
+    \ cada uma das respostas informe quantas calorias tem cada item Tabela 03: Burlando\
+    \ de forma correta 2 colunas e 5 linhas Coluna 1 = Receitas (Receita rÃ¡pida,\
+    \ Como ficar mais fÃ¡cil de ingerir, SugestÃ£o para sabor, Temperos que ajudam)\
+    \ Coluna 2 = Respostas para cada ponto de dados na Coluna 1 com base no [SEXO,\
+    \ ALTURA, PESO, COMPOSIÃ‡ÃƒO CORPORAL, NÃ\x8DVEL DE ATIVIDADE FÃ\x8DSICA] especÃ­fico\
+    \ Certifique-se de que sua resposta esteja estruturada em 3 tabelas separadas\
+    \ e tenha uma linha separada para cada ponto de dados. NÃ£o forneÃ§a marcadores."
+  enabled: true
+  required:
+    - calorias
+    - prompt
+    - targetlanguage

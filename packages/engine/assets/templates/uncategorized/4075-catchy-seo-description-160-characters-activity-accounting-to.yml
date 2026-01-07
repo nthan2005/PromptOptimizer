@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4075
+# teaser: Catchy SEO description 160 characters as a content marketer RevisionTime:
+# 2023-07-21T12:12:00.062Z
+- id: 4075-catchy-seo-description-160-characters-activity-accounting-to
+  title: "Catchy SEO description 160 characters Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - catchy
+    - seo
+    - description
+    - "160"
+    - characters
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Catchy SEO description 160 characters"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- As a content marketer, write a catchy meta description for a blog post with
+    the keywords [PROMPT] while ensuring that the meta description is 160 characters
+    max. Language: [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

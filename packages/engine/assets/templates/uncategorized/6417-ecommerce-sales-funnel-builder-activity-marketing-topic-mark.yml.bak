@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6417
+# teaser: Looking to optimize your eCommerce sales? Let our AI-powered eCommerce Sales Funnel Builder
+# Prompt do the work for you! Our Prompt can quickly and efficiently create a sales funnel that is
+# tailored to your business needs, helping you to drive more sales and increase your revenue.
+# RevisionTime: 2023-04-07T06:23:51.752Z
+- id: 6417-ecommerce-sales-funnel-builder-activity-marketing-topic-mark
+  title: 'eCommerce Sales Funnel Builder Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - ecommerce
+  - sales
+  - funnel
+  - builder
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1803043757495676928/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "eCommerce Sales Funnel Builder"](https://www.aiprm.com/prompts/marketing/marketing/1803043757495676928/)_"
+    --- I want you to act as an eCommerce sales funnel builder. I will provide you
+    with information about the product or service being sold and the target audience.
+    Using this information, you will build a sales funnel that guides potential customers
+    through the purchasing process and maximizes sales. Your output should be a detailed
+    sales funnel plan, including the stages of the funnel, the content and messaging
+    for each stage, and any necessary tools or platforms. Do not echo my prompt. Do
+    not remind me what I asked you for. Do not apologize. Do not self-reference. Get
+    to the point precisely and accurately. Do not explain what and why, just give
+    me your best possible output. My first request is to build an eCommerce sales
+    funnel for the following product or service: "[PROMPT]" targeting the following
+    audience:[VARIABLE1].with any additional inputs such as budget:"[VARIABLE2]",
+    goals:"[VARIABLE3]", or desired features:"[VARIABLE4]". Use markdown Format Respond
+    in [TARGETLANGUAGE]. [VARIABLE1: Enter Target Audience Here]. [VARIABLE2: Budget]
+    [VARIABLE3: Goals] [VARIABLE4: Desired Features]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
+  - variable1
+  - variable2
+  - variable3
+  - variable4

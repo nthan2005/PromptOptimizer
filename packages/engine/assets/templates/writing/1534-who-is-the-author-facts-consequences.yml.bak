@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1534
+# teaser: Extract the author and consequences of acts in a text.
+- id: 1534-who-is-the-author-facts-consequences
+  title: Who is the Author, Facts, Consequences?
+  tags:
+  - writing
+  - who
+  - author
+  - facts
+  - consequences
+  family: writing
+  body: Create a matrix in [TARGETLANGUAGE] identifying one or more moments, triggering
+    events, authors and the individual consequences of each event that occurred at
+    a given time based on the entered text. [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

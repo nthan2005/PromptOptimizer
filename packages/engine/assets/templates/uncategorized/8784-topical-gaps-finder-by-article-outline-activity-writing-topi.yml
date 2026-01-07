@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 8784
+# teaser: Find content gaps in your [Article Outline] and analyze it for comprehensiveness.
+# RevisionTime: 2023-03-17T04:36:36Z
+- id: 8784-topical-gaps-finder-by-article-outline-activity-writing-topi
+  title: "Topical Gaps Finder by Article Outline Activity: writing Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - topical
+    - gaps
+    - finder
+    - article
+    - outline
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Topical Gaps Finder by Article Outline"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Pretend like you are an SEO specialist and can write high-value articles that
+    cover every aspect of the topic. Analyze the following content outline, and find
+    out the topical gaps in it: [PROMPT] I want the output in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

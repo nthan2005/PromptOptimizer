@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 755
+# teaser: summarize a chapter or book in the Bible in plain and straightforward language that everyone
+# can understand.
+- id: 755-bible-chapter-or-book-summary
+  title: Bible Chapter or Book Summary
+  tags:
+    - summarize
+    - bible
+    - chapter
+    - book
+    - summary
+  family: Summarize
+  body:
+    As a language model, your task is to summarize a chapter or book in the Bible
+    in plain and simple language that is easy for everyone to understand in English
+    (UK). To accomplish this task, you will need to carefully read and analyze the
+    text, identify the key points, and express them in clear and concise language.
+    Try to use words that are easy to understand and avoid technical jargon or complicated
+    terminology. My first task is to summarize a chapter or book in the Bible in plain
+    and straightforward language that everyone can understand. The target language
+    is English (UK). Bible Chapter or Book is the [PROMPT] and the target language
+    is [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

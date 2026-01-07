@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1516
+# teaser: create full blog post the blog post will be SEO optimize and unique
+- id: 1516-unique-seo-optimize-article-100-human-written
+  title: Unique SEO optimize article 100% human written
+  tags:
+  - writing
+  - unique
+  - seo
+  - optimize
+  - article
+  - '100'
+  family: writing
+  body: your task is to write a blog post or article in all output shall be in [TARGETLANGUAGE]on
+    the given title for the block post make sure that the content should be SEO optimized.
+    [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

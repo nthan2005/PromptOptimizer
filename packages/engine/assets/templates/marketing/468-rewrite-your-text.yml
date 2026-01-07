@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 468
+# teaser: Paste your text here to be rewrited
+- id: 468-rewrite-your-text
+  title: Rewrite your text
+  tags:
+    - marketing
+    - rewrite
+    - text
+  family: marketing
+  body:
+    "Your task is to rewrite the text with other words. all output shall be in
+    [TARGETLANGUAGE]. The text to rewrite is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

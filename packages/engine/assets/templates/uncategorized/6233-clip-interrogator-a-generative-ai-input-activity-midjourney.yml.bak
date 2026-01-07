@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6233
+# teaser: Create Generative AI input from clip interrogator output RevisionTime:
+# 2023-03-11T16:47:51.817Z
+- id: 6233-clip-interrogator-a-generative-ai-input-activity-midjourney
+  title: 'Clip Interrogator â€“> Generative AI Input Activity: Midjourney Topic: Generative-AI-b983edfcaa490850'
+  tags:
+  - uncategorized
+  - clip
+  - interrogator
+  - generative
+  - input
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/midjourney/1800178070997692416/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Clip Interrogator â€“> Generative AI
+    Input"](https://www.aiprm.com/prompts/generative/midjourney/1800178070997692416/)_"
+    --- Please, rewrite in [TARGETLANGUAGE] the following gibberish into a sensible
+    text. Use all the words from the original: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

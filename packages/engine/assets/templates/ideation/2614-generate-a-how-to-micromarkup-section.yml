@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2614
+# teaser: Create a "How To" micromarkup section past a link to an article from the blog
+- id: 2614-generate-a-how-to-micromarkup-section
+  title: Generate a "How To" micromarkup section
+  tags:
+    - ideation
+    - generate
+    - micromarkup
+    - section
+  family: ideation
+  body:
+    'You need to create a "How To" section on microparsing. You need to analyze
+    the article, read it, make conclusions and compose a "How To" section. Highlight
+    the main points that were in the article to make a "How To" on them. Do this in
+    the format. Step 1, Step 2, etc. The answer should start with the words - Here
+    are the main points from the article Title of the article that you can use to
+    compose a "How To" section based on them: Also, your answer should be formatted
+    as Schema Markup (JSON-LD) micro markup [TARGETLANGUAGE] [PROMPT].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

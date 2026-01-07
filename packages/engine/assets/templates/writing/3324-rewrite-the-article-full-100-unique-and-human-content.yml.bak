@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3324
+# teaser: 80 TO 100% Unique and Human Content | Full SEO Optimized Article
+- id: 3324-rewrite-the-article-full-100-unique-and-human-content
+  title: Rewrite the Article | Full 100% Unique and Human Content
+  tags:
+  - writing
+  - rewrite
+  - article
+  - full
+  - '100'
+  - unique
+  family: writing
+  body: 'rewrite the article with a high degree of perplexity and burstiness: All
+    output shall be in [TARGETLANGUAGE]. please write visit "https://hozonefly.com/"
+    after the paragraph. [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

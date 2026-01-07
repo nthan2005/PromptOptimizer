@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3585
+# teaser: Have the best programming summarizer ever
+- id: 3585-best-programming-summarizer-ever
+  title: Best programming summarizer ever
+  tags:
+    - web-development
+    - programming
+    - summarizer
+    - ever
+  family: Web Development
+  body:
+    "you will explain how it works in the simplest and shortest possible way [TARGETLANGUAGE],
+    using a maximum of 3 sentences [TARGETLANGUAGE]. If it's related to programming
+    [TARGETLANGUAGE], show a code example with 'Hello World' [TARGETLANGUAGE]. Do
+    it all with the following text: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

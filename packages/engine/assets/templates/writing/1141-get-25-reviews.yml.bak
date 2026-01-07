@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1141
+# teaser: Get 25 reviews for your business by just telling us about your business.
+- id: 1141-get-25-reviews
+  title: Get 25 Reviews
+  tags:
+  - writing
+  - reviews
+  family: writing
+  body: 'I want you to write me 25 natural sounding customer reviews They should not
+    be written in a marketing or salesy kind of way. Each one should have its own
+    attitude and style of writing. Some of the reviews need to include informal words
+    or abbreviations. They should all be positive, but they should have mixed levels
+    of positivity. Every one should be + or - 5 words from the previous one. Every
+    review should include 1 high volume longtail keyword that this type of business
+    should try to rank for in local search results. When you''re done all of that,
+    mix them all up and give me them in a random order in a new list. Do not tell
+    me how many words were in each one or put them in quotations. Do this in [TARGETLANGUAGE].
+    Here is information about the business to include in the reviews: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

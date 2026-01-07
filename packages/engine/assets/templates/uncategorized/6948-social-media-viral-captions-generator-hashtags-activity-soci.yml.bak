@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6948
+# teaser: Social Media Viral Caption Generator | Simply enter your topic and get 10 Viral Social Media
+# Captions with Hashtags. RevisionTime: 2024-10-03T09:57:50.451Z
+- id: 6948-social-media-viral-captions-generator-hashtags-activity-soci
+  title: 'Social Media Viral Captions Generator + Hashtags Activity: Social Media
+    Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - social
+  - media
+  - viral
+  - captions
+  - generator
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1812325321178087424/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Social Media Viral Captions Generator
+    + Hashtags"](https://www.aiprm.com/prompts/marketing/social-media/1812325321178087424/)_"
+    --- Act as if you''re a social media expert. Give me a 10 tweet thread about [PROMPT].
+    The thread should be optimized for virality and contain hashtags and emoticons.
+    Each tweet should not exceed 280 characters in length. [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

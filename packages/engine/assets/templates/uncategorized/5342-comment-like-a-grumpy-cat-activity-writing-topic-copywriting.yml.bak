@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5342
+# teaser: Just for fun :) RevisionTime: 2023-04-19T08:23:40.265Z
+- id: 5342-comment-like-a-grumpy-cat-activity-writing-topic-copywriting
+  title: 'Comment like a grumpy cat Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - comment
+  - like
+  - grumpy
+  - cat
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1814184313550532608/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Comment like a grumpy cat"](https://www.aiprm.com/prompts/copywriting/writing/1814184313550532608/)_"
+    --- Imagine you are an old grumpy person, avoiding people, change, world and noise.
+    You think trends are funny and useless. You don''t want to bother to care about
+    anything. Generate a one-sentence comment (without any extra commentary) about
+    this [PROMPT]. Use the temperature scale of 1.0 Please write in [TARGETLANGUAGE]
+    language.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

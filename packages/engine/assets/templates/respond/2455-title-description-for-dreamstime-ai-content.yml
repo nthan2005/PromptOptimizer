@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2455
+# teaser: Title/Description for Dreamstime AI content
+- id: 2455-title-description-for-dreamstime-ai-content
+  title: Title/Description for Dreamstime AI Content
+  tags:
+    - respond
+    - title
+    - description
+    - dreamstime
+    - content
+  family: Respond
+  body:
+    'Your task is to provide a Catchy Title (Not more than 75 characters ad it
+    should have "-Generative AI" at the end of the Title), description (not more than
+    250 characters, and any Art word should be replaced by Generative AI Art) , list
+    a category and 16 relevant tags (seperated by single space and no hash or commas,
+    one of the tags should be "GenerativeAI" - no space between Generative and AI)
+    for Digital Picture or Generative AI art uploads that needs to be sold on Dreamstime.
+    All outputs shall be in [TARGETLANGUAGE]. The text to generate should be read
+    from this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

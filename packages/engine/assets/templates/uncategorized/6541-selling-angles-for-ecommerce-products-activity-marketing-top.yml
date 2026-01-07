@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6541
+# teaser: Define selling angles for e-commerce advertising videos. RevisionTime:
+# 2024-03-25T20:44:02.625Z
+- id: 6541-selling-angles-for-ecommerce-products-activity-marketing-top
+  title: "Selling Angles for ecommerce products Activity: marketing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - selling
+    - angles
+    - ecommerce
+    - products
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Selling Angles for ecommerce products"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Assume you are an expert in digital marketing and a seasoned trafficker with
+    over 50 years of experience specializing in creating high-converting advertising
+    videos for e-commerce stores [TARGETLANGUAGE]. Please consider the following product
+    and its features: [PROMPT]. Develop and elaborate on 3 scripts for crafting advertising
+    videos from different selling angles, taking into account the pain points and
+    fears people may have when they don''t have this product, as well as possible
+    objections that might prevent them from buying it. Utilize the ECR sales funnel
+    and combine it with neurologic marketing in each sales angle to develop the advertising
+    scripts (Consider the scenes and voiceovers that will go into each script). Keep
+    in mind that the advertising videos are intended for the Facebook Ads platform
+    and should have a minimum duration of 25 seconds. Provide the results in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

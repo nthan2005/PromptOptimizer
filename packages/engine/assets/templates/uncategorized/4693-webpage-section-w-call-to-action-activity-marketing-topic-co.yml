@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4693
+# teaser: Write a plagiarism-free web page section as a sales copy expert. RevisionTime:
+# 2023-02-28T18:12:40Z
+- id: 4693-webpage-section-w-call-to-action-activity-marketing-topic-co
+  title: "Webpage Section w/ Call To Action Activity: marketing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - webpage
+    - section
+    - call
+    - action
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Webpage Section w/ Call To Action"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Write [TARGETLANGUAGE] a plagiarism-free web page section with hooks, headlines,
+    persuasive bullets, & call to action for [PROMPT]. Utalize scarcity, urgency,
+    or social profe to enroll readers to read more about keyword [PROMPT] as a sales
+    copy expert.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

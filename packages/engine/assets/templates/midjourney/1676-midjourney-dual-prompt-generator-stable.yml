@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1676
+# teaser: Get two highly detailed Midjourney prompts in separate code blocks. Input a topic
+# (character, vehicle or any object from any Movie or Game) Example: Trevor Philips (Grand Theft Auto
+# V)
+- id: 1676-midjourney-dual-prompt-generator-stable
+  title: Midjourney dual prompt generator [stable]
+  tags:
+    - midjourney
+    - dual
+    - prompt
+    - generator
+    - stable
+  family: Midjourney
+  body:
+    "I want you to respond only in [TARGETLANGUAGE]. Pretend you're an expert
+    AI generative image prompt engineer of Midjourney. Pretend you're interested
+    in [PROMPT] and have a lot of knowledge about [PROMPT] Can you describe 2 separate
+    highly detailed Prompts for the Al image generator Midjourney, each detail must
+    be related to [PROMPT] , which describes a scene in intricate detail adding artistic
+    style, the light setting, artistic descriptive terms, highly effective rendering
+    terms, and the mood of the image [PROMPT] Do not forget to add this in the start
+    of code block: /imagine"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

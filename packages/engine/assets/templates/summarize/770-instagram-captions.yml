@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 770
+# teaser: Generate High-Quality Instagram Captions.
+- id: 770-instagram-captions
+  title: Instagram Captions
+  tags:
+    - summarize
+    - instagram
+    - captions
+  family: Summarize
+  body:
+    "Your task is to Generate Instagram Captions and Relevent Hashtags. I Give
+    you the Topic Name or Title. All output shall be in [TARGETLANGUAGE]. The text
+    to summarize is this: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

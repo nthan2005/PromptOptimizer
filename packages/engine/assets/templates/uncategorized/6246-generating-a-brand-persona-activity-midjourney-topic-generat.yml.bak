@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6246
+# teaser: Brand Persona Generator RevisionTime: 2023-07-25T17:48:08.6Z
+- id: 6246-generating-a-brand-persona-activity-midjourney-topic-generat
+  title: 'Generating a brand persona Activity: Midjourney Topic: Generative-AI-b983edfcaa490850'
+  tags:
+  - uncategorized
+  - generating
+  - brand
+  - persona
+  - activity
+  - midjourney
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/midjourney/1849477990606491648/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Generating a brand persona"](https://www.aiprm.com/prompts/generative/midjourney/1849477990606491648/)_"
+    --- Create a high-resolution, Canon EOS R5, long shot, realistic image of a [PROMPT][TARGETLANGUAGE],
+    ensuring accurate proportions and no distortions.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

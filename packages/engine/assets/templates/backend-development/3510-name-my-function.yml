@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3510
+# teaser: Give 10 ideas of function naming
+- id: 3510-name-my-function
+  title: Name my function
+  tags:
+    - backend-development
+    - name
+    - function
+  family: Backend Development
+  body:
+    You're an expert in Javascript for 20 years, you had developed many websites,
+    and have best practices in terms of naming your functions and variables. I'm developing
+    in Javascript and I need some suggestions for my function that [PROMPT] writes
+    fluent [TARGETLANGUAGE]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6139
+# teaser: Create a model with the table name [tableName] RevisionTime: 2023-03-05T02:20:17.809Z
+- id: 6139-generate-database-model-with-prisma-activity-database-admini
+  title:
+    "Generate database model with PRISMA Activity: Database Administration Topic:
+    DevOps-f3e52afbf831197f"
+  tags:
+    - uncategorized
+    - generate
+    - database
+    - model
+    - prisma
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Generate database model with PRISMA"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- PRISMA database model simulator with my question in language [TARGETLANGUAGE]
+    [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

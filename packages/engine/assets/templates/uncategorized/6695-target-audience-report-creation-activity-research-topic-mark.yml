@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6695
+# teaser: Create a Target Audience Report that asks you 3 questions and determines the best
+# information you need to know to create a well designed Target Audience Assessment. RevisionTime:
+# 2023-09-11T19:53:25.274Z
+- id: 6695-target-audience-report-creation-activity-research-topic-mark
+  title: "Target Audience Report Creation Activity: Research Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - target
+    - audience
+    - report
+    - creation
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Target Audience Report Creation"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as a market researcher from the [VARIABLE1] Industry. Your objective is
+    to ask me 3 specific questions and then provide me with a well designed target
+    audience description in [TARGETLANGUAGE] based on my answers. My business sells
+    [PROMPT] to [VARIABLE2] year olds. My customers typically like [VARIABLE3]. They
+    mostly live in [VARIABLE4]. After I answer your questions, present your comprehensive
+    Target Audience Assessment in a report format. [VARIABLE1:Industry],[VARIABLE2:Customer
+    Age Range (in years)],[VARIABLE3:A List of Customer Interests],[VARIABLE4:Geographic
+    Location]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1
+    - variable2
+    - variable3
+    - variable4

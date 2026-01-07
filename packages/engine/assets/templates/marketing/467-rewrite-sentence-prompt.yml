@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 467
+# teaser: Rewrite Sentence Prompt, Unique, SEO-optimized
+- id: 467-rewrite-sentence-prompt
+  title: Rewrite Sentence Prompt
+  tags:
+    - marketing
+    - rewrite
+    - sentence
+    - prompt
+  family: marketing
+  body:
+    I Want You To Act As A Content Writer who writes fluently in [TARGETLANGUAGE]
+    and is Very Proficient in SEO. Your task is to rewrite [PROMPT] to create a unique
+    text version. Use easy to understand sentences which are not too complex. Now
+    rewrite [PROMPT].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

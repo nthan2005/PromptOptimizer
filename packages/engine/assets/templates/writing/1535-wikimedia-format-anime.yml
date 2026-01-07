@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1535
+# teaser: WikiMedia Format - Anime
+- id: 1535-wikimedia-format-anime
+  title: WikiMedia Format - Anime
+  tags:
+    - writing
+    - wikimedia
+    - format
+    - anime
+  family: writing
+  body:
+    saya akan membuat artikel dengan format penulisan mediawiki seperti wikipedia
+    tentang anime dan buatlah alur cerita animenya dari awal sampai akhir dengan panjang
+    minimal cerita 500 kata,studio,semua karakter anime,pengisi suara, judul musik,refrensi
+    sumber serta refrensi anime dan lainya dan buat red text untuk memasukan artikel
+    lainnya agar artikel lebih dari 1000 kata dengan informasi tentang anime lengkap
+    dan format penulisan pada gambar mirip seperti wikipedia lengkap dengan nama studio,sutradara,penulis,diadaptasi
+    dari apa, dll , jangan lupa buatkan dengan format mediawiki dan buat alur cerita
+    anime sepanjang mungkin dari awal hingga akhir anime dan buat kategori serta beberapa
+    gambar dengan posisi yang berbeda buat dengan judul anime [PROMPT] gunakan bahasa
+    [TARGETLANGUAGE] jangan tambahkan infobox dan rapihkan penulisan list
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

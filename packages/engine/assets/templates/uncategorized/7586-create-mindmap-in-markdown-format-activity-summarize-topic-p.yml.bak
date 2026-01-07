@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7586
+# teaser: Create mind map in markdown format from a single [Subject or Article] RevisionTime:
+# 2023-07-14T02:17:43.476Z
+- id: 7586-create-mindmap-in-markdown-format-activity-summarize-topic-p
+  title: 'Create Mindmap in markdown format Activity: Summarize Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - mindmap
+  - markdown
+  - format
+  - activity
+  - summarize
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1810536859185713152/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Create Mindmap in markdown format\"\
+    ](https://www.aiprm.com/prompts/productivity/summarize/1810536859185713152/)_\"\
+    \ --- [PROMPT] ä½ æ˜¯å¿ƒæ™ºåœ–æ•´ç\x90†é«˜æ‰‹ï¼Œè«‹æ•´ç\x90†ä¸Šé\x9D¢æ–‡ç« æˆ–ä¸»é¡Œï¼ŒåŒ…å\x90\
+    «å¤šå±¤æ¬¡çš„æ¨™é¡Œä»¥å\x8FŠå­\x90é …ç›®ï¼Œæ¯\x8Få€‹æ¨™é¡Œä¸\x8Dè¶…é\x81Ž30å€‹å­—ã€‚çµ¦æˆ‘Markdownä»£ç¢¼ï¼Œä¸¦åŒ…è¦†åœ¨ä»£ç¢¼å\x8D\
+    €å¡Šä¸­ã€‚è«‹ä»¥[TARGETLANGUAGE]è¼¸å‡º"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

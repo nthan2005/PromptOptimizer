@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1155
+# teaser: Write an SEO-friendly Article with H1,H2,H3,H4,H5 Headings on the topic. The article must
+# contain at least 1500 characters.
+- id: 1155-health-writer
+  title: Health Writer
+  tags:
+    - writing
+    - health
+    - writer
+  family: writing
+  body:
+    "Write an SEO-friendly Article with H1,H2,H3,H4,H5 Headings on the topic.
+    [TARGETLANGUAGE] The article must contain at least 1500 characters. To the end:
+    Link the following link to the text of Konya Nutrition Specialist Dietician SÃƒÆ’Ã‚Â¼meyye
+    BozoÃƒâ€žÃ…Â¸lu: https://konyadiyadizi.com [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

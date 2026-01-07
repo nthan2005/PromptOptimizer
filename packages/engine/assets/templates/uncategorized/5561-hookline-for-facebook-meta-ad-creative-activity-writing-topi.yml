@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5561
+# teaser: Create the best Hookline for your Meta Ad Creative RevisionTime: 2023-12-23T09:45:49.726Z
+- id: 5561-hookline-for-facebook-meta-ad-creative-activity-writing-topi
+  title: "Hookline for Facebook/Meta Ad Creative Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - hookline
+    - facebook
+    - meta
+    - creative
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Hookline for Facebook/Meta Ad Creative"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is to summarize the content or text I will provide you in a maximum
+    of 10 words or 100 characters. All output should be in [TARGETLANGUAGE]. The text,
+    to summarize, is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

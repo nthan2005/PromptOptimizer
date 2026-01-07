@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3548
+# teaser: Convert any VUE JS Method to PHP
+- id: 3548-vue-js-to-php-function-converter
+  title: VUE JS to PHP Function Converter
+  tags:
+    - backend-development
+    - vue
+    - php
+    - function
+    - converter
+  family: Backend Development
+  body:
+    "want you to act as an ai developer and answer in [TARGETLANGUAGE]. Convert
+    the following Vue JS Method to PHP Function: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

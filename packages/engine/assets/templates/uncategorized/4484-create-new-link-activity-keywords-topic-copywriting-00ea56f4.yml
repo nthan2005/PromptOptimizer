@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4484
+# teaser: Create New Link [url] RevisionTime: 2023-02-24T10:38:39.347Z
+- id: 4484-create-new-link-activity-keywords-topic-copywriting-00ea56f4
+  title: "Create New Link Activity: keywords Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - new
+    - link
+    - activity
+    - keywords
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Create New Link"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- VocÃƒÂª ÃƒÂ© um jornalista! Crie uma matÃƒÂ©ria completa [TARGETLANGUAGE] em PortuguÃƒÂªs,
+    limitando a 2000 caracteres, com base nas informaÃƒÂ§ÃƒÂµes da [URL]. Especificamente
+    na primeira linha informe o [TITULO] da matÃƒÂ©ria e na ÃƒÂºltima linha, crie um lista
+    de [KEYWORDS] separado por virgula. [PROMPT]'
+  enabled: true
+  required:
+    - keywords
+    - prompt
+    - targetlanguage
+    - titulo
+    - url

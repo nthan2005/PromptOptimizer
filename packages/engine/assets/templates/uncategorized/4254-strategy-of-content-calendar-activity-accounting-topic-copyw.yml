@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4254
+# teaser: Creat a calendar posts RevisionTime: 2023-03-02T13:51:40Z
+- id: 4254-strategy-of-content-calendar-activity-accounting-topic-copyw
+  title: "Strategy of content calendar Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - strategy
+    - content
+    - calendar
+    - activity
+    - accounting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Strategy of content calendar"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I''d like you to help me come up with a content schedule for my blog that
+    has the best chance of helping me rank for long tail keywords that are specific
+    to my keyword. I''ll tell you my main target keyword in the prompt below. Please
+    target transaction style search terms only. Please come up with clickbait style
+    titles for these blog posts. Please organize each blog post title in a nice looking
+    table so that it looks like a calendar. Each week should be separated into its
+    own table. Above the table Replace "KEYWORD" with the keyword provided in the
+    prompt in all caps. The keyword I''m targeting is: [PROMPT] language: [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 369
+# teaser: Create the best meta description for my content.
+- id: 369-bdx-meta-description
+  title: BDX Meta Description
+  tags:
+    - marketing
+    - bdx
+    - meta
+    - description
+  family: marketing
+  body:
+    'Your task is to create a google optimized meta description from the text
+    I give you. The meta description should be 120 characters or fewer including spaces.
+    You should use as much of the 120 characters as possible. Use active voice. All
+    output shall be in [TARGETLANGUAGE]. Use the tag "Meta Description:" The text
+    I want you to create a meta description for is this: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

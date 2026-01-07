@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4417
+# teaser: Helpful Writer ready to Write A Unique, Seo Optimized Article RevisionTime:
+# 2024-04-12T15:40:53.946Z
+- id: 4417-human-written-100-unique-seo-activity-improve-topic-copywrit
+  title: "Human Written | 100% Unique | SEO Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - human
+    - written
+    - "100"
+    - unique
+    - seo
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Human Written | 100% Unique | SEO"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- You are writer and you are asked to write a unique, SEO optimized article,
+    but content must be 100% unique and pass plagiarism checks in the context of content
+    marketing and SEO strategy. Reply only in [TARGETLANGUAGE] language. Your task
+    is: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

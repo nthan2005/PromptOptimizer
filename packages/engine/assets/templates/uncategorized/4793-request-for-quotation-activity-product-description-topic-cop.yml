@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4793
+# teaser: It will help you create best RFQ for your suppliers RevisionTime: 2023-03-07T10:07:48Z
+- id: 4793-request-for-quotation-activity-product-description-topic-cop
+  title: "Request For Quotation Activity: Product Description Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - request
+    - quotation
+    - activity
+    - product
+    - description
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Request For Quotation"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Your task is Create an RFQ for Alibaba suppliers. The target language is [TARGETLANGUAGE]
+    Give me your keyword, your features and some LoopHoles: [PROMPT]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

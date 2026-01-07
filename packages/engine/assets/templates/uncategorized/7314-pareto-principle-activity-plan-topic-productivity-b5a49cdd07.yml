@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7314
+# teaser: The Pareto Principle identifies 20% from a Topic that will yield 80% of the desired results.
+# If you have any suggestions for improvement write me on insta: erik.froeh RevisionTime:
+# 2023-04-30T14:58:12.913Z
+- id: 7314-pareto-principle-activity-plan-topic-productivity-b5a49cdd07
+  title: "Pareto Principle Activity: Plan Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - pareto
+    - principle
+    - activity
+    - plan
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Pareto Principle"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I wan to learn [PROMPT]. Can you use the Pareto Principle, wich identifies
+    the 20% of the Topic that will yield 80% of the desired results, to create a focused
+    learning plan for me? All output schould be in the the [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

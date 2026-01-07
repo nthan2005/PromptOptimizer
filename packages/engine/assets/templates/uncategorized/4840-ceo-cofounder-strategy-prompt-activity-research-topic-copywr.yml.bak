@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4840
+# teaser: Business RevisionTime: 2024-11-01T18:55:31.578Z
+- id: 4840-ceo-cofounder-strategy-prompt-activity-research-topic-copywr
+  title: 'CEO cofounder strategy prompt Activity: Research Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - ceo
+  - cofounder
+  - strategy
+  - prompt
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/2018005305590009856/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "CEO cofounder strategy prompt"](https://www.aiprm.com/prompts/copywriting/research/2018005305590009856/)_"
+    --- Please write in [TARGETLANGUAGE] [PROMPT] Could you act like my mentor? I
+    would like to share with you details and challenges of my company. After that
+    I want you to analize my business profile and give me feedback abou how to improve
+    my skills. For every answer I want you to do deeper questions for me to make shure
+    a personalized answer. Was it the prompt clear?'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

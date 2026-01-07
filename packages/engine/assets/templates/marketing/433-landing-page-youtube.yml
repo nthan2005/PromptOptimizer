@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 433
+# teaser: [how to make a landing page, top landing page builders, conversion tracking and google utm
+# url builder]
+- id: 433-landing-page-youtube
+  title: Landing Page Youtube
+  tags:
+    - marketing
+    - landing
+    - page
+    - youtube
+  family: marketing
+  body:
+    Create as if I write an article in 250 words. All output shall be in [TARGETLANGUAGE].
+    The summarize is this [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

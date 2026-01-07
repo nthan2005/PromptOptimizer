@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1599
+# teaser: Create your own IaC right now
+- id: 1599-creating-iac
+  title: Creating IaC
+  tags:
+    - configuration-management
+    - creating
+    - iac
+  family: Configuration Management
+  body:
+    Using the [TARGETLANGUAGE] Create me a code using IAC technology [PROMPT]
+    to provision resource [PROMPT] in cloud [PROMPT] with security standards recommended
+    by NIST and ISO27017.
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5353
+# teaser: Create the best conclusion for your blog with an interactive question. Just Add your BLOG-
+# TITLE here. Which will increase your blogs enagagement with your audience. RevisionTime:
+# 2023-02-19T15:35:19Z
+- id: 5353-conclusion-with-interactive-question-for-your-blog-activity
+  title:
+    "Conclusion with Interactive Question for your BLOG! Activity: writing Topic:
+    Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - conclusion
+    - interactive
+    - question
+    - blog
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Conclusion with Interactive Question
+    for your BLOG!"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Act as a Copywriter Write SEO-optimized Conclusion with Interactive question
+    [PROMPT] this blog in [TARGETLANGUAGE] showcase with separate section'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

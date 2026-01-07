@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4173
+# teaser: [Keyword] RevisionTime: 2023-12-08T13:00:56.871Z
+- id: 4173-keyword-activity-accounting-topic-copywriting-00ea56f4464142
+  title: "Keyword Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - keyword
+    - activity
+    - accounting
+    - topic
+    - copywriting
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Keyword"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] Generating engaging blog post ideas. "Hello ChatGPT, I''m working
+    on generating blog post ideas for [Your Blog''s Niche or Subject]. I need your
+    assistance in brainstorming. Please consider the following factors: Understanding
+    My Audience: My target audience is [describe your target audience, including their
+    interests, age group, profession, etc.]. What topics would be most relevant and
+    engaging for them? & [TARGETLANGUAGE] Current Trends and Topics: What are the
+    current trends and hot topics in [Your Blog''s Niche or Subject]? Please provide
+    insights into what''s currently popular and engaging in this field. Competitor
+    Analysis: I''ve noticed that my competitors often write about [mention a few topics
+    or themes your competitors focus on]. Based on this, can you suggest unique angles
+    or untapped ideas in [Your Blog''s Niche or Subject] that I could explore to stand
+    out? Content Variety and Formats: I''m interested in diversifying my content.
+    Could you suggest a variety of content types and formats, like listicles, how
+    to guides, interviews, etc., that would be suitable for my blog''s niche? Please
+    provide specific topic ideas for each format.'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

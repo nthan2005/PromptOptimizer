@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4760
+# teaser: Write Amazon Product title of maximum 180 Characters which is acceptable by Amazon
+# RevisionTime: 2023-04-29T11:02:45.279Z
+- id: 4760-amazon-title-activity-product-description-topic-copywriting
+  title: 'Amazon Title Activity: Product Description Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - amazon
+  - title
+  - activity
+  - product
+  - description
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/product-description/1801898704794542080/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Amazon Title"](https://www.aiprm.com/prompts/copywriting/product-description/1801898704794542080/)_"
+    --- Can you write Amazon Product Title Dont use more then 180 Characters in the
+    Title Ensure it doesnâ€™t include any surety words like 100%, perfect, unique,
+    perfect, best, High quality â€“ This is very important By using the following
+    information [PROMPT] write all output in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

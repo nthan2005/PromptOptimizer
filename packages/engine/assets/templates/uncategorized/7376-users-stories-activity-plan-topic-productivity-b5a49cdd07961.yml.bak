@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7376
+# teaser: Create a list of users stories RevisionTime: 2023-02-28T10:19:10.829Z
+- id: 7376-users-stories-activity-plan-topic-productivity-b5a49cdd07961
+  title: 'Users Stories Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - users
+  - stories
+  - activity
+  - plan
+  - topic
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1796093989162844160/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Users Stories"](https://www.aiprm.com/prompts/productivity/plan/1796093989162844160/)_"
+    --- As a professional web developper write a list of users stories by type of
+    user about this subjet [PROMPT] and make the output in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

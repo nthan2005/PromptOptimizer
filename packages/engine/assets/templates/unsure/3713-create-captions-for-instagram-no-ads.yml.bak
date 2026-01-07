@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3713
+# teaser: Generates a list of 20 engaging instagram captions for your picture (describe your picture
+# to the AI).
+- id: 3713-create-captions-for-instagram-no-ads
+  title: Create captions for Instagram (NO ADS )
+  tags:
+  - unsure
+  - captions
+  - instagram
+  - ads
+  family: UNSURE
+  body: Please generate a list of 20 engaging [TARGETLANGUAGE] instagram captions
+    for my picture "[PROMPT]".
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

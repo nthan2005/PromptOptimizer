@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4096
+# teaser: Crea Pagina Prodotto-Teaser RevisionTime: 2024-02-02T17:53:53.778Z
+- id: 4096-crea-pagina-prodotto-title-activity-accounting-topic-copywri
+  title: "Crea Pagina Prodotto-Title Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - crea
+    - pagina
+    - prodotto
+    - title
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Crea Pagina Prodotto-Title"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- prendi tutto il testo di questa pagina [VARIABLE1] e crea un markup per renderlo
+    piÃƒÂ¹ leggibile, ottimizzato per la seo, con sottotitolo con tag h2, paragrafi,
+    tag h3, punti elenco, per comporre una pagina di un prodotto per un sito di ecommerce.
+    Scrivi che cosÃ¢â‚¬â„¢ÃƒÂ¨, come ÃƒÂ¨ fatto, a cosa serve, quali sono i vantaggi, come
+    si usa, quale ÃƒÂ¨ la resa. Fai 4 esempi di applicazione. Crea 5 faq [PROMPT] [VARIABLE1:
+    URL] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

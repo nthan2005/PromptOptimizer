@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9004
+# teaser: Create code to register a Custom Post Type in WordPress called [CPTNAME] RevisionTime:
+# 2023-02-19T15:35:19Z
+- id: 9004-custom-post-type-cpt-generator-for-wordpress-activity-web-de
+  title:
+    "Custom Post Type (CPT) Generator for WordPress Activity: Web Development
+    Topic: SoftwareEngineering-f1858b980c341d28"
+  tags:
+    - uncategorized
+    - custom
+    - post
+    - type
+    - cpt
+    - generator
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Custom Post Type (CPT) Generator for
+    WordPress"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Generate code to create a Custom Post Type. The name of the CPT is [PROMPT].
+    The slug will be in singular. No explanations, only the code. The language is
+    [TARGETLANGUAGE].'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

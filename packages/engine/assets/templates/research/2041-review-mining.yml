@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2041
+# teaser: For review mining- Copy paste reviews [PROMPT]
+- id: 2041-review-mining
+  title: Review mining
+  tags:
+    - research
+    - review
+    - mining
+  family: Research
+  body:
+    Analyze reviews and summarize basis of,Pain points, Features, Benefits, Results
+    Anxiety AND Use cases and Persona ALL output should be in [TARGETLANGUAGE] reviews
+    are [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

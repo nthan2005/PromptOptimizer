@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7757
+# teaser: Create simple meta description RevisionTime: 2023-03-30T21:43:44.98Z
+- id: 7757-meta-description-for-yoast-activity-ideation-topic-seo-84c5d
+  title: "Meta Description for Yoast Activity: ideation Topic: SEO-84c5d6a7b8e9f0c1"
+  tags:
+    - uncategorized
+    - meta
+    - description
+    - yoast
+    - activity
+    - ideation
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Meta Description for Yoast"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Generate a meta description for [PROMPT] within 160 character [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

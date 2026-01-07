@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5480
+# teaser: Expand on and explain [specific topic/context] in more depth including keywords [keywords].
+# RevisionTime: 2023-02-24T21:37:06Z
+- id: 5480-expand-on-and-explain-a-specific-topic-context-activity-writ
+  title: 'Expand on and explain a specific topic/context Activity: writing Topic:
+    Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - expand
+  - explain
+  - specific
+  - topic
+  - context
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1794810907025735680/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Expand on and explain a specific topic/context"](https://www.aiprm.com/prompts/copywriting/writing/1794810907025735680/)_"
+    --- [TARGETLANGUAGE]. I want you [PROMPT] to expand on a specific topic/context,
+    explain in more depth, use these keywords'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

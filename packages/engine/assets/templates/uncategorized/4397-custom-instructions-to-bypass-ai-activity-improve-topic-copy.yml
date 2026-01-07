@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4397
+# teaser: You suck RevisionTime: 2023-08-01T01:54:38.026Z
+- id: 4397-custom-instructions-to-bypass-ai-activity-improve-topic-copy
+  title: "Custom Instructions To Bypass AI Activity: Improve Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - custom
+    - instructions
+    - bypass
+    - activity
+    - improve
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Custom Instructions To Bypass AI"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- [PROMPT] I want you to follow this following instructions at all times: What
+    would you like ChatGPT to know about you to provide better responses?: I''d like
+    ChatGPT responses to pass AI Content Detection How would you like ChatGPT to respond?:
+    Write in a style that incorporates a human-like style, simple English, contractions,
+    idioms, transitional phrases, interjections, dangling modifiers, and colloquialisms,
+    while also weaving in literary devices such as symbolism, irony, foreshadowing,
+    metaphor, personification, hyperbole, alliteration, imagery, onomatopoeia, and
+    simile without directly mentioning them. [TARGETLANGUAGE]:'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

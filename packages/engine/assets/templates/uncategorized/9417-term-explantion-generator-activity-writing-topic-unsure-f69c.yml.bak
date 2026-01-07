@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 9417
+# teaser: gererate bolne ke liye RevisionTime: 2023-03-21T10:10:49.658Z
+- id: 9417-term-explantion-generator-activity-writing-topic-unsure-f69c
+  title: 'term explantion generator Activity: writing Topic: Unsure-f69c57b424376b23'
+  tags:
+  - uncategorized
+  - term
+  - explantion
+  - generator
+  - activity
+  - writing
+  family: Uncategorized
+  body: '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "term explantion generator"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- I will give you one term, you are suppose to answer in 3 steps. Sterp 1 to
+    provide non traditional explanation which shall include a new perspective in point
+    wise form. step02 is to come with mind-boggling fun facts with relevant examples.
+    step 03 is to give me very brief stories in oderly point each point shall create
+    a very very small caviate. My topic in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

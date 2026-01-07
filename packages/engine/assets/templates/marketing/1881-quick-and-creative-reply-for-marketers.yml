@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1881
+# teaser: Get a Creative Reply in Seconds to Boost your Productivity.
+- id: 1881-quick-and-creative-reply-for-marketers
+  title: Quick and Creative Reply for Marketers
+  tags:
+    - marketing
+    - quick
+    - creative
+    - reply
+    - marketers
+  family: marketing
+  body:
+    I just received a message [PROMPT] Can you suggest a creative reply for me?
+    All output shall be in [TARGETLANGUAGE].
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

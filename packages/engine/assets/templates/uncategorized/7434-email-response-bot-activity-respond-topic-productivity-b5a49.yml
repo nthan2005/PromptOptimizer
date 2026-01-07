@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7434
+# teaser: This prompt helps lawyers to quickly respond an emails RevisionTime: 2023-03-03T16:27:58Z
+- id: 7434-email-response-bot-activity-respond-topic-productivity-b5a49
+  title: "Email response bot Activity: Respond Topic: Productivity-b5a49cdd0796137a"
+  tags:
+    - uncategorized
+    - email
+    - response
+    - bot
+    - activity
+    - respond
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Email response bot"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Please I need you the help me answer this email: [PROMPT] I want you to act
+    as a real estate lawyer with more than 8 years of experience who writes fluently
+    [TARGETLANGUAGE]. Use formal "we" language with rich, detailed paragraphs that
+    engage the reader. Write in a formal style as written by a human (use a formal
+    tone, utilize personal pronouns, keep it simple, engage the reader, use the active
+    voice, keep it brief and simple).'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

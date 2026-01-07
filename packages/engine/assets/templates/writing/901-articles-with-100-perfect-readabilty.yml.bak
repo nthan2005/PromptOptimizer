@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 901
+# teaser: Create the best article with perfect readability and optimize through the rank Math. also
+# generate meta tags for articles
+- id: 901-articles-with-100-perfect-readabilty
+  title: Articles with 100% Perfect Readabilty
+  tags:
+  - writing
+  - articles
+  - '100'
+  - perfect
+  - readabilty
+  family: writing
+  body: 'Your task is to generate articles I give you in words. All output shall be
+    in [TARGETLANGUAGE]. The text to articles is this: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

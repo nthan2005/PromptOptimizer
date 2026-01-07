@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6174
+# teaser: The elaboration of a research project indicates to the researcher (or to the institutions to
+# which the project is directed) what are the aspects and questions established in relation to the
+# investigation of a certain theme. RevisionTime: 2023-07-29T21:39:31.366Z
+- id: 6174-create-your-academic-research-project-activity-dall-e-topic
+  title: 'Create your academic research project Activity: Dall-E Topic: Generative-AI-b983edfcaa490850'
+  tags:
+  - uncategorized
+  - academic
+  - research
+  - project
+  - activity
+  - dall
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1819726314182270976/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Create your academic research project"](https://www.aiprm.com/prompts/generative/dalle/1819726314182270976/)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] Eu quero que vocÃª crie um
+    projeto de pesquisa acadÃªmica completo. Escreva um texto corrido contendo os
+    seguintes elementos bÃ¡sicos: 1Âº, 2Âºe 3Âº parÃ¡grafo: apresente o tema dentro
+    de um contexto histÃ³rico. 4Âº parÃ¡grafo: delimitaÃ§Ã£o do tema, apresentando
+    uma questÃ£o norteadora de pesquisa. 5Âº parÃ¡grafo: apresente possÃ­veis respostas
+    para o problema de pesquisa levantado, ou seja, as hipÃ³teses. 6Âº parÃ¡grafo:
+    em poucas palavras, fale sobre o objetivo geral do trabalho e tambÃ©m trÃªs especÃ­ficos.
+    7Âº parÃ¡grafo: apresente a relevÃ¢ncia do trabalho acadÃªmico, identificando
+    a importÃ¢ncia dele para a sociedade ou comunidade cientÃ­fica. Isso Ã© o que
+    chamamos de justificativa. 8Âº parÃ¡grafo: descreva, em poucas palavras qual metodologia
+    serÃ¡ utilizada na pesquisa. O tipo e o carÃ¡ter investigativo, os sujeitos e
+    o lÃ³cus, as aÃ§Ãµes previstas, os instrumentos de coletas a serem utilizados,
+    bem como, a forma como os dados serÃ£o analisados SerÃ¡ uma pesquisa bibliogrÃ¡fica
+    ou de campo? A abordagem Ã© qualitativa ou quantitativa? VocÃª deve especificar
+    o procedimento de forma concisa. [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

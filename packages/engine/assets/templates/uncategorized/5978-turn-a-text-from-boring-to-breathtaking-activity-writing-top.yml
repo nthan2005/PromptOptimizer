@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5978
+# teaser: Rewrite any piece of text to make it flow and sound better RevisionTime:
+# 2023-03-31T00:28:13.543Z
+- id: 5978-turn-a-text-from-boring-to-breathtaking-activity-writing-top
+  title: "Turn A Text From Boring To Breathtaking Activity: writing Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - turn
+    - text
+    - boring
+    - breathtaking
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Turn A Text From Boring To Breathtaking"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Rewrite the following text in a way that flows and sounds better: [PROMPT]
+    Please write in [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

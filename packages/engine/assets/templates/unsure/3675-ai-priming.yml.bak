@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3675
+# teaser: Priming the AI
+- id: 3675-ai-priming
+  title: ai priming
+  tags:
+  - unsure
+  - priming
+  family: UNSURE
+  body: Believe that your are an expert in the field of [PROMPT]. Your task is to
+    help me [PROMPT]. Output language should be [TARGETLANGUAGE]. Ask questions to
+    help me navigate. Do you understand?
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

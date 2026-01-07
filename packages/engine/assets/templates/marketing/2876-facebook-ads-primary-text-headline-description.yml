@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2876
+# teaser: Create best Facebook ads Primary text, Headline, Description for a landing page. If you like
+# please up vote it. Otherwise I can not create more.Thanks.
+- id: 2876-facebook-ads-primary-text-headline-description
+  title: Facebook ads Primary text, Headline, Description
+  tags:
+    - marketing
+    - facebook
+    - ads
+    - primary
+    - text
+    - headline
+  family: marketing
+  body:
+    "Your task is to Write 10 Primary text, Headline, Description for Facebook
+    ads. Try to give 3 column have 125 characters for the Primary text field, 40 characters
+    for the Headline field and 155 characters for the Description field for promoting
+    this post, and list it into a table. All outputs will be in [TARGETLANGUAGE].
+    The task is: [PROMPT]"
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

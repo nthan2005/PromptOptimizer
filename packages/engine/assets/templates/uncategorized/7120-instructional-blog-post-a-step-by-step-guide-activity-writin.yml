@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7120
+# teaser: Dive into the art of blog writing with a twist! Learn how to create a captivating 2000-word
+# instructional blog post Must have voxscript plugins activated RevisionTime: 2023-08-02T13:12:47.662Z
+- id: 7120-instructional-blog-post-a-step-by-step-guide-activity-writin
+  title: "Instructional Blog Post: A Step-by-Step Guide Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - instructional
+    - blog
+    - post
+    - step
+    - activity
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Instructional Blog Post: A Step-by-Step
+    Guide "](https://github.com/nthan2005/PromptOptimizer)_"
+    --- As a professional copyright and expert in the subject [PROMPT] YOUR [GOAL]
+    Write a captivating 2000-word Instructional blog ABOUT [PROMPT] Should be written
+    in [TARGETLANGUAGE] with a confident informed tone in a instructive writing style
+    <Firstly before anything else you must use VoxScript plugin To find keyphrase,
+    secondary keyphrases, relevant data, And two external links to be used in later
+    section.> <Rules> <The content should be in an active voice.> <Use at least 30%
+    of transition words in the full content.> <Make sure you don''t use consecutive
+    sentences.> <All sentences should be less than 20 words long.> <Use headings and
+    subheadings to make content easy to read> <The post will be formatted using Markdown
+    language, with correct use of H1, H2, H3, and H4 tags.> <Will follow The blog
+    Structure Format> <use bullet points or lists to present information in a concise
+    and scannable format> <Primary Keyprase in first paragraph> <Primary Keyphase
+    in at least one subheading> [1:'
+  enabled: true
+  required:
+    - goal
+    - prompt
+    - targetlanguage

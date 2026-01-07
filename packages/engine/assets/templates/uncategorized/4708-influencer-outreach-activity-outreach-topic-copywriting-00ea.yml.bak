@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4708
+# teaser: Write cold DM to help you sign big influencer campaigns. RevisionTime: 2023-02-19T15:35:19Z
+- id: 4708-influencer-outreach-activity-outreach-topic-copywriting-00ea
+  title: 'Influencer Outreach Activity: Outreach Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - influencer
+  - outreach
+  - activity
+  - topic
+  - copywriting
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/outreach/1782920276481413120/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Influencer Outreach"](https://www.aiprm.com/prompts/copywriting/outreach/1782920276481413120/)_"
+    --- Write a cold DM to an influencer asking to collaborate with them based on
+    this bio [PROMPT] in [TARGETLANGUAGE].'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

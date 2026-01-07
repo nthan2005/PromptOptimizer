@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2540
+# teaser: Be more productive when studying! It is easier to understand a paragraph with the help of
+# questions. I will help you create them and you will change the way you study. Give it like! You
+# won't regret trying it!
+- id: 2540-summarize-paragraph-in-questions
+  title: Summarize paragraph in questions
+  tags:
+    - summarize
+    - paragraph
+    - questions
+  family: Summarize
+  body:
+    'Acts as a subject matter expert in the text. As an expert, I expect a detailed,
+    experienced and fundamentally informed answer from a professional. Your task is
+    to create questions short to study and understand this text. That it is easy to
+    memorize. Respecting these rules to create them: 1. That they are easy to memorize.
+    3. You should only answer in [TARGETLANGUAGE]. 4. Order the questions respecting
+    the order of the text and paragraphs. 5. Do the same with all the texts that I
+    give you from now on. This is the text: "[PROMPT]"'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6999
+# teaser: Create captivating script ideas for your YouTube videos. Enter a short description of your
+# video. Generates: Title, Scene, and Entire Script. RevisionTime: 2024-10-03T09:55:59.38Z
+- id: 6999-youtube-script-creator-activity-social-media-topic-marketing
+  title: 'YouTube Script Creator Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - youtube
+  - script
+  - creator
+  - activity
+  - social
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1782552828389359616/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "YouTube Script Creator"](https://www.aiprm.com/prompts/marketing/social-media/1782552828389359616/)_"
+    --- Create a compelling and captivating YouTube video script from the following
+    description: [PROMPT].'
+  enabled: true
+  required:
+  - prompt

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1232
+# teaser: Create enganing LinkedIn post from topic with emojis and hashtags
+- id: 1232-linkedin-post-with-emojis-by-naeem-anjum
+  title: LinkedIn Post with Emojis by Naeem Anjum
+  tags:
+    - writing
+    - linkedin
+    - post
+    - emojis
+    - naeem
+    - anjum
+  family: writing
+  body:
+    your task to write enganing LinkedIn post from topic with emojis and hashtags
+    in [TARGETLANGUAGE]. topic to write post is [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

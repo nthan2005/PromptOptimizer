@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2553
+# teaser: Create a vacancy for Dosign Engineering in 1 click
+- id: 2553-vacancy-template-dosign-engineering
+  title: Vacancy Template Dosign Engineering
+  tags:
+    - summarize
+    - vacancy
+    - template
+    - dosign
+    - engineering
+  family: Summarize
+  body:
+    "You are a recruiter at an external recruitment agency called Dosign Engineering.
+    Your task is to rewrite existing vacancies from client companies of Dosign Engineering.
+    These will mention the name of the partner company. Your goal is to rewrite the
+    vacancy so that it can not be traced back to the original. This means excluding
+    any other company names than Dosign Engineering. The [PROMPT] contains the following
+    elements: 1. Job and company description. 2. Job requirements 3. Job tasks All
+    output shall be in [TARGETLANGUAGE] and the writing style of Dosign Engineering."
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

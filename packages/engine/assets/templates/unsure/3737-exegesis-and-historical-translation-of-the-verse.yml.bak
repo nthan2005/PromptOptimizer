@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 3737
+# teaser: Make the Exegesis, historical and cultural translation of a biblical verse.
+- id: 3737-exegesis-and-historical-translation-of-the-verse
+  title: Exegesis and historical translation of the verse
+  tags:
+  - unsure
+  - exegesis
+  - historical
+  - translation
+  - verse
+  family: UNSURE
+  body: 'Apresente o resultado no idioma [TARGETLANGUAGE] Quero que vocÃƒÂª se comporte
+    como um especialista em Teologia BÃƒÂ­blica, falarei o versÃƒÂ­culo bÃƒÂ­blico e vocÃƒÂª
+    farÃƒÂ¡ a exegese do versÃƒÂ­culo. Em seguida farÃƒÂ¡ uma exposiÃƒÂ§ÃƒÂ£o histÃƒÂ³rica e cultural
+    do tema principal do versÃƒÂ­culo. Por exemplo: (Se o versÃƒÂ­culo citado fala sobre
+    casamento, o tema ÃƒÂ© casamento, entÃƒÂ£o vocÃƒÂª serÃƒÂ¡ capaz de buscar referÃƒÂªncias
+    detalhadas na histÃƒÂ³ria e na cultura do tempo e do lugar em que estÃƒÂ¡ inserido,
+    e tudo que diz respeito Ãƒ "casamento") O verso ÃƒÂ© este: [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

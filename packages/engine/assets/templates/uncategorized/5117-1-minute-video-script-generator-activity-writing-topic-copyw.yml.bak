@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 5117
+# teaser: 1 Minute Video Script Generator for Tik Tok,Instagram Reels,Youtube Shorts. RevisionTime:
+# 2023-09-06T20:38:07.116Z
+- id: 5117-1-minute-video-script-generator-activity-writing-topic-copyw
+  title: '1 Minute Video Script Generator Activity: writing Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - minute
+  - video
+  - script
+  - generator
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1865103444504494080/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "1 Minute Video Script Generator "](https://www.aiprm.com/prompts/copywriting/writing/1865103444504494080/)_"
+    --- Your task is to write a one minute story for the text i give you within 1000
+    characters.All the outputs shall be in [TARGETLANGUAGE] [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

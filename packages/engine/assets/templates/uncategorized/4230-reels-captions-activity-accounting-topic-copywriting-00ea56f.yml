@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4230
+# teaser: Very Specific Reels captions RevisionTime: 2023-05-03T18:27:05.405Z
+- id: 4230-reels-captions-activity-accounting-topic-copywriting-00ea56f
+  title: "Reels captions Activity: Accounting Topic: Copywriting-00ea56f446414284"
+  tags:
+    - uncategorized
+    - reels
+    - captions
+    - activity
+    - accounting
+    - topic
+  family: Uncategorized
+  body:
+    '# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [PromptOptimizer Prompt "Reels captions"](https://github.com/nthan2005/PromptOptimizer)_"
+    --- Haz un texto en [TARGETLANGUAGE] que consiste en un resumen de la transcripciÃƒÂ³n
+    del video, junto con una pequeÃƒÂ±a reflexion. Debe ser un texto breve, hablando
+    en femenino de maximo 2 parrafos. Relacionalo con el ejercicio y la importancia
+    del mismo para la salud. El texto esta dirigido a mujeres y debe tener dos parrafos.
+    La que habla en la siguiente transcripciÃƒÂ³n es [VARIABLE1] Recuerda empezar diciendo
+    algo similar a "En el video, [VARIABLE1], nos cuenta". Ahora hazlo con la siguiente
+    transcripcion: [PROMPT] [VARIABLE1:Nombre de la Ponente]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage
+    - variable1

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6936
+# teaser: Write a minute-long script for an advertisement about [product or service or company]
+# RevisionTime: 2024-10-03T09:54:10.031Z
+- id: 6936-social-media-marketing-promotion-activity-social-media-topic
+  title: 'Social Media Marketing Promotion Activity: Social Media Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - social
+  - media
+  - marketing
+  - promotion
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1852545471739580416/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Social Media Marketing Promotion"](https://www.aiprm.com/prompts/marketing/social-media/1852545471739580416/)_"
+    --- [TARGETLANGUAGE] English, [PROMPT] Write a minute-long script for an advertisement
+    about [product or service or company]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

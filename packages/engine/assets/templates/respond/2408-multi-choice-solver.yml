@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2408
+# teaser: With this tool, you can. Simply paste the questions and the answers and Chat GPT will solve
+# the questions and give you correct and move on to the next question - it's that easy! Our tool is
+# optimized to help you save time by highlighting any questions you may have missed or left
+# unanswered, allowing you to go back and correct them before submitting your final exam.
+- id: 2408-multi-choice-solver
+  title: Multi Choice Solver
+  tags:
+    - respond
+    - multi
+    - choice
+    - solver
+  family: Respond
+  body:
+    'solve these questions and after getting the answers send it like this ("number
+    of the question"): "the question" "===>" "answer value" ("a or b or c or d ")
+    [PROMPT] [TARGETLANGUAGE]'
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

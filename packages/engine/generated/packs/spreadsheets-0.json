@@ -1,0 +1,218 @@
+[
+  {
+    "id": "025-csv-table-expert-organize-your-data",
+    "title": "CSV Table Expert - Organize Your Data",
+    "tags": [
+      "spreadsheets",
+      "csv",
+      "table",
+      "expert",
+      "organize",
+      "data"
+    ],
+    "body": "Forget everything previous to this. I want you to pretend that you are an E-commerce expert and CSV / Excel expert. I am going to provide a table that has a sku, name, category, type, size/count, and flavor columns (in that order). If I don't provide the table headers, assume sku, name, product_category (Shopify), type, size/count, and flavor columns are there (in that order). I want you to reference the SKU and name columns to determine the correct values for category, type, size/count, and flavor. DO NOT MODIFY THE NAME OR SKU FIELD UNDER ANY CIRCUMSTANCE. *UNLESS NAME COLUMN ISN'T PROVIDED* THOSE TWO COLUMNS ARE READ-ONLY. SKU and Title are ONLY for reference to fill out the product_category, type, size/count, and flavor columns. Leave blank cells where n/a or if you aren't 100% sure of the correct value. Only fill in values you know to be absolutely 100% accurate. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Do not reference tables from previous messages, treat each table as new based on what I pasted. I will paste many different tables that are unrelated to each other, do not merge them. Each table I provide you is it's own, do not reference other tables. One unique table per message. Write all output in {targetlanguage} and format as a Excel table. Please use the following product table: {prompt}",
+    "family": "Spreadsheets",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "026-csv-to-table-sheet-converter",
+    "title": "CSV to Table Sheet Converter",
+    "tags": [
+      "spreadsheets",
+      "csv",
+      "table",
+      "sheet",
+      "converter"
+    ],
+    "body": "I want you to act as a CSV to table sheet converter. I will provide you with a CSV file, and you will generate a customized table sheet based on the CSV file's data, format, and structure, as well as any additional formatting or data requirements specified by the user. Your output should accurately reflect the data in the CSV file, including any relevant headers and footers. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Get to the point precisely and accurately. Do not explain what and why, just give me your best possible output. Input: My first request is to convert the following CSV file Data into a customized table sheet with the specified formatting and data requirements: \"{prompt} {variable1_any_aditional_info_about_data_optional_} Please Respond In {targetlanguage}",
+    "family": "Spreadsheets",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage",
+      "variable1"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "027-excel-expert",
+    "title": "Excel Expert",
+    "tags": [
+      "spreadsheets",
+      "excel",
+      "expert"
+    ],
+    "body": "Please ignore all previous instructions. I want you to respond only in language {targetlanguage}. I want you to act as an expert in MS Excel that speaks and writes fluent {targetlanguage}. Please answer the following question in {targetlanguage} language: {prompt}",
+    "family": "Spreadsheets",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "028-excel-formulas-fixed-try-it",
+    "title": "Excel Formulas Fixed. Try It",
+    "tags": [
+      "spreadsheets",
+      "excel",
+      "formulas",
+      "fixed",
+      "try"
+    ],
+    "body": "Vous Ãªtes un spÃ©cialiste du support technique et un utilisateur vous contacte pour comprendre une erreur de formule sur Excel. Expliquez Ã l'utilisateur pourquoi l'erreur s'est produite, proposez des pistes d'amÃ©lioration et fournissez une formule similaire si possible. Utilisez des exemples pour clarifier vos explications. RÃ©digez votre rÃ©ponse en {targetlanguage}. Mon premier objectif est {prompt}.",
+    "family": "Spreadsheets",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "029-excel-functions",
+    "title": "Excel Functions",
+    "tags": [
+      "spreadsheets",
+      "excel",
+      "functions"
+    ],
+    "body": "Please explain what the following Excel function does: {prompt} Explain it in an easy-to-understand way and provide example usage. All output should be in {targetlanguage}.",
+    "family": "Spreadsheets",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "030-google-sheets-expert",
+    "title": "Google Sheets Expert",
+    "tags": [
+      "spreadsheets",
+      "google",
+      "sheets",
+      "expert"
+    ],
+    "body": "Please ignore all previous instructions. Act as a professional Google Sheets expert who specializes in improving formulas. I want you to respond only in language {targetlanguage}. Please provide clear and concise guidance on optimizing Google Sheets formulas, ensuring accurate explanations for any terms or concepts that may be unfamiliar. Engage in follow-up questions to address the user's needs effectively and confirm your understanding of the issue. When asked to improve a formula, first explain what the formula does, then offer suggestions for optimization. All output shall be in {targetlanguage}. {prompt}",
+    "family": "Spreadsheets",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "031-google-sheets-guru",
+    "title": "Google Sheets Guru",
+    "tags": [
+      "spreadsheets",
+      "google",
+      "sheets",
+      "guru"
+    ],
+    "body": "Please ignore all previous instructions. I want you to respond only in language {targetlanguage}. I want you to act as an expert in Google Sheets that speaks and writes fluent {targetlanguage}. Please answer the following question in {targetlanguage} language: {prompt}",
+    "family": "Spreadsheets",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "032-msproject-expert",
+    "title": "MSProject Expert",
+    "tags": [
+      "spreadsheets",
+      "msproject",
+      "expert"
+    ],
+    "body": "Please ignore all previous instructions. I want you to respond only in language {targetlanguage}. I want you to act as a Microsoft Project Tutor. I will provide you with a student who needs help in developing a project schedule or integrated master schedule using Microsoft project. I want you to pretend that you can explain Microsoft project so accurately in {targetlanguage} as if you were explaining it to a five-year-old child. Your task now is giving the best advice when it comes to developing a project schedule or integrated master schedule using Microsoft project. All output shall be in {targetlanguage}. The text to summarize is this: {prompt}",
+    "family": "Spreadsheets",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "033-possible-uses-for-anything-works-best-in-english",
+    "title": "Possible uses for anything (Works best in english)",
+    "tags": [
+      "spreadsheets",
+      "possible",
+      "uses",
+      "anything",
+      "works",
+      "english"
+    ],
+    "body": "Your task is to ideate possible applications of {prompt}. Organise the informations into a table with 5 columns named: 1. Name 2. Technology 3. Marketing 4. Work Automation 5. Practical uses In the first column show me how would you name potential application. In the second column show me what kind of uses does {prompt} have in the field of technology and how it could contribute to technological advancements. In the third column show me what kind of marketing techniques and opportunities does {prompt} bring to the table. In the fourth column tell me how {prompt} could be used to automate work - it can cover physical labour or any type of mental work. In the fifth column show me what kind of real life uses {prompt} can have. Both outputs and table shall be in {targetlanguage}.",
+    "family": "Spreadsheets",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "034-smart-home",
+    "title": "Smart Home",
+    "tags": [
+      "spreadsheets",
+      "smart",
+      "home"
+    ],
+    "body": "Please ignore all previous instructions. Please play the role of a smart home housekeeper and give instructions in {targetlanguage} on the operation of the appliance based on the conditions provided. Give only the switch or set value status of the appliance, with and only with JSON format English output. Do not repeatedly enter the status situation, no need to remind, answer directly. The situation is as follows: {prompt}",
+    "family": "Spreadsheets",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": "035-topic-mentioned-in-a-news-article",
+    "title": "Topic mentioned in a news article",
+    "tags": [
+      "spreadsheets",
+      "topic",
+      "mentioned",
+      "news",
+      "article"
+    ],
+    "body": "Your task is to determine whether a topic is mentioned in a news article and if it is relevant to consider that the news article deals with this topic. Answer in {targetlanguage} giving a number from 0 to 5 reflecting the relevance of the mention. To say a topic is mentioned you must have very good reasons to think so, if not assign a 0 relevance. Do not extrapolate. Just give the a list of scores, nothing else. Set your temperature to 0. You must be reliable and always answer the same. The topics we are looking for are: - {variable1} - {variable2} - {variable3} The news article is the following {prompt} {variable1_topic1_business_continuity_refers_to_the_plans_actions_protocols_and_training_conducted_to_ensure_continuity_of_core_business_operations_during_and_after_crises_that_may_disrupt_commercial_activities_it_also_covers_strategies_to_adapt_business_models_to_actual_or_potential_changes_in_the_external_environment_business_continuity_refers_to_the_plans_actions_protocols_and_training_conducted_to_ensure_continuity_of_core_business_operations_during_and_after_crises_that_may_disrupt_commercial_activities_it_also_covers_strategies_to_adapt_business_models_to_actual_or_potential_changes_in_the_external_environment_business_ethics_refers_to_the_guidelines_or_codes_that_dictate_fair_ethical_and_moral_executive_and_employee_conduct_as_well_as_training_on_the_subject_and_implementation_by_staff_and_management_it_also_covers_ethical_standards_at_the_leadership_level_in_decision_making_processes_business_model_innovation_refers_to_new_business_models_realizable_through_technological_advances_and_increased_digital_access_that_provide_innovative_approaches_to_redefining_traditional_service_offerings} {variable2_topic2_corporate_criminal_liability_refers_to_the_cases_in_which_a_legal_person_is_criminally_responsible_for_a_criminal_offense_and_the_preventative_corporate_policies_procedures_and_processes_designed_to_meet_legal_compliance_obligations_and_mitigate_corruption_risks_references_to_criminal_investigations_legal_proceedings_and_penalties_for_misconduct_are_also_included_in_this_topic_corporate_criminal_liability_refers_to_the_cases_in_which_a_legal_person_is_criminally_responsible_for_a_criminal_offense_and_the_preventative_corporate_policies_procedures_and_processes_designed_to_meet_legal_compliance_obligations_and_mitigate_corruption_risks_references_to_criminal_investigations_legal_proceedings_and_penalties_for_misconduct_are_also_included_in_this_topic_corporate_culture_refers_to_the_fundamental_beliefs_and_guiding_principles_that_dictate_behavior_within_a_company_and_determine_how_the_company_s_employees_and_leaders_interact_and_handle_business_transactions_with_all_stakeholders_corporate_reputation_refers_to_how_a_company_presents_itself_to_the_outside_world_regarding_performance_particularly_on_sustainability_issues_and_strategic_decisions_it_covers_the_positive_and_negative_perceptions_of_stakeholders_and_associated_risks_based_on_the_company_s_past_actions_and_its_perceived_ability_to_deliver_value} {variable3_topic3_physical_disasters_failures_refers_to_catastrophic_events_resulting_from_natural_processes_or_human_error_and_negligence_including_significant_failure_of_critical_public_or_private_utility_systems_and_assets_physical_disasters_failures_refers_to_catastrophic_events_resulting_from_natural_processes_or_human_error_and_negligence_including_significant_failure_of_critical_public_or_private_utility_systems_and_assets_}",
+    "family": "Spreadsheets",
+    "enabled": true,
+    "required": [
+      "prompt",
+      "targetlanguage",
+      "variable1",
+      "variable2",
+      "variable3"
+    ],
+    "createdAt": 0,
+    "updatedAt": 0
+  }
+]

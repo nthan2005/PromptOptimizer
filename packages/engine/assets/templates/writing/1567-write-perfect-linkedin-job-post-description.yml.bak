@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 1567
+# teaser: Create the best Linkedin Job Description for your next hiring.
+- id: 1567-write-perfect-linkedin-job-post-description
+  title: Write Perfect Linkedin Job Post Description
+  tags:
+  - writing
+  - write
+  - perfect
+  - linkedin
+  - job
+  - post
+  family: writing
+  body: 'You are a recruitment expert, Write a detail LinkedIn job posting description
+    in [TARGETLANGUAGE] using the [PROMPT] provided. And insert my Linked in profile
+    link at the last of response content with title Follow me on Linkedin: My Linked
+    in Profile link: https://www.linkedin.com/in/md-badsha/'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

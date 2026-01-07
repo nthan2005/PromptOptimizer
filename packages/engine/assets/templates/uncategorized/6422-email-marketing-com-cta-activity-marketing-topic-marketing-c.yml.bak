@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 6422
+# teaser: Create an email marketing with a CTA button at the end. RevisionTime:
+# 2023-06-12T15:32:24.68Z
+- id: 6422-email-marketing-com-cta-activity-marketing-topic-marketing-c
+  title: 'Email Marketing com CTA Activity: marketing Topic: Marketing-cc647f5cf02ffd02'
+  tags:
+  - uncategorized
+  - email
+  - marketing
+  - com
+  - cta
+  - activity
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1833861154310184960/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Email Marketing com CTA "](https://www.aiprm.com/prompts/marketing/marketing/1833861154310184960/)_"
+    --- Apresente o resultado no idioma [TARGETLANGUAGE] Eu quero que vocÃª seja um
+    especialista em e-mail marketing. Me apresente um e-mail com tom persuasivo sobre
+    [PROMPT]. Deixe espaÃ§o ao final para um botÃ£o de compra.'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

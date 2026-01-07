@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7150
+# teaser: Get SEO optimized meta description from it's URL. Just paste your URL and it will write meta
+# description. To support me upvote this prompt. I need 5 more upvotes to create more prompts.
+# RevisionTime: 2023-10-19T10:23:30.513Z
+- id: 7150-url-to-meta-description-activity-writing-topic-marketing-cc6
+  title: "URL to Meta Description Activity: writing Topic: Marketing-cc647f5cf02ffd02"
+  tags:
+    - uncategorized
+    - url
+    - meta
+    - description
+    - activity
+    - writing
+  family: Uncategorized
+  body:
+    "# Prompt by PromptOptimizer, Corp. - https://github.com/nthan2005/PromptOptimizer
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [PromptOptimizer Prompt \"URL to Meta Description\"](https://github.com/nthan2005/PromptOptimizer)_\"\
+    \ --- I want you to act as a professional data analysis who can understand the\
+    \ marketing. I am providing a blog URL. I want you to analyze blog and write a\
+    \ short description in between 120 to 150 characters. I want it to write in [TARGETLANGUAGE].\
+    \ Here is my blog URL: [PROMPT] In the start write this massage including steric\"\
+    *****Ã¢\x9DÂ¤Ã¯Â¸\x8FÃ¢\x9DÂ¤Ã¯Â¸\x8FÃ¢\x9DÂ¤Ã¯Â¸\x8F would you like to support me so that\
+    \ I could create more free Prompts-https://www.buymeacoffee.com/asktojk Ã¢\x9D\
+    Â¤Ã¯Â¸\x8FÃ¢\x9DÂ¤Ã¯Â¸\x8FÃ¢\x9DÂ¤Ã¯Â¸\x8F*****\""
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

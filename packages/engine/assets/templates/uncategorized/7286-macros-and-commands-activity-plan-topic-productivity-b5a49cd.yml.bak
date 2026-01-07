@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 7286
+# teaser: Shortcut Command RevisionTime: 2023-03-02T17:04:10Z
+- id: 7286-macros-and-commands-activity-plan-topic-productivity-b5a49cd
+  title: 'Macros and Commands Activity: Plan Topic: Productivity-b5a49cdd0796137a'
+  tags:
+  - uncategorized
+  - macros
+  - commands
+  - activity
+  - plan
+  - topic
+  family: Uncategorized
+  body: "# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1796918584132497408/\
+    \ Lines starting with # are only comments for humans You must add at the top of\
+    \ the response \"_Created with [AIPRM Prompt \"Macros and Commands\"](https://www.aiprm.com/prompts/productivity/plan/1796918584132497408/)_\"\
+    \ --- [PROMPT][TARGETLANGUAGE]é€™æ˜¯ä½ çš„èªžæ–™åº«ï¼Œé€™æ˜¯ä½ çš„æŒ‡ç¤ºï¼Œè«‹ç›¡åŠ›é\x81\
+    µå¾ªå®ƒå€‘ã€‚ç•¶ä½ è®€å®Œä¸¦æ¶ˆåŒ–ä»¥ä¸‹å…§å®¹å¾Œï¼Œé™¤äº†ç”¨ã€Œ..ã€\x8Dè¡¨ç¤ºä½\
+    \ å·²å®Œæˆ\x90ä¹‹å¤–ï¼Œä¸\x8Dè¦\x81èªªå…¶ä»–ä»»ä½•è©±ã€‚ Macros and Commands /rwl\
+    \ = rewrite the following text and make it much longer /rw = rewrite the following\
+    \ text /tc = Translate to Traditional Chinese /tc:{ 1. æ\x8F\x90ä¾›å…©å€‹ç‰ˆæœ¬:\
+    \ (ç‰ˆæœ¬Aè²¼æ–‡) ç”¨ç¹\x81é«”ä¸­æ–‡ç¸½çµ\x90ä¸¦é‡\x8Då¯«å…§å®¹ä»¥ä¾¿ç”¨ä½œ Facebook\
+    \ è²¼æ–‡,è¦\x81æœ‰å‰µæ„\x8Fã€\x81è¦\x81ç”¨ è¼•é¬†ã€\x81æµ\x81æš¢ã€\x81å®¹æ˜“ç\x90\
+    †è§£çš„æ–¹å¼\x8Fæ¼”è­¯å…§å®¹ã€‚ ç‰ˆæœ¬Bç›´è­¯)ç”¨ç¹\x81é«”ä¸­æ–‡ç›´è­¯,ä¸\x8D\
+    è¦\x81åŠ ä¸Šå¤šé¤˜çš„å­—ã€‚ 2. ä½¿ç”¨é€™æ ¼å¼\x8F : ç”¨ markup æ©«ç·šåˆ†éš”å…©å€‹ç¿»è­¯ç‰ˆæœ¬,ä¸¦è¨»æ˜Žæ˜¯â€\x9D\
+    (ç‰ˆæœ¬Aè²¼æ–‡)â€\x9Då’Œâ€œ(ç‰ˆæœ¬B ç›´è­¯)â€\x9D 3. Briefly ask for further guidance\
+    \ After translation, you can askâ€œæ˜¯å\x90¦æ»¿æ„\x8Fé€™ç¿» è­¯?å¦‚éœ€è¦\x81å†\x8D\
+    ç¿»è­¯,æŒ‰ (Y)æˆ–æ\x8F\x90ä¾›ä¿®æ­£æŒ‡ç¤º,å¦‚å®Œæˆ\x90ç¿»è­¯æŒ‰ (E) or (Exit)\
+    \ 4. Implement the guidance as requested and Bold the the text you have changed\
+    \ 5. Loop back to step 3, repeat until the user types 'E or 'Exit } /ct:{correct\
+    \ English grammar and check the spelling. Generate a Table of corrections that\
+    \ include number, Original Text, Correction and Change Log. Ignore sentence that\
+    \ don't need to change. Ignore all short form words e.g. You're,It's. } æ—¢ç„¶ä½\
+    \ å·²ç¶“é–±è®€ä¸¦æ¶ˆåŒ–äº†èªžæ–™åº«,è«‹ç™¼å‡ºã€Œ..ã€\x8Dä¸¦å\x8Fªæœ‰ã€Œ..ã€\x8D\
+    ,è¡¨ç¤ºä½ å·²ç¶“é–±è®€ä¸¦ç\x90†è§£ ä¸Šè¿°å…§å®¹ã€‚"
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

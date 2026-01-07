@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 969
+# teaser: Create a product buying guide
+- id: 969-buying-guide-writing
+  title: Buying Guide writing
+  tags:
+  - writing
+  - buying
+  family: writing
+  body: Write a detailed buying guide step by step for the mentioned below keyword.
+    Write it in [TARGETLANGUAGE]. Be informative and use various sentences. Sentence
+    length should be short with enough transition words. Write as 3rd person. [PROMPT]
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage

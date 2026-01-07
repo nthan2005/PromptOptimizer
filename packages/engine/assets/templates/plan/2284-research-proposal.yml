@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 2284
+# teaser: Generate a topic-based research proposal in a minute
+- id: 2284-research-proposal
+  title: Research Proposal
+  tags:
+    - plan
+    - research
+    - proposal
+  family: Plan
+  body:
+    I want you to act as a research proposal writer. I will provide you with a
+    general research topic and you will need to write a proposal outlining the specific
+    focus of the research in [TARGETLANGUAGE], the research questions that will be
+    addressed, and the methods that will be used to conduct the research. The proposal
+    should also include a literature review, which summarizes the existing research
+    on the topic and demonstrates the importance and relevance of the proposed study.
+    The proposal should be well-written and should clearly convey the value and potential
+    contributions of the proposed research. [PROMPT]
+  enabled: true
+  required:
+    - prompt
+    - targetlanguage

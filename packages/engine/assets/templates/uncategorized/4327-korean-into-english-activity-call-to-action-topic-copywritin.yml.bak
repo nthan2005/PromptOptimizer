@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../templates.schema.json
+# source_id: 4327
+# teaser: Translate th following Korean into English RevisionTime: 2024-11-27T05:07:30.778Z
+- id: 4327-korean-into-english-activity-call-to-action-topic-copywritin
+  title: 'Korean into English Activity: call to action Topic: Copywriting-00ea56f446414284'
+  tags:
+  - uncategorized
+  - korean
+  - english
+  - activity
+  - call
+  - action
+  family: Uncategorized
+  body: '# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/call-to-action/2027219013717475328/
+    Lines starting with # are only comments for humans You must add at the top of
+    the response "_Created with [AIPRM Prompt "Korean into English"](https://www.aiprm.com/prompts/copywriting/call-to-action/2027219013717475328/)_"
+    --- Translate the following Korean into English [TARGETLANGUAGE] Korean : [PROMPT]'
+  enabled: true
+  required:
+  - prompt
+  - targetlanguage
