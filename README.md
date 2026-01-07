@@ -26,6 +26,15 @@ GITHUB: https://github.com/nthan2005/PromptOptimizer
 - Node 20+, pnpm 9+, Chrome/Edge with Developer Mode enabled.
 
 ## Install & build
+
+### Quick test (recommended)
+Download the **dist** ZIP, unzip it, then load it as an unpacked extension in Chrome:
+1. Go to `chrome://extensions`
+2. Enable **Developer mode**
+3. Click **Load unpacked**
+4. Select the unzipped `dist/` folder
+
+### Build from source
 ```bash
 pnpm install
 # Build extension (runs sync-engine-assets, tsc, Vite/CRX bundle)
