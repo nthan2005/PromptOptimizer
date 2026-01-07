@@ -28,11 +28,7 @@ GITHUB: https://github.com/nthan2005/PromptOptimizer
 ## Install & build
 
 ### Quick test (recommended)
-Download the **dist** ZIP, unzip it, then load it as an unpacked extension in Chrome:
-1. Go to `chrome://extensions`
-2. Enable **Developer mode**
-3. Click **Load unpacked**
-4. Select the unzipped `dist/` folder
+Download the latest **prebuilt extension ZIP** (`PromptOptimizer-extension-v1.0.0.zip`) from the GitHub Releases page, unzip it, then load it as an unpacked extension in Chrome.
 
 ### Build from source
 ```bash
